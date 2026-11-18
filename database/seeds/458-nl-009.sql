@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The gem cannot be polished without friction, nor man perfected without trials.', 'nl',
      'Een edelsteen kan niet gepolijst worden zonder wrijving, en een mens niet vervolmaakt zonder beproevingen.'),
     ('Smooth seas do not make skillful sailors.', 'nl',
-     'Een kalme zee maakt geen goede zeeman.');
+     'Een kalme zee maakt geen goede zeeman.'),
+    ('My scars remind me that I did indeed survive my deepest wounds.', 'nl',
+     'Mijn littekens herinneren me eraan dat ik mijn diepste wonden echt heb overleefd.');
