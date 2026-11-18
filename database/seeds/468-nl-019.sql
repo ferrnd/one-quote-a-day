@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If we did all the things we are capable of, we would literally astound ourselves.', 'nl',
      'Als we alle dingen deden waartoe we in staat zijn, zouden we onszelf letterlijk verbazen.'),
     ('The best time to plant a tree was 20 years ago. The second best time is now.', 'nl',
-     'De beste tijd om een boom te planten was twintig jaar geleden. De op een na beste tijd is nu.');
+     'De beste tijd om een boom te planten was twintig jaar geleden. De op een na beste tijd is nu.'),
+    ('Do what you can, with what you have, where you are.', 'nl',
+     'Doe wat je kunt, met wat je hebt, waar je bent.');
