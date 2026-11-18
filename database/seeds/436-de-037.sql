@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are irritated by every rub, how will your mirror be polished?', 'de',
      'Wenn dich jede Reibung reizt, wie soll dein Spiegel dann jemals poliert werden?'),
     ('These pains you feel are messengers. Listen to them.', 'de',
-     'Die Schmerzen, die du fühlst, sind Boten. Hör auf sie.');
+     'Die Schmerzen, die du fühlst, sind Boten. Hör auf sie.'),
+    ('Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.', 'de',
+     'Freiheit ist das einzige würdige Ziel im Leben. Man gewinnt sie, indem man sich nicht um die Dinge kümmert, die außerhalb unserer Macht liegen.');
