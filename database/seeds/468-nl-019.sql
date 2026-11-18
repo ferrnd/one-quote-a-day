@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best time to plant a tree was 20 years ago. The second best time is now.', 'nl',
      'De beste tijd om een boom te planten was twintig jaar geleden. De op een na beste tijd is nu.'),
     ('Do what you can, with what you have, where you are.', 'nl',
-     'Doe wat je kunt, met wat je hebt, waar je bent.');
+     'Doe wat je kunt, met wat je hebt, waar je bent.'),
+    ('A year from now you may wish you had started today.', 'nl',
+     'Over een jaar wens je misschien dat je vandaag was begonnen.');
