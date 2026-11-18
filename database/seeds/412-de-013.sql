@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Think of all the beauty still left around you and be happy.', 'de',
      'Denk an all das Schöne, das noch um dich herum ist, und sei glücklich.'),
     ('It is often in the darkest skies that we see the brightest stars.', 'de',
-     'Oft sehen wir gerade am dunkelsten Himmel die hellsten Sterne.');
+     'Oft sehen wir gerade am dunkelsten Himmel die hellsten Sterne.'),
+    ('Strength and growth come only through continuous effort and struggle.', 'de',
+     'Stärke und Wachstum entstehen nur durch beständige Anstrengung und Kampf.');
