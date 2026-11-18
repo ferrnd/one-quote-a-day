@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dreams are illustrations from the book your soul is writing about you.', 'nl',
      'Dromen zijn illustraties uit het boek dat je ziel over je schrijft.'),
     ('Dream no small dreams for they have no power to move the hearts of men.', 'nl',
-     'Droom geen kleine dromen, want ze hebben niet de kracht om de harten van mensen te raken.');
+     'Droom geen kleine dromen, want ze hebben niet de kracht om de harten van mensen te raken.'),
+    ('A man is not old until regrets take the place of dreams.', 'nl',
+     'Een mens is pas oud als spijt de plaats van dromen inneemt.');
