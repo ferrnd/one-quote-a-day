@@ -37,6 +37,11 @@ class Catalog:
     dedications: list[Dedication] = field(default_factory=list)
     launch_day: str = "2026-11-16"
     legacy_quotes: int = 0
+    # locales[0] is the source language; translations[code][i] is quote i in code
+    locales: list[tuple[str, str]] = field(default_factory=lambda: [("en", "English")])
+    translations: dict[str, list[str]] = field(default_factory=dict)
+    author_names: dict[str, list[str]] = field(default_factory=dict)
+    dedication_texts: dict[str, list[tuple[str, str | None]]] = field(default_factory=dict)
 
     def __len__(self) -> int:
         return len(self.quotes)
@@ -85,6 +90,11 @@ def verify(conn: sqlite3.Connection) -> None:
         raise DatabaseError("the calendar row is missing")
     if calendar[0] > count:
         raise DatabaseError(f"legacy_quotes ({calendar[0]}) exceeds the number of quotes ({count})")
+    partial = [f"{code} ({done}/{count})" for code, done in conn.execute(
+        "SELECT locale, translated FROM translation_stats "
+        "WHERE locale <> 'en' AND translated NOT IN (0, ?)", (count,))]
+    if partial:
+        raise DatabaseError(f"incomplete translations: {', '.join(partial)}")
     (gaps,) = conn.execute("SELECT max(id) - count(*) FROM quotes").fetchone()
     if gaps:
         raise DatabaseError("quote ids are not contiguous")
@@ -101,8 +111,25 @@ def read_catalog(conn: sqlite3.Connection) -> Catalog:
         raise DatabaseError("catalog ids are not 1..N")
     launch_day, legacy = conn.execute(
         "SELECT launch_day, legacy_quotes FROM calendar WHERE id = 1").fetchone()
+    locales = [tuple(r) for r in conn.execute("SELECT code, name FROM locales ORDER BY position")]
+    if not locales or locales[0][0] != "en":
+        locales = [("en", "English")] + [l for l in locales if l[0] != "en"]
+    translations, author_names, dedication_texts = {}, {}, {}
+    for code, _name in locales[1:]:
+        found = dict(conn.execute(
+            "SELECT quote_id, body FROM quote_translations WHERE locale = ?", (code,)))
+        translations[code] = [found.get(q.id, q.body) for q in quotes]
+        names = dict(conn.execute(
+            "SELECT author_id, name FROM author_translations WHERE locale = ?", (code,)))
+        author_names[code] = [names.get(i + 1, name) for i, name in enumerate(authors)]
+        rows = {day: (body, author) for day, body, author in conn.execute(
+            "SELECT d.day, t.body, t.author FROM dedication_translations t "
+            "JOIN dedications d ON d.id = t.dedication_id WHERE t.locale = ?", (code,))}
+        dedication_texts[code] = [rows.get(d.day, (d.body, d.author)) for d in dedications]
     return Catalog(quotes=quotes, authors=authors, themes=themes, dedications=dedications,
-                   launch_day=launch_day, legacy_quotes=legacy)
+                   launch_day=launch_day, legacy_quotes=legacy, locales=locales,
+                   translations=translations, author_names=author_names,
+                   dedication_texts=dedication_texts)
 
 
 def calendar_of(catalog: Catalog):
