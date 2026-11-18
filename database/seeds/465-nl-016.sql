@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When there is no enemy within, the enemies outside cannot hurt you.', 'nl',
      'Als er binnen geen vijand is, kunnen de vijanden buiten je geen kwaad doen.'),
     ('Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.', 'nl',
-     'Onze diepste angst is niet dat we tekortschieten. Onze diepste angst is dat we onmetelijk krachtig zijn.');
+     'Onze diepste angst is niet dat we tekortschieten. Onze diepste angst is dat we onmetelijk krachtig zijn.'),
+    ('Trust thyself: every heart vibrates to that iron string.', 'nl',
+     'Vertrouw op jezelf: elk hart trilt mee met die ijzeren snaar.');
