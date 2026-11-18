@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; worker-src 'self'; base-uri 'none'; form-action 'none'">
   <meta name="referrer" content="no-referrer">
   <meta name="description" content="One quote about overcoming, every day. It changes at midnight.">
-  <meta name="color-scheme" content="only light">
+  <meta name="color-scheme" content="light dark">
   <meta name="theme-color" content="#ffffff">
   <meta property="og:title" content="Quotes">
   <meta property="og:description" content="One quote about overcoming, every day. It changes at midnight.">
@@ -32,7 +32,11 @@
       </figure>
     </noscript>
   </main>
-  <button class="day-counter" id="day-counter" type="button" hidden aria-haspopup="dialog" aria-controls="archive"></button>
+  <button class="day-counter" id="day-counter" type="button" hidden aria-haspopup="dialog" aria-controls="archive">
+    <span class="day-label" id="day-label"></span>
+    <span class="day-next" id="day-next" aria-hidden="true"></span>
+  </button>
+  <p class="toast" id="toast" role="status" aria-live="polite" data-visible="false"></p>
   <dialog class="archive" id="archive" aria-labelledby="archive-title">
     <header class="archive-head">
       <h2 id="archive-title">Every day so far</h2>
