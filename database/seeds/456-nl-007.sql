@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failures are finger posts on the road to achievement.', 'nl',
      'Mislukkingen zijn wegwijzers op de weg naar succes.'),
     ('The phoenix must burn to emerge.', 'nl',
-     'De feniks moet branden om te herrijzen.');
+     'De feniks moet branden om te herrijzen.'),
+    ('We are all failures, at least the best of us are.', 'nl',
+     'We zijn allemaal mislukkelingen, de besten van ons tenminste.');
