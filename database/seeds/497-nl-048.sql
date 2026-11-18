@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Determination gives you the resolve to keep going in spite of the roadblocks that lay before you.', 'nl',
      'Vastberadenheid geeft je de wilskracht om door te gaan ondanks de obstakels die op je pad liggen.'),
     ('They can conquer who believe they can.', 'nl',
-     'Zij kunnen overwinnen die geloven dat ze het kunnen.');
+     'Zij kunnen overwinnen die geloven dat ze het kunnen.'),
+    ('There are no limits. There are plateaus, but you must not stay there, you must go beyond them.', 'nl',
+     'Er zijn geen grenzen. Er zijn plateaus, maar daar mag je niet blijven; je moet erboven uitstijgen.');
