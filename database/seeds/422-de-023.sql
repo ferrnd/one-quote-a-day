@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A hero is no braver than an ordinary man, but he is brave five minutes longer.', 'de',
      'Ein Held ist nicht mutiger als ein gewöhnlicher Mensch, er ist nur fünf Minuten länger mutig.'),
     ('The struggle itself toward the heights is enough to fill a man''s heart. One must imagine Sisyphus happy.', 'de',
-     'Der Kampf gegen Gipfel vermag ein Menschenherz auszufüllen. Wir müssen uns Sisyphos als einen glücklichen Menschen vorstellen.');
+     'Der Kampf gegen Gipfel vermag ein Menschenherz auszufüllen. Wir müssen uns Sisyphos als einen glücklichen Menschen vorstellen.'),
+    ('Sometimes adversity is what you need to face in order to become successful.', 'de',
+     'Manchmal ist Widrigkeit genau das, was man bewältigen muss, um erfolgreich zu werden.');
