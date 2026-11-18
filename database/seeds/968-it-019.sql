@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only way to make sense out of change is to plunge into it, move with it, and join the dance.', 'it',
      'L''unico modo per dare un senso al cambiamento è tuffarcisi dentro, muoversi con esso e unirsi alla danza.'),
     ('Life is like riding a bicycle. To keep your balance you must keep moving.', 'it',
-     'La vita è come andare in bicicletta. Per mantenere l''equilibrio, devi continuare a muoverti.');
+     'La vita è come andare in bicicletta. Per mantenere l''equilibrio, devi continuare a muoverti.'),
+    ('They always say time changes things, but you actually have to change them yourself.', 'it',
+     'Dicono sempre che il tempo cambia le cose, ma in realtà sei tu che devi cambiarle.');
