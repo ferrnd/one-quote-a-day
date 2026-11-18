@@ -51,7 +51,7 @@ class DatabaseTest(unittest.TestCase):
     def test_day_one_dedication(self):
         dedications = {d.day: d for d in self.catalog.dedications}
         self.assertIn("2026-11-16", dedications)
-        self.assertEqual(dedications["2026-11-16"].body, "I love you. I'm sorry.")
+        self.assertEqual(dedications["2026-11-16"].body, "I'm sorry for making you suffer. I love you.")
         self.assertIsNone(dedications["2026-11-16"].author)
 
     def test_dedications_reject_impossible_dates(self):

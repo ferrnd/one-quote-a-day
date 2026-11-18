@@ -82,7 +82,7 @@ test("DAY 1 shows the unsigned dedication", async () => {
   const engine = await loadEngine();
   const i = engine.x.quote_for_date(2026, 11, 16);
   assert.ok(i >= engine.x.quote_count(), "a dedication lives after the quote records");
-  assert.equal(engine.text(i), "I love you. I'm sorry.");
+  assert.equal(engine.text(i), "I'm sorry for making you suffer. I love you.");
   assert.equal(engine.x.quote_author_len(i), 0);
   assert.equal(engine.author(i), "");
 });
