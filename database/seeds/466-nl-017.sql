@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dedication sees dreams come true.', 'nl',
      'Toewijding laat dromen uitkomen.'),
     ('Rest at the end, not in the middle.', 'nl',
-     'Rust aan het eind, niet halverwege.');
+     'Rust aan het eind, niet halverwege.'),
+    ('There are no shortcuts to any place worth going.', 'nl',
+     'Er zijn geen kortere wegen naar een plek die de moeite waard is.');
