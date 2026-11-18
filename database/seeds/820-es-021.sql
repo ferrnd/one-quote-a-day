@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t let what you cannot do interfere with what you can do.', 'es',
      'No dejes que lo que no puedes hacer interfiera con lo que sí puedes hacer.'),
     ('The best way out is always through.', 'es',
-     'La mejor salida siempre es atravesar.');
+     'La mejor salida siempre es atravesar.'),
+    ('In three words I can sum up everything I''ve learned about life: it goes on.', 'es',
+     'En dos palabras puedo resumir todo lo que he aprendido de la vida: sigue adelante.');
