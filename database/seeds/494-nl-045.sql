@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Things do not change; we change.', 'nl',
      'De dingen veranderen niet; wij veranderen.'),
     ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'nl',
-     'Vooruitgang brengt altijd risico''s met zich mee. Je kunt het tweede honk niet stelen met je voet op het eerste.');
+     'Vooruitgang brengt altijd risico''s met zich mee. Je kunt het tweede honk niet stelen met je voet op het eerste.'),
+    ('The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday''s logic.', 'nl',
+     'Het grootste gevaar in tijden van turbulentie is niet de turbulentie, maar handelen met de logica van gisteren.');
