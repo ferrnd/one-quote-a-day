@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We will grieve not, rather find strength in what remains behind.', 'it',
      'Non piangeremo, ma troveremo forza in ciò che resta.'),
     ('Be like the bird who, halting in his flight on limb too slight, feels it give way beneath him, yet sings, knowing he hath wings.', 'it',
-     'Sii come l''uccello che, posandosi su un ramo troppo esile, lo sente cedere sotto di sé e tuttavia canta, sapendo di avere le ali.');
+     'Sii come l''uccello che, posandosi su un ramo troppo esile, lo sente cedere sotto di sé e tuttavia canta, sapendo di avere le ali.'),
+    ('While I breathe, I hope.', 'it',
+     'Finché respiro, spero.');
