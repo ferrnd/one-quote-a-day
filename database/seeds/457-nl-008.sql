@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The oak fought the wind and was broken, the willow bent when it must and survived.', 'nl',
      'De eik vocht tegen de wind en brak; de wilg boog wanneer dat moest en overleefde.'),
     ('Although the world is full of suffering, it is also full of the overcoming of it.', 'nl',
-     'Hoewel de wereld vol lijden is, is ze ook vol van het overwinnen ervan.');
+     'Hoewel de wereld vol lijden is, is ze ook vol van het overwinnen ervan.'),
+    ('Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.', 'nl',
+     'Karakter ontwikkelt zich niet in gemak en rust. Alleen door beproeving en lijden wordt de ziel versterkt, de ambitie aangewakkerd en succes bereikt.');
