@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('While we wait for life, life passes.', 'es',
      'Mientras esperamos la vida, la vida pasa.'),
     ('Wherever there is a human being, there is an opportunity for a kindness.', 'es',
-     'Dondequiera que haya un ser humano, hay una oportunidad para la bondad.');
+     'Dondequiera que haya un ser humano, hay una oportunidad para la bondad.'),
+    ('He suffers more than necessary, who suffers before it is necessary.', 'es',
+     'Sufre más de lo necesario quien sufre antes de que sea necesario.');
