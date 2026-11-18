@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not go gentle into that good night. Rage, rage against the dying of the light.', 'nl',
      'Ga niet gedwee die goede nacht in. Woed, woed tegen het sterven van het licht.'),
     ('Strength doesn''t come from what you can do. It comes from overcoming the things you once thought you couldn''t.', 'nl',
-     'Kracht komt niet van wat je kunt. Het komt van het overwinnen van de dingen waarvan je ooit dacht dat je ze niet kon.');
+     'Kracht komt niet van wat je kunt. Het komt van het overwinnen van de dingen waarvan je ooit dacht dat je ze niet kon.'),
+    ('Excellence is not a skill. It is an attitude.', 'nl',
+     'Uitmuntendheid is geen vaardigheid. Het is een houding.');
