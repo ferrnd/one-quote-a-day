@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t grieve. Anything you lose comes round in another form.', 'es',
      'No te aflijas. Todo lo que pierdes vuelve de otra forma.'),
     ('Set your life on fire. Seek those who fan your flames.', 'es',
-     'Prende fuego a tu vida. Busca a quienes avivan tus llamas.');
+     'Prende fuego a tu vida. Busca a quienes avivan tus llamas.'),
+    ('Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.', 'es',
+     'Ayer era listo, así que quería cambiar el mundo. Hoy soy sabio, así que estoy cambiándome a mí mismo.');
