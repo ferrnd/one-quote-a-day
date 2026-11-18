@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only in the darkness can you see the stars.', 'it',
      'Solo nell''oscurità si possono vedere le stelle.'),
     ('Even the darkest night will end and the sun will rise.', 'it',
-     'Anche la notte più buia finirà, e sorgerà il sole.');
+     'Anche la notte più buia finirà, e sorgerà il sole.'),
+    ('Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.', 'it',
+     'L''ottimismo è la fede che conduce alla realizzazione. Nulla si può fare senza speranza e fiducia.');
