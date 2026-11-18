@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The brave man is not he who does not feel afraid, but he who conquers that fear.', 'nl',
      'De dappere mens is niet degene die geen angst voelt, maar degene die die angst overwint.'),
     ('Have the courage to follow your heart and intuition.', 'nl',
-     'Heb de moed om je hart en je intuïtie te volgen.');
+     'Heb de moed om je hart en je intuïtie te volgen.'),
+    ('Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.', 'nl',
+     'Door iemand diep bemind te worden krijg je kracht, terwijl iemand diep liefhebben je moed geeft.');
