@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The successful warrior is the average man, with laser-like focus.', 'pt-BR',
      'O guerreiro bem-sucedido é um homem comum com um foco de laser.'),
     ('I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.', 'pt-BR',
-     'Não temo o homem que praticou 10 mil chutes uma vez, mas temo o homem que praticou um chute 10 mil vezes.');
+     'Não temo o homem que praticou 10 mil chutes uma vez, mas temo o homem que praticou um chute 10 mil vezes.'),
+    ('Discipline is choosing between what you want now and what you want most.', 'pt-BR',
+     'Disciplina é escolher entre o que você quer agora e o que você mais quer.');
