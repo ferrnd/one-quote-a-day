@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is not the opposite of success; it''s part of success.', 'fr',
      'L''échec n''est pas le contraire du succès ; il en fait partie.'),
     ('You build on failure. You use it as a stepping stone.', 'fr',
-     'On construit sur l''échec. On s''en sert comme d''un tremplin.');
+     'On construit sur l''échec. On s''en sert comme d''un tremplin.'),
+    ('A man of genius makes no mistakes. His errors are volitional and are the portals of discovery.', 'fr',
+     'Un homme de génie ne commet pas d''erreurs. Ses erreurs sont volontaires et sont les portes de la découverte.');
