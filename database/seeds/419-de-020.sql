@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Act as if what you do makes a difference. It does.', 'de',
      'Handle so, als ob das, was du tust, einen Unterschied macht. Das tut es.'),
     ('What we fear doing most is usually what we most need to do.', 'de',
-     'Wovor wir uns am meisten fürchten, ist meist das, was wir am dringendsten tun müssen.');
+     'Wovor wir uns am meisten fürchten, ist meist das, was wir am dringendsten tun müssen.'),
+    ('A comfort zone is a beautiful place, but nothing ever grows there.', 'de',
+     'Die Komfortzone ist ein schöner Ort, aber dort wächst nie etwas.');
