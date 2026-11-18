@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no passion to be found playing small.', 'fr',
      'Il n''y a aucune passion à jouer petit.'),
     ('Courage is like a muscle. We strengthen it by use.', 'fr',
-     'Le courage est comme un muscle : il se renforce à l''usage.');
+     'Le courage est comme un muscle : il se renforce à l''usage.'),
+    ('Vulnerability is the birthplace of innovation, creativity and change.', 'fr',
+     'La vulnérabilité est le berceau de l''innovation, de la créativité et du changement.');
