@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You may encounter many defeats, but you must not be defeated.', 'nl',
      'Je zult misschien veel nederlagen meemaken, maar je mag je niet laten verslaan.'),
     ('Still, like air, I''ll rise.', 'nl',
-     'En toch sta ik op, als de lucht.');
+     'En toch sta ik op, als de lucht.'),
+    ('She stood in the storm, and when the wind did not blow her way, she adjusted her sails.', 'nl',
+     'Ze stond in de storm, en toen de wind niet haar kant op waaide, stelde ze haar zeilen bij.');
