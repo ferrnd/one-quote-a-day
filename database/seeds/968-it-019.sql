@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('They always say time changes things, but you actually have to change them yourself.', 'it',
      'Dicono sempre che il tempo cambia le cose, ma in realtà sei tu che devi cambiarle.'),
     ('Progress is impossible without change, and those who cannot change their minds cannot change anything.', 'it',
-     'Il progresso è impossibile senza cambiamento, e chi non sa cambiare idea non può cambiare nulla.');
+     'Il progresso è impossibile senza cambiamento, e chi non sa cambiare idea non può cambiare nulla.'),
+    ('Change is the law of life. And those who look only to the past or present are certain to miss the future.', 'it',
+     'Il cambiamento è la legge della vita. E chi guarda solo al passato o al presente è destinato a perdere il futuro.');
