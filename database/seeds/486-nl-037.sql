@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not length of life, but depth of life.', 'nl',
      'Het gaat niet om de lengte van het leven, maar om de diepte.'),
     ('Once you make a decision, the universe conspires to make it happen.', 'nl',
-     'Zodra je een besluit neemt, spant het universum samen om het te laten gebeuren.');
+     'Zodra je een besluit neemt, spant het universum samen om het te laten gebeuren.'),
+    ('To be great is to be misunderstood.', 'nl',
+     'Groot zijn is verkeerd begrepen worden.');
