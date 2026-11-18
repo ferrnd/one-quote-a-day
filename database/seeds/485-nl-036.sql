@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t grieve. Anything you lose comes round in another form.', 'nl',
      'Treur niet. Alles wat je verliest, komt terug in een andere vorm.'),
     ('Set your life on fire. Seek those who fan your flames.', 'nl',
-     'Zet je leven in vuur en vlam. Zoek mensen die je vuur aanwakkeren.');
+     'Zet je leven in vuur en vlam. Zoek mensen die je vuur aanwakkeren.'),
+    ('Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.', 'nl',
+     'Gisteren was ik slim, dus wilde ik de wereld veranderen. Vandaag ben ik wijs, dus verander ik mezelf.');
