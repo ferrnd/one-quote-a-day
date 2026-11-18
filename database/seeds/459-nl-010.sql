@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s not whether you get knocked down; it''s whether you get up.', 'nl',
      'Het gaat er niet om of je wordt neergeslagen; het gaat erom of je weer opstaat.'),
     ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'nl',
-     'Het gaat er niet om hoe hard je slaat. Het gaat erom hoeveel klappen je kunt incasseren en toch door kunt gaan.');
+     'Het gaat er niet om hoe hard je slaat. Het gaat erom hoeveel klappen je kunt incasseren en toch door kunt gaan.'),
+    ('A good half of the art of living is resilience.', 'nl',
+     'Een goed deel van de kunst van het leven is veerkracht.');
