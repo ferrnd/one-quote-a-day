@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You cannot run away from a weakness; you must some time fight it out or perish.', 'fr',
      'On ne peut pas fuir une faiblesse ; il faut un jour l''affronter jusqu''au bout, ou périr.'),
     ('Do not go gentle into that good night. Rage, rage against the dying of the light.', 'fr',
-     'N''entre pas sans violence dans cette bonne nuit. Rage, rage contre la mort de la lumière.');
+     'N''entre pas sans violence dans cette bonne nuit. Rage, rage contre la mort de la lumière.'),
+    ('Strength doesn''t come from what you can do. It comes from overcoming the things you once thought you couldn''t.', 'fr',
+     'La force ne vient pas de ce que tu sais faire. Elle vient du fait de surmonter ce que tu croyais autrefois impossible.');
