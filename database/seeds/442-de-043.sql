@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The sun shines not on us but in us.', 'de',
      'Die Sonne scheint nicht auf uns, sondern in uns.'),
     ('Hope arouses, as nothing else can arouse, a passion for the possible.', 'de',
-     'Hoffnung weckt wie nichts anderes eine Leidenschaft für das Mögliche.');
+     'Hoffnung weckt wie nichts anderes eine Leidenschaft für das Mögliche.'),
+    ('Do not let your fire go out, spark by irreplaceable spark.', 'de',
+     'Lass dein Feuer nicht ausgehen, Funke um unersetzlichen Funken.');
