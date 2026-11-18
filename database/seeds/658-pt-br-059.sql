@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the companion of wisdom.', 'pt-BR',
      'A paciência é companheira da sabedoria.'),
     ('He that can have patience can have what he will.', 'pt-BR',
-     'Quem tem paciência pode ter o que quiser.');
+     'Quem tem paciência pode ter o que quiser.'),
+    ('Have patience with all things, but first of all with yourself.', 'pt-BR',
+     'Tenha paciência com todas as coisas, mas, antes de tudo, consigo mesmo.');
