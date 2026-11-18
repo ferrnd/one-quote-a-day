@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is fear holding on a minute longer.', 'de',
      'Mut ist Angst, die eine Minute länger durchhält.'),
     ('Failure is not falling down but refusing to get up.', 'de',
-     'Scheitern heißt nicht hinfallen, sondern sich weigern aufzustehen.');
+     'Scheitern heißt nicht hinfallen, sondern sich weigern aufzustehen.'),
+    ('The successful man will profit from his mistakes and try again in a different way.', 'de',
+     'Der erfolgreiche Mensch zieht Nutzen aus seinen Fehlern und versucht es auf andere Weise noch einmal.');
