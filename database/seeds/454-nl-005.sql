@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not the critic who counts.', 'nl',
      'Het is niet de criticus die telt.'),
     ('The credit belongs to the man who is actually in the arena.', 'nl',
-     'De eer komt toe aan wie daadwerkelijk in de arena staat.');
+     'De eer komt toe aan wie daadwerkelijk in de arena staat.'),
+    ('Fear has two meanings: forget everything and run, or face everything and rise.', 'nl',
+     'Angst heeft twee betekenissen: alles vergeten en wegrennen, of alles onder ogen zien en opstaan.');
