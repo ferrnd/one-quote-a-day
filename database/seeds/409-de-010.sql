@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our wounds are often the openings into the best and most beautiful part of us.', 'de',
      'Unsere Wunden sind oft die Öffnungen zum besten und schönsten Teil von uns.'),
     ('Resilience is accepting your new reality, even if it''s less good than the one you had before.', 'de',
-     'Resilienz heißt, die neue Wirklichkeit anzunehmen, auch wenn sie weniger gut ist als die, die man vorher hatte.');
+     'Resilienz heißt, die neue Wirklichkeit anzunehmen, auch wenn sie weniger gut ist als die, die man vorher hatte.'),
+    ('Man never made any material as resilient as the human spirit.', 'de',
+     'Der Mensch hat nie ein Material geschaffen, das so widerstandsfähig ist wie der menschliche Geist.');
