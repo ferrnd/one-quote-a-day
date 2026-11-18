@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Gold medals aren''t really made of gold. They''re made of sweat, determination, and a hard-to-find alloy called guts.', 'fr',
      'Les médailles d''or ne sont pas vraiment en or. Elles sont faites de sueur, de détermination et d''un alliage rare appelé le cran.'),
     ('Age is no barrier. It''s a limitation you put on your mind.', 'fr',
-     'L''âge n''est pas un obstacle. C''est une limite que tu imposes à ton esprit.');
+     'L''âge n''est pas un obstacle. C''est une limite que tu imposes à ton esprit.'),
+    ('The difference between ordinary and extraordinary is that little extra.', 'fr',
+     'La différence entre l''ordinaire et l''extraordinaire, c''est ce petit plus.');
