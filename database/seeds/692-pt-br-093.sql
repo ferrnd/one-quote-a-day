@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Some people want it to happen, some wish it would happen, others make it happen.', 'pt-BR',
      'Algumas pessoas querem que aconteça, algumas torcem para que aconteça, outras fazem acontecer.'),
     ('The more I want to get something done, the less I call it work.', 'pt-BR',
-     'Quanto mais eu quero fazer algo, menos chamo isso de trabalho.');
+     'Quanto mais eu quero fazer algo, menos chamo isso de trabalho.'),
+    ('The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.', 'pt-BR',
+     'O pessimista reclama do vento; o otimista espera que ele mude; o realista ajusta as velas.');
