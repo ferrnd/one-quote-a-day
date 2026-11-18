@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don''t belong.', 'fr',
      'Grandir fait mal. Changer fait mal. Mais rien ne fait aussi mal que de rester coincé là où l''on n''a pas sa place.'),
     ('And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.', 'fr',
-     'Et vint le jour où le risque de rester enfermée dans le bouton fut plus douloureux que le risque d''éclore.');
+     'Et vint le jour où le risque de rester enfermée dans le bouton fut plus douloureux que le risque d''éclore.'),
+    ('I am always doing that which I cannot do, in order that I may learn how to do it.', 'fr',
+     'Je fais toujours ce que je ne sais pas faire, pour apprendre à le faire.');
