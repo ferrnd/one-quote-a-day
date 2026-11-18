@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When life knocks you down, try to land on your back. Because if you can look up, you can get up.', 'nl',
      'Als het leven je neerslaat, probeer dan op je rug te landen. Want als je omhoog kunt kijken, kun je opstaan.'),
     ('Out of every crisis comes the chance to be reborn.', 'nl',
-     'Uit elke crisis komt de kans om herboren te worden.');
+     'Uit elke crisis komt de kans om herboren te worden.'),
+    ('Nothing is permanent in this wicked world, not even our troubles.', 'nl',
+     'Niets is blijvend in deze boze wereld, zelfs onze zorgen niet.');
