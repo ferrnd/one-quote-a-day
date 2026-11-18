@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are far, far better things ahead than any we leave behind.', 'nl',
      'Er liggen veel, veel betere dingen voor ons dan alles wat we achterlaten.'),
     ('In spite of everything I still believe that people are really good at heart.', 'nl',
-     'Ondanks alles geloof ik nog steeds dat de mensen in de grond van hun hart goed zijn.');
+     'Ondanks alles geloof ik nog steeds dat de mensen in de grond van hun hart goed zijn.'),
+    ('Think of all the beauty still left around you and be happy.', 'nl',
+     'Denk aan al het mooie dat nog om je heen is en wees gelukkig.');
