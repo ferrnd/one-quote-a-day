@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Energy and persistence conquer all things.', 'fr',
      'L''énergie et la persévérance viennent à bout de tout.'),
     ('Rivers know this: there is no hurry. We shall get there some day.', 'fr',
-     'Les rivières le savent : rien ne presse. Nous arriverons un jour.');
+     'Les rivières le savent : rien ne presse. Nous arriverons un jour.'),
+    ('Perseverance is not a long race; it is many short races one after the other.', 'fr',
+     'La persévérance n''est pas une longue course ; c''est une succession de courtes courses, l''une après l''autre.');
