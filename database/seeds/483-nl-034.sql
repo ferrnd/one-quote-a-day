@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t tell me the sky''s the limit when there are footprints on the moon.', 'nl',
      'Zeg me niet dat de lucht de grens is, als er voetafdrukken op de maan staan.'),
     ('The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.', 'nl',
-     'De aarde is de wieg van de mensheid, maar je kunt niet eeuwig in de wieg blijven.');
+     'De aarde is de wieg van de mensheid, maar je kunt niet eeuwig in de wieg blijven.'),
+    ('Exploration is really the essence of the human spirit.', 'nl',
+     'Ontdekken is werkelijk de essentie van de menselijke geest.');
