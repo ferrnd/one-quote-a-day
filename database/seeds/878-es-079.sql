@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adventure is worthwhile in itself.', 'es',
      'La aventura vale la pena por sí misma.'),
     ('Courage is a love affair with the unknown.', 'es',
-     'El valor es una historia de amor con lo desconocido.');
+     'El valor es una historia de amor con lo desconocido.'),
+    ('What you''re supposed to do when you don''t like a thing is change it.', 'es',
+     'Lo que debes hacer cuando algo no te gusta es cambiarlo.');
