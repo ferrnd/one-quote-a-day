@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the difficult things while they are easy and do the great things while they are small.', 'nl',
      'Doe de moeilijke dingen terwijl ze makkelijk zijn, en de grote dingen terwijl ze klein zijn.'),
     ('Well begun is half done.', 'nl',
-     'Een goed begin is het halve werk.');
+     'Een goed begin is het halve werk.'),
+    ('If you spend too much time thinking about a thing, you''ll never get it done.', 'nl',
+     'Als je te lang over iets nadenkt, krijg je het nooit gedaan.');
