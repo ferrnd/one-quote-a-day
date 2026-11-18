@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is often in the darkest skies that we see the brightest stars.', 'it',
      'Spesso è nei cieli più bui che vediamo le stelle più luminose.'),
     ('Strength and growth come only through continuous effort and struggle.', 'it',
-     'La forza e la crescita arrivano solo con lo sforzo e la lotta continui.');
+     'La forza e la crescita arrivano solo con lo sforzo e la lotta continui.'),
+    ('Out of your vulnerabilities will come your strength.', 'it',
+     'Dalle tue vulnerabilità nascerà la tua forza.');
