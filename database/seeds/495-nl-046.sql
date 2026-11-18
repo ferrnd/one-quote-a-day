@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Begin anywhere.', 'nl',
      'Begin ergens.'),
     ('Action is eloquence.', 'nl',
-     'Daden zijn welsprekend.');
+     'Daden zijn welsprekend.'),
+    ('Do not wait for leaders; do it alone, person to person.', 'nl',
+     'Wacht niet op leiders; doe het zelf, van mens tot mens.');
