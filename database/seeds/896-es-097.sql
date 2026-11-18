@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Champions aren''t made in the gyms. Champions are made from something they have deep inside them: a desire, a dream, a vision.', 'es',
      'Los campeones no se hacen en el gimnasio. Se hacen de algo que llevan muy dentro: un deseo, un sueño, una visión.'),
     ('The road to success is always under construction.', 'es',
-     'El camino al éxito siempre está en obras.');
+     'El camino al éxito siempre está en obras.'),
+    ('Ambition is enthusiasm with a purpose.', 'es',
+     'La ambición es entusiasmo con un propósito.');
