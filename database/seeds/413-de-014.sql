@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.', 'de',
      'Sei wie das Vorgebirge, an dem sich die Wellen unaufhörlich brechen: Es steht fest und bändigt das Toben des Wassers um sich herum.'),
     ('Mighty oaks from little acorns grow.', 'de',
-     'Aus kleinen Eicheln wachsen mächtige Eichen.');
+     'Aus kleinen Eicheln wachsen mächtige Eichen.'),
+    ('It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.', 'de',
+     'Nicht weil es schwer ist, wagen wir es nicht, sondern weil wir es nicht wagen, ist es schwer.');
