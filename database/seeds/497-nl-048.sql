@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no limits. There are plateaus, but you must not stay there, you must go beyond them.', 'nl',
      'Er zijn geen grenzen. Er zijn plateaus, maar daar mag je niet blijven; je moet erboven uitstijgen.'),
     ('A goal is not always meant to be reached, it often serves simply as something to aim at.', 'nl',
-     'Een doel hoeft niet altijd bereikt te worden; vaak dient het gewoon als iets om op te mikken.');
+     'Een doel hoeft niet altijd bereikt te worden; vaak dient het gewoon als iets om op te mikken.'),
+    ('I''m going to use all my tools, my God-given ability, and make the best life I can with it.', 'nl',
+     'Ik ga al mijn gereedschap gebruiken, mijn door God gegeven talent, en er het beste leven van maken dat ik kan.');
