@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wait; the time will never be just right.', 'pt-BR',
      'Não espere; o momento nunca será perfeito.'),
     ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'pt-BR',
-     'Saber não basta; é preciso aplicar. Querer não basta; é preciso fazer.');
+     'Saber não basta; é preciso aplicar. Querer não basta; é preciso fazer.'),
+    ('Action may not always bring happiness; but there is no happiness without action.', 'pt-BR',
+     'A ação nem sempre traz felicidade, mas não existe felicidade sem ação.');
