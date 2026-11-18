@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I really think a champion is defined not by their wins but by how they can recover when they fall.', 'fr',
      'Je pense vraiment qu''un champion ne se définit pas par ses victoires, mais par sa façon de se relever quand il tombe.'),
     ('You have to believe in yourself when no one else does.', 'fr',
-     'Tu dois croire en toi quand personne d''autre n''y croit.');
+     'Tu dois croire en toi quand personne d''autre n''y croit.'),
+    ('The more difficult the victory, the greater the happiness in winning.', 'fr',
+     'Plus la victoire est difficile, plus la joie de gagner est grande.');
