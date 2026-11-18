@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only time can heal what reason cannot.', 'it',
      'Solo il tempo può guarire ciò che la ragione non può.'),
     ('Determination gives you the resolve to keep going in spite of the roadblocks that lay before you.', 'it',
-     'La determinazione ti dà la risolutezza per andare avanti nonostante gli ostacoli che ti si parano davanti.');
+     'La determinazione ti dà la risolutezza per andare avanti nonostante gli ostacoli che ti si parano davanti.'),
+    ('They can conquer who believe they can.', 'it',
+     'Possono vincere coloro che credono di poterlo fare.');
