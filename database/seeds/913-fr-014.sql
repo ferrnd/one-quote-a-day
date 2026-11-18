@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength is the product of struggle. You must do what others don''t to achieve what others won''t.', 'fr',
      'La force naît de la lutte. Il faut faire ce que les autres ne font pas pour obtenir ce que les autres n''obtiennent pas.'),
     ('The strongest of all warriors are these two: time and patience.', 'fr',
-     'Les plus forts de tous les guerriers sont ces deux-là : le temps et la patience.');
+     'Les plus forts de tous les guerriers sont ces deux-là : le temps et la patience.'),
+    ('Nobody can make you feel inferior without your consent.', 'fr',
+     'Personne ne peut vous faire sentir inférieur sans votre consentement.');
