@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perseverance is not a long race; it is many short races one after the other.', 'nl',
      'Doorzettingsvermogen is geen lange race; het zijn vele korte races, de een na de ander.'),
     ('A river cuts through rock not because of its power, but because of its persistence.', 'nl',
-     'Een rivier snijdt door de rots, niet door haar kracht, maar door haar volharding.');
+     'Een rivier snijdt door de rots, niet door haar kracht, maar door haar volharding.'),
+    ('Many of life''s failures are people who did not realize how close they were to success when they gave up.', 'nl',
+     'Veel mislukkingen in het leven komen van mensen die niet beseften hoe dicht ze bij succes waren toen ze opgaven.');
