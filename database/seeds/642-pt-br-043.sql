@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Problems are not stop signs, they are guidelines.', 'pt-BR',
      'Problemas não são placas de pare; são placas de orientação.'),
     ('Turn your face to the sun and the shadows fall behind you.', 'pt-BR',
-     'Vire o rosto para o sol, e as sombras ficarão para trás.');
+     'Vire o rosto para o sol, e as sombras ficarão para trás.'),
+    ('A man of character finds a special attractiveness in difficulty.', 'pt-BR',
+     'O homem de caráter encontra uma atração especial na dificuldade.');
