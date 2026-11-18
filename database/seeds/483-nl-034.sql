@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.', 'nl',
      'Houd vast aan dromen, want als dromen sterven, is het leven een vogel met gebroken vleugels die niet kan vliegen.'),
     ('Dreams are the touchstones of our characters.', 'nl',
-     'Dromen zijn de toetsstenen van ons karakter.');
+     'Dromen zijn de toetsstenen van ons karakter.'),
+    ('Don''t let anyone rob you of your imagination, your creativity, or your curiosity.', 'nl',
+     'Laat niemand je je verbeelding, je creativiteit of je nieuwsgierigheid afnemen.');
