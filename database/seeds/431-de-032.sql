@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Today I will do what others won''t, so tomorrow I can accomplish what others can''t.', 'de',
      'Heute tue ich, was andere nicht tun, damit ich morgen erreichen kann, was andere nicht können.'),
     ('You can''t put a limit on anything. The more you dream, the farther you get.', 'de',
-     'Man kann nichts begrenzen. Je mehr du träumst, desto weiter kommst du.');
+     'Man kann nichts begrenzen. Je mehr du träumst, desto weiter kommst du.'),
+    ('There are better starters than me but I''m a strong finisher.', 'de',
+     'Es gibt bessere Starter als mich, aber ich bin ein starker Finisher.');
