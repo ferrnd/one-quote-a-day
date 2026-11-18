@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.', 'pt-BR',
      'O ontem é história, o amanhã é mistério, o hoje é um presente de Deus, e é por isso que se chama presente.'),
     ('If you want to go fast, go alone. If you want to go far, go together.', 'pt-BR',
-     'Se quer ir rápido, vá sozinho. Se quer ir longe, vá acompanhado.');
+     'Se quer ir rápido, vá sozinho. Se quer ir longe, vá acompanhado.'),
+    ('Be not afraid.', 'pt-BR',
+     'Não tenham medo.');
