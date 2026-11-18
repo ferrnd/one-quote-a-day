@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('These pains you feel are messengers. Listen to them.', 'nl',
      'De pijn die je voelt, is een boodschapper. Luister ernaar.'),
     ('Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.', 'nl',
-     'Vrijheid is het enige waardige doel in het leven. Je wint haar door je niet druk te maken om wat buiten je macht ligt.');
+     'Vrijheid is het enige waardige doel in het leven. Je wint haar door je niet druk te maken om wat buiten je macht ligt.'),
+    ('Don''t explain your philosophy. Embody it.', 'nl',
+     'Leg je filosofie niet uit. Belichaam haar.');
