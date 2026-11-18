@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never bend your head. Always hold it high. Look the world straight in the eye.', 'pt-BR',
      'Nunca abaixe a cabeça. Mantenha-a sempre erguida. Olhe o mundo nos olhos.'),
     ('There is nothing stronger in the world than gentleness.', 'pt-BR',
-     'Não há nada mais forte no mundo do que a delicadeza.');
+     'Não há nada mais forte no mundo do que a delicadeza.'),
+    ('Nothing is so strong as gentleness, nothing so gentle as real strength.', 'pt-BR',
+     'Nada é tão forte quanto a delicadeza, e nada é tão delicado quanto a verdadeira força.');
