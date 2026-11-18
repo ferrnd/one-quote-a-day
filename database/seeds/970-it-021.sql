@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Prosperity is not without many fears and distastes; and adversity is not without comforts and hopes.', 'it',
      'La prosperità non è priva di paure e dispiaceri, e l''avversità non è priva di conforti e speranze.'),
     ('Adversity is the first path to truth.', 'it',
-     'L''avversità è la prima via verso la verità.');
+     'L''avversità è la prima via verso la verità.'),
+    ('Kites rise highest against the wind, not with it.', 'it',
+     'Gli aquiloni volano più in alto controvento, non con il vento a favore.');
