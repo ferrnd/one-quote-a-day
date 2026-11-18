@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Slow and steady wins the race.', 'pt-BR',
      'Devagar e sempre se vence a corrida.'),
     ('With time and patience the mulberry leaf becomes a silk gown.', 'pt-BR',
-     'Com tempo e paciência, a folha da amoreira vira um vestido de seda.');
+     'Com tempo e paciência, a folha da amoreira vira um vestido de seda.'),
+    ('Patience attracts happiness; it brings near that which is far.', 'pt-BR',
+     'A paciência atrai a felicidade; ela aproxima o que está longe.');
