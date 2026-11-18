@@ -7,4 +7,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('The sun shines not on us but in us.', 'John Muir', 'hope'),
     ('Hope arouses, as nothing else can arouse, a passion for the possible.', 'William Sloane Coffin', 'hope'),
     ('Do not let your fire go out, spark by irreplaceable spark.', 'Ayn Rand', 'hope'),
-    ('We are all in the gutter, but some of us are looking at the stars.', 'Oscar Wilde', 'hope');
+    ('We are all in the gutter, but some of us are looking at the stars.', 'Oscar Wilde', 'hope'),
+    ('The darker the night, the brighter the stars, the deeper the grief, the closer is God!', 'Fyodor Dostoevsky', 'hope');
