@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He conquers who endures.', 'nl',
      'Wie volhardt, overwint.'),
     ('Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield.', 'nl',
-     'Water is vloeibaar, zacht en meegaand. Maar water slijt de rots, die star is en niet kan toegeven.');
+     'Water is vloeibaar, zacht en meegaand. Maar water slijt de rots, die star is en niet kan toegeven.'),
+    ('Paralyze resistance with persistence.', 'nl',
+     'Verlam weerstand met volharding.');
