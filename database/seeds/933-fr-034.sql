@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never let your memories be greater than your dreams.', 'fr',
      'Ne laisse jamais tes souvenirs être plus grands que tes rêves.'),
     ('All men dream, but not equally.', 'fr',
-     'Tous les hommes rêvent, mais pas de la même façon.');
+     'Tous les hommes rêvent, mais pas de la même façon.'),
+    ('Dreams come true. Without that possibility, nature would not incite us to have them.', 'fr',
+     'Les rêves se réalisent. Sans cette possibilité, la nature ne nous pousserait pas à en avoir.');
