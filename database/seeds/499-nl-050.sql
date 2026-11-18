@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Wherever there is a human being, there is an opportunity for a kindness.', 'nl',
      'Waar een mens is, is een kans voor vriendelijkheid.'),
     ('He suffers more than necessary, who suffers before it is necessary.', 'nl',
-     'Wie lijdt voordat het nodig is, lijdt meer dan nodig.');
+     'Wie lijdt voordat het nodig is, lijdt meer dan nodig.'),
+    ('Ignorance is the cause of fear.', 'nl',
+     'Onwetendheid is de oorzaak van angst.');
