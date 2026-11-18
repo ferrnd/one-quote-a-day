@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No great thing is created suddenly.', 'nl',
      'Niets groots ontstaat plotseling.'),
     ('Perhaps someday it will be pleasant to remember even this.', 'nl',
-     'Misschien is het ooit aangenaam om zelfs hieraan terug te denken.');
+     'Misschien is het ooit aangenaam om zelfs hieraan terug te denken.'),
+    ('Endure, and preserve yourselves for better things.', 'nl',
+     'Houd vol en bewaar jezelf voor betere dingen.');
