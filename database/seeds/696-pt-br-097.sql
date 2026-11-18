@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Tread softly because you tread on my dreams.', 'pt-BR',
      'Pise devagar, porque você está pisando nos meus sonhos.'),
     ('All that we see or seem is but a dream within a dream.', 'pt-BR',
-     'Tudo o que vemos ou parecemos é apenas um sonho dentro de um sonho.');
+     'Tudo o que vemos ou parecemos é apenas um sonho dentro de um sonho.'),
+    ('Don''t give up on your dreams, or your dreams will give up on you.', 'pt-BR',
+     'Não desista dos seus sonhos, ou seus sonhos vão desistir de você.');
