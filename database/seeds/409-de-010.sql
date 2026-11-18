@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grief and resilience live together.', 'de',
      'Trauer und Widerstandskraft leben zusammen.'),
     ('It''s not whether you get knocked down; it''s whether you get up.', 'de',
-     'Es kommt nicht darauf an, ob du niedergeschlagen wirst, sondern ob du wieder aufstehst.');
+     'Es kommt nicht darauf an, ob du niedergeschlagen wirst, sondern ob du wieder aufstehst.'),
+    ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'de',
+     'Es geht nicht darum, wie hart du zuschlagen kannst. Es geht darum, wie viel du einstecken kannst und trotzdem weitermachst.');
