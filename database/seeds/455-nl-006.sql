@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Scared is what you''re feeling. Brave is what you''re doing.', 'nl',
-     'Bang is wat je voelt. Dapper is wat je doet.');
+     'Bang is wat je voelt. Dapper is wat je doet.'),
+    ('Courage is reckoned the greatest of all virtues; because, unless a man has that virtue, he has no security for preserving any other.', 'nl',
+     'Moed wordt gezien als de grootste van alle deugden, want zonder die deugd heeft de mens geen zekerheid dat hij een andere zal behouden.');
