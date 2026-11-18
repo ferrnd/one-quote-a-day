@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s fine to celebrate success but it is more important to heed the lessons of failure.', 'de',
      'Es ist gut, Erfolge zu feiern, aber wichtiger ist es, die Lehren des Scheiterns zu beherzigen.'),
     ('One fails forward toward success.', 'de',
-     'Man scheitert sich vorwärts zum Erfolg.');
+     'Man scheitert sich vorwärts zum Erfolg.'),
+    ('Failure is the key to success; each mistake teaches us something.', 'de',
+     'Scheitern ist der Schlüssel zum Erfolg; jeder Fehler lehrt uns etwas.');
