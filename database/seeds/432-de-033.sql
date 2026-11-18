@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Determine never to be idle.', 'de',
      'Nimm dir vor, niemals untätig zu sein.'),
     ('A dream doesn''t become reality through magic; it takes sweat, determination and hard work.', 'de',
-     'Ein Traum wird nicht durch Zauberei Wirklichkeit; es braucht Schweiß, Entschlossenheit und harte Arbeit.');
+     'Ein Traum wird nicht durch Zauberei Wirklichkeit; es braucht Schweiß, Entschlossenheit und harte Arbeit.'),
+    ('There are no secrets to success. It is the result of preparation, hard work, and learning from failure.', 'de',
+     'Es gibt keine Geheimnisse des Erfolgs. Er ist das Ergebnis von Vorbereitung, harter Arbeit und dem Lernen aus Fehlern.');
