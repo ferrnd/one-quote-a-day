@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Discipline is choosing between what you want now and what you want most.', 'nl',
      'Discipline is kiezen tussen wat je nu wilt en wat je het meest wilt.'),
     ('No man is free who is not master of himself.', 'nl',
-     'Niemand is vrij die geen meester is over zichzelf.');
+     'Niemand is vrij die geen meester is over zichzelf.'),
+    ('First say to yourself what you would be; and then do what you have to do.', 'nl',
+     'Zeg eerst tegen jezelf wat je wilt zijn; doe dan wat je moet doen.');
