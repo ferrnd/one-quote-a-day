@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greatest mistake you can make in life is to be continually fearing you will make one.', 'nl',
      'De grootste fout die je in het leven kunt maken, is voortdurend bang zijn dat je er een maakt.'),
     ('If you''re not prepared to be wrong, you''ll never come up with anything original.', 'nl',
-     'Als je niet bereid bent je te vergissen, zul je nooit iets origineels bedenken.');
+     'Als je niet bereid bent je te vergissen, zul je nooit iets origineels bedenken.'),
+    ('Experience is simply the name we give our mistakes.', 'nl',
+     'Ervaring is gewoon de naam die we aan onze fouten geven.');
