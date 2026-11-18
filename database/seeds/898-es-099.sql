@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No act of kindness, no matter how small, is ever wasted.', 'es',
      'Ningún acto de bondad, por pequeño que sea, se desperdicia.'),
     ('The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.', 'es',
-     'Las cosas mejores y más hermosas del mundo no se pueden ver ni tocar. Deben sentirse con el corazón.');
+     'Las cosas mejores y más hermosas del mundo no se pueden ver ni tocar. Deben sentirse con el corazón.'),
+    ('What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.', 'es',
+     'Lo que una vez disfrutamos nunca podemos perderlo. Todo lo que amamos profundamente se convierte en parte de nosotros.');
