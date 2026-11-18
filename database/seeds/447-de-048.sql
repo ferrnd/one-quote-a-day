@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Wisely and slow; they stumble that run fast.', 'de',
      'Weise und langsam; wer schnell läuft, stolpert.'),
     ('They also serve who only stand and wait.', 'de',
-     'Auch die dienen, die nur stehen und warten.');
+     'Auch die dienen, die nur stehen und warten.'),
+    ('Only time can heal what reason cannot.', 'de',
+     'Nur die Zeit kann heilen, was die Vernunft nicht heilen kann.');
