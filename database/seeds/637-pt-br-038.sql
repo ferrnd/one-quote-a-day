@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.', 'pt-BR',
      'Nossas dúvidas são traidoras e nos fazem perder o bem que muitas vezes poderíamos conquistar, pelo medo de tentar.'),
     ('If we did all the things we are capable of, we would literally astound ourselves.', 'pt-BR',
-     'Se fizéssemos todas as coisas de que somos capazes, ficaríamos literalmente impressionados com nós mesmos.');
+     'Se fizéssemos todas as coisas de que somos capazes, ficaríamos literalmente impressionados com nós mesmos.'),
+    ('The best time to plant a tree was 20 years ago. The second best time is now.', 'pt-BR',
+     'O melhor momento para plantar uma árvore foi 20 anos atrás. O segundo melhor momento é agora.');
