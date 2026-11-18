@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One never notices what has been done; one can only see what remains to be done.', 'nl',
      'Je merkt nooit wat al gedaan is; je ziet alleen wat er nog te doen blijft.'),
     ('I raise up my voice, not so that I can shout, but so that those without a voice can be heard.', 'nl',
-     'Ik verhef mijn stem niet om te schreeuwen, maar zodat zij die geen stem hebben gehoord kunnen worden.');
+     'Ik verhef mijn stem niet om te schreeuwen, maar zodat zij die geen stem hebben gehoord kunnen worden.'),
+    ('One child, one teacher, one book, one pen can change the world.', 'nl',
+     'Eén kind, één leraar, één boek en één pen kunnen de wereld veranderen.');
