@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the price that life exacts for granting peace.', 'pt-BR',
      'A coragem é o preço que a vida cobra para conceder a paz.'),
     ('Adventure is worthwhile in itself.', 'pt-BR',
-     'A aventura vale a pena por si só.');
+     'A aventura vale a pena por si só.'),
+    ('Courage is a love affair with the unknown.', 'pt-BR',
+     'Coragem é um caso de amor com o desconhecido.');
