@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our greatest glory is not in never falling, but in rising every time we fall.', 'nl',
      'Onze grootste glorie is niet dat we nooit vallen, maar dat we telkens weer opstaan als we vallen.'),
     ('Energy and persistence conquer all things.', 'nl',
-     'Energie en volharding overwinnen alles.');
+     'Energie en volharding overwinnen alles.'),
+    ('Rivers know this: there is no hurry. We shall get there some day.', 'nl',
+     'Rivieren weten het: er is geen haast. Ooit komen we er wel.');
