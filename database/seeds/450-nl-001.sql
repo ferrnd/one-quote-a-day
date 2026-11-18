@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Energy and persistence conquer all things.', 'nl',
      'Energie en volharding overwinnen alles.'),
     ('Rivers know this: there is no hurry. We shall get there some day.', 'nl',
-     'Rivieren weten het: er is geen haast. Ooit komen we er wel.');
+     'Rivieren weten het: er is geen haast. Ooit komen we er wel.'),
+    ('Perseverance is not a long race; it is many short races one after the other.', 'nl',
+     'Doorzettingsvermogen is geen lange race; het zijn vele korte races, de een na de ander.');
