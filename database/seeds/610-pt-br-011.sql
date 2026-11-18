@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have not failed. I''ve just found 10,000 ways that won''t work.', 'pt-BR',
      'Eu não fracassei. Só descobri 10 mil maneiras que não funcionam.'),
     ('Failure is simply the opportunity to begin again, this time more intelligently.', 'pt-BR',
-     'O fracasso é apenas a oportunidade de começar de novo, desta vez com mais inteligência.');
+     'O fracasso é apenas a oportunidade de começar de novo, desta vez com mais inteligência.'),
+    ('Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.', 'pt-BR',
+     'Já tentou. Já fracassou. Não importa. Tente de novo. Fracasse de novo. Fracasse melhor.');
