@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One child, one teacher, one book, one pen can change the world.', 'pt-BR',
      'Uma criança, um professor, um livro e uma caneta podem mudar o mundo.'),
     ('When the whole world is silent, even one voice becomes powerful.', 'pt-BR',
-     'Quando o mundo inteiro está em silêncio, até uma única voz se torna poderosa.');
+     'Quando o mundo inteiro está em silêncio, até uma única voz se torna poderosa.'),
+    ('Because it''s there.', 'pt-BR',
+     'Porque ela está lá.');
