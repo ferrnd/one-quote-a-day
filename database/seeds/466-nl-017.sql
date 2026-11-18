@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Excellence is the gradual result of always striving to do better.', 'nl',
      'Uitmuntendheid is het geleidelijke resultaat van altijd streven om het beter te doen.'),
     ('Champions keep playing until they get it right.', 'nl',
-     'Kampioenen blijven spelen tot ze het goed doen.');
+     'Kampioenen blijven spelen tot ze het goed doen.'),
+    ('I hated every minute of training, but I said, don''t quit. Suffer now and live the rest of your life as a champion.', 'nl',
+     'Ik haatte elke minuut van de training, maar ik zei: geef niet op. Lijd nu en leef de rest van je leven als kampioen.');
