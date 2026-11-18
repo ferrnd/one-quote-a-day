@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''ve been absolutely terrified every moment of my life and I''ve never let it keep me from doing a single thing I wanted to do.', 'de',
      'Ich hatte jeden Moment meines Lebens schreckliche Angst und habe mich davon nie abhalten lassen, irgendetwas zu tun, das ich tun wollte.'),
     ('Sorrow is how we learn to love. Your heart isn''t breaking. It hurts because it''s getting larger.', 'de',
-     'Durch Kummer lernen wir zu lieben. Dein Herz bricht nicht. Es tut weh, weil es größer wird.');
+     'Durch Kummer lernen wir zu lieben. Dein Herz bricht nicht. Es tut weh, weil es größer wird.'),
+    ('Once you choose hope, anything''s possible.', 'de',
+     'Wenn du dich für die Hoffnung entscheidest, ist alles möglich.');
