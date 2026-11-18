@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Action may not always bring happiness; but there is no happiness without action.', 'it',
      'L''azione non porta sempre la felicità, ma non c''è felicità senza azione.'),
     ('Thinking will not overcome fear but action will.', 'it',
-     'Pensare non vincerà la paura, ma agire sì.');
+     'Pensare non vincerà la paura, ma agire sì.'),
+    ('Someday is not a day of the week.', 'it',
+     'Un giorno non è un giorno della settimana.');
