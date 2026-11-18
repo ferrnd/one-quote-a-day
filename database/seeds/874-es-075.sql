@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Write it on your heart that every day is the best day in the year.', 'es',
      'Escribe en tu corazón que cada día es el mejor día del año.'),
     ('Life can only be understood backwards; but it must be lived forwards.', 'es',
-     'La vida solo puede entenderse mirando hacia atrás, pero debe vivirse mirando hacia delante.');
+     'La vida solo puede entenderse mirando hacia atrás, pero debe vivirse mirando hacia delante.'),
+    ('Beginnings are always messy.', 'es',
+     'Los comienzos siempre son desordenados.');
