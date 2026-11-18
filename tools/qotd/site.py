@@ -6,6 +6,8 @@ import hashlib
 import shutil
 from pathlib import Path
 
+from . import ogimage
+
 TEXT_SUFFIXES = {".html", ".css", ".js", ".webmanifest", ".svg", ".txt"}
 PLACEHOLDERS = ("%%BUILD%%", "%%WASM_HASH%%")
 
@@ -46,4 +48,5 @@ def stage(web: Path, docs: Path) -> dict[str, str]:
             shutil.copyfile(src, dst)
 
     (docs / ".nojekyll").write_bytes(b"")
-    return {"build": build, "wasm": wasm_hash, "files": str(len(sources) + 2)}
+    ogimage.write(docs / "og.png")
+    return {"build": build, "wasm": wasm_hash, "files": str(len(sources) + 3)}
