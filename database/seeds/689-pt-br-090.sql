@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no coming to consciousness without pain.', 'pt-BR',
      'Não há tomada de consciência sem dor.'),
     ('It''s what you learn after you know it all that counts.', 'pt-BR',
-     'O que conta é o que você aprende depois de achar que já sabe tudo.');
+     'O que conta é o que você aprende depois de achar que já sabe tudo.'),
+    ('Our business in life is not to get ahead of others, but to get ahead of ourselves.', 'pt-BR',
+     'Nossa tarefa na vida não é passar à frente dos outros, mas passar à frente de nós mesmos.');
