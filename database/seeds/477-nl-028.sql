@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Your attitude, not your aptitude, will determine your altitude.', 'nl',
      'Je houding, niet je aanleg, bepaalt hoe hoog je vliegt.'),
     ('Positive thinking will let you do everything better than negative thinking will.', 'nl',
-     'Positief denken laat je alles beter doen dan negatief denken.');
+     'Positief denken laat je alles beter doen dan negatief denken.'),
+    ('Optimism is the one quality more associated with success and happiness than any other.', 'nl',
+     'Optimisme is de eigenschap die meer dan enige andere met succes en geluk wordt geassocieerd.');
