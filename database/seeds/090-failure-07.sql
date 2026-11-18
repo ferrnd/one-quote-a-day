@@ -3,4 +3,5 @@
 INSERT INTO intake (body, author, theme) VALUES
     ('There are no mistakes or failures, only lessons.', 'Denis Waitley', 'failure'),
     ('I have learned more from my mistakes than from my successes.', 'Humphry Davy', 'failure'),
-    ('It''s failure that gives you the proper perspective on success.', 'Ellen DeGeneres', 'failure');
+    ('It''s failure that gives you the proper perspective on success.', 'Ellen DeGeneres', 'failure'),
+    ('Success is how high you bounce when you hit bottom.', 'George S. Patton', 'failure');
