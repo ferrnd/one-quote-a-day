@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The opposite of courage in our society is not cowardice, it is conformity.', 'nl',
      'Het tegenovergestelde van moed is in onze samenleving niet lafheid, maar conformisme.'),
     ('Cowards die many times before their deaths; the valiant never taste of death but once.', 'nl',
-     'Lafaards sterven vele malen voor hun dood; de dapperen proeven de dood slechts één keer.');
+     'Lafaards sterven vele malen voor hun dood; de dapperen proeven de dood slechts één keer.'),
+    ('Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.', 'nl',
+     'Wees niet bang voor grootsheid: sommigen worden groot geboren, sommigen bereiken grootsheid en anderen krijgen grootsheid opgedrongen.');
