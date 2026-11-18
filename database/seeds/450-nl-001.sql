@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Many of life''s failures are people who did not realize how close they were to success when they gave up.', 'nl',
      'Veel mislukkingen in het leven komen van mensen die niet beseften hoe dicht ze bij succes waren toen ze opgaven.'),
     ('I am a slow walker, but I never walk back.', 'nl',
-     'Ik loop langzaam, maar ik loop nooit terug.');
+     'Ik loop langzaam, maar ik loop nooit terug.'),
+    ('Great works are performed not by strength but by perseverance.', 'nl',
+     'Grote werken worden niet volbracht door kracht, maar door volharding.');
