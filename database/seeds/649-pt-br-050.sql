@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Talk does not cook rice.', 'pt-BR',
      'Conversa não cozinha arroz.'),
     ('If not now, when?', 'pt-BR',
-     'Se não agora, quando?');
+     'Se não agora, quando?'),
+    ('To begin, begin.', 'pt-BR',
+     'Para começar, comece.');
