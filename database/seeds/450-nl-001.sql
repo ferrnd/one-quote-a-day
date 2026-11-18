@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.', 'nl',
      'Het verschil tussen een succesvol mens en anderen is geen gebrek aan kracht of kennis, maar een gebrek aan wil.'),
     ('Success is the sum of small efforts, repeated day in and day out.', 'nl',
-     'Succes is de som van kleine inspanningen, dag in dag uit herhaald.');
+     'Succes is de som van kleine inspanningen, dag in dag uit herhaald.'),
+    ('It always seems impossible until it''s done.', 'nl',
+     'Het lijkt altijd onmogelijk, totdat het gedaan is.');
