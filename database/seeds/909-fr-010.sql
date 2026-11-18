@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When it is dark enough, you can see the stars.', 'fr',
      'Quand il fait assez sombre, on peut voir les étoiles.'),
     ('Fire is the test of gold; adversity, of strong men.', 'fr',
-     'Le feu éprouve l''or ; l''adversité, les hommes forts.');
+     'Le feu éprouve l''or ; l''adversité, les hommes forts.'),
+    ('Difficulties strengthen the mind, as labor does the body.', 'fr',
+     'Les difficultés fortifient l''esprit, comme le travail fortifie le corps.');
