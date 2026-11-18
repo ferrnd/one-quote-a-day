@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('My scars remind me that I did indeed survive my deepest wounds.', 'fr',
      'Mes cicatrices me rappellent que j''ai bel et bien survécu à mes blessures les plus profondes.'),
     ('Strength does not come from physical capacity. It comes from an indomitable will.', 'fr',
-     'La force ne vient pas des capacités physiques. Elle vient d''une volonté indomptable.');
+     'La force ne vient pas des capacités physiques. Elle vient d''une volonté indomptable.'),
+    ('The world breaks everyone and afterward many are strong at the broken places.', 'fr',
+     'Le monde brise tout le monde, et ensuite beaucoup deviennent forts à l''endroit de la fracture.');
