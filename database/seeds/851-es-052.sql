@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t wait for inspiration. You have to go after it with a club.', 'es',
      'No puedes esperar a la inspiración. Tienes que ir tras ella con un garrote.'),
     ('Go for it now. The future is promised to no one.', 'es',
-     'Ve por ello ahora. El futuro no le está prometido a nadie.');
+     'Ve por ello ahora. El futuro no le está prometido a nadie.'),
+    ('Doing the best at this moment puts you in the best place for the next moment.', 'es',
+     'Dar lo mejor de ti en este momento te coloca en el mejor lugar para el siguiente.');
