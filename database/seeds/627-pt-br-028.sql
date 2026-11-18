@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The weak can never forgive. Forgiveness is the attribute of the strong.', 'pt-BR',
      'Os fracos nunca conseguem perdoar. O perdão é atributo dos fortes.'),
     ('Strength does not come from winning. Your struggles develop your strengths.', 'pt-BR',
-     'A força não vem de vencer. São as suas lutas que desenvolvem a sua força.');
+     'A força não vem de vencer. São as suas lutas que desenvolvem a sua força.'),
+    ('Strength is a matter of the made-up mind.', 'pt-BR',
+     'A força é uma questão de mente decidida.');
