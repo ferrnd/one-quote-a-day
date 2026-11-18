@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Either you run the day or the day runs you.', 'nl',
      'Óf jij leidt de dag, óf de dag leidt jou.'),
     ('With self-discipline most anything is possible.', 'nl',
-     'Met zelfdiscipline is bijna alles mogelijk.');
+     'Met zelfdiscipline is bijna alles mogelijk.'),
+    ('The successful warrior is the average man, with laser-like focus.', 'nl',
+     'De succesvolle krijger is een gemiddeld mens met een laserscherpe focus.');
