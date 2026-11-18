@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sometimes life hits you in the head with a brick. Don''t lose faith.', 'nl',
      'Soms raakt het leven je met een baksteen tegen je hoofd. Verlies het vertrouwen niet.'),
     ('When something is important enough, you do it even if the odds are not in your favor.', 'nl',
-     'Als iets belangrijk genoeg is, doe je het, ook als de kansen niet in je voordeel zijn.');
+     'Als iets belangrijk genoeg is, doe je het, ook als de kansen niet in je voordeel zijn.'),
+    ('Always bear in mind that your own resolution to succeed is more important than any other.', 'nl',
+     'Onthoud altijd dat je eigen besluit om te slagen belangrijker is dan wat dan ook.');
