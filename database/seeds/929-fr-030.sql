@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Slow and steady wins the race.', 'fr',
      'Rien ne sert de courir ; il faut partir à point.'),
     ('With time and patience the mulberry leaf becomes a silk gown.', 'fr',
-     'Avec le temps et la patience, la feuille de mûrier devient robe de soie.');
+     'Avec le temps et la patience, la feuille de mûrier devient robe de soie.'),
+    ('Patience attracts happiness; it brings near that which is far.', 'fr',
+     'La patience attire le bonheur ; elle rapproche ce qui est loin.');
