@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One person can make a difference, and everyone should try.', 'nl',
      'Eén persoon kan het verschil maken, en iedereen zou het moeten proberen.'),
     ('We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.', 'nl',
-     'We kiezen ervoor om in dit decennium naar de maan te gaan en de andere dingen te doen, niet omdat ze makkelijk zijn, maar omdat ze moeilijk zijn.');
+     'We kiezen ervoor om in dit decennium naar de maan te gaan en de andere dingen te doen, niet omdat ze makkelijk zijn, maar omdat ze moeilijk zijn.'),
+    ('Opportunities multiply as they are seized.', 'nl',
+     'Kansen vermenigvuldigen zich wanneer ze worden gegrepen.');
