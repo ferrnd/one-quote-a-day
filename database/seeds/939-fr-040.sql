@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The opposite of courage in our society is not cowardice, it is conformity.', 'fr',
      'Le contraire du courage dans notre société n''est pas la lâcheté, c''est le conformisme.'),
     ('Cowards die many times before their deaths; the valiant never taste of death but once.', 'fr',
-     'Les lâches meurent plusieurs fois avant leur mort ; les vaillants ne goûtent la mort qu''une seule fois.');
+     'Les lâches meurent plusieurs fois avant leur mort ; les vaillants ne goûtent la mort qu''une seule fois.'),
+    ('Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.', 'fr',
+     'N''aie pas peur de la grandeur : certains naissent grands, d''autres atteignent la grandeur, et d''autres encore se la voient imposer.');
