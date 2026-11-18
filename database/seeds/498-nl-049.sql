@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t give up on your dreams, or your dreams will give up on you.', 'nl',
      'Geef je dromen niet op, anders geven je dromen jou op.'),
     ('There is nothing like a dream to create the future.', 'nl',
-     'Er is niets zoals een droom om de toekomst te scheppen.');
+     'Er is niets zoals een droom om de toekomst te scheppen.'),
+    ('The power of imagination makes us infinite.', 'nl',
+     'De kracht van de verbeelding maakt ons oneindig.');
