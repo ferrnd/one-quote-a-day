@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard work is a prison sentence only if it does not have meaning.', 'nl',
      'Hard werken is alleen een gevangenisstraf als het geen betekenis heeft.'),
     ('We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.', 'nl',
-     'We worden rechtvaardig door rechtvaardig te handelen, gematigd door gematigd te handelen, moedig door moedig te handelen.');
+     'We worden rechtvaardig door rechtvaardig te handelen, gematigd door gematigd te handelen, moedig door moedig te handelen.'),
+    ('Never mistake activity for achievement.', 'nl',
+     'Verwar nooit bezigheid met prestatie.');
