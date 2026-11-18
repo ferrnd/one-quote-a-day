@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Have the courage to follow your heart and intuition.', 'es',
      'Ten el valor de seguir a tu corazón y a tu intuición.'),
     ('Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.', 'es',
-     'Ser amado profundamente por alguien te da fuerza, mientras que amar a alguien profundamente te da valor.');
+     'Ser amado profundamente por alguien te da fuerza, mientras que amar a alguien profundamente te da valor.'),
+    ('Courage is grace under pressure.', 'es',
+     'El valor es elegancia bajo presión.');
