@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity has ever been considered the state in which a man most easily becomes acquainted with himself.', 'de',
      'Das Unglück galt schon immer als der Zustand, in dem der Mensch sich selbst am leichtesten kennenlernt.'),
     ('Bad times have a scientific value. These are occasions a good learner would not miss.', 'de',
-     'Schlechte Zeiten haben einen wissenschaftlichen Wert. Es sind Gelegenheiten, die ein guter Schüler nicht verpassen würde.');
+     'Schlechte Zeiten haben einen wissenschaftlichen Wert. Es sind Gelegenheiten, die ein guter Schüler nicht verpassen würde.'),
+    ('Every wall is a door.', 'de',
+     'Jede Mauer ist eine Tür.');
