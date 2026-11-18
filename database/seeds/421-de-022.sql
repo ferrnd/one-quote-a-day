@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What makes the desert beautiful is that somewhere it hides a well.', 'de',
      'Was die Wüste schön macht, ist, dass sie irgendwo einen Brunnen verbirgt.'),
     ('The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.', 'de',
-     'Der Pessimist sieht in jeder Chance eine Schwierigkeit. Der Optimist sieht in jeder Schwierigkeit eine Chance.');
+     'Der Pessimist sieht in jeder Chance eine Schwierigkeit. Der Optimist sieht in jeder Schwierigkeit eine Chance.'),
+    ('Challenges are what make life interesting and overcoming them is what makes life meaningful.', 'de',
+     'Herausforderungen machen das Leben interessant, und sie zu überwinden gibt dem Leben Sinn.');
