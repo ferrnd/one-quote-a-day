@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our wounds are often the openings into the best and most beautiful part of us.', 'nl',
      'Onze wonden zijn vaak de openingen naar het beste en mooiste deel van onszelf.'),
     ('Resilience is accepting your new reality, even if it''s less good than the one you had before.', 'nl',
-     'Veerkracht is je nieuwe werkelijkheid aanvaarden, ook al is die minder goed dan wat je eerder had.');
+     'Veerkracht is je nieuwe werkelijkheid aanvaarden, ook al is die minder goed dan wat je eerder had.'),
+    ('Man never made any material as resilient as the human spirit.', 'nl',
+     'De mens heeft nooit een materiaal gemaakt dat zo veerkrachtig is als de menselijke geest.');
