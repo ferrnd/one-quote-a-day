@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.', 'de',
      'Freiheit ist das einzige würdige Ziel im Leben. Man gewinnt sie, indem man sich nicht um die Dinge kümmert, die außerhalb unserer Macht liegen.'),
     ('Don''t explain your philosophy. Embody it.', 'de',
-     'Erkläre deine Philosophie nicht. Verkörpere sie.');
+     'Erkläre deine Philosophie nicht. Verkörpere sie.'),
+    ('If you want to improve, be content to be thought foolish and stupid.', 'de',
+     'Wenn du Fortschritte machen willst, finde dich damit ab, für töricht und dumm gehalten zu werden.');
