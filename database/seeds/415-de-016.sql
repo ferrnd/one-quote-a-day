@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We are what we repeatedly do. Excellence, then, is not an act, but a habit.', 'de',
      'Wir sind, was wir wiederholt tun. Vortrefflichkeit ist daher keine Handlung, sondern eine Gewohnheit.'),
     ('Discipline is the bridge between goals and accomplishment.', 'de',
-     'Disziplin ist die Brücke zwischen Zielen und Erfolgen.');
+     'Disziplin ist die Brücke zwischen Zielen und Erfolgen.'),
+    ('We must all suffer one of two things: the pain of discipline or the pain of regret.', 'de',
+     'Wir alle müssen eines von zwei Dingen erleiden: den Schmerz der Disziplin oder den Schmerz der Reue.');
