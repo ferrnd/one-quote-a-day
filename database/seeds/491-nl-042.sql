@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be water, my friend.', 'nl',
      'Wees water, mijn vriend.'),
     ('Hard days are the best because that''s when champions are made.', 'nl',
-     'Zware dagen zijn de beste, want dan worden kampioenen gemaakt.');
+     'Zware dagen zijn de beste, want dan worden kampioenen gemaakt.'),
+    ('There is always light, if only we''re brave enough to see it. If only we''re brave enough to be it.', 'nl',
+     'Er is altijd licht, als we maar dapper genoeg zijn om het te zien. Als we maar dapper genoeg zijn om het te zijn.');
