@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The pain passes, but the beauty remains.', 'es',
      'El dolor pasa, pero la belleza permanece.'),
     ('Things turn out best for the people who make the best of the way things turn out.', 'es',
-     'A las cosas les va mejor a quienes sacan el mejor partido de cómo salen las cosas.');
+     'A las cosas les va mejor a quienes sacan el mejor partido de cómo salen las cosas.'),
+    ('Now is no time to think of what you do not have. Think of what you can do with what there is.', 'es',
+     'Ahora no es momento de pensar en lo que no tienes. Piensa en lo que puedes hacer con lo que hay.');
