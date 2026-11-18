@@ -25,3 +25,31 @@ the string storage. JavaScript only reads the clock and paints the text.
    `quote_for_date(y, m, d)` using the local date, decodes the strings straight
    out of linear memory and sleeps until the next local midnight.
 
+## Architecture
+
+```
+ database/schema.sql ─┐
+ database/seeds/*.sql ┴─► sqlite3 ─► catalog ─┬─► schedule (PCG32 + Fisher-Yates)
+                                              │            │
+ src/wat/*.wat ───────────────────────────────┴─► watgen ◄─┘
+                                                     │
+                                       generated/quotes.wat   (7.7 MB of WAT)
+                                                     │  wabt
+                                              docs/quotes.wasm (370 KB)
+                                                     │
+ web/ ──────────────────────────────────────► docs/  ─► GitHub Pages
+```
+
+Linear memory of the module:
+
+| Region   | Contents                                                          |
+| -------- | ----------------------------------------------------------------- |
+| header   | magic `QOTD`, format, counts, pointers, FNV-1a of the string pool |
+| records  | 16 bytes per quote: text pointer/length, author pointer/length    |
+| pool     | every author name and quote body, ASCII                           |
+| schedule | one `u16` quote index per day for 146,097 days                    |
+| scratch  | room for the runtime to materialise a permutation                 |
+
+The start function validates the header and recomputes the pool checksum, so a
+corrupted module refuses to instantiate instead of showing garbage.
+
