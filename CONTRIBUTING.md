@@ -19,6 +19,14 @@
 
 Adding quotes changes N, which reshuffles the whole calendar. That is expected.
 
+## Translating
+
+Every locale must translate every quote, or the build fails. When you add a
+quote, add its translation in a new seed that inserts into
+`translation_intake (original, locale, body)`, where `original` is the exact
+English text. Translate the meaning, not the words: idioms, puns and rhythm
+matter more than a literal match.
+
 ## Changing the runtime
 
 Edit the fragments in `src/wat/`, never `generated/quotes.wat`. Anything the

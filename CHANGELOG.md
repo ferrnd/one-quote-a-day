@@ -4,6 +4,19 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [1.7.0] - 2026-11-18
+
+### Added
+
+- Languages. A Language tab in the panel switches between Auto (the
+  browser's language), English and Português (Brasil), live.
+- 1,000 hand-made pt-BR translations, written to carry each quote's meaning
+  rather than its words, plus Portuguese author names (proverbs, classical
+  authors) and the Day 1 dedication in its original words.
+- The whole interface in pt-BR, with localized dates and countdowns.
+- WebAssembly format 4: one record block per locale and an interned UTF-8
+  string pool. The build fails if a locale is only partly translated.
+
 ## [1.6.0] - 2026-11-18
 
 ### Added
