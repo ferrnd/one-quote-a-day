@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('While I breathe, I hope.', 'fr',
      'Tant que je respire, j''espère.'),
     ('Every day may not be good, but there''s something good in every day.', 'fr',
-     'Chaque jour n''est peut-être pas bon, mais il y a du bon dans chaque jour.');
+     'Chaque jour n''est peut-être pas bon, mais il y a du bon dans chaque jour.'),
+    ('In the depth of winter, I finally learned that within me there lay an invincible summer.', 'fr',
+     'Au milieu de l''hiver, j''ai découvert en moi un invincible été.');
