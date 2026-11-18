@@ -47,3 +47,23 @@ test("parseDateKey accepts real dates only", () => {
   assert.equal(clock.parseDateKey("2026-1-1"), null);
   assert.equal(clock.parseDateKey(null), null);
 });
+
+test("night runs from 21:00 to 06:00", () => {
+  assert.equal(clock.isNight(new Date(2026, 10, 17, 20, 59)), false);
+  assert.equal(clock.isNight(new Date(2026, 10, 17, 21, 0)), true);
+  assert.equal(clock.isNight(new Date(2026, 10, 18, 5, 59)), true);
+  assert.equal(clock.isNight(new Date(2026, 10, 18, 6, 0)), false);
+});
+
+test("the next theme change is the nearest 06:00 or 21:00", () => {
+  assert.equal(clock.msUntilNextThemeChange(new Date(2026, 10, 17, 20, 0)), 3_600_000);
+  assert.equal(clock.msUntilNextThemeChange(new Date(2026, 10, 17, 23, 0)), 7 * 3_600_000);
+  assert.equal(clock.msUntilNextThemeChange(new Date(2026, 10, 17, 3, 30)), 2.5 * 3_600_000);
+});
+
+test("countdowns round up to the minute", () => {
+  assert.equal(clock.formatCountdown(4 * 3_600_000 + 12 * 60_000), "4h 12m");
+  assert.equal(clock.formatCountdown(3_600_000 + 5 * 60_000 - 1), "1h 05m");
+  assert.equal(clock.formatCountdown(59_000), "1m");
+  assert.equal(clock.formatCountdown(12 * 60_000), "12m");
+});
