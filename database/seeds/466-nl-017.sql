@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Self-discipline is the magic power that makes you virtually unstoppable.', 'nl',
-     'Zelfdiscipline is de magische kracht die je vrijwel onstuitbaar maakt.');
+     'Zelfdiscipline is de magische kracht die je vrijwel onstuitbaar maakt.'),
+    ('The price of excellence is discipline. The cost of mediocrity is disappointment.', 'nl',
+     'De prijs van uitmuntendheid is discipline. De kosten van middelmatigheid zijn teleurstelling.');
