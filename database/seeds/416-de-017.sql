@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dedication sees dreams come true.', 'de',
      'Hingabe lässt Träume wahr werden.'),
     ('Rest at the end, not in the middle.', 'de',
-     'Ruh dich am Ende aus, nicht in der Mitte.');
+     'Ruh dich am Ende aus, nicht in der Mitte.'),
+    ('There are no shortcuts to any place worth going.', 'de',
+     'Es gibt keine Abkürzungen zu einem Ort, der es wert ist.');
