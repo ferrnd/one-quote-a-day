@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Weeping may endure for a night, but joy cometh in the morning.', 'es',
      'Por la noche durará el llanto, y a la mañana vendrá la alegría.'),
     ('Grow old along with me! The best is yet to be.', 'es',
-     '¡Envejece conmigo! Lo mejor está por venir.');
+     '¡Envejece conmigo! Lo mejor está por venir.'),
+    ('Isn''t it nice to think that tomorrow is a new day with no mistakes in it yet?', 'es',
+     '¿No es agradable pensar que mañana es un día nuevo, todavía sin errores?');
