@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Tough times never last, but tough people do.', 'nl',
      'Moeilijke tijden duren nooit eeuwig, sterke mensen wel.'),
     ('Where there is no struggle, there is no strength.', 'nl',
-     'Waar geen strijd is, is geen kracht.');
+     'Waar geen strijd is, is geen kracht.'),
+    ('Turn your wounds into wisdom.', 'nl',
+     'Verander je wonden in wijsheid.');
