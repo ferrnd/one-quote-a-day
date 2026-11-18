@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One day, in retrospect, the years of struggle will strike you as the most beautiful.', 'pt-BR',
      'Um dia, olhando para trás, os anos de luta vão parecer os mais bonitos.'),
     ('In the end, everything will be okay. If it''s not okay, it''s not yet the end.', 'pt-BR',
-     'No fim, tudo dá certo. Se não deu certo, é porque ainda não chegou ao fim.');
+     'No fim, tudo dá certo. Se não deu certo, é porque ainda não chegou ao fim.'),
+    ('Hope is the companion of power, and mother of success.', 'pt-BR',
+     'A esperança é companheira do poder e mãe do sucesso.');
