@@ -8,4 +8,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Do something wonderful, people may imitate it.', 'Albert Schweitzer', 'action'),
     ('The time is always right to do what is right.', 'Martin Luther King Jr.', 'action'),
     ('A goal properly set is halfway reached.', 'Zig Ziglar', 'action'),
-    ('Things do not happen. Things are made to happen.', 'John F. Kennedy', 'action');
+    ('Things do not happen. Things are made to happen.', 'John F. Kennedy', 'action'),
+    ('Eighty percent of success is showing up.', 'Woody Allen', 'action');
