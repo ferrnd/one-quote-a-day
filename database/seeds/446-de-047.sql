@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Impossible is just a big word thrown around by small men.', 'de',
      'Unmöglich ist nur ein großes Wort, mit dem kleine Leute um sich werfen.'),
     ('It''s the repetition of affirmations that leads to belief.', 'de',
-     'Es ist die Wiederholung von Bekräftigungen, die zum Glauben führt.');
+     'Es ist die Wiederholung von Bekräftigungen, die zum Glauben führt.'),
+    ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'de',
+     'Wenn mein Verstand es sich vorstellen und mein Herz es glauben kann, dann kann ich es erreichen.');
