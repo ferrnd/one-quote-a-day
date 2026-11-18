@@ -1,7 +1,8 @@
 /*
  * quotes :: styles
  *
- * Two colours, no exceptions: ink and paper.
+ * Two colours, no exceptions: ink and paper. By day ink is black on white
+ * paper; from 21:00 to 06:00 they swap.
  */
 
 :root {
@@ -10,7 +11,26 @@
   --serif: "Cormorant Garamond", "Cormorant", Garamond, "EB Garamond", "Times New Roman", serif;
   --measure: 44rem;
   --fade: 900ms;
-  color-scheme: only light;
+  --theme-fade: 1.6s;
+  --veil: rgb(255 255 255 / 0.72);
+  --hover: rgb(0 0 0 / 0.04);
+  --card-shadow:
+    0 0.0625rem 0.1875rem rgb(0 0 0 / 0.04),
+    0 0.75rem 2rem -0.5rem rgb(0 0 0 / 0.10),
+    0 2.5rem 5.625rem -1.5rem rgb(0 0 0 / 0.22);
+  color-scheme: light;
+}
+
+:root[data-theme="night"] {
+  --ink: #ffffff;
+  --paper: #000000;
+  --veil: rgb(0 0 0 / 0.72);
+  --hover: rgb(255 255 255 / 0.06);
+  /* on black, depth is a faint white glow instead of a shadow */
+  --card-shadow:
+    0 0 3rem -0.5rem rgb(255 255 255 / 0.10),
+    0 2.5rem 6rem -2rem rgb(255 255 255 / 0.08);
+  color-scheme: dark;
 }
 
 *,
@@ -32,6 +52,7 @@ html {
   color: var(--ink);
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  transition: background-color var(--theme-fade) ease, color var(--theme-fade) ease;
 }
 
 @media (max-aspect-ratio: 4/5) {
@@ -46,8 +67,11 @@ body {
   margin: 0;
   display: grid;
   place-items: center;
+  /* one screen, no scrollbars: quotes slide in and out past the edges */
+  overflow: hidden;
   background: var(--paper);
   color: var(--ink);
+  transition: background-color var(--theme-fade) ease, color var(--theme-fade) ease;
   font-family: var(--serif);
   font-optical-sizing: auto;
   font-kerning: normal;
@@ -66,6 +90,8 @@ main {
 .quote {
   margin: 0;
   text-align: center;
+  cursor: copy;
+  will-change: transform;
   transition: opacity var(--fade) ease, transform var(--fade) ease;
 }
 
@@ -163,6 +189,56 @@ main {
 }
 
 /* keep a comfortable hit area around the small label */
+/* the label and the countdown share one cell and cross-fade on hover */
+.day-counter {
+  display: grid;
+  justify-items: end;
+}
+
+.day-label,
+.day-next {
+  grid-area: 1 / 1;
+  text-box: trim-both cap alphabetic;
+  transition: opacity 250ms ease;
+}
+
+.day-next {
+  opacity: 0;
+}
+
+.day-counter:hover .day-label,
+.day-counter:focus-visible .day-label {
+  opacity: 0;
+}
+
+.day-counter:hover .day-next,
+.day-counter:focus-visible .day-next {
+  opacity: 1;
+}
+
+/* --------------------------------------------------------------- toast -- */
+
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: 2rem;
+  margin: 0;
+  color: var(--ink);
+  font: 700 1.1rem/1 var(--serif);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  text-box: trim-both cap alphabetic;
+  opacity: 0;
+  transform: translate(-50%, 0.4rem);
+  transition: opacity 300ms ease, transform 300ms ease;
+  pointer-events: none;
+}
+
+.toast[data-visible="true"] {
+  opacity: 0.4;
+  transform: translate(-50%, 0);
+}
+
 .day-counter::after {
   content: "";
   position: absolute;
@@ -193,10 +269,7 @@ main {
   color: var(--ink);
   font-family: var(--serif);
   overflow: hidden;
-  box-shadow:
-    0 0.0625rem 0.1875rem rgb(0 0 0 / 0.04),
-    0 0.75rem 2rem -0.5rem rgb(0 0 0 / 0.10),
-    0 2.5rem 5.625rem -1.5rem rgb(0 0 0 / 0.22);
+  box-shadow: var(--card-shadow);
 }
 
 .archive[open] {
@@ -206,7 +279,7 @@ main {
 }
 
 .archive::backdrop {
-  background: rgb(255 255 255 / 0.72);
+  background: var(--veil);
   -webkit-backdrop-filter: blur(0.375rem);
   backdrop-filter: blur(0.375rem);
   animation: archive-fade 420ms ease;
@@ -282,7 +355,7 @@ main {
 
 .archive-close:hover {
   opacity: 1;
-  background: rgb(0 0 0 / 0.04);
+  background: var(--hover);
 }
 
 .archive-list {
@@ -344,7 +417,9 @@ main {
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .quote {
+  .quote,
+  html,
+  body {
     transition: none;
   }
 
