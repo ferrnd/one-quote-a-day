@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Expose yourself to your deepest fear; after that, fear has no power.', 'nl',
      'Stel je bloot aan je diepste angst; daarna heeft angst geen macht meer.'),
     ('Courage is like love; it must have hope for nourishment.', 'nl',
-     'Moed is als liefde: het heeft hoop nodig als voeding.');
+     'Moed is als liefde: het heeft hoop nodig als voeding.'),
+    ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'nl',
+     'Het is merkwaardig dat fysieke moed zo gewoon is in de wereld, en morele moed zo zeldzaam.');
