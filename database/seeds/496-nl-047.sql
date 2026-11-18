@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.', 'nl',
      'De pessimist klaagt over de wind; de optimist verwacht dat hij draait; de realist zet de zeilen bij.'),
     ('Optimism is essential to achievement and it is also the foundation of courage and true progress.', 'nl',
-     'Optimisme is essentieel voor prestaties en ook de basis van moed en ware vooruitgang.');
+     'Optimisme is essentieel voor prestaties en ook de basis van moed en ware vooruitgang.'),
+    ('You are what you believe yourself to be.', 'nl',
+     'Je bent wat je gelooft te zijn.');
