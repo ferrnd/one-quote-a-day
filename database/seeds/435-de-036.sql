@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('People with goals succeed because they know where they''re going.', 'de',
      'Menschen mit Zielen haben Erfolg, weil sie wissen, wohin sie gehen.'),
     ('What you seek is seeking you.', 'de',
-     'Was du suchst, sucht dich.');
+     'Was du suchst, sucht dich.'),
+    ('Don''t grieve. Anything you lose comes round in another form.', 'de',
+     'Gräme dich nicht. Alles, was du verlierst, kehrt in anderer Gestalt zurück.');
