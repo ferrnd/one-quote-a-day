@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('An idea not coupled with action will never get any bigger than the brain cell it occupied.', 'nl',
      'Een idee dat niet gepaard gaat met actie wordt nooit groter dan de hersencel die het innam.'),
     ('Talk does not cook rice.', 'nl',
-     'Praten kookt geen rijst.');
+     'Praten kookt geen rijst.'),
+    ('If not now, when?', 'nl',
+     'Als niet nu, wanneer dan?');
