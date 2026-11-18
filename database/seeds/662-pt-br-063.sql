@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Set your goals high, and don''t stop till you get there.', 'pt-BR',
      'Estabeleça metas altas e não pare até chegar lá.'),
     ('Desire is the key to motivation, but it''s determination and commitment to an unrelenting pursuit of your goal that will enable you to attain the success you seek.', 'pt-BR',
-     'O desejo é a chave da motivação, mas são a determinação e o compromisso com a busca incansável do seu objetivo que permitirão alcançar o sucesso que você procura.');
+     'O desejo é a chave da motivação, mas são a determinação e o compromisso com a busca incansável do seu objetivo que permitirão alcançar o sucesso que você procura.'),
+    ('Obstacles cannot crush me. Every obstacle yields to stern resolve.', 'pt-BR',
+     'Os obstáculos não podem me esmagar. Todo obstáculo cede diante de uma determinação firme.');
