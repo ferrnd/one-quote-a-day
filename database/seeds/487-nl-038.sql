@@ -1,0 +1,5 @@
+-- seed 487 :: nl translations 741-760
+
+INSERT INTO translation_intake (original, locale, body) VALUES
+    ('Finish each day and be done with it. You have done what you could.', 'nl',
+     'Rond elke dag af en laat hem los. Je hebt gedaan wat je kon.');
