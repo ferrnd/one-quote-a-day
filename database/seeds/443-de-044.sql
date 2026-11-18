@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength doesn''t come from what you can do. It comes from overcoming the things you once thought you couldn''t.', 'de',
      'Stärke kommt nicht von dem, was du kannst. Sie kommt davon, die Dinge zu überwinden, von denen du einst dachtest, du könntest es nicht.'),
     ('Excellence is not a skill. It is an attitude.', 'de',
-     'Exzellenz ist keine Fähigkeit. Sie ist eine Haltung.');
+     'Exzellenz ist keine Fähigkeit. Sie ist eine Haltung.'),
+    ('Do the hard jobs first. The easy jobs will take care of themselves.', 'de',
+     'Erledige zuerst die schweren Aufgaben. Die leichten erledigen sich von selbst.');
