@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Real change, enduring change, happens one step at a time.', 'it',
      'Il vero cambiamento, quello duraturo, avviene un passo alla volta.'),
     ('I was taught that the way of progress was neither swift nor easy.', 'it',
-     'Mi hanno insegnato che la strada del progresso non è né rapida né facile.');
+     'Mi hanno insegnato che la strada del progresso non è né rapida né facile.'),
+    ('Adversity causes some men to break; others to break records.', 'it',
+     'L''avversità fa sì che alcuni uomini si spezzino, e altri battano record.');
