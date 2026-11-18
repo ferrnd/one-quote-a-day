@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wait; the time will never be just right.', 'fr',
      'N''attends pas ; le moment ne sera jamais parfait.'),
     ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'fr',
-     'Savoir ne suffit pas, il faut appliquer. Vouloir ne suffit pas, il faut agir.');
+     'Savoir ne suffit pas, il faut appliquer. Vouloir ne suffit pas, il faut agir.'),
+    ('Action may not always bring happiness; but there is no happiness without action.', 'fr',
+     'L''action n''apporte pas toujours le bonheur, mais il n''y a pas de bonheur sans action.');
