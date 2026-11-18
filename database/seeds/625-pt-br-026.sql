@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are far, far better things ahead than any we leave behind.', 'pt-BR',
      'Há coisas muito, muito melhores pela frente do que qualquer coisa que deixamos para trás.'),
     ('In spite of everything I still believe that people are really good at heart.', 'pt-BR',
-     'Apesar de tudo, ainda acredito que as pessoas são boas de coração.');
+     'Apesar de tudo, ainda acredito que as pessoas são boas de coração.'),
+    ('Think of all the beauty still left around you and be happy.', 'pt-BR',
+     'Pense em toda a beleza que ainda existe ao seu redor e seja feliz.');
