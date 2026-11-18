@@ -41,3 +41,36 @@ export function parseDateKey(value) {
   }
   return { year, month, day };
 }
+
+/** Night mode runs from 21:00 to 06:00 local time. */
+export const NIGHT_STARTS_AT = 21;
+export const NIGHT_ENDS_AT = 6;
+
+/** @param {Date} now */
+export function isNight(now) {
+  const hour = now.getHours();
+  return hour >= NIGHT_STARTS_AT || hour < NIGHT_ENDS_AT;
+}
+
+/** @param {Date} now @returns {Date} the next 06:00 or 21:00, whichever comes first */
+export function nextThemeChange(now) {
+  const next = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 0, 0, 0, 0);
+  const hour = now.getHours();
+  if (hour < NIGHT_ENDS_AT) next.setHours(NIGHT_ENDS_AT);
+  else if (hour < NIGHT_STARTS_AT) next.setHours(NIGHT_STARTS_AT);
+  else next.setDate(next.getDate() + 1), next.setHours(NIGHT_ENDS_AT);
+  return next;
+}
+
+/** @param {Date} now */
+export function msUntilNextThemeChange(now) {
+  return Math.max(0, nextThemeChange(now).getTime() - now.getTime());
+}
+
+/** @param {number} ms @returns {string} "4h 12m", "12m", rounding up to the minute */
+export function formatCountdown(ms) {
+  const minutes = Math.max(1, Math.ceil(ms / 60_000));
+  const h = Math.floor(minutes / 60);
+  const m = minutes % 60;
+  return h ? `${h}h ${String(m).padStart(2, "0")}m` : `${m}m`;
+}
