@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Anyone can hold the helm when the sea is calm.', 'it',
      'Chiunque sa tenere il timone quando il mare è calmo.'),
     ('The tougher the battle, the sweeter the victory.', 'it',
-     'Più dura è la battaglia, più dolce è la vittoria.');
+     'Più dura è la battaglia, più dolce è la vittoria.'),
+    ('Sweet are the uses of adversity.', 'it',
+     'Dolci sono i frutti dell''avversità.');
