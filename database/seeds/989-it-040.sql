@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'it',
      'La cosa più coraggiosa che puoi fare quando non ti senti coraggioso è dichiararti coraggioso e agire di conseguenza.'),
     ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'it',
-     'Il coraggio è fare ciò che ti fa paura. Non può esserci coraggio senza paura.');
+     'Il coraggio è fare ciò che ti fa paura. Non può esserci coraggio senza paura.'),
+    ('Fortune and love favor the brave.', 'it',
+     'La fortuna e l''amore aiutano gli audaci.');
