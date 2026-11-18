@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'it',
      'Se la mia mente può concepirlo e il mio cuore può crederci, allora posso realizzarlo.'),
     ('Confidence is contagious. So is lack of confidence.', 'it',
-     'La fiducia è contagiosa. Anche la mancanza di fiducia.');
+     'La fiducia è contagiosa. Anche la mancanza di fiducia.'),
+    ('Nurture your mind with great thoughts, for you will never go any higher than you think.', 'it',
+     'Nutri la tua mente con grandi pensieri, perché non andrai mai più in alto di quanto pensi.');
