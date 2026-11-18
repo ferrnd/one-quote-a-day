@@ -56,3 +56,21 @@ test("a corrupted string pool refuses to instantiate", async () => {
   bytes[at] ^= 0x20; // "Fall" -> "fall"
   await assert.rejects(WebAssembly.instantiate(bytes, {}), WebAssembly.RuntimeError);
 });
+
+test("every quote is available in every locale", async () => {
+  const x = engine.x;
+  const dec = new TextDecoder("utf-8", { fatal: true });
+  const read = (p, l) => dec.decode(new Uint8Array(x.memory.buffer, p, l));
+  const codes = Array.from({ length: x.locale_count() }, (_, k) => read(x.locale_code_ptr(k), x.locale_code_len(k)));
+  assert.deepEqual(codes, ["en", "pt-BR"]);
+  for (let i = 0; i < x.quote_count(); i++) {
+    const en = read(x.localized_text_ptr(i, 0), x.localized_text_len(i, 0));
+    const pt = read(x.localized_text_ptr(i, 1), x.localized_text_len(i, 1));
+    assert.equal(en, engine.text(i));
+    assert.notEqual(pt, en, `quote ${i} is untranslated`);
+    assert.ok(x.localized_author_len(i, 1) > 0);
+  }
+  const day1 = x.quote_for_date(2026, 11, 16);
+  assert.equal(read(x.localized_text_ptr(day1, 1), x.localized_text_len(day1, 1)), "Desculpe por fazer você sofrer. Eu te amo.");
+  assert.throws(() => x.localized_text_ptr(0, x.locale_count()), WebAssembly.RuntimeError);
+});
