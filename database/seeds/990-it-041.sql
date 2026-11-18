@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is a detour, not a dead-end street.', 'it',
      'Il fallimento è una deviazione, non un vicolo cieco.'),
     ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'it',
-     'Un fallimento non è sempre un errore. Può essere semplicemente il meglio che si potesse fare in quelle circostanze. Il vero errore è smettere di provare.');
+     'Un fallimento non è sempre un errore. Può essere semplicemente il meglio che si potesse fare in quelle circostanze. Il vero errore è smettere di provare.'),
+    ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'it',
+     'Se non fallisci ogni tanto, è segno che non stai facendo nulla di molto innovativo.');
