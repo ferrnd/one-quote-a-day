@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Diamonds are nothing more than chunks of coal that stuck to their jobs.', 'nl',
      'Diamanten zijn niets anders dan stukjes steenkool die bij hun werk zijn gebleven.'),
     ('Great things are not done by impulse, but by a series of small things brought together.', 'nl',
-     'Grote dingen worden niet in een opwelling gedaan, maar door een reeks kleine dingen die samengebracht worden.');
+     'Grote dingen worden niet in een opwelling gedaan, maar door een reeks kleine dingen die samengebracht worden.'),
+    ('Genius is one percent inspiration and ninety-nine percent perspiration.', 'nl',
+     'Genialiteit is één procent inspiratie en negenennegentig procent transpiratie.');
