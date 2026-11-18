@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'es',
      'Cuando cometes un error, solo debes hacer tres cosas: admitirlo, aprender de él y no repetirlo.'),
     ('Failure is a detour, not a dead-end street.', 'es',
-     'El fracaso es un desvío, no un callejón sin salida.');
+     'El fracaso es un desvío, no un callejón sin salida.'),
+    ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'es',
+     'Un fracaso no siempre es un error. Puede ser simplemente lo mejor que se pudo hacer en esas circunstancias. El verdadero error es dejar de intentarlo.');
