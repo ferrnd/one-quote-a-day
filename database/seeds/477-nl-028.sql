@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A man is but the product of his thoughts. What he thinks, he becomes.', 'nl',
      'Een mens is slechts het product van zijn gedachten. Wat hij denkt, wordt hij.'),
     ('If you don''t like something, change it. If you can''t change it, change your attitude.', 'nl',
-     'Als je iets niet bevalt, verander het dan. Als je het niet kunt veranderen, verander dan je houding.');
+     'Als je iets niet bevalt, verander het dan. Als je het niet kunt veranderen, verander dan je houding.'),
+    ('People often say that motivation doesn''t last. Well, neither does bathing. That''s why we recommend it daily.', 'nl',
+     'Mensen zeggen vaak dat motivatie niet blijft. Nou, douchen ook niet. Daarom raden we het dagelijks aan.');
