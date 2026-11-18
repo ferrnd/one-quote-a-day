@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Think of all the beauty still left around you and be happy.', 'es',
      'Piensa en toda la belleza que todavía queda a tu alrededor y sé feliz.'),
     ('It is often in the darkest skies that we see the brightest stars.', 'es',
-     'A menudo es en los cielos más oscuros donde vemos las estrellas más brillantes.');
+     'A menudo es en los cielos más oscuros donde vemos las estrellas más brillantes.'),
+    ('Strength and growth come only through continuous effort and struggle.', 'es',
+     'La fuerza y el crecimiento solo llegan con esfuerzo y lucha continuos.');
