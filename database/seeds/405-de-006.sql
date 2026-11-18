@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.', 'de',
      'Immer versucht. Immer gescheitert. Einerlei. Wieder versuchen. Wieder scheitern. Besser scheitern.'),
     ('I''ve failed over and over and over again in my life. And that is why I succeed.', 'de',
-     'Ich bin in meinem Leben immer und immer und immer wieder gescheitert. Und genau deshalb habe ich Erfolg.');
+     'Ich bin in meinem Leben immer und immer und immer wieder gescheitert. Und genau deshalb habe ich Erfolg.'),
+    ('Only those who dare to fail greatly can ever achieve greatly.', 'de',
+     'Nur wer es wagt, groß zu scheitern, kann Großes erreichen.');
