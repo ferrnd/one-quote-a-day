@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nobody can make you feel inferior without your consent.', 'nl',
      'Niemand kan je een minderwaardig gevoel geven zonder jouw toestemming.'),
     ('You have power over your mind, not outside events. Realize this, and you will find strength.', 'nl',
-     'Je hebt macht over je geest, niet over gebeurtenissen buiten je. Besef dat, en je zult kracht vinden.');
+     'Je hebt macht over je geest, niet over gebeurtenissen buiten je. Besef dat, en je zult kracht vinden.'),
+    ('The impediment to action advances action. What stands in the way becomes the way.', 'nl',
+     'Het obstakel voor de daad brengt de daad vooruit. Wat in de weg staat, wordt de weg.');
