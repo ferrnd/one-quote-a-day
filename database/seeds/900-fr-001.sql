@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is the sum of small efforts, repeated day in and day out.', 'fr',
      'Le succès est la somme de petits efforts, répétés jour après jour.'),
     ('It always seems impossible until it''s done.', 'fr',
-     'Cela semble toujours impossible, jusqu''à ce qu''on le fasse.');
+     'Cela semble toujours impossible, jusqu''à ce qu''on le fasse.'),
+    ('Nothing in this world can take the place of persistence.', 'fr',
+     'Rien au monde ne peut remplacer la persévérance.');
