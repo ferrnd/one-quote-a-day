@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have no special talents. I am only passionately curious.', 'de',
      'Ich habe keine besondere Begabung, sondern bin nur leidenschaftlich neugierig.'),
     ('Try not to become a man of success, but rather try to become a man of value.', 'de',
-     'Versuche nicht, ein erfolgreicher, sondern ein wertvoller Mensch zu werden.');
+     'Versuche nicht, ein erfolgreicher, sondern ein wertvoller Mensch zu werden.'),
+    ('Patience is bitter, but its fruit is sweet.', 'de',
+     'Geduld ist bitter, aber ihre Frucht ist süß.');
