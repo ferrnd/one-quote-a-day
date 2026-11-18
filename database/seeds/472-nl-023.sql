@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sometimes adversity is what you need to face in order to become successful.', 'nl',
      'Soms is tegenspoed precies wat je moet doorstaan om succesvol te worden.'),
     ('Hard times don''t create heroes. It is during the hard times when the hero within us is revealed.', 'nl',
-     'Moeilijke tijden maken geen helden. In moeilijke tijden wordt de held in ons zichtbaar.');
+     'Moeilijke tijden maken geen helden. In moeilijke tijden wordt de held in ons zichtbaar.'),
+    ('Mountains cannot be surmounted except by winding paths.', 'nl',
+     'Bergen kunnen alleen via kronkelende paden worden beklommen.');
