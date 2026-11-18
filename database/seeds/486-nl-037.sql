@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('As long as you live, keep learning how to live.', 'nl',
      'Zolang je leeft, blijf leren hoe je moet leven.'),
     ('Sometimes even to live is an act of courage.', 'nl',
-     'Soms is zelfs leven een daad van moed.');
+     'Soms is zelfs leven een daad van moed.'),
+    ('If a man knows not to which port he sails, no wind is favorable.', 'nl',
+     'Voor wie niet weet naar welke haven hij vaart, is geen enkele wind gunstig.');
