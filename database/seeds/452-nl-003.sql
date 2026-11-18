@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you fell down yesterday, stand up today.', 'nl',
      'Als je gisteren bent gevallen, sta dan vandaag op.'),
     ('I will persist until I succeed.', 'nl',
-     'Ik zal volhouden tot ik slaag.');
+     'Ik zal volhouden tot ik slaag.'),
+    ('One may walk over the highest mountain one step at a time.', 'nl',
+     'Je kunt de hoogste berg over, stap voor stap.');
