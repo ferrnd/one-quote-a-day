@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you think of yourself is much more important than what others think of you.', 'nl',
      'Wat je van jezelf denkt, is veel belangrijker dan wat anderen van je denken.'),
     ('A man is but the product of his thoughts. What he thinks, he becomes.', 'nl',
-     'Een mens is slechts het product van zijn gedachten. Wat hij denkt, wordt hij.');
+     'Een mens is slechts het product van zijn gedachten. Wat hij denkt, wordt hij.'),
+    ('If you don''t like something, change it. If you can''t change it, change your attitude.', 'nl',
+     'Als je iets niet bevalt, verander het dan. Als je het niet kunt veranderen, verander dan je houding.');
