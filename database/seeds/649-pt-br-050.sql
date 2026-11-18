@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To begin, begin.', 'pt-BR',
      'Para começar, comece.'),
     ('Pursue what catches your heart, not what catches your eyes.', 'pt-BR',
-     'Vá atrás do que conquista o seu coração, não do que chama a atenção dos seus olhos.');
+     'Vá atrás do que conquista o seu coração, não do que chama a atenção dos seus olhos.'),
+    ('Life is ten percent what happens to you and ninety percent how you respond to it.', 'pt-BR',
+     'A vida é dez por cento o que acontece com você e noventa por cento como você reage a isso.');
