@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We know what we are, but know not what we may be.', 'fr',
      'Nous savons ce que nous sommes, mais non ce que nous pouvons être.'),
     ('Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.', 'fr',
-     'Nos doutes sont des traîtres qui nous font perdre le bien que nous pourrions souvent gagner, par peur d''essayer.');
+     'Nos doutes sont des traîtres qui nous font perdre le bien que nous pourrions souvent gagner, par peur d''essayer.'),
+    ('If we did all the things we are capable of, we would literally astound ourselves.', 'fr',
+     'Si nous faisions tout ce dont nous sommes capables, nous nous étonnerions littéralement nous-mêmes.');
