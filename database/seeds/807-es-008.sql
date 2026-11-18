@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing in life is to be feared, it is only to be understood.', 'es',
      'Nada en la vida debe ser temido, solamente comprendido.'),
     ('Bravery is the capacity to perform properly even when scared half to death.', 'es',
-     'La valentía es la capacidad de actuar bien incluso cuando estás muerto de miedo.');
+     'La valentía es la capacidad de actuar bien incluso cuando estás muerto de miedo.'),
+    ('With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble.', 'es',
+     'Con valor te atreverás a correr riesgos, tendrás fuerza para ser compasivo y sabiduría para ser humilde.');
