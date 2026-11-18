@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Winners are not afraid of losing. But losers are. Failure is part of the process of success.', 'fr',
      'Les gagnants n''ont pas peur de perdre. Les perdants, si. L''échec fait partie du chemin vers le succès.'),
     ('An inventor fails 999 times, and if he succeeds once, he''s in.', 'fr',
-     'Un inventeur échoue 999 fois, et s''il réussit une seule fois, c''est gagné.');
+     'Un inventeur échoue 999 fois, et s''il réussit une seule fois, c''est gagné.'),
+    ('Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.', 'fr',
+     'Remarquez que l''arbre le plus rigide est celui qui se brise le plus facilement, tandis que le bambou ou le saule survivent en pliant sous le vent.');
