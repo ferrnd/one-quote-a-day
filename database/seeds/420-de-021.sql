@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s not what happens to you, but how you react to it that matters.', 'de',
      'Es kommt nicht darauf an, was dir geschieht, sondern wie du darauf reagierst.'),
     ('Begin at once to live, and count each separate day as a separate life.', 'de',
-     'Beginne sofort zu leben und zähle jeden einzelnen Tag als ein eigenes Leben.');
+     'Beginne sofort zu leben und zähle jeden einzelnen Tag als ein eigenes Leben.'),
+    ('Start where you are. Use what you have. Do what you can.', 'de',
+     'Fang dort an, wo du bist. Nutze, was du hast. Tu, was du kannst.');
