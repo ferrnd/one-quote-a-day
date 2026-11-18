@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Begin at once to live, and count each separate day as a separate life.', 'nl',
      'Begin meteen te leven en tel elke afzonderlijke dag als een afzonderlijk leven.'),
     ('Start where you are. Use what you have. Do what you can.', 'nl',
-     'Begin waar je bent. Gebruik wat je hebt. Doe wat je kunt.');
+     'Begin waar je bent. Gebruik wat je hebt. Doe wat je kunt.'),
+    ('We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.', 'nl',
+     'We genieten van de schoonheid van de vlinder, maar erkennen zelden de veranderingen die hij heeft doorgemaakt om die schoonheid te bereiken.');
