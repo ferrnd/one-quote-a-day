@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life shrinks or expands in proportion to one''s courage.', 'es',
      'La vida se encoge o se expande en proporción al valor de cada uno.'),
     ('It takes courage to grow up and become who you really are.', 'es',
-     'Hace falta valor para crecer y convertirse en quien realmente eres.');
+     'Hace falta valor para crecer y convertirse en quien realmente eres.'),
+    ('Courage is rightly esteemed the first of human qualities because it is the quality which guarantees all others.', 'es',
+     'El valor es, con razón, considerado la primera de las cualidades humanas, porque es la cualidad que garantiza todas las demás.');
