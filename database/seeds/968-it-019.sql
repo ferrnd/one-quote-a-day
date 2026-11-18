@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If we did all the things we are capable of, we would literally astound ourselves.', 'it',
      'Se facessimo tutte le cose di cui siamo capaci, stupiremmo letteralmente noi stessi.'),
     ('The best time to plant a tree was 20 years ago. The second best time is now.', 'it',
-     'Il momento migliore per piantare un albero era 20 anni fa. Il secondo momento migliore è adesso.');
+     'Il momento migliore per piantare un albero era 20 anni fa. Il secondo momento migliore è adesso.'),
+    ('Do what you can, with what you have, where you are.', 'it',
+     'Fai ciò che puoi, con ciò che hai, dove sei.');
