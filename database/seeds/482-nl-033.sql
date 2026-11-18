@@ -1,0 +1,5 @@
+-- seed 482 :: nl translations 641-660
+
+INSERT INTO translation_intake (original, locale, body) VALUES
+    ('Nothing great was ever achieved without enthusiasm.', 'nl',
+     'Niets groots is ooit bereikt zonder enthousiasme.');
