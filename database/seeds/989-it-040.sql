@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is a love affair with the unknown.', 'it',
      'Il coraggio è una storia d''amore con l''ignoto.'),
     ('What you''re supposed to do when you don''t like a thing is change it.', 'it',
-     'Ciò che devi fare quando una cosa non ti piace è cambiarla.');
+     'Ciò che devi fare quando una cosa non ti piace è cambiarla.'),
+    ('Be brave. Take risks. Nothing can substitute experience.', 'it',
+     'Sii coraggioso. Corri dei rischi. Niente può sostituire l''esperienza.');
