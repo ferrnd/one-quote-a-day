@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure will never overtake me if my determination to succeed is strong enough.', 'nl',
      'Falen zal me nooit inhalen als mijn vastberadenheid om te slagen sterk genoeg is.'),
     ('You may have to fight a battle more than once to win it.', 'nl',
-     'Soms moet je een strijd meer dan eens voeren om hem te winnen.');
+     'Soms moet je een strijd meer dan eens voeren om hem te winnen.'),
+    ('Failure isn''t fatal, but failure to change might be.', 'nl',
+     'Falen is niet fataal, maar weigeren te veranderen kan dat wel zijn.');
