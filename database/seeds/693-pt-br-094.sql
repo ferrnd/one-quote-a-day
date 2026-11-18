@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are what you believe yourself to be.', 'pt-BR',
-     'Você é aquilo que acredita ser.');
+     'Você é aquilo que acredita ser.'),
+    ('Believe and act as if it were impossible to fail.', 'pt-BR',
+     'Acredite e aja como se fosse impossível fracassar.');
