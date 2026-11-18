@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life shrinks or expands in proportion to one''s courage.', 'nl',
      'Het leven krimpt of groeit naar verhouding van iemands moed.'),
     ('It takes courage to grow up and become who you really are.', 'nl',
-     'Er is moed voor nodig om op te groeien en te worden wie je werkelijk bent.');
+     'Er is moed voor nodig om op te groeien en te worden wie je werkelijk bent.'),
+    ('Courage is rightly esteemed the first of human qualities because it is the quality which guarantees all others.', 'nl',
+     'Moed wordt terecht beschouwd als de eerste van alle menselijke eigenschappen, omdat het de eigenschap is die alle andere waarborgt.');
