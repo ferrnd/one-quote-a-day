@@ -8,4 +8,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Everything comes to him who hustles while he waits.', 'Thomas Edison', 'patience'),
     ('If I have made any valuable discoveries, it has been owing more to patient attention than to any other talent.', 'Isaac Newton', 'patience'),
     ('Patience is necessary, and one cannot reap immediately where one has sown.', 'Soren Kierkegaard', 'patience'),
-    ('Wisely and slow; they stumble that run fast.', 'William Shakespeare', 'patience');
+    ('Wisely and slow; they stumble that run fast.', 'William Shakespeare', 'patience'),
+    ('They also serve who only stand and wait.', 'John Milton', 'patience');
