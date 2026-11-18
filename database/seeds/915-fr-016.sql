@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.', 'fr',
      'Je ne crains pas l''homme qui a pratiqué 10 000 coups de pied une fois, mais je crains l''homme qui a pratiqué un coup de pied 10 000 fois.'),
     ('Discipline is choosing between what you want now and what you want most.', 'fr',
-     'La discipline, c''est choisir entre ce que l''on veut maintenant et ce que l''on veut le plus.');
+     'La discipline, c''est choisir entre ce que l''on veut maintenant et ce que l''on veut le plus.'),
+    ('No man is free who is not master of himself.', 'fr',
+     'Nul n''est libre s''il n''est maître de lui-même.');
