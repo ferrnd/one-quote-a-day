@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every day is a new day.', 'es',
      'Cada día es un día nuevo.'),
     ('The only journey is the one within.', 'es',
-     'El único viaje es el viaje interior.');
+     'El único viaje es el viaje interior.'),
+    ('I am still learning.', 'es',
+     'Todavía estoy aprendiendo.');
