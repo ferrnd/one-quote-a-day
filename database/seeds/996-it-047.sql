@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Optimism is essential to achievement and it is also the foundation of courage and true progress.', 'it',
      'L''ottimismo è essenziale per la realizzazione, ed è anche il fondamento del coraggio e del vero progresso.'),
     ('You are what you believe yourself to be.', 'it',
-     'Sei ciò che credi di essere.');
+     'Sei ciò che credi di essere.'),
+    ('Believe and act as if it were impossible to fail.', 'it',
+     'Credi e agisci come se fosse impossibile fallire.');
