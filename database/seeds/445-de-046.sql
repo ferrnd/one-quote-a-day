@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t spend time beating on a wall, hoping to transform it into a door.', 'de',
      'Verschwende keine Zeit damit, gegen eine Wand zu schlagen, in der Hoffnung, sie in eine Tür zu verwandeln.'),
     ('Begin anywhere.', 'de',
-     'Fang irgendwo an.');
+     'Fang irgendwo an.'),
+    ('Action is eloquence.', 'de',
+     'Handeln ist Beredsamkeit.');
