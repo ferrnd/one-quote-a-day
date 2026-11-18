@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In a gentle way, you can shake the world.', 'es',
      'Con suavidad, puedes sacudir el mundo.'),
     ('Re-examine all you have been told; dismiss what insults your soul.', 'es',
-     'Reexamina todo lo que te han dicho; descarta lo que ofende a tu alma.');
+     'Reexamina todo lo que te han dicho; descarta lo que ofende a tu alma.'),
+    ('Change is the end result of all true learning.', 'es',
+     'El cambio es el resultado final de todo aprendizaje verdadero.');
