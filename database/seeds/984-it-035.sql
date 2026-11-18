@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream lofty dreams, and as you dream, so shall you become.', 'it',
      'Fai sogni elevati, e come sognerai, così diventerai.'),
     ('Some people dream of success, while other people get up every morning and make it happen.', 'it',
-     'Alcune persone sognano il successo, mentre altre si alzano ogni mattina e lo fanno accadere.');
+     'Alcune persone sognano il successo, mentre altre si alzano ogni mattina e lo fanno accadere.'),
+    ('I have a dream.', 'it',
+     'Io ho un sogno.');
