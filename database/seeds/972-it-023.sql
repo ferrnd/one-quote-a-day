@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The struggle itself toward the heights is enough to fill a man''s heart. One must imagine Sisyphus happy.', 'it',
      'La lotta stessa verso la vetta basta a riempire il cuore di un uomo. Bisogna immaginare Sisifo felice.'),
     ('Sometimes adversity is what you need to face in order to become successful.', 'it',
-     'A volte l''avversità è proprio ciò che devi affrontare per avere successo.');
+     'A volte l''avversità è proprio ciò che devi affrontare per avere successo.'),
+    ('Hard times don''t create heroes. It is during the hard times when the hero within us is revealed.', 'it',
+     'I tempi difficili non creano eroi. È nei tempi difficili che si rivela l''eroe che è in noi.');
