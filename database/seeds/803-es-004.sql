@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What we hope ever to do with ease, we must learn first to do with diligence.', 'es',
      'Lo que esperamos algún día hacer con facilidad, primero debemos aprender a hacerlo con dedicación.'),
     ('In the confrontation between the stream and the rock, the stream always wins, not through strength but by perseverance.', 'es',
-     'En el enfrentamiento entre el arroyo y la roca, el arroyo siempre gana, no por su fuerza, sino por su perseverancia.');
+     'En el enfrentamiento entre el arroyo y la roca, el arroyo siempre gana, no por su fuerza, sino por su perseverancia.'),
+    ('Endurance is not just the ability to bear a hard thing, but to turn it into glory.', 'es',
+     'Resistir no es solo la capacidad de soportar algo difícil, sino de convertirlo en gloria.');
