@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Accept challenges so that you may feel the exhilaration of victory.', 'it',
      'Accetta le sfide, così potrai provare l''euforia della vittoria.'),
     ('When it is obvious that the goals cannot be reached, don''t adjust the goals, adjust the action steps.', 'it',
-     'Quando è evidente che gli obiettivi non possono essere raggiunti, non cambiare gli obiettivi; cambia i passi per arrivarci.');
+     'Quando è evidente che gli obiettivi non possono essere raggiunti, non cambiare gli obiettivi; cambia i passi per arrivarci.'),
+    ('Victory is sweetest when you''ve known defeat.', 'it',
+     'La vittoria è più dolce quando si è conosciuta la sconfitta.');
