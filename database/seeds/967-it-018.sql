@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Well done is better than well said.', 'it',
      'Ben fatto è meglio che ben detto.'),
     ('Lost time is never found again.', 'it',
-     'Il tempo perduto non si ritrova mai più.');
+     'Il tempo perduto non si ritrova mai più.'),
+    ('Without hard work, nothing grows but weeds.', 'it',
+     'Senza duro lavoro, crescono solo le erbacce.');
