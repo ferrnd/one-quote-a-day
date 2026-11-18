@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have stood on a mountain of no''s for one yes.', 'de',
      'Ich habe auf einem Berg von Neins gestanden, für ein einziges Ja.'),
     ('I had to make my own living and my own opportunity. But I made it!', 'de',
-     'Ich musste mir meinen Lebensunterhalt und meine Chance selbst schaffen. Aber ich habe es geschafft!');
+     'Ich musste mir meinen Lebensunterhalt und meine Chance selbst schaffen. Aber ich habe es geschafft!'),
+    ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'de',
+     'Ich bin nicht dorthin gekommen, indem ich es mir gewünscht oder darauf gehofft habe, sondern indem ich dafür gearbeitet habe.');
