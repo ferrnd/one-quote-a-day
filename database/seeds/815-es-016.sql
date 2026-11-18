@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What is defeat? Nothing but education; nothing but the first step to something better.', 'es',
      '¿Qué es la derrota? Nada más que aprendizaje; nada más que el primer paso hacia algo mejor.'),
     ('Never confuse a single defeat with a final defeat.', 'es',
-     'Nunca confundas una sola derrota con una derrota definitiva.');
+     'Nunca confundas una sola derrota con una derrota definitiva.'),
+    ('Do not be embarrassed by your failures, learn from them and start again.', 'es',
+     'No te avergüences de tus fracasos; aprende de ellos y vuelve a empezar.');
