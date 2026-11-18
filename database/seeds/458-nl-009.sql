@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Smooth seas do not make skillful sailors.', 'nl',
      'Een kalme zee maakt geen goede zeeman.'),
     ('My scars remind me that I did indeed survive my deepest wounds.', 'nl',
-     'Mijn littekens herinneren me eraan dat ik mijn diepste wonden echt heb overleefd.');
+     'Mijn littekens herinneren me eraan dat ik mijn diepste wonden echt heb overleefd.'),
+    ('Strength does not come from physical capacity. It comes from an indomitable will.', 'nl',
+     'Kracht komt niet uit fysiek vermogen. Ze komt uit een ontembare wil.');
