@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You see things; and you say ''Why?'' But I dream things that never were; and I say ''Why not?''', 'nl',
      'Jij ziet dingen en zegt: ''Waarom?'' Maar ik droom van dingen die nooit hebben bestaan en zeg: ''Waarom niet?'''),
     ('Hitch your wagon to a star.', 'nl',
-     'Span je kar voor een ster.');
+     'Span je kar voor een ster.'),
+    ('If one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.', 'nl',
+     'Wie vol vertrouwen in de richting van zijn dromen gaat, zal in gewone uren een onverwacht succes ontmoeten.');
