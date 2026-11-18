@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Think of all the beauty still left around you and be happy.', 'nl',
      'Denk aan al het mooie dat nog om je heen is en wees gelukkig.'),
     ('It is often in the darkest skies that we see the brightest stars.', 'nl',
-     'Vaak zien we juist in de donkerste luchten de helderste sterren.');
+     'Vaak zien we juist in de donkerste luchten de helderste sterren.'),
+    ('Strength and growth come only through continuous effort and struggle.', 'nl',
+     'Kracht en groei komen alleen door voortdurende inspanning en strijd.');
