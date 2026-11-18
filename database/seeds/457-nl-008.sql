@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no failure except in no longer trying.', 'nl',
      'Er bestaat geen falen, behalve als je stopt met proberen.'),
     ('Failure will never overtake me if my determination to succeed is strong enough.', 'nl',
-     'Falen zal me nooit inhalen als mijn vastberadenheid om te slagen sterk genoeg is.');
+     'Falen zal me nooit inhalen als mijn vastberadenheid om te slagen sterk genoeg is.'),
+    ('You may have to fight a battle more than once to win it.', 'nl',
+     'Soms moet je een strijd meer dan eens voeren om hem te winnen.');
