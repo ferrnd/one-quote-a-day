@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The most difficult thing is the decision to act, the rest is merely tenacity.', 'it',
      'La cosa più difficile è decidere di agire; il resto è solo tenacia.'),
     ('The most effective way to do it, is to do it.', 'it',
-     'Il modo più efficace per farlo è farlo.');
+     'Il modo più efficace per farlo è farlo.'),
+    ('Don''t sit down and wait for the opportunities to come. Get up and make them.', 'it',
+     'Non stare seduto ad aspettare che arrivino le opportunità. Alzati e creale.');
