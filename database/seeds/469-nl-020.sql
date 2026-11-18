@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are never too old to set another goal or to dream a new dream.', 'nl',
      'Je bent nooit te oud om een nieuw doel te stellen of een nieuwe droom te dromen.'),
     ('Act as if what you do makes a difference. It does.', 'nl',
-     'Handel alsof wat je doet een verschil maakt. Dat doet het.');
+     'Handel alsof wat je doet een verschil maakt. Dat doet het.'),
+    ('What we fear doing most is usually what we most need to do.', 'nl',
+     'Waar we het meest bang voor zijn om te doen, is meestal wat we het hardst nodig hebben.');
