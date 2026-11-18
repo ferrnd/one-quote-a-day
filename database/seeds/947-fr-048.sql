@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is liking yourself, liking what you do, and liking how you do it.', 'fr',
      'Le succès, c''est s''aimer soi-même, aimer ce que l''on fait et aimer la façon dont on le fait.'),
     ('The soul becomes dyed with the color of its thoughts.', 'fr',
-     'L''âme prend la couleur de ses pensées.');
+     'L''âme prend la couleur de ses pensées.'),
+    ('Success is not the key to happiness. Happiness is the key to success.', 'fr',
+     'Le succès n''est pas la clé du bonheur. Le bonheur est la clé du succès.');
