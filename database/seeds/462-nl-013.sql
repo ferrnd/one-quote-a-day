@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The world is round and the place which may seem like the end may also be only the beginning.', 'nl',
      'De wereld is rond, en de plek die het einde lijkt, kan ook slechts het begin zijn.'),
     ('Faith is the bird that feels the light and sings when the dawn is still dark.', 'nl',
-     'Geloof is de vogel die het licht voelt en zingt wanneer de dageraad nog donker is.');
+     'Geloof is de vogel die het licht voelt en zingt wanneer de dageraad nog donker is.'),
+    ('However long the night, the dawn will break.', 'nl',
+     'Hoe lang de nacht ook is, de dag zal aanbreken.');
