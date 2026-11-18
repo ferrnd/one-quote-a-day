@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you think you are beaten, you are.', 'de',
      'Wenn du glaubst, dass du geschlagen bist, dann bist du es.'),
     ('Sooner or later the man who wins is the man who thinks he can.', 'de',
-     'Früher oder später gewinnt der, der glaubt, dass er es kann.');
+     'Früher oder später gewinnt der, der glaubt, dass er es kann.'),
+    ('We become what we think about.', 'de',
+     'Wir werden zu dem, woran wir denken.');
