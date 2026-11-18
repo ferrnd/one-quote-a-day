@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is nothing like a dream to create the future.', 'es',
-     'No hay nada como un sueño para crear el futuro.');
+     'No hay nada como un sueño para crear el futuro.'),
+    ('The power of imagination makes us infinite.', 'es',
+     'El poder de la imaginación nos hace infinitos.');
