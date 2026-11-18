@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Lost time is never found again.', 'nl',
      'Verloren tijd vind je nooit meer terug.'),
     ('Without hard work, nothing grows but weeds.', 'nl',
-     'Zonder hard werken groeit er niets dan onkruid.');
+     'Zonder hard werken groeit er niets dan onkruid.'),
+    ('Success isn''t always about greatness. It''s about consistency.', 'nl',
+     'Succes gaat niet altijd om grootsheid. Het gaat om consistentie.');
