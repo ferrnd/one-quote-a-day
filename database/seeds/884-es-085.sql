@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let us be of good cheer, remembering that the misfortunes hardest to bear are those which never come.', 'es',
-     'Tengamos buen ánimo, recordando que las desgracias más difíciles de soportar son las que nunca llegan.');
+     'Tengamos buen ánimo, recordando que las desgracias más difíciles de soportar son las que nunca llegan.'),
+    ('The best way to cheer yourself up is to try to cheer somebody else up.', 'es',
+     'La mejor forma de animarte es intentar animar a otra persona.');
