@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Well begun is half done.', 'pt-BR',
      'Começar bem é metade do caminho.'),
     ('If you spend too much time thinking about a thing, you''ll never get it done.', 'pt-BR',
-     'Se você passar tempo demais pensando em algo, nunca vai fazê-lo.');
+     'Se você passar tempo demais pensando em algo, nunca vai fazê-lo.'),
+    ('What you do speaks so loudly that I cannot hear what you say.', 'pt-BR',
+     'O que você faz fala tão alto que não consigo ouvir o que você diz.');
