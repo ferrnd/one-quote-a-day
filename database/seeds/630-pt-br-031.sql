@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You must never be fearful about what you are doing when it is right.', 'pt-BR',
      'Você nunca deve ter medo do que está fazendo quando é o certo.'),
     ('When they go low, we go high.', 'pt-BR',
-     'Quando eles descem o nível, nós subimos.');
+     'Quando eles descem o nível, nós subimos.'),
+    ('Ability may get you to the top, but it takes character to keep you there.', 'pt-BR',
+     'A habilidade pode levar você ao topo, mas é preciso caráter para se manter lá.');
