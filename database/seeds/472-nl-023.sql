@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The tougher the battle, the sweeter the victory.', 'nl',
      'Hoe zwaarder de strijd, hoe zoeter de overwinning.'),
     ('Sweet are the uses of adversity.', 'nl',
-     'Zoet zijn de vruchten van tegenspoed.');
+     'Zoet zijn de vruchten van tegenspoed.'),
+    ('Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.', 'nl',
+     'Elke tegenslag, elke mislukking, elk hartzeer draagt de kiem van een gelijk of groter voordeel in zich.');
