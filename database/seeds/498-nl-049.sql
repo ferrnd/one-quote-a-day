@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The road to success is always under construction.', 'nl',
      'De weg naar succes is altijd in aanbouw.'),
     ('Ambition is enthusiasm with a purpose.', 'nl',
-     'Ambitie is enthousiasme met een doel.');
+     'Ambitie is enthousiasme met een doel.'),
+    ('Dreams are illustrations from the book your soul is writing about you.', 'nl',
+     'Dromen zijn illustraties uit het boek dat je ziel over je schrijft.');
