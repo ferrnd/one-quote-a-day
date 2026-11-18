@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Respond to every call that excites your spirit.', 'it',
-     'Rispondi a ogni richiamo che entusiasma il tuo spirito.');
+     'Rispondi a ogni richiamo che entusiasma il tuo spirito.'),
+    ('If you are irritated by every rub, how will your mirror be polished?', 'it',
+     'Se ti irrita ogni attrito, come potrà essere levigato il tuo specchio?');
