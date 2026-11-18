@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard days are the best because that''s when champions are made.', 'it',
      'I giorni difficili sono i migliori, perché è lì che nascono i campioni.'),
     ('There is always light, if only we''re brave enough to see it. If only we''re brave enough to be it.', 'it',
-     'C''è sempre luce, se solo abbiamo il coraggio di vederla. Se solo abbiamo il coraggio di esserla.');
+     'C''è sempre luce, se solo abbiamo il coraggio di vederla. Se solo abbiamo il coraggio di esserla.'),
+    ('Hope is a verb with its shirtsleeves rolled up.', 'it',
+     'La speranza è un verbo con le maniche rimboccate.');
