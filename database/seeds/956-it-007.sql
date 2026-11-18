@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is not built on success. It''s built on failure. It''s built on frustration.', 'it',
      'Il successo non si costruisce sul successo. Si costruisce sul fallimento. Si costruisce sulla frustrazione.'),
     ('Winners are not afraid of losing. But losers are. Failure is part of the process of success.', 'it',
-     'I vincenti non hanno paura di perdere. I perdenti sì. Il fallimento fa parte del percorso verso il successo.');
+     'I vincenti non hanno paura di perdere. I perdenti sì. Il fallimento fa parte del percorso verso il successo.'),
+    ('An inventor fails 999 times, and if he succeeds once, he''s in.', 'it',
+     'Un inventore fallisce 999 volte, e se ci riesce una volta sola, ce l''ha fatta.');
