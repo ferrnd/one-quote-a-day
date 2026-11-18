@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A champion is someone who gets up when he can''t.', 'nl',
      'Een kampioen is iemand die opstaat als hij niet meer kan.'),
     ('Never give in. Never, never, never, never.', 'nl',
-     'Geef nooit toe. Nooit, nooit, nooit, nooit.');
+     'Geef nooit toe. Nooit, nooit, nooit, nooit.'),
+    ('Success seems to be connected with action. Successful people keep moving.', 'nl',
+     'Succes lijkt verbonden met actie. Succesvolle mensen blijven in beweging.');
