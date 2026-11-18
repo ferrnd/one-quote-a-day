@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure should be our teacher, not our undertaker.', 'nl',
      'Falen moet onze leraar zijn, niet onze doodgraver.'),
     ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'nl',
-     'Er is maar één ding dat een droom onmogelijk maakt: de angst om te falen.');
+     'Er is maar één ding dat een droom onmogelijk maakt: de angst om te falen.'),
+    ('Failure is not the opposite of success; it''s part of success.', 'nl',
+     'Falen is niet het tegenovergestelde van succes; het is er een deel van.');
