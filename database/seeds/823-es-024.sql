@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope will never be silent.', 'es',
      'La esperanza nunca guardará silencio.'),
     ('Weeping may endure for a night, but joy cometh in the morning.', 'es',
-     'Por la noche durará el llanto, y a la mañana vendrá la alegría.');
+     'Por la noche durará el llanto, y a la mañana vendrá la alegría.'),
+    ('Grow old along with me! The best is yet to be.', 'es',
+     '¡Envejece conmigo! Lo mejor está por venir.');
