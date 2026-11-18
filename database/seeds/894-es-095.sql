@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the calm acceptance that things can happen in a different order than the one you have in mind.', 'es',
      'La paciencia es la aceptación serena de que las cosas pueden suceder en un orden distinto al que tienes en mente.'),
     ('Patience and fortitude conquer all things.', 'es',
-     'La paciencia y la fortaleza lo conquistan todo.');
+     'La paciencia y la fortaleza lo conquistan todo.'),
+    ('Have patience. All things are difficult before they become easy.', 'es',
+     'Ten paciencia. Todas las cosas son difíciles antes de volverse fáciles.');
