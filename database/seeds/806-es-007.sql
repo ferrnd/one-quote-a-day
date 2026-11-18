@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All we have to decide is what to do with the time that is given us.', 'es',
      'Todo lo que tenemos que decidir es qué hacer con el tiempo que se nos ha dado.'),
     ('It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.', 'es',
-     'Hace falta mucha valentía para enfrentarse a los enemigos, pero la misma para enfrentarse a los amigos.');
+     'Hace falta mucha valentía para enfrentarse a los enemigos, pero la misma para enfrentarse a los amigos.'),
+    ('Do the thing you fear, and the death of fear is certain.', 'es',
+     'Haz aquello que temes, y la muerte del miedo es segura.');
