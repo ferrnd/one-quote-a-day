@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When the whole world is silent, even one voice becomes powerful.', 'es',
      'Cuando el mundo entero guarda silencio, incluso una sola voz se vuelve poderosa.'),
     ('Because it''s there.', 'es',
-     'Porque está ahí.');
+     'Porque está ahí.'),
+    ('That''s one small step for a man, one giant leap for mankind.', 'es',
+     'Es un pequeño paso para el hombre, un gran salto para la humanidad.');
