@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not everything that is faced can be changed, but nothing can be changed until it is faced.', 'de',
      'Nicht alles, dem man sich stellt, lässt sich ändern, aber nichts lässt sich ändern, solange man sich ihm nicht stellt.'),
     ('Your present circumstances don''t determine where you can go; they merely determine where you start.', 'de',
-     'Deine jetzigen Umstände bestimmen nicht, wohin du gehen kannst; sie bestimmen nur, wo du anfängst.');
+     'Deine jetzigen Umstände bestimmen nicht, wohin du gehen kannst; sie bestimmen nur, wo du anfängst.'),
+    ('One day you will wake up and there won''t be any more time to do the things you''ve always wanted. Do it now.', 'de',
+     'Eines Tages wirst du aufwachen, und es wird keine Zeit mehr sein für die Dinge, die du immer tun wolltest. Tu sie jetzt.');
