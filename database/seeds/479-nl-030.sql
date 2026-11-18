@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All human wisdom is summed up in two words: wait and hope.', 'nl',
      'Alle menselijke wijsheid is samengevat in twee woorden: wachten en hopen.'),
     ('The key to everything is patience. You get the chicken by hatching the egg, not by smashing it.', 'nl',
-     'De sleutel tot alles is geduld. Je krijgt het kuiken door het ei uit te broeden, niet door het stuk te slaan.');
+     'De sleutel tot alles is geduld. Je krijgt het kuiken door het ei uit te broeden, niet door het stuk te slaan.'),
+    ('Patience and time do more than strength or passion.', 'nl',
+     'Geduld en tijd vermogen meer dan kracht of hartstocht.');
