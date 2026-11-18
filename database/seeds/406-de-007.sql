@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you''re not prepared to be wrong, you''ll never come up with anything original.', 'de',
      'Wenn du nicht bereit bist, dich zu irren, wirst du nie etwas Originelles hervorbringen.'),
     ('Experience is simply the name we give our mistakes.', 'de',
-     'Erfahrung ist einfach der Name, den wir unseren Fehlern geben.');
+     'Erfahrung ist einfach der Name, den wir unseren Fehlern geben.'),
+    ('When we give ourselves permission to fail, we, at the same time, give ourselves permission to excel.', 'de',
+     'Wenn wir uns erlauben zu scheitern, erlauben wir uns zugleich, zu glänzen.');
