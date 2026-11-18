@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Go confidently in the direction of your dreams. Live the life you have imagined.', 'nl',
      'Ga vol vertrouwen in de richting van je dromen. Leef het leven dat je je hebt voorgesteld.'),
     ('If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.', 'nl',
-     'Als je luchtkastelen hebt gebouwd, is je werk niet verloren; daar horen ze. Leg er nu de fundamenten onder.');
+     'Als je luchtkastelen hebt gebouwd, is je werk niet verloren; daar horen ze. Leg er nu de fundamenten onder.'),
+    ('Ideas are easy. Implementation is hard.', 'nl',
+     'Ideeën zijn makkelijk. Uitvoering is moeilijk.');
