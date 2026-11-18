@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We are all in the gutter, but some of us are looking at the stars.', 'de',
      'Wir liegen alle in der Gosse, aber einige von uns betrachten die Sterne.'),
     ('The darker the night, the brighter the stars, the deeper the grief, the closer is God!', 'de',
-     'Je dunkler die Nacht, desto heller die Sterne; je tiefer der Kummer, desto näher ist Gott!');
+     'Je dunkler die Nacht, desto heller die Sterne; je tiefer der Kummer, desto näher ist Gott!'),
+    ('Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.', 'de',
+     'Wolken schweben in mein Leben, nicht mehr, um Regen zu bringen oder Sturm anzukündigen, sondern um meinem Abendhimmel Farbe zu verleihen.');
