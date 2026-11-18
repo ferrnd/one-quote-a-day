@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It ain''t over till it''s over.', 'es',
      'No se acaba hasta que se acaba.'),
     ('We will either find a way, or make one.', 'es',
-     'O encontraremos un camino, o lo abriremos.');
+     'O encontraremos un camino, o lo abriremos.'),
+    ('The secret of success is constancy to purpose.', 'es',
+     'El secreto del éxito es la constancia en el propósito.');
