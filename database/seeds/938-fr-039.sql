@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Persist and persevere, and you will find most things that are attainable, possible.', 'fr',
      'Persiste et persévère, et tu découvriras que la plupart des choses atteignables sont possibles.'),
     ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'fr',
-     'La plupart des gens abandonnent juste au moment où ils sont sur le point de réussir. Ils renoncent à un mètre de la ligne d''arrivée.');
+     'La plupart des gens abandonnent juste au moment où ils sont sur le point de réussir. Ils renoncent à un mètre de la ligne d''arrivée.'),
+    ('If you are going to doubt something, doubt your limits.', 'fr',
+     'Si tu dois douter de quelque chose, doute de tes limites.');
