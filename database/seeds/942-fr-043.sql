@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not let your fire go out, spark by irreplaceable spark.', 'fr',
      'Ne laisse pas ton feu s''éteindre, étincelle après étincelle irremplaçable.'),
     ('We are all in the gutter, but some of us are looking at the stars.', 'fr',
-     'Nous sommes tous dans le caniveau, mais certains d''entre nous regardent les étoiles.');
+     'Nous sommes tous dans le caniveau, mais certains d''entre nous regardent les étoiles.'),
+    ('The darker the night, the brighter the stars, the deeper the grief, the closer is God!', 'fr',
+     'Plus la nuit est sombre, plus les étoiles brillent ; plus le chagrin est profond, plus Dieu est proche !');
