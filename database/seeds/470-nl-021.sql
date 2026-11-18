@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant.', 'nl',
      'Tegenspoed brengt talenten naar boven die in voorspoedige omstandigheden zouden zijn blijven sluimeren.'),
     ('The block of granite which was an obstacle in the path of the weak becomes a stepping stone in the path of the strong.', 'nl',
-     'Het granietblok dat voor de zwakke een obstakel op de weg was, wordt voor de sterke een opstapje.');
+     'Het granietblok dat voor de zwakke een obstakel op de weg was, wordt voor de sterke een opstapje.'),
+    ('Obstacles are those frightful things you see when you take your eyes off your goal.', 'nl',
+     'Obstakels zijn die angstaanjagende dingen die je ziet wanneer je je doel uit het oog verliest.');
