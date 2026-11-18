@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We can do anything we want to if we stick to it long enough.', 'fr',
      'Nous pouvons faire tout ce que nous voulons si nous persévérons assez longtemps.'),
     ('What I am looking for is not out there, it is in me.', 'fr',
-     'Ce que je cherche n''est pas là-bas, c''est en moi.');
+     'Ce que je cherche n''est pas là-bas, c''est en moi.'),
+    ('Efforts and courage are not enough without purpose and direction.', 'fr',
+     'L''effort et le courage ne suffisent pas sans but ni direction.');
