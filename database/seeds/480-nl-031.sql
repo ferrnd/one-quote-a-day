@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the support of weakness; impatience the ruin of strength.', 'nl',
      'Geduld is de steun van zwakte; ongeduld de ondergang van kracht.'),
     ('Endurance is patience concentrated.', 'nl',
-     'Uithoudingsvermogen is geconcentreerd geduld.');
+     'Uithoudingsvermogen is geconcentreerd geduld.'),
+    ('Patience and diligence, like faith, remove mountains.', 'nl',
+     'Geduld en vlijt verzetten, net als geloof, bergen.');
