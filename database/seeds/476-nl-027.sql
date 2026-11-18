@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our life is what our thoughts make it.', 'nl',
      'Ons leven is wat onze gedachten ervan maken.'),
     ('The happiness of your life depends upon the quality of your thoughts.', 'nl',
-     'Het geluk van je leven hangt af van de kwaliteit van je gedachten.');
+     'Het geluk van je leven hangt af van de kwaliteit van je gedachten.'),
+    ('Very little is needed to make a happy life; it is all within yourself, in your way of thinking.', 'nl',
+     'Er is heel weinig nodig voor een gelukkig leven; het zit allemaal in jezelf, in je manier van denken.');
