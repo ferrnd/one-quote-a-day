@@ -8,7 +8,7 @@
  * Append ?date=YYYY-MM-DD to the URL to preview another day.
  */
 
-import { dateKey, localDateParts, msUntilNextLocalMidnight, parseDateKey } from "./clock.js?v=6f2de9fb4294";
+import { dateKey, localDateParts, msUntilNextLocalMidnight, parseDateKey } from "./clock.js?v=496930dd93c2";
 
 const WASM_URL = new URL("quotes.wasm?v=9e9675a3a529", import.meta.url);
 const FADE_MS = 900;
