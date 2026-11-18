@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I saw the angel in the marble and carved until I set him free.', 'de',
      'Ich sah den Engel im Marmor und meißelte, bis ich ihn befreit hatte.'),
     ('People with goals succeed because they know where they''re going.', 'de',
-     'Menschen mit Zielen haben Erfolg, weil sie wissen, wohin sie gehen.');
+     'Menschen mit Zielen haben Erfolg, weil sie wissen, wohin sie gehen.'),
+    ('What you seek is seeking you.', 'de',
+     'Was du suchst, sucht dich.');
