@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no education like adversity.', 'nl',
      'Er is geen school als tegenspoed.'),
     ('Those things that hurt, instruct.', 'nl',
-     'Wat pijn doet, leert ons iets.');
+     'Wat pijn doet, leert ons iets.'),
+    ('Adversity is like a strong wind. It tears away from us all but the things that cannot be torn, so that we see ourselves as we really are.', 'nl',
+     'Tegenspoed is als een harde wind. Hij rukt alles van ons weg behalve wat niet weggerukt kan worden, zodat we onszelf zien zoals we werkelijk zijn.');
