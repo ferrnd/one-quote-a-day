@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Waste no more time arguing about what a good man should be. Be one.', 'fr',
      'Ne perds plus de temps à discuter de ce que doit être un homme de bien. Sois-en un.'),
     ('Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.', 'fr',
-     'Ressemble au promontoire contre lequel les vagues se brisent sans cesse : il reste debout et calme la fureur des flots autour de lui.');
+     'Ressemble au promontoire contre lequel les vagues se brisent sans cesse : il reste debout et calme la fureur des flots autour de lui.'),
+    ('Mighty oaks from little acorns grow.', 'fr',
+     'Les grands chênes naissent de petits glands.');
