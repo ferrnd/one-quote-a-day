@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not be embarrassed by your failures, learn from them and start again.', 'de',
      'Schäme dich nicht für deine Misserfolge; lerne aus ihnen und fang neu an.'),
     ('Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.', 'de',
-     'Aus dem Leiden sind die stärksten Seelen hervorgegangen; die gewaltigsten Charaktere sind von Narben gezeichnet.');
+     'Aus dem Leiden sind die stärksten Seelen hervorgegangen; die gewaltigsten Charaktere sind von Narben gezeichnet.'),
+    ('The oak fought the wind and was broken, the willow bent when it must and survived.', 'de',
+     'Die Eiche kämpfte gegen den Wind und zerbrach; die Weide bog sich, wenn sie musste, und überlebte.');
