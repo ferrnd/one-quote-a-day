@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Two roads diverged in a wood, and I, I took the one less traveled by, and that has made all the difference.', 'nl',
      'Twee wegen gingen uiteen in een bos, en ik, ik nam de minst begane, en dat heeft het verschil gemaakt.'),
     ('Not all those who wander are lost.', 'nl',
-     'Niet iedereen die dwaalt, is verdwaald.');
+     'Niet iedereen die dwaalt, is verdwaald.'),
+    ('I took a deep breath and listened to the old brag of my heart: I am, I am, I am.', 'nl',
+     'Ik haalde diep adem en luisterde naar het oude gepoch van mijn hart: ik ben, ik ben, ik ben.');
