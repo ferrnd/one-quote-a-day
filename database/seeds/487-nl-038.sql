@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The world is changed by your example, not by your opinion.', 'nl',
      'De wereld verandert door je voorbeeld, niet door je mening.'),
     ('We can''t help everyone, but everyone can help someone.', 'nl',
-     'We kunnen niet iedereen helpen, maar iedereen kan iemand helpen.');
+     'We kunnen niet iedereen helpen, maar iedereen kan iemand helpen.'),
+    ('Each person must live their life as a model for others.', 'nl',
+     'Ieder mens moet zijn leven leiden als voorbeeld voor anderen.');
