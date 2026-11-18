@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Great works are performed not by strength but by perseverance.', 'fr',
      'Les grandes œuvres ne s''accomplissent pas par la force, mais par la persévérance.'),
     ('Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.', 'fr',
-     'La patience et la persévérance ont un effet magique devant lequel les difficultés disparaissent et les obstacles s''évanouissent.');
+     'La patience et la persévérance ont un effet magique devant lequel les difficultés disparaissent et les obstacles s''évanouissent.'),
+    ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'fr',
+     'Grâce à la persévérance, bien des gens réussissent là où l''échec semblait certain.');
