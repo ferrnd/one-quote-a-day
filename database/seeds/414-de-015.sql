@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is nothing stronger in the world than gentleness.', 'de',
      'Nichts auf der Welt ist stärker als Sanftheit.'),
     ('Nothing is so strong as gentleness, nothing so gentle as real strength.', 'de',
-     'Nichts ist so stark wie Sanftmut, nichts so sanft wie wahre Stärke.');
+     'Nichts ist so stark wie Sanftmut, nichts so sanft wie wahre Stärke.'),
+    ('The oak sleeps in the acorn.', 'de',
+     'Die Eiche schläft in der Eichel.');
