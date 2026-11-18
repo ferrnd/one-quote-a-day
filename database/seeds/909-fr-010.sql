@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Resilience is accepting your new reality, even if it''s less good than the one you had before.', 'fr',
      'La résilience, c''est accepter sa nouvelle réalité, même si elle est moins bonne que celle d''avant.'),
     ('Man never made any material as resilient as the human spirit.', 'fr',
-     'L''homme n''a jamais fabriqué de matériau aussi résilient que l''esprit humain.');
+     'L''homme n''a jamais fabriqué de matériau aussi résilient que l''esprit humain.'),
+    ('Grief and resilience live together.', 'fr',
+     'Le deuil et la résilience vont de pair.');
