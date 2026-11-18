@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perpetual optimism is a force multiplier.', 'nl',
      'Voortdurend optimisme vermenigvuldigt je kracht.'),
     ('If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.', 'nl',
-     'Als je een stem in je hoort zeggen ''je kunt niet schilderen'', schilder dan vooral, en die stem zal verstommen.');
+     'Als je een stem in je hoort zeggen ''je kunt niet schilderen'', schilder dan vooral, en die stem zal verstommen.'),
+    ('Whatever the mind of man can conceive and believe, it can achieve.', 'nl',
+     'Wat de menselijke geest kan bedenken en geloven, kan hij bereiken.');
