@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you seek is seeking you.', 'nl',
      'Wat je zoekt, zoekt jou.'),
     ('Don''t grieve. Anything you lose comes round in another form.', 'nl',
-     'Treur niet. Alles wat je verliest, komt terug in een andere vorm.');
+     'Treur niet. Alles wat je verliest, komt terug in een andere vorm.'),
+    ('Set your life on fire. Seek those who fan your flames.', 'nl',
+     'Zet je leven in vuur en vlam. Zoek mensen die je vuur aanwakkeren.');
