@@ -73,3 +73,24 @@ weekday, quote index and author, so the calendar can be audited with `grep`:
 grep "2026-12-25" generated/quotes.wat
 ```
 
+## Building
+
+Requirements: Python 3.10+ (standard library only) and Node.js 20+.
+
+```sh
+npm ci            # installs wabt, the only dependency
+npm run build     # database -> WAT -> wasm -> docs/
+npm run serve     # http://localhost:8000
+```
+
+Other commands:
+
+```sh
+npm run stats                 # quotes per theme
+npm run today                 # today's quote, from the Python reference
+npm run today -- 2027-01-01   # any other day
+npm run build:db              # write build/quotes.sqlite for ad-hoc queries
+```
+
+Append `?date=YYYY-MM-DD` to the page URL to preview another day.
+
