@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Have patience. All things are difficult before they become easy.', 'fr',
      'Sois patient. Toutes les choses sont difficiles avant de devenir faciles.'),
     ('Patience is a conquering virtue.', 'fr',
-     'La patience est une vertu conquérante.');
+     'La patience est une vertu conquérante.'),
+    ('Everything comes to him who hustles while he waits.', 'fr',
+     'Tout vient à point à qui se démène en attendant.');
