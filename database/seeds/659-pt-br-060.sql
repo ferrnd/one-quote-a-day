@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our patience will achieve more than our force.', 'pt-BR',
      'Nossa paciência vai conquistar mais do que a nossa força.'),
     ('How poor are they that have not patience! What wound did ever heal but by degrees?', 'pt-BR',
-     'Como são pobres os que não têm paciência! Que ferida já sarou senão aos poucos?');
+     'Como são pobres os que não têm paciência! Que ferida já sarou senão aos poucos?'),
+    ('Patience is the art of hoping.', 'pt-BR',
+     'A paciência é a arte de ter esperança.');
