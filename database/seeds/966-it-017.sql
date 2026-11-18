@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.', 'it',
      'Il talento costa meno del sale da cucina. Ciò che separa la persona di talento da quella di successo è tanto duro lavoro.'),
     ('Amateurs sit and wait for inspiration, the rest of us just get up and go to work.', 'it',
-     'I dilettanti si siedono ad aspettare l''ispirazione; noialtri ci alziamo e andiamo a lavorare.');
+     'I dilettanti si siedono ad aspettare l''ispirazione; noialtri ci alziamo e andiamo a lavorare.'),
+    ('The more I practice, the luckier I get.', 'it',
+     'Più mi alleno, più sono fortunato.');
