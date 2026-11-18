@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Winning isn''t everything, but wanting to win is.', 'es',
      'Ganar no lo es todo, pero querer ganar sí.'),
     ('Perfection is not attainable, but if we chase perfection we can catch excellence.', 'es',
-     'La perfección no es alcanzable, pero si perseguimos la perfección podemos alcanzar la excelencia.');
+     'La perfección no es alcanzable, pero si perseguimos la perfección podemos alcanzar la excelencia.'),
+    ('Once you learn to quit, it becomes a habit.', 'es',
+     'Una vez que aprendes a rendirte, se convierte en un hábito.');
