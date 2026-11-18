@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Genius is one percent inspiration and ninety-nine percent perspiration.', 'es',
      'El genio es uno por ciento inspiración y noventa y nueve por ciento transpiración.'),
     ('The harder the conflict, the more glorious the triumph.', 'es',
-     'Cuanto más duro el conflicto, más glorioso el triunfo.');
+     'Cuanto más duro el conflicto, más glorioso el triunfo.'),
+    ('Persistence guarantees that results are inevitable.', 'es',
+     'La persistencia garantiza que los resultados sean inevitables.');
