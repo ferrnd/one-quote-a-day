@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is liking yourself, liking what you do, and liking how you do it.', 'nl',
      'Succes is jezelf graag mogen, graag doen wat je doet en graag hoe je het doet.'),
     ('The soul becomes dyed with the color of its thoughts.', 'nl',
-     'De ziel neemt de kleur van haar gedachten aan.');
+     'De ziel neemt de kleur van haar gedachten aan.'),
+    ('Success is not the key to happiness. Happiness is the key to success.', 'nl',
+     'Succes is niet de sleutel tot geluk. Geluk is de sleutel tot succes.');
