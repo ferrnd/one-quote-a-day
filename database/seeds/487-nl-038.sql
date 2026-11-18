@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We can do anything we want to if we stick to it long enough.', 'nl',
      'We kunnen alles doen wat we willen, als we maar lang genoeg volhouden.'),
     ('What I am looking for is not out there, it is in me.', 'nl',
-     'Wat ik zoek, is niet daarbuiten, het is in mij.');
+     'Wat ik zoek, is niet daarbuiten, het is in mij.'),
+    ('Efforts and courage are not enough without purpose and direction.', 'nl',
+     'Inspanning en moed zijn niet genoeg zonder doel en richting.');
