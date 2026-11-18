@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We will either find a way, or make one.', 'es',
      'O encontraremos un camino, o lo abriremos.'),
     ('The secret of success is constancy to purpose.', 'es',
-     'El secreto del éxito es la constancia en el propósito.');
+     'El secreto del éxito es la constancia en el propósito.'),
+    ('Persist and persevere, and you will find most things that are attainable, possible.', 'es',
+     'Persiste y persevera, y descubrirás que la mayoría de las cosas alcanzables son posibles.');
