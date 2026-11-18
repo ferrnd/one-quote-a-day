@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Age is no barrier. It''s a limitation you put on your mind.', 'nl',
      'Leeftijd is geen barrière. Het is een beperking die je je eigen geest oplegt.'),
     ('The difference between ordinary and extraordinary is that little extra.', 'nl',
-     'Het verschil tussen gewoon en buitengewoon is dat kleine beetje extra.');
+     'Het verschil tussen gewoon en buitengewoon is dat kleine beetje extra.'),
+    ('Winning isn''t everything, but wanting to win is.', 'nl',
+     'Winnen is niet alles, maar willen winnen wel.');
