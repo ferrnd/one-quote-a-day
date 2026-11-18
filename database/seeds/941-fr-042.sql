@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of every crisis comes the chance to be reborn.', 'fr',
      'De chaque crise naît la chance de renaître.'),
     ('Nothing is permanent in this wicked world, not even our troubles.', 'fr',
-     'Rien n''est permanent dans ce monde cruel, pas même nos ennuis.');
+     'Rien n''est permanent dans ce monde cruel, pas même nos ennuis.'),
+    ('Hardships make or break people.', 'fr',
+     'Les épreuves font ou défont les gens.');
