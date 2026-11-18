@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is bitter, but its fruit is sweet.', 'pt-BR',
      'A paciência é amarga, mas seu fruto é doce.'),
     ('Adopt the pace of nature: her secret is patience.', 'pt-BR',
-     'Adote o ritmo da natureza: o segredo dela é a paciência.');
+     'Adote o ritmo da natureza: o segredo dela é a paciência.'),
+    ('Nature does not hurry, yet everything is accomplished.', 'pt-BR',
+     'A natureza não tem pressa, e mesmo assim tudo se realiza.');
