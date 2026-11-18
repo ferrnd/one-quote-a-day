@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is the start that stops most people.', 'it',
      'È la partenza che ferma la maggior parte delle persone.'),
     ('Practice isn''t the thing you do once you''re good. It''s the thing you do that makes you good.', 'it',
-     'L''allenamento non è ciò che fai quando sei già bravo. È ciò che fai per diventarlo.');
+     'L''allenamento non è ciò che fai quando sei già bravo. È ciò che fai per diventarlo.'),
+    ('Do something today that your future self will thank you for.', 'it',
+     'Fai oggi qualcosa per cui il tuo io futuro ti ringrazierà.');
