@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('And, when you want something, all the universe conspires in helping you to achieve it.', 'nl',
      'En als je iets wilt, spant het hele universum samen om je te helpen het te bereiken.'),
     ('Dream as if you''ll live forever. Live as if you''ll die today.', 'nl',
-     'Droom alsof je eeuwig leeft. Leef alsof je vandaag sterft.');
+     'Droom alsof je eeuwig leeft. Leef alsof je vandaag sterft.'),
+    ('The biggest adventure you can take is to live the life of your dreams.', 'nl',
+     'Het grootste avontuur dat je kunt beleven, is het leven van je dromen leiden.');
