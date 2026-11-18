@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.', 'nl',
      'Als de zon schijnt, kan ik alles; geen berg is te hoog, geen probleem te moeilijk om te overwinnen.'),
     ('Never doubt that a small group of thoughtful, committed citizens can change the world.', 'nl',
-     'Twijfel er nooit aan dat een kleine groep bedachtzame, toegewijde burgers de wereld kan veranderen.');
+     'Twijfel er nooit aan dat een kleine groep bedachtzame, toegewijde burgers de wereld kan veranderen.'),
+    ('Keep your face to the sunshine and you cannot see a shadow.', 'nl',
+     'Houd je gezicht naar de zon en je ziet geen schaduw.');
