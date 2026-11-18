@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is the start that stops most people.', 'nl',
      'Het is het begin dat de meeste mensen tegenhoudt.'),
     ('Practice isn''t the thing you do once you''re good. It''s the thing you do that makes you good.', 'nl',
-     'Oefenen is niet wat je doet als je goed bent. Het is wat je doet om goed te worden.');
+     'Oefenen is niet wat je doet als je goed bent. Het is wat je doet om goed te worden.'),
+    ('Do something today that your future self will thank you for.', 'nl',
+     'Doe vandaag iets waar je toekomstige zelf je dankbaar voor zal zijn.');
