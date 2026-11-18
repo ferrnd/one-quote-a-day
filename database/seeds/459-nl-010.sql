@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Man never made any material as resilient as the human spirit.', 'nl',
      'De mens heeft nooit een materiaal gemaakt dat zo veerkrachtig is als de menselijke geest.'),
     ('Grief and resilience live together.', 'nl',
-     'Rouw en veerkracht leven samen.');
+     'Rouw en veerkracht leven samen.'),
+    ('It''s not whether you get knocked down; it''s whether you get up.', 'nl',
+     'Het gaat er niet om of je wordt neergeslagen; het gaat erom of je weer opstaat.');
