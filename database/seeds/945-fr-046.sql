@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is a mistake to look too far ahead. Only one link of the chain of destiny can be handled at a time.', 'fr',
      'C''est une erreur de regarder trop loin devant. On ne peut saisir qu''un seul maillon de la chaîne du destin à la fois.'),
     ('Don''t spend time beating on a wall, hoping to transform it into a door.', 'fr',
-     'Ne perds pas ton temps à frapper contre un mur en espérant le transformer en porte.');
+     'Ne perds pas ton temps à frapper contre un mur en espérant le transformer en porte.'),
+    ('Begin anywhere.', 'fr',
+     'Commence n''importe où.');
