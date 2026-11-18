@@ -29,12 +29,48 @@ const counterEl = /** @type {HTMLButtonElement} */ (document.getElementById("day
 const counterLabel = /** @type {HTMLElement} */ (document.getElementById("day-label"));
 const counterNext = /** @type {HTMLElement} */ (document.getElementById("day-next"));
 const toastEl = /** @type {HTMLElement} */ (document.getElementById("toast"));
-const infoButton = /** @type {HTMLButtonElement} */ (document.getElementById("info-button"));
+const settingsButton = /** @type {HTMLButtonElement} */ (document.getElementById("settings-button"));
 const shareButton = /** @type {HTMLButtonElement} */ (document.getElementById("share-button"));
-const infoEl = /** @type {HTMLDialogElement} */ (document.getElementById("info"));
+const panelEl = /** @type {HTMLDialogElement} */ (document.getElementById("panel"));
 const archiveEl = /** @type {HTMLDialogElement} */ (document.getElementById("archive"));
 const archiveList = /** @type {HTMLOListElement} */ (document.getElementById("archive-list"));
 const decoder = new TextDecoder("utf-8", { fatal: true });
+
+/* -------------------------------------------------------- preferences -- */
+/* Per-visitor settings, kept in this browser only. Every read and write is
+ * guarded: private windows and blocked storage simply fall back to defaults. */
+
+const PREFS_KEY = "quotes:prefs";
+const DEFAULT_PREFS = { theme: "auto", size: "m", motion: "on", counter: "show", copy: "author", search: "google" };
+/** @type {typeof DEFAULT_PREFS} */
+let prefs = loadPrefs();
+
+function loadPrefs() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(PREFS_KEY) ?? "{}");
+    return { ...DEFAULT_PREFS, ...(saved && typeof saved === "object" ? saved : {}) };
+  } catch {
+    return { ...DEFAULT_PREFS };
+  }
+}
+
+function savePrefs() {
+  try { localStorage.setItem(PREFS_KEY, JSON.stringify(prefs)); } catch { /* storage unavailable */ }
+}
+
+function applyPrefs() {
+  const root = document.documentElement;
+  root.dataset.size = prefs.size;
+  root.dataset.motion = prefs.motion;
+  root.dataset.counter = prefs.counter;
+  for (const group of document.querySelectorAll(".choices[data-pref]")) {
+    const key = /** @type {HTMLElement} */ (group).dataset.pref;
+    for (const button of group.querySelectorAll("button")) {
+      button.setAttribute("aria-pressed", String(button.dataset.value === prefs[key]));
+    }
+  }
+  applyTheme();
+}
 
 /** @param {URL} url */
 async function instantiate(url) {
@@ -201,7 +237,7 @@ let closeTimer = 0;
 /** Animate a dialog out, then close it. @param {HTMLDialogElement} dialog */
 function closeDialog(dialog) {
   if (!dialog.open || dialog.classList.contains("is-closing")) return;
-  if (matchMedia("(prefers-reduced-motion: reduce)").matches) {
+  if (reducedMotion()) {
     dialog.close();
     return;
   }
@@ -248,7 +284,9 @@ function wireArchive(engine) {
 
 /* ---------------------------------------------------------- rendering -- */
 
-const reducedMotion = () => matchMedia("(prefers-reduced-motion: reduce)").matches;
+function reducedMotion() {
+  return prefs.motion === "off" || matchMedia("(prefers-reduced-motion: reduce)").matches;
+}
 
 /** @param {{text: string, author: string}} quote */
 function paint(quote) {
@@ -399,7 +437,7 @@ function wireCopy() {
     if (performance.now() - swipedAt < 500) return; // the tail end of a swipe, not a tap
     const text = textEl.textContent ?? "";
     const author = authorEl.textContent ?? "";
-    const payload = author ? `“${text}” — ${author}` : `“${text}”`;
+    const payload = author && prefs.copy === "author" ? `“${text}” — ${author}` : `“${text}”`;
     try {
       await navigator.clipboard.writeText(payload);
       toast("Copied");
@@ -411,7 +449,11 @@ function wireCopy() {
 
 /* ------------------------------------------------------------- search -- */
 
-const SEARCH_URL = "https://www.google.com/search?q=";
+const SEARCH_ENGINES = {
+  google: "https://www.google.com/search?q=",
+  duckduckgo: "https://duckduckgo.com/?q=",
+  bing: "https://www.bing.com/search?q=",
+};
 
 /** Right-click the quote or the author to search for it in a new tab. */
 function wireSearch() {
@@ -421,7 +463,8 @@ function wireSearch() {
       const q = query().trim();
       if (!q) return; // nothing to search: keep the native menu
       event.preventDefault();
-      window.open(SEARCH_URL + encodeURIComponent(q), "_blank", "noopener,noreferrer");
+      const engine = SEARCH_ENGINES[prefs.search] ?? SEARCH_ENGINES.google;
+      window.open(engine + encodeURIComponent(q), "_blank", "noopener,noreferrer");
     });
   };
   searchable(textEl, () => `"${textEl.textContent ?? ""}"`);
@@ -513,7 +556,8 @@ async function renderCard() {
   return canvas;
 }
 
-async function shareImage() {
+/** @param {{story?: boolean}} [options] */
+async function shareImage({ story = false } = {}) {
   const canvas = await renderCard();
   const blob = await new Promise((resolve) => canvas.toBlob(resolve, "image/png"));
   if (!blob) { toast("Could not share"); return; }
@@ -534,7 +578,7 @@ async function shareImage() {
   link.click();
   link.remove();
   setTimeout(() => URL.revokeObjectURL(url), 10_000);
-  toast("Image saved");
+  toast(story ? "Image saved for your story" : "Image saved");
 }
 
 function wireShare() {
@@ -558,23 +602,105 @@ function wireCountdown() {
   counterEl.addEventListener("blur", stop);
 }
 
-/* --------------------------------------------------------------- help -- */
+/* -------------------------------------------------------------- panel -- */
 
-function wireHelp() {
+const siteUrl = () => location.origin + location.pathname;
+const enc = encodeURIComponent;
+const openTab = (url) => window.open(url, "_blank", "noopener,noreferrer");
+
+function currentQuoteText() {
+  const text = textEl.textContent ?? "";
+  const author = authorEl.textContent ?? "";
+  return author ? `\u201C${text}\u201D \u2014 ${author}` : `\u201C${text}\u201D`;
+}
+
+/** @param {string} text @param {string} done */
+async function copyText(text, done) {
+  try {
+    await navigator.clipboard.writeText(text);
+    toast(done);
+  } catch {
+    toast("Could not copy");
+  }
+}
+
+const SHARE_TARGETS = {
+  whatsapp: () => openTab(`https://wa.me/?text=${enc(`${currentQuoteText()}\n\n${siteUrl()}`)}`),
+  facebook: () => openTab(`https://www.facebook.com/sharer/sharer.php?u=${enc(siteUrl())}`),
+  x: () => openTab(`https://x.com/intent/post?text=${enc(currentQuoteText())}&url=${enc(siteUrl())}`),
+  telegram: () => openTab(`https://t.me/share/url?url=${enc(siteUrl())}&text=${enc(currentQuoteText())}`),
+  // Discord has no share URL: hand over a message formatted for it
+  discord: () => copyText(`> ${currentQuoteText().replace(" \u2014 ", "\n> \u2014 ")}\n${siteUrl()}`, "Copied for Discord"),
+  // Stories need a picture; on a phone the share sheet offers Instagram
+  instagram: () => shareImage({ story: true }).catch(() => toast("Could not share")),
+  email: () => { location.href = `mailto:?subject=${enc("A quote for you")}&body=${enc(`${currentQuoteText()}\n\n${siteUrl()}`)}`; },
+  link: () => copyText(siteUrl(), "Link copied"),
+};
+
+/** @param {HTMLElement} tab */
+function selectTab(tab) {
+  const tabs = [...panelEl.querySelectorAll(".rail-tab")];
+  for (const other of tabs) {
+    const active = other === tab;
+    other.setAttribute("aria-selected", String(active));
+    other.tabIndex = active ? 0 : -1;
+    const section = document.getElementById(other.getAttribute("aria-controls") ?? "");
+    if (section) {
+      section.hidden = !active;
+      if (active) section.scrollTop = 0;
+    }
+  }
+  const title = document.getElementById("panel-title");
+  if (title) title.textContent = tab.dataset.title ?? "";
+}
+
+function wirePanel() {
   const next = document.getElementById("info-next");
   const stats = document.getElementById("info-stats");
   if (stats && state.engine) {
     stats.textContent = `${state.engine.count} quotes by ${state.engine.x.author_count()} authors`;
   }
-  infoButton.addEventListener("click", () => {
+
+  settingsButton.addEventListener("click", () => {
     if (anyDialogOpen()) return;
     // phones cannot hover the counter, so the countdown lives here as well
     if (next) next.textContent = `The next one arrives in ${formatCountdown(msUntilNextLocalMidnight(new Date()))}.`;
-    infoEl.classList.remove("is-closing");
-    infoEl.showModal();
+    panelEl.classList.remove("is-closing");
+    panelEl.showModal();
   });
-  wireDismiss(infoEl, document.getElementById("info-close"));
-  infoEl.addEventListener("close", () => infoButton.focus({ preventScroll: true }));
+  wireDismiss(panelEl, document.getElementById("panel-close"));
+  panelEl.addEventListener("close", () => settingsButton.focus({ preventScroll: true }));
+
+  // the rail: click, or arrow keys between tabs
+  const tabs = /** @type {HTMLElement[]} */ ([...panelEl.querySelectorAll(".rail-tab")]);
+  for (const tab of tabs) {
+    tab.addEventListener("click", () => selectTab(tab));
+    tab.addEventListener("keydown", (event) => {
+      const i = tabs.indexOf(tab);
+      const move = { ArrowDown: 1, ArrowRight: 1, ArrowUp: -1, ArrowLeft: -1 }[event.key];
+      if (!move) return;
+      event.preventDefault();
+      const target = tabs[(i + move + tabs.length) % tabs.length];
+      target.focus();
+      selectTab(target);
+    });
+  }
+
+  // settings: every choice applies and saves immediately
+  panelEl.addEventListener("click", (event) => {
+    const button = /** @type {HTMLElement} */ (event.target).closest(".choices button");
+    if (button) {
+      const key = /** @type {HTMLElement} */ (button.parentElement).dataset.pref;
+      if (key && key in prefs) {
+        prefs = { ...prefs, [key]: button.dataset.value };
+        savePrefs();
+        applyPrefs();
+      }
+      return;
+    }
+    const target = /** @type {HTMLElement} */ (event.target).closest("[data-share]");
+    if (target) SHARE_TARGETS[/** @type {HTMLElement} */ (target).dataset.share]?.();
+  });
 }
 
 /* -------------------------------------------------------------- theme -- */
@@ -584,7 +710,8 @@ let themeTimer = 0;
 
 /** Night (white on black) from 21:00 to 06:00 local time. */
 function applyTheme() {
-  const forced = new URLSearchParams(location.search).get("theme");
+  const forced = new URLSearchParams(location.search).get("theme")
+    ?? { light: "day", dark: "night" }[prefs.theme] ?? null;
   const now = new Date();
   const night = forced === "night" || (forced !== "day" && isNight(now));
   document.documentElement.dataset.theme = night ? "night" : "day";
@@ -632,7 +759,7 @@ function startClock() {
 }
 
 async function main() {
-  applyTheme();
+  applyPrefs();
   try {
     state.engine = new QuoteEngine(await instantiate(WASM_URL));
     state.launch = state.engine.x.launch_day();
@@ -643,7 +770,7 @@ async function main() {
     wireCopy();
     wireSearch();
     wireShare();
-    wireHelp();
+    wirePanel();
     wireCountdown();
     if (pinned) {
       state.today = state.view = toDay(pinned);
