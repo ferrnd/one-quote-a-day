@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing is so strong as gentleness, nothing so gentle as real strength.', 'nl',
      'Niets is zo sterk als zachtheid, niets zo zacht als ware kracht.'),
     ('The oak sleeps in the acorn.', 'nl',
-     'De eik slaapt in de eikel.');
+     'De eik slaapt in de eikel.'),
+    ('With the new day comes new strength and new thoughts.', 'nl',
+     'Met de nieuwe dag komen nieuwe kracht en nieuwe gedachten.');
