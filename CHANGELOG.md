@@ -4,6 +4,17 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [1.11.0] - 2026-11-18
+
+### Added
+
+- Favorites: long-press the quote on a phone, or middle-click it on a
+  computer, to save it; the same gesture removes it. A small heart marks a
+  favorite on the page.
+- A Favorites tab lists every favorite with Show (slides to that day) and
+  Remove, and downloads them all as a text file. Translated into all seven
+  languages.
+
 ## [1.10.0] - 2026-11-18
 
 ### Added
