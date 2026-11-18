@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is found in unlikely places.', 'de',
      'Mut findet man an den unwahrscheinlichsten Orten.'),
     ('Even the smallest person can change the course of the future.', 'de',
-     'Selbst der kleinste Mensch kann den Lauf der Zukunft verändern.');
+     'Selbst der kleinste Mensch kann den Lauf der Zukunft verändern.'),
+    ('All we have to decide is what to do with the time that is given us.', 'de',
+     'Wir müssen nur entscheiden, was wir mit der Zeit anfangen, die uns gegeben ist.');
