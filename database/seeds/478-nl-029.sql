@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have no special talents. I am only passionately curious.', 'nl',
      'Ik heb geen bijzondere talenten. Ik ben alleen hartstochtelijk nieuwsgierig.'),
     ('Try not to become a man of success, but rather try to become a man of value.', 'nl',
-     'Probeer niet een man van succes te worden, maar eerder een man van waarde.');
+     'Probeer niet een man van succes te worden, maar eerder een man van waarde.'),
+    ('Patience is bitter, but its fruit is sweet.', 'nl',
+     'Geduld is bitter, maar de vrucht ervan is zoet.');
