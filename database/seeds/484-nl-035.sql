@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s the possibility of having a dream come true that makes life interesting.', 'nl',
      'Het is de mogelijkheid dat een droom uitkomt die het leven interessant maakt.'),
     ('And, when you want something, all the universe conspires in helping you to achieve it.', 'nl',
-     'En als je iets wilt, spant het hele universum samen om je te helpen het te bereiken.');
+     'En als je iets wilt, spant het hele universum samen om je te helpen het te bereiken.'),
+    ('Dream as if you''ll live forever. Live as if you''ll die today.', 'nl',
+     'Droom alsof je eeuwig leeft. Leef alsof je vandaag sterft.');
