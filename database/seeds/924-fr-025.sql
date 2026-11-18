@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never mistake motion for action.', 'fr',
      'Ne confonds jamais mouvement et action.'),
     ('Don''t let yesterday take up too much of today.', 'fr',
-     'Ne laisse pas hier prendre trop de place dans aujourd''hui.');
+     'Ne laisse pas hier prendre trop de place dans aujourd''hui.'),
+    ('Even if you''re on the right track, you''ll get run over if you just sit there.', 'fr',
+     'Même si tu es sur la bonne voie, tu te feras écraser si tu restes assis là.');
