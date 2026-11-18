@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is not simply one of the virtues, but the form of every virtue at the testing point.', 'nl',
      'Moed is niet zomaar een van de deugden, maar de vorm van elke deugd op het moment van de beproeving.'),
     ('Courage, dear heart.', 'nl',
-     'Moed, lief hart.');
+     'Moed, lief hart.'),
+    ('Courage is the power to let go of the familiar.', 'nl',
+     'Moed is de kracht om het vertrouwde los te laten.');
