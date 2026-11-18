@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.', 'es',
      'Quizá todos los dragones de nuestra vida sean princesas que solo esperan vernos actuar, una sola vez, con belleza y valor.'),
     ('What would you attempt to do if you knew you would not fail?', 'es',
-     '¿Qué intentarías hacer si supieras que no vas a fracasar?');
+     '¿Qué intentarías hacer si supieras que no vas a fracasar?'),
+    ('I saw the angel in the marble and carved until I set him free.', 'es',
+     'Vi el ángel en el mármol y tallé hasta liberarlo.');
