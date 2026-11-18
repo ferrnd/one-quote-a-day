@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am always doing that which I cannot do, in order that I may learn how to do it.', 'nl',
      'Ik doe altijd wat ik niet kan, om te leren hoe het moet.'),
     ('Unless you try to do something beyond what you have already mastered, you will never grow.', 'nl',
-     'Als je niet probeert iets te doen wat verder gaat dan wat je al beheerst, zul je nooit groeien.');
+     'Als je niet probeert iets te doen wat verder gaat dan wat je al beheerst, zul je nooit groeien.'),
+    ('We know what we are, but know not what we may be.', 'nl',
+     'We weten wat we zijn, maar niet wat we kunnen worden.');
