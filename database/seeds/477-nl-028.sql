@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You must do the things you think you cannot do.', 'nl',
      'Je moet de dingen doen waarvan je denkt dat je ze niet kunt.'),
     ('Clear thinking requires courage rather than intelligence.', 'nl',
-     'Helder denken vraagt eerder moed dan intelligentie.');
+     'Helder denken vraagt eerder moed dan intelligentie.'),
+    ('It''s not the load that breaks you down, it''s the way you carry it.', 'nl',
+     'Het is niet de last die je breekt, maar de manier waarop je hem draagt.');
