@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The secret of success is constancy to purpose.', 'it',
      'Il segreto del successo è la costanza nello scopo.'),
     ('Persist and persevere, and you will find most things that are attainable, possible.', 'it',
-     'Persisti e persevera, e scoprirai che la maggior parte delle cose raggiungibili è possibile.');
+     'Persisti e persevera, e scoprirai che la maggior parte delle cose raggiungibili è possibile.'),
+    ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'it',
+     'La maggior parte delle persone si arrende proprio quando sta per avere successo. Mollano a un passo dal traguardo.');
