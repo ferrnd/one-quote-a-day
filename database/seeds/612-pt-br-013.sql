@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can accept failure, everyone fails at something. But I can''t accept not trying.', 'pt-BR',
      'Consigo aceitar o fracasso, todo mundo fracassa em alguma coisa. Mas não consigo aceitar não tentar.'),
     ('Success is not built on success. It''s built on failure. It''s built on frustration.', 'pt-BR',
-     'O sucesso não é construído sobre o sucesso. É construído sobre o fracasso. É construído sobre a frustração.');
+     'O sucesso não é construído sobre o sucesso. É construído sobre o fracasso. É construído sobre a frustração.'),
+    ('Winners are not afraid of losing. But losers are. Failure is part of the process of success.', 'pt-BR',
+     'Vencedores não têm medo de perder. Perdedores têm. O fracasso faz parte do processo do sucesso.');
