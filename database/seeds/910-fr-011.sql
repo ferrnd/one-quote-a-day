@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything that is done in the world is done by hope.', 'fr',
      'Tout ce qui se fait dans le monde se fait par l''espoir.'),
     ('Hope is being able to see that there is light despite all of the darkness.', 'fr',
-     'L''espoir, c''est pouvoir voir qu''il y a de la lumière malgré toute l''obscurité.');
+     'L''espoir, c''est pouvoir voir qu''il y a de la lumière malgré toute l''obscurité.'),
+    ('We must accept finite disappointment, but never lose infinite hope.', 'fr',
+     'Nous devons accepter la déception finie, mais ne jamais perdre l''espoir infini.');
