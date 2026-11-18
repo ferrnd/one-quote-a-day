@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is simply the opportunity to begin again, this time more intelligently.', 'de',
      'Misserfolg ist lediglich die Gelegenheit, noch einmal neu anzufangen, diesmal klüger.'),
     ('Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.', 'de',
-     'Immer versucht. Immer gescheitert. Einerlei. Wieder versuchen. Wieder scheitern. Besser scheitern.');
+     'Immer versucht. Immer gescheitert. Einerlei. Wieder versuchen. Wieder scheitern. Besser scheitern.'),
+    ('I''ve failed over and over and over again in my life. And that is why I succeed.', 'de',
+     'Ich bin in meinem Leben immer und immer und immer wieder gescheitert. Und genau deshalb habe ich Erfolg.');
