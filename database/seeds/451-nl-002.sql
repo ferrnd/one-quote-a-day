@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.', 'nl',
      'De meeste belangrijke dingen ter wereld zijn bereikt door mensen die het bleven proberen toen er helemaal geen hoop meer leek te zijn.'),
     ('Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: it is this that in all things distinguishes the strong soul from the weak.', 'nl',
-     'Standvastigheid, volharding en doorzettingsvermogen ondanks alle obstakels, ontmoedigingen en onmogelijkheden: dat is wat in alle dingen de sterke ziel van de zwakke onderscheidt.');
+     'Standvastigheid, volharding en doorzettingsvermogen ondanks alle obstakels, ontmoedigingen en onmogelijkheden: dat is wat in alle dingen de sterke ziel van de zwakke onderscheidt.'),
+    ('Never give up, for that is just the place and time that the tide will turn.', 'nl',
+     'Geef nooit op, want dat is precies de plek en het moment waarop het tij zal keren.');
