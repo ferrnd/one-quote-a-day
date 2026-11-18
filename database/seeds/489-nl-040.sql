@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'nl',
      'Moed is doen waar je bang voor bent. Er kan geen moed zijn als je niet bang bent.'),
     ('Fortune and love favor the brave.', 'nl',
-     'Geluk en liefde zijn met de dapperen.');
+     'Geluk en liefde zijn met de dapperen.'),
+    ('Expose yourself to your deepest fear; after that, fear has no power.', 'nl',
+     'Stel je bloot aan je diepste angst; daarna heeft angst geen macht meer.');
