@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.', 'pt-BR',
-     'A paciência e a perseverança têm um efeito mágico, diante do qual as dificuldades desaparecem e os obstáculos se desfazem.');
+     'A paciência e a perseverança têm um efeito mágico, diante do qual as dificuldades desaparecem e os obstáculos se desfazem.'),
+    ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'pt-BR',
+     'Pela perseverança, muitas pessoas conquistam o sucesso a partir do que parecia destinado a ser um fracasso certo.');
