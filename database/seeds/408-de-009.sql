@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Turn your wounds into wisdom.', 'de',
      'Verwandle deine Wunden in Weisheit.'),
     ('When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.', 'de',
-     'Wenn alles gegen dich zu laufen scheint, denk daran, dass das Flugzeug gegen den Wind abhebt, nicht mit ihm.');
+     'Wenn alles gegen dich zu laufen scheint, denk daran, dass das Flugzeug gegen den Wind abhebt, nicht mit ihm.'),
+    ('Out of difficulties grow miracles.', 'de',
+     'Aus Schwierigkeiten erwachsen Wunder.');
