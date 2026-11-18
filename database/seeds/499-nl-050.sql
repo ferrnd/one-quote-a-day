@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When you arise in the morning, think of what a precious privilege it is to be alive.', 'nl',
      'Als je ''s ochtends opstaat, denk dan aan wat een kostbaar voorrecht het is om te leven.'),
     ('It is not that we have a short time to live, but that we waste a lot of it.', 'nl',
-     'Het is niet zo dat we weinig tijd hebben om te leven, maar dat we er veel van verspillen.');
+     'Het is niet zo dat we weinig tijd hebben om te leven, maar dat we er veel van verspillen.'),
+    ('While we wait for life, life passes.', 'nl',
+     'Terwijl we op het leven wachten, gaat het leven voorbij.');
