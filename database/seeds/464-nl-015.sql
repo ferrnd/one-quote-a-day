@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be the heroine of your life, not the victim.', 'nl',
      'Wees de heldin van je leven, niet het slachtoffer.'),
     ('Stand up straight and realize who you are, that you tower over your circumstances.', 'nl',
-     'Sta rechtop en besef wie je bent: je torent boven je omstandigheden uit.');
+     'Sta rechtop en besef wie je bent: je torent boven je omstandigheden uit.'),
+    ('Never bend your head. Always hold it high. Look the world straight in the eye.', 'nl',
+     'Buig nooit je hoofd. Houd het altijd hoog. Kijk de wereld recht in de ogen.');
