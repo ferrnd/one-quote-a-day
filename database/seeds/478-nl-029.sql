@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('However difficult life may seem, there is always something you can do and succeed at.', 'nl',
      'Hoe moeilijk het leven ook lijkt, er is altijd iets wat je kunt doen en waarin je kunt slagen.'),
     ('I have no special talents. I am only passionately curious.', 'nl',
-     'Ik heb geen bijzondere talenten. Ik ben alleen hartstochtelijk nieuwsgierig.');
+     'Ik heb geen bijzondere talenten. Ik ben alleen hartstochtelijk nieuwsgierig.'),
+    ('Try not to become a man of success, but rather try to become a man of value.', 'nl',
+     'Probeer niet een man van succes te worden, maar eerder een man van waarde.');
