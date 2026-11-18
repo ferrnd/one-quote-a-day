@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who is not every day conquering some fear has not learned the secret of life.', 'es',
      'Quien no vence algún miedo cada día no ha aprendido el secreto de la vida.'),
     ('Life begins at the end of your comfort zone.', 'es',
-     'La vida empieza donde termina tu zona de confort.');
+     'La vida empieza donde termina tu zona de confort.'),
+    ('I can''t change the direction of the wind, but I can adjust my sails to always reach my destination.', 'es',
+     'No puedo cambiar la dirección del viento, pero puedo ajustar mis velas para llegar siempre a mi destino.');
