@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.', 'pt-BR',
      'Nosso medo mais profundo não é o de sermos inadequados. Nosso medo mais profundo é o de sermos poderosos além da medida.'),
     ('Trust thyself: every heart vibrates to that iron string.', 'pt-BR',
-     'Confie em si mesmo: todo coração vibra com essa corda de ferro.');
+     'Confie em si mesmo: todo coração vibra com essa corda de ferro.'),
+    ('You are the one that possesses the keys to your being. You carry the passport to your own happiness.', 'pt-BR',
+     'É você quem tem as chaves do seu ser. É você quem carrega o passaporte para a sua própria felicidade.');
