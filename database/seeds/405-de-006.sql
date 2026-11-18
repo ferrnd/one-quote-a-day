@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the power to let go of the familiar.', 'de',
      'Mut ist die Kraft, das Vertraute loszulassen.'),
     ('I have not failed. I''ve just found 10,000 ways that won''t work.', 'de',
-     'Ich bin nicht gescheitert. Ich habe nur 10.000 Wege gefunden, die nicht funktionieren.');
+     'Ich bin nicht gescheitert. Ich habe nur 10.000 Wege gefunden, die nicht funktionieren.'),
+    ('Failure is simply the opportunity to begin again, this time more intelligently.', 'de',
+     'Misserfolg ist lediglich die Gelegenheit, noch einmal neu anzufangen, diesmal klüger.');
