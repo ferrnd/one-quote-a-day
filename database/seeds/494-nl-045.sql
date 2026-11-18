@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dost thou love life? Then do not squander time, for that is the stuff life is made of.', 'nl',
      'Houd je van het leven? Verspil dan geen tijd, want daar is het leven van gemaakt.'),
     ('I don''t stop when I''m tired. I stop when I''m done.', 'nl',
-     'Ik stop niet als ik moe ben. Ik stop als ik klaar ben.');
+     'Ik stop niet als ik moe ben. Ik stop als ik klaar ben.'),
+    ('The only easy day was yesterday.', 'nl',
+     'De enige makkelijke dag was gisteren.');
