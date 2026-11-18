@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'nl',
      'Als je een fout maakt, zijn er maar drie dingen die je moet doen: hem toegeven, ervan leren en hem niet herhalen.'),
     ('Failure is a detour, not a dead-end street.', 'nl',
-     'Falen is een omweg, geen doodlopende straat.');
+     'Falen is een omweg, geen doodlopende straat.'),
+    ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'nl',
+     'Een mislukking is niet altijd een fout. Het kan gewoon het beste zijn wat onder de omstandigheden mogelijk was. De echte fout is stoppen met proberen.');
