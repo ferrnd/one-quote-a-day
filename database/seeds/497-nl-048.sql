@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If I have made any valuable discoveries, it has been owing more to patient attention than to any other talent.', 'nl',
      'Als ik waardevolle ontdekkingen heb gedaan, dan dank ik dat meer aan geduldige aandacht dan aan enig ander talent.'),
     ('Patience is necessary, and one cannot reap immediately where one has sown.', 'nl',
-     'Geduld is nodig, en je kunt niet meteen oogsten waar je hebt gezaaid.');
+     'Geduld is nodig, en je kunt niet meteen oogsten waar je hebt gezaaid.'),
+    ('Wisely and slow; they stumble that run fast.', 'nl',
+     'Wijs en langzaam; wie hard loopt, struikelt.');
