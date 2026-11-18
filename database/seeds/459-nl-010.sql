@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Resilience is accepting your new reality, even if it''s less good than the one you had before.', 'nl',
      'Veerkracht is je nieuwe werkelijkheid aanvaarden, ook al is die minder goed dan wat je eerder had.'),
     ('Man never made any material as resilient as the human spirit.', 'nl',
-     'De mens heeft nooit een materiaal gemaakt dat zo veerkrachtig is als de menselijke geest.');
+     'De mens heeft nooit een materiaal gemaakt dat zo veerkrachtig is als de menselijke geest.'),
+    ('Grief and resilience live together.', 'nl',
+     'Rouw en veerkracht leven samen.');
