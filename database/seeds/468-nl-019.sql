@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.', 'nl',
      'Onze twijfels zijn verraders en laten ons het goede verliezen dat we vaak zouden kunnen winnen, doordat we bang zijn het te proberen.'),
     ('If we did all the things we are capable of, we would literally astound ourselves.', 'nl',
-     'Als we alle dingen deden waartoe we in staat zijn, zouden we onszelf letterlijk verbazen.');
+     'Als we alle dingen deden waartoe we in staat zijn, zouden we onszelf letterlijk verbazen.'),
+    ('The best time to plant a tree was 20 years ago. The second best time is now.', 'nl',
+     'De beste tijd om een boom te planten was twintig jaar geleden. De op een na beste tijd is nu.');
