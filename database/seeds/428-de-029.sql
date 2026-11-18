@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Look up at the stars and not down at your feet.', 'de',
      'Schau hinauf zu den Sternen und nicht hinunter auf deine Füße.'),
     ('However difficult life may seem, there is always something you can do and succeed at.', 'de',
-     'So schwierig das Leben auch scheinen mag, es gibt immer etwas, das du tun kannst und worin du Erfolg haben kannst.');
+     'So schwierig das Leben auch scheinen mag, es gibt immer etwas, das du tun kannst und worin du Erfolg haben kannst.'),
+    ('I have no special talents. I am only passionately curious.', 'de',
+     'Ich habe keine besondere Begabung, sondern bin nur leidenschaftlich neugierig.');
