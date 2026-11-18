@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No man ever steps in the same river twice, for it''s not the same river and he''s not the same man.', 'de',
      'Niemand steigt zweimal in denselben Fluss, denn es ist nicht derselbe Fluss und er ist nicht derselbe Mensch.'),
     ('Without continual growth and progress, such words as improvement, achievement, and success have no meaning.', 'de',
-     'Ohne ständiges Wachstum und Fortschritt haben Wörter wie Verbesserung, Leistung und Erfolg keine Bedeutung.');
+     'Ohne ständiges Wachstum und Fortschritt haben Wörter wie Verbesserung, Leistung und Erfolg keine Bedeutung.'),
+    ('What is to give light must endure burning.', 'de',
+     'Was Licht spenden soll, muss Brennen ertragen.');
