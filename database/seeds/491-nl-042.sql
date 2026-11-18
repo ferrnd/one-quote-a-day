@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No mud, no lotus.', 'nl',
      'Geen modder, geen lotus.'),
     ('If you want to see the sunshine, you have to weather the storm.', 'nl',
-     'Als je de zon wilt zien, moet je de storm doorstaan.');
+     'Als je de zon wilt zien, moet je de storm doorstaan.'),
+    ('The strongest people find the courage and caring to help others, even if they are going through their own storm.', 'nl',
+     'De sterkste mensen vinden de moed en de zorg om anderen te helpen, zelfs als ze door hun eigen storm gaan.');
