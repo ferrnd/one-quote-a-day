@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between the impossible and the possible lies in a man''s determination.', 'nl',
      'Het verschil tussen het onmogelijke en het mogelijke ligt in iemands vastberadenheid.'),
     ('Set your goals high, and don''t stop till you get there.', 'nl',
-     'Stel je doelen hoog en stop niet voordat je er bent.');
+     'Stel je doelen hoog en stop niet voordat je er bent.'),
+    ('Desire is the key to motivation, but it''s determination and commitment to an unrelenting pursuit of your goal that will enable you to attain the success you seek.', 'nl',
+     'Verlangen is de sleutel tot motivatie, maar het zijn vastberadenheid en toewijding aan het onverminderd nastreven van je doel die je in staat stellen het succes te bereiken dat je zoekt.');
