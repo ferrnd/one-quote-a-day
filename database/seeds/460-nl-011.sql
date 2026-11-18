@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In three words I can sum up everything I''ve learned about life: it goes on.', 'nl',
      'In twee woorden kan ik alles samenvatten wat ik over het leven heb geleerd: het gaat door.'),
     ('Vitality shows in not only the ability to persist but the ability to start over.', 'nl',
-     'Levenskracht toont zich niet alleen in het vermogen vol te houden, maar ook in het vermogen opnieuw te beginnen.');
+     'Levenskracht toont zich niet alleen in het vermogen vol te houden, maar ook in het vermogen opnieuw te beginnen.'),
+    ('But man is not made for defeat. A man can be destroyed but not defeated.', 'nl',
+     'Maar de mens is niet gemaakt voor de nederlaag. Een mens kan vernietigd worden, maar niet verslagen.');
