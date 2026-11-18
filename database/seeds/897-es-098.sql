@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You see things; and you say ''Why?'' But I dream things that never were; and I say ''Why not?''', 'es',
      'Tú ves las cosas y preguntas: "¿Por qué?". Pero yo sueño cosas que nunca existieron y pregunto: "¿Por qué no?".'),
     ('Hitch your wagon to a star.', 'es',
-     'Engancha tu carreta a una estrella.');
+     'Engancha tu carreta a una estrella.'),
+    ('If one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.', 'es',
+     'Quien avanza con confianza en la dirección de sus sueños encuentra un éxito inesperado en las horas más comunes.');
