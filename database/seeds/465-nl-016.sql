@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.', 'nl',
      'Onze diepste angst is niet dat we tekortschieten. Onze diepste angst is dat we onmetelijk krachtig zijn.'),
     ('Trust thyself: every heart vibrates to that iron string.', 'nl',
-     'Vertrouw op jezelf: elk hart trilt mee met die ijzeren snaar.');
+     'Vertrouw op jezelf: elk hart trilt mee met die ijzeren snaar.'),
+    ('You are the one that possesses the keys to your being. You carry the passport to your own happiness.', 'nl',
+     'Jij bent degene die de sleutels van je wezen bezit. Jij draagt het paspoort naar je eigen geluk.');
