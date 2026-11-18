@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When you change the way you look at things, the things you look at change.', 'it',
      'Quando cambi il modo di guardare le cose, le cose che guardi cambiano.'),
     ('Happiness is not something ready made. It comes from your own actions.', 'it',
-     'La felicità non è qualcosa di già pronto. Viene dalle tue azioni.');
+     'La felicità non è qualcosa di già pronto. Viene dalle tue azioni.'),
+    ('Self-belief and hard work will always earn you success.', 'it',
+     'La fiducia in sé e il duro lavoro ti porteranno sempre al successo.');
