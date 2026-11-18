@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing in this world can take the place of persistence.', 'nl',
      'Niets ter wereld kan de plaats innemen van volharding.'),
     ('Victory belongs to the most persevering.', 'nl',
-     'De overwinning is aan wie het langst volhoudt.');
+     'De overwinning is aan wie het langst volhoudt.'),
+    ('With ordinary talent and extraordinary perseverance, all things are attainable.', 'nl',
+     'Met gewoon talent en buitengewoon doorzettingsvermogen is alles bereikbaar.');
