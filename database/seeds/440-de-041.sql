@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is not falling down but refusing to get up.', 'de',
      'Scheitern heißt nicht hinfallen, sondern sich weigern aufzustehen.'),
     ('The successful man will profit from his mistakes and try again in a different way.', 'de',
-     'Der erfolgreiche Mensch zieht Nutzen aus seinen Fehlern und versucht es auf andere Weise noch einmal.');
+     'Der erfolgreiche Mensch zieht Nutzen aus seinen Fehlern und versucht es auf andere Weise noch einmal.'),
+    ('Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.', 'de',
+     'Entwickle Erfolg aus Misserfolgen. Entmutigung und Scheitern sind zwei der sichersten Stufen zum Erfolg.');
