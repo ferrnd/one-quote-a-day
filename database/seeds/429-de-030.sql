@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and time do more than strength or passion.', 'de',
      'Geduld und Zeit vermögen mehr als Kraft und Leidenschaft.'),
     ('Our patience will achieve more than our force.', 'de',
-     'Unsere Geduld wird mehr erreichen als unsere Kraft.');
+     'Unsere Geduld wird mehr erreichen als unsere Kraft.'),
+    ('How poor are they that have not patience! What wound did ever heal but by degrees?', 'de',
+     'Wie arm sind die, die keine Geduld haben! Welche Wunde heilte je anders als nach und nach?');
