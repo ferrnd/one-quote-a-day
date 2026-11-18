@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Impossible is just a big word thrown around by small men.', 'pt-BR',
      'Impossível é só uma palavra grande usada por homens pequenos.'),
     ('It''s the repetition of affirmations that leads to belief.', 'pt-BR',
-     'É a repetição das afirmações que leva à crença.');
+     'É a repetição das afirmações que leva à crença.'),
+    ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'pt-BR',
+     'Se minha mente pode conceber e meu coração pode acreditar, então eu posso conquistar.');
