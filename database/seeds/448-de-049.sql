@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream no small dreams for they have no power to move the hearts of men.', 'de',
      'Träume keine kleinen Träume, denn sie haben keine Kraft, die Herzen der Menschen zu bewegen.'),
     ('A man is not old until regrets take the place of dreams.', 'de',
-     'Ein Mensch ist erst alt, wenn das Bedauern den Platz der Träume einnimmt.');
+     'Ein Mensch ist erst alt, wenn das Bedauern den Platz der Träume einnimmt.'),
+    ('In dreams begins responsibility.', 'de',
+     'In Träumen beginnt Verantwortung.');
