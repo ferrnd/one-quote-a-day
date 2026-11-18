@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can''t go back to yesterday because I was a different person then.', 'nl',
      'Ik kan niet terug naar gisteren, want toen was ik een ander mens.'),
     ('Real change, enduring change, happens one step at a time.', 'nl',
-     'Echte verandering, blijvende verandering, gebeurt stap voor stap.');
+     'Echte verandering, blijvende verandering, gebeurt stap voor stap.'),
+    ('I was taught that the way of progress was neither swift nor easy.', 'nl',
+     'Mij is geleerd dat de weg van vooruitgang snel noch makkelijk is.');
