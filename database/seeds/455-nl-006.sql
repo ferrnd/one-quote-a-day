@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only those who dare to fail greatly can ever achieve greatly.', 'nl',
      'Alleen wie durft groots te falen, kan ooit groots slagen.'),
     ('Failure is the condiment that gives success its flavor.', 'nl',
-     'Falen is de kruiderij die succes zijn smaak geeft.');
+     'Falen is de kruiderij die succes zijn smaak geeft.'),
+    ('It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.', 'nl',
+     'Het is onmogelijk te leven zonder ergens in te falen, tenzij je zo voorzichtig leeft dat je net zo goed niet had kunnen leven.');
