@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The very least you can do in your life is figure out what you hope for.', 'it',
      'Il minimo che puoi fare nella vita è capire che cosa speri.'),
     ('There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something better tomorrow.', 'it',
-     'Non c''è medicina come la speranza, né incentivo così grande, né tonico così potente come l''attesa di qualcosa di meglio domani.');
+     'Non c''è medicina come la speranza, né incentivo così grande, né tonico così potente come l''attesa di qualcosa di meglio domani.'),
+    ('Hope is the pillar that holds up the world.', 'it',
+     'La speranza è il pilastro che regge il mondo.');
