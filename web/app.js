@@ -8,8 +8,8 @@
  * Append ?date=YYYY-MM-DD to the URL to preview another day, and
  * ?theme=day|night to force a theme.
  *
- * Keys: <- and -> walk through the days that have already happened.
- * Click the quote to copy it.
+ * Keys: <- and -> (or a horizontal swipe) walk through past days.
+ * Click the quote to copy it. The "!" button explains all of this.
  */
 
 import {
@@ -28,6 +28,8 @@ const counterEl = /** @type {HTMLButtonElement} */ (document.getElementById("day
 const counterLabel = /** @type {HTMLElement} */ (document.getElementById("day-label"));
 const counterNext = /** @type {HTMLElement} */ (document.getElementById("day-next"));
 const toastEl = /** @type {HTMLElement} */ (document.getElementById("toast"));
+const infoButton = /** @type {HTMLButtonElement} */ (document.getElementById("info-button"));
+const infoEl = /** @type {HTMLDialogElement} */ (document.getElementById("info"));
 const archiveEl = /** @type {HTMLDialogElement} */ (document.getElementById("archive"));
 const archiveList = /** @type {HTMLOListElement} */ (document.getElementById("archive-list"));
 const decoder = new TextDecoder("utf-8", { fatal: true });
@@ -194,35 +196,47 @@ function openArchive(engine) {
 
 let closeTimer = 0;
 
-function closeArchive() {
-  if (!archiveEl.open || archiveEl.classList.contains("is-closing")) return;
+/** Animate a dialog out, then close it. @param {HTMLDialogElement} dialog */
+function closeDialog(dialog) {
+  if (!dialog.open || dialog.classList.contains("is-closing")) return;
   if (matchMedia("(prefers-reduced-motion: reduce)").matches) {
-    archiveEl.close();
+    dialog.close();
     return;
   }
-  archiveEl.classList.add("is-closing");
-  closeTimer = setTimeout(() => archiveEl.close(), CLOSE_MS);
+  dialog.classList.add("is-closing");
+  closeTimer = setTimeout(() => dialog.close(), CLOSE_MS);
 }
+
+/**
+ * Close button, backdrop click and Esc all animate the dialog out. Esc is
+ * handled on keydown because browsers only let a page cancel the native
+ * dialog close right after a user gesture.
+ * @param {HTMLDialogElement} dialog @param {Element | null} closeButton
+ */
+function wireDismiss(dialog, closeButton) {
+  closeButton?.addEventListener("click", () => closeDialog(dialog));
+  dialog.addEventListener("click", (event) => { if (event.target === dialog) closeDialog(dialog); });
+  dialog.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") { event.preventDefault(); closeDialog(dialog); }
+  });
+  dialog.addEventListener("cancel", (event) => { event.preventDefault(); closeDialog(dialog); });
+  dialog.addEventListener("close", () => {
+    clearTimeout(closeTimer);
+    dialog.classList.remove("is-closing");
+  });
+}
+
+const anyDialogOpen = () => document.querySelector("dialog[open]") !== null;
 
 /** @param {QuoteEngine} engine */
 function wireArchive(engine) {
   counterEl.addEventListener("click", () => openArchive(engine));
-  document.getElementById("archive-close")?.addEventListener("click", closeArchive);
-  // click on the backdrop closes too
-  archiveEl.addEventListener("click", (event) => { if (event.target === archiveEl) closeArchive(); });
+  wireDismiss(archiveEl, document.getElementById("archive-close"));
   // belt and braces for fast flings: top up whenever we get near the bottom
   archiveList.addEventListener("scroll", () => {
     if (archiveList.scrollHeight - archiveList.scrollTop - archiveList.clientHeight < 800) appendArchivePage();
   }, { passive: true });
-  // Esc: animate out instead of vanishing. Handle the key itself, because
-  // browsers only let a page cancel the native dialog close after a user gesture.
-  archiveEl.addEventListener("keydown", (event) => {
-    if (event.key === "Escape") { event.preventDefault(); closeArchive(); }
-  });
-  archiveEl.addEventListener("cancel", (event) => { event.preventDefault(); closeArchive(); });
   archiveEl.addEventListener("close", () => {
-    clearTimeout(closeTimer);
-    archiveEl.classList.remove("is-closing");
     observer.disconnect();
     archive = null;
     archiveList.replaceChildren();
@@ -318,14 +332,51 @@ async function goTo(day, direction) {
   }
 }
 
+/**
+ * Move one day back (-1) or forward (+1). Going back, the page moves right
+ * and yesterday comes in from the left; going forward, the opposite.
+ * @param {-1 | 1} delta
+ */
+function step(delta) {
+  const from = queued?.day ?? state.view;
+  goTo(from + delta, delta > 0 ? "left" : "right");
+}
+
 function wireKeys() {
   addEventListener("keydown", (event) => {
-    if (archiveEl.open || event.altKey || event.ctrlKey || event.metaKey) return;
-    const from = queued?.day ?? state.view;
-    // <- goes back in time: the page moves right and yesterday comes in from the left
-    if (event.key === "ArrowLeft") { event.preventDefault(); goTo(from - 1, "right"); }
-    if (event.key === "ArrowRight") { event.preventDefault(); goTo(from + 1, "left"); }
+    if (anyDialogOpen() || event.altKey || event.ctrlKey || event.metaKey) return;
+    if (event.key === "ArrowLeft") { event.preventDefault(); step(-1); }
+    if (event.key === "ArrowRight") { event.preventDefault(); step(1); }
   });
+}
+
+/* -------------------------------------------------------------- swipe -- */
+
+const SWIPE_MIN = 50; // CSS px of horizontal travel
+const SWIPE_MAX_MS = 800;
+let swipedAt = 0;
+
+/** A horizontal swipe does what the arrow keys do: finger left = next day. */
+function wireSwipe() {
+  /** @type {{x: number, y: number, at: number} | null} */
+  let start = null;
+  addEventListener("touchstart", (event) => {
+    if (event.touches.length !== 1 || anyDialogOpen()) { start = null; return; }
+    const touch = event.touches[0];
+    start = { x: touch.clientX, y: touch.clientY, at: performance.now() };
+  }, { passive: true });
+  addEventListener("touchcancel", () => { start = null; }, { passive: true });
+  addEventListener("touchend", (event) => {
+    if (!start) return;
+    const touch = event.changedTouches[0];
+    const dx = touch.clientX - start.x;
+    const dy = touch.clientY - start.y;
+    const quick = performance.now() - start.at <= SWIPE_MAX_MS;
+    start = null;
+    if (!quick || Math.abs(dx) < SWIPE_MIN || Math.abs(dx) < Math.abs(dy) * 1.5) return;
+    swipedAt = performance.now();
+    step(dx < 0 ? 1 : -1);
+  }, { passive: true });
 }
 
 /* --------------------------------------------------------------- copy -- */
@@ -343,6 +394,7 @@ function toast(message) {
 function wireCopy() {
   figure.addEventListener("click", async () => {
     if (String(getSelection() ?? "")) return; // the visitor is selecting text, not clicking
+    if (performance.now() - swipedAt < 500) return; // the tail end of a swipe, not a tap
     const text = textEl.textContent ?? "";
     const author = authorEl.textContent ?? "";
     const payload = author ? `“${text}” — ${author}` : `“${text}”`;
@@ -370,6 +422,25 @@ function wireCountdown() {
   counterEl.addEventListener("focus", start);
   counterEl.addEventListener("mouseleave", stop);
   counterEl.addEventListener("blur", stop);
+}
+
+/* --------------------------------------------------------------- help -- */
+
+function wireHelp() {
+  const next = document.getElementById("info-next");
+  const stats = document.getElementById("info-stats");
+  if (stats && state.engine) {
+    stats.textContent = `${state.engine.count} quotes by ${state.engine.x.author_count()} authors`;
+  }
+  infoButton.addEventListener("click", () => {
+    if (anyDialogOpen()) return;
+    // phones cannot hover the counter, so the countdown lives here as well
+    if (next) next.textContent = `The next one arrives in ${formatCountdown(msUntilNextLocalMidnight(new Date()))}.`;
+    infoEl.classList.remove("is-closing");
+    infoEl.showModal();
+  });
+  wireDismiss(infoEl, document.getElementById("info-close"));
+  infoEl.addEventListener("close", () => infoButton.focus({ preventScroll: true }));
 }
 
 /* -------------------------------------------------------------- theme -- */
@@ -434,7 +505,9 @@ async function main() {
     const pinned = parseDateKey(new URLSearchParams(location.search).get("date"));
     wireArchive(state.engine);
     wireKeys();
+    wireSwipe();
     wireCopy();
+    wireHelp();
     wireCountdown();
     if (pinned) {
       state.today = state.view = toDay(pinned);
