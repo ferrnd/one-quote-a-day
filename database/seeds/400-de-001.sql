@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Continuous effort, not strength or intelligence, is the key to unlocking our potential.', 'de',
      'Beständige Anstrengung, nicht Kraft oder Intelligenz, ist der Schlüssel zu unserem Potenzial.'),
     ('Ambition is the path to success. Persistence is the vehicle you arrive in.', 'de',
-     'Ehrgeiz ist der Weg zum Erfolg. Beharrlichkeit ist das Fahrzeug, mit dem du ankommst.');
+     'Ehrgeiz ist der Weg zum Erfolg. Beharrlichkeit ist das Fahrzeug, mit dem du ankommst.'),
+    ('The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.', 'de',
+     'Der Unterschied zwischen einem erfolgreichen Menschen und anderen ist nicht ein Mangel an Kraft oder Wissen, sondern ein Mangel an Willen.');
