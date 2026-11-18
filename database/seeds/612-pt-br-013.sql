@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every failure is a step to success.', 'pt-BR',
      'Cada fracasso é um passo rumo ao sucesso.'),
     ('Defeat is not the worst of failures. Not to have tried is the true failure.', 'pt-BR',
-     'A derrota não é o pior dos fracassos. Não ter tentado é o verdadeiro fracasso.');
+     'A derrota não é o pior dos fracassos. Não ter tentado é o verdadeiro fracasso.'),
+    ('Failures are finger posts on the road to achievement.', 'pt-BR',
+     'Os fracassos são placas indicando o caminho da realização.');
