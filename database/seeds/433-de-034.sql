@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Because it''s there.', 'de',
      'Weil er da ist.'),
     ('That''s one small step for a man, one giant leap for mankind.', 'de',
-     'Das ist ein kleiner Schritt für einen Menschen, ein riesiger Sprung für die Menschheit.');
+     'Das ist ein kleiner Schritt für einen Menschen, ein riesiger Sprung für die Menschheit.'),
+    ('Don''t tell me the sky''s the limit when there are footprints on the moon.', 'de',
+     'Sag mir nicht, der Himmel sei die Grenze, wenn es Fußabdrücke auf dem Mond gibt.');
