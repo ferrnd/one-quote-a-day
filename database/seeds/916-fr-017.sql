@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The fight is won or lost far away from witnesses, behind the lines, in the gym, and out there on the road, long before I dance under those lights.', 'fr',
      'Le combat se gagne ou se perd loin des témoins, en coulisses, à la salle et sur la route, bien avant que je danse sous ces projecteurs.'),
     ('Don''t count the days, make the days count.', 'fr',
-     'Ne compte pas les jours ; fais que les jours comptent.');
+     'Ne compte pas les jours ; fais que les jours comptent.'),
+    ('Dedication sees dreams come true.', 'fr',
+     'Le dévouement fait des rêves une réalité.');
