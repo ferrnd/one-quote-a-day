@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We are all failures, at least the best of us are.', 'nl',
      'We zijn allemaal mislukkelingen, de besten van ons tenminste.'),
     ('I can accept failure, everyone fails at something. But I can''t accept not trying.', 'nl',
-     'Ik kan falen accepteren, iedereen faalt ergens in. Maar ik kan niet accepteren dat ik het niet probeer.');
+     'Ik kan falen accepteren, iedereen faalt ergens in. Maar ik kan niet accepteren dat ik het niet probeer.'),
+    ('Success is not built on success. It''s built on failure. It''s built on frustration.', 'nl',
+     'Succes is niet gebouwd op succes. Het is gebouwd op falen. Het is gebouwd op frustratie.');
