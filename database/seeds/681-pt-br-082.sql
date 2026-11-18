@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s failure that gives you the proper perspective on success.', 'pt-BR',
      'É o fracasso que dá a perspectiva certa sobre o sucesso.'),
     ('Success is how high you bounce when you hit bottom.', 'pt-BR',
-     'Sucesso é o quão alto você quica quando chega ao fundo.');
+     'Sucesso é o quão alto você quica quando chega ao fundo.'),
+    ('Don''t let the fear of losing be greater than the excitement of winning.', 'pt-BR',
+     'Não deixe o medo de perder ser maior do que a empolgação de vencer.');
