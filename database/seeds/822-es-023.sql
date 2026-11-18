@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every cloud has a silver lining.', 'es',
      'No hay mal que por bien no venga.'),
     ('The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.', 'es',
-     'El propio sol es débil cuando sale, y va ganando fuerza y valor a medida que avanza el día.');
+     'El propio sol es débil cuando sale, y va ganando fuerza y valor a medida que avanza el día.'),
+    ('Hope is the only thing stronger than fear.', 'es',
+     'La esperanza es lo único más fuerte que el miedo.');
