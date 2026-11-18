@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.', 'de',
      'Im Leben kommt es nicht immer darauf an, gute Karten zu haben, sondern manchmal darauf, ein schlechtes Blatt gut zu spielen.'),
     ('Hope is the thing with feathers that perches in the soul.', 'de',
-     'Hoffnung ist das Ding mit Federn, das in der Seele sitzt.');
+     'Hoffnung ist das Ding mit Federn, das in der Seele sitzt.'),
+    ('Everything that is done in the world is done by hope.', 'de',
+     'Alles, was auf der Welt geschieht, geschieht durch Hoffnung.');
