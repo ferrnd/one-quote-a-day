@@ -20,11 +20,11 @@ from pathlib import Path
 
 from . import __version__
 from .civil import WEEKDAYS, civil_from_days, days_from_civil, weekday
-from .database import Catalog
-from .schedule import BASE_DAY, SEED, SEQUENCE, WINDOW, build_table
+from .database import Catalog, calendar_of
+from .schedule import BASE_DAY, SEED, SEQUENCE, WINDOW
 
 MAGIC = 0x44544F51  # "QOTD"
-FORMAT = 2
+FORMAT = 3
 PAGE = 65_536
 HEADER_SIZE = 64
 RECORD_SIZE = 16
@@ -32,7 +32,7 @@ HEADER_FIELDS = (
     "magic", "format", "quote_count", "author_count",
     "records_ptr", "pool_ptr", "pool_len", "schedule_ptr",
     "schedule_base", "schedule_len", "scratch_ptr", "pool_fnv1a",
-    "dedication_count", "dedications_ptr",
+    "dedication_count", "dedications_ptr", "launch_day", "legacy_count",
 )
 DEDICATION_SIZE = 8
 
@@ -125,6 +125,7 @@ def header_bytes(catalog: Catalog, layout: Layout) -> bytes:
         layout.records_ptr, layout.pool_ptr, len(layout.pool), layout.schedule_ptr,
         BASE_DAY, WINDOW, layout.scratch_ptr, fnv1a32(layout.pool),
         len(catalog.dedications), layout.dedications_ptr,
+        calendar_of(catalog).launch, catalog.legacy_quotes,
     )
     raw = struct.pack(f"<{len(HEADER_FIELDS)}I", *(v & 0xFFFF_FFFF for v in values))
     return raw.ljust(HEADER_SIZE, b"\0")
@@ -132,7 +133,8 @@ def header_bytes(catalog: Catalog, layout: Layout) -> bytes:
 
 def render(catalog: Catalog, fragments: list[Path]) -> str:
     layout = plan(catalog)
-    table = build_table(len(catalog))
+    calendar = calendar_of(catalog)
+    table = calendar.table()
     n = len(catalog)
     head, *body, tail = fragments
     out: list[str] = []
@@ -146,6 +148,8 @@ def render(catalog: Catalog, fragments: list[Path]) -> str:
     emit(f";;  authors       {len(catalog.authors)}")
     emit(f";;  themes        {len(catalog.themes)}")
     emit(f";;  dedications   {len(catalog.dedications)}")
+    emit(f";;  calendar      day 1 {catalog.launch_day}, {catalog.legacy_quotes} legacy quotes; new quotes")
+    emit(f";;                from day {calendar.legacy + 1}, full rotation from day {calendar.n + 1}")
     emit(f";;  pool          {len(layout.pool)} bytes, fnv1a {fnv1a32(layout.pool):#010x}")
     emit(f";;  schedule      {WINDOW} days from 2000-01-01, seed {SEED:#018x}")
     emit(f";;  sequence      {SEQUENCE:#018x}")
