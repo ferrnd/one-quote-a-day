@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It always seems impossible until it''s done.', 'nl',
      'Het lijkt altijd onmogelijk, totdat het gedaan is.'),
     ('Nothing in this world can take the place of persistence.', 'nl',
-     'Niets ter wereld kan de plaats innemen van volharding.');
+     'Niets ter wereld kan de plaats innemen van volharding.'),
+    ('Victory belongs to the most persevering.', 'nl',
+     'De overwinning is aan wie het langst volhoudt.');
