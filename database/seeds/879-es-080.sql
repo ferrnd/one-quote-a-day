@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'es',
      'El valor es hacer aquello que te da miedo. No puede haber valor si no tienes miedo.'),
     ('Fortune and love favor the brave.', 'es',
-     'La fortuna y el amor favorecen a los valientes.');
+     'La fortuna y el amor favorecen a los valientes.'),
+    ('Expose yourself to your deepest fear; after that, fear has no power.', 'es',
+     'Exponte a tu miedo más profundo; después de eso, el miedo ya no tiene poder.');
