@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A man is but the product of his thoughts. What he thinks, he becomes.', 'pt-BR',
      'O homem é apenas o produto dos seus pensamentos. Ele se torna aquilo que pensa.'),
     ('If you don''t like something, change it. If you can''t change it, change your attitude.', 'pt-BR',
-     'Se você não gosta de algo, mude. Se não puder mudar, mude a sua atitude.');
+     'Se você não gosta de algo, mude. Se não puder mudar, mude a sua atitude.'),
+    ('People often say that motivation doesn''t last. Well, neither does bathing. That''s why we recommend it daily.', 'pt-BR',
+     'Dizem que a motivação não dura. Bem, o banho também não. É por isso que recomendamos todos os dias.');
