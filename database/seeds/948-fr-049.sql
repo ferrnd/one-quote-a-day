@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is nothing like a dream to create the future.', 'fr',
      'Rien ne fait l''avenir comme un rêve.'),
     ('The power of imagination makes us infinite.', 'fr',
-     'Le pouvoir de l''imagination nous rend infinis.');
+     'Le pouvoir de l''imagination nous rend infinis.'),
+    ('You see things; and you say ''Why?'' But I dream things that never were; and I say ''Why not?''', 'fr',
+     'Tu vois des choses et tu dis : « Pourquoi ? » Mais moi, je rêve de choses qui n''ont jamais existé et je dis : « Pourquoi pas ? »');
