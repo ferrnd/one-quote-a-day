@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Opportunities don''t happen. You create them.', 'nl',
      'Kansen gebeuren niet zomaar. Jij creëert ze.'),
     ('Doubt kills more dreams than failure ever will.', 'nl',
-     'Twijfel doodt meer dromen dan falen ooit zal doen.');
+     'Twijfel doodt meer dromen dan falen ooit zal doen.'),
+    ('Don''t be pushed around by the fears in your mind. Be led by the dreams in your heart.', 'nl',
+     'Laat je niet opjagen door de angsten in je hoofd. Laat je leiden door de dromen in je hart.');
