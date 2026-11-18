@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have stood on a mountain of no''s for one yes.', 'nl',
      'Ik heb op een berg van nee''s gestaan voor één ja.'),
     ('I had to make my own living and my own opportunity. But I made it!', 'nl',
-     'Ik moest mijn eigen kost en mijn eigen kansen verdienen. Maar het is me gelukt!');
+     'Ik moest mijn eigen kost en mijn eigen kansen verdienen. Maar het is me gelukt!'),
+    ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'nl',
+     'Ik ben er niet gekomen door het te wensen of erop te hopen, maar door ervoor te werken.');
