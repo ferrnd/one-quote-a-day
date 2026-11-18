@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To live without hope is to cease to live.', 'nl',
      'Leven zonder hoop is ophouden met leven.'),
     ('In all things it is better to hope than to despair.', 'nl',
-     'In alle dingen is hopen beter dan wanhopen.');
+     'In alle dingen is hopen beter dan wanhopen.'),
+    ('Hope is important because it can make the present moment less difficult to bear.', 'nl',
+     'Hoop is belangrijk omdat ze het huidige moment minder moeilijk te dragen kan maken.');
