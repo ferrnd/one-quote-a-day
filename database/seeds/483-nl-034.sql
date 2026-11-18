@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Exploration is really the essence of the human spirit.', 'nl',
      'Ontdekken is werkelijk de essentie van de menselijke geest.'),
     ('Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.', 'nl',
-     'Zegevierende krijgers winnen eerst en trekken dan ten strijde, terwijl verslagen krijgers eerst ten strijde trekken en dan proberen te winnen.');
+     'Zegevierende krijgers winnen eerst en trekken dan ten strijde, terwijl verslagen krijgers eerst ten strijde trekken en dan proberen te winnen.'),
+    ('All our dreams can come true, if we have the courage to pursue them.', 'nl',
+     'Al onze dromen kunnen uitkomen, als we de moed hebben ze na te jagen.');
