@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is fear holding on a minute longer.', 'nl',
      'Moed is angst die het een minuut langer volhoudt.'),
     ('Failure is not falling down but refusing to get up.', 'nl',
-     'Falen is niet vallen, maar weigeren op te staan.');
+     'Falen is niet vallen, maar weigeren op te staan.'),
+    ('The successful man will profit from his mistakes and try again in a different way.', 'nl',
+     'De succesvolle mens haalt voordeel uit zijn fouten en probeert het op een andere manier opnieuw.');
