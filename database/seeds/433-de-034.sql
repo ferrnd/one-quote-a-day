@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.', 'de',
      'Siegreiche Krieger siegen zuerst und ziehen dann in den Krieg, während besiegte Krieger zuerst in den Krieg ziehen und dann zu siegen versuchen.'),
     ('All our dreams can come true, if we have the courage to pursue them.', 'de',
-     'Alle unsere Träume können wahr werden, wenn wir den Mut haben, ihnen zu folgen.');
+     'Alle unsere Träume können wahr werden, wenn wir den Mut haben, ihnen zu folgen.'),
+    ('First, think. Second, dream. Third, believe. And finally, dare.', 'de',
+     'Erstens denken. Zweitens träumen. Drittens glauben. Und schließlich wagen.');
