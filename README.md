@@ -116,3 +116,16 @@ from a fresh build, then runs both suites.
 The built site lives in `docs/`. In the repository settings, under
 **Pages**, choose **Deploy from a branch**, branch `main`, folder `/docs`.
 
+## Project layout
+
+```
+database/        schema and seeds (the source of truth)
+src/wat/         the hand-written WebAssembly Text runtime
+tools/qotd/      the Python build pipeline
+tools/           the wabt assembler script
+web/             page, styles, clock, service worker
+generated/       the generated WAT module (committed)
+docs/            the deployable site (committed)
+tests/           Python and Node test suites
+```
+
