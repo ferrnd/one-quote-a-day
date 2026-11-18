@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail.', 'es',
      'No seguiré adonde lleve el camino; iré donde no hay camino y dejaré un sendero.'),
     ('Becoming is better than being.', 'es',
-     'Llegar a ser es mejor que ser.');
+     'Llegar a ser es mejor que ser.'),
+    ('Not everything that is faced can be changed, but nothing can be changed until it is faced.', 'es',
+     'No todo lo que se enfrenta puede cambiarse, pero nada puede cambiarse hasta que se enfrenta.');
