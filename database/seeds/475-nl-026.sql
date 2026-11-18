@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t wait for inspiration. You have to go after it with a club.', 'nl',
      'Je kunt niet wachten op inspiratie. Je moet er met een knuppel achteraan.'),
     ('Go for it now. The future is promised to no one.', 'nl',
-     'Ga er nu voor. De toekomst is niemand beloofd.');
+     'Ga er nu voor. De toekomst is niemand beloofd.'),
+    ('Doing the best at this moment puts you in the best place for the next moment.', 'nl',
+     'Nu je best doen, brengt je op de beste plek voor het volgende moment.');
