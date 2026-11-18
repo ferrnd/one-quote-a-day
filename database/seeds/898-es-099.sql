@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be kind, for everyone you meet is fighting a hard battle.', 'es',
      'Sé amable, porque cada persona que conoces está librando una dura batalla.'),
     ('No act of kindness, no matter how small, is ever wasted.', 'es',
-     'Ningún acto de bondad, por pequeño que sea, se desperdicia.');
+     'Ningún acto de bondad, por pequeño que sea, se desperdicia.'),
+    ('The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.', 'es',
+     'Las cosas mejores y más hermosas del mundo no se pueden ver ni tocar. Deben sentirse con el corazón.');
