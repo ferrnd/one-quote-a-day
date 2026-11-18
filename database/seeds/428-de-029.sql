@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Man is not worried by real problems so much as by his imagined anxieties about real problems.', 'de',
      'Den Menschen beunruhigen nicht so sehr die wirklichen Probleme als vielmehr seine eingebildeten Ängste vor ihnen.'),
     ('If you think you are beaten, you are.', 'de',
-     'Wenn du glaubst, dass du geschlagen bist, dann bist du es.');
+     'Wenn du glaubst, dass du geschlagen bist, dann bist du es.'),
+    ('Sooner or later the man who wins is the man who thinks he can.', 'de',
+     'Früher oder später gewinnt der, der glaubt, dass er es kann.');
