@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Believe you can and you''re halfway there.', 'pt-BR',
      'Acredite que você consegue, e já terá percorrido metade do caminho.'),
     ('Our life is what our thoughts make it.', 'pt-BR',
-     'Nossa vida é aquilo que nossos pensamentos fazem dela.');
+     'Nossa vida é aquilo que nossos pensamentos fazem dela.'),
+    ('The happiness of your life depends upon the quality of your thoughts.', 'pt-BR',
+     'A felicidade da sua vida depende da qualidade dos seus pensamentos.');
