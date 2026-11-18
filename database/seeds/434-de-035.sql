@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep your dreams alive. Understand to achieve anything requires faith and belief in yourself, vision, hard work, determination, and dedication.', 'de',
      'Halte deine Träume lebendig. Begreife, dass jede Leistung Glauben und Vertrauen in dich selbst, Vision, harte Arbeit, Entschlossenheit und Hingabe erfordert.'),
     ('If you can imagine it, you can achieve it.', 'de',
-     'Wenn du es dir vorstellen kannst, kannst du es auch erreichen.');
+     'Wenn du es dir vorstellen kannst, kannst du es auch erreichen.'),
+    ('The dreamers are the saviors of the world.', 'de',
+     'Die Träumer sind die Retter der Welt.');
