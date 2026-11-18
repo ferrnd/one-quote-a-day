@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Diamonds are nothing more than chunks of coal that stuck to their jobs.', 'de',
      'Diamanten sind nichts anderes als Kohlestücke, die bei der Arbeit geblieben sind.'),
     ('Great things are not done by impulse, but by a series of small things brought together.', 'de',
-     'Große Dinge entstehen nicht aus einem Impuls, sondern durch eine Reihe kleiner Dinge, die zusammengefügt werden.');
+     'Große Dinge entstehen nicht aus einem Impuls, sondern durch eine Reihe kleiner Dinge, die zusammengefügt werden.'),
+    ('Genius is one percent inspiration and ninety-nine percent perspiration.', 'de',
+     'Genie ist ein Prozent Inspiration und neunundneunzig Prozent Transpiration.');
