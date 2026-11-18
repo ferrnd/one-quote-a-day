@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Some people want it to happen, some wish it would happen, others make it happen.', 'nl',
      'Sommige mensen willen dat het gebeurt, sommigen wensen dat het gebeurt, anderen laten het gebeuren.'),
     ('The more I want to get something done, the less I call it work.', 'nl',
-     'Hoe meer ik iets gedaan wil krijgen, hoe minder ik het werk noem.');
+     'Hoe meer ik iets gedaan wil krijgen, hoe minder ik het werk noem.'),
+    ('The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.', 'nl',
+     'De pessimist klaagt over de wind; de optimist verwacht dat hij draait; de realist zet de zeilen bij.');
