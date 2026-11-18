@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life is like riding a bicycle. To keep your balance you must keep moving.', 'it',
      'La vita è come andare in bicicletta. Per mantenere l''equilibrio, devi continuare a muoverti.'),
     ('They always say time changes things, but you actually have to change them yourself.', 'it',
-     'Dicono sempre che il tempo cambia le cose, ma in realtà sei tu che devi cambiarle.');
+     'Dicono sempre che il tempo cambia le cose, ma in realtà sei tu che devi cambiarle.'),
+    ('Progress is impossible without change, and those who cannot change their minds cannot change anything.', 'it',
+     'Il progresso è impossibile senza cambiamento, e chi non sa cambiare idea non può cambiare nulla.');
