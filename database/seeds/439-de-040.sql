@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The opposite of courage in our society is not cowardice, it is conformity.', 'de',
      'Das Gegenteil von Mut ist in unserer Gesellschaft nicht Feigheit, sondern Anpassung.'),
     ('Cowards die many times before their deaths; the valiant never taste of death but once.', 'de',
-     'Feiglinge sterben viele Male vor ihrem Tod; der Tapfere kostet den Tod nur einmal.');
+     'Feiglinge sterben viele Male vor ihrem Tod; der Tapfere kostet den Tod nur einmal.'),
+    ('Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.', 'de',
+     'Fürchte dich nicht vor Größe: Manche werden groß geboren, manche erringen Größe, und manchen wird Größe zuteil.');
