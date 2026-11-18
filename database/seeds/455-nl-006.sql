@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage, dear heart.', 'nl',
      'Moed, lief hart.'),
     ('Courage is the power to let go of the familiar.', 'nl',
-     'Moed is de kracht om het vertrouwde los te laten.');
+     'Moed is de kracht om het vertrouwde los te laten.'),
+    ('I have not failed. I''ve just found 10,000 ways that won''t work.', 'nl',
+     'Ik heb niet gefaald. Ik heb alleen 10.000 manieren gevonden die niet werken.');
