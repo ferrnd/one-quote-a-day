@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the companion of power, and mother of success.', 'it',
      'La speranza è compagna del potere e madre del successo.'),
     ('Hope is itself a species of happiness.', 'it',
-     'La speranza è già, di per sé, una forma di felicità.');
+     'La speranza è già, di per sé, una forma di felicità.'),
+    ('The sun shines not on us but in us.', 'it',
+     'Il sole non splende su di noi, ma dentro di noi.');
