@@ -1,4 +1,5 @@
 -- seed 103 :: action (7)
 
 INSERT INTO intake (body, author, theme) VALUES
-    ('Begin anywhere.', 'John Cage', 'action');
+    ('Begin anywhere.', 'John Cage', 'action'),
+    ('Action is eloquence.', 'William Shakespeare', 'action');
