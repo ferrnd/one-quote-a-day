@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The oak sleeps in the acorn.', 'nl',
      'De eik slaapt in de eikel.'),
     ('With the new day comes new strength and new thoughts.', 'nl',
-     'Met de nieuwe dag komen nieuwe kracht en nieuwe gedachten.');
+     'Met de nieuwe dag komen nieuwe kracht en nieuwe gedachten.'),
+    ('Our strength grows out of our weaknesses.', 'nl',
+     'Onze kracht groeit uit onze zwaktes.');
