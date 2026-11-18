@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You will never change your life until you change something you do daily.', 'pt-BR',
      'Você nunca vai mudar sua vida até mudar algo que faz diariamente.'),
     ('Excellence is the gradual result of always striving to do better.', 'pt-BR',
-     'A excelência é o resultado gradual de sempre se esforçar para fazer melhor.');
+     'A excelência é o resultado gradual de sempre se esforçar para fazer melhor.'),
+    ('Champions keep playing until they get it right.', 'pt-BR',
+     'Campeões continuam jogando até acertar.');
