@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All our dreams can come true, if we have the courage to pursue them.', 'de',
      'Alle unsere Träume können wahr werden, wenn wir den Mut haben, ihnen zu folgen.'),
     ('First, think. Second, dream. Third, believe. And finally, dare.', 'de',
-     'Erstens denken. Zweitens träumen. Drittens glauben. Und schließlich wagen.');
+     'Erstens denken. Zweitens träumen. Drittens glauben. Und schließlich wagen.'),
+    ('A dream you dream alone is only a dream. A dream you dream together is reality.', 'de',
+     'Ein Traum, den man allein träumt, ist nur ein Traum. Ein Traum, den man gemeinsam träumt, ist Wirklichkeit.');
