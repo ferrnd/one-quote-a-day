@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no coming to consciousness without pain.', 'nl',
      'Er is geen bewustwording zonder pijn.'),
     ('It''s what you learn after you know it all that counts.', 'nl',
-     'Wat telt, is wat je leert nadat je denkt dat je alles al weet.');
+     'Wat telt, is wat je leert nadat je denkt dat je alles al weet.'),
+    ('Our business in life is not to get ahead of others, but to get ahead of ourselves.', 'nl',
+     'Onze taak in het leven is niet anderen voor te blijven, maar onszelf voor te blijven.');
