@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What we hope ever to do with ease, we must learn first to do with diligence.', 'de',
      'Was wir eines Tages mit Leichtigkeit tun wollen, müssen wir zuerst mit Fleiß lernen.'),
     ('In the confrontation between the stream and the rock, the stream always wins, not through strength but by perseverance.', 'de',
-     'Im Kampf zwischen dem Bach und dem Felsen gewinnt immer der Bach, nicht durch Kraft, sondern durch Beharrlichkeit.');
+     'Im Kampf zwischen dem Bach und dem Felsen gewinnt immer der Bach, nicht durch Kraft, sondern durch Beharrlichkeit.'),
+    ('Endurance is not just the ability to bear a hard thing, but to turn it into glory.', 'de',
+     'Ausdauer ist nicht nur die Fähigkeit, etwas Schweres zu ertragen, sondern es in Ruhm zu verwandeln.');
