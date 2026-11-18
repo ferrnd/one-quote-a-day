@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is during our darkest moments that we must focus to see the light.', 'nl',
      'Juist in onze donkerste momenten moeten we ons concentreren om het licht te zien.'),
     ('The world is round and the place which may seem like the end may also be only the beginning.', 'nl',
-     'De wereld is rond, en de plek die het einde lijkt, kan ook slechts het begin zijn.');
+     'De wereld is rond, en de plek die het einde lijkt, kan ook slechts het begin zijn.'),
+    ('Faith is the bird that feels the light and sings when the dawn is still dark.', 'nl',
+     'Geloof is de vogel die het licht voelt en zingt wanneer de dageraad nog donker is.');
