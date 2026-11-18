@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fortitude is the guard and support of the other virtues.', 'es',
      'La fortaleza es la guardiana y el sostén de las demás virtudes.'),
     ('I am no bird; and no net ensnares me: I am a free human being with an independent will.', 'es',
-     'No soy un pájaro, y ninguna red me atrapa: soy un ser humano libre, con voluntad propia.');
+     'No soy un pájaro, y ninguna red me atrapa: soy un ser humano libre, con voluntad propia.'),
+    ('My mission in life is not merely to survive, but to thrive.', 'es',
+     'Mi misión en la vida no es solo sobrevivir, sino prosperar.');
