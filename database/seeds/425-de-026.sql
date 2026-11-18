@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Opportunities don''t happen. You create them.', 'de',
      'Chancen passieren nicht einfach. Du erschaffst sie.'),
     ('Doubt kills more dreams than failure ever will.', 'de',
-     'Zweifel tötet mehr Träume, als das Scheitern es je tun wird.');
+     'Zweifel tötet mehr Träume, als das Scheitern es je tun wird.'),
+    ('Don''t be pushed around by the fears in your mind. Be led by the dreams in your heart.', 'de',
+     'Lass dich nicht von den Ängsten in deinem Kopf herumschubsen. Lass dich von den Träumen in deinem Herzen leiten.');
