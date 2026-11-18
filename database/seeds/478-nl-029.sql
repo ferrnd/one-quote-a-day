@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We become what we think about.', 'nl',
      'We worden waar we aan denken.'),
     ('If you''re always trying to be normal, you will never know how amazing you can be.', 'nl',
-     'Als je altijd probeert normaal te zijn, zul je nooit weten hoe geweldig je kunt zijn.');
+     'Als je altijd probeert normaal te zijn, zul je nooit weten hoe geweldig je kunt zijn.'),
+    ('Why, sometimes I''ve believed as many as six impossible things before breakfast.', 'nl',
+     'Wel, soms heb ik voor het ontbijt al zes onmogelijke dingen geloofd.');
