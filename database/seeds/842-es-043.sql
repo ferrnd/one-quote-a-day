@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Darkness cannot drive out darkness; only light can do that.', 'es',
      'La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacerlo.'),
     ('Faith is taking the first step even when you don''t see the whole staircase.', 'es',
-     'La fe es dar el primer paso aunque no veas toda la escalera.');
+     'La fe es dar el primer paso aunque no veas toda la escalera.'),
+    ('There is no education like adversity.', 'es',
+     'No hay escuela como la adversidad.');
