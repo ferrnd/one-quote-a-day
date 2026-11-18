@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fear is only as deep as the mind allows.', 'fr',
      'La peur n''est profonde que dans la mesure où l''esprit le permet.'),
     ('Everything you''ve ever wanted is on the other side of fear.', 'fr',
-     'Tout ce que tu as toujours voulu se trouve de l''autre côté de la peur.');
+     'Tout ce que tu as toujours voulu se trouve de l''autre côté de la peur.'),
+    ('Inaction breeds doubt and fear. Action breeds confidence and courage.', 'fr',
+     'L''inaction engendre le doute et la peur. L''action engendre la confiance et le courage.');
