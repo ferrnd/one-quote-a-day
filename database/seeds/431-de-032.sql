@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Once you learn to quit, it becomes a habit.', 'de',
      'Wenn man einmal gelernt hat aufzugeben, wird es zur Gewohnheit.'),
     ('Today I will do what others won''t, so tomorrow I can accomplish what others can''t.', 'de',
-     'Heute tue ich, was andere nicht tun, damit ich morgen erreichen kann, was andere nicht können.');
+     'Heute tue ich, was andere nicht tun, damit ich morgen erreichen kann, was andere nicht können.'),
+    ('You can''t put a limit on anything. The more you dream, the farther you get.', 'de',
+     'Man kann nichts begrenzen. Je mehr du träumst, desto weiter kommst du.');
