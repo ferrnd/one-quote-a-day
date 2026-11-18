@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The most difficult thing is the decision to act, the rest is merely tenacity.', 'nl',
      'Het moeilijkste is de beslissing om te handelen; de rest is alleen maar volharding.'),
     ('The most effective way to do it, is to do it.', 'nl',
-     'De meest effectieve manier om het te doen, is het te doen.');
+     'De meest effectieve manier om het te doen, is het te doen.'),
+    ('Don''t sit down and wait for the opportunities to come. Get up and make them.', 'nl',
+     'Ga niet zitten wachten tot de kansen komen. Sta op en creëer ze.');
