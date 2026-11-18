@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of difficulties grow miracles.', 'pt-BR',
      'Das dificuldades nascem milagres.'),
     ('The gem cannot be polished without friction, nor man perfected without trials.', 'pt-BR',
-     'A pedra preciosa não pode ser polida sem atrito, nem o homem aperfeiçoado sem provações.');
+     'A pedra preciosa não pode ser polida sem atrito, nem o homem aperfeiçoado sem provações.'),
+    ('Smooth seas do not make skillful sailors.', 'pt-BR',
+     'Mar calmo não faz bom marinheiro.');
