@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The more difficult the victory, the greater the happiness in winning.', 'de',
      'Je schwieriger der Sieg, desto größer die Freude am Gewinnen.'),
     ('Gold medals aren''t really made of gold. They''re made of sweat, determination, and a hard-to-find alloy called guts.', 'de',
-     'Goldmedaillen sind nicht wirklich aus Gold. Sie sind aus Schweiß, Entschlossenheit und einer seltenen Legierung namens Mumm.');
+     'Goldmedaillen sind nicht wirklich aus Gold. Sie sind aus Schweiß, Entschlossenheit und einer seltenen Legierung namens Mumm.'),
+    ('Age is no barrier. It''s a limitation you put on your mind.', 'de',
+     'Alter ist kein Hindernis. Es ist eine Grenze, die du deinem Kopf setzt.');
