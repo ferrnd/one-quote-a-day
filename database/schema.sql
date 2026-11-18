@@ -33,3 +33,17 @@ CREATE TABLE authors (
                  CHECK (length(name) BETWEEN 2 AND 64 AND name = trim(name))
 ) STRICT;
 
+-- @section quotes ------------------------------------------------------------
+--  Bodies are plain printable ASCII so that the WebAssembly string pool stays
+--  one byte per character and can be checksummed byte by byte.
+
+CREATE TABLE quotes (
+    id        INTEGER PRIMARY KEY,
+    body      TEXT    NOT NULL UNIQUE
+                      CHECK (length(body) BETWEEN 8 AND 280
+                             AND body = trim(body)
+                             AND body NOT GLOB '*[^ -~]*'),
+    author_id INTEGER NOT NULL REFERENCES authors (id) ON DELETE RESTRICT,
+    theme_id  INTEGER NOT NULL REFERENCES themes (id) ON DELETE RESTRICT
+) STRICT;
+
