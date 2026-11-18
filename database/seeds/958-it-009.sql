@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.', 'it',
      'Quando tutto sembra andare contro di te, ricorda che l''aereo decolla controvento, non con il vento a favore.'),
     ('Out of difficulties grow miracles.', 'it',
-     'Dalle difficoltà nascono i miracoli.');
+     'Dalle difficoltà nascono i miracoli.'),
+    ('The gem cannot be polished without friction, nor man perfected without trials.', 'it',
+     'La gemma non si può lucidare senza attrito, né l''uomo perfezionare senza prove.');
