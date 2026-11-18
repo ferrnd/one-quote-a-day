@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are never too old to set another goal or to dream a new dream.', 'fr',
      'On n''est jamais trop vieux pour se fixer un nouvel objectif ou faire un nouveau rêve.'),
     ('Act as if what you do makes a difference. It does.', 'fr',
-     'Agis comme si ce que tu fais faisait une différence. C''est le cas.');
+     'Agis comme si ce que tu fais faisait une différence. C''est le cas.'),
+    ('What we fear doing most is usually what we most need to do.', 'fr',
+     'Ce que nous craignons le plus de faire est généralement ce que nous avons le plus besoin de faire.');
