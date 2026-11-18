@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Effort only fully releases its reward after a person refuses to quit.', 'nl',
      'Inspanning geeft pas haar volle beloning als je weigert op te geven.'),
     ('Patience, persistence and perspiration make an unbeatable combination for success.', 'nl',
-     'Geduld, volharding en zweet vormen een onverslaanbare combinatie voor succes.');
+     'Geduld, volharding en zweet vormen een onverslaanbare combinatie voor succes.'),
+    ('A champion is someone who gets up when he can''t.', 'nl',
+     'Een kampioen is iemand die opstaat als hij niet meer kan.');
