@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Luck is what happens when preparation meets opportunity.', 'nl',
      'Geluk is wat er gebeurt wanneer voorbereiding en kans elkaar ontmoeten.'),
     ('Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.', 'nl',
-     'Gisteren is geschiedenis, morgen is een mysterie, vandaag is een geschenk van God, en daarom heet het het heden.');
+     'Gisteren is geschiedenis, morgen is een mysterie, vandaag is een geschenk van God, en daarom heet het het heden.'),
+    ('If you want to go fast, go alone. If you want to go far, go together.', 'nl',
+     'Als je snel wilt gaan, ga dan alleen. Als je ver wilt komen, ga dan samen.');
