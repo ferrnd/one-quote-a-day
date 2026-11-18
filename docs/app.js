@@ -8,9 +8,9 @@
  * Append ?date=YYYY-MM-DD to the URL to preview another day.
  */
 
-import { dateKey, localDateParts, msUntilNextLocalMidnight, parseDateKey } from "./clock.js?v=f429a697ad29";
+import { dateKey, localDateParts, msUntilNextLocalMidnight, parseDateKey } from "./clock.js?v=7d192244e438";
 
-const WASM_URL = new URL("quotes.wasm?v=9e9675a3a529", import.meta.url);
+const WASM_URL = new URL("quotes.wasm?v=a21267492895", import.meta.url);
 const FADE_MS = 900;
 const WATCHDOG_MS = 60_000;
 const FALLBACK = { text: "Fall seven times, stand up eight.", author: "Japanese Proverb" };
@@ -118,7 +118,7 @@ const observer = new IntersectionObserver(
 /** @param {QuoteEngine} engine @param {number} n */
 function archiveItem(engine, n) {
   const parts = engine.partsFromDays(archive.launch + n - 1);
-  const quote = engine.quote(engine.x.quote_for_day(archive.launch + n - 1));
+  const quote = engine.quote(engine.x.entry_for_day(archive.launch + n - 1));
   const li = document.createElement("li");
   const meta = document.createElement("p");
   meta.className = "archive-meta";
@@ -128,7 +128,8 @@ function archiveItem(engine, n) {
   const author = document.createElement("p");
   author.className = "archive-author";
   author.textContent = quote.author;
-  li.append(meta, text, author);
+  li.append(meta, text);
+  if (quote.author) li.append(author); // dedications may be unsigned
   return li;
 }
 
