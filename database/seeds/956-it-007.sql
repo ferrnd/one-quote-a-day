@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failures are finger posts on the road to achievement.', 'it',
      'I fallimenti sono cartelli indicatori sulla strada della riuscita.'),
     ('The phoenix must burn to emerge.', 'it',
-     'La fenice deve bruciare per rinascere.');
+     'La fenice deve bruciare per rinascere.'),
+    ('We are all failures, at least the best of us are.', 'it',
+     'Siamo tutti dei falliti, almeno i migliori di noi.');
