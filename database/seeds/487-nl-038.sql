@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Vision is the art of seeing what is invisible to others.', 'nl',
      'Visie is de kunst om te zien wat voor anderen onzichtbaar is.'),
     ('When one door of happiness closes, another opens.', 'nl',
-     'Als er één deur naar geluk dichtgaat, gaat er een andere open.');
+     'Als er één deur naar geluk dichtgaat, gaat er een andere open.'),
+    ('Alone we can do so little; together we can do so much.', 'nl',
+     'Alleen kunnen we zo weinig; samen kunnen we zoveel.');
