@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Storms make trees take deeper roots.', 'es',
      'Las tormentas hacen que los árboles echen raíces más profundas.'),
     ('The way I see it, if you want the rainbow, you gotta put up with the rain.', 'es',
-     'Tal como yo lo veo, si quieres el arcoíris, tienes que aguantar la lluvia.');
+     'Tal como yo lo veo, si quieres el arcoíris, tienes que aguantar la lluvia.'),
+    ('Life isn''t about waiting for the storm to pass. It''s about learning to dance in the rain.', 'es',
+     'La vida no consiste en esperar a que pase la tormenta. Consiste en aprender a bailar bajo la lluvia.');
