@@ -1,0 +1,5 @@
+-- seed 411 :: de translations 221-240
+
+INSERT INTO translation_intake (original, locale, body) VALUES
+    ('Hope smiles from the threshold of the year to come, whispering ''it will be happier''.', 'de',
+     'Die Hoffnung lächelt von der Schwelle des kommenden Jahres und flüstert: „Es wird glücklicher.“');
