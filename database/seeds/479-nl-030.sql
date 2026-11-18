@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our patience will achieve more than our force.', 'nl',
      'Ons geduld zal meer bereiken dan onze kracht.'),
     ('How poor are they that have not patience! What wound did ever heal but by degrees?', 'nl',
-     'Hoe arm zijn zij die geen geduld hebben! Welke wond is ooit anders genezen dan geleidelijk?');
+     'Hoe arm zijn zij die geen geduld hebben! Welke wond is ooit anders genezen dan geleidelijk?'),
+    ('Patience is the art of hoping.', 'nl',
+     'Geduld is de kunst van het hopen.');
