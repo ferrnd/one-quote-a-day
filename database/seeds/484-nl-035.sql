@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream as if you''ll live forever. Live as if you''ll die today.', 'nl',
      'Droom alsof je eeuwig leeft. Leef alsof je vandaag sterft.'),
     ('The biggest adventure you can take is to live the life of your dreams.', 'nl',
-     'Het grootste avontuur dat je kunt beleven, is het leven van je dromen leiden.');
+     'Het grootste avontuur dat je kunt beleven, is het leven van je dromen leiden.'),
+    ('Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.', 'nl',
+     'Reik hoog, want er liggen sterren in je verborgen. Droom diep, want elke droom gaat aan het doel vooraf.');
