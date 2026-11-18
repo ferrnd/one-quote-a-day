@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fear is only as deep as the mind allows.', 'nl',
      'Angst is maar zo diep als de geest toelaat.'),
     ('Everything you''ve ever wanted is on the other side of fear.', 'nl',
-     'Alles wat je ooit hebt gewild, ligt aan de andere kant van de angst.');
+     'Alles wat je ooit hebt gewild, ligt aan de andere kant van de angst.'),
+    ('Inaction breeds doubt and fear. Action breeds confidence and courage.', 'nl',
+     'Nietsdoen kweekt twijfel en angst. Handelen kweekt vertrouwen en moed.');
