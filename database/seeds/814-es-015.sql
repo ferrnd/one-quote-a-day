@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The master has failed more times than the beginner has even tried.', 'es',
      'El maestro ha fracasado más veces de las que el principiante lo ha intentado.'),
     ('It''s fine to celebrate success but it is more important to heed the lessons of failure.', 'es',
-     'Está bien celebrar el éxito, pero es más importante prestar atención a las lecciones del fracaso.');
+     'Está bien celebrar el éxito, pero es más importante prestar atención a las lecciones del fracaso.'),
+    ('One fails forward toward success.', 'es',
+     'Fracasando se avanza hacia el éxito.');
