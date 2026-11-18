@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no secrets to success. It is the result of preparation, hard work, and learning from failure.', 'de',
      'Es gibt keine Geheimnisse des Erfolgs. Er ist das Ergebnis von Vorbereitung, harter Arbeit und dem Lernen aus Fehlern.'),
     ('Our greatest fear should not be of failure but of succeeding at things in life that don''t really matter.', 'de',
-     'Unsere größte Angst sollte nicht das Scheitern sein, sondern Erfolg mit Dingen, die im Leben nicht wirklich zählen.');
+     'Unsere größte Angst sollte nicht das Scheitern sein, sondern Erfolg mit Dingen, die im Leben nicht wirklich zählen.'),
+    ('Stay hungry, stay foolish.', 'de',
+     'Bleibt hungrig, bleibt verrückt.');
