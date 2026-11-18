@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Action is the foundational key to all success.', 'nl',
      'Actie is de fundamentele sleutel tot elk succes.'),
     ('You don''t have to be great to start, but you have to start to be great.', 'nl',
-     'Je hoeft niet geweldig te zijn om te beginnen, maar je moet beginnen om geweldig te worden.');
+     'Je hoeft niet geweldig te zijn om te beginnen, maar je moet beginnen om geweldig te worden.'),
+    ('The way to get started is to quit talking and begin doing.', 'nl',
+     'De manier om te beginnen is ophouden met praten en beginnen met doen.');
