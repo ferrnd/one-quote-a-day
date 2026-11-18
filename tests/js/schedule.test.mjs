@@ -69,10 +69,30 @@ test("quote_for_date is quote_for_day of days_from_civil", () => {
   }
 });
 
-test("day_number counts from DAY 1 on 2026-11-17", () => {
-  assert.equal(x.launch_day(), x.days_from_civil(2026, 11, 17));
-  assert.equal(x.day_number(2026, 11, 17), 1);
-  assert.equal(x.day_number(2026, 11, 18), 2);
-  assert.equal(x.day_number(2027, 11, 17), 366);
-  assert.equal(x.day_number(2026, 11, 16), 0);
+test("day_number counts from DAY 1 on 2026-11-16", () => {
+  assert.equal(x.launch_day(), x.days_from_civil(2026, 11, 16));
+  assert.equal(x.day_number(2026, 11, 16), 1);
+  assert.equal(x.day_number(2026, 11, 17), 2);
+  assert.equal(x.day_number(2027, 11, 16), 366);
+  assert.equal(x.day_number(2026, 11, 15), 0);
+});
+
+test("DAY 1 shows the unsigned dedication", async () => {
+  const { loadEngine } = await import("./helpers.mjs");
+  const engine = await loadEngine();
+  const i = engine.x.quote_for_date(2026, 11, 16);
+  assert.ok(i >= engine.x.quote_count(), "a dedication lives after the quote records");
+  assert.equal(engine.text(i), "I love you. I'm sorry.");
+  assert.equal(engine.x.quote_author_len(i), 0);
+  assert.equal(engine.author(i), "");
+});
+
+test("dedications override the day but not the rotation", () => {
+  const day = x.days_from_civil(2026, 11, 16);
+  assert.equal(x.dedication_for_day(day), x.quote_count());
+  assert.equal(x.entry_for_day(day), x.quote_count());
+  assert.ok(x.quote_for_day(day) < x.quote_count());
+  assert.equal(x.dedication_for_day(day + 1), -1);
+  assert.equal(x.entry_for_day(day + 1), x.quote_for_day(day + 1));
+  assert.equal(x.record_count(), x.quote_count() + x.dedication_count());
 });

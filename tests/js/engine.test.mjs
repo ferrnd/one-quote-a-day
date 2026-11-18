@@ -44,7 +44,7 @@ test("pcg32 reproduces the reference vector", () => {
 });
 
 test("accessors trap on out-of-range indices", () => {
-  assert.throws(() => engine.x.quote_text_ptr(engine.x.quote_count()), WebAssembly.RuntimeError);
+  assert.throws(() => engine.x.quote_text_ptr(engine.x.record_count()), WebAssembly.RuntimeError);
   assert.throws(() => engine.x.quote_text_ptr(-1), WebAssembly.RuntimeError);
 });
 

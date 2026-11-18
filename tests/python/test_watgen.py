@@ -26,7 +26,10 @@ class WatgenTest(unittest.TestCase):
         n = len(self.catalog)
         layout = self.layout
         self.assertEqual(layout.records_ptr, watgen.HEADER_SIZE)
-        self.assertEqual(layout.pool_ptr, layout.records_ptr + n * watgen.RECORD_SIZE)
+        records = n + len(self.catalog.dedications)
+        self.assertEqual(layout.pool_ptr, layout.records_ptr + records * watgen.RECORD_SIZE)
+        self.assertGreaterEqual(layout.dedications_ptr, layout.pool_ptr + len(layout.pool))
+        self.assertGreaterEqual(layout.schedule_ptr, layout.dedications_ptr + 8 * len(self.catalog.dedications))
         self.assertGreaterEqual(layout.schedule_ptr, layout.pool_ptr + len(layout.pool))
         self.assertGreaterEqual(layout.scratch_ptr, layout.schedule_ptr + 2 * 146_097)
         self.assertLessEqual(layout.end, layout.pages * watgen.PAGE)
@@ -41,11 +44,21 @@ class WatgenTest(unittest.TestCase):
     def test_header_round_trips(self):
         raw = watgen.header_bytes(self.catalog, self.layout)
         self.assertEqual(len(raw), watgen.HEADER_SIZE)
-        fields = dict(zip(watgen.HEADER_FIELDS, struct.unpack_from("<12I", raw)))
+        fields = dict(zip(watgen.HEADER_FIELDS,
+                          struct.unpack_from(f"<{len(watgen.HEADER_FIELDS)}I", raw)))
         self.assertEqual(fields["magic"], watgen.MAGIC)
         self.assertEqual(raw[:4], b"QOTD")
         self.assertEqual(fields["quote_count"], len(self.catalog))
         self.assertEqual(fields["pool_fnv1a"], watgen.fnv1a32(self.layout.pool))
+        self.assertEqual(fields["dedication_count"], len(self.catalog.dedications))
+        self.assertEqual(fields["dedications_ptr"], self.layout.dedications_ptr)
+
+    def test_dedication_pointers_land_on_their_text(self):
+        pool, base = self.layout.pool, self.layout.pool_ptr
+        for ded, (tp, tl, ap, al) in zip(self.catalog.dedications, self.layout.dedication_ptrs):
+            self.assertEqual(pool[tp - base:tp - base + tl].decode(), ded.body)
+            if ded.author is None:
+                self.assertEqual((ap, al), (0, 0))
 
     def test_generated_file_is_up_to_date(self):
         fragments = sorted((ROOT / "src" / "wat").glob("*.wat"))

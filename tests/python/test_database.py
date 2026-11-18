@@ -48,6 +48,17 @@ class DatabaseTest(unittest.TestCase):
             rows = path.read_text(encoding="utf-8").count("\n    (")
             self.assertLessEqual(rows, 10, path.name)
 
+    def test_day_one_dedication(self):
+        dedications = {d.day: d for d in self.catalog.dedications}
+        self.assertIn("2026-11-16", dedications)
+        self.assertEqual(dedications["2026-11-16"].body, "I love you. I'm sorry.")
+        self.assertIsNone(dedications["2026-11-16"].author)
+
+    def test_dedications_reject_impossible_dates(self):
+        with self.assertRaises(sqlite3.IntegrityError):
+            self.conn.execute("INSERT INTO dedications (day, body) VALUES ('2026-02-30', 'Nope.')")
+        self.conn.rollback()
+
     def test_intake_rejects_unknown_theme(self):
         with self.assertRaises(sqlite3.DatabaseError):
             self.conn.execute(
