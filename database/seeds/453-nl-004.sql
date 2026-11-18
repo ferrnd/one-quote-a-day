@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only those who will risk going too far can possibly find out how far one can go.', 'nl',
      'Alleen wie het risico neemt te ver te gaan, kan ontdekken hoe ver je kunt gaan.'),
     ('Fortune favors the bold.', 'nl',
-     'Het geluk is met de stoutmoedigen.');
+     'Het geluk is met de stoutmoedigen.'),
+    ('Courage is found in unlikely places.', 'nl',
+     'Moed vind je op de meest onwaarschijnlijke plaatsen.');
