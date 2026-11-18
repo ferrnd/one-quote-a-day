@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dost thou love life? Then do not squander time, for that is the stuff life is made of.', 'pt-BR',
      'Você ama a vida? Então não desperdice tempo, pois é dele que a vida é feita.'),
     ('I don''t stop when I''m tired. I stop when I''m done.', 'pt-BR',
-     'Não paro quando estou cansado. Paro quando termino.');
+     'Não paro quando estou cansado. Paro quando termino.'),
+    ('The only easy day was yesterday.', 'pt-BR',
+     'O único dia fácil foi ontem.');
