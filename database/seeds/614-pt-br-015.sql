@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure will never overtake me if my determination to succeed is strong enough.', 'pt-BR',
      'O fracasso nunca vai me alcançar se a minha determinação de vencer for forte o bastante.'),
     ('You may have to fight a battle more than once to win it.', 'pt-BR',
-     'Às vezes é preciso lutar uma batalha mais de uma vez para vencê-la.');
+     'Às vezes é preciso lutar uma batalha mais de uma vez para vencê-la.'),
+    ('Failure isn''t fatal, but failure to change might be.', 'pt-BR',
+     'Fracassar não é fatal, mas fracassar em mudar pode ser.');
