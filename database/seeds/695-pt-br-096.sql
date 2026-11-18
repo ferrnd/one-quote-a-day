@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('They can conquer who believe they can.', 'pt-BR',
      'Podem vencer aqueles que acreditam que podem.'),
     ('There are no limits. There are plateaus, but you must not stay there, you must go beyond them.', 'pt-BR',
-     'Não existem limites. Existem platôs, mas você não deve ficar neles; precisa ir além.');
+     'Não existem limites. Existem platôs, mas você não deve ficar neles; precisa ir além.'),
+    ('A goal is not always meant to be reached, it often serves simply as something to aim at.', 'pt-BR',
+     'Uma meta nem sempre existe para ser alcançada; muitas vezes serve simplesmente como algo para onde mirar.');
