@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Problems are only opportunities in work clothes.', 'nl',
      'Problemen zijn slechts kansen in werkkleding.'),
     ('Calamity is the test of integrity.', 'nl',
-     'Rampspoed is de toets van integriteit.');
+     'Rampspoed is de toets van integriteit.'),
+    ('Prosperity makes friends, adversity tries them.', 'nl',
+     'Voorspoed maakt vrienden, tegenspoed beproeft ze.');
