@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The obstacle is the path.', 'nl',
      'Het obstakel is de weg.'),
     ('The journey of a thousand miles begins with one step.', 'nl',
-     'Een reis van duizend mijl begint met één stap.');
+     'Een reis van duizend mijl begint met één stap.'),
+    ('Action is the foundational key to all success.', 'nl',
+     'Actie is de fundamentele sleutel tot elk succes.');
