@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I saw the angel in the marble and carved until I set him free.', 'es',
      'Vi el ángel en el mármol y tallé hasta liberarlo.'),
     ('People with goals succeed because they know where they''re going.', 'es',
-     'Las personas con metas tienen éxito porque saben adónde van.');
+     'Las personas con metas tienen éxito porque saben adónde van.'),
+    ('What you seek is seeking you.', 'es',
+     'Lo que buscas te está buscando.');
