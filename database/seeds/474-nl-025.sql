@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To begin, begin.', 'nl',
      'Om te beginnen, begin.'),
     ('Pursue what catches your heart, not what catches your eyes.', 'nl',
-     'Volg wat je hart raakt, niet wat je ogen trekt.');
+     'Volg wat je hart raakt, niet wat je ogen trekt.'),
+    ('Life is ten percent what happens to you and ninety percent how you respond to it.', 'nl',
+     'Het leven is voor tien procent wat je overkomt en voor negentig procent hoe je erop reageert.');
