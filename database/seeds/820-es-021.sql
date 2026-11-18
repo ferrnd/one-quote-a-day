@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('But man is not made for defeat. A man can be destroyed but not defeated.', 'es',
      'Pero el hombre no está hecho para la derrota. Un hombre puede ser destruido, pero no derrotado.'),
     ('Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.', 'es',
-     'La vida no siempre consiste en tener buenas cartas, sino a veces en jugar bien una mala mano.');
+     'La vida no siempre consiste en tener buenas cartas, sino a veces en jugar bien una mala mano.'),
+    ('Hope is the thing with feathers that perches in the soul.', 'es',
+     'La esperanza es esa cosa con plumas que se posa en el alma.');
