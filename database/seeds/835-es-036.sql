@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Habit is either the best of servants or the worst of masters.', 'es',
-     'El hábito es el mejor de los sirvientes o el peor de los amos.');
+     'El hábito es el mejor de los sirvientes o el peor de los amos.'),
+    ('First we make our habits, then our habits make us.', 'es',
+     'Primero hacemos nuestros hábitos, y luego nuestros hábitos nos hacen a nosotros.');
