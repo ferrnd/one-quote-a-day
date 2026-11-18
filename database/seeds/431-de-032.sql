@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have to believe in yourself when no one else does.', 'de',
      'Du musst an dich glauben, wenn es sonst niemand tut.'),
     ('The more difficult the victory, the greater the happiness in winning.', 'de',
-     'Je schwieriger der Sieg, desto größer die Freude am Gewinnen.');
+     'Je schwieriger der Sieg, desto größer die Freude am Gewinnen.'),
+    ('Gold medals aren''t really made of gold. They''re made of sweat, determination, and a hard-to-find alloy called guts.', 'de',
+     'Goldmedaillen sind nicht wirklich aus Gold. Sie sind aus Schweiß, Entschlossenheit und einer seltenen Legierung namens Mumm.');
