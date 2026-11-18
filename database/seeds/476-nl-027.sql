@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When you change the way you look at things, the things you look at change.', 'nl',
      'Als je de manier verandert waarop je naar dingen kijkt, veranderen de dingen waarnaar je kijkt.'),
     ('Happiness is not something ready made. It comes from your own actions.', 'nl',
-     'Geluk is niet iets kant-en-klaars. Het komt voort uit je eigen daden.');
+     'Geluk is niet iets kant-en-klaars. Het komt voort uit je eigen daden.'),
+    ('Self-belief and hard work will always earn you success.', 'nl',
+     'Zelfvertrouwen en hard werken leveren je altijd succes op.');
