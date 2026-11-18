@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t give up. Don''t ever give up.', 'it',
      'Non arrenderti. Non arrenderti mai.'),
     ('Many people have gone further than they thought they could because someone else thought they could.', 'it',
-     'Molte persone sono andate più lontano di quanto pensassero perché qualcun altro credeva che potessero farcela.');
+     'Molte persone sono andate più lontano di quanto pensassero perché qualcun altro credeva che potessero farcela.'),
+    ('You can''t climb the ladder of success with your hands in your pockets.', 'it',
+     'Non puoi salire la scala del successo con le mani in tasca.');
