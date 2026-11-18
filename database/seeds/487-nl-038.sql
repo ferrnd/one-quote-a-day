@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Efforts and courage are not enough without purpose and direction.', 'nl',
      'Inspanning en moed zijn niet genoeg zonder doel en richting.'),
     ('The world is changed by your example, not by your opinion.', 'nl',
-     'De wereld verandert door je voorbeeld, niet door je mening.');
+     'De wereld verandert door je voorbeeld, niet door je mening.'),
+    ('We can''t help everyone, but everyone can help someone.', 'nl',
+     'We kunnen niet iedereen helpen, maar iedereen kan iemand helpen.');
