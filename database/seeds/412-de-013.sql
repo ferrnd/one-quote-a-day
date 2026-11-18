@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the depth of winter, I finally learned that within me there lay an invincible summer.', 'de',
      'Mitten im Winter habe ich erfahren, dass es in mir einen unbesiegbaren Sommer gibt.'),
     ('It is during our darkest moments that we must focus to see the light.', 'de',
-     'Gerade in unseren dunkelsten Momenten müssen wir uns darauf konzentrieren, das Licht zu sehen.');
+     'Gerade in unseren dunkelsten Momenten müssen wir uns darauf konzentrieren, das Licht zu sehen.'),
+    ('The world is round and the place which may seem like the end may also be only the beginning.', 'de',
+     'Die Welt ist rund, und der Ort, der wie das Ende aussieht, kann auch nur der Anfang sein.');
