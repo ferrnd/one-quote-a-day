@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: it is this that in all things distinguishes the strong soul from the weak.', 'nl',
      'Standvastigheid, volharding en doorzettingsvermogen ondanks alle obstakels, ontmoedigingen en onmogelijkheden: dat is wat in alle dingen de sterke ziel van de zwakke onderscheidt.'),
     ('Never give up, for that is just the place and time that the tide will turn.', 'nl',
-     'Geef nooit op, want dat is precies de plek en het moment waarop het tij zal keren.');
+     'Geef nooit op, want dat is precies de plek en het moment waarop het tij zal keren.'),
+    ('Persistence can change failure into extraordinary achievement.', 'nl',
+     'Volharding kan een mislukking veranderen in een buitengewone prestatie.');
