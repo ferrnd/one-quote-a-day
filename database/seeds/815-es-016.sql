@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You always pass failure on your way to success.', 'es',
      'En el camino al éxito, siempre pasas por el fracaso.'),
     ('Failure is unimportant. It takes courage to make a fool of yourself.', 'es',
-     'El fracaso no importa. Hace falta valor para hacer el ridículo.');
+     'El fracaso no importa. Hace falta valor para hacer el ridículo.'),
+    ('What is defeat? Nothing but education; nothing but the first step to something better.', 'es',
+     '¿Qué es la derrota? Nada más que aprendizaje; nada más que el primer paso hacia algo mejor.');
