@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'nl',
      'Het is merkwaardig dat fysieke moed zo gewoon is in de wereld, en morele moed zo zeldzaam.'),
     ('The opposite of courage in our society is not cowardice, it is conformity.', 'nl',
-     'Het tegenovergestelde van moed is in onze samenleving niet lafheid, maar conformisme.');
+     'Het tegenovergestelde van moed is in onze samenleving niet lafheid, maar conformisme.'),
+    ('Cowards die many times before their deaths; the valiant never taste of death but once.', 'nl',
+     'Lafaards sterven vele malen voor hun dood; de dapperen proeven de dood slechts één keer.');
