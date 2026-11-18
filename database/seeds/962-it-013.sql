@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every day may not be good, but there''s something good in every day.', 'it',
      'Non tutti i giorni sono buoni, ma c''è qualcosa di buono in ogni giorno.'),
     ('In the depth of winter, I finally learned that within me there lay an invincible summer.', 'it',
-     'Nel profondo dell''inverno ho finalmente imparato che dentro di me c''era un''invincibile estate.');
+     'Nel profondo dell''inverno ho finalmente imparato che dentro di me c''era un''invincibile estate.'),
+    ('It is during our darkest moments that we must focus to see the light.', 'it',
+     'È nei nostri momenti più bui che dobbiamo concentrarci per vedere la luce.');
