@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'nl',
      'De meeste mensen geven op net als ze op het punt staan succes te boeken. Ze stoppen vlak voor de eindstreep.'),
     ('If you are going to doubt something, doubt your limits.', 'nl',
-     'Als je ergens aan gaat twijfelen, twijfel dan aan je grenzen.');
+     'Als je ergens aan gaat twijfelen, twijfel dan aan je grenzen.'),
+    ('There is no substitute for hard work.', 'nl',
+     'Er is geen vervanging voor hard werken.');
