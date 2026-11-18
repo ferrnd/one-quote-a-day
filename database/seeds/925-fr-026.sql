@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If opportunity doesn''t knock, build a door.', 'fr',
      'Si l''occasion ne frappe pas à ta porte, construis une porte.'),
     ('The only impossible journey is the one you never begin.', 'fr',
-     'Le seul voyage impossible est celui que tu ne commences jamais.');
+     'Le seul voyage impossible est celui que tu ne commences jamais.'),
+    ('It is in your moments of decision that your destiny is shaped.', 'fr',
+     'C''est dans tes moments de décision que se façonne ton destin.');
