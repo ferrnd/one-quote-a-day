@@ -6,4 +6,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('The man who can drive himself further once the effort gets painful is the man who will win.', 'Roger Bannister', 'perseverance'),
     ('Don''t give up. Don''t ever give up.', 'Jim Valvano', 'perseverance'),
     ('Many people have gone further than they thought they could because someone else thought they could.', 'Zig Ziglar', 'perseverance'),
-    ('You can''t climb the ladder of success with your hands in your pockets.', 'Arnold Schwarzenegger', 'perseverance');
+    ('You can''t climb the ladder of success with your hands in your pockets.', 'Arnold Schwarzenegger', 'perseverance'),
+    ('Today''s accomplishments were yesterday''s impossibilities.', 'Robert H. Schuller', 'perseverance');
