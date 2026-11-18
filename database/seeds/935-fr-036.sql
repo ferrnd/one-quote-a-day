@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.', 'fr',
      'Peut-être tous les dragons de notre vie sont-ils des princesses qui n''attendent que de nous voir agir, une seule fois, avec beauté et courage.'),
     ('What would you attempt to do if you knew you would not fail?', 'fr',
-     'Que tenterais-tu de faire si tu savais que tu ne pouvais pas échouer ?');
+     'Que tenterais-tu de faire si tu savais que tu ne pouvais pas échouer ?'),
+    ('I saw the angel in the marble and carved until I set him free.', 'fr',
+     'J''ai vu l''ange dans le marbre et j''ai sculpté jusqu''à le libérer.');
