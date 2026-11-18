@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything that is done in the world is done by hope.', 'nl',
      'Alles wat in de wereld gedaan wordt, wordt gedaan uit hoop.'),
     ('Hope is being able to see that there is light despite all of the darkness.', 'nl',
-     'Hoop is kunnen zien dat er licht is ondanks alle duisternis.');
+     'Hoop is kunnen zien dat er licht is ondanks alle duisternis.'),
+    ('We must accept finite disappointment, but never lose infinite hope.', 'nl',
+     'We moeten eindige teleurstelling aanvaarden, maar nooit de oneindige hoop verliezen.');
