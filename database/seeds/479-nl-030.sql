@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The key to everything is patience. You get the chicken by hatching the egg, not by smashing it.', 'nl',
      'De sleutel tot alles is geduld. Je krijgt het kuiken door het ei uit te broeden, niet door het stuk te slaan.'),
     ('Patience and time do more than strength or passion.', 'nl',
-     'Geduld en tijd vermogen meer dan kracht of hartstocht.');
+     'Geduld en tijd vermogen meer dan kracht of hartstocht.'),
+    ('Our patience will achieve more than our force.', 'nl',
+     'Ons geduld zal meer bereiken dan onze kracht.');
