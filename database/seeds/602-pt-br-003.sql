@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He conquers who endures.', 'pt-BR',
      'Vence quem resiste.'),
     ('Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield.', 'pt-BR',
-     'A água é fluida, macia e flexível. Mas a água desgasta a rocha, que é rígida e não consegue ceder.');
+     'A água é fluida, macia e flexível. Mas a água desgasta a rocha, que é rígida e não consegue ceder.'),
+    ('Paralyze resistance with persistence.', 'pt-BR',
+     'Paralise a resistência com persistência.');
