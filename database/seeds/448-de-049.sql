@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A man is not old until regrets take the place of dreams.', 'de',
      'Ein Mensch ist erst alt, wenn das Bedauern den Platz der Träume einnimmt.'),
     ('In dreams begins responsibility.', 'de',
-     'In Träumen beginnt Verantwortung.');
+     'In Träumen beginnt Verantwortung.'),
+    ('Tread softly because you tread on my dreams.', 'de',
+     'Tritt sanft auf, denn du trittst auf meine Träume.');
