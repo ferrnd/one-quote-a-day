@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our greatest fear should not be of failure but of succeeding at things in life that don''t really matter.', 'nl',
      'Onze grootste angst zou niet moeten zijn dat we falen, maar dat we slagen in dingen die er in het leven niet echt toe doen.'),
     ('Stay hungry, stay foolish.', 'nl',
-     'Blijf hongerig, blijf dwaas.');
+     'Blijf hongerig, blijf dwaas.'),
+    ('Your time is limited, so don''t waste it living someone else''s life.', 'nl',
+     'Je tijd is beperkt, dus verspil hem niet door het leven van een ander te leiden.');
