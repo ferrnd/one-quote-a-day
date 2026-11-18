@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Too many of us are not living our dreams because we are living our fears.', 'nl',
      'Te veel van ons leven hun dromen niet, omdat ze hun angsten leven.'),
     ('Shoot for the moon. Even if you miss, you''ll land among the stars.', 'nl',
-     'Mik op de maan. Zelfs als je mist, land je tussen de sterren.');
+     'Mik op de maan. Zelfs als je mist, land je tussen de sterren.'),
+    ('It''s not what you look at that matters, it''s what you see.', 'nl',
+     'Het gaat er niet om waar je naar kijkt, maar wat je ziet.');
