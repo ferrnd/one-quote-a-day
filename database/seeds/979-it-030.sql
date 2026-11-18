@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rome wasn''t built in a day.', 'it',
      'Roma non fu costruita in un giorno.'),
     ('Everything comes gradually and at its appointed hour.', 'it',
-     'Tutto arriva a poco a poco e al momento stabilito.');
+     'Tutto arriva a poco a poco e al momento stabilito.'),
+    ('Be patient and tough; someday this pain will be useful to you.', 'it',
+     'Sii paziente e forte; un giorno questo dolore ti sarà utile.');
