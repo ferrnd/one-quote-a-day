@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.', 'it',
      'Ieri è storia, domani è un mistero, oggi è un dono di Dio, ed è per questo che si chiama presente.'),
     ('If you want to go fast, go alone. If you want to go far, go together.', 'it',
-     'Se vuoi andare veloce, vai da solo. Se vuoi andare lontano, vai insieme agli altri.');
+     'Se vuoi andare veloce, vai da solo. Se vuoi andare lontano, vai insieme agli altri.'),
+    ('Be not afraid.', 'it',
+     'Non abbiate paura.');
