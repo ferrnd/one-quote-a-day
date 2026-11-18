@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no failure except in no longer trying.', 'fr',
      'Il n''y a d''échec que lorsqu''on cesse d''essayer.'),
     ('Failure will never overtake me if my determination to succeed is strong enough.', 'fr',
-     'L''échec ne me rattrapera jamais si ma volonté de réussir est assez forte.');
+     'L''échec ne me rattrapera jamais si ma volonté de réussir est assez forte.'),
+    ('You may have to fight a battle more than once to win it.', 'fr',
+     'Il faut parfois livrer une bataille plus d''une fois pour la gagner.');
