@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success seems to be connected with action. Successful people keep moving.', 'es',
      'El éxito parece estar ligado a la acción. Las personas exitosas no dejan de moverse.'),
     ('Every strike brings me closer to the next home run.', 'es',
-     'Cada fallo me acerca al próximo jonrón.');
+     'Cada fallo me acerca al próximo jonrón.'),
+    ('You just can''t beat the person who never gives up.', 'es',
+     'Simplemente no se puede vencer a quien nunca se rinde.');
