@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Small disciplines repeated with consistency every day lead to great achievements gained slowly over time.', 'de',
      'Kleine Disziplinen, jeden Tag beständig wiederholt, führen zu großen Erfolgen, die langsam mit der Zeit wachsen.'),
     ('You will never change your life until you change something you do daily.', 'de',
-     'Du wirst dein Leben nie ändern, solange du nicht etwas änderst, das du täglich tust.');
+     'Du wirst dein Leben nie ändern, solange du nicht etwas änderst, das du täglich tust.'),
+    ('Excellence is the gradual result of always striving to do better.', 'de',
+     'Exzellenz ist das allmähliche Ergebnis des ständigen Strebens, es besser zu machen.');
