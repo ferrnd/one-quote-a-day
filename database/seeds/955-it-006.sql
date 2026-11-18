@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only those who dare to fail greatly can ever achieve greatly.', 'it',
      'Solo chi osa fallire in grande può ottenere grandi risultati.'),
     ('Failure is the condiment that gives success its flavor.', 'it',
-     'Il fallimento è il condimento che dà sapore al successo.');
+     'Il fallimento è il condimento che dà sapore al successo.'),
+    ('It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.', 'it',
+     'È impossibile vivere senza fallire in qualcosa, a meno di vivere con tanta cautela da non aver vissuto affatto.');
