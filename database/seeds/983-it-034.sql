@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Exploration is really the essence of the human spirit.', 'it',
      'L''esplorazione è davvero l''essenza dello spirito umano.'),
     ('Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.', 'it',
-     'I guerrieri vittoriosi prima vincono e poi vanno in guerra, mentre quelli sconfitti prima vanno in guerra e poi cercano di vincere.');
+     'I guerrieri vittoriosi prima vincono e poi vanno in guerra, mentre quelli sconfitti prima vanno in guerra e poi cercano di vincere.'),
+    ('All our dreams can come true, if we have the courage to pursue them.', 'it',
+     'Tutti i nostri sogni possono avverarsi, se abbiamo il coraggio di inseguirli.');
