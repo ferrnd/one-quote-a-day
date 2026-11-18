@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.', 'fr',
      'Ce dont nous avons joui un jour, nous ne pouvons jamais le perdre. Tout ce que nous aimons profondément devient une part de nous.'),
     ('Happiness is not a goal; it is a by-product.', 'fr',
-     'Le bonheur n''est pas un but ; c''est une conséquence.');
+     'Le bonheur n''est pas un but ; c''est une conséquence.'),
+    ('The purpose of life is to live it, to taste experience to the utmost.', 'fr',
+     'Le but de la vie est de la vivre, de goûter l''expérience jusqu''au bout.');
