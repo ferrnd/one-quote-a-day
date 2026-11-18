@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t connect the dots looking forward; you can only connect them looking backwards.', 'es',
-     'No puedes conectar los puntos mirando hacia delante; solo puedes conectarlos mirando hacia atrás.');
+     'No puedes conectar los puntos mirando hacia delante; solo puedes conectarlos mirando hacia atrás.'),
+    ('Sometimes life hits you in the head with a brick. Don''t lose faith.', 'es',
+     'A veces la vida te golpea en la cabeza con un ladrillo. No pierdas la fe.');
