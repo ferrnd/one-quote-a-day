@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'es',
      'Saber no basta; hay que aplicar. Querer no basta; hay que hacer.'),
     ('Action may not always bring happiness; but there is no happiness without action.', 'es',
-     'La acción no siempre trae felicidad, pero no hay felicidad sin acción.');
+     'La acción no siempre trae felicidad, pero no hay felicidad sin acción.'),
+    ('Thinking will not overcome fear but action will.', 'es',
+     'Pensar no vencerá al miedo, pero actuar sí.');
