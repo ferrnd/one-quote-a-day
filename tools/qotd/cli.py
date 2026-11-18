@@ -7,7 +7,7 @@ import datetime as dt
 import sys
 from pathlib import Path
 
-from . import __version__, database, site, watgen
+from . import __version__, android, database, site, watgen
 from .civil import days_from_civil
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -17,6 +17,8 @@ WAT_OUT = ROOT / "generated" / "quotes.wat"
 WEB_DIR = ROOT / "web"
 DOCS_DIR = ROOT / "docs"
 SQLITE_OUT = ROOT / "build" / "quotes.sqlite"
+ANDROID_ASSETS = ROOT / "android" / "app" / "src" / "main" / "assets"
+ANDROID_GOLDEN = ROOT / "android" / "app" / "src" / "test" / "resources" / "golden.txt"
 
 
 def cmd_db(args: argparse.Namespace) -> int:
@@ -50,6 +52,13 @@ def cmd_site(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_android(args: argparse.Namespace) -> int:
+    catalog = database.load(DB_DIR)
+    size = android.write(catalog, ANDROID_ASSETS, ANDROID_GOLDEN)
+    print(f"wrote android assets: {size:,} bytes, {len(catalog)} quotes, {len(catalog.locales)} languages")
+    return 0
+
+
 def cmd_today(args: argparse.Namespace) -> int:
     date = dt.date.fromisoformat(args.date) if args.date else dt.date.today()
     catalog = database.load(DB_DIR)
@@ -72,6 +81,7 @@ def main(argv: list[str] | None = None) -> int:
     sub.add_parser("stats", help="print quotes per theme").set_defaults(func=cmd_stats)
     sub.add_parser("wat", help="generate generated/quotes.wat").set_defaults(func=cmd_wat)
     sub.add_parser("site", help="stage web/ into docs/").set_defaults(func=cmd_site)
+    sub.add_parser("android", help="export assets for the Android app").set_defaults(func=cmd_android)
     today = sub.add_parser("today", help="print the quote for a date")
     today.add_argument("date", nargs="?", help="ISO date, defaults to today")
     today.set_defaults(func=cmd_today)
