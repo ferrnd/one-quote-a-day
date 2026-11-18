@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We are what we repeatedly do. Excellence, then, is not an act, but a habit.', 'nl',
      'We zijn wat we herhaaldelijk doen. Uitmuntendheid is dus geen daad, maar een gewoonte.'),
     ('Discipline is the bridge between goals and accomplishment.', 'nl',
-     'Discipline is de brug tussen doelen en prestaties.');
+     'Discipline is de brug tussen doelen en prestaties.'),
+    ('We must all suffer one of two things: the pain of discipline or the pain of regret.', 'nl',
+     'We moeten allemaal een van twee dingen verdragen: de pijn van discipline of de pijn van spijt.');
