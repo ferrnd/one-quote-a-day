@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best way out is always through.', 'de',
      'Der beste Ausweg ist immer hindurch.'),
     ('In three words I can sum up everything I''ve learned about life: it goes on.', 'de',
-     'In zwei Worten kann ich alles zusammenfassen, was ich über das Leben gelernt habe: Es geht weiter.');
+     'In zwei Worten kann ich alles zusammenfassen, was ich über das Leben gelernt habe: Es geht weiter.'),
+    ('Vitality shows in not only the ability to persist but the ability to start over.', 'de',
+     'Lebenskraft zeigt sich nicht nur in der Fähigkeit durchzuhalten, sondern auch in der Fähigkeit, neu anzufangen.');
