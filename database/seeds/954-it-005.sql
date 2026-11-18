@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage starts with showing up and letting ourselves be seen.', 'it',
      'Il coraggio comincia quando ci presentiamo e ci lasciamo vedere.'),
     ('Don''t be afraid to give up the good to go for the great.', 'it',
-     'Non aver paura di rinunciare al buono per puntare all''eccellente.');
+     'Non aver paura di rinunciare al buono per puntare all''eccellente.'),
+    ('To dare is to lose one''s footing momentarily. Not to dare is to lose oneself.', 'it',
+     'Osare è perdere l''equilibrio per un momento. Non osare è perdere sé stessi.');
