@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t wish it were easier, wish you were better.', 'nl',
      'Wens niet dat het makkelijker was; wens dat je beter was.'),
     ('Either you run the day or the day runs you.', 'nl',
-     'Óf jij leidt de dag, óf de dag leidt jou.');
+     'Óf jij leidt de dag, óf de dag leidt jou.'),
+    ('With self-discipline most anything is possible.', 'nl',
+     'Met zelfdiscipline is bijna alles mogelijk.');
