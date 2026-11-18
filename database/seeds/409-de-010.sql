@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fire is the test of gold; adversity, of strong men.', 'de',
      'Das Feuer prüft das Gold, das Unglück den starken Mann.'),
     ('Difficulties strengthen the mind, as labor does the body.', 'de',
-     'Schwierigkeiten stärken den Geist wie Arbeit den Körper.');
+     'Schwierigkeiten stärken den Geist wie Arbeit den Körper.'),
+    ('Although no one can go back and make a brand new start, anyone can start from now and make a brand new ending.', 'de',
+     'Niemand kann zurückgehen und einen ganz neuen Anfang machen, aber jeder kann jetzt anfangen und ein ganz neues Ende schaffen.');
