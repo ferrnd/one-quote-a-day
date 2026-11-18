@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Excellence is not a skill. It is an attitude.', 'de',
      'Exzellenz ist keine Fähigkeit. Sie ist eine Haltung.'),
     ('Do the hard jobs first. The easy jobs will take care of themselves.', 'de',
-     'Erledige zuerst die schweren Aufgaben. Die leichten erledigen sich von selbst.');
+     'Erledige zuerst die schweren Aufgaben. Die leichten erledigen sich von selbst.'),
+    ('It is better to offer no excuse than a bad one.', 'de',
+     'Es ist besser, gar keine Ausrede zu haben als eine schlechte.');
