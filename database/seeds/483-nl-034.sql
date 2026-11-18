@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('That''s one small step for a man, one giant leap for mankind.', 'nl',
      'Dit is een kleine stap voor een mens, maar een reuzensprong voor de mensheid.'),
     ('Don''t tell me the sky''s the limit when there are footprints on the moon.', 'nl',
-     'Zeg me niet dat de lucht de grens is, als er voetafdrukken op de maan staan.');
+     'Zeg me niet dat de lucht de grens is, als er voetafdrukken op de maan staan.'),
+    ('The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.', 'nl',
+     'De aarde is de wieg van de mensheid, maar je kunt niet eeuwig in de wieg blijven.');
