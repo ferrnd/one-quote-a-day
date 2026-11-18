@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and fortitude conquer all things.', 'nl',
      'Geduld en standvastigheid overwinnen alles.'),
     ('Have patience. All things are difficult before they become easy.', 'nl',
-     'Heb geduld. Alle dingen zijn moeilijk voordat ze makkelijk worden.');
+     'Heb geduld. Alle dingen zijn moeilijk voordat ze makkelijk worden.'),
+    ('Patience is a conquering virtue.', 'nl',
+     'Geduld is een deugd die overwint.');
