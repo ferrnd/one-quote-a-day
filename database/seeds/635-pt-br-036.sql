@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Make each day your masterpiece.', 'pt-BR',
      'Faça de cada dia a sua obra-prima.'),
     ('Be quick, but don''t hurry.', 'pt-BR',
-     'Seja rápido, mas não tenha pressa.');
+     'Seja rápido, mas não tenha pressa.'),
+    ('Be not afraid of growing slowly, be afraid only of standing still.', 'pt-BR',
+     'Não tenha medo de crescer devagar; tenha medo apenas de ficar parado.');
