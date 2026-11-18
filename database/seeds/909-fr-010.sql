@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Man never made any material as resilient as the human spirit.', 'fr',
      'L''homme n''a jamais fabriqué de matériau aussi résilient que l''esprit humain.'),
     ('Grief and resilience live together.', 'fr',
-     'Le deuil et la résilience vont de pair.');
+     'Le deuil et la résilience vont de pair.'),
+    ('It''s not whether you get knocked down; it''s whether you get up.', 'fr',
+     'Ce qui compte, ce n''est pas d''être mis à terre, c''est de se relever.');
