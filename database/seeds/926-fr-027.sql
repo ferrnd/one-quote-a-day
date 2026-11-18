@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only limit to our realization of tomorrow will be our doubts of today.', 'fr',
      'La seule limite à notre épanouissement de demain, ce sont nos doutes d''aujourd''hui.'),
     ('Perpetual optimism is a force multiplier.', 'fr',
-     'L''optimisme perpétuel démultiplie les forces.');
+     'L''optimisme perpétuel démultiplie les forces.'),
+    ('If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.', 'fr',
+     'Si tu entends une voix en toi te dire que tu ne sais pas peindre, peins, par tous les moyens, et cette voix se taira.');
