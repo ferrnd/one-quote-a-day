@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Defeat is not the worst of failures. Not to have tried is the true failure.', 'it',
      'La sconfitta non è il peggiore dei fallimenti. Non averci provato è il vero fallimento.'),
     ('Failures are finger posts on the road to achievement.', 'it',
-     'I fallimenti sono cartelli indicatori sulla strada della riuscita.');
+     'I fallimenti sono cartelli indicatori sulla strada della riuscita.'),
+    ('The phoenix must burn to emerge.', 'it',
+     'La fenice deve bruciare per rinascere.');
