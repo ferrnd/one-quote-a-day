@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.', 'nl',
      'Merk op dat de stijfste boom het makkelijkst breekt, terwijl de bamboe of de wilg overleeft door mee te buigen met de wind.'),
     ('Don''t fear failure. Not failure, but low aim, is the crime.', 'nl',
-     'Vrees falen niet. Niet falen, maar te laag mikken is de misdaad.');
+     'Vrees falen niet. Niet falen, maar te laag mikken is de misdaad.'),
+    ('Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes.', 'nl',
+     'Falen is leerzaam. Wie echt nadenkt, leert evenveel van zijn mislukkingen als van zijn successen.');
