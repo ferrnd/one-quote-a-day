@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wait to strike till the iron is hot; but make it hot by striking.', 'pt-BR',
      'Não espere o ferro esquentar para malhar; esquente-o malhando.'),
     ('Self-respect is the fruit of discipline; the sense of dignity grows with the ability to say no to oneself.', 'pt-BR',
-     'O respeito próprio é fruto da disciplina; o senso de dignidade cresce com a capacidade de dizer não a si mesmo.');
+     'O respeito próprio é fruto da disciplina; o senso de dignidade cresce com a capacidade de dizer não a si mesmo.'),
+    ('What you do every day matters more than what you do once in a while.', 'pt-BR',
+     'O que você faz todos os dias importa mais do que o que você faz de vez em quando.');
