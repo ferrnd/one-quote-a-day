@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Follow your bliss and the universe will open doors where there were only walls.', 'nl',
      'Volg je gelukzaligheid en het universum opent deuren waar eerst alleen muren waren.'),
     ('Without leaps of imagination or dreaming, we lose the excitement of possibilities.', 'nl',
-     'Zonder sprongen van verbeelding of dromen verliezen we de opwinding van wat mogelijk is.');
+     'Zonder sprongen van verbeelding of dromen verliezen we de opwinding van wat mogelijk is.'),
+    ('Dreaming, after all, is a form of planning.', 'nl',
+     'Dromen is tenslotte een vorm van plannen.');
