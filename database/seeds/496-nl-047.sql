@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Impossible is just a big word thrown around by small men.', 'nl',
      'Onmogelijk is maar een groot woord waar kleine mensen mee strooien.'),
     ('It''s the repetition of affirmations that leads to belief.', 'nl',
-     'Het is de herhaling van bevestigingen die tot geloof leidt.');
+     'Het is de herhaling van bevestigingen die tot geloof leidt.'),
+    ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'nl',
+     'Als mijn geest het kan bedenken en mijn hart het kan geloven, dan kan ik het bereiken.');
