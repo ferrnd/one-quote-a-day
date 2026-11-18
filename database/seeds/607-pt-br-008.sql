@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is being scared to death, but saddling up anyway.', 'pt-BR',
      'Coragem é estar morrendo de medo e montar no cavalo mesmo assim.'),
     ('I am not afraid of storms, for I am learning how to sail my ship.', 'pt-BR',
-     'Não tenho medo de tempestades, pois estou aprendendo a conduzir meu barco.');
+     'Não tenho medo de tempestades, pois estou aprendendo a conduzir meu barco.'),
+    ('A ship in harbor is safe, but that is not what ships are built for.', 'pt-BR',
+     'Um navio no porto está seguro, mas não é para isso que os navios são feitos.');
