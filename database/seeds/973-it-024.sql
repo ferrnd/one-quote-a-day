@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Now is no time to think of what you do not have. Think of what you can do with what there is.', 'it',
      'Non è il momento di pensare a ciò che non hai. Pensa a ciò che puoi fare con ciò che c''è.'),
     ('The obstacle is the path.', 'it',
-     'L''ostacolo è la via.');
+     'L''ostacolo è la via.'),
+    ('The journey of a thousand miles begins with one step.', 'it',
+     'Un viaggio di mille miglia comincia con un passo.');
