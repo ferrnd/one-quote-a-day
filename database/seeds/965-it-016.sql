@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are the one that possesses the keys to your being. You carry the passport to your own happiness.', 'it',
      'Sei tu ad avere le chiavi del tuo essere. Sei tu a portare il passaporto per la tua felicità.'),
     ('We are what we repeatedly do. Excellence, then, is not an act, but a habit.', 'it',
-     'Siamo ciò che facciamo ripetutamente. L''eccellenza, quindi, non è un atto, ma un''abitudine.');
+     'Siamo ciò che facciamo ripetutamente. L''eccellenza, quindi, non è un atto, ma un''abitudine.'),
+    ('Discipline is the bridge between goals and accomplishment.', 'it',
+     'La disciplina è il ponte tra gli obiettivi e i risultati.');
