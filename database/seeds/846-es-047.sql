@@ -1,0 +1,5 @@
+-- seed 846 :: es translations 461-470
+
+INSERT INTO translation_intake (original, locale, body) VALUES
+    ('What seems to us as bitter trials are often blessings in disguise.', 'es',
+     'Lo que nos parecen pruebas amargas a menudo son bendiciones disfrazadas.');
