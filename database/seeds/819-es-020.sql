@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Although no one can go back and make a brand new start, anyone can start from now and make a brand new ending.', 'es',
      'Aunque nadie puede volver atrás y empezar de nuevo, cualquiera puede empezar ahora y crear un nuevo final.'),
     ('I''ve been absolutely terrified every moment of my life and I''ve never let it keep me from doing a single thing I wanted to do.', 'es',
-     'He estado absolutamente aterrada en cada momento de mi vida y nunca he dejado que eso me impidiera hacer una sola cosa que quisiera.');
+     'He estado absolutamente aterrada en cada momento de mi vida y nunca he dejado que eso me impidiera hacer una sola cosa que quisiera.'),
+    ('Sorrow is how we learn to love. Your heart isn''t breaking. It hurts because it''s getting larger.', 'es',
+     'La tristeza es la forma en que aprendemos a amar. Tu corazón no se está rompiendo. Duele porque se está haciendo más grande.');
