@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you want to lift yourself up, lift up someone else.', 'de',
      'Wenn du dich selbst aufrichten willst, richte jemand anderen auf.'),
     ('Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.', 'de',
-     'Erfolg bemisst sich nicht so sehr an der Stellung, die man im Leben erreicht hat, als an den Hindernissen, die man überwunden hat.');
+     'Erfolg bemisst sich nicht so sehr an der Stellung, die man im Leben erreicht hat, als an den Hindernissen, die man überwunden hat.'),
+    ('Excellence is to do a common thing in an uncommon way.', 'de',
+     'Exzellenz bedeutet, eine gewöhnliche Sache auf ungewöhnliche Weise zu tun.');
