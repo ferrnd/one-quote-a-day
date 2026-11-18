@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'pt-BR',
      'Só existe uma coisa que torna um sonho impossível de realizar: o medo de fracassar.'),
     ('Failure is not the opposite of success; it''s part of success.', 'pt-BR',
-     'O fracasso não é o oposto do sucesso; ele faz parte do sucesso.');
+     'O fracasso não é o oposto do sucesso; ele faz parte do sucesso.'),
+    ('You build on failure. You use it as a stepping stone.', 'pt-BR',
+     'Você constrói em cima do fracasso. Usa-o como degrau.');
