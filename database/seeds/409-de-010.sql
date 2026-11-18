@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing is impossible. The word itself says ''I''m possible''!', 'de',
      'Nichts ist unmöglich. Das Wort selbst sagt auf Englisch: „I''m possible“, ich bin möglich!'),
     ('Stars can''t shine without darkness.', 'de',
-     'Sterne können ohne Dunkelheit nicht leuchten.');
+     'Sterne können ohne Dunkelheit nicht leuchten.'),
+    ('The wound is the place where the Light enters you.', 'de',
+     'Die Wunde ist der Ort, an dem das Licht in dich eintritt.');
