@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('That''s one small step for a man, one giant leap for mankind.', 'pt-BR',
      'Este é um pequeno passo para um homem, um salto gigantesco para a humanidade.'),
     ('Don''t tell me the sky''s the limit when there are footprints on the moon.', 'pt-BR',
-     'Não me diga que o céu é o limite quando há pegadas na Lua.');
+     'Não me diga que o céu é o limite quando há pegadas na Lua.'),
+    ('The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.', 'pt-BR',
+     'A Terra é o berço da humanidade, mas a humanidade não pode ficar no berço para sempre.');
