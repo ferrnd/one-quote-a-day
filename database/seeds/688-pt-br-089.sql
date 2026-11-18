@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Self-discipline begins with the mastery of your thoughts.', 'pt-BR',
      'A autodisciplina começa com o domínio dos seus pensamentos.'),
     ('Dost thou love life? Then do not squander time, for that is the stuff life is made of.', 'pt-BR',
-     'Você ama a vida? Então não desperdice tempo, pois é dele que a vida é feita.');
+     'Você ama a vida? Então não desperdice tempo, pois é dele que a vida é feita.'),
+    ('I don''t stop when I''m tired. I stop when I''m done.', 'pt-BR',
+     'Não paro quando estou cansado. Paro quando termino.');
