@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One never notices what has been done; one can only see what remains to be done.', 'it',
      'Non si nota mai ciò che è stato fatto; si vede solo ciò che resta da fare.'),
     ('I raise up my voice, not so that I can shout, but so that those without a voice can be heard.', 'it',
-     'Alzo la mia voce non per gridare, ma perché chi non ha voce possa essere ascoltato.');
+     'Alzo la mia voce non per gridare, ma perché chi non ha voce possa essere ascoltato.'),
+    ('One child, one teacher, one book, one pen can change the world.', 'it',
+     'Un bambino, un insegnante, un libro e una penna possono cambiare il mondo.');
