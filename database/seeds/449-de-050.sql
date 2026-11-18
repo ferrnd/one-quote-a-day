@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who learns but does not think, is lost. He who thinks but does not learn is in great danger.', 'de',
      'Lernen ohne Denken ist verlorene Mühe; Denken ohne Lernen ist gefährlich.'),
     ('The best revenge is not to be like your enemy.', 'de',
-     'Die beste Rache ist, nicht wie dein Feind zu sein.');
+     'Die beste Rache ist, nicht wie dein Feind zu sein.'),
+    ('Loss is nothing else but change, and change is Nature''s delight.', 'de',
+     'Verlust ist nichts anderes als Wandel, und Wandel ist die Freude der Natur.');
