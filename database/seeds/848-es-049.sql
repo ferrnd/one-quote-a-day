@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you do speaks so loudly that I cannot hear what you say.', 'es',
      'Lo que haces habla tan alto que no puedo oír lo que dices.'),
     ('Go confidently in the direction of your dreams. Live the life you have imagined.', 'es',
-     'Avanza con confianza en la dirección de tus sueños. Vive la vida que has imaginado.');
+     'Avanza con confianza en la dirección de tus sueños. Vive la vida que has imaginado.'),
+    ('If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.', 'es',
+     'Si has construido castillos en el aire, tu trabajo no está perdido; ahí es donde deben estar. Ahora ponles los cimientos.');
