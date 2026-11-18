@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have stood on a mountain of no''s for one yes.', 'es',
      'He estado de pie sobre una montaña de noes por un solo sí.'),
     ('I had to make my own living and my own opportunity. But I made it!', 'es',
-     'Tuve que ganarme la vida y crear mi propia oportunidad. ¡Pero lo logré!');
+     'Tuve que ganarme la vida y crear mi propia oportunidad. ¡Pero lo logré!'),
+    ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'es',
+     'No llegué ahí deseándolo ni esperándolo, sino trabajando por ello.');
