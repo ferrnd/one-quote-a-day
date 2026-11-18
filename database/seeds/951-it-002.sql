@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never give in. Never, never, never, never.', 'it',
      'Non arrendetevi mai. Mai, mai, mai, mai.'),
     ('Success seems to be connected with action. Successful people keep moving.', 'it',
-     'Il successo sembra legato all''azione. Le persone di successo non smettono mai di muoversi.');
+     'Il successo sembra legato all''azione. Le persone di successo non smettono mai di muoversi.'),
+    ('Every strike brings me closer to the next home run.', 'it',
+     'Ogni colpo mancato mi avvicina al prossimo fuoricampo.');
