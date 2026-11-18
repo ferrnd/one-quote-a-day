@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It takes courage to grow up and become who you really are.', 'pt-BR',
      'É preciso coragem para crescer e se tornar quem você realmente é.'),
     ('Courage is rightly esteemed the first of human qualities because it is the quality which guarantees all others.', 'pt-BR',
-     'A coragem é, com razão, considerada a primeira das qualidades humanas, porque é a qualidade que garante todas as outras.');
+     'A coragem é, com razão, considerada a primeira das qualidades humanas, porque é a qualidade que garante todas as outras.'),
+    ('The brave man is not he who does not feel afraid, but he who conquers that fear.', 'pt-BR',
+     'O homem corajoso não é aquele que não sente medo, mas aquele que vence esse medo.');
