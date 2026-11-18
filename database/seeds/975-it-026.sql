@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Put your heart, mind, and soul into even your smallest acts. This is the secret of success.', 'it',
      'Metti il cuore, la mente e l''anima anche nei tuoi gesti più piccoli. Questo è il segreto del successo.'),
     ('You can''t cross the sea merely by standing and staring at the water.', 'it',
-     'Non si può attraversare il mare restando fermi a guardare l''acqua.');
+     'Non si può attraversare il mare restando fermi a guardare l''acqua.'),
+    ('The most difficult thing is the decision to act, the rest is merely tenacity.', 'it',
+     'La cosa più difficile è decidere di agire; il resto è solo tenacia.');
