@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rivers know this: there is no hurry. We shall get there some day.', 'es',
      'Los ríos lo saben: no hay prisa. Algún día llegaremos.'),
     ('Perseverance is not a long race; it is many short races one after the other.', 'es',
-     'La perseverancia no es una carrera larga; son muchas carreras cortas, una tras otra.');
+     'La perseverancia no es una carrera larga; son muchas carreras cortas, una tras otra.'),
+    ('A river cuts through rock not because of its power, but because of its persistence.', 'es',
+     'El río atraviesa la roca no por su fuerza, sino por su persistencia.');
