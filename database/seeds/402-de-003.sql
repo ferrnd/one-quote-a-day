@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage doesn''t always roar. Sometimes courage is the quiet voice at the end of the day saying, I will try again tomorrow.', 'de',
      'Mut brüllt nicht immer. Manchmal ist Mut die leise Stimme am Ende des Tages, die sagt: Morgen versuche ich es noch einmal.'),
     ('I learned that courage was not the absence of fear, but the triumph over it.', 'de',
-     'Ich habe gelernt, dass Mut nicht die Abwesenheit von Angst ist, sondern der Triumph über sie.');
+     'Ich habe gelernt, dass Mut nicht die Abwesenheit von Angst ist, sondern der Triumph über sie.'),
+    ('You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.', 'de',
+     'Du gewinnst Kraft, Mut und Zuversicht durch jede Erfahrung, bei der du innehältst und der Angst ins Gesicht siehst.');
