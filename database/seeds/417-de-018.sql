@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Discipline is remembering what you want.', 'de',
      'Disziplin heißt, sich daran zu erinnern, was man will.'),
     ('Make each day your masterpiece.', 'de',
-     'Mach jeden Tag zu deinem Meisterwerk.');
+     'Mach jeden Tag zu deinem Meisterwerk.'),
+    ('Be quick, but don''t hurry.', 'de',
+     'Sei schnell, aber hetze nicht.');
