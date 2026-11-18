@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Faith is taking the first step even when you don''t see the whole staircase.', 'it',
      'La fede è fare il primo passo anche quando non vedi tutta la scala.'),
     ('There is no education like adversity.', 'it',
-     'Non c''è scuola come l''avversità.');
+     'Non c''è scuola come l''avversità.'),
+    ('Those things that hurt, instruct.', 'it',
+     'Ciò che fa male insegna.');
