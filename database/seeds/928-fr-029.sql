@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ability is what you''re capable of doing. Motivation determines what you do. Attitude determines how well you do it.', 'fr',
-     'Le talent, c''est ce que tu es capable de faire. La motivation détermine ce que tu fais. L''attitude détermine à quel point tu le fais bien.');
+     'Le talent, c''est ce que tu es capable de faire. La motivation détermine ce que tu fais. L''attitude détermine à quel point tu le fais bien.'),
+    ('Worry does not empty tomorrow of its sorrow, it empties today of its strength.', 'fr',
+     'L''inquiétude ne vide pas demain de son chagrin, elle vide aujourd''hui de sa force.');
