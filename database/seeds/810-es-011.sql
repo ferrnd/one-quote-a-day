@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is not simply one of the virtues, but the form of every virtue at the testing point.', 'es',
      'El valor no es simplemente una de las virtudes, sino la forma de todas las virtudes en el momento de la prueba.'),
     ('Courage, dear heart.', 'es',
-     'Valor, querido corazón.');
+     'Valor, querido corazón.'),
+    ('Courage is the power to let go of the familiar.', 'es',
+     'El valor es la fuerza de soltar lo conocido.');
