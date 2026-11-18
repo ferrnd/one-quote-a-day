@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The phoenix must burn to emerge.', 'de',
      'Der Phönix muss brennen, um neu zu erstehen.'),
     ('We are all failures, at least the best of us are.', 'de',
-     'Wir sind alle Versager, zumindest die Besten von uns.');
+     'Wir sind alle Versager, zumindest die Besten von uns.'),
+    ('I can accept failure, everyone fails at something. But I can''t accept not trying.', 'de',
+     'Ich kann Scheitern akzeptieren, jeder scheitert an etwas. Aber ich kann es nicht akzeptieren, es nicht zu versuchen.');
