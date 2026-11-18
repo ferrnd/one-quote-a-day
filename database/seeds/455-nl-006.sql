@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''ve failed over and over and over again in my life. And that is why I succeed.', 'nl',
      'Ik heb in mijn leven keer op keer op keer gefaald. En daarom slaag ik.'),
     ('Only those who dare to fail greatly can ever achieve greatly.', 'nl',
-     'Alleen wie durft groots te falen, kan ooit groots slagen.');
+     'Alleen wie durft groots te falen, kan ooit groots slagen.'),
+    ('Failure is the condiment that gives success its flavor.', 'nl',
+     'Falen is de kruiderij die succes zijn smaak geeft.');
