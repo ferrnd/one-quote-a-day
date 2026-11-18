@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is not built on success. It''s built on failure. It''s built on frustration.', 'nl',
      'Succes is niet gebouwd op succes. Het is gebouwd op falen. Het is gebouwd op frustratie.'),
     ('Winners are not afraid of losing. But losers are. Failure is part of the process of success.', 'nl',
-     'Winnaars zijn niet bang om te verliezen. Verliezers wel. Falen hoort bij het proces van succes.');
+     'Winnaars zijn niet bang om te verliezen. Verliezers wel. Falen hoort bij het proces van succes.'),
+    ('An inventor fails 999 times, and if he succeeds once, he''s in.', 'nl',
+     'Een uitvinder faalt 999 keer, en als hij één keer slaagt, heeft hij het gemaakt.');
