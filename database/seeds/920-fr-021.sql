@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without continual growth and progress, such words as improvement, achievement, and success have no meaning.', 'fr',
      'Sans croissance et sans progrès continus, des mots comme amélioration, réussite et succès n''ont aucun sens.'),
     ('What is to give light must endure burning.', 'fr',
-     'Ce qui doit donner de la lumière doit supporter de brûler.');
+     'Ce qui doit donner de la lumière doit supporter de brûler.'),
+    ('It''s not what happens to you, but how you react to it that matters.', 'fr',
+     'Ce n''est pas ce qui t''arrive qui compte, mais la façon dont tu y réagis.');
