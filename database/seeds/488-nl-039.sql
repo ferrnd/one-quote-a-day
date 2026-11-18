@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is not how high you have climbed, but how you make a positive difference to the world.', 'nl',
      'Succes is niet hoe hoog je bent geklommen, maar hoe je een positief verschil maakt in de wereld.'),
     ('The best revenge is massive success.', 'nl',
-     'De beste wraak is enorm succes.');
+     'De beste wraak is enorm succes.'),
+    ('Grief can be the garden of compassion.', 'nl',
+     'Rouw kan de tuin van het mededogen zijn.');
