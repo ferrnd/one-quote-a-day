@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are patient in one moment of anger, you will escape a hundred days of sorrow.', 'nl',
      'Als je geduldig bent in een moment van woede, ontsnap je aan honderd dagen verdriet.'),
     ('Patience is the support of weakness; impatience the ruin of strength.', 'nl',
-     'Geduld is de steun van zwakte; ongeduld de ondergang van kracht.');
+     'Geduld is de steun van zwakte; ongeduld de ondergang van kracht.'),
+    ('Endurance is patience concentrated.', 'nl',
+     'Uithoudingsvermogen is geconcentreerd geduld.');
