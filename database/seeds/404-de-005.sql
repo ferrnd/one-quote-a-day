@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not the mountain we conquer, but ourselves.', 'de',
      'Es ist nicht der Berg, den wir bezwingen, sondern wir selbst.'),
     ('Leap, and the net will appear.', 'de',
-     'Spring, und das Netz wird erscheinen.');
+     'Spring, und das Netz wird erscheinen.'),
+    ('Security is mostly a superstition. Life is either a daring adventure or nothing.', 'de',
+     'Sicherheit ist meist ein Aberglaube. Das Leben ist entweder ein kühnes Abenteuer oder gar nichts.');
