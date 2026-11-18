@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Energy and persistence conquer all things.', 'es',
      'La energía y la persistencia lo conquistan todo.'),
     ('Rivers know this: there is no hurry. We shall get there some day.', 'es',
-     'Los ríos lo saben: no hay prisa. Algún día llegaremos.');
+     'Los ríos lo saben: no hay prisa. Algún día llegaremos.'),
+    ('Perseverance is not a long race; it is many short races one after the other.', 'es',
+     'La perseverancia no es una carrera larga; son muchas carreras cortas, una tras otra.');
