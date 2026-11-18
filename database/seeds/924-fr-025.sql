@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('An idea not coupled with action will never get any bigger than the brain cell it occupied.', 'fr',
      'Une idée qui n''est pas suivie d''action ne grandira jamais au-delà du neurone qu''elle occupait.'),
     ('Talk does not cook rice.', 'fr',
-     'Les paroles ne font pas cuire le riz.');
+     'Les paroles ne font pas cuire le riz.'),
+    ('If not now, when?', 'fr',
+     'Si ce n''est pas maintenant, quand ?');
