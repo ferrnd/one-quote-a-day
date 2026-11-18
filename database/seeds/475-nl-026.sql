@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only impossible journey is the one you never begin.', 'nl',
      'De enige onmogelijke reis is die je nooit begint.'),
     ('It is in your moments of decision that your destiny is shaped.', 'nl',
-     'Juist in je momenten van beslissing wordt je lot gevormd.');
+     'Juist in je momenten van beslissing wordt je lot gevormd.'),
+    ('Setting goals is the first step in turning the invisible into the visible.', 'nl',
+     'Doelen stellen is de eerste stap om het onzichtbare zichtbaar te maken.');
