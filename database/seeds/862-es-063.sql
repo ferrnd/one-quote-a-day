@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Desire is the key to motivation, but it''s determination and commitment to an unrelenting pursuit of your goal that will enable you to attain the success you seek.', 'es',
      'El deseo es la clave de la motivación, pero son la determinación y el compromiso con la búsqueda incansable de tu meta los que te permitirán alcanzar el éxito que buscas.'),
     ('Obstacles cannot crush me. Every obstacle yields to stern resolve.', 'es',
-     'Los obstáculos no pueden aplastarme. Todo obstáculo cede ante una firme determinación.');
+     'Los obstáculos no pueden aplastarme. Todo obstáculo cede ante una firme determinación.'),
+    ('I am not discouraged, because every wrong attempt discarded is another step forward.', 'es',
+     'No me desanimo, porque cada intento equivocado que descarto es otro paso adelante.');
