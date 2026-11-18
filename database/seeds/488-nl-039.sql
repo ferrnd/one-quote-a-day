@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between try and triumph is just a little umph!', 'nl',
      'Het verschil tussen proberen en triomferen is gewoon een klein beetje meer pit!'),
     ('Perseverance is failing nineteen times and succeeding the twentieth.', 'nl',
-     'Doorzettingsvermogen is negentien keer falen en de twintigste keer slagen.');
+     'Doorzettingsvermogen is negentien keer falen en de twintigste keer slagen.'),
+    ('Persistence is to the character of man as carbon is to steel.', 'nl',
+     'Volharding is voor het karakter van de mens wat koolstof is voor staal.');
