@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am prepared for the worst, but hope for the best.', 'fr',
      'Je suis préparé au pire, mais j''espère le meilleur.'),
     ('We need never be hopeless because we can never be irreparably broken.', 'fr',
-     'Nous n''avons jamais à désespérer, car nous ne pouvons jamais être brisés sans retour.');
+     'Nous n''avons jamais à désespérer, car nous ne pouvons jamais être brisés sans retour.'),
+    ('We will grieve not, rather find strength in what remains behind.', 'fr',
+     'Nous ne pleurerons pas, mais trouverons plutôt de la force dans ce qui demeure.');
