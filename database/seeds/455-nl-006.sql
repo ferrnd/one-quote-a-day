@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the ladder on which all the other virtues mount.', 'nl',
      'Moed is de ladder waarlangs alle andere deugden omhoogklimmen.'),
     ('Courage is not simply one of the virtues, but the form of every virtue at the testing point.', 'nl',
-     'Moed is niet zomaar een van de deugden, maar de vorm van elke deugd op het moment van de beproeving.');
+     'Moed is niet zomaar een van de deugden, maar de vorm van elke deugd op het moment van de beproeving.'),
+    ('Courage, dear heart.', 'nl',
+     'Moed, lief hart.');
