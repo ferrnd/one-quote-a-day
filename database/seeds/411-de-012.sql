@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the pillar that holds up the world.', 'de',
      'Die Hoffnung ist die Säule, die die Welt trägt.'),
     ('Hope will never be silent.', 'de',
-     'Die Hoffnung wird niemals schweigen.');
+     'Die Hoffnung wird niemals schweigen.'),
+    ('Weeping may endure for a night, but joy cometh in the morning.', 'de',
+     'Den Abend lang währt das Weinen, aber des Morgens ist Freude.');
