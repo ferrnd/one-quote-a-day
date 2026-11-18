@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Inaction breeds doubt and fear. Action breeds confidence and courage.', 'de',
      'Untätigkeit erzeugt Zweifel und Angst. Handeln erzeugt Zuversicht und Mut.'),
     ('Courage is being scared to death, but saddling up anyway.', 'de',
-     'Mut heißt, zu Tode erschrocken zu sein und trotzdem in den Sattel zu steigen.');
+     'Mut heißt, zu Tode erschrocken zu sein und trotzdem in den Sattel zu steigen.'),
+    ('I am not afraid of storms, for I am learning how to sail my ship.', 'de',
+     'Ich fürchte mich nicht vor Stürmen, denn ich lerne, mein Schiff zu segeln.');
