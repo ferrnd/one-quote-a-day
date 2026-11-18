@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You miss 100% of the shots you don''t take.', 'nl',
      'Je mist 100% van de schoten die je niet neemt.'),
     ('Inspiration exists, but it has to find you working.', 'nl',
-     'Inspiratie bestaat, maar ze moet je aan het werk vinden.');
+     'Inspiratie bestaat, maar ze moet je aan het werk vinden.'),
+    ('Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world.', 'nl',
+     'Visie zonder actie is slechts een droom. Actie zonder visie is slechts tijdverdrijf. Visie met actie kan de wereld veranderen.');
