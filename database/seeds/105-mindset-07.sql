@@ -5,4 +5,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Optimism is essential to achievement and it is also the foundation of courage and true progress.', 'Nicholas M. Butler', 'mindset'),
     ('You are what you believe yourself to be.', 'Paulo Coelho', 'mindset'),
     ('Believe and act as if it were impossible to fail.', 'Charles F. Kettering', 'mindset'),
-    ('The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.', 'John Milton', 'mindset');
+    ('The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.', 'John Milton', 'mindset'),
+    ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'Peace Pilgrim', 'mindset');
