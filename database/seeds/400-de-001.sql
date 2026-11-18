@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing in this world can take the place of persistence.', 'de',
      'Nichts auf der Welt kann Beharrlichkeit ersetzen.'),
     ('Victory belongs to the most persevering.', 'de',
-     'Der Sieg gehört dem Beharrlichsten.');
+     'Der Sieg gehört dem Beharrlichsten.'),
+    ('With ordinary talent and extraordinary perseverance, all things are attainable.', 'de',
+     'Mit gewöhnlichem Talent und außergewöhnlicher Ausdauer ist alles erreichbar.');
