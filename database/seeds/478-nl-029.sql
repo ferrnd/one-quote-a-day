@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Man is not worried by real problems so much as by his imagined anxieties about real problems.', 'nl',
      'De mens wordt niet zozeer verontrust door echte problemen als door zijn ingebeelde angsten over echte problemen.'),
     ('If you think you are beaten, you are.', 'nl',
-     'Als je denkt dat je verslagen bent, dan ben je dat.');
+     'Als je denkt dat je verslagen bent, dan ben je dat.'),
+    ('Sooner or later the man who wins is the man who thinks he can.', 'nl',
+     'Vroeg of laat wint degene die denkt dat hij het kan.');
