@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Inaction breeds doubt and fear. Action breeds confidence and courage.', 'fr',
      'L''inaction engendre le doute et la peur. L''action engendre la confiance et le courage.'),
     ('Courage is being scared to death, but saddling up anyway.', 'fr',
-     'Le courage, c''est être mort de peur et monter quand même en selle.');
+     'Le courage, c''est être mort de peur et monter quand même en selle.'),
+    ('I am not afraid of storms, for I am learning how to sail my ship.', 'fr',
+     'Je n''ai pas peur des tempêtes, car j''apprends à mener mon navire.');
