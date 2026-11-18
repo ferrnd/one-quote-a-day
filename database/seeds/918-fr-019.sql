@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A year from now you may wish you had started today.', 'fr',
      'Dans un an, tu regretteras peut-être de ne pas avoir commencé aujourd''hui.'),
     ('Change your thoughts and you change your world.', 'fr',
-     'Change tes pensées et tu changeras ton monde.');
+     'Change tes pensées et tu changeras ton monde.'),
+    ('You cannot change your destination overnight, but you can change your direction overnight.', 'fr',
+     'Tu ne peux pas changer ta destination du jour au lendemain, mais tu peux changer de direction du jour au lendemain.');
