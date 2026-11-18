@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Beginnings are always messy.', 'nl',
      'Het begin is altijd rommelig.'),
     ('Vision is the art of seeing what is invisible to others.', 'nl',
-     'Visie is de kunst om te zien wat voor anderen onzichtbaar is.');
+     'Visie is de kunst om te zien wat voor anderen onzichtbaar is.'),
+    ('When one door of happiness closes, another opens.', 'nl',
+     'Als er één deur naar geluk dichtgaat, gaat er een andere open.');
