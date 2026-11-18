@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.', 'nl',
      'We kiezen ervoor om in dit decennium naar de maan te gaan en de andere dingen te doen, niet omdat ze makkelijk zijn, maar omdat ze moeilijk zijn.'),
     ('Opportunities multiply as they are seized.', 'nl',
-     'Kansen vermenigvuldigen zich wanneer ze worden gegrepen.');
+     'Kansen vermenigvuldigen zich wanneer ze worden gegrepen.'),
+    ('You can''t wait for inspiration. You have to go after it with a club.', 'nl',
+     'Je kunt niet wachten op inspiratie. Je moet er met een knuppel achteraan.');
