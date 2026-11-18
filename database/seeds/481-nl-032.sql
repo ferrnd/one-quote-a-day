@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Once you learn to quit, it becomes a habit.', 'nl',
      'Als je eenmaal leert op te geven, wordt het een gewoonte.'),
     ('Today I will do what others won''t, so tomorrow I can accomplish what others can''t.', 'nl',
-     'Vandaag doe ik wat anderen niet doen, zodat ik morgen kan bereiken wat anderen niet kunnen.');
+     'Vandaag doe ik wat anderen niet doen, zodat ik morgen kan bereiken wat anderen niet kunnen.'),
+    ('You can''t put a limit on anything. The more you dream, the farther you get.', 'nl',
+     'Je kunt nergens een grens aan stellen. Hoe meer je droomt, hoe verder je komt.');
