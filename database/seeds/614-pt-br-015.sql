@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You may have to fight a battle more than once to win it.', 'pt-BR',
      'Às vezes é preciso lutar uma batalha mais de uma vez para vencê-la.'),
     ('Failure isn''t fatal, but failure to change might be.', 'pt-BR',
-     'Fracassar não é fatal, mas fracassar em mudar pode ser.');
+     'Fracassar não é fatal, mas fracassar em mudar pode ser.'),
+    ('If you learn from defeat, you haven''t really lost.', 'pt-BR',
+     'Se você aprende com a derrota, não perdeu de verdade.');
