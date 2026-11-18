@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Some people dream of success, while other people get up every morning and make it happen.', 'nl',
      'Sommige mensen dromen van succes, terwijl anderen elke ochtend opstaan en het laten gebeuren.'),
     ('I have a dream.', 'nl',
-     'Ik heb een droom.');
+     'Ik heb een droom.'),
+    ('What is now proved was once only imagined.', 'nl',
+     'Wat nu bewezen is, was ooit alleen maar ingebeeld.');
