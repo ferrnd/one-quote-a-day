@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.', 'it',
      'Nessuno ci salva se non noi stessi. Nessuno può e nessuno deve. Siamo noi a dover percorrere il sentiero.'),
     ('Power is not given to you. You have to take it.', 'it',
-     'Il potere non ti viene dato. Devi prendertelo.');
+     'Il potere non ti viene dato. Devi prendertelo.'),
+    ('I''m not going to limit myself just because people won''t accept the fact that I can do something else.', 'it',
+     'Non mi limiterò solo perché la gente non accetta che io sappia fare qualcos''altro.');
