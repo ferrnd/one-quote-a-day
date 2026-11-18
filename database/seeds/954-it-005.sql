@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be bold, and mighty forces will come to your aid.', 'it',
      'Sii audace, e forze potenti verranno in tuo aiuto.'),
     ('There is no passion to be found playing small.', 'it',
-     'Non c''è passione nel giocare in piccolo.');
+     'Non c''è passione nel giocare in piccolo.'),
+    ('Courage is like a muscle. We strengthen it by use.', 'it',
+     'Il coraggio è come un muscolo: si rafforza con l''uso.');
