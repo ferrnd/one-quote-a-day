@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No matter how long the winter, spring is sure to follow.', 'es',
      'Por largo que sea el invierno, la primavera siempre llega después.'),
     ('Every cloud has a silver lining.', 'es',
-     'No hay mal que por bien no venga.');
+     'No hay mal que por bien no venga.'),
+    ('The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.', 'es',
+     'El propio sol es débil cuando sale, y va ganando fuerza y valor a medida que avanza el día.');
