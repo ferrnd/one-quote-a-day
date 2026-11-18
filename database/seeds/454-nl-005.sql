@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To dare is to lose one''s footing momentarily. Not to dare is to lose oneself.', 'nl',
      'Durven is even je evenwicht verliezen. Niet durven is jezelf verliezen.'),
     ('It is not the mountain we conquer, but ourselves.', 'nl',
-     'Het is niet de berg die we bedwingen, maar onszelf.');
+     'Het is niet de berg die we bedwingen, maar onszelf.'),
+    ('Leap, and the net will appear.', 'nl',
+     'Spring, en het net zal verschijnen.');
