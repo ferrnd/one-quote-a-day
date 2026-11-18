@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.', 'fr',
      'Déjà essayé. Déjà échoué. Peu importe. Essaie encore. Échoue encore. Échoue mieux.'),
     ('I''ve failed over and over and over again in my life. And that is why I succeed.', 'fr',
-     'J''ai échoué encore et encore et encore dans ma vie. Et c''est pour cela que je réussis.');
+     'J''ai échoué encore et encore et encore dans ma vie. Et c''est pour cela que je réussis.'),
+    ('Only those who dare to fail greatly can ever achieve greatly.', 'fr',
+     'Seuls ceux qui osent échouer grandement peuvent réussir grandement.');
