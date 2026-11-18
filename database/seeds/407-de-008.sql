@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You always pass failure on your way to success.', 'de',
      'Auf dem Weg zum Erfolg kommt man immer am Scheitern vorbei.'),
     ('Failure is unimportant. It takes courage to make a fool of yourself.', 'de',
-     'Scheitern ist unwichtig. Es braucht Mut, sich lächerlich zu machen.');
+     'Scheitern ist unwichtig. Es braucht Mut, sich lächerlich zu machen.'),
+    ('What is defeat? Nothing but education; nothing but the first step to something better.', 'de',
+     'Was ist eine Niederlage? Nichts als eine Lektion; nichts als der erste Schritt zu etwas Besserem.');
