@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The secret of success is constancy to purpose.', 'de',
      'Das Geheimnis des Erfolgs ist die Beständigkeit des Ziels.'),
     ('Persist and persevere, and you will find most things that are attainable, possible.', 'de',
-     'Bleib beharrlich und halte durch, und du wirst feststellen, dass die meisten erreichbaren Dinge möglich sind.');
+     'Bleib beharrlich und halte durch, und du wirst feststellen, dass die meisten erreichbaren Dinge möglich sind.'),
+    ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'de',
+     'Die meisten Menschen geben genau dann auf, wenn sie kurz vor dem Erfolg stehen. Sie geben einen Schritt vor der Ziellinie auf.');
