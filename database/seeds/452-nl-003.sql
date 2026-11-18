@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is rightly esteemed the first of human qualities because it is the quality which guarantees all others.', 'nl',
      'Moed wordt terecht beschouwd als de eerste van alle menselijke eigenschappen, omdat het de eigenschap is die alle andere waarborgt.'),
     ('The brave man is not he who does not feel afraid, but he who conquers that fear.', 'nl',
-     'De dappere mens is niet degene die geen angst voelt, maar degene die die angst overwint.');
+     'De dappere mens is niet degene die geen angst voelt, maar degene die die angst overwint.'),
+    ('Have the courage to follow your heart and intuition.', 'nl',
+     'Heb de moed om je hart en je intuïtie te volgen.');
