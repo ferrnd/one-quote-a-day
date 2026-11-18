@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We are all failures, at least the best of us are.', 'it',
      'Siamo tutti dei falliti, almeno i migliori di noi.'),
     ('I can accept failure, everyone fails at something. But I can''t accept not trying.', 'it',
-     'Posso accettare il fallimento, tutti falliscono in qualcosa. Ma non posso accettare di non provarci.');
+     'Posso accettare il fallimento, tutti falliscono in qualcosa. Ma non posso accettare di non provarci.'),
+    ('Success is not built on success. It''s built on failure. It''s built on frustration.', 'it',
+     'Il successo non si costruisce sul successo. Si costruisce sul fallimento. Si costruisce sulla frustrazione.');
