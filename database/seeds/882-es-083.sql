@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The strongest people find the courage and caring to help others, even if they are going through their own storm.', 'es',
      'Las personas más fuertes encuentran el valor y el cariño para ayudar a los demás, aunque estén pasando por su propia tormenta.'),
     ('There is no such thing as ruining your life. Life''s a pretty resilient thing, it turns out.', 'es',
-     'No existe eso de arruinar tu vida. La vida, al final, resulta ser bastante resiliente.');
+     'No existe eso de arruinar tu vida. La vida, al final, resulta ser bastante resiliente.'),
+    ('Resilience is knowing that you are the only one that has the power and the responsibility to pick yourself up.', 'es',
+     'La resiliencia es saber que solo tú tienes el poder y la responsabilidad de levantarte.');
