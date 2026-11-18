@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Have the courage to follow your heart and intuition.', 'pt-BR',
      'Tenha a coragem de seguir seu coração e sua intuição.'),
     ('Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.', 'pt-BR',
-     'Ser profundamente amado por alguém nos dá força, enquanto amar alguém profundamente nos dá coragem.');
+     'Ser profundamente amado por alguém nos dá força, enquanto amar alguém profundamente nos dá coragem.'),
+    ('Courage is grace under pressure.', 'pt-BR',
+     'Coragem é elegância sob pressão.');
