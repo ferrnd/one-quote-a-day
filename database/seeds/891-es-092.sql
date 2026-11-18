@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Begin anywhere.', 'es',
      'Empieza por cualquier parte.'),
     ('Action is eloquence.', 'es',
-     'La acción es elocuencia.');
+     'La acción es elocuencia.'),
+    ('Do not wait for leaders; do it alone, person to person.', 'es',
+     'No esperes a los líderes; hazlo tú, de persona a persona.');
