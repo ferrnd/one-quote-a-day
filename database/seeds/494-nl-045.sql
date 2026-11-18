@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We must be willing to let go of the life we planned so as to have the life that is waiting for us.', 'nl',
      'We moeten bereid zijn het leven los te laten dat we hadden gepland, om het leven te hebben dat op ons wacht.'),
     ('The privilege of a lifetime is to become who you truly are.', 'nl',
-     'Het voorrecht van een leven is worden wie je werkelijk bent.');
+     'Het voorrecht van een leven is worden wie je werkelijk bent.'),
+    ('Knowing your own darkness is the best method for dealing with the darknesses of other people.', 'nl',
+     'Je eigen duisternis kennen is de beste methode om met de duisternis van anderen om te gaan.');
