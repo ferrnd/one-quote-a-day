@@ -4,6 +4,24 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [1.2.0] - 2026-11-17
+
+### Added
+
+- Quotes now scroll instead of fading: at midnight the old one drops off the
+  bottom and the new one comes down from the top.
+- Left and right arrow keys walk through past days with a sideways slide,
+  from DAY 1 up to today.
+- Click the quote to copy it, with its author.
+- Hovering the day counter shows the time left until the next quote.
+- Night mode from 21:00 to 06:00 local time: white on black, with a slow
+  cross-fade. Force it with `?theme=day` or `?theme=night`.
+
+### Changed
+
+- Sizes are derived from the viewport, so browser zoom no longer changes
+  the layout; the day counter sits the same distance from both edges.
+
 ## [1.1.0] - 2026-11-17
 
 ### Added
