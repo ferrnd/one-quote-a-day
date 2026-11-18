@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The beautiful thing about learning is that no one can take it away from you.', 'nl',
      'Het mooie van leren is dat niemand het je kan afnemen.'),
     ('Education is the most powerful weapon which you can use to change the world.', 'nl',
-     'Onderwijs is het machtigste wapen dat je kunt gebruiken om de wereld te veranderen.');
+     'Onderwijs is het machtigste wapen dat je kunt gebruiken om de wereld te veranderen.'),
+    ('He who is not every day conquering some fear has not learned the secret of life.', 'nl',
+     'Wie niet elke dag een angst overwint, heeft het geheim van het leven niet geleerd.');
