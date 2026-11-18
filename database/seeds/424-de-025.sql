@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If not now, when?', 'de',
      'Wenn nicht jetzt, wann dann?'),
     ('To begin, begin.', 'de',
-     'Um anzufangen, fang an.');
+     'Um anzufangen, fang an.'),
+    ('Pursue what catches your heart, not what catches your eyes.', 'de',
+     'Folge dem, was dein Herz bewegt, nicht dem, was deine Augen lockt.');
