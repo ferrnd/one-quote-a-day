@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.', 'pt-BR',
      'Escolhemos ir à Lua nesta década, e fazer as outras coisas, não porque são fáceis, mas porque são difíceis.'),
     ('Opportunities multiply as they are seized.', 'pt-BR',
-     'As oportunidades se multiplicam à medida que são aproveitadas.');
+     'As oportunidades se multiplicam à medida que são aproveitadas.'),
+    ('You can''t wait for inspiration. You have to go after it with a club.', 'pt-BR',
+     'Você não pode esperar pela inspiração. Precisa ir atrás dela com um porrete.');
