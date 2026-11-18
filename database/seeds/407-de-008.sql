@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''d rather be a failure at something I love than a success at something I hate.', 'de',
      'Ich scheitere lieber an etwas, das ich liebe, als Erfolg mit etwas zu haben, das ich hasse.'),
     ('There is no failure except in no longer trying.', 'de',
-     'Es gibt kein Scheitern, außer wenn man aufhört, es zu versuchen.');
+     'Es gibt kein Scheitern, außer wenn man aufhört, es zu versuchen.'),
+    ('Failure will never overtake me if my determination to succeed is strong enough.', 'de',
+     'Das Scheitern wird mich nie einholen, wenn mein Wille zum Erfolg stark genug ist.');
