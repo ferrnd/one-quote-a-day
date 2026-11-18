@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.', 'de',
      'Beachte, dass der steifste Baum am leichtesten bricht, während Bambus oder Weide überleben, indem sie sich im Wind biegen.'),
     ('Don''t fear failure. Not failure, but low aim, is the crime.', 'de',
-     'Fürchte das Scheitern nicht. Nicht das Scheitern, sondern das niedrige Ziel ist das Verbrechen.');
+     'Fürchte das Scheitern nicht. Nicht das Scheitern, sondern das niedrige Ziel ist das Verbrechen.'),
+    ('Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes.', 'de',
+     'Scheitern ist lehrreich. Wer wirklich denkt, lernt aus seinen Misserfolgen genauso viel wie aus seinen Erfolgen.');
