@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.', 'pt-BR',
      'Se você ouvir uma voz dentro de você dizendo que não sabe pintar, pinte de qualquer jeito, e essa voz será silenciada.'),
     ('Whatever the mind of man can conceive and believe, it can achieve.', 'pt-BR',
-     'Tudo o que a mente humana pode conceber e acreditar, ela pode conquistar.');
+     'Tudo o que a mente humana pode conceber e acreditar, ela pode conquistar.'),
+    ('The man who has confidence in himself gains the confidence of others.', 'pt-BR',
+     'Quem confia em si mesmo conquista a confiança dos outros.');
