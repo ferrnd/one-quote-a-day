@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('First, think. Second, dream. Third, believe. And finally, dare.', 'nl',
      'Eerst denken. Dan dromen. Dan geloven. En ten slotte durven.'),
     ('A dream you dream alone is only a dream. A dream you dream together is reality.', 'nl',
-     'Een droom die je alleen droomt, is maar een droom. Een droom die je samen droomt, is werkelijkheid.');
+     'Een droom die je alleen droomt, is maar een droom. Een droom die je samen droomt, is werkelijkheid.'),
+    ('Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.', 'nl',
+     'Houd vast aan dromen, want als dromen sterven, is het leven een vogel met gebroken vleugels die niet kan vliegen.');
