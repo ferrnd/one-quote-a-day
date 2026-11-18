@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The man who can drive himself further once the effort gets painful is the man who will win.', 'fr',
      'Celui qui parvient à se pousser plus loin quand l''effort devient douloureux est celui qui gagnera.'),
     ('Don''t give up. Don''t ever give up.', 'fr',
-     'N''abandonne pas. N''abandonne jamais.');
+     'N''abandonne pas. N''abandonne jamais.'),
+    ('Many people have gone further than they thought they could because someone else thought they could.', 'fr',
+     'Beaucoup de gens sont allés plus loin qu''ils ne le pensaient parce que quelqu''un d''autre croyait qu''ils en étaient capables.');
