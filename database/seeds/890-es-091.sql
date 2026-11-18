@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.', 'es',
      'Si no estás dispuesto a aprender, nadie puede ayudarte. Si estás decidido a aprender, nadie puede detenerte.'),
     ('In the long run, we shape our lives, and we shape ourselves.', 'es',
-     'A la larga, damos forma a nuestra vida y nos damos forma a nosotros mismos.');
+     'A la larga, damos forma a nuestra vida y nos damos forma a nosotros mismos.'),
+    ('Out of adversity comes opportunity.', 'es',
+     'De la adversidad nace la oportunidad.');
