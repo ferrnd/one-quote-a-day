@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A ship in harbor is safe, but that is not what ships are built for.', 'pt-BR',
      'Um navio no porto está seguro, mas não é para isso que os navios são feitos.'),
     ('The cave you fear to enter holds the treasure you seek.', 'pt-BR',
-     'A caverna em que você tem medo de entrar guarda o tesouro que você procura.');
+     'A caverna em que você tem medo de entrar guarda o tesouro que você procura.'),
+    ('Courage is contagious. When a brave man takes a stand, the spines of others are often stiffened.', 'pt-BR',
+     'A coragem é contagiosa. Quando um homem corajoso toma posição, os outros costumam endireitar a coluna.');
