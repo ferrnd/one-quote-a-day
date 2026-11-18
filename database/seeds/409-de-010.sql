@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The wound is the place where the Light enters you.', 'de',
      'Die Wunde ist der Ort, an dem das Licht in dich eintritt.'),
     ('When it is dark enough, you can see the stars.', 'de',
-     'Wenn es dunkel genug ist, kann man die Sterne sehen.');
+     'Wenn es dunkel genug ist, kann man die Sterne sehen.'),
+    ('Fire is the test of gold; adversity, of strong men.', 'de',
+     'Das Feuer prüft das Gold, das Unglück den starken Mann.');
