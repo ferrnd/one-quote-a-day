@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# local build output (docs/ and generated/ ARE committed)
+build/
+*.sqlite
+*.sqlite-journal
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+
+# editors and OS
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
