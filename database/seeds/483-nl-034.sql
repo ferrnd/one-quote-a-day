@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I raise up my voice, not so that I can shout, but so that those without a voice can be heard.', 'nl',
      'Ik verhef mijn stem niet om te schreeuwen, maar zodat zij die geen stem hebben gehoord kunnen worden.'),
     ('One child, one teacher, one book, one pen can change the world.', 'nl',
-     'Eén kind, één leraar, één boek en één pen kunnen de wereld veranderen.');
+     'Eén kind, één leraar, één boek en één pen kunnen de wereld veranderen.'),
+    ('When the whole world is silent, even one voice becomes powerful.', 'nl',
+     'Als de hele wereld zwijgt, wordt zelfs één stem krachtig.');
