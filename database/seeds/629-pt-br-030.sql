@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t be hesitant about who you are.', 'pt-BR',
      'Você não pode hesitar sobre quem você é.'),
     ('The most common way people give up their power is by thinking they don''t have any.', 'pt-BR',
-     'A forma mais comum de as pessoas abrirem mão do seu poder é achar que não têm nenhum.');
+     'A forma mais comum de as pessoas abrirem mão do seu poder é achar que não têm nenhum.'),
+    ('Think like a queen. A queen is not afraid to fail.', 'pt-BR',
+     'Pense como uma rainha. Uma rainha não tem medo de fracassar.');
