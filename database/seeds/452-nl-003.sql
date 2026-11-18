@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is resistance to fear, mastery of fear, not absence of fear.', 'nl',
      'Moed is weerstand tegen angst, beheersing van angst, niet de afwezigheid van angst.'),
     ('Life shrinks or expands in proportion to one''s courage.', 'nl',
-     'Het leven krimpt of groeit naar verhouding van iemands moed.');
+     'Het leven krimpt of groeit naar verhouding van iemands moed.'),
+    ('It takes courage to grow up and become who you really are.', 'nl',
+     'Er is moed voor nodig om op te groeien en te worden wie je werkelijk bent.');
