@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('We realize the importance of our voices only when we are silenced.', 'fr',
-     'Nous ne prenons conscience de l''importance de notre voix que lorsqu''on nous réduit au silence.');
+     'Nous ne prenons conscience de l''importance de notre voix que lorsqu''on nous réduit au silence.'),
+    ('Success is not how high you have climbed, but how you make a positive difference to the world.', 'fr',
+     'Le succès, ce n''est pas la hauteur à laquelle tu es monté, mais la façon dont tu changes positivement le monde.');
