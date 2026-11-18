@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.', 'de',
-     'Hüte deine Visionen und Träume, denn sie sind die Kinder deiner Seele, die Baupläne deiner größten Errungenschaften.');
+     'Hüte deine Visionen und Träume, denn sie sind die Kinder deiner Seele, die Baupläne deiner größten Errungenschaften.'),
+    ('The starting point of all achievement is desire.', 'de',
+     'Der Ausgangspunkt jeder Leistung ist das Verlangen.');
