@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'it',
      'Se non fallisci ogni tanto, è segno che non stai facendo nulla di molto innovativo.'),
     ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'it',
-     'Il fallimento capita sempre. Capita ogni giorno in allenamento. Ciò che ti rende migliore è come reagisci.');
+     'Il fallimento capita sempre. Capita ogni giorno in allenamento. Ciò che ti rende migliore è come reagisci.'),
+    ('There are no mistakes or failures, only lessons.', 'it',
+     'Non esistono errori o fallimenti, solo lezioni.');
