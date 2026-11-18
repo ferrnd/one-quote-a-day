@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'it',
      'La maggior parte delle persone si arrende proprio quando sta per avere successo. Mollano a un passo dal traguardo.'),
     ('If you are going to doubt something, doubt your limits.', 'it',
-     'Se devi dubitare di qualcosa, dubita dei tuoi limiti.');
+     'Se devi dubitare di qualcosa, dubita dei tuoi limiti.'),
+    ('There is no substitute for hard work.', 'it',
+     'Niente può sostituire il duro lavoro.');
