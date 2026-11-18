@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dwell on the beauty of life. Watch the stars, and see yourself running with them.', 'pt-BR',
      'Contemple a beleza da vida. Observe as estrelas e imagine-se correndo com elas.'),
     ('When you arise in the morning, think of what a precious privilege it is to be alive.', 'pt-BR',
-     'Ao acordar pela manhã, pense no privilégio precioso que é estar vivo.');
+     'Ao acordar pela manhã, pense no privilégio precioso que é estar vivo.'),
+    ('It is not that we have a short time to live, but that we waste a lot of it.', 'pt-BR',
+     'Não é que tenhamos pouco tempo de vida, mas sim que desperdiçamos muito dele.');
