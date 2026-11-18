@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One may walk over the highest mountain one step at a time.', 'de',
      'Man kann den höchsten Berg überqueren, Schritt für Schritt.'),
     ('Diamonds are nothing more than chunks of coal that stuck to their jobs.', 'de',
-     'Diamanten sind nichts anderes als Kohlestücke, die bei der Arbeit geblieben sind.');
+     'Diamanten sind nichts anderes als Kohlestücke, die bei der Arbeit geblieben sind.'),
+    ('Great things are not done by impulse, but by a series of small things brought together.', 'de',
+     'Große Dinge entstehen nicht aus einem Impuls, sondern durch eine Reihe kleiner Dinge, die zusammengefügt werden.');
