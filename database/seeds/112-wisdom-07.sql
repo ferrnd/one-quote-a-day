@@ -9,4 +9,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('While we wait for life, life passes.', 'Seneca', 'wisdom'),
     ('Wherever there is a human being, there is an opportunity for a kindness.', 'Seneca', 'wisdom'),
     ('He suffers more than necessary, who suffers before it is necessary.', 'Seneca', 'wisdom'),
-    ('Ignorance is the cause of fear.', 'Seneca', 'wisdom');
+    ('Ignorance is the cause of fear.', 'Seneca', 'wisdom'),
+    ('To live is the rarest thing in the world. Most people exist, that is all.', 'Oscar Wilde', 'wisdom');
