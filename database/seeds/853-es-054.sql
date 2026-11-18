@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Self-belief and hard work will always earn you success.', 'es',
      'Creer en uno mismo y trabajar duro siempre te llevarán al éxito.'),
     ('Too many of us are not living our dreams because we are living our fears.', 'es',
-     'Muchos de nosotros no vivimos nuestros sueños porque estamos viviendo nuestros miedos.');
+     'Muchos de nosotros no vivimos nuestros sueños porque estamos viviendo nuestros miedos.'),
+    ('Shoot for the moon. Even if you miss, you''ll land among the stars.', 'es',
+     'Apunta a la Luna. Aunque falles, aterrizarás entre las estrellas.');
