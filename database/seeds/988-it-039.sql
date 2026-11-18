@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no substitute for hard work.', 'it',
      'Niente può sostituire il duro lavoro.'),
     ('The difference between try and triumph is just a little umph!', 'it',
-     'La differenza tra provare e trionfare è solo un pizzico di grinta in più!');
+     'La differenza tra provare e trionfare è solo un pizzico di grinta in più!'),
+    ('Perseverance is failing nineteen times and succeeding the twentieth.', 'it',
+     'La perseveranza è fallire diciannove volte e riuscire alla ventesima.');
