@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s the possibility of having a dream come true that makes life interesting.', 'it',
      'È la possibilità di realizzare un sogno che rende la vita interessante.'),
     ('And, when you want something, all the universe conspires in helping you to achieve it.', 'it',
-     'E quando desideri qualcosa, tutto l''universo cospira affinché tu realizzi il tuo desiderio.');
+     'E quando desideri qualcosa, tutto l''universo cospira affinché tu realizzi il tuo desiderio.'),
+    ('Dream as if you''ll live forever. Live as if you''ll die today.', 'it',
+     'Sogna come se dovessi vivere per sempre. Vivi come se dovessi morire oggi.');
