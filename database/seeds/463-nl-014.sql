@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have power over your mind, not outside events. Realize this, and you will find strength.', 'nl',
      'Je hebt macht over je geest, niet over gebeurtenissen buiten je. Besef dat, en je zult kracht vinden.'),
     ('The impediment to action advances action. What stands in the way becomes the way.', 'nl',
-     'Het obstakel voor de daad brengt de daad vooruit. Wat in de weg staat, wordt de weg.');
+     'Het obstakel voor de daad brengt de daad vooruit. Wat in de weg staat, wordt de weg.'),
+    ('If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.', 'nl',
+     'Als iets van buitenaf je kwelt, komt de pijn niet van het ding zelf, maar van je oordeel erover; en dat oordeel kun je op elk moment intrekken.');
