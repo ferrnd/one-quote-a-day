@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.', 'de',
      'Du hast ein Gehirn im Kopf. Du hast Füße in den Schuhen. Du kannst in jede Richtung gehen, die du wählst.'),
     ('Unless someone like you cares a whole awful lot, nothing is going to get better. It''s not.', 'de',
-     'Wenn sich nicht jemand wie du ganz furchtbar viel Mühe gibt, wird nichts besser werden. Gar nichts.');
+     'Wenn sich nicht jemand wie du ganz furchtbar viel Mühe gibt, wird nichts besser werden. Gar nichts.'),
+    ('Tell me, what is it you plan to do with your one wild and precious life?', 'de',
+     'Sag mir, was hast du vor mit deinem einen wilden und kostbaren Leben?');
