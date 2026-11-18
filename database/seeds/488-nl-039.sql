@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it.', 'nl',
      'Ga door, en de kans is groot dat je op iets stuit, misschien wel wanneer je het het minst verwacht.'),
     ('Hard work without talent is a shame, but talent without hard work is a tragedy.', 'nl',
-     'Hard werken zonder talent is jammer, maar talent zonder hard werken is een tragedie.');
+     'Hard werken zonder talent is jammer, maar talent zonder hard werken is een tragedie.'),
+    ('It ain''t over till it''s over.', 'nl',
+     'Het is pas voorbij als het voorbij is.');
