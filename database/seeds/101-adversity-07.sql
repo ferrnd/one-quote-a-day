@@ -8,4 +8,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Pain and suffering are always inevitable for a large intelligence and a deep heart.', 'Fyodor Dostoevsky', 'adversity'),
     ('Long is the way and hard, that out of hell leads up to light.', 'John Milton', 'adversity'),
     ('Accept challenges so that you may feel the exhilaration of victory.', 'George S. Patton', 'adversity'),
-    ('When it is obvious that the goals cannot be reached, don''t adjust the goals, adjust the action steps.', 'Confucius', 'adversity');
+    ('When it is obvious that the goals cannot be reached, don''t adjust the goals, adjust the action steps.', 'Confucius', 'adversity'),
+    ('Victory is sweetest when you''ve known defeat.', 'Malcolm Forbes', 'adversity');
