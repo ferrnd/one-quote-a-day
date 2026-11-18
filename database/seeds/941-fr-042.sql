@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life is not about how fast you run or how high you climb, but how well you bounce.', 'fr',
      'La vie, ce n''est pas la vitesse à laquelle tu cours ou la hauteur à laquelle tu montes, mais la façon dont tu rebondis.'),
     ('No mud, no lotus.', 'fr',
-     'Pas de boue, pas de lotus.');
+     'Pas de boue, pas de lotus.'),
+    ('If you want to see the sunshine, you have to weather the storm.', 'fr',
+     'Si tu veux voir le soleil, tu dois affronter la tempête.');
