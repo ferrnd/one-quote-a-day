@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If a man knows not to which port he sails, no wind is favorable.', 'de',
      'Wer den Hafen nicht kennt, in den er segeln will, für den ist kein Wind günstig.'),
     ('Luck is what happens when preparation meets opportunity.', 'de',
-     'Glück ist, was passiert, wenn Vorbereitung auf Gelegenheit trifft.');
+     'Glück ist, was passiert, wenn Vorbereitung auf Gelegenheit trifft.'),
+    ('Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.', 'de',
+     'Gestern ist Geschichte, morgen ist ein Rätsel, heute ist ein Geschenk Gottes, und deshalb nennt man es Gegenwart.');
