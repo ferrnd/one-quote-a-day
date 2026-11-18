@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.', 'fr',
      'Accroche-toi aux rêves, car si les rêves meurent, la vie est un oiseau aux ailes brisées qui ne peut plus voler.'),
     ('Dreams are the touchstones of our characters.', 'fr',
-     'Les rêves sont la pierre de touche de notre caractère.');
+     'Les rêves sont la pierre de touche de notre caractère.'),
+    ('Don''t let anyone rob you of your imagination, your creativity, or your curiosity.', 'fr',
+     'Ne laisse personne te voler ton imagination, ta créativité ou ta curiosité.');
