@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Champions keep playing until they get it right.', 'nl',
      'Kampioenen blijven spelen tot ze het goed doen.'),
     ('I hated every minute of training, but I said, don''t quit. Suffer now and live the rest of your life as a champion.', 'nl',
-     'Ik haatte elke minuut van de training, maar ik zei: geef niet op. Lijd nu en leef de rest van je leven als kampioen.');
+     'Ik haatte elke minuut van de training, maar ik zei: geef niet op. Lijd nu en leef de rest van je leven als kampioen.'),
+    ('The fight is won or lost far away from witnesses, behind the lines, in the gym, and out there on the road, long before I dance under those lights.', 'nl',
+     'Het gevecht wordt gewonnen of verloren ver weg van getuigen, achter de schermen, in de sportschool en daarbuiten op de weg, lang voordat ik onder die lichten dans.');
