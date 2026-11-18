@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you want to improve, be content to be thought foolish and stupid.', 'nl',
      'Als je vooruit wilt, wees dan tevreden als men je dwaas en dom vindt.'),
     ('As long as you live, keep learning how to live.', 'nl',
-     'Zolang je leeft, blijf leren hoe je moet leven.');
+     'Zolang je leeft, blijf leren hoe je moet leven.'),
+    ('Sometimes even to live is an act of courage.', 'nl',
+     'Soms is zelfs leven een daad van moed.');
