@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.', 'de',
      'Du gewinnst Kraft, Mut und Zuversicht durch jede Erfahrung, bei der du innehältst und der Angst ins Gesicht siehst.'),
     ('Courage is resistance to fear, mastery of fear, not absence of fear.', 'de',
-     'Mut ist Widerstand gegen die Angst, Beherrschung der Angst, nicht die Abwesenheit von Angst.');
+     'Mut ist Widerstand gegen die Angst, Beherrschung der Angst, nicht die Abwesenheit von Angst.'),
+    ('Life shrinks or expands in proportion to one''s courage.', 'de',
+     'Das Leben schrumpft oder weitet sich im Verhältnis zum eigenen Mut.');
