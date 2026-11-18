@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are the one that possesses the keys to your being. You carry the passport to your own happiness.', 'nl',
      'Jij bent degene die de sleutels van je wezen bezit. Jij draagt het paspoort naar je eigen geluk.'),
     ('We are what we repeatedly do. Excellence, then, is not an act, but a habit.', 'nl',
-     'We zijn wat we herhaaldelijk doen. Uitmuntendheid is dus geen daad, maar een gewoonte.');
+     'We zijn wat we herhaaldelijk doen. Uitmuntendheid is dus geen daad, maar een gewoonte.'),
+    ('Discipline is the bridge between goals and accomplishment.', 'nl',
+     'Discipline is de brug tussen doelen en prestaties.');
