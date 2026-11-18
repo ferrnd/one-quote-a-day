@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without hard work, nothing grows but weeds.', 'nl',
      'Zonder hard werken groeit er niets dan onkruid.'),
     ('Success isn''t always about greatness. It''s about consistency.', 'nl',
-     'Succes gaat niet altijd om grootsheid. Het gaat om consistentie.');
+     'Succes gaat niet altijd om grootsheid. Het gaat om consistentie.'),
+    ('Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.', 'nl',
+     'Succes is geen toeval. Het is hard werken, doorzettingsvermogen, leren, studeren, opoffering en vooral liefde voor wat je doet.');
