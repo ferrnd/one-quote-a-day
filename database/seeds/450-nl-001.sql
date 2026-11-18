@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ambition is the path to success. Persistence is the vehicle you arrive in.', 'nl',
      'Ambitie is de weg naar succes. Volharding is het voertuig waarmee je aankomt.'),
     ('The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.', 'nl',
-     'Het verschil tussen een succesvol mens en anderen is geen gebrek aan kracht of kennis, maar een gebrek aan wil.');
+     'Het verschil tussen een succesvol mens en anderen is geen gebrek aan kracht of kennis, maar een gebrek aan wil.'),
+    ('Success is the sum of small efforts, repeated day in and day out.', 'nl',
+     'Succes is de som van kleine inspanningen, dag in dag uit herhaald.');
