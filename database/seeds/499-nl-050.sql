@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who learns but does not think, is lost. He who thinks but does not learn is in great danger.', 'nl',
      'Wie leert maar niet denkt, is verloren. Wie denkt maar niet leert, verkeert in groot gevaar.'),
     ('The best revenge is not to be like your enemy.', 'nl',
-     'De beste wraak is niet te zijn zoals je vijand.');
+     'De beste wraak is niet te zijn zoals je vijand.'),
+    ('Loss is nothing else but change, and change is Nature''s delight.', 'nl',
+     'Verlies is niets anders dan verandering, en verandering is de vreugde van de Natuur.');
