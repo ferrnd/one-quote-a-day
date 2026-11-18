@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is a conquering virtue.', 'fr',
      'La patience est une vertu conquérante.'),
     ('Everything comes to him who hustles while he waits.', 'fr',
-     'Tout vient à point à qui se démène en attendant.');
+     'Tout vient à point à qui se démène en attendant.'),
+    ('If I have made any valuable discoveries, it has been owing more to patient attention than to any other talent.', 'fr',
+     'Si j''ai fait quelque découverte de valeur, je la dois plus à une attention patiente qu''à tout autre talent.');
