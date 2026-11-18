@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is where preparation and opportunity meet.', 'nl',
      'Succes ligt daar waar voorbereiding en kans elkaar ontmoeten.'),
     ('Quality means doing it right when no one is looking.', 'nl',
-     'Kwaliteit is het goed doen als niemand kijkt.');
+     'Kwaliteit is het goed doen als niemand kijkt.'),
+    ('The last three or four reps is what makes the muscle grow.', 'nl',
+     'Het zijn de laatste drie of vier herhalingen die de spier laten groeien.');
