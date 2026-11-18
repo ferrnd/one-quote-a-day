@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life can only be understood backwards; but it must be lived forwards.', 'nl',
      'Het leven kan alleen achterwaarts worden begrepen, maar moet voorwaarts worden geleefd.'),
     ('Beginnings are always messy.', 'nl',
-     'Het begin is altijd rommelig.');
+     'Het begin is altijd rommelig.'),
+    ('Vision is the art of seeing what is invisible to others.', 'nl',
+     'Visie is de kunst om te zien wat voor anderen onzichtbaar is.');
