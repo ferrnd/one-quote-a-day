@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Believe you can and you''re halfway there.', 'nl',
      'Geloof dat je het kunt, en je bent al halverwege.'),
     ('Our life is what our thoughts make it.', 'nl',
-     'Ons leven is wat onze gedachten ervan maken.');
+     'Ons leven is wat onze gedachten ervan maken.'),
+    ('The happiness of your life depends upon the quality of your thoughts.', 'nl',
+     'Het geluk van je leven hangt af van de kwaliteit van je gedachten.');
