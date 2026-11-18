@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Gold medals aren''t really made of gold. They''re made of sweat, determination, and a hard-to-find alloy called guts.', 'nl',
      'Gouden medailles zijn niet echt van goud. Ze zijn gemaakt van zweet, vastberadenheid en een zeldzame legering die lef heet.'),
     ('Age is no barrier. It''s a limitation you put on your mind.', 'nl',
-     'Leeftijd is geen barrière. Het is een beperking die je je eigen geest oplegt.');
+     'Leeftijd is geen barrière. Het is een beperking die je je eigen geest oplegt.'),
+    ('The difference between ordinary and extraordinary is that little extra.', 'nl',
+     'Het verschil tussen gewoon en buitengewoon is dat kleine beetje extra.');
