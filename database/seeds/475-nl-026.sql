@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If opportunity doesn''t knock, build a door.', 'nl',
      'Als de kans niet aanklopt, bouw dan een deur.'),
     ('The only impossible journey is the one you never begin.', 'nl',
-     'De enige onmogelijke reis is die je nooit begint.');
+     'De enige onmogelijke reis is die je nooit begint.'),
+    ('It is in your moments of decision that your destiny is shaped.', 'nl',
+     'Juist in je momenten van beslissing wordt je lot gevormd.');
