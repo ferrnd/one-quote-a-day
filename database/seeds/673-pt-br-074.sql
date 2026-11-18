@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be not afraid.', 'pt-BR',
      'Não tenham medo.'),
     ('I am not afraid of tomorrow, for I have seen yesterday and I love today.', 'pt-BR',
-     'Não tenho medo do amanhã, porque já vi o ontem e amo o hoje.');
+     'Não tenho medo do amanhã, porque já vi o ontem e amo o hoje.'),
+    ('Every day is a new day.', 'pt-BR',
+     'Todo dia é um novo dia.');
