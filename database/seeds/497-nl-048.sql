@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only time can heal what reason cannot.', 'nl',
      'Alleen de tijd kan helen wat de rede niet kan.'),
     ('Determination gives you the resolve to keep going in spite of the roadblocks that lay before you.', 'nl',
-     'Vastberadenheid geeft je de wilskracht om door te gaan ondanks de obstakels die op je pad liggen.');
+     'Vastberadenheid geeft je de wilskracht om door te gaan ondanks de obstakels die op je pad liggen.'),
+    ('They can conquer who believe they can.', 'nl',
+     'Zij kunnen overwinnen die geloven dat ze het kunnen.');
