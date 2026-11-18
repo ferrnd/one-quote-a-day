@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Habit is either the best of servants or the worst of masters.', 'nl',
      'Een gewoonte is de beste dienaar of de slechtste meester.'),
     ('First we make our habits, then our habits make us.', 'nl',
-     'Eerst maken wij onze gewoonten, daarna maken onze gewoonten ons.');
+     'Eerst maken wij onze gewoonten, daarna maken onze gewoonten ons.'),
+    ('It is the start that stops most people.', 'nl',
+     'Het is het begin dat de meeste mensen tegenhoudt.');
