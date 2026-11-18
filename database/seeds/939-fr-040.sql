@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'fr',
      'Le courage, c''est faire ce dont on a peur. Il ne peut y avoir de courage sans peur.'),
     ('Fortune and love favor the brave.', 'fr',
-     'La fortune et l''amour sourient aux audacieux.');
+     'La fortune et l''amour sourient aux audacieux.'),
+    ('Expose yourself to your deepest fear; after that, fear has no power.', 'fr',
+     'Expose-toi à ta peur la plus profonde ; après cela, la peur n''a plus de pouvoir.');
