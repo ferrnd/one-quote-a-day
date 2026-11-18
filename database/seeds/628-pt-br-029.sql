@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Stand up straight and realize who you are, that you tower over your circumstances.', 'pt-BR',
      'Fique de pé, de cabeça erguida, e perceba quem você é: alguém maior do que as suas circunstâncias.'),
     ('Never bend your head. Always hold it high. Look the world straight in the eye.', 'pt-BR',
-     'Nunca abaixe a cabeça. Mantenha-a sempre erguida. Olhe o mundo nos olhos.');
+     'Nunca abaixe a cabeça. Mantenha-a sempre erguida. Olhe o mundo nos olhos.'),
+    ('There is nothing stronger in the world than gentleness.', 'pt-BR',
+     'Não há nada mais forte no mundo do que a delicadeza.');
