@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every strike brings me closer to the next home run.', 'pt-BR',
      'Cada erro me deixa mais perto da próxima rebatida certeira.'),
     ('You just can''t beat the person who never gives up.', 'pt-BR',
-     'Simplesmente não dá para vencer quem nunca desiste.');
+     'Simplesmente não dá para vencer quem nunca desiste.'),
+    ('Don''t watch the clock; do what it does. Keep going.', 'pt-BR',
+     'Não fique olhando o relógio; faça o que ele faz. Continue andando.');
