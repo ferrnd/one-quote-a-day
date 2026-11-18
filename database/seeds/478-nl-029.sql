@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nature does not hurry, yet everything is accomplished.', 'nl',
      'De natuur haast zich niet, en toch wordt alles volbracht.'),
     ('Trees that are slow to grow bear the best fruit.', 'nl',
-     'Bomen die langzaam groeien, dragen de beste vruchten.');
+     'Bomen die langzaam groeien, dragen de beste vruchten.'),
+    ('Genius is eternal patience.', 'nl',
+     'Genialiteit is eeuwig geduld.');
