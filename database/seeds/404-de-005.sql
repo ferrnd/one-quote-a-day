@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Security is mostly a superstition. Life is either a daring adventure or nothing.', 'de',
      'Sicherheit ist meist ein Aberglaube. Das Leben ist entweder ein kühnes Abenteuer oder gar nichts.'),
     ('What would life be if we had no courage to attempt anything?', 'de',
-     'Was wäre das Leben, wenn wir nicht den Mut hätten, etwas zu wagen?');
+     'Was wäre das Leben, wenn wir nicht den Mut hätten, etwas zu wagen?'),
+    ('Far better is it to dare mighty things, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy much nor suffer much.', 'de',
+     'Es ist weit besser, Großes zu wagen und glorreiche Triumphe zu erringen, auch wenn sie von Niederlagen durchsetzt sind, als zu jenen armen Seelen zu gehören, die weder viel genießen noch viel leiden.');
