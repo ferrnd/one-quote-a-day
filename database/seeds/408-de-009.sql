@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The world breaks everyone and afterward many are strong at the broken places.', 'de',
      'Die Welt zerbricht jeden, und hinterher sind viele an den gebrochenen Stellen stark.'),
     ('What does not kill me makes me stronger.', 'de',
-     'Was mich nicht umbringt, macht mich stärker.');
+     'Was mich nicht umbringt, macht mich stärker.'),
+    ('He who has a why to live can bear almost any how.', 'de',
+     'Wer ein Warum zum Leben hat, erträgt fast jedes Wie.');
