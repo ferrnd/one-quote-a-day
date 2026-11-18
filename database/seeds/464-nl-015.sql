@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our strength grows out of our weaknesses.', 'nl',
      'Onze kracht groeit uit onze zwaktes.'),
     ('Fortitude is the guard and support of the other virtues.', 'nl',
-     'Standvastigheid is de wacht en de steun van de andere deugden.');
+     'Standvastigheid is de wacht en de steun van de andere deugden.'),
+    ('I am no bird; and no net ensnares me: I am a free human being with an independent will.', 'nl',
+     'Ik ben geen vogel, en geen net vangt mij: ik ben een vrij mens met een onafhankelijke wil.');
