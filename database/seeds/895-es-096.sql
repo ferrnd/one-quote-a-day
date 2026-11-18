@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('If I have made any valuable discoveries, it has been owing more to patient attention than to any other talent.', 'es',
-     'Si he hecho algún descubrimiento valioso, se lo debo más a la atención paciente que a cualquier otro talento.');
+     'Si he hecho algún descubrimiento valioso, se lo debo más a la atención paciente que a cualquier otro talento.'),
+    ('Patience is necessary, and one cannot reap immediately where one has sown.', 'es',
+     'La paciencia es necesaria, y no se cosecha de inmediato donde se ha sembrado.');
