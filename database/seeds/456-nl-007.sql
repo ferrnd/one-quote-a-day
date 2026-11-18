@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.', 'nl',
      'Onze grootste zwakte is opgeven. De zekerste manier om te slagen is altijd nog één keer te proberen.'),
     ('Good people are good because they''ve come to wisdom through failure.', 'nl',
-     'Goede mensen zijn goed omdat ze via falen tot wijsheid zijn gekomen.');
+     'Goede mensen zijn goed omdat ze via falen tot wijsheid zijn gekomen.'),
+    ('The greatest mistake you can make in life is to be continually fearing you will make one.', 'nl',
+     'De grootste fout die je in het leven kunt maken, is voortdurend bang zijn dat je er een maakt.');
