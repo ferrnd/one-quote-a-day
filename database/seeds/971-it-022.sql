@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no education like adversity.', 'it',
      'Non c''è scuola come l''avversità.'),
     ('Those things that hurt, instruct.', 'it',
-     'Ciò che fa male insegna.');
+     'Ciò che fa male insegna.'),
+    ('Adversity is like a strong wind. It tears away from us all but the things that cannot be torn, so that we see ourselves as we really are.', 'it',
+     'L''avversità è come un vento forte. Ci strappa via tutto tranne ciò che non può essere strappato, così che ci vediamo come siamo davvero.');
