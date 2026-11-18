@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Though she be but little, she is fierce.', 'nl',
      'Ook al is ze klein, ze is fel.'),
     ('You cannot run away from a weakness; you must some time fight it out or perish.', 'nl',
-     'Je kunt niet wegvluchten voor een zwakte; je moet haar ooit uitvechten of ten onder gaan.');
+     'Je kunt niet wegvluchten voor een zwakte; je moet haar ooit uitvechten of ten onder gaan.'),
+    ('Do not go gentle into that good night. Rage, rage against the dying of the light.', 'nl',
+     'Ga niet gedwee die goede nacht in. Woed, woed tegen het sterven van het licht.');
