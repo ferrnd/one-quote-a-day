@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('The unexamined life is not worth living.', 'de',
-     'Ein ungeprüftes Leben ist nicht lebenswert.');
+     'Ein ungeprüftes Leben ist nicht lebenswert.'),
+    ('The only true wisdom is in knowing you know nothing.', 'de',
+     'Ich weiß, dass ich nichts weiß.');
