@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The more difficult the victory, the greater the happiness in winning.', 'it',
      'Più difficile è la vittoria, più grande è la gioia di vincere.'),
     ('Gold medals aren''t really made of gold. They''re made of sweat, determination, and a hard-to-find alloy called guts.', 'it',
-     'Le medaglie d''oro non sono fatte d''oro. Sono fatte di sudore, determinazione e una lega rara chiamata fegato.');
+     'Le medaglie d''oro non sono fatte d''oro. Sono fatte di sudore, determinazione e una lega rara chiamata fegato.'),
+    ('Age is no barrier. It''s a limitation you put on your mind.', 'it',
+     'L''età non è un ostacolo. È un limite che imponi alla tua mente.');
