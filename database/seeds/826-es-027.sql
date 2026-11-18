@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The impediment to action advances action. What stands in the way becomes the way.', 'es',
      'El impedimento a la acción hace avanzar la acción. Lo que se interpone en el camino se convierte en el camino.'),
     ('If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.', 'es',
-     'Si algo externo te angustia, el dolor no se debe a la cosa en sí, sino a tu valoración de ella; y eso tienes el poder de cambiarlo en cualquier momento.');
+     'Si algo externo te angustia, el dolor no se debe a la cosa en sí, sino a tu valoración de ella; y eso tienes el poder de cambiarlo en cualquier momento.'),
+    ('Waste no more time arguing about what a good man should be. Be one.', 'es',
+     'No pierdas más tiempo discutiendo cómo debe ser un hombre bueno. Sé uno.');
