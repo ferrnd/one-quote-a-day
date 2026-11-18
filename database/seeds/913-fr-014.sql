@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Mastering others is strength. Mastering yourself is true power.', 'fr',
      'Maîtriser les autres est une force. Se maîtriser soi-même est le vrai pouvoir.'),
     ('Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who conquers himself.', 'fr',
-     'Même si l''on vainc mille fois mille hommes au combat, le plus noble vainqueur est celui qui se vainc lui-même.');
+     'Même si l''on vainc mille fois mille hommes au combat, le plus noble vainqueur est celui qui se vainc lui-même.'),
+    ('Strength lies in differences, not in similarities.', 'fr',
+     'La force réside dans les différences, non dans les ressemblances.');
