@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You may encounter many defeats, but you must not be defeated.', 'it',
      'Potrai incontrare molte sconfitte, ma non devi lasciarti sconfiggere.'),
     ('Still, like air, I''ll rise.', 'it',
-     'Eppure, come l''aria, io mi sollevo.');
+     'Eppure, come l''aria, io mi sollevo.'),
+    ('She stood in the storm, and when the wind did not blow her way, she adjusted her sails.', 'it',
+     'Rimase in piedi nella tempesta e, quando il vento non soffiò a suo favore, regolò le vele.');
