@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep your eyes on the stars, and your feet on the ground.', 'fr',
      'Garde les yeux sur les étoiles et les pieds sur terre.'),
     ('Hope is a waking dream.', 'fr',
-     'L''espoir est un rêve éveillé.');
+     'L''espoir est un rêve éveillé.'),
+    ('While there''s life, there''s hope.', 'fr',
+     'Tant qu''il y a de la vie, il y a de l''espoir.');
