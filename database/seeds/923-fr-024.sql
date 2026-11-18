@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Done is better than perfect.', 'fr',
      'Mieux vaut fait que parfait.'),
     ('Small deeds done are better than great deeds planned.', 'fr',
-     'Les petites actions accomplies valent mieux que les grandes actions projetées.');
+     'Les petites actions accomplies valent mieux que les grandes actions projetées.'),
+    ('You miss 100% of the shots you don''t take.', 'fr',
+     'Tu rates 100 % des tirs que tu ne tentes pas.');
