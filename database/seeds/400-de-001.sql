@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fall seven times, stand up eight.', 'de',
      'Fall siebenmal hin, steh achtmal auf.'),
     ('Our greatest glory is not in never falling, but in rising every time we fall.', 'de',
-     'Unser größter Ruhm liegt nicht darin, niemals zu fallen, sondern jedes Mal wieder aufzustehen, wenn wir fallen.');
+     'Unser größter Ruhm liegt nicht darin, niemals zu fallen, sondern jedes Mal wieder aufzustehen, wenn wir fallen.'),
+    ('Energy and persistence conquer all things.', 'de',
+     'Energie und Beharrlichkeit überwinden alles.');
