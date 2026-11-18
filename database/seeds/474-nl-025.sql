@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Begin, be bold, and venture to be wise.', 'nl',
      'Begin, wees moedig en waag het wijs te zijn.'),
     ('Dream big and dare to fail.', 'nl',
-     'Droom groot en durf te falen.');
+     'Droom groot en durf te falen.'),
+    ('Never mistake motion for action.', 'nl',
+     'Verwar beweging nooit met actie.');
