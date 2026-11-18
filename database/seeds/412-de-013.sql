@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day.', 'de',
      'Halt deinen Hut fest. Halt deine Hoffnung fest. Und zieh die Uhr auf, denn morgen ist ein neuer Tag.'),
     ('There are far, far better things ahead than any we leave behind.', 'de',
-     'Vor uns liegen weit, weit bessere Dinge als alle, die wir hinter uns lassen.');
+     'Vor uns liegen weit, weit bessere Dinge als alle, die wir hinter uns lassen.'),
+    ('In spite of everything I still believe that people are really good at heart.', 'de',
+     'Trotz allem glaube ich noch immer, dass die Menschen im Grunde ihres Herzens gut sind.');
