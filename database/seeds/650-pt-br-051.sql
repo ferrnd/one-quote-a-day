@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('If opportunity doesn''t knock, build a door.', 'pt-BR',
-     'Se a oportunidade não bater, construa uma porta.');
+     'Se a oportunidade não bater, construa uma porta.'),
+    ('The only impossible journey is the one you never begin.', 'pt-BR',
+     'A única jornada impossível é aquela que você nunca começa.');
