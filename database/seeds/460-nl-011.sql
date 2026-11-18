@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is being able to see that there is light despite all of the darkness.', 'nl',
      'Hoop is kunnen zien dat er licht is ondanks alle duisternis.'),
     ('We must accept finite disappointment, but never lose infinite hope.', 'nl',
-     'We moeten eindige teleurstelling aanvaarden, maar nooit de oneindige hoop verliezen.');
+     'We moeten eindige teleurstelling aanvaarden, maar nooit de oneindige hoop verliezen.'),
+    ('Only in the darkness can you see the stars.', 'nl',
+     'Alleen in het donker kun je de sterren zien.');
