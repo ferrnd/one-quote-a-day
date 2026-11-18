@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a waking dream.', 'de',
      'Hoffnung ist ein Wachtraum.'),
     ('While there''s life, there''s hope.', 'de',
-     'Solange man lebt, gibt es Hoffnung.');
+     'Solange man lebt, gibt es Hoffnung.'),
+    ('There is some good in this world, and it''s worth fighting for.', 'de',
+     'Es gibt etwas Gutes in dieser Welt, und es lohnt sich, dafür zu kämpfen.');
