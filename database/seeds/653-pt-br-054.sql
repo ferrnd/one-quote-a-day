@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Happiness is not something ready made. It comes from your own actions.', 'pt-BR',
      'A felicidade não é algo pronto. Ela vem das suas próprias ações.'),
     ('Self-belief and hard work will always earn you success.', 'pt-BR',
-     'Acreditar em si mesmo e trabalhar duro sempre levam ao sucesso.');
+     'Acreditar em si mesmo e trabalhar duro sempre levam ao sucesso.'),
+    ('Too many of us are not living our dreams because we are living our fears.', 'pt-BR',
+     'Muitos de nós não estão vivendo seus sonhos porque estão vivendo seus medos.');
