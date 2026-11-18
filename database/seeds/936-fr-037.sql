@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you want to go fast, go alone. If you want to go far, go together.', 'fr',
      'Seul, on va plus vite ; ensemble, on va plus loin.'),
     ('Be not afraid.', 'fr',
-     'N''ayez pas peur.');
+     'N''ayez pas peur.'),
+    ('I am not afraid of tomorrow, for I have seen yesterday and I love today.', 'fr',
+     'Je n''ai pas peur de demain, car j''ai vu hier et j''aime aujourd''hui.');
