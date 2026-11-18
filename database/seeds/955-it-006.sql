@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rock bottom became the solid foundation on which I rebuilt my life.', 'it',
      'Toccare il fondo è diventato la base solida su cui ho ricostruito la mia vita.'),
     ('Do not judge me by my success, judge me by how many times I fell down and got back up again.', 'it',
-     'Non giudicatemi dai miei successi, giudicatemi da quante volte sono caduto e mi sono rialzato.');
+     'Non giudicatemi dai miei successi, giudicatemi da quante volte sono caduto e mi sono rialzato.'),
+    ('Failure should be our teacher, not our undertaker.', 'it',
+     'Il fallimento dovrebbe essere il nostro maestro, non il nostro becchino.');
