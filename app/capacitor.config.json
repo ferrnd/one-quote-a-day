@@ -1,0 +1,14 @@
+{
+  "appId": "com.ferrnd.quotes",
+  "appName": "Quotes",
+  "webDir": "../docs",
+  "android": {
+    "backgroundColor": "#ffffff"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_quote",
+      "iconColor": "#000000"
+    }
+  }
+}
