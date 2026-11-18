@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We can''t help everyone, but everyone can help someone.', 'es',
      'No podemos ayudar a todos, pero todos podemos ayudar a alguien.'),
     ('Each person must live their life as a model for others.', 'es',
-     'Cada persona debe vivir su vida como un ejemplo para los demás.');
+     'Cada persona debe vivir su vida como un ejemplo para los demás.'),
+    ('If you don''t like the road you''re walking, start paving another one.', 'es',
+     'Si no te gusta el camino que estás recorriendo, empieza a pavimentar otro.');
