@@ -4,6 +4,16 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [1.5.0] - 2026-11-17
+
+### Changed
+
+- The gear now sits just left of the day counter and glides along as the
+  counter grows into the countdown on hover; with the counter hidden it takes
+  the corner.
+- Share buttons carry app logos (Simple Icons, CC0); the image download moved
+  from the page into the Share tab as "Save image".
+
 ## [1.4.0] - 2026-11-17
 
 ### Added
