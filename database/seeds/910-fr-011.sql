@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('While there''s life, there''s hope.', 'fr',
      'Tant qu''il y a de la vie, il y a de l''espoir.'),
     ('There is some good in this world, and it''s worth fighting for.', 'fr',
-     'Il y a du bon en ce monde, et cela vaut la peine de se battre pour lui.');
+     'Il y a du bon en ce monde, et cela vaut la peine de se battre pour lui.'),
+    ('Hope is a good thing, maybe the best of things, and no good thing ever dies.', 'fr',
+     'L''espoir est une bonne chose, peut-être la meilleure de toutes, et une bonne chose ne meurt jamais.');
