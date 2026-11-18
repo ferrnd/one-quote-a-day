@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Go confidently in the direction of your dreams. Live the life you have imagined.', 'es',
      'Avanza con confianza en la dirección de tus sueños. Vive la vida que has imaginado.'),
     ('If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.', 'es',
-     'Si has construido castillos en el aire, tu trabajo no está perdido; ahí es donde deben estar. Ahora ponles los cimientos.');
+     'Si has construido castillos en el aire, tu trabajo no está perdido; ahí es donde deben estar. Ahora ponles los cimientos.'),
+    ('Ideas are easy. Implementation is hard.', 'es',
+     'Las ideas son fáciles. Lo difícil es llevarlas a cabo.');
