@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Aim for the moon. If you miss, you may hit a star.', 'it',
      'Punta alla Luna. Se la manchi, potresti colpire una stella.'),
     ('Nothing happens unless first we dream.', 'it',
-     'Nulla accade se prima non lo sogniamo.');
+     'Nulla accade se prima non lo sogniamo.'),
+    ('Those who dream by day are cognizant of many things which escape those who dream only by night.', 'it',
+     'Chi sogna di giorno conosce molte cose che sfuggono a chi sogna solo di notte.');
