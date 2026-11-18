@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not afraid of tomorrow, for I have seen yesterday and I love today.', 'nl',
      'Ik ben niet bang voor morgen, want ik heb gisteren gezien en ik houd van vandaag.'),
     ('Every day is a new day.', 'nl',
-     'Elke dag is een nieuwe dag.');
+     'Elke dag is een nieuwe dag.'),
+    ('The only journey is the one within.', 'nl',
+     'De enige reis is de reis naar binnen.');
