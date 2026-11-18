@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is often in the darkest skies that we see the brightest stars.', 'nl',
      'Vaak zien we juist in de donkerste luchten de helderste sterren.'),
     ('Strength and growth come only through continuous effort and struggle.', 'nl',
-     'Kracht en groei komen alleen door voortdurende inspanning en strijd.');
+     'Kracht en groei komen alleen door voortdurende inspanning en strijd.'),
+    ('Out of your vulnerabilities will come your strength.', 'nl',
+     'Uit je kwetsbaarheden zal je kracht voortkomen.');
