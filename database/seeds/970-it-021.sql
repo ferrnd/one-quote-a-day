@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Start where you are. Use what you have. Do what you can.', 'it',
      'Comincia da dove sei. Usa ciò che hai. Fai ciò che puoi.'),
     ('We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.', 'it',
-     'Ammiriamo la bellezza della farfalla, ma raramente riconosciamo i cambiamenti che ha attraversato per raggiungere quella bellezza.');
+     'Ammiriamo la bellezza della farfalla, ma raramente riconosciamo i cambiamenti che ha attraversato per raggiungere quella bellezza.'),
+    ('It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.', 'it',
+     'Non è la specie più forte a sopravvivere, né la più intelligente, ma quella più capace di adattarsi al cambiamento.');
