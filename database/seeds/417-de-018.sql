@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('First we make our habits, then our habits make us.', 'de',
      'Zuerst formen wir unsere Gewohnheiten, dann formen unsere Gewohnheiten uns.'),
     ('It is the start that stops most people.', 'de',
-     'Es ist der Anfang, der die meisten Menschen aufhält.');
+     'Es ist der Anfang, der die meisten Menschen aufhält.'),
+    ('Practice isn''t the thing you do once you''re good. It''s the thing you do that makes you good.', 'de',
+     'Üben ist nicht das, was du tust, wenn du gut bist. Es ist das, was dich gut macht.');
