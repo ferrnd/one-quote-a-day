@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('My scars remind me that I did indeed survive my deepest wounds.', 'nl',
      'Mijn littekens herinneren me eraan dat ik mijn diepste wonden echt heb overleefd.'),
     ('Strength does not come from physical capacity. It comes from an indomitable will.', 'nl',
-     'Kracht komt niet uit fysiek vermogen. Ze komt uit een ontembare wil.');
+     'Kracht komt niet uit fysiek vermogen. Ze komt uit een ontembare wil.'),
+    ('The world breaks everyone and afterward many are strong at the broken places.', 'nl',
+     'De wereld breekt iedereen, en daarna zijn velen sterk op de gebroken plekken.');
