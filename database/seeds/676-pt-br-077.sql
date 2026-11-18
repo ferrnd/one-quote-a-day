@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it.', 'pt-BR',
      'Continue em frente, e é provável que você tropece em algo, talvez quando menos espera.'),
     ('Hard work without talent is a shame, but talent without hard work is a tragedy.', 'pt-BR',
-     'Trabalho duro sem talento é uma pena, mas talento sem trabalho duro é uma tragédia.');
+     'Trabalho duro sem talento é uma pena, mas talento sem trabalho duro é uma tragédia.'),
+    ('It ain''t over till it''s over.', 'pt-BR',
+     'Não acaba até que acabe.');
