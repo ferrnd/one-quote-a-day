@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Self-belief and hard work will always earn you success.', 'it',
      'La fiducia in sé e il duro lavoro ti porteranno sempre al successo.'),
     ('Too many of us are not living our dreams because we are living our fears.', 'it',
-     'Troppi di noi non vivono i propri sogni perché vivono le proprie paure.');
+     'Troppi di noi non vivono i propri sogni perché vivono le proprie paure.'),
+    ('Shoot for the moon. Even if you miss, you''ll land among the stars.', 'it',
+     'Punta alla Luna. Anche se la manchi, atterrerai tra le stelle.');
