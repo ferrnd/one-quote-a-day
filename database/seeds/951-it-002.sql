@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: it is this that in all things distinguishes the strong soul from the weak.', 'it',
      'Costanza, perseveranza e tenacia nonostante tutti gli ostacoli, gli scoraggiamenti e le impossibilità: è questo che, in ogni cosa, distingue l''anima forte da quella debole.'),
     ('Never give up, for that is just the place and time that the tide will turn.', 'it',
-     'Non arrenderti mai, perché è proprio quello il luogo e il momento in cui la marea cambierà.');
+     'Non arrenderti mai, perché è proprio quello il luogo e il momento in cui la marea cambierà.'),
+    ('Persistence can change failure into extraordinary achievement.', 'it',
+     'La perseveranza può trasformare il fallimento in un risultato straordinario.');
