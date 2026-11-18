@@ -5,13 +5,19 @@
  * WebAssembly cannot: read the local clock, touch the DOM, and set timers.
  * Choosing the quote, and storing every quote, happens inside the module.
  *
- * Append ?date=YYYY-MM-DD to the URL to preview another day.
+ * Append ?date=YYYY-MM-DD to the URL to preview another day, and
+ * ?theme=day|night to force a theme.
+ *
+ * Keys: <- and -> walk through the days that have already happened.
+ * Click the quote to copy it.
  */
 
-import { dateKey, localDateParts, msUntilNextLocalMidnight, parseDateKey } from "./clock.js?v=445a2090e8b8";
+import {
+  dateKey, formatCountdown, isNight, localDateParts, msUntilNextLocalMidnight,
+  msUntilNextThemeChange, parseDateKey,
+} from "./clock.js?v=4c68bface613";
 
 const WASM_URL = new URL("quotes.wasm?v=0ecf06eeb1a5", import.meta.url);
-const FADE_MS = 900;
 const WATCHDOG_MS = 60_000;
 const FALLBACK = { text: "Fall seven times, stand up eight.", author: "Japanese Proverb" };
 
@@ -19,6 +25,9 @@ const figure = /** @type {HTMLElement} */ (document.getElementById("quote"));
 const textEl = /** @type {HTMLElement} */ (document.getElementById("quote-text"));
 const authorEl = /** @type {HTMLElement} */ (document.getElementById("quote-author"));
 const counterEl = /** @type {HTMLButtonElement} */ (document.getElementById("day-counter"));
+const counterLabel = /** @type {HTMLElement} */ (document.getElementById("day-label"));
+const counterNext = /** @type {HTMLElement} */ (document.getElementById("day-next"));
+const toastEl = /** @type {HTMLElement} */ (document.getElementById("toast"));
 const archiveEl = /** @type {HTMLDialogElement} */ (document.getElementById("archive"));
 const archiveList = /** @type {HTMLOListElement} */ (document.getElementById("archive-list"));
 const decoder = new TextDecoder("utf-8", { fatal: true });
@@ -88,12 +97,32 @@ class QuoteEngine {
 
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-/** @param {QuoteEngine} engine @param {{year: number, month: number, day: number}} today */
-function updateCounter(engine, today) {
-  const n = engine.dayNumber(today);
-  counterEl.hidden = n < 1;
-  counterEl.textContent = `Day ${n}`;
-  counterEl.dataset.today = JSON.stringify(today);
+/*
+ * View state. Days are counted as days since 1970-01-01 (the module's unit).
+ * `today` is the real (or pinned) date; `view` is what is on screen, which
+ * the arrow keys can move back through past days.
+ */
+const state = {
+  /** @type {QuoteEngine | null} */ engine: null,
+  launch: 0,
+  today: 0,
+  view: 0,
+};
+
+/** @param {{year: number, month: number, day: number}} parts */
+function toDay({ year, month, day }) {
+  return state.engine.x.days_from_civil(year, month, day);
+}
+
+/** @param {number} z */
+function entryFor(z) {
+  return state.engine.quote(state.engine.x.entry_for_day(z));
+}
+
+function renderCounter() {
+  counterEl.hidden = state.today - state.launch + 1 < 1;
+  counterLabel.textContent = `Day ${state.view - state.launch + 1}`;
+  counterEl.dataset.today = JSON.stringify(state.engine.partsFromDays(state.today));
 }
 
 /*
@@ -201,40 +230,189 @@ function wireArchive(engine) {
   });
 }
 
-let rendered = false;
-let swapTimer = 0;
+/* ---------------------------------------------------------- rendering -- */
+
+const reducedMotion = () => matchMedia("(prefers-reduced-motion: reduce)").matches;
 
 /** @param {{text: string, author: string}} quote */
-function show(quote) {
-  const apply = () => {
-    textEl.textContent = quote.text;
-    authorEl.textContent = quote.author;
-    figure.setAttribute("aria-busy", "false");
-    requestAnimationFrame(() => { figure.dataset.state = "ready"; });
-  };
-  clearTimeout(swapTimer);
-  if (!rendered || matchMedia("(prefers-reduced-motion: reduce)").matches) {
-    rendered = true;
-    apply();
-    return;
-  }
-  figure.dataset.state = "leaving";
-  swapTimer = setTimeout(apply, FADE_MS);
+function paint(quote) {
+  textEl.textContent = quote.text;
+  authorEl.textContent = quote.author;
+  figure.setAttribute("aria-busy", "false");
 }
 
-/** @param {QuoteEngine} engine */
-function startClock(engine) {
+/** First paint: a gentle fade in. @param {{text: string, author: string}} quote */
+function reveal(quote) {
+  paint(quote);
+  // next task, not next frame: a throttled tab may never deliver a frame
+  setTimeout(() => { figure.dataset.state = "ready"; }, 30);
+}
+
+/** @type {KeyframeAnimationOptions} */
+const OUT = { duration: 520, easing: "cubic-bezier(0.55, 0, 0.8, 0.25)", fill: "forwards" };
+/** @type {KeyframeAnimationOptions} */
+const IN = { duration: 680, easing: "cubic-bezier(0.15, 0.75, 0.25, 1)", fill: "forwards" };
+const OFFSCREEN = {
+  // [where the old quote leaves to, where the new one comes from]
+  down: ["translateY(100vh)", "translateY(-100vh)"],
+  left: ["translateX(-100vw)", "translateX(100vw)"],
+  right: ["translateX(100vw)", "translateX(-100vw)"],
+};
+
+/**
+ * Scroll the quote off screen and the next one in, like turning a page.
+ * @param {() => void} swap @param {"down" | "left" | "right"} direction
+ */
+async function slide(swap, direction) {
+  // A hidden tab does not paint, so there is nothing to animate.
+  if (reducedMotion() || document.hidden) { swap(); return; }
+  const [exit, enter] = OFFSCREEN[direction];
+  const leaving = figure.animate([{ transform: "none" }, { transform: exit }], OUT);
+  await settle(leaving, OUT.duration);
+  swap();
+  const arriving = figure.animate([{ transform: enter }, { transform: "none" }], IN);
+  leaving.cancel();
+  await settle(arriving, IN.duration);
+  arriving.cancel();
+}
+
+/**
+ * Wait for an animation, but never longer than it should take: if the
+ * document timeline stalls (throttled or occluded window), finish it by hand
+ * so navigation can never get stuck.
+ * @param {Animation} animation @param {number} duration
+ */
+function settle(animation, duration) {
+  return Promise.race([
+    animation.finished,
+    new Promise((resolve) => setTimeout(() => { animation.finish(); resolve(undefined); }, duration + 150)),
+  ]).catch(() => {});
+}
+
+/* --------------------------------------------------------- navigation -- */
+
+let busy = false;
+/** @type {{day: number, direction: "down" | "left" | "right"} | null} */
+let queued = null;
+
+/** @param {number} day @param {"down" | "left" | "right"} direction */
+async function goTo(day, direction) {
+  const first = Math.min(state.launch, state.today);
+  const target = Math.max(first, Math.min(state.today, day));
+  if (busy) { queued = { day: target, direction }; return; }
+  if (target === state.view) return;
+  busy = true;
+  try {
+    await slide(() => {
+      state.view = target;
+      paint(entryFor(target));
+      renderCounter();
+    }, direction);
+  } finally {
+    busy = false;
+  }
+  if (queued) {
+    const next = queued;
+    queued = null;
+    goTo(next.day, next.direction);
+  }
+}
+
+function wireKeys() {
+  addEventListener("keydown", (event) => {
+    if (archiveEl.open || event.altKey || event.ctrlKey || event.metaKey) return;
+    const from = queued?.day ?? state.view;
+    // <- goes back in time: the page moves right and yesterday comes in from the left
+    if (event.key === "ArrowLeft") { event.preventDefault(); goTo(from - 1, "right"); }
+    if (event.key === "ArrowRight") { event.preventDefault(); goTo(from + 1, "left"); }
+  });
+}
+
+/* --------------------------------------------------------------- copy -- */
+
+let toastTimer = 0;
+
+/** @param {string} message */
+function toast(message) {
+  toastEl.textContent = message;
+  toastEl.dataset.visible = "true";
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => { toastEl.dataset.visible = "false"; }, 1600);
+}
+
+function wireCopy() {
+  figure.addEventListener("click", async () => {
+    if (String(getSelection() ?? "")) return; // the visitor is selecting text, not clicking
+    const text = textEl.textContent ?? "";
+    const author = authorEl.textContent ?? "";
+    const payload = author ? `“${text}” — ${author}` : `“${text}”`;
+    try {
+      await navigator.clipboard.writeText(payload);
+      toast("Copied");
+    } catch {
+      toast("Could not copy");
+    }
+  });
+}
+
+/* ---------------------------------------------------------- countdown -- */
+
+let countdownTimer = 0;
+
+function wireCountdown() {
+  const update = () => {
+    counterNext.textContent = `Next in ${formatCountdown(msUntilNextLocalMidnight(new Date()))}`;
+  };
+  const start = () => { update(); clearInterval(countdownTimer); countdownTimer = setInterval(update, 1000); };
+  const stop = () => clearInterval(countdownTimer);
+  update();
+  counterEl.addEventListener("mouseenter", start);
+  counterEl.addEventListener("focus", start);
+  counterEl.addEventListener("mouseleave", stop);
+  counterEl.addEventListener("blur", stop);
+}
+
+/* -------------------------------------------------------------- theme -- */
+
+const themeMeta = document.querySelector('meta[name="theme-color"]');
+let themeTimer = 0;
+
+/** Night (white on black) from 21:00 to 06:00 local time. */
+function applyTheme() {
+  const forced = new URLSearchParams(location.search).get("theme");
+  const now = new Date();
+  const night = forced === "night" || (forced !== "day" && isNight(now));
+  document.documentElement.dataset.theme = night ? "night" : "day";
+  themeMeta?.setAttribute("content", night ? "#000000" : "#ffffff");
+  clearTimeout(themeTimer);
+  themeTimer = setTimeout(applyTheme, msUntilNextThemeChange(now) + 250);
+}
+
+/* -------------------------------------------------------------- clock -- */
+
+function startClock() {
   let currentKey = "";
   let midnightTimer = 0;
 
   const tick = () => {
     const now = new Date();
     const key = dateKey(now);
+    applyTheme();
     if (key !== currentKey) {
+      const firstRun = currentKey === "";
+      const wasWatchingToday = state.view === state.today;
       currentKey = key;
-      const today = localDateParts(now);
-      show(engine.forDate(today));
-      updateCounter(engine, today);
+      state.today = toDay(localDateParts(now));
+      if (firstRun) {
+        state.view = state.today;
+        reveal(entryFor(state.today));
+        renderCounter();
+      } else if (wasWatchingToday) {
+        // midnight: today's quote drops away and the new one comes down from above
+        goTo(state.today, "down");
+      } else {
+        renderCounter();
+      }
     }
     clearTimeout(midnightTimer);
     // Wake just after midnight; the watchdog below covers sleep and clock changes.
@@ -249,19 +427,25 @@ function startClock(engine) {
 }
 
 async function main() {
+  applyTheme();
   try {
-    const engine = new QuoteEngine(await instantiate(WASM_URL));
+    state.engine = new QuoteEngine(await instantiate(WASM_URL));
+    state.launch = state.engine.x.launch_day();
     const pinned = parseDateKey(new URLSearchParams(location.search).get("date"));
-    wireArchive(engine);
+    wireArchive(state.engine);
+    wireKeys();
+    wireCopy();
+    wireCountdown();
     if (pinned) {
-      show(engine.forDate(pinned));
-      updateCounter(engine, pinned);
+      state.today = state.view = toDay(pinned);
+      reveal(entryFor(state.today));
+      renderCounter();
     } else {
-      startClock(engine);
+      startClock();
     }
   } catch (error) {
     console.error(error);
-    show(FALLBACK);
+    reveal(FALLBACK);
   }
 
   if ("serviceWorker" in navigator && location.protocol === "https:") {
