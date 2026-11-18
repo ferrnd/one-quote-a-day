@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the price that life exacts for granting peace.', 'nl',
      'Moed is de prijs die het leven vraagt voor het schenken van vrede.'),
     ('Adventure is worthwhile in itself.', 'nl',
-     'Avontuur is op zichzelf de moeite waard.');
+     'Avontuur is op zichzelf de moeite waard.'),
+    ('Courage is a love affair with the unknown.', 'nl',
+     'Moed is een liefdesaffaire met het onbekende.');
