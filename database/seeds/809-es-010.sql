@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What would life be if we had no courage to attempt anything?', 'es',
      '¿Qué sería de la vida si no tuviéramos el valor de intentar nada?'),
     ('Far better is it to dare mighty things, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy much nor suffer much.', 'es',
-     'Es mucho mejor atreverse a cosas grandes y lograr triunfos gloriosos, aunque estén salpicados de fracasos, que unirse a esos pobres espíritus que ni disfrutan mucho ni sufren mucho.');
+     'Es mucho mejor atreverse a cosas grandes y lograr triunfos gloriosos, aunque estén salpicados de fracasos, que unirse a esos pobres espíritus que ni disfrutan mucho ni sufren mucho.'),
+    ('It is not the critic who counts.', 'es',
+     'No es el crítico quien cuenta.');
