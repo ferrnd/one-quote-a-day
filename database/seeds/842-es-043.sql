@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Turn your face to the sun and the shadows fall behind you.', 'es',
      'Vuelve el rostro hacia el sol y las sombras quedarán detrás de ti.'),
     ('A man of character finds a special attractiveness in difficulty.', 'es',
-     'El hombre de carácter encuentra un atractivo especial en la dificultad.');
+     'El hombre de carácter encuentra un atractivo especial en la dificultad.'),
+    ('Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.', 'es',
+     'Las dificultades existen para despertar, no para desanimar. El espíritu humano está hecho para fortalecerse en el conflicto.');
