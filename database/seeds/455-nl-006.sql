@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is the condiment that gives success its flavor.', 'nl',
      'Falen is de kruiderij die succes zijn smaak geeft.'),
     ('It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.', 'nl',
-     'Het is onmogelijk te leven zonder ergens in te falen, tenzij je zo voorzichtig leeft dat je net zo goed niet had kunnen leven.');
+     'Het is onmogelijk te leven zonder ergens in te falen, tenzij je zo voorzichtig leeft dat je net zo goed niet had kunnen leven.'),
+    ('Rock bottom became the solid foundation on which I rebuilt my life.', 'nl',
+     'Het dieptepunt werd het stevige fundament waarop ik mijn leven weer opbouwde.');
