@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hardships often prepare ordinary people for an extraordinary destiny.', 'de',
      'Schwierigkeiten bereiten gewöhnliche Menschen oft auf ein außergewöhnliches Schicksal vor.'),
     ('Our wounds are often the openings into the best and most beautiful part of us.', 'de',
-     'Unsere Wunden sind oft die Öffnungen zum besten und schönsten Teil von uns.');
+     'Unsere Wunden sind oft die Öffnungen zum besten und schönsten Teil von uns.'),
+    ('Resilience is accepting your new reality, even if it''s less good than the one you had before.', 'de',
+     'Resilienz heißt, die neue Wirklichkeit anzunehmen, auch wenn sie weniger gut ist als die, die man vorher hatte.');
