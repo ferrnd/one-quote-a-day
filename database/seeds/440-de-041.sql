@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t let the fear of losing be greater than the excitement of winning.', 'de',
      'Lass die Angst vor dem Verlieren nicht größer sein als die Freude am Gewinnen.'),
     ('We learn from failure, not from success!', 'de',
-     'Wir lernen aus dem Scheitern, nicht aus dem Erfolg!');
+     'Wir lernen aus dem Scheitern, nicht aus dem Erfolg!'),
+    ('You can''t be afraid to fail. It''s the only way you succeed.', 'de',
+     'Du darfst keine Angst vor dem Scheitern haben. Nur so hast du Erfolg.');
