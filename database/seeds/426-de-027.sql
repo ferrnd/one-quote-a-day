@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our life is what our thoughts make it.', 'de',
      'Unser Leben ist das, wozu unsere Gedanken es machen.'),
     ('The happiness of your life depends upon the quality of your thoughts.', 'de',
-     'Das Glück deines Lebens hängt von der Beschaffenheit deiner Gedanken ab.');
+     'Das Glück deines Lebens hängt von der Beschaffenheit deiner Gedanken ab.'),
+    ('Very little is needed to make a happy life; it is all within yourself, in your way of thinking.', 'de',
+     'Man braucht sehr wenig für ein glückliches Leben; es liegt alles in dir selbst, in deiner Art zu denken.');
