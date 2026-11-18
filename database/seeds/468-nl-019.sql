@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Change is the law of life. And those who look only to the past or present are certain to miss the future.', 'nl',
      'Verandering is de wet van het leven. En wie alleen naar het verleden of het heden kijkt, zal zeker de toekomst missen.'),
     ('The secret of change is to focus all of your energy not on fighting the old, but on building the new.', 'nl',
-     'Het geheim van verandering is al je energie te richten, niet op het bestrijden van het oude, maar op het bouwen van het nieuwe.');
+     'Het geheim van verandering is al je energie te richten, niet op het bestrijden van het oude, maar op het bouwen van het nieuwe.'),
+    ('What you get by achieving your goals is not as important as what you become by achieving your goals.', 'nl',
+     'Wat je krijgt door je doelen te bereiken, is niet zo belangrijk als wie je wordt door je doelen te bereiken.');
