@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only real voyage of discovery consists not in seeking new landscapes, but in having new eyes.', 'fr',
      'Le véritable voyage de découverte ne consiste pas à chercher de nouveaux paysages, mais à avoir de nouveaux yeux.'),
     ('Not until we are lost do we begin to understand ourselves.', 'fr',
-     'Ce n''est que lorsque nous sommes perdus que nous commençons à nous comprendre.');
+     'Ce n''est que lorsque nous sommes perdus que nous commençons à nous comprendre.'),
+    ('Things do not change; we change.', 'fr',
+     'Les choses ne changent pas ; c''est nous qui changeons.');
