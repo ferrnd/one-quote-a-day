@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let your hopes, not your hurts, shape your future.', 'nl',
      'Laat je hoop, niet je pijn, je toekomst vormen.'),
     ('Hope is a renewable option: if you run out of it at the end of the day, you get to start over in the morning.', 'nl',
-     'Hoop is hernieuwbaar: als ze aan het eind van de dag op is, kun je ''s ochtends opnieuw beginnen.');
+     'Hoop is hernieuwbaar: als ze aan het eind van de dag op is, kun je ''s ochtends opnieuw beginnen.'),
+    ('What oxygen is to the lungs, such is hope to the meaning of life.', 'nl',
+     'Wat zuurstof is voor de longen, is hoop voor de zin van het leven.');
