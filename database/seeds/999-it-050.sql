@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dwell on the beauty of life. Watch the stars, and see yourself running with them.', 'it',
      'Soffermati sulla bellezza della vita. Guarda le stelle e immagina di correre con loro.'),
     ('When you arise in the morning, think of what a precious privilege it is to be alive.', 'it',
-     'Quando ti alzi al mattino, pensa al prezioso privilegio di essere vivo.');
+     'Quando ti alzi al mattino, pensa al prezioso privilegio di essere vivo.'),
+    ('It is not that we have a short time to live, but that we waste a lot of it.', 'it',
+     'Non è che abbiamo poco tempo da vivere, ma che ne sprechiamo molto.');
