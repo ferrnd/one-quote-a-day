@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The soul becomes dyed with the color of its thoughts.', 'de',
      'Die Seele nimmt die Farbe ihrer Gedanken an.'),
     ('Success is not the key to happiness. Happiness is the key to success.', 'de',
-     'Erfolg ist nicht der Schlüssel zum Glück. Glück ist der Schlüssel zum Erfolg.');
+     'Erfolg ist nicht der Schlüssel zum Glück. Glück ist der Schlüssel zum Erfolg.'),
+    ('Patience is the calm acceptance that things can happen in a different order than the one you have in mind.', 'de',
+     'Geduld ist die ruhige Akzeptanz, dass die Dinge in einer anderen Reihenfolge geschehen können, als man sie im Kopf hat.');
