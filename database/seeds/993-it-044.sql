@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Power is not given to you. You have to take it.', 'it',
      'Il potere non ti viene dato. Devi prendertelo.'),
     ('I''m not going to limit myself just because people won''t accept the fact that I can do something else.', 'it',
-     'Non mi limiterò solo perché la gente non accetta che io sappia fare qualcos''altro.');
+     'Non mi limiterò solo perché la gente non accetta che io sappia fare qualcos''altro.'),
+    ('Nobody has ever measured, not even poets, how much the heart can hold.', 'it',
+     'Nessuno ha mai misurato, nemmeno i poeti, quanto possa contenere un cuore.');
