@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no mistakes or failures, only lessons.', 'nl',
      'Er zijn geen fouten of mislukkingen, alleen lessen.'),
     ('I have learned more from my mistakes than from my successes.', 'nl',
-     'Ik heb meer geleerd van mijn fouten dan van mijn successen.');
+     'Ik heb meer geleerd van mijn fouten dan van mijn successen.'),
+    ('It''s failure that gives you the proper perspective on success.', 'nl',
+     'Het is falen dat je het juiste perspectief op succes geeft.');
