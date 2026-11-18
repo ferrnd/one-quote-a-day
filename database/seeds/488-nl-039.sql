@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We will either find a way, or make one.', 'nl',
      'We vinden een weg, of we maken er een.'),
     ('The secret of success is constancy to purpose.', 'nl',
-     'Het geheim van succes is standvastigheid in je doel.');
+     'Het geheim van succes is standvastigheid in je doel.'),
+    ('Persist and persevere, and you will find most things that are attainable, possible.', 'nl',
+     'Houd vol en zet door, en je zult merken dat de meeste haalbare dingen mogelijk zijn.');
