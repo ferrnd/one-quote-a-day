@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not let your fire go out, spark by irreplaceable spark.', 'it',
      'Non lasciare che il tuo fuoco si spenga, scintilla dopo scintilla insostituibile.'),
     ('We are all in the gutter, but some of us are looking at the stars.', 'it',
-     'Siamo tutti nel fango, ma alcuni di noi guardano le stelle.');
+     'Siamo tutti nel fango, ma alcuni di noi guardano le stelle.'),
+    ('The darker the night, the brighter the stars, the deeper the grief, the closer is God!', 'it',
+     'Più buia è la notte, più luminose sono le stelle; più profondo è il dolore, più vicino è Dio!');
