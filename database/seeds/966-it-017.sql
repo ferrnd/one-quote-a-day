@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t count the days, make the days count.', 'it',
      'Non contare i giorni; fai in modo che i giorni contino.'),
     ('Dedication sees dreams come true.', 'it',
-     'La dedizione fa avverare i sogni.');
+     'La dedizione fa avverare i sogni.'),
+    ('Rest at the end, not in the middle.', 'it',
+     'Riposati alla fine, non a metà.');
