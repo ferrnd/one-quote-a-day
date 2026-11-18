@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Progress is impossible without change, and those who cannot change their minds cannot change anything.', 'fr',
      'Le progrès est impossible sans changement, et ceux qui ne peuvent changer d''avis ne peuvent rien changer.'),
     ('Change is the law of life. And those who look only to the past or present are certain to miss the future.', 'fr',
-     'Le changement est la loi de la vie. Et ceux qui ne regardent que le passé ou le présent manqueront certainement l''avenir.');
+     'Le changement est la loi de la vie. Et ceux qui ne regardent que le passé ou le présent manqueront certainement l''avenir.'),
+    ('The secret of change is to focus all of your energy not on fighting the old, but on building the new.', 'fr',
+     'Le secret du changement consiste à concentrer toute son énergie non pas à lutter contre le passé, mais à construire l''avenir.');
