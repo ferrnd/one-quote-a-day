@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday''s logic.', 'pt-BR',
      'O maior perigo em tempos de turbulência não é a turbulência; é agir com a lógica de ontem.'),
     ('We must be willing to let go of the life we planned so as to have the life that is waiting for us.', 'pt-BR',
-     'Precisamos estar dispostos a abrir mão da vida que planejamos para viver a vida que está à nossa espera.');
+     'Precisamos estar dispostos a abrir mão da vida que planejamos para viver a vida que está à nossa espera.'),
+    ('The privilege of a lifetime is to become who you truly are.', 'pt-BR',
+     'O privilégio de uma vida inteira é se tornar quem você realmente é.');
