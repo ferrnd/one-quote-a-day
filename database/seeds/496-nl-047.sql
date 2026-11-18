@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You may delay, but time will not.', 'nl',
      'Jij kunt uitstellen, maar de tijd niet.'),
     ('Either write something worth reading or do something worth writing.', 'nl',
-     'Schrijf iets wat het lezen waard is of doe iets wat het opschrijven waard is.');
+     'Schrijf iets wat het lezen waard is of doe iets wat het opschrijven waard is.'),
+    ('Some people want it to happen, some wish it would happen, others make it happen.', 'nl',
+     'Sommige mensen willen dat het gebeurt, sommigen wensen dat het gebeurt, anderen laten het gebeuren.');
