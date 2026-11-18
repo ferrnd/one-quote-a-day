@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Thinking will not overcome fear but action will.', 'es',
      'Pensar no vencerá al miedo, pero actuar sí.'),
     ('Someday is not a day of the week.', 'es',
-     'Algún día no es un día de la semana.');
+     'Algún día no es un día de la semana.'),
+    ('Done is better than perfect.', 'es',
+     'Hecho es mejor que perfecto.');
