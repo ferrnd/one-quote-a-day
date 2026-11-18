@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Things do not happen. Things are made to happen.', 'nl',
      'Dingen gebeuren niet. Dingen worden gemaakt om te gebeuren.'),
     ('Eighty percent of success is showing up.', 'nl',
-     'Tachtig procent van succes is komen opdagen.');
+     'Tachtig procent van succes is komen opdagen.'),
+    ('You can''t build a reputation on what you are going to do.', 'nl',
+     'Je kunt geen reputatie opbouwen met wat je nog gaat doen.');
