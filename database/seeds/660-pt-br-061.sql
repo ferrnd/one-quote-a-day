@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Wise to resolve, and patient to perform.', 'pt-BR',
      'Sábio para decidir e paciente para executar.'),
     ('I am extraordinarily patient, provided I get my own way in the end.', 'pt-BR',
-     'Sou extraordinariamente paciente, desde que, no fim, as coisas sejam do meu jeito.');
+     'Sou extraordinariamente paciente, desde que, no fim, as coisas sejam do meu jeito.'),
+    ('If you are patient in one moment of anger, you will escape a hundred days of sorrow.', 'pt-BR',
+     'Se você tiver paciência em um momento de raiva, escapará de cem dias de tristeza.');
