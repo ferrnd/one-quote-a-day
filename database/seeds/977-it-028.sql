@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Your attitude, not your aptitude, will determine your altitude.', 'it',
      'Il tuo atteggiamento, non la tua attitudine, determinerà la tua altitudine.'),
     ('Positive thinking will let you do everything better than negative thinking will.', 'it',
-     'Il pensiero positivo ti permetterà di fare tutto meglio del pensiero negativo.');
+     'Il pensiero positivo ti permetterà di fare tutto meglio del pensiero negativo.'),
+    ('Optimism is the one quality more associated with success and happiness than any other.', 'it',
+     'L''ottimismo è la qualità più associata al successo e alla felicità, più di qualsiasi altra.');
