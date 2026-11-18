@@ -9,7 +9,8 @@
  * ?theme=day|night to force a theme.
  *
  * Keys: <- and -> (or a horizontal swipe) walk through past days.
- * Click the quote to copy it. The "!" button explains all of this.
+ * Click the quote to copy it; right-click it (or the author) to search the
+ * web. The arrow button shares it as an image. "!" explains all of this.
  */
 
 import {
@@ -29,6 +30,7 @@ const counterLabel = /** @type {HTMLElement} */ (document.getElementById("day-la
 const counterNext = /** @type {HTMLElement} */ (document.getElementById("day-next"));
 const toastEl = /** @type {HTMLElement} */ (document.getElementById("toast"));
 const infoButton = /** @type {HTMLButtonElement} */ (document.getElementById("info-button"));
+const shareButton = /** @type {HTMLButtonElement} */ (document.getElementById("share-button"));
 const infoEl = /** @type {HTMLDialogElement} */ (document.getElementById("info"));
 const archiveEl = /** @type {HTMLDialogElement} */ (document.getElementById("archive"));
 const archiveList = /** @type {HTMLOListElement} */ (document.getElementById("archive-list"));
@@ -407,6 +409,138 @@ function wireCopy() {
   });
 }
 
+/* ------------------------------------------------------------- search -- */
+
+const SEARCH_URL = "https://www.google.com/search?q=";
+
+/** Right-click the quote or the author to search for it in a new tab. */
+function wireSearch() {
+  /** @param {HTMLElement} el @param {() => string} query */
+  const searchable = (el, query) => {
+    el.addEventListener("contextmenu", (event) => {
+      const q = query().trim();
+      if (!q) return; // nothing to search: keep the native menu
+      event.preventDefault();
+      window.open(SEARCH_URL + encodeURIComponent(q), "_blank", "noopener,noreferrer");
+    });
+  };
+  searchable(textEl, () => `"${textEl.textContent ?? ""}"`);
+  searchable(authorEl, () => authorEl.textContent ?? "");
+}
+
+/* -------------------------------------------------------------- share -- */
+
+const CARD = 1080;
+
+/** @param {CanvasRenderingContext2D} ctx @param {string} text @param {number} max */
+function wrap(ctx, text, max) {
+  const lines = [];
+  let line = "";
+  for (const word of text.split(/\s+/)) {
+    const next = line ? `${line} ${word}` : word;
+    if (line && ctx.measureText(next).width > max) {
+      lines.push(line);
+      line = word;
+    } else {
+      line = next;
+    }
+  }
+  if (line) lines.push(line);
+  return lines;
+}
+
+/** Draw the quote on screen as a square card in the current theme. */
+async function renderCard() {
+  const css = getComputedStyle(document.documentElement);
+  const ink = css.getPropertyValue("--ink").trim() || "#000";
+  const paper = css.getPropertyValue("--paper").trim() || "#fff";
+  const family = '"Cormorant Garamond", Garamond, serif';
+  await Promise.all([
+    document.fonts.load(`italic 400 64px ${family}`),
+    document.fonts.load(`500 26px ${family}`),
+    document.fonts.load(`700 24px ${family}`),
+  ]).catch(() => {});
+
+  const canvas = document.createElement("canvas");
+  canvas.width = canvas.height = CARD;
+  const ctx = /** @type {CanvasRenderingContext2D} */ (canvas.getContext("2d"));
+  ctx.fillStyle = paper;
+  ctx.fillRect(0, 0, CARD, CARD);
+  ctx.fillStyle = ink;
+  ctx.strokeStyle = ink;
+  ctx.textAlign = "center";
+  ctx.textBaseline = "middle";
+
+  const text = `\u201C${textEl.textContent ?? ""}\u201D`;
+  const author = (authorEl.textContent ?? "").toUpperCase();
+  const max = CARD * 0.72;
+  let size = 78;
+  let lines;
+  do {
+    ctx.font = `italic 400 ${size}px ${family}`;
+    lines = wrap(ctx, text, max);
+    size -= 2;
+  } while (lines.length * size * 1.22 > CARD * 0.52 && size > 34);
+  size += 2;
+  const lineHeight = size * 1.22;
+  const authorBlock = author ? 150 : 0;
+  let y = (CARD - lines.length * lineHeight - authorBlock) / 2 + lineHeight / 2;
+  for (const line of lines) {
+    ctx.fillText(line, CARD / 2, y);
+    y += lineHeight;
+  }
+
+  if (author) {
+    y += 40;
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.moveTo(CARD / 2 - 32, y);
+    ctx.lineTo(CARD / 2 + 32, y);
+    ctx.stroke();
+    ctx.font = `500 26px ${family}`;
+    if ("letterSpacing" in ctx) ctx.letterSpacing = "8px";
+    ctx.fillText(author, CARD / 2 + 4, y + 62);
+  }
+
+  ctx.globalAlpha = 0.4;
+  ctx.font = `700 24px ${family}`;
+  if ("letterSpacing" in ctx) ctx.letterSpacing = "4px";
+  ctx.textBaseline = "alphabetic";
+  ctx.textAlign = "left";
+  ctx.fillText("QUOTES", 72, CARD - 72);
+  ctx.textAlign = "right";
+  ctx.fillText(counterLabel.textContent?.toUpperCase() ?? "", CARD - 72, CARD - 72);
+  return canvas;
+}
+
+async function shareImage() {
+  const canvas = await renderCard();
+  const blob = await new Promise((resolve) => canvas.toBlob(resolve, "image/png"));
+  if (!blob) { toast("Could not share"); return; }
+  const name = `${(counterLabel.textContent ?? "quote").toLowerCase().replace(/\s+/g, "-")}.png`;
+  const file = new File([blob], name, { type: "image/png" });
+  const touch = matchMedia("(pointer: coarse)").matches;
+  if (touch && navigator.canShare?.({ files: [file] })) {
+    try {
+      await navigator.share({ files: [file], title: "Quotes", url: location.origin + location.pathname });
+      return;
+    } catch (error) {
+      if (/** @type {Error} */ (error).name === "AbortError") return; // the visitor changed their mind
+    }
+  }
+  const url = URL.createObjectURL(blob);
+  const link = Object.assign(document.createElement("a"), { href: url, download: name });
+  document.body.append(link);
+  link.click();
+  link.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 10_000);
+  toast("Image saved");
+}
+
+function wireShare() {
+  shareButton.addEventListener("click", () => { shareImage().catch(() => toast("Could not share")); });
+}
+
 /* ---------------------------------------------------------- countdown -- */
 
 let countdownTimer = 0;
@@ -507,6 +641,8 @@ async function main() {
     wireKeys();
     wireSwipe();
     wireCopy();
+    wireSearch();
+    wireShare();
     wireHelp();
     wireCountdown();
     if (pinned) {
