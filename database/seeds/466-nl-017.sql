@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The fight is won or lost far away from witnesses, behind the lines, in the gym, and out there on the road, long before I dance under those lights.', 'nl',
      'Het gevecht wordt gewonnen of verloren ver weg van getuigen, achter de schermen, in de sportschool en daarbuiten op de weg, lang voordat ik onder die lichten dans.'),
     ('Don''t count the days, make the days count.', 'nl',
-     'Tel de dagen niet; zorg dat de dagen tellen.');
+     'Tel de dagen niet; zorg dat de dagen tellen.'),
+    ('Dedication sees dreams come true.', 'nl',
+     'Toewijding laat dromen uitkomen.');
