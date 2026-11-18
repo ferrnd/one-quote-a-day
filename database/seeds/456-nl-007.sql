@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t fear failure. Not failure, but low aim, is the crime.', 'nl',
      'Vrees falen niet. Niet falen, maar te laag mikken is de misdaad.'),
     ('Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes.', 'nl',
-     'Falen is leerzaam. Wie echt nadenkt, leert evenveel van zijn mislukkingen als van zijn successen.');
+     'Falen is leerzaam. Wie echt nadenkt, leert evenveel van zijn mislukkingen als van zijn successen.'),
+    ('Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.', 'nl',
+     'Onze grootste zwakte is opgeven. De zekerste manier om te slagen is altijd nog één keer te proberen.');
