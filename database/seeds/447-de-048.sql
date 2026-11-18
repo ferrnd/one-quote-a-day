@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and fortitude conquer all things.', 'de',
      'Geduld und Standhaftigkeit überwinden alles.'),
     ('Have patience. All things are difficult before they become easy.', 'de',
-     'Hab Geduld. Alle Dinge sind schwer, bevor sie leicht werden.');
+     'Hab Geduld. Alle Dinge sind schwer, bevor sie leicht werden.'),
+    ('Patience is a conquering virtue.', 'de',
+     'Geduld ist eine siegreiche Tugend.');
