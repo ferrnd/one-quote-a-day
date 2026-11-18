@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A dream you dream alone is only a dream. A dream you dream together is reality.', 'fr',
      'Un rêve que l''on fait seul n''est qu''un rêve. Un rêve que l''on fait ensemble est une réalité.'),
     ('Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.', 'fr',
-     'Accroche-toi aux rêves, car si les rêves meurent, la vie est un oiseau aux ailes brisées qui ne peut plus voler.');
+     'Accroche-toi aux rêves, car si les rêves meurent, la vie est un oiseau aux ailes brisées qui ne peut plus voler.'),
+    ('Dreams are the touchstones of our characters.', 'fr',
+     'Les rêves sont la pierre de touche de notre caractère.');
