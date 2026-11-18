@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you want to go fast, go alone. If you want to go far, go together.', 'nl',
      'Als je snel wilt gaan, ga dan alleen. Als je ver wilt komen, ga dan samen.'),
     ('Be not afraid.', 'nl',
-     'Wees niet bang.');
+     'Wees niet bang.'),
+    ('I am not afraid of tomorrow, for I have seen yesterday and I love today.', 'nl',
+     'Ik ben niet bang voor morgen, want ik heb gisteren gezien en ik houd van vandaag.');
