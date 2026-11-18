@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t judge each day by the harvest you reap but by the seeds that you plant.', 'nl',
      'Beoordeel elke dag niet op de oogst die je binnenhaalt, maar op de zaden die je plant.'),
     ('Do something wonderful, people may imitate it.', 'nl',
-     'Doe iets prachtigs; mensen zouden het kunnen navolgen.');
+     'Doe iets prachtigs; mensen zouden het kunnen navolgen.'),
+    ('The time is always right to do what is right.', 'nl',
+     'Het is altijd het juiste moment om het juiste te doen.');
