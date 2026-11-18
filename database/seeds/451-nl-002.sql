@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You just can''t beat the person who never gives up.', 'nl',
      'Je kunt iemand die nooit opgeeft simpelweg niet verslaan.'),
     ('Don''t watch the clock; do what it does. Keep going.', 'nl',
-     'Kijk niet naar de klok; doe wat zij doet. Ga door.');
+     'Kijk niet naar de klok; doe wat zij doet. Ga door.'),
+    ('What we hope ever to do with ease, we must learn first to do with diligence.', 'nl',
+     'Wat we ooit met gemak hopen te doen, moeten we eerst met vlijt leren doen.');
