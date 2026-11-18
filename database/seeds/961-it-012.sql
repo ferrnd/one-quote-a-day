@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come.', 'it',
      'La speranza comincia nel buio: la speranza ostinata che, se ti presenti e provi a fare la cosa giusta, l''alba arriverà.'),
     ('Let your hopes, not your hurts, shape your future.', 'it',
-     'Lascia che siano le tue speranze, e non le tue ferite, a dare forma al tuo futuro.');
+     'Lascia che siano le tue speranze, e non le tue ferite, a dare forma al tuo futuro.'),
+    ('Hope is a renewable option: if you run out of it at the end of the day, you get to start over in the morning.', 'it',
+     'La speranza è rinnovabile: se finisce alla fine della giornata, puoi ricominciare la mattina.');
