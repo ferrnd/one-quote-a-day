@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not afraid of storms, for I am learning how to sail my ship.', 'fr',
      'Je n''ai pas peur des tempêtes, car j''apprends à mener mon navire.'),
     ('A ship in harbor is safe, but that is not what ships are built for.', 'fr',
-     'Un navire est en sécurité au port, mais ce n''est pas pour cela qu''on construit les navires.');
+     'Un navire est en sécurité au port, mais ce n''est pas pour cela qu''on construit les navires.'),
+    ('The cave you fear to enter holds the treasure you seek.', 'fr',
+     'La grotte où tu as peur d''entrer renferme le trésor que tu cherches.');
