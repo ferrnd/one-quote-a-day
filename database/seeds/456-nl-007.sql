@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('An inventor fails 999 times, and if he succeeds once, he''s in.', 'nl',
      'Een uitvinder faalt 999 keer, en als hij één keer slaagt, heeft hij het gemaakt.'),
     ('Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.', 'nl',
-     'Merk op dat de stijfste boom het makkelijkst breekt, terwijl de bamboe of de wilg overleeft door mee te buigen met de wind.');
+     'Merk op dat de stijfste boom het makkelijkst breekt, terwijl de bamboe of de wilg overleeft door mee te buigen met de wind.'),
+    ('Don''t fear failure. Not failure, but low aim, is the crime.', 'nl',
+     'Vrees falen niet. Niet falen, maar te laag mikken is de misdaad.');
