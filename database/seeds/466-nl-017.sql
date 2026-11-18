@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I hated every minute of training, but I said, don''t quit. Suffer now and live the rest of your life as a champion.', 'nl',
      'Ik haatte elke minuut van de training, maar ik zei: geef niet op. Lijd nu en leef de rest van je leven als kampioen.'),
     ('The fight is won or lost far away from witnesses, behind the lines, in the gym, and out there on the road, long before I dance under those lights.', 'nl',
-     'Het gevecht wordt gewonnen of verloren ver weg van getuigen, achter de schermen, in de sportschool en daarbuiten op de weg, lang voordat ik onder die lichten dans.');
+     'Het gevecht wordt gewonnen of verloren ver weg van getuigen, achter de schermen, in de sportschool en daarbuiten op de weg, lang voordat ik onder die lichten dans.'),
+    ('Don''t count the days, make the days count.', 'nl',
+     'Tel de dagen niet; zorg dat de dagen tellen.');
