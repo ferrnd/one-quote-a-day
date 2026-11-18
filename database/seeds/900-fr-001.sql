@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.', 'fr',
      'Ce qui distingue une personne qui réussit des autres n''est pas un manque de force ni de connaissances, mais un manque de volonté.'),
     ('Success is the sum of small efforts, repeated day in and day out.', 'fr',
-     'Le succès est la somme de petits efforts, répétés jour après jour.');
+     'Le succès est la somme de petits efforts, répétés jour après jour.'),
+    ('It always seems impossible until it''s done.', 'fr',
+     'Cela semble toujours impossible, jusqu''à ce qu''on le fasse.');
