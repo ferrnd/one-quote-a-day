@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We must all suffer one of two things: the pain of discipline or the pain of regret.', 'nl',
      'We moeten allemaal een van twee dingen verdragen: de pijn van discipline of de pijn van spijt.'),
     ('Motivation is what gets you started. Habit is what keeps you going.', 'nl',
-     'Motivatie zet je in gang. Gewoonte houdt je gaande.');
+     'Motivatie zet je in gang. Gewoonte houdt je gaande.'),
+    ('Success is nothing more than a few simple disciplines, practiced every day.', 'nl',
+     'Succes is niets meer dan een paar eenvoudige disciplines, elke dag beoefend.');
