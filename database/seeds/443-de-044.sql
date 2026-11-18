@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.', 'de',
-     'Niemand rettet uns außer wir selbst. Niemand kann und niemand darf. Wir selbst müssen den Weg gehen.');
+     'Niemand rettet uns außer wir selbst. Niemand kann und niemand darf. Wir selbst müssen den Weg gehen.'),
+    ('Power is not given to you. You have to take it.', 'de',
+     'Macht wird dir nicht gegeben. Du musst sie dir nehmen.');
