@@ -4,6 +4,13 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [1.6.0] - 2026-11-18
+
+### Added
+
+- 236 new quotes, bringing the database to exactly 1,000 with no repeats.
+  N changed, so the 400-year calendar was reshuffled.
+
 ## [1.5.0] - 2026-11-17
 
 ### Changed
