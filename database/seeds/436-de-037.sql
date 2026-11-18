@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.', 'de',
      'Gestern ist Geschichte, morgen ist ein Rätsel, heute ist ein Geschenk Gottes, und deshalb nennt man es Gegenwart.'),
     ('If you want to go fast, go alone. If you want to go far, go together.', 'de',
-     'Wenn du schnell gehen willst, geh allein. Wenn du weit gehen willst, geh mit anderen.');
+     'Wenn du schnell gehen willst, geh allein. Wenn du weit gehen willst, geh mit anderen.'),
+    ('Be not afraid.', 'de',
+     'Habt keine Angst.');
