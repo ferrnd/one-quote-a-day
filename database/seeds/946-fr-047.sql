@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t build a reputation on what you are going to do.', 'fr',
      'On ne bâtit pas une réputation sur ce qu''on va faire.'),
     ('You may delay, but time will not.', 'fr',
-     'Tu peux remettre à plus tard, mais le temps, lui, ne le fera pas.');
+     'Tu peux remettre à plus tard, mais le temps, lui, ne le fera pas.'),
+    ('Either write something worth reading or do something worth writing.', 'fr',
+     'Écris quelque chose qui vaille la peine d''être lu, ou fais quelque chose qui vaille la peine d''être écrit.');
