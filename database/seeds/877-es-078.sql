@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t give up. Don''t ever give up.', 'es',
      'No te rindas. Nunca te rindas.'),
     ('Many people have gone further than they thought they could because someone else thought they could.', 'es',
-     'Muchas personas han llegado más lejos de lo que creían porque alguien más creyó que podían.');
+     'Muchas personas han llegado más lejos de lo que creían porque alguien más creyó que podían.'),
+    ('You can''t climb the ladder of success with your hands in your pockets.', 'es',
+     'No puedes subir la escalera del éxito con las manos en los bolsillos.');
