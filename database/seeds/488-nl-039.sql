@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perseverance is failing nineteen times and succeeding the twentieth.', 'nl',
      'Doorzettingsvermogen is negentien keer falen en de twintigste keer slagen.'),
     ('Persistence is to the character of man as carbon is to steel.', 'nl',
-     'Volharding is voor het karakter van de mens wat koolstof is voor staal.');
+     'Volharding is voor het karakter van de mens wat koolstof is voor staal.'),
+    ('The man who can drive himself further once the effort gets painful is the man who will win.', 'nl',
+     'Wie zich verder kan drijven als de inspanning pijn gaat doen, is degene die zal winnen.');
