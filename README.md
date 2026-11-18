@@ -111,3 +111,8 @@ npm test
 CI runs the full build, fails if the committed `generated/` or `docs/` differ
 from a fresh build, then runs both suites.
 
+## Deploying
+
+The built site lives in `docs/`. In the repository settings, under
+**Pages**, choose **Deploy from a branch**, branch `main`, folder `/docs`.
+
