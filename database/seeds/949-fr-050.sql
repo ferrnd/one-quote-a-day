@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best revenge is not to be like your enemy.', 'fr',
      'La meilleure vengeance est de ne pas ressembler à ton ennemi.'),
     ('Loss is nothing else but change, and change is Nature''s delight.', 'fr',
-     'La perte n''est rien d''autre que le changement, et le changement fait les délices de la Nature.');
+     'La perte n''est rien d''autre que le changement, et le changement fait les délices de la Nature.'),
+    ('Dwell on the beauty of life. Watch the stars, and see yourself running with them.', 'fr',
+     'Attarde-toi sur la beauté de la vie. Regarde les étoiles et vois-toi courir avec elles.');
