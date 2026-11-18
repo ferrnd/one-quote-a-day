@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never let the fear of striking out keep you from playing the game.', 'nl',
      'Laat de angst om uit te gaan je nooit weerhouden het spel te spelen.'),
     ('If you can''t outplay them, outwork them.', 'nl',
-     'Als je niet beter kunt spelen dan zij, werk dan harder dan zij.');
+     'Als je niet beter kunt spelen dan zij, werk dan harder dan zij.'),
+    ('I really think a champion is defined not by their wins but by how they can recover when they fall.', 'nl',
+     'Ik denk echt dat een kampioen niet wordt bepaald door overwinningen, maar door hoe ze herstellen als ze vallen.');
