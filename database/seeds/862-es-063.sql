@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Obstacles cannot crush me. Every obstacle yields to stern resolve.', 'es',
      'Los obstáculos no pueden aplastarme. Todo obstáculo cede ante una firme determinación.'),
     ('I am not discouraged, because every wrong attempt discarded is another step forward.', 'es',
-     'No me desanimo, porque cada intento equivocado que descarto es otro paso adelante.');
+     'No me desanimo, porque cada intento equivocado que descarto es otro paso adelante.'),
+    ('Never let the fear of striking out keep you from playing the game.', 'es',
+     'Nunca dejes que el miedo a fallar te impida jugar el partido.');
