@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'pt-BR',
      'Se você não fracassa de vez em quando, é sinal de que não está fazendo nada muito inovador.'),
     ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'pt-BR',
-     'O fracasso acontece o tempo todo. Acontece todo dia no treino. O que torna você melhor é como você reage a ele.');
+     'O fracasso acontece o tempo todo. Acontece todo dia no treino. O que torna você melhor é como você reage a ele.'),
+    ('There are no mistakes or failures, only lessons.', 'pt-BR',
+     'Não existem erros nem fracassos, apenas lições.');
