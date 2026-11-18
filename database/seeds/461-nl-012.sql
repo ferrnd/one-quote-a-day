@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every cloud has a silver lining.', 'nl',
      'Achter de wolken schijnt de zon.'),
     ('The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.', 'nl',
-     'De zon zelf is zwak als ze opkomt, en wint aan kracht en moed naarmate de dag vordert.');
+     'De zon zelf is zwak als ze opkomt, en wint aan kracht en moed naarmate de dag vordert.'),
+    ('Hope is the only thing stronger than fear.', 'nl',
+     'Hoop is het enige wat sterker is dan angst.');
