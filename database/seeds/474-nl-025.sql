@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t let yesterday take up too much of today.', 'nl',
      'Laat gisteren niet te veel van vandaag in beslag nemen.'),
     ('Even if you''re on the right track, you''ll get run over if you just sit there.', 'nl',
-     'Zelfs als je op het goede spoor zit, word je overreden als je daar alleen maar blijft zitten.');
+     'Zelfs als je op het goede spoor zit, word je overreden als je daar alleen maar blijft zitten.'),
+    ('An idea not coupled with action will never get any bigger than the brain cell it occupied.', 'nl',
+     'Een idee dat niet gepaard gaat met actie wordt nooit groter dan de hersencel die het innam.');
