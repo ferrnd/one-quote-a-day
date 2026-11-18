@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the thing with feathers that perches in the soul.', 'nl',
      'Hoop is het ding met veren dat in de ziel neerstrijkt.'),
     ('Everything that is done in the world is done by hope.', 'nl',
-     'Alles wat in de wereld gedaan wordt, wordt gedaan uit hoop.');
+     'Alles wat in de wereld gedaan wordt, wordt gedaan uit hoop.'),
+    ('Hope is being able to see that there is light despite all of the darkness.', 'nl',
+     'Hoop is kunnen zien dat er licht is ondanks alle duisternis.');
