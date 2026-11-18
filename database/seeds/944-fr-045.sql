@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not until we are lost do we begin to understand ourselves.', 'fr',
      'Ce n''est que lorsque nous sommes perdus que nous commençons à nous comprendre.'),
     ('Things do not change; we change.', 'fr',
-     'Les choses ne changent pas ; c''est nous qui changeons.');
+     'Les choses ne changent pas ; c''est nous qui changeons.'),
+    ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'fr',
+     'Le progrès implique toujours des risques. On ne peut pas voler la deuxième base en gardant le pied sur la première.');
