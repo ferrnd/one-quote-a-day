@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Pain and suffering are always inevitable for a large intelligence and a deep heart.', 'nl',
      'Pijn en lijden zijn altijd onvermijdelijk voor een groot verstand en een diep hart.'),
     ('Long is the way and hard, that out of hell leads up to light.', 'nl',
-     'Lang en zwaar is de weg die uit de hel naar het licht leidt.');
+     'Lang en zwaar is de weg die uit de hel naar het licht leidt.'),
+    ('Accept challenges so that you may feel the exhilaration of victory.', 'nl',
+     'Neem uitdagingen aan, zodat je de opwinding van de overwinning kunt voelen.');
