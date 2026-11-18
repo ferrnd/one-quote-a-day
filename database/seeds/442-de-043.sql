@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never doubt that a small group of thoughtful, committed citizens can change the world.', 'de',
      'Zweifle nie daran, dass eine kleine Gruppe nachdenklicher, engagierter Bürger die Welt verändern kann.'),
     ('Keep your face to the sunshine and you cannot see a shadow.', 'de',
-     'Halte dein Gesicht der Sonne zugewandt, dann siehst du keinen Schatten.');
+     'Halte dein Gesicht der Sonne zugewandt, dann siehst du keinen Schatten.'),
+    ('One day, in retrospect, the years of struggle will strike you as the most beautiful.', 'de',
+     'Eines Tages, im Rückblick, werden dir die Jahre des Kampfes als die schönsten erscheinen.');
