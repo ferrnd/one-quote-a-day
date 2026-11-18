@@ -9,4 +9,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.', 'Buddha', 'strength'),
     ('Power is not given to you. You have to take it.', 'Beyonce', 'strength'),
     ('I''m not going to limit myself just because people won''t accept the fact that I can do something else.', 'Dolly Parton', 'strength'),
-    ('Nobody has ever measured, not even poets, how much the heart can hold.', 'Zelda Fitzgerald', 'strength');
+    ('Nobody has ever measured, not even poets, how much the heart can hold.', 'Zelda Fitzgerald', 'strength'),
+    ('Not all of us can do great things. But we can do small things with great love.', 'Mother Teresa', 'strength');
