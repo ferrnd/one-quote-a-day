@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The way I see it, if you want the rainbow, you gotta put up with the rain.', 'es',
      'Tal como yo lo veo, si quieres el arcoíris, tienes que aguantar la lluvia.'),
     ('Life isn''t about waiting for the storm to pass. It''s about learning to dance in the rain.', 'es',
-     'La vida no consiste en esperar a que pase la tormenta. Consiste en aprender a bailar bajo la lluvia.');
+     'La vida no consiste en esperar a que pase la tormenta. Consiste en aprender a bailar bajo la lluvia.'),
+    ('Adversity reveals genius, prosperity conceals it.', 'es',
+     'La adversidad revela el genio; la prosperidad lo oculta.');
