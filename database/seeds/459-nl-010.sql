@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''ve been absolutely terrified every moment of my life and I''ve never let it keep me from doing a single thing I wanted to do.', 'nl',
      'Ik ben elk moment van mijn leven doodsbang geweest en ik heb me daardoor nooit laten tegenhouden om ook maar iets te doen wat ik wilde.'),
     ('Sorrow is how we learn to love. Your heart isn''t breaking. It hurts because it''s getting larger.', 'nl',
-     'Verdriet is hoe we leren liefhebben. Je hart breekt niet. Het doet pijn omdat het groter wordt.');
+     'Verdriet is hoe we leren liefhebben. Je hart breekt niet. Het doet pijn omdat het groter wordt.'),
+    ('Once you choose hope, anything''s possible.', 'nl',
+     'Zodra je voor hoop kiest, is alles mogelijk.');
