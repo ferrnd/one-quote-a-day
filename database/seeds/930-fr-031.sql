@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.', 'fr',
      'Ne renonce jamais à un rêve à cause du temps qu''il faudra pour le réaliser. Le temps passera de toute façon.'),
     ('Let everything happen to you: beauty and terror. Just keep going. No feeling is final.', 'fr',
-     'Laisse tout t''arriver : la beauté et l''effroi. Continue simplement. Aucun sentiment n''est définitif.');
+     'Laisse tout t''arriver : la beauté et l''effroi. Continue simplement. Aucun sentiment n''est définitif.'),
+    ('No snowflake ever falls in the wrong place.', 'fr',
+     'Aucun flocon de neige ne tombe jamais au mauvais endroit.');
