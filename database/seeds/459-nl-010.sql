@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fire is the test of gold; adversity, of strong men.', 'nl',
      'Vuur is de toets van goud; tegenspoed die van sterke mensen.'),
     ('Difficulties strengthen the mind, as labor does the body.', 'nl',
-     'Moeilijkheden versterken de geest, zoals arbeid het lichaam versterkt.');
+     'Moeilijkheden versterken de geest, zoals arbeid het lichaam versterkt.'),
+    ('Although no one can go back and make a brand new start, anyone can start from now and make a brand new ending.', 'nl',
+     'Hoewel niemand terug kan gaan om een gloednieuw begin te maken, kan iedereen nu beginnen en een gloednieuw einde maken.');
