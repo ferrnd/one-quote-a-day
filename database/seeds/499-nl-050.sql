@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.', 'nl',
      'Wat we ooit hebben genoten, kunnen we nooit verliezen. Alles waar we diep van houden, wordt een deel van ons.'),
     ('Happiness is not a goal; it is a by-product.', 'nl',
-     'Geluk is geen doel; het is een bijproduct.');
+     'Geluk is geen doel; het is een bijproduct.'),
+    ('The purpose of life is to live it, to taste experience to the utmost.', 'nl',
+     'Het doel van het leven is het te leven, de ervaring ten volle te proeven.');
