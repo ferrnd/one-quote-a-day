@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If a man knows not to which port he sails, no wind is favorable.', 'nl',
      'Voor wie niet weet naar welke haven hij vaart, is geen enkele wind gunstig.'),
     ('Luck is what happens when preparation meets opportunity.', 'nl',
-     'Geluk is wat er gebeurt wanneer voorbereiding en kans elkaar ontmoeten.');
+     'Geluk is wat er gebeurt wanneer voorbereiding en kans elkaar ontmoeten.'),
+    ('Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.', 'nl',
+     'Gisteren is geschiedenis, morgen is een mysterie, vandaag is een geschenk van God, en daarom heet het het heden.');
