@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant.', 'pt-BR',
      'A adversidade tem o poder de despertar talentos que, em tempos de prosperidade, teriam ficado adormecidos.'),
     ('The block of granite which was an obstacle in the path of the weak becomes a stepping stone in the path of the strong.', 'pt-BR',
-     'O bloco de granito que era um obstáculo no caminho dos fracos torna-se um degrau no caminho dos fortes.');
+     'O bloco de granito que era um obstáculo no caminho dos fracos torna-se um degrau no caminho dos fortes.'),
+    ('Obstacles are those frightful things you see when you take your eyes off your goal.', 'pt-BR',
+     'Obstáculos são aquelas coisas assustadoras que você vê quando tira os olhos do seu objetivo.');
