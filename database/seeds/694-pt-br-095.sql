@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and fortitude conquer all things.', 'pt-BR',
      'Paciência e firmeza vencem todas as coisas.'),
     ('Have patience. All things are difficult before they become easy.', 'pt-BR',
-     'Tenha paciência. Todas as coisas são difíceis antes de se tornarem fáceis.');
+     'Tenha paciência. Todas as coisas são difíceis antes de se tornarem fáceis.'),
+    ('Patience is a conquering virtue.', 'pt-BR',
+     'A paciência é uma virtude que conquista.');
