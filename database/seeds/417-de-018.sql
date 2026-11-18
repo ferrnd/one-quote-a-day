@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing will work unless you do.', 'de',
      'Nichts funktioniert, solange du nicht arbeitest.'),
     ('Habit is either the best of servants or the worst of masters.', 'de',
-     'Gewohnheit ist entweder der beste Diener oder der schlimmste Herr.');
+     'Gewohnheit ist entweder der beste Diener oder der schlimmste Herr.'),
+    ('First we make our habits, then our habits make us.', 'de',
+     'Zuerst formen wir unsere Gewohnheiten, dann formen unsere Gewohnheiten uns.');
