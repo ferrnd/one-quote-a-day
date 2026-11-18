@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not let your fire go out, spark by irreplaceable spark.', 'pt-BR',
      'Não deixe seu fogo se apagar, faísca por faísca insubstituível.'),
     ('We are all in the gutter, but some of us are looking at the stars.', 'pt-BR',
-     'Estamos todos na sarjeta, mas alguns de nós estão olhando para as estrelas.');
+     'Estamos todos na sarjeta, mas alguns de nós estão olhando para as estrelas.'),
+    ('The darker the night, the brighter the stars, the deeper the grief, the closer is God!', 'pt-BR',
+     'Quanto mais escura a noite, mais brilhantes as estrelas; quanto mais profunda a dor, mais perto está Deus!');
