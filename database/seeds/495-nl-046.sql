@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity has ever been considered the state in which a man most easily becomes acquainted with himself.', 'nl',
      'Tegenspoed is altijd beschouwd als de toestand waarin een mens zichzelf het makkelijkst leert kennen.'),
     ('Bad times have a scientific value. These are occasions a good learner would not miss.', 'nl',
-     'Slechte tijden hebben een wetenschappelijke waarde. Het zijn gelegenheden die een goede leerling niet zou missen.');
+     'Slechte tijden hebben een wetenschappelijke waarde. Het zijn gelegenheden die een goede leerling niet zou missen.'),
+    ('Every wall is a door.', 'nl',
+     'Elke muur is een deur.');
