@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Either you run the day or the day runs you.', 'pt-BR',
      'Ou você comanda o dia, ou o dia comanda você.'),
     ('With self-discipline most anything is possible.', 'pt-BR',
-     'Com autodisciplina, quase tudo é possível.');
+     'Com autodisciplina, quase tudo é possível.'),
+    ('The successful warrior is the average man, with laser-like focus.', 'pt-BR',
+     'O guerreiro bem-sucedido é um homem comum com um foco de laser.');
