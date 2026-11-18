@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be bold, and mighty forces will come to your aid.', 'de',
      'Sei kühn, und mächtige Kräfte werden dir zu Hilfe kommen.'),
     ('There is no passion to be found playing small.', 'de',
-     'Es liegt keine Leidenschaft darin, klein zu spielen.');
+     'Es liegt keine Leidenschaft darin, klein zu spielen.'),
+    ('Courage is like a muscle. We strengthen it by use.', 'de',
+     'Mut ist wie ein Muskel. Wir stärken ihn, indem wir ihn benutzen.');
