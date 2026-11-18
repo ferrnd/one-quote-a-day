@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Faith is the bird that feels the light and sings when the dawn is still dark.', 'fr',
      'La foi est l''oiseau qui sent la lumière et chante quand l''aube est encore sombre.'),
     ('However long the night, the dawn will break.', 'fr',
-     'Aussi longue que soit la nuit, le jour finira par se lever.');
+     'Aussi longue que soit la nuit, le jour finira par se lever.'),
+    ('Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day.', 'fr',
+     'Tiens bon ton chapeau. Tiens bon ton espoir. Et remonte l''horloge, car demain est un autre jour.');
