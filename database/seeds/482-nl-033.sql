@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only way to do great work is to love what you do.', 'nl',
      'De enige manier om geweldig werk te leveren, is houden van wat je doet.'),
     ('You can''t connect the dots looking forward; you can only connect them looking backwards.', 'nl',
-     'Je kunt de puntjes niet verbinden door vooruit te kijken; je kunt ze alleen verbinden door terug te kijken.');
+     'Je kunt de puntjes niet verbinden door vooruit te kijken; je kunt ze alleen verbinden door terug te kijken.'),
+    ('Sometimes life hits you in the head with a brick. Don''t lose faith.', 'nl',
+     'Soms raakt het leven je met een baksteen tegen je hoofd. Verlies het vertrouwen niet.');
