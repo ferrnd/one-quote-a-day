@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You must expect great things of yourself before you can do them.', 'es',
      'Debes esperar grandes cosas de ti mismo antes de poder hacerlas.'),
     ('I attribute my success to this: I never gave or took any excuse.', 'es',
-     'Atribuyo mi éxito a esto: nunca di ni acepté excusas.');
+     'Atribuyo mi éxito a esto: nunca di ni acepté excusas.'),
+    ('Imagination is more important than knowledge.', 'es',
+     'La imaginación es más importante que el conocimiento.');
