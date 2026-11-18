@@ -3,9 +3,11 @@
 Linear memory layout (all integers little-endian):
 
     0x0000  header (64 bytes, see HEADER_FIELDS)
-    0x0040  records: one 16-byte record per quote
+    0x0040  records: one 16-byte record per quote, then one per dedication
               +0 text_ptr  +4 text_len  +8 author_ptr  +12 author_len
-    ......  string pool: author names, then quote bodies (ASCII)
+              (an unsigned dedication has author_ptr = author_len = 0)
+    ......  string pool: author names, quote bodies, dedication texts (ASCII)
+    ......  dedications: (i32 day, u32 record index) pairs, sorted by day
     ......  schedule: one u16 quote index per day, one Gregorian cycle long
     ......  scratch: N x u32 used by the runtime to materialise permutations
 """
@@ -17,12 +19,12 @@ from dataclasses import dataclass
 from pathlib import Path
 
 from . import __version__
-from .civil import WEEKDAYS, civil_from_days, weekday
+from .civil import WEEKDAYS, civil_from_days, days_from_civil, weekday
 from .database import Catalog
 from .schedule import BASE_DAY, SEED, SEQUENCE, WINDOW, build_table
 
 MAGIC = 0x44544F51  # "QOTD"
-FORMAT = 1
+FORMAT = 2
 PAGE = 65_536
 HEADER_SIZE = 64
 RECORD_SIZE = 16
@@ -30,7 +32,9 @@ HEADER_FIELDS = (
     "magic", "format", "quote_count", "author_count",
     "records_ptr", "pool_ptr", "pool_len", "schedule_ptr",
     "schedule_base", "schedule_len", "scratch_ptr", "pool_fnv1a",
+    "dedication_count", "dedications_ptr",
 )
+DEDICATION_SIZE = 8
 
 
 def fnv1a32(data: bytes) -> int:
@@ -65,6 +69,8 @@ class Layout:
     pool: bytes
     author_ptrs: list[tuple[int, int]]
     quote_ptrs: list[tuple[int, int]]
+    dedication_ptrs: list[tuple[int, int, int, int]]
+    dedications_ptr: int
     schedule_ptr: int
     scratch_ptr: int
     end: int
@@ -77,7 +83,7 @@ class Layout:
 def plan(catalog: Catalog) -> Layout:
     n = len(catalog)
     records_ptr = HEADER_SIZE
-    pool_ptr = records_ptr + n * RECORD_SIZE
+    pool_ptr = records_ptr + (n + len(catalog.dedications)) * RECORD_SIZE
     pool = bytearray()
     author_ptrs = []
     for name in catalog.authors:
@@ -89,11 +95,28 @@ def plan(catalog: Catalog) -> Layout:
         raw = quote.body.encode("ascii")
         quote_ptrs.append((pool_ptr + len(pool), len(raw)))
         pool += raw
-    schedule_ptr = align(pool_ptr + len(pool), 8)
+    dedication_ptrs = []
+    for ded in catalog.dedications:
+        raw = ded.body.encode("ascii")
+        text = (pool_ptr + len(pool), len(raw))
+        pool += raw
+        signature = (0, 0)
+        if ded.author:
+            raw = ded.author.encode("ascii")
+            signature = (pool_ptr + len(pool), len(raw))
+            pool += raw
+        dedication_ptrs.append(text + signature)
+    dedications_ptr = align(pool_ptr + len(pool), 8)
+    schedule_ptr = align(dedications_ptr + len(catalog.dedications) * DEDICATION_SIZE, 8)
     scratch_ptr = align(schedule_ptr + WINDOW * 2, 8)
     end = scratch_ptr + n * 4
     return Layout(records_ptr, pool_ptr, bytes(pool), author_ptrs, quote_ptrs,
-                  schedule_ptr, scratch_ptr, end)
+                  dedication_ptrs, dedications_ptr, schedule_ptr, scratch_ptr, end)
+
+
+def dedication_day(iso_date: str) -> int:
+    y, m, d = (int(part) for part in iso_date.split("-"))
+    return days_from_civil(y, m, d)
 
 
 def header_bytes(catalog: Catalog, layout: Layout) -> bytes:
@@ -101,8 +124,9 @@ def header_bytes(catalog: Catalog, layout: Layout) -> bytes:
         MAGIC, FORMAT, len(catalog), len(catalog.authors),
         layout.records_ptr, layout.pool_ptr, len(layout.pool), layout.schedule_ptr,
         BASE_DAY, WINDOW, layout.scratch_ptr, fnv1a32(layout.pool),
+        len(catalog.dedications), layout.dedications_ptr,
     )
-    raw = struct.pack("<12I", *(v & 0xFFFF_FFFF for v in values))
+    raw = struct.pack(f"<{len(HEADER_FIELDS)}I", *(v & 0xFFFF_FFFF for v in values))
     return raw.ljust(HEADER_SIZE, b"\0")
 
 
@@ -121,6 +145,7 @@ def render(catalog: Catalog, fragments: list[Path]) -> str:
     emit(f";;  quotes        {n}")
     emit(f";;  authors       {len(catalog.authors)}")
     emit(f";;  themes        {len(catalog.themes)}")
+    emit(f";;  dedications   {len(catalog.dedications)}")
     emit(f";;  pool          {len(layout.pool)} bytes, fnv1a {fnv1a32(layout.pool):#010x}")
     emit(f";;  schedule      {WINDOW} days from 2000-01-01, seed {SEED:#018x}")
     emit(f";;  sequence      {SEQUENCE:#018x}")
@@ -144,6 +169,9 @@ def render(catalog: Catalog, fragments: list[Path]) -> str:
         ap, al = layout.author_ptrs[quote.author_id - 1]
         rec = struct.pack("<4I", tp, tl, ap, al)
         emit(f'    "{hex_bytes(rec)}" ;; #{i:04d} {quote.theme}')
+    for j, ded in enumerate(catalog.dedications):
+        rec = struct.pack("<4I", *layout.dedication_ptrs[j])
+        emit(f'    "{hex_bytes(rec)}" ;; #{n + j:04d} dedication {ded.day}')
     emit("  )")
     emit("")
 
@@ -157,6 +185,22 @@ def render(catalog: Catalog, fragments: list[Path]) -> str:
     for i, quote in enumerate(catalog.quotes):
         ptr, _ = layout.quote_ptrs[i]
         emit(f"  (data (i32.const {ptr}) {wat_string(quote.body)}) ;; #{i:04d}")
+    emit("")
+
+    emit("  ;; =================================================== dedications ==")
+    emit("  ;;  Messages pinned to one exact date. They override the rotation on")
+    emit("  ;;  that day only and are never part of the schedule below.")
+    for j, ded in enumerate(catalog.dedications):
+        tp, _, ap, _ = layout.dedication_ptrs[j]
+        emit(f"  (data (i32.const {tp}) {wat_string(ded.body)}) ;; #{n + j:04d} {ded.day}")
+        if ded.author:
+            emit(f"  (data (i32.const {ap}) {wat_string(ded.author)})")
+    if catalog.dedications:
+        emit(f"  (data (i32.const {layout.dedications_ptr})")
+        for j, ded in enumerate(catalog.dedications):
+            pair = struct.pack("<iI", dedication_day(ded.day), n + j)
+            emit(f'    "{hex_bytes(pair)}" ;; {ded.day} -> #{n + j:04d}')
+        emit("  )")
     emit("")
 
     emit("  ;; ====================================================== schedule ==")
