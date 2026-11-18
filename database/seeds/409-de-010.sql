@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'de',
      'Es geht nicht darum, wie hart du zuschlagen kannst. Es geht darum, wie viel du einstecken kannst und trotzdem weitermachst.'),
     ('A good half of the art of living is resilience.', 'de',
-     'Ein guter Teil der Lebenskunst ist Widerstandskraft.');
+     'Ein guter Teil der Lebenskunst ist Widerstandskraft.'),
+    ('Nothing is impossible. The word itself says ''I''m possible''!', 'de',
+     'Nichts ist unmöglich. Das Wort selbst sagt auf Englisch: „I''m possible“, ich bin möglich!');
