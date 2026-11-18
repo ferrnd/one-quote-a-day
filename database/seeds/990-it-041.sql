@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not fear mistakes. There are none.', 'it',
      'Non temere gli errori. Non ce ne sono.'),
     ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'it',
-     'Quando commetti un errore, ci sono solo tre cose da fare: ammetterlo, imparare da esso e non ripeterlo.');
+     'Quando commetti un errore, ci sono solo tre cose da fare: ammetterlo, imparare da esso e non ripeterlo.'),
+    ('Failure is a detour, not a dead-end street.', 'it',
+     'Il fallimento è una deviazione, non un vicolo cieco.');
