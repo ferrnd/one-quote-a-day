@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of difficulties grow miracles.', 'fr',
      'Des difficultés naissent les miracles.'),
     ('The gem cannot be polished without friction, nor man perfected without trials.', 'fr',
-     'On ne peut polir la pierre précieuse sans frottement, ni perfectionner l''homme sans épreuves.');
+     'On ne peut polir la pierre précieuse sans frottement, ni perfectionner l''homme sans épreuves.'),
+    ('Smooth seas do not make skillful sailors.', 'fr',
+     'Mer calme n''a jamais fait bon marin.');
