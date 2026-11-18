@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the end, everything will be okay. If it''s not okay, it''s not yet the end.', 'nl',
      'Uiteindelijk komt alles goed. Als het nog niet goed is, is het nog niet het einde.'),
     ('Hope is the companion of power, and mother of success.', 'nl',
-     'Hoop is de metgezel van kracht en de moeder van succes.');
+     'Hoop is de metgezel van kracht en de moeder van succes.'),
+    ('Hope is itself a species of happiness.', 'nl',
+     'Hoop is zelf een soort geluk.');
