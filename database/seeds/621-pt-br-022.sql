@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a good thing, maybe the best of things, and no good thing ever dies.', 'pt-BR',
      'A esperança é uma coisa boa, talvez a melhor das coisas, e nenhuma coisa boa jamais morre.'),
     ('The darkest hour has only sixty minutes.', 'pt-BR',
-     'A hora mais escura tem só sessenta minutos.');
+     'A hora mais escura tem só sessenta minutos.'),
+    ('Never lose hope. Storms make people stronger and never last forever.', 'pt-BR',
+     'Nunca perca a esperança. Tempestades deixam as pessoas mais fortes e nunca duram para sempre.');
