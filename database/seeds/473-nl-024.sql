@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Now is no time to think of what you do not have. Think of what you can do with what there is.', 'nl',
      'Dit is niet het moment om te denken aan wat je niet hebt. Denk aan wat je kunt doen met wat er is.'),
     ('The obstacle is the path.', 'nl',
-     'Het obstakel is de weg.');
+     'Het obstakel is de weg.'),
+    ('The journey of a thousand miles begins with one step.', 'nl',
+     'Een reis van duizend mijl begint met één stap.');
