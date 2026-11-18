@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The very least you can do in your life is figure out what you hope for.', 'nl',
      'Het minste wat je in je leven kunt doen, is uitzoeken waarop je hoopt.'),
     ('There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something better tomorrow.', 'nl',
-     'Er is geen medicijn als hoop, geen prikkel zo groot en geen tonicum zo krachtig als de verwachting van iets beters morgen.');
+     'Er is geen medicijn als hoop, geen prikkel zo groot en geen tonicum zo krachtig als de verwachting van iets beters morgen.'),
+    ('Hope is the pillar that holds up the world.', 'nl',
+     'Hoop is de pijler die de wereld draagt.');
