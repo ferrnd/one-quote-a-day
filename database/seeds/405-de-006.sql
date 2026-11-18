@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not judge me by my success, judge me by how many times I fell down and got back up again.', 'de',
      'Beurteile mich nicht nach meinen Erfolgen, sondern danach, wie oft ich gefallen und wieder aufgestanden bin.'),
     ('Failure should be our teacher, not our undertaker.', 'de',
-     'Das Scheitern sollte unser Lehrer sein, nicht unser Totengräber.');
+     'Das Scheitern sollte unser Lehrer sein, nicht unser Totengräber.'),
+    ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'de',
+     'Nur eines macht einen Traum unerreichbar: die Angst vor dem Scheitern.');
