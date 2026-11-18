@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength doesn''t come from what you can do. It comes from overcoming the things you once thought you couldn''t.', 'nl',
      'Kracht komt niet van wat je kunt. Het komt van het overwinnen van de dingen waarvan je ooit dacht dat je ze niet kon.'),
     ('Excellence is not a skill. It is an attitude.', 'nl',
-     'Uitmuntendheid is geen vaardigheid. Het is een houding.');
+     'Uitmuntendheid is geen vaardigheid. Het is een houding.'),
+    ('Do the hard jobs first. The easy jobs will take care of themselves.', 'nl',
+     'Doe eerst de moeilijke klussen. De makkelijke regelen zichzelf.');
