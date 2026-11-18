@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Still, like air, I''ll rise.', 'de',
      'Und doch erhebe ich mich, wie die Luft.'),
     ('She stood in the storm, and when the wind did not blow her way, she adjusted her sails.', 'de',
-     'Sie stand im Sturm, und als der Wind nicht in ihre Richtung wehte, richtete sie ihre Segel neu aus.');
+     'Sie stand im Sturm, und als der Wind nicht in ihre Richtung wehte, richtete sie ihre Segel neu aus.'),
+    ('Tough times never last, but tough people do.', 'de',
+     'Harte Zeiten dauern nie ewig, starke Menschen schon.');
