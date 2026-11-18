@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you think of yourself is much more important than what others think of you.', 'it',
      'Ciò che pensi di te stesso è molto più importante di ciò che gli altri pensano di te.'),
     ('A man is but the product of his thoughts. What he thinks, he becomes.', 'it',
-     'L''uomo non è altro che il prodotto dei suoi pensieri. Diventa ciò che pensa.');
+     'L''uomo non è altro che il prodotto dei suoi pensieri. Diventa ciò che pensa.'),
+    ('If you don''t like something, change it. If you can''t change it, change your attitude.', 'it',
+     'Se una cosa non ti piace, cambiala. Se non puoi cambiarla, cambia il tuo atteggiamento.');
