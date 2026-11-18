@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In dreams begins responsibility.', 'nl',
      'In dromen begint verantwoordelijkheid.'),
     ('Tread softly because you tread on my dreams.', 'nl',
-     'Treed zachtjes, want je treedt op mijn dromen.');
+     'Treed zachtjes, want je treedt op mijn dromen.'),
+    ('All that we see or seem is but a dream within a dream.', 'nl',
+     'Alles wat we zien of lijken, is slechts een droom in een droom.');
