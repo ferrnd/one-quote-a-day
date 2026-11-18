@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Self-belief and hard work will always earn you success.', 'nl',
      'Zelfvertrouwen en hard werken leveren je altijd succes op.'),
     ('Too many of us are not living our dreams because we are living our fears.', 'nl',
-     'Te veel van ons leven hun dromen niet, omdat ze hun angsten leven.');
+     'Te veel van ons leven hun dromen niet, omdat ze hun angsten leven.'),
+    ('Shoot for the moon. Even if you miss, you''ll land among the stars.', 'nl',
+     'Mik op de maan. Zelfs als je mist, land je tussen de sterren.');
