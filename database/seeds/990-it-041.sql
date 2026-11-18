@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.', 'it',
      'Costruisci il successo partendo dai fallimenti. Lo scoraggiamento e il fallimento sono due dei gradini più sicuri verso il successo.'),
     ('Mistakes are always forgivable, if one has the courage to admit them.', 'it',
-     'Gli errori sono sempre perdonabili, se si ha il coraggio di ammetterli.');
+     'Gli errori sono sempre perdonabili, se si ha il coraggio di ammetterli.'),
+    ('Do not fear mistakes. There are none.', 'it',
+     'Non temere gli errori. Non ce ne sono.');
