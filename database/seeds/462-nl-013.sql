@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day.', 'nl',
      'Houd je hoed vast. Houd je hoop vast. En wind de klok op, want morgen is er weer een dag.'),
     ('There are far, far better things ahead than any we leave behind.', 'nl',
-     'Er liggen veel, veel betere dingen voor ons dan alles wat we achterlaten.');
+     'Er liggen veel, veel betere dingen voor ons dan alles wat we achterlaten.'),
+    ('In spite of everything I still believe that people are really good at heart.', 'nl',
+     'Ondanks alles geloof ik nog steeds dat de mensen in de grond van hun hart goed zijn.');
