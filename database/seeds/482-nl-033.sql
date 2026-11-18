@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t connect the dots looking forward; you can only connect them looking backwards.', 'nl',
      'Je kunt de puntjes niet verbinden door vooruit te kijken; je kunt ze alleen verbinden door terug te kijken.'),
     ('Sometimes life hits you in the head with a brick. Don''t lose faith.', 'nl',
-     'Soms raakt het leven je met een baksteen tegen je hoofd. Verlies het vertrouwen niet.');
+     'Soms raakt het leven je met een baksteen tegen je hoofd. Verlies het vertrouwen niet.'),
+    ('When something is important enough, you do it even if the odds are not in your favor.', 'nl',
+     'Als iets belangrijk genoeg is, doe je het, ook als de kansen niet in je voordeel zijn.');
