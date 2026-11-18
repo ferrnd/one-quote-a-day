@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never mistake activity for achievement.', 'it',
      'Non confondere mai l''attività con il risultato.'),
     ('The harder you work, the harder it is to surrender.', 'it',
-     'Più lavori duro, più è difficile arrendersi.');
+     'Più lavori duro, più è difficile arrendersi.'),
+    ('Practice does not make perfect. Only perfect practice makes perfect.', 'it',
+     'La pratica non rende perfetti. Solo la pratica perfetta rende perfetti.');
