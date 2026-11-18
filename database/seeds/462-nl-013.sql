@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We need never be hopeless because we can never be irreparably broken.', 'nl',
      'We hoeven nooit hopeloos te zijn, want we kunnen nooit onherstelbaar gebroken worden.'),
     ('We will grieve not, rather find strength in what remains behind.', 'nl',
-     'We zullen niet treuren, maar kracht vinden in wat overblijft.');
+     'We zullen niet treuren, maar kracht vinden in wat overblijft.'),
+    ('Be like the bird who, halting in his flight on limb too slight, feels it give way beneath him, yet sings, knowing he hath wings.', 'nl',
+     'Wees als de vogel die even rust op een te tere tak, die voelt dat hij onder hem bezwijkt en toch zingt, wetend dat hij vleugels heeft.');
