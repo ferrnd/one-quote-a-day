@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greater the difficulty, the more glory in surmounting it.', 'es',
      'Cuanto mayor es la dificultad, mayor es la gloria de superarla.'),
     ('Difficulties are things that show a person what they are.', 'es',
-     'Las dificultades son las que muestran a una persona quién es.');
+     'Las dificultades son las que muestran a una persona quién es.'),
+    ('No tree becomes rooted and sturdy unless many a wind assails it.', 'es',
+     'Ningún árbol echa raíces firmes si no lo azotan muchos vientos.');
