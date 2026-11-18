@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Go for it now. The future is promised to no one.', 'it',
      'Fallo adesso. Il futuro non è promesso a nessuno.'),
     ('Doing the best at this moment puts you in the best place for the next moment.', 'it',
-     'Dare il meglio in questo momento ti mette nella posizione migliore per il momento successivo.');
+     'Dare il meglio in questo momento ti mette nella posizione migliore per il momento successivo.'),
+    ('The future starts today, not tomorrow.', 'it',
+     'Il futuro comincia oggi, non domani.');
