@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Have patience. All things are difficult before they become easy.', 'nl',
      'Heb geduld. Alle dingen zijn moeilijk voordat ze makkelijk worden.'),
     ('Patience is a conquering virtue.', 'nl',
-     'Geduld is een deugd die overwint.');
+     'Geduld is een deugd die overwint.'),
+    ('Everything comes to him who hustles while he waits.', 'nl',
+     'Alles komt naar wie zich inspant terwijl hij wacht.');
