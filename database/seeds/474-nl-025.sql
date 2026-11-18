@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never mistake motion for action.', 'nl',
      'Verwar beweging nooit met actie.'),
     ('Don''t let yesterday take up too much of today.', 'nl',
-     'Laat gisteren niet te veel van vandaag in beslag nemen.');
+     'Laat gisteren niet te veel van vandaag in beslag nemen.'),
+    ('Even if you''re on the right track, you''ll get run over if you just sit there.', 'nl',
+     'Zelfs als je op het goede spoor zit, word je overreden als je daar alleen maar blijft zitten.');
