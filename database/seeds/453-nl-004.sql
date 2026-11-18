@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is being scared to death, but saddling up anyway.', 'nl',
      'Moed is doodsbang zijn en toch in het zadel stappen.'),
     ('I am not afraid of storms, for I am learning how to sail my ship.', 'nl',
-     'Ik ben niet bang voor stormen, want ik leer mijn schip te zeilen.');
+     'Ik ben niet bang voor stormen, want ik leer mijn schip te zeilen.'),
+    ('A ship in harbor is safe, but that is not what ships are built for.', 'nl',
+     'Een schip in de haven is veilig, maar daar zijn schepen niet voor gebouwd.');
