@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dripping water hollows out stone, not through force but through persistence.', 'nl',
      'Druppelend water holt de steen uit, niet door kracht, maar door volharding.'),
     ('All human wisdom is summed up in two words: wait and hope.', 'nl',
-     'Alle menselijke wijsheid is samengevat in twee woorden: wachten en hopen.');
+     'Alle menselijke wijsheid is samengevat in twee woorden: wachten en hopen.'),
+    ('The key to everything is patience. You get the chicken by hatching the egg, not by smashing it.', 'nl',
+     'De sleutel tot alles is geduld. Je krijgt het kuiken door het ei uit te broeden, niet door het stuk te slaan.');
