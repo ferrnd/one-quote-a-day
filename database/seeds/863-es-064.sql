@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between ordinary and extraordinary is that little extra.', 'es',
      'La diferencia entre lo ordinario y lo extraordinario es ese pequeño extra.'),
     ('Winning isn''t everything, but wanting to win is.', 'es',
-     'Ganar no lo es todo, pero querer ganar sí.');
+     'Ganar no lo es todo, pero querer ganar sí.'),
+    ('Perfection is not attainable, but if we chase perfection we can catch excellence.', 'es',
+     'La perfección no es alcanzable, pero si perseguimos la perfección podemos alcanzar la excelencia.');
