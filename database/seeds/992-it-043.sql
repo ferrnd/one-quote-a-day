@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.', 'it',
      'Quando splende il sole, posso fare qualsiasi cosa; nessuna montagna è troppo alta, nessun problema troppo difficile da superare.'),
     ('Never doubt that a small group of thoughtful, committed citizens can change the world.', 'it',
-     'Non dubitate mai che un piccolo gruppo di cittadini consapevoli e impegnati possa cambiare il mondo.');
+     'Non dubitate mai che un piccolo gruppo di cittadini consapevoli e impegnati possa cambiare il mondo.'),
+    ('Keep your face to the sunshine and you cannot see a shadow.', 'it',
+     'Tieni il viso rivolto al sole e non vedrai l''ombra.');
