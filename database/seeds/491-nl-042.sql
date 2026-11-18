@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a verb with its shirtsleeves rolled up.', 'nl',
      'Hoop is een werkwoord met opgestroopte mouwen.'),
     ('To hope is to give yourself to the future.', 'nl',
-     'Hopen is jezelf aan de toekomst geven.');
+     'Hopen is jezelf aan de toekomst geven.'),
+    ('Hope is not a lottery ticket you can sit on the sofa and clutch, feeling lucky. It is an axe you break down doors with in an emergency.', 'nl',
+     'Hoop is geen lot dat je op de bank kunt vastklemmen terwijl je je gelukkig voelt. Het is een bijl waarmee je in een noodgeval deuren inslaat.');
