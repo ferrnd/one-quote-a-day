@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Eighty percent of success is showing up.', 'de',
      'Achtzig Prozent des Erfolgs bestehen darin, da zu sein.'),
     ('You can''t build a reputation on what you are going to do.', 'de',
-     'Man kann sich keinen Ruf mit dem aufbauen, was man tun wird.');
+     'Man kann sich keinen Ruf mit dem aufbauen, was man tun wird.'),
+    ('You may delay, but time will not.', 'de',
+     'Du kannst aufschieben, die Zeit aber nicht.');
