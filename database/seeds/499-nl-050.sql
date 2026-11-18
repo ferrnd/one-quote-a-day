@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('While we wait for life, life passes.', 'nl',
      'Terwijl we op het leven wachten, gaat het leven voorbij.'),
     ('Wherever there is a human being, there is an opportunity for a kindness.', 'nl',
-     'Waar een mens is, is een kans voor vriendelijkheid.');
+     'Waar een mens is, is een kans voor vriendelijkheid.'),
+    ('He suffers more than necessary, who suffers before it is necessary.', 'nl',
+     'Wie lijdt voordat het nodig is, lijdt meer dan nodig.');
