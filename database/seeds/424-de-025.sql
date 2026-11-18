@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never put off till tomorrow what you can do today.', 'de',
      'Verschiebe nicht auf morgen, was du heute tun kannst.'),
     ('Do the difficult things while they are easy and do the great things while they are small.', 'de',
-     'Tu das Schwierige, solange es leicht ist, und das Große, solange es klein ist.');
+     'Tu das Schwierige, solange es leicht ist, und das Große, solange es klein ist.'),
+    ('Well begun is half done.', 'de',
+     'Gut begonnen ist halb gewonnen.');
