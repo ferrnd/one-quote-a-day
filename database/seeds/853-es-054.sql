@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When you change the way you look at things, the things you look at change.', 'es',
      'Cuando cambias la forma de mirar las cosas, las cosas que miras cambian.'),
     ('Happiness is not something ready made. It comes from your own actions.', 'es',
-     'La felicidad no es algo que venga hecho. Viene de tus propias acciones.');
+     'La felicidad no es algo que venga hecho. Viene de tus propias acciones.'),
+    ('Self-belief and hard work will always earn you success.', 'es',
+     'Creer en uno mismo y trabajar duro siempre te llevarán al éxito.');
