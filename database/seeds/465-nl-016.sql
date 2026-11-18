@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You must never be fearful about what you are doing when it is right.', 'nl',
      'Je moet nooit bang zijn voor wat je doet als het juist is.'),
     ('When they go low, we go high.', 'nl',
-     'Als zij laag gaan, gaan wij hoog.');
+     'Als zij laag gaan, gaan wij hoog.'),
+    ('Ability may get you to the top, but it takes character to keep you there.', 'nl',
+     'Bekwaamheid brengt je misschien naar de top, maar er is karakter nodig om daar te blijven.');
