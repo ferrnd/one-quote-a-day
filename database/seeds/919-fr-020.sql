@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can''t change the direction of the wind, but I can adjust my sails to always reach my destination.', 'fr',
      'Je ne peux pas changer la direction du vent, mais je peux ajuster mes voiles pour toujours atteindre ma destination.'),
     ('We cannot become what we want by remaining what we are.', 'fr',
-     'Nous ne pouvons pas devenir ce que nous voulons en restant ce que nous sommes.');
+     'Nous ne pouvons pas devenir ce que nous voulons en restant ce que nous sommes.'),
+    ('Little by little, a little becomes a lot.', 'fr',
+     'Petit à petit, peu devient beaucoup.');
