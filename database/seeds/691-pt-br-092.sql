@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t judge each day by the harvest you reap but by the seeds that you plant.', 'pt-BR',
      'Não julgue cada dia pela colheita que você faz, mas pelas sementes que você planta.'),
     ('Do something wonderful, people may imitate it.', 'pt-BR',
-     'Faça algo maravilhoso; as pessoas podem imitar.');
+     'Faça algo maravilhoso; as pessoas podem imitar.'),
+    ('The time is always right to do what is right.', 'pt-BR',
+     'O momento é sempre certo para fazer o que é certo.');
