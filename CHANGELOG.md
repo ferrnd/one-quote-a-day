@@ -8,6 +8,10 @@ All notable changes to this project are documented here. The format follows
 
 ### Added
 
+- A "!" button in the bottom-left corner opens a card explaining every
+  feature, including a live countdown for devices that cannot hover.
+- Horizontal swipes on touch screens walk through past days, like the
+  arrow keys.
 - Quotes now scroll instead of fading: at midnight the old one drops off the
   bottom and the new one comes down from the top.
 - Left and right arrow keys walk through past days with a sideways slide,
