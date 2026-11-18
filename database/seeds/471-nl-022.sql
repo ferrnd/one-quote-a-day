@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity is like a strong wind. It tears away from us all but the things that cannot be torn, so that we see ourselves as we really are.', 'nl',
      'Tegenspoed is als een harde wind. Hij rukt alles van ons weg behalve wat niet weggerukt kan worden, zodat we onszelf zien zoals we werkelijk zijn.'),
     ('What makes the desert beautiful is that somewhere it hides a well.', 'nl',
-     'Wat de woestijn mooi maakt, is dat ze ergens een put verbergt.');
+     'Wat de woestijn mooi maakt, is dat ze ergens een put verbergt.'),
+    ('The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.', 'nl',
+     'De pessimist ziet een moeilijkheid in elke kans. De optimist ziet een kans in elke moeilijkheid.');
