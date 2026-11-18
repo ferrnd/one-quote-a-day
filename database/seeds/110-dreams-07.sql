@@ -6,4 +6,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Our truest life is when we are in dreams awake.', 'Henry David Thoreau', 'dreams'),
     ('Go as far as you can see; when you get there, you''ll be able to see farther.', 'Thomas Carlyle', 'dreams'),
     ('The best way to make your dreams come true is to wake up.', 'Paul Valery', 'dreams'),
-    ('Who looks outside, dreams; who looks inside, awakes.', 'Carl Jung', 'dreams');
+    ('Who looks outside, dreams; who looks inside, awakes.', 'Carl Jung', 'dreams'),
+    ('You are never given a wish without also being given the power to make it come true.', 'Richard Bach', 'dreams');
