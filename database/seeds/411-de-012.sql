@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.', 'de',
      'Man kann das Glück selbst in den dunkelsten Zeiten finden, wenn man nur daran denkt, das Licht einzuschalten.'),
     ('Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come.', 'de',
-     'Hoffnung beginnt im Dunkeln: die beharrliche Hoffnung, dass die Morgendämmerung kommt, wenn man einfach erscheint und versucht, das Richtige zu tun.');
+     'Hoffnung beginnt im Dunkeln: die beharrliche Hoffnung, dass die Morgendämmerung kommt, wenn man einfach erscheint und versucht, das Richtige zu tun.'),
+    ('Let your hopes, not your hurts, shape your future.', 'de',
+     'Lass deine Hoffnungen, nicht deine Verletzungen, deine Zukunft gestalten.');
