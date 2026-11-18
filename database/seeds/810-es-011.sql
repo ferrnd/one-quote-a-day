@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Scared is what you''re feeling. Brave is what you''re doing.', 'es',
      'Miedo es lo que sientes. Valentía es lo que haces.'),
     ('Courage is reckoned the greatest of all virtues; because, unless a man has that virtue, he has no security for preserving any other.', 'es',
-     'El valor es considerado la mayor de las virtudes, porque sin él el hombre no tiene garantía de conservar ninguna otra.');
+     'El valor es considerado la mayor de las virtudes, porque sin él el hombre no tiene garantía de conservar ninguna otra.'),
+    ('Courage is the ladder on which all the other virtues mount.', 'es',
+     'El valor es la escalera por la que suben todas las demás virtudes.');
