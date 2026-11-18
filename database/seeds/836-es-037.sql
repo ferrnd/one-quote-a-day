@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you get by achieving your goals is not as important as what you become by achieving your goals.', 'es',
      'Lo que obtienes al alcanzar tus metas no es tan importante como en quién te conviertes al alcanzarlas.'),
     ('Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don''t belong.', 'es',
-     'Crecer duele. Cambiar duele. Pero nada duele tanto como quedarse atrapado en un lugar al que no perteneces.');
+     'Crecer duele. Cambiar duele. Pero nada duele tanto como quedarse atrapado en un lugar al que no perteneces.'),
+    ('And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.', 'es',
+     'Y llegó el día en que el riesgo de seguir cerrada en un capullo fue más doloroso que el riesgo de florecer.');
