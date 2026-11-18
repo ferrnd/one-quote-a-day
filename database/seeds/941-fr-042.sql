@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing is permanent in this wicked world, not even our troubles.', 'fr',
      'Rien n''est permanent dans ce monde cruel, pas même nos ennuis.'),
     ('Hardships make or break people.', 'fr',
-     'Les épreuves font ou défont les gens.');
+     'Les épreuves font ou défont les gens.'),
+    ('Turn your scars into stars.', 'fr',
+     'Transforme tes cicatrices en étoiles.');
