@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only true wisdom is in knowing you know nothing.', 'it',
      'L''unica vera saggezza è sapere di non sapere.'),
     ('Be kind, for everyone you meet is fighting a hard battle.', 'it',
-     'Sii gentile, perché ogni persona che incontri sta combattendo una dura battaglia.');
+     'Sii gentile, perché ogni persona che incontri sta combattendo una dura battaglia.'),
+    ('No act of kindness, no matter how small, is ever wasted.', 'it',
+     'Nessun atto di gentilezza, per quanto piccolo, è mai sprecato.');
