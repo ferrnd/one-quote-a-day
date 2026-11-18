@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Obstacles cannot crush me. Every obstacle yields to stern resolve.', 'fr',
      'Les obstacles ne peuvent m''écraser. Tout obstacle cède devant une ferme résolution.'),
     ('I am not discouraged, because every wrong attempt discarded is another step forward.', 'fr',
-     'Je ne suis pas découragé, car chaque tentative ratée que j''écarte est un pas de plus en avant.');
+     'Je ne suis pas découragé, car chaque tentative ratée que j''écarte est un pas de plus en avant.'),
+    ('Never let the fear of striking out keep you from playing the game.', 'fr',
+     'Ne laisse jamais la peur de rater t''empêcher de jouer le jeu.');
