@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be not afraid.', 'fr',
      'N''ayez pas peur.'),
     ('I am not afraid of tomorrow, for I have seen yesterday and I love today.', 'fr',
-     'Je n''ai pas peur de demain, car j''ai vu hier et j''aime aujourd''hui.');
+     'Je n''ai pas peur de demain, car j''ai vu hier et j''aime aujourd''hui.'),
+    ('Every day is a new day.', 'fr',
+     'Chaque jour est un jour nouveau.');
