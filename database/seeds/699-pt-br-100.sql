@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not that we have a short time to live, but that we waste a lot of it.', 'pt-BR',
      'Não é que tenhamos pouco tempo de vida, mas sim que desperdiçamos muito dele.'),
     ('While we wait for life, life passes.', 'pt-BR',
-     'Enquanto esperamos pela vida, a vida passa.');
+     'Enquanto esperamos pela vida, a vida passa.'),
+    ('Wherever there is a human being, there is an opportunity for a kindness.', 'pt-BR',
+     'Onde houver um ser humano, há uma oportunidade para a bondade.');
