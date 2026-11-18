@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A goal is a dream with a deadline.', 'de',
      'Ein Ziel ist ein Traum mit einer Frist.'),
     ('It''s the possibility of having a dream come true that makes life interesting.', 'de',
-     'Die Möglichkeit, einen Traum zu verwirklichen, macht das Leben interessant.');
+     'Die Möglichkeit, einen Traum zu verwirklichen, macht das Leben interessant.'),
+    ('And, when you want something, all the universe conspires in helping you to achieve it.', 'de',
+     'Und wenn du etwas ganz fest willst, dann wird das ganze Universum darauf hinwirken, dass du es erreichst.');
