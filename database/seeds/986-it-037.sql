@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('As long as you live, keep learning how to live.', 'it',
      'Finché vivi, continua a imparare a vivere.'),
     ('Sometimes even to live is an act of courage.', 'it',
-     'A volte anche vivere è un atto di coraggio.');
+     'A volte anche vivere è un atto di coraggio.'),
+    ('If a man knows not to which port he sails, no wind is favorable.', 'it',
+     'Nessun vento è favorevole per chi non sa dove andare.');
