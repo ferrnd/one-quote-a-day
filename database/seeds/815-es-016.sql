@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is unimportant. It takes courage to make a fool of yourself.', 'es',
      'El fracaso no importa. Hace falta valor para hacer el ridículo.'),
     ('What is defeat? Nothing but education; nothing but the first step to something better.', 'es',
-     '¿Qué es la derrota? Nada más que aprendizaje; nada más que el primer paso hacia algo mejor.');
+     '¿Qué es la derrota? Nada más que aprendizaje; nada más que el primer paso hacia algo mejor.'),
+    ('Never confuse a single defeat with a final defeat.', 'es',
+     'Nunca confundas una sola derrota con una derrota definitiva.');
