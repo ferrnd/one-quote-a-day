@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best time to plant a tree was 20 years ago. The second best time is now.', 'it',
      'Il momento migliore per piantare un albero era 20 anni fa. Il secondo momento migliore è adesso.'),
     ('Do what you can, with what you have, where you are.', 'it',
-     'Fai ciò che puoi, con ciò che hai, dove sei.');
+     'Fai ciò che puoi, con ciò che hai, dove sei.'),
+    ('A year from now you may wish you had started today.', 'it',
+     'Tra un anno potresti desiderare di aver cominciato oggi.');
