@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have stood on a mountain of no''s for one yes.', 'it',
      'Sono rimasta in piedi su una montagna di no per un solo sì.'),
     ('I had to make my own living and my own opportunity. But I made it!', 'it',
-     'Ho dovuto guadagnarmi da vivere e crearmi le mie opportunità. Ma ce l''ho fatta!');
+     'Ho dovuto guadagnarmi da vivere e crearmi le mie opportunità. Ma ce l''ho fatta!'),
+    ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'it',
+     'Non ci sono arrivata desiderandolo o sperandolo, ma lavorando per ottenerlo.');
