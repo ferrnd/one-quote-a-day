@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The cave you fear to enter holds the treasure you seek.', 'fr',
      'La grotte où tu as peur d''entrer renferme le trésor que tu cherches.'),
     ('Courage is contagious. When a brave man takes a stand, the spines of others are often stiffened.', 'fr',
-     'Le courage est contagieux. Quand un homme brave prend position, les autres se redressent souvent.');
+     'Le courage est contagieux. Quand un homme brave prend position, les autres se redressent souvent.'),
+    ('Nothing in life is to be feared, it is only to be understood.', 'fr',
+     'Rien dans la vie n''est à craindre, tout est à comprendre.');
