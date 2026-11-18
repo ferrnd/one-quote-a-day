@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you can imagine it, you can achieve it.', 'nl',
      'Als je het je kunt voorstellen, kun je het bereiken.'),
     ('The dreamers are the saviors of the world.', 'nl',
-     'De dromers zijn de redders van de wereld.');
+     'De dromers zijn de redders van de wereld.'),
+    ('Dream lofty dreams, and as you dream, so shall you become.', 'nl',
+     'Droom verheven dromen, en zoals je droomt, zo zul je worden.');
