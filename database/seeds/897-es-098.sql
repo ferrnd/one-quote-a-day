@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Go as far as you can see; when you get there, you''ll be able to see farther.', 'es',
      'Ve hasta donde alcances a ver; cuando llegues allí, podrás ver más lejos.'),
     ('The best way to make your dreams come true is to wake up.', 'es',
-     'La mejor manera de hacer realidad tus sueños es despertar.');
+     'La mejor manera de hacer realidad tus sueños es despertar.'),
+    ('Who looks outside, dreams; who looks inside, awakes.', 'es',
+     'Quien mira hacia fuera, sueña; quien mira hacia dentro, despierta.');
