@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The future depends on what you do today.', 'pt-BR',
      'O futuro depende do que você faz hoje.'),
     ('Never put off till tomorrow what you can do today.', 'pt-BR',
-     'Nunca deixe para amanhã o que você pode fazer hoje.');
+     'Nunca deixe para amanhã o que você pode fazer hoje.'),
+    ('Do the difficult things while they are easy and do the great things while they are small.', 'pt-BR',
+     'Faça as coisas difíceis enquanto ainda são fáceis, e as grandes enquanto ainda são pequenas.');
