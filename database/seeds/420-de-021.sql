@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Begin at once to live, and count each separate day as a separate life.', 'de',
      'Beginne sofort zu leben und zähle jeden einzelnen Tag als ein eigenes Leben.'),
     ('Start where you are. Use what you have. Do what you can.', 'de',
-     'Fang dort an, wo du bist. Nutze, was du hast. Tu, was du kannst.');
+     'Fang dort an, wo du bist. Nutze, was du hast. Tu, was du kannst.'),
+    ('We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.', 'de',
+     'Wir erfreuen uns an der Schönheit des Schmetterlings, erkennen aber selten die Veränderungen an, die er durchlaufen hat, um diese Schönheit zu erreichen.');
