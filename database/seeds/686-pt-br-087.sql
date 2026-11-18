@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nobody has ever measured, not even poets, how much the heart can hold.', 'pt-BR',
      'Ninguém jamais mediu, nem mesmo os poetas, o quanto cabe em um coração.'),
     ('Not all of us can do great things. But we can do small things with great love.', 'pt-BR',
-     'Nem todos nós podemos fazer grandes coisas. Mas podemos fazer pequenas coisas com grande amor.');
+     'Nem todos nós podemos fazer grandes coisas. Mas podemos fazer pequenas coisas com grande amor.'),
+    ('Though she be but little, she is fierce.', 'pt-BR',
+     'Ela pode ser pequena, mas é feroz.');
