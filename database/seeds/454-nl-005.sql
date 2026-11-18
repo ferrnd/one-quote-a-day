@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only thing we have to fear is fear itself.', 'nl',
      'Het enige wat we moeten vrezen, is de angst zelf.'),
     ('Courage is knowing what not to fear.', 'nl',
-     'Moed is weten wat je niet hoeft te vrezen.');
+     'Moed is weten wat je niet hoeft te vrezen.'),
+    ('Feel the fear and do it anyway.', 'nl',
+     'Voel de angst en doe het toch.');
