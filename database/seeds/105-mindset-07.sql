@@ -7,4 +7,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Believe and act as if it were impossible to fail.', 'Charles F. Kettering', 'mindset'),
     ('The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.', 'John Milton', 'mindset'),
     ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'Peace Pilgrim', 'mindset'),
-    ('I am the greatest. I said that even before I knew I was.', 'Muhammad Ali', 'mindset');
+    ('I am the greatest. I said that even before I knew I was.', 'Muhammad Ali', 'mindset'),
+    ('Impossible is just a big word thrown around by small men.', 'Muhammad Ali', 'mindset');
