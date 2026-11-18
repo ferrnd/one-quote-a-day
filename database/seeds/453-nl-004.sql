@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A ship in harbor is safe, but that is not what ships are built for.', 'nl',
      'Een schip in de haven is veilig, maar daar zijn schepen niet voor gebouwd.'),
     ('The cave you fear to enter holds the treasure you seek.', 'nl',
-     'De grot die je niet durft te betreden, bevat de schat die je zoekt.');
+     'De grot die je niet durft te betreden, bevat de schat die je zoekt.'),
+    ('Courage is contagious. When a brave man takes a stand, the spines of others are often stiffened.', 'nl',
+     'Moed is besmettelijk. Als een dapper mens stelling neemt, rechten anderen vaak ook hun rug.');
