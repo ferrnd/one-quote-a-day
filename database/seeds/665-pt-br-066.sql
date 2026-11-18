@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sometimes life hits you in the head with a brick. Don''t lose faith.', 'pt-BR',
      'Às vezes a vida acerta sua cabeça com um tijolo. Não perca a fé.'),
     ('When something is important enough, you do it even if the odds are not in your favor.', 'pt-BR',
-     'Quando algo é importante o bastante, você faz, mesmo que as chances não estejam a seu favor.');
+     'Quando algo é importante o bastante, você faz, mesmo que as chances não estejam a seu favor.'),
+    ('Always bear in mind that your own resolution to succeed is more important than any other.', 'pt-BR',
+     'Tenha sempre em mente que a sua própria decisão de vencer é mais importante do que qualquer outra coisa.');
