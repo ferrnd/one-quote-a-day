@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.', 'nl',
      'Zegevierende krijgers winnen eerst en trekken dan ten strijde, terwijl verslagen krijgers eerst ten strijde trekken en dan proberen te winnen.'),
     ('All our dreams can come true, if we have the courage to pursue them.', 'nl',
-     'Al onze dromen kunnen uitkomen, als we de moed hebben ze na te jagen.');
+     'Al onze dromen kunnen uitkomen, als we de moed hebben ze na te jagen.'),
+    ('First, think. Second, dream. Third, believe. And finally, dare.', 'nl',
+     'Eerst denken. Dan dromen. Dan geloven. En ten slotte durven.');
