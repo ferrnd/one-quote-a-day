@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield.', 'nl',
      'Water is vloeibaar, zacht en meegaand. Maar water slijt de rots, die star is en niet kan toegeven.'),
     ('Paralyze resistance with persistence.', 'nl',
-     'Verlam weerstand met volharding.');
+     'Verlam weerstand met volharding.'),
+    ('Effort only fully releases its reward after a person refuses to quit.', 'nl',
+     'Inspanning geeft pas haar volle beloning als je weigert op te geven.');
