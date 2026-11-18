@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t grieve. Anything you lose comes round in another form.', 'de',
      'Gräme dich nicht. Alles, was du verlierst, kehrt in anderer Gestalt zurück.'),
     ('Set your life on fire. Seek those who fan your flames.', 'de',
-     'Setze dein Leben in Brand. Suche die, die deine Flammen entfachen.');
+     'Setze dein Leben in Brand. Suche die, die deine Flammen entfachen.'),
+    ('Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.', 'de',
+     'Gestern war ich klug, also wollte ich die Welt verändern. Heute bin ich weise, also verändere ich mich selbst.');
