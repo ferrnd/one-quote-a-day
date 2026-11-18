@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you learn from defeat, you haven''t really lost.', 'nl',
      'Als je leert van een nederlaag, heb je niet echt verloren.'),
     ('The master has failed more times than the beginner has even tried.', 'nl',
-     'De meester heeft vaker gefaald dan de beginner het ooit heeft geprobeerd.');
+     'De meester heeft vaker gefaald dan de beginner het ooit heeft geprobeerd.'),
+    ('It''s fine to celebrate success but it is more important to heed the lessons of failure.', 'nl',
+     'Het is goed om succes te vieren, maar het is belangrijker om de lessen van falen ter harte te nemen.');
