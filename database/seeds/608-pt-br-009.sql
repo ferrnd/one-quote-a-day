@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the most important of all the virtues because without courage, you can''t practice any other virtue consistently.', 'pt-BR',
      'A coragem é a mais importante de todas as virtudes, porque sem coragem não é possível praticar nenhuma outra virtude com constância.'),
     ('Freedom lies in being bold.', 'pt-BR',
-     'A liberdade está em ser ousado.');
+     'A liberdade está em ser ousado.'),
+    ('The only thing we have to fear is fear itself.', 'pt-BR',
+     'A única coisa que devemos temer é o próprio medo.');
