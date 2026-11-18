@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.', 'fr',
      'On gagne en force, en courage et en confiance à chaque expérience où l''on s''arrête vraiment pour regarder la peur en face.'),
     ('Courage is resistance to fear, mastery of fear, not absence of fear.', 'fr',
-     'Le courage, c''est résister à la peur, la maîtriser, et non l''absence de peur.');
+     'Le courage, c''est résister à la peur, la maîtriser, et non l''absence de peur.'),
+    ('Life shrinks or expands in proportion to one''s courage.', 'fr',
+     'La vie se rétrécit ou s''élargit à la mesure de notre courage.');
