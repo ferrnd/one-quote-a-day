@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t let the fear of losing be greater than the excitement of winning.', 'nl',
      'Laat de angst om te verliezen niet groter zijn dan de opwinding van het winnen.'),
     ('We learn from failure, not from success!', 'nl',
-     'We leren van falen, niet van succes!');
+     'We leren van falen, niet van succes!'),
+    ('You can''t be afraid to fail. It''s the only way you succeed.', 'nl',
+     'Je mag niet bang zijn om te falen. Het is de enige manier om te slagen.');
