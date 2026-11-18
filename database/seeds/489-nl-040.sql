@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be brave. Take risks. Nothing can substitute experience.', 'nl',
      'Wees moedig. Neem risico''s. Niets kan ervaring vervangen.'),
     ('He who is brave is free.', 'nl',
-     'Wie moedig is, is vrij.');
+     'Wie moedig is, is vrij.'),
+    ('I must not fear. Fear is the mind-killer.', 'nl',
+     'Ik mag niet bang zijn. Angst doodt de geest.');
