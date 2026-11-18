@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Persist and persevere, and you will find most things that are attainable, possible.', 'de',
      'Bleib beharrlich und halte durch, und du wirst feststellen, dass die meisten erreichbaren Dinge möglich sind.'),
     ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'de',
-     'Die meisten Menschen geben genau dann auf, wenn sie kurz vor dem Erfolg stehen. Sie geben einen Schritt vor der Ziellinie auf.');
+     'Die meisten Menschen geben genau dann auf, wenn sie kurz vor dem Erfolg stehen. Sie geben einen Schritt vor der Ziellinie auf.'),
+    ('If you are going to doubt something, doubt your limits.', 'de',
+     'Wenn du schon an etwas zweifeln musst, dann zweifle an deinen Grenzen.');
