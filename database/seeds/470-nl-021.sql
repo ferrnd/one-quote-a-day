@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is nothing permanent except change.', 'nl',
      'Niets is blijvend behalve verandering.'),
     ('No man ever steps in the same river twice, for it''s not the same river and he''s not the same man.', 'nl',
-     'Niemand stapt twee keer in dezelfde rivier, want het is niet dezelfde rivier en hij is niet dezelfde mens.');
+     'Niemand stapt twee keer in dezelfde rivier, want het is niet dezelfde rivier en hij is niet dezelfde mens.'),
+    ('Without continual growth and progress, such words as improvement, achievement, and success have no meaning.', 'nl',
+     'Zonder voortdurende groei en vooruitgang hebben woorden als verbetering, prestatie en succes geen betekenis.');
