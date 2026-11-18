@@ -17,6 +17,7 @@ import {
   dateKey, formatCountdown, isNight, localDateParts, msUntilNextLocalMidnight,
   msUntilNextThemeChange, parseDateKey,
 } from "./clock.js?v=%%BUILD%%";
+import { formatDate, translateDocument, tr } from "./i18n.js?v=%%BUILD%%";
 
 const WASM_URL = new URL("quotes.wasm?v=%%WASM_HASH%%", import.meta.url);
 const WATCHDOG_MS = 60_000;
@@ -40,7 +41,9 @@ const decoder = new TextDecoder("utf-8", { fatal: true });
  * guarded: private windows and blocked storage simply fall back to defaults. */
 
 const PREFS_KEY = "quotes:prefs";
-const DEFAULT_PREFS = { theme: "auto", size: "m", motion: "on", counter: "show", copy: "author", search: "google" };
+const DEFAULT_PREFS = {
+  theme: "auto", size: "m", motion: "on", counter: "show", copy: "author", search: "google", lang: "auto",
+};
 /** @type {typeof DEFAULT_PREFS} */
 let prefs = loadPrefs();
 
@@ -62,6 +65,7 @@ function applyPrefs() {
   root.dataset.size = prefs.size;
   root.dataset.motion = prefs.motion;
   root.dataset.counter = prefs.counter;
+  applyLanguage();
   layoutCorner();
   for (const group of document.querySelectorAll(".choices[data-pref]")) {
     const key = /** @type {HTMLElement} */ (group).dataset.pref;
@@ -97,16 +101,26 @@ class QuoteEngine {
     this.cache = new Map();
   }
 
-  /** Decoded quote by index; there are only N distinct quotes, so memoise them. */
-  quote(index) {
-    let hit = this.cache.get(index);
+  /** Locale codes in module order; index 0 is the English source. */
+  get locales() {
+    if (!this._locales) {
+      this._locales = Array.from({ length: this.x.locale_count() }, (_, k) =>
+        this.read(this.x.locale_code_ptr(k), this.x.locale_code_len(k)));
+    }
+    return this._locales;
+  }
+
+  /** Decoded quote by index in locale k; memoised, there are only N x K of them. */
+  quote(index, k = state.locale) {
+    const key = k * 65536 + index;
+    let hit = this.cache.get(key);
     if (!hit) {
       hit = {
         index,
-        text: this.read(this.x.quote_text_ptr(index), this.x.quote_text_len(index)),
-        author: this.read(this.x.quote_author_ptr(index), this.x.quote_author_len(index)),
+        text: this.read(this.x.localized_text_ptr(index, k), this.x.localized_text_len(index, k)),
+        author: this.read(this.x.localized_author_ptr(index, k), this.x.localized_author_len(index, k)),
       };
-      this.cache.set(index, hit);
+      this.cache.set(key, hit);
     }
     return hit;
   }
@@ -135,8 +149,6 @@ class QuoteEngine {
   }
 }
 
-const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-
 /*
  * View state. Days are counted as days since 1970-01-01 (the module's unit).
  * `today` is the real (or pinned) date; `view` is what is on screen, which
@@ -147,7 +159,47 @@ const state = {
   launch: 0,
   today: 0,
   view: 0,
+  locale: 0,      // index into engine.locales
+  lang: "en",     // the code of that locale
 };
+
+/** The language to show: the saved choice, or the browser's when on auto. */
+function resolveLanguage(available) {
+  if (prefs.lang !== "auto" && available.includes(prefs.lang)) return prefs.lang;
+  for (const wanted of navigator.languages ?? [navigator.language]) {
+    const exact = available.find((code) => code.toLowerCase() === String(wanted).toLowerCase());
+    if (exact) return exact;
+    const family = available.find((code) => code.split("-")[0] === String(wanted).split("-")[0]);
+    if (family) return family;
+  }
+  return available[0] ?? "en";
+}
+
+/** Switch every string on the page, and the quote itself, to the chosen language. */
+function applyLanguage() {
+  const available = state.engine ? state.engine.locales : ["en"];
+  const lang = resolveLanguage(available);
+  const changed = lang !== state.lang;
+  state.lang = lang;
+  state.locale = Math.max(0, available.indexOf(lang));
+  document.documentElement.lang = lang;
+  translateDocument(lang);
+  // the panel title is copied from the selected tab, so refresh it too
+  const selected = /** @type {HTMLElement | null} */ (panelEl.querySelector('.rail-tab[aria-selected="true"]'));
+  const title = document.getElementById("panel-title");
+  if (selected && title) title.textContent = selected.dataset.title ?? "";
+  if (!state.engine) return;
+  const stats = document.getElementById("info-stats");
+  if (stats) stats.textContent = tr(lang, "{q} quotes by {a} authors",
+    { q: state.engine.count, a: state.engine.x.author_count() });
+  renderCounter();
+  if (changed && textEl.textContent) paint(entryFor(state.view));
+  if (archiveEl.open && archive) {
+    archive.next = archive.first;
+    archiveList.replaceChildren(sentinel);
+    appendArchivePage();
+  }
+}
 
 /** @param {{year: number, month: number, day: number}} parts */
 function toDay({ year, month, day }) {
@@ -180,7 +232,7 @@ function layoutCorner() {
 
 function renderCounter() {
   counterEl.hidden = state.today - state.launch + 1 < 1;
-  counterLabel.textContent = `Day ${state.view - state.launch + 1}`;
+  counterLabel.textContent = tr(state.lang, "Day {n}", { n: state.view - state.launch + 1 });
   counterEl.dataset.today = JSON.stringify(state.engine.partsFromDays(state.today));
   layoutCorner();
 }
@@ -211,7 +263,7 @@ function archiveItem(engine, n) {
   const li = document.createElement("li");
   const meta = document.createElement("p");
   meta.className = "archive-meta";
-  meta.textContent = `Day ${n} · ${MONTHS[parts.month - 1]} ${parts.day}, ${parts.year}`;
+  meta.textContent = `${tr(state.lang, "Day {n}", { n })} · ${formatDate(state.lang, parts)}`;
   const text = document.createElement("blockquote");
   text.textContent = quote.text;
   const author = document.createElement("p");
@@ -243,7 +295,7 @@ function appendArchivePage() {
 function openArchive(engine) {
   const today = JSON.parse(counterEl.dataset.today ?? "null");
   if (!today || archiveEl.open) return;
-  archive = { engine, launch: engine.x.launch_day(), next: engine.dayNumber(today) };
+  archive = { engine, launch: engine.x.launch_day(), next: engine.dayNumber(today), first: engine.dayNumber(today) };
   archiveList.replaceChildren(sentinel);
   appendArchivePage();
   archiveEl.classList.remove("is-closing");
@@ -445,7 +497,7 @@ let toastTimer = 0;
 
 /** @param {string} message */
 function toast(message) {
-  toastEl.textContent = message;
+  toastEl.textContent = tr(state.lang, message);
   toastEl.dataset.visible = "true";
   clearTimeout(toastTimer);
   toastTimer = setTimeout(() => { toastEl.dataset.visible = "false"; }, 1600);
@@ -608,7 +660,7 @@ let countdownTimer = 0;
 
 function wireCountdown() {
   const update = () => {
-    counterNext.textContent = `Next in ${formatCountdown(msUntilNextLocalMidnight(new Date()))}`;
+    counterNext.textContent = tr(state.lang, "Next in {t}", { t: formatCountdown(msUntilNextLocalMidnight(new Date())) });
   };
   const start = () => {
     update();
@@ -655,7 +707,7 @@ const SHARE_TARGETS = {
   discord: () => copyText(`> ${currentQuoteText().replace(" \u2014 ", "\n> \u2014 ")}\n${siteUrl()}`, "Copied for Discord"),
   // Stories need a picture; on a phone the share sheet offers Instagram
   instagram: () => shareImage({ story: true }).catch(() => toast("Could not share")),
-  email: () => { location.href = `mailto:?subject=${enc("A quote for you")}&body=${enc(`${currentQuoteText()}\n\n${siteUrl()}`)}`; },
+  email: () => { location.href = `mailto:?subject=${enc(tr(state.lang, "A quote for you"))}&body=${enc(`${currentQuoteText()}\n\n${siteUrl()}`)}`; },
   link: () => copyText(siteUrl(), "Link copied"),
   image: () => shareImage().catch(() => toast("Could not share")),
 };
@@ -680,14 +732,12 @@ function selectTab(tab) {
 function wirePanel() {
   const next = document.getElementById("info-next");
   const stats = document.getElementById("info-stats");
-  if (stats && state.engine) {
-    stats.textContent = `${state.engine.count} quotes by ${state.engine.x.author_count()} authors`;
-  }
 
   settingsButton.addEventListener("click", () => {
     if (anyDialogOpen()) return;
     // phones cannot hover the counter, so the countdown lives here as well
-    if (next) next.textContent = `The next one arrives in ${formatCountdown(msUntilNextLocalMidnight(new Date()))}.`;
+    if (next) next.textContent = tr(state.lang, "The next one arrives in {t}.",
+      { t: formatCountdown(msUntilNextLocalMidnight(new Date())) });
     panelEl.classList.remove("is-closing");
     panelEl.showModal();
   });
@@ -788,6 +838,7 @@ async function main() {
   try {
     state.engine = new QuoteEngine(await instantiate(WASM_URL));
     state.launch = state.engine.x.launch_day();
+    applyLanguage();
     const pinned = parseDateKey(new URLSearchParams(location.search).get("date"));
     wireArchive(state.engine);
     wireKeys();
