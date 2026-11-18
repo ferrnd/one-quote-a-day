@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Kites rise highest against the wind, not with it.', 'pt-BR',
      'As pipas sobem mais alto contra o vento, e não a favor dele.'),
     ('Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant.', 'pt-BR',
-     'A adversidade tem o poder de despertar talentos que, em tempos de prosperidade, teriam ficado adormecidos.');
+     'A adversidade tem o poder de despertar talentos que, em tempos de prosperidade, teriam ficado adormecidos.'),
+    ('The block of granite which was an obstacle in the path of the weak becomes a stepping stone in the path of the strong.', 'pt-BR',
+     'O bloco de granito que era um obstáculo no caminho dos fracos torna-se um degrau no caminho dos fortes.');
