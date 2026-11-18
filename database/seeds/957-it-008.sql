@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.', 'it',
      'Dalla sofferenza sono emerse le anime più forti; i caratteri più saldi sono segnati da cicatrici.'),
     ('The oak fought the wind and was broken, the willow bent when it must and survived.', 'it',
-     'La quercia lottò contro il vento e si spezzò; il salice si piegò quando fu necessario e sopravvisse.');
+     'La quercia lottò contro il vento e si spezzò; il salice si piegò quando fu necessario e sopravvisse.'),
+    ('Although the world is full of suffering, it is also full of the overcoming of it.', 'it',
+     'Sebbene il mondo sia pieno di sofferenza, è anche pieno del suo superamento.');
