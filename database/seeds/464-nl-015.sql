@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('With the new day comes new strength and new thoughts.', 'nl',
      'Met de nieuwe dag komen nieuwe kracht en nieuwe gedachten.'),
     ('Our strength grows out of our weaknesses.', 'nl',
-     'Onze kracht groeit uit onze zwaktes.');
+     'Onze kracht groeit uit onze zwaktes.'),
+    ('Fortitude is the guard and support of the other virtues.', 'nl',
+     'Standvastigheid is de wacht en de steun van de andere deugden.');
