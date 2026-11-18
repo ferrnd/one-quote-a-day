@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He conquers who endures.', 'de',
      'Wer ausharrt, siegt.'),
     ('Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield.', 'de',
-     'Wasser ist flüssig, weich und nachgiebig. Doch Wasser höhlt den Fels aus, der starr ist und nicht nachgeben kann.');
+     'Wasser ist flüssig, weich und nachgiebig. Doch Wasser höhlt den Fels aus, der starr ist und nicht nachgeben kann.'),
+    ('Paralyze resistance with persistence.', 'de',
+     'Lähme den Widerstand durch Beharrlichkeit.');
