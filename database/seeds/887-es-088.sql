@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard work is a prison sentence only if it does not have meaning.', 'es',
      'El trabajo duro solo es una condena si no tiene sentido.'),
     ('We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.', 'es',
-     'Nos hacemos justos practicando actos justos, moderados practicando actos moderados, valientes practicando actos valientes.');
+     'Nos hacemos justos practicando actos justos, moderados practicando actos moderados, valientes practicando actos valientes.'),
+    ('Never mistake activity for achievement.', 'es',
+     'Nunca confundas actividad con logro.');
