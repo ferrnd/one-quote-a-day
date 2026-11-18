@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who is brave is free.', 'fr',
      'Celui qui est courageux est libre.'),
     ('I must not fear. Fear is the mind-killer.', 'fr',
-     'Je ne dois pas avoir peur. La peur tue l''esprit.');
+     'Je ne dois pas avoir peur. La peur tue l''esprit.'),
+    ('Courage is the main quality of leadership.', 'fr',
+     'Le courage est la qualité principale du leadership.');
