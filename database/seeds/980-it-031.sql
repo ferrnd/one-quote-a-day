@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and diligence, like faith, remove mountains.', 'it',
      'La pazienza e la diligenza, come la fede, spostano le montagne.'),
     ('Beware the fury of a patient man.', 'it',
-     'Guardati dalla furia di un uomo paziente.');
+     'Guardati dalla furia di un uomo paziente.'),
+    ('Patience is the key to paradise.', 'it',
+     'La pazienza è la chiave del paradiso.');
