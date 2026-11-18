@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the calm acceptance that things can happen in a different order than the one you have in mind.', 'de',
      'Geduld ist die ruhige Akzeptanz, dass die Dinge in einer anderen Reihenfolge geschehen können, als man sie im Kopf hat.'),
     ('Patience and fortitude conquer all things.', 'de',
-     'Geduld und Standhaftigkeit überwinden alles.');
+     'Geduld und Standhaftigkeit überwinden alles.'),
+    ('Have patience. All things are difficult before they become easy.', 'de',
+     'Hab Geduld. Alle Dinge sind schwer, bevor sie leicht werden.');
