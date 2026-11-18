@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Happiness is not something ready made. It comes from your own actions.', 'es',
      'La felicidad no es algo que venga hecho. Viene de tus propias acciones.'),
     ('Self-belief and hard work will always earn you success.', 'es',
-     'Creer en uno mismo y trabajar duro siempre te llevarán al éxito.');
+     'Creer en uno mismo y trabajar duro siempre te llevarán al éxito.'),
+    ('Too many of us are not living our dreams because we are living our fears.', 'es',
+     'Muchos de nosotros no vivimos nuestros sueños porque estamos viviendo nuestros miedos.');
