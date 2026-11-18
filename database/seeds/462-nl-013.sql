@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the depth of winter, I finally learned that within me there lay an invincible summer.', 'nl',
      'Midden in de winter ontdekte ik eindelijk dat er in mij een onoverwinnelijke zomer was.'),
     ('It is during our darkest moments that we must focus to see the light.', 'nl',
-     'Juist in onze donkerste momenten moeten we ons concentreren om het licht te zien.');
+     'Juist in onze donkerste momenten moeten we ons concentreren om het licht te zien.'),
+    ('The world is round and the place which may seem like the end may also be only the beginning.', 'nl',
+     'De wereld is rond, en de plek die het einde lijkt, kan ook slechts het begin zijn.');
