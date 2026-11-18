@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Things do not change; we change.', 'de',
      'Die Dinge ändern sich nicht; wir ändern uns.'),
     ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'de',
-     'Fortschritt birgt immer Risiken. Man kann die zweite Base nicht stehlen und den Fuß auf der ersten lassen.');
+     'Fortschritt birgt immer Risiken. Man kann die zweite Base nicht stehlen und den Fuß auf der ersten lassen.'),
+    ('The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday''s logic.', 'de',
+     'Die größte Gefahr in Zeiten der Turbulenz ist nicht die Turbulenz, sondern mit der Logik von gestern zu handeln.');
