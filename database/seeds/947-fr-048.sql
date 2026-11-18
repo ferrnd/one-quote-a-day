@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is not the key to happiness. Happiness is the key to success.', 'fr',
      'Le succès n''est pas la clé du bonheur. Le bonheur est la clé du succès.'),
     ('Patience is the calm acceptance that things can happen in a different order than the one you have in mind.', 'fr',
-     'La patience, c''est accepter sereinement que les choses puissent arriver dans un autre ordre que celui qu''on avait en tête.');
+     'La patience, c''est accepter sereinement que les choses puissent arriver dans un autre ordre que celui qu''on avait en tête.'),
+    ('Patience and fortitude conquer all things.', 'fr',
+     'La patience et la force d''âme viennent à bout de tout.');
