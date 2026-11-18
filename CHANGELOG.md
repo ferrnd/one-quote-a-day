@@ -4,6 +4,17 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [1.4.0] - 2026-11-17
+
+### Added
+
+- A gear button replaces "!" and opens a panel with a rail of tabs on the
+  left (on top on phones): Settings, How it works, Share and Credits.
+- Settings, saved on this device: theme (auto, light, dark), text size,
+  animations, day counter, copy format and search engine.
+- Share tab: WhatsApp, Facebook, X, Telegram, Discord (copies a ready
+  message), Instagram story (image via the share sheet), email and link.
+
 ## [1.3.0] - 2026-11-17
 
 ### Added
