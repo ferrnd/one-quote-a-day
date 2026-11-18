@@ -258,6 +258,47 @@ main {
   inset: -0.9rem;
 }
 
+/* --------------------------------------------------------- share button -- */
+/* Sits just right of "!", on the same baseline. */
+
+.share-button {
+  position: fixed;
+  left: 4.6rem;
+  bottom: 2rem;
+  display: grid;
+  place-items: center;
+  width: 1.6rem;
+  height: 1.6rem;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--ink);
+  opacity: 0.4;
+  cursor: pointer;
+  transition: opacity 300ms ease;
+}
+
+.share-button svg {
+  width: 1.35rem;
+  height: 1.35rem;
+}
+
+.share-button:hover,
+.share-button:focus-visible {
+  opacity: 0.85;
+}
+
+.share-button:focus-visible {
+  outline: 0.0625rem solid var(--ink);
+  outline-offset: 0.25rem;
+}
+
+.share-button::after {
+  content: "";
+  position: absolute;
+  inset: -0.6rem;
+}
+
 /* ------------------------------------------------------------ info card -- */
 
 .info-list li {
