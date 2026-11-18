@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never bend your head. Always hold it high. Look the world straight in the eye.', 'nl',
      'Buig nooit je hoofd. Houd het altijd hoog. Kijk de wereld recht in de ogen.'),
     ('There is nothing stronger in the world than gentleness.', 'nl',
-     'Er is niets sterkers in de wereld dan zachtheid.');
+     'Er is niets sterkers in de wereld dan zachtheid.'),
+    ('Nothing is so strong as gentleness, nothing so gentle as real strength.', 'nl',
+     'Niets is zo sterk als zachtheid, niets zo zacht als ware kracht.');
