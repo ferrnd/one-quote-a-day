@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.', 'it',
      'Non è perché le cose sono difficili che non osiamo; è perché non osiamo che sono difficili.'),
     ('We suffer more often in imagination than in reality.', 'it',
-     'Soffriamo più spesso nell''immaginazione che nella realtà.');
+     'Soffriamo più spesso nell''immaginazione che nella realtà.'),
+    ('Mastering others is strength. Mastering yourself is true power.', 'it',
+     'Dominare gli altri è forza. Dominare sé stessi è il vero potere.');
