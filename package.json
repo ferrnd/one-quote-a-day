@@ -1,0 +1,24 @@
+{
+  "name": "quotes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A daily quote about overcoming, served by a hand-written WebAssembly Text module.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build:db": "python -m tools.qotd db",
+    "build:wat": "python -m tools.qotd wat",
+    "build:wasm": "node tools/assemble.mjs generated/quotes.wat docs/quotes.wasm",
+    "build:site": "python -m tools.qotd site",
+    "build": "npm run build:wat && npm run build:wasm && npm run build:site",
+    "stats": "python -m tools.qotd stats",
+    "today": "python -m tools.qotd today",
+    "test:py": "python -m unittest discover -s tests/python -t .",
+    "test:js": "node --test \"tests/js/*.test.mjs\"",
+    "test": "npm run test:py && npm run test:js",
+    "serve": "python -m http.server 8000 --directory docs"
+  }
+}
