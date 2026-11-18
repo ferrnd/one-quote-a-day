@@ -124,9 +124,9 @@ main {
   background: none;
   color: var(--ink);
   opacity: 0.4;
-  font: 700 0.95rem/1 "Inter", "Helvetica Neue", Arial, sans-serif;
-  font-variant-numeric: tabular-nums lining-nums;
-  letter-spacing: 0.14em;
+  font: 700 1.1rem/1 var(--serif);
+  font-variant-numeric: lining-nums;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
   white-space: nowrap;
   cursor: pointer;
