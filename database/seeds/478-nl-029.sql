@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Look up at the stars and not down at your feet.', 'nl',
      'Kijk omhoog naar de sterren en niet omlaag naar je voeten.'),
     ('However difficult life may seem, there is always something you can do and succeed at.', 'nl',
-     'Hoe moeilijk het leven ook lijkt, er is altijd iets wat je kunt doen en waarin je kunt slagen.');
+     'Hoe moeilijk het leven ook lijkt, er is altijd iets wat je kunt doen en waarin je kunt slagen.'),
+    ('I have no special talents. I am only passionately curious.', 'nl',
+     'Ik heb geen bijzondere talenten. Ik ben alleen hartstochtelijk nieuwsgierig.');
