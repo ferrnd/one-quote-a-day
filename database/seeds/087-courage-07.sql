@@ -9,4 +9,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('He who is brave is free.', 'Seneca', 'courage'),
     ('I must not fear. Fear is the mind-killer.', 'Frank Herbert', 'courage'),
     ('Courage is the main quality of leadership.', 'Walt Disney', 'courage'),
-    ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'Corra May Harris', 'courage');
+    ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'Corra May Harris', 'courage'),
+    ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'Eddie Rickenbacker', 'courage');
