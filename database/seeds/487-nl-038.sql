@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only thing worse than being blind is having sight but no vision.', 'nl',
      'Het enige wat erger is dan blind zijn, is kunnen zien maar geen visie hebben.'),
     ('No pessimist ever discovered the secret of the stars, or sailed to an uncharted land.', 'nl',
-     'Geen pessimist heeft ooit het geheim van de sterren ontdekt of is naar een onbekend land gezeild.');
+     'Geen pessimist heeft ooit het geheim van de sterren ontdekt of is naar een onbekend land gezeild.'),
+    ('We can do anything we want to if we stick to it long enough.', 'nl',
+     'We kunnen alles doen wat we willen, als we maar lang genoeg volhouden.');
