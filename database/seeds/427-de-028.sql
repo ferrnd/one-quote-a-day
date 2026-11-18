@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Positive thinking will let you do everything better than negative thinking will.', 'de',
      'Positives Denken lässt dich alles besser machen als negatives Denken.'),
     ('Optimism is the one quality more associated with success and happiness than any other.', 'de',
-     'Optimismus ist die Eigenschaft, die mehr als jede andere mit Erfolg und Glück verbunden ist.');
+     'Optimismus ist die Eigenschaft, die mehr als jede andere mit Erfolg und Glück verbunden ist.'),
+    ('Believe in yourself! Have faith in your abilities!', 'de',
+     'Glaube an dich! Vertraue auf deine Fähigkeiten!');
