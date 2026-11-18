@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between ordinary and extraordinary is that little extra.', 'fr',
      'La différence entre l''ordinaire et l''extraordinaire, c''est ce petit plus.'),
     ('Winning isn''t everything, but wanting to win is.', 'fr',
-     'Gagner n''est pas tout, mais vouloir gagner, si.');
+     'Gagner n''est pas tout, mais vouloir gagner, si.'),
+    ('Perfection is not attainable, but if we chase perfection we can catch excellence.', 'fr',
+     'La perfection n''est pas atteignable, mais si nous poursuivons la perfection, nous pouvons atteindre l''excellence.');
