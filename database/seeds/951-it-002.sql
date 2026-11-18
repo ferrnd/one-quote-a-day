@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A champion is someone who gets up when he can''t.', 'it',
      'Un campione è uno che si rialza quando non ce la fa più.'),
     ('Never give in. Never, never, never, never.', 'it',
-     'Non arrendetevi mai. Mai, mai, mai, mai.');
+     'Non arrendetevi mai. Mai, mai, mai, mai.'),
+    ('Success seems to be connected with action. Successful people keep moving.', 'it',
+     'Il successo sembra legato all''azione. Le persone di successo non smettono mai di muoversi.');
