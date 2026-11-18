@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our greatest fear should not be of failure but of succeeding at things in life that don''t really matter.', 'de',
      'Unsere größte Angst sollte nicht das Scheitern sein, sondern Erfolg mit Dingen, die im Leben nicht wirklich zählen.'),
     ('Stay hungry, stay foolish.', 'de',
-     'Bleibt hungrig, bleibt verrückt.');
+     'Bleibt hungrig, bleibt verrückt.'),
+    ('Your time is limited, so don''t waste it living someone else''s life.', 'de',
+     'Eure Zeit ist begrenzt, also verschwendet sie nicht damit, das Leben eines anderen zu leben.');
