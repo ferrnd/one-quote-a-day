@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Once you replace negative thoughts with positive ones, you''ll start having positive results.', 'de',
      'Sobald du negative Gedanken durch positive ersetzt, wirst du positive Ergebnisse erzielen.'),
     ('When you change the way you look at things, the things you look at change.', 'de',
-     'Wenn du die Art änderst, wie du die Dinge betrachtest, ändern sich die Dinge, die du betrachtest.');
+     'Wenn du die Art änderst, wie du die Dinge betrachtest, ändern sich die Dinge, die du betrachtest.'),
+    ('Happiness is not something ready made. It comes from your own actions.', 'de',
+     'Glück ist nichts Fertiges. Es entsteht durch deine eigenen Taten.');
