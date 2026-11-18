@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Growth begins when we begin to accept our own weakness.', 'de',
      'Wachstum beginnt, wenn wir anfangen, unsere eigene Schwäche anzunehmen.'),
     ('The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.', 'de',
-     'Die größte Entdeckung meiner Generation ist, dass ein Mensch sein Leben verändern kann, indem er seine Einstellung verändert.');
+     'Die größte Entdeckung meiner Generation ist, dass ein Mensch sein Leben verändern kann, indem er seine Einstellung verändert.'),
+    ('You are never too old to set another goal or to dream a new dream.', 'de',
+     'Man ist nie zu alt, sich ein neues Ziel zu setzen oder einen neuen Traum zu träumen.');
