@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Loss is nothing else but change, and change is Nature''s delight.', 'fr',
      'La perte n''est rien d''autre que le changement, et le changement fait les délices de la Nature.'),
     ('Dwell on the beauty of life. Watch the stars, and see yourself running with them.', 'fr',
-     'Attarde-toi sur la beauté de la vie. Regarde les étoiles et vois-toi courir avec elles.');
+     'Attarde-toi sur la beauté de la vie. Regarde les étoiles et vois-toi courir avec elles.'),
+    ('When you arise in the morning, think of what a precious privilege it is to be alive.', 'fr',
+     'Quand tu te lèves le matin, pense au précieux privilège d''être en vie.');
