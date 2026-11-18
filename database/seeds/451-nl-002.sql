@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never give in. Never, never, never, never.', 'nl',
      'Geef nooit toe. Nooit, nooit, nooit, nooit.'),
     ('Success seems to be connected with action. Successful people keep moving.', 'nl',
-     'Succes lijkt verbonden met actie. Succesvolle mensen blijven in beweging.');
+     'Succes lijkt verbonden met actie. Succesvolle mensen blijven in beweging.'),
+    ('Every strike brings me closer to the next home run.', 'nl',
+     'Elke misser brengt me dichter bij de volgende homerun.');
