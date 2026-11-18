@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''d rather be a failure at something I love than a success at something I hate.', 'nl',
      'Ik faal liever in iets waar ik van houd dan dat ik succes heb in iets wat ik haat.'),
     ('There is no failure except in no longer trying.', 'nl',
-     'Er bestaat geen falen, behalve als je stopt met proberen.');
+     'Er bestaat geen falen, behalve als je stopt met proberen.'),
+    ('Failure will never overtake me if my determination to succeed is strong enough.', 'nl',
+     'Falen zal me nooit inhalen als mijn vastberadenheid om te slagen sterk genoeg is.');
