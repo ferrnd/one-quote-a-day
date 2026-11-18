@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Self-control is strength. Right thought is mastery. Calmness is power.', 'nl',
      'Zelfbeheersing is kracht. Juist denken is meesterschap. Kalmte is macht.'),
     ('The greatest weapon against stress is our ability to choose one thought over another.', 'nl',
-     'Het grootste wapen tegen stress is ons vermogen om de ene gedachte boven de andere te kiezen.');
+     'Het grootste wapen tegen stress is ons vermogen om de ene gedachte boven de andere te kiezen.'),
+    ('Do not wish to be anything but what you are, and try to be that perfectly.', 'nl',
+     'Wens niets anders te zijn dan wat je bent, en probeer dat volmaakt te zijn.');
