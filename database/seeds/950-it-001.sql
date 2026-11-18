@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A river cuts through rock not because of its power, but because of its persistence.', 'it',
      'Il fiume attraversa la roccia non per la sua forza, ma per la sua perseveranza.'),
     ('Many of life''s failures are people who did not realize how close they were to success when they gave up.', 'it',
-     'Molti dei fallimenti della vita sono di persone che non si sono rese conto di quanto fossero vicine al successo quando hanno rinunciato.');
+     'Molti dei fallimenti della vita sono di persone che non si sono rese conto di quanto fossero vicine al successo quando hanno rinunciato.'),
+    ('I am a slow walker, but I never walk back.', 'it',
+     'Cammino piano, ma non torno mai indietro.');
