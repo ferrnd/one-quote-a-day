@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The phoenix must burn to emerge.', 'nl',
      'De feniks moet branden om te herrijzen.'),
     ('We are all failures, at least the best of us are.', 'nl',
-     'We zijn allemaal mislukkelingen, de besten van ons tenminste.');
+     'We zijn allemaal mislukkelingen, de besten van ons tenminste.'),
+    ('I can accept failure, everyone fails at something. But I can''t accept not trying.', 'nl',
+     'Ik kan falen accepteren, iedereen faalt ergens in. Maar ik kan niet accepteren dat ik het niet probeer.');
