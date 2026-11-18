@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be patient and tough; someday this pain will be useful to you.', 'nl',
      'Wees geduldig en sterk; op een dag zal deze pijn je van nut zijn.'),
     ('Dripping water hollows out stone, not through force but through persistence.', 'nl',
-     'Druppelend water holt de steen uit, niet door kracht, maar door volharding.');
+     'Druppelend water holt de steen uit, niet door kracht, maar door volharding.'),
+    ('All human wisdom is summed up in two words: wait and hope.', 'nl',
+     'Alle menselijke wijsheid is samengevat in twee woorden: wachten en hopen.');
