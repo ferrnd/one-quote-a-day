@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Unless someone like you cares a whole awful lot, nothing is going to get better. It''s not.', 'es',
      'A menos que a alguien como tú le importe muchísimo, nada va a mejorar. Nada.'),
     ('Tell me, what is it you plan to do with your one wild and precious life?', 'es',
-     'Dime, ¿qué piensas hacer con tu única vida, salvaje y preciosa?');
+     'Dime, ¿qué piensas hacer con tu única vida, salvaje y preciosa?'),
+    ('Two roads diverged in a wood, and I, I took the one less traveled by, and that has made all the difference.', 'es',
+     'Dos caminos se bifurcaban en un bosque, y yo, yo tomé el menos transitado, y eso marcó toda la diferencia.');
