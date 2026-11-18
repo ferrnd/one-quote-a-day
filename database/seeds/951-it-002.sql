@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience, persistence and perspiration make an unbeatable combination for success.', 'it',
      'Pazienza, perseveranza e sudore formano una combinazione imbattibile per il successo.'),
     ('A champion is someone who gets up when he can''t.', 'it',
-     'Un campione è uno che si rialza quando non ce la fa più.');
+     'Un campione è uno che si rialza quando non ce la fa più.'),
+    ('Never give in. Never, never, never, never.', 'it',
+     'Non arrendetevi mai. Mai, mai, mai, mai.');
