@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When life knocks you down, try to land on your back. Because if you can look up, you can get up.', 'fr',
      'Quand la vie te met à terre, essaie de tomber sur le dos. Car si tu peux lever les yeux, tu peux te relever.'),
     ('Out of every crisis comes the chance to be reborn.', 'fr',
-     'De chaque crise naît la chance de renaître.');
+     'De chaque crise naît la chance de renaître.'),
+    ('Nothing is permanent in this wicked world, not even our troubles.', 'fr',
+     'Rien n''est permanent dans ce monde cruel, pas même nos ennuis.');
