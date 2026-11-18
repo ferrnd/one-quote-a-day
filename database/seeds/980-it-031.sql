@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be patient toward all that is unsolved in your heart.', 'it',
      'Abbi pazienza verso tutto ciò che è irrisolto nel tuo cuore.'),
     ('No great thing is created suddenly.', 'it',
-     'Nessuna grande cosa nasce all''improvviso.');
+     'Nessuna grande cosa nasce all''improvviso.'),
+    ('Perhaps someday it will be pleasant to remember even this.', 'it',
+     'Forse un giorno sarà piacevole ricordare anche questo.');
