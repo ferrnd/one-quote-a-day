@@ -8,4 +8,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Many people have gone further than they thought they could because someone else thought they could.', 'Zig Ziglar', 'perseverance'),
     ('You can''t climb the ladder of success with your hands in your pockets.', 'Arnold Schwarzenegger', 'perseverance'),
     ('Today''s accomplishments were yesterday''s impossibilities.', 'Robert H. Schuller', 'perseverance'),
-    ('Nothing is particularly hard if you divide it into small jobs.', 'Henry Ford', 'perseverance');
+    ('Nothing is particularly hard if you divide it into small jobs.', 'Henry Ford', 'perseverance'),
+    ('Perseverance and spirit have done wonders in all ages.', 'George Washington', 'perseverance');
