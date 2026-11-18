@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I had to make my own living and my own opportunity. But I made it!', 'pt-BR',
      'Tive que criar meu próprio sustento e minha própria oportunidade. Mas consegui!'),
     ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'pt-BR',
-     'Não cheguei lá desejando ou esperando, mas trabalhando.');
+     'Não cheguei lá desejando ou esperando, mas trabalhando.'),
+    ('Fight for the things that you care about, but do it in a way that will lead others to join you.', 'pt-BR',
+     'Lute pelas coisas com que você se importa, mas faça isso de um jeito que leve os outros a se juntarem a você.');
