@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a verb with its shirtsleeves rolled up.', 'fr',
      'L''espoir est un verbe aux manches retroussées.'),
     ('To hope is to give yourself to the future.', 'fr',
-     'Espérer, c''est se donner à l''avenir.');
+     'Espérer, c''est se donner à l''avenir.'),
+    ('Hope is not a lottery ticket you can sit on the sofa and clutch, feeling lucky. It is an axe you break down doors with in an emergency.', 'fr',
+     'L''espoir n''est pas un ticket de loterie que l''on serre sur son canapé en se sentant chanceux. C''est une hache avec laquelle on enfonce les portes en cas d''urgence.');
