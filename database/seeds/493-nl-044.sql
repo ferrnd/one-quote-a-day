@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the hard jobs first. The easy jobs will take care of themselves.', 'nl',
      'Doe eerst de moeilijke klussen. De makkelijke regelen zichzelf.'),
     ('It is better to offer no excuse than a bad one.', 'nl',
-     'Het is beter geen excuus te geven dan een slecht excuus.');
+     'Het is beter geen excuus te geven dan een slecht excuus.'),
+    ('Hard work is a prison sentence only if it does not have meaning.', 'nl',
+     'Hard werken is alleen een gevangenisstraf als het geen betekenis heeft.');
