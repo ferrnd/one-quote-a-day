@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dreaming, after all, is a form of planning.', 'es',
      'Soñar, al fin y al cabo, es una forma de planear.'),
     ('You''re off to great places! Today is your day! Your mountain is waiting, so get on your way!', 'es',
-     '¡Vas a lugares increíbles! ¡Hoy es tu día! Tu montaña te espera, ¡así que ponte en camino!');
+     '¡Vas a lugares increíbles! ¡Hoy es tu día! Tu montaña te espera, ¡así que ponte en camino!'),
+    ('You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.', 'es',
+     'Tienes cerebro en la cabeza. Tienes pies en los zapatos. Puedes ir en la dirección que elijas.');
