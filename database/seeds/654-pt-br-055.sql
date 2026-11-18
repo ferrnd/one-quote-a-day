@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Excellence is to do a common thing in an uncommon way.', 'pt-BR',
      'Excelência é fazer uma coisa comum de um jeito incomum.'),
     ('What you think of yourself is much more important than what others think of you.', 'pt-BR',
-     'O que você pensa de si mesmo é muito mais importante do que o que os outros pensam de você.');
+     'O que você pensa de si mesmo é muito mais importante do que o que os outros pensam de você.'),
+    ('A man is but the product of his thoughts. What he thinks, he becomes.', 'pt-BR',
+     'O homem é apenas o produto dos seus pensamentos. Ele se torna aquilo que pensa.');
