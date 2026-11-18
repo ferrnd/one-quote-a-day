@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The impediment to action advances action. What stands in the way becomes the way.', 'fr',
      'L''obstacle à l''action fait avancer l''action. Ce qui barre le chemin devient le chemin.'),
     ('If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.', 'fr',
-     'Si une chose extérieure te tourmente, ce n''est pas elle qui te trouble, mais le jugement que tu portes sur elle ; et ce jugement, tu peux l''effacer à tout instant.');
+     'Si une chose extérieure te tourmente, ce n''est pas elle qui te trouble, mais le jugement que tu portes sur elle ; et ce jugement, tu peux l''effacer à tout instant.'),
+    ('Waste no more time arguing about what a good man should be. Be one.', 'fr',
+     'Ne perds plus de temps à discuter de ce que doit être un homme de bien. Sois-en un.');
