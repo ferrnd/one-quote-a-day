@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Unless you try to do something beyond what you have already mastered, you will never grow.', 'nl',
      'Als je niet probeert iets te doen wat verder gaat dan wat je al beheerst, zul je nooit groeien.'),
     ('We know what we are, but know not what we may be.', 'nl',
-     'We weten wat we zijn, maar niet wat we kunnen worden.');
+     'We weten wat we zijn, maar niet wat we kunnen worden.'),
+    ('Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.', 'nl',
+     'Onze twijfels zijn verraders en laten ons het goede verliezen dat we vaak zouden kunnen winnen, doordat we bang zijn het te proberen.');
