@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t wish it were easier, wish you were better.', 'it',
      'Non desiderare che fosse più facile; desidera essere migliore.'),
     ('Either you run the day or the day runs you.', 'it',
-     'O guidi tu la giornata, o è la giornata a guidare te.');
+     'O guidi tu la giornata, o è la giornata a guidare te.'),
+    ('With self-discipline most anything is possible.', 'it',
+     'Con l''autodisciplina, quasi tutto è possibile.');
