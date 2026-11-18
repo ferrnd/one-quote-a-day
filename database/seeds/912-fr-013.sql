@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We need never be hopeless because we can never be irreparably broken.', 'fr',
      'Nous n''avons jamais à désespérer, car nous ne pouvons jamais être brisés sans retour.'),
     ('We will grieve not, rather find strength in what remains behind.', 'fr',
-     'Nous ne pleurerons pas, mais trouverons plutôt de la force dans ce qui demeure.');
+     'Nous ne pleurerons pas, mais trouverons plutôt de la force dans ce qui demeure.'),
+    ('Be like the bird who, halting in his flight on limb too slight, feels it give way beneath him, yet sings, knowing he hath wings.', 'fr',
+     'Soyons comme l''oiseau posé pour un instant sur des rameaux trop frêles, qui sent ployer la branche et qui chante pourtant, sachant qu''il a des ailes.');
