@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The oak sleeps in the acorn.', 'de',
      'Die Eiche schläft in der Eichel.'),
     ('With the new day comes new strength and new thoughts.', 'de',
-     'Mit dem neuen Tag kommen neue Kraft und neue Gedanken.');
+     'Mit dem neuen Tag kommen neue Kraft und neue Gedanken.'),
+    ('Our strength grows out of our weaknesses.', 'de',
+     'Unsere Stärke wächst aus unseren Schwächen.');
