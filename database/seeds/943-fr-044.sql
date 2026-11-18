@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is better to offer no excuse than a bad one.', 'fr',
      'Mieux vaut ne donner aucune excuse qu''en donner une mauvaise.'),
     ('Hard work is a prison sentence only if it does not have meaning.', 'fr',
-     'Le travail acharné n''est une prison que s''il n''a pas de sens.');
+     'Le travail acharné n''est une prison que s''il n''a pas de sens.'),
+    ('We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.', 'fr',
+     'C''est en pratiquant les actions justes que nous devenons justes, les actions modérées que nous devenons modérés, les actions courageuses que nous devenons courageux.');
