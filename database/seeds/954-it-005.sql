@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Leap, and the net will appear.', 'it',
      'Salta, e la rete apparirà.'),
     ('Security is mostly a superstition. Life is either a daring adventure or nothing.', 'it',
-     'La sicurezza è per lo più una superstizione. La vita o è un''avventura audace, o non è niente.');
+     'La sicurezza è per lo più una superstizione. La vita o è un''avventura audace, o non è niente.'),
+    ('What would life be if we had no courage to attempt anything?', 'it',
+     'Cosa sarebbe la vita se non avessimo il coraggio di tentare qualcosa?');
