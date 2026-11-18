@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When there is no enemy within, the enemies outside cannot hurt you.', 'fr',
      'Quand il n''y a pas d''ennemi à l''intérieur, les ennemis du dehors ne peuvent te nuire.'),
     ('Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.', 'fr',
-     'Notre peur la plus profonde n''est pas d''être inadéquats. Notre peur la plus profonde est d''être puissants au-delà de toute mesure.');
+     'Notre peur la plus profonde n''est pas d''être inadéquats. Notre peur la plus profonde est d''être puissants au-delà de toute mesure.'),
+    ('Trust thyself: every heart vibrates to that iron string.', 'fr',
+     'Aie confiance en toi : chaque cœur vibre à cette corde de fer.');
