@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the pillar that holds up the world.', 'it',
      'La speranza è il pilastro che regge il mondo.'),
     ('Hope will never be silent.', 'it',
-     'La speranza non tacerà mai.');
+     'La speranza non tacerà mai.'),
+    ('Weeping may endure for a night, but joy cometh in the morning.', 'it',
+     'Alla sera sopraggiunge il pianto e al mattino la gioia.');
