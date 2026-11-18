@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fortune favors the bold.', 'nl',
      'Het geluk is met de stoutmoedigen.'),
     ('Courage is found in unlikely places.', 'nl',
-     'Moed vind je op de meest onwaarschijnlijke plaatsen.');
+     'Moed vind je op de meest onwaarschijnlijke plaatsen.'),
+    ('Even the smallest person can change the course of the future.', 'nl',
+     'Zelfs de kleinste persoon kan de loop van de toekomst veranderen.');
