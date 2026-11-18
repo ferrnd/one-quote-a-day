@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life shrinks or expands in proportion to one''s courage.', 'pt-BR',
      'A vida encolhe ou se expande na proporção da nossa coragem.'),
     ('It takes courage to grow up and become who you really are.', 'pt-BR',
-     'É preciso coragem para crescer e se tornar quem você realmente é.');
+     'É preciso coragem para crescer e se tornar quem você realmente é.'),
+    ('Courage is rightly esteemed the first of human qualities because it is the quality which guarantees all others.', 'pt-BR',
+     'A coragem é, com razão, considerada a primeira das qualidades humanas, porque é a qualidade que garante todas as outras.');
