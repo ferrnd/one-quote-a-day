@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Put your heart, mind, and soul into even your smallest acts. This is the secret of success.', 'nl',
      'Leg je hart, je verstand en je ziel zelfs in je kleinste daden. Dat is het geheim van succes.'),
     ('You can''t cross the sea merely by standing and staring at the water.', 'nl',
-     'Je kunt de zee niet oversteken door alleen maar te staan en naar het water te staren.');
+     'Je kunt de zee niet oversteken door alleen maar te staan en naar het water te staren.'),
+    ('The most difficult thing is the decision to act, the rest is merely tenacity.', 'nl',
+     'Het moeilijkste is de beslissing om te handelen; de rest is alleen maar volharding.');
