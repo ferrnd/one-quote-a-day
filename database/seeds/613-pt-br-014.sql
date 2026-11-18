@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Experience is simply the name we give our mistakes.', 'pt-BR',
      'Experiência é simplesmente o nome que damos aos nossos erros.'),
     ('When we give ourselves permission to fail, we, at the same time, give ourselves permission to excel.', 'pt-BR',
-     'Quando nos damos permissão para fracassar, ao mesmo tempo nos damos permissão para brilhar.');
+     'Quando nos damos permissão para fracassar, ao mesmo tempo nos damos permissão para brilhar.'),
+    ('The only real mistake is the one from which we learn nothing.', 'pt-BR',
+     'O único erro de verdade é aquele com o qual não aprendemos nada.');
