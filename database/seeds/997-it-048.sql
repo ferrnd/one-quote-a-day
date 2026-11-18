@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Wisely and slow; they stumble that run fast.', 'it',
      'Con saggezza e lentamente; inciampa chi corre in fretta.'),
     ('They also serve who only stand and wait.', 'it',
-     'Servono anche coloro che si limitano a restare in piedi e attendere.');
+     'Servono anche coloro che si limitano a restare in piedi e attendere.'),
+    ('Only time can heal what reason cannot.', 'it',
+     'Solo il tempo può guarire ciò che la ragione non può.');
