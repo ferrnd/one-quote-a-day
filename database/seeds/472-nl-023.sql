@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Anyone can hold the helm when the sea is calm.', 'nl',
      'Iedereen kan het roer houden als de zee kalm is.'),
     ('The tougher the battle, the sweeter the victory.', 'nl',
-     'Hoe zwaarder de strijd, hoe zoeter de overwinning.');
+     'Hoe zwaarder de strijd, hoe zoeter de overwinning.'),
+    ('Sweet are the uses of adversity.', 'nl',
+     'Zoet zijn de vruchten van tegenspoed.');
