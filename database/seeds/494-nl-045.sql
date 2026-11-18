@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only real voyage of discovery consists not in seeking new landscapes, but in having new eyes.', 'nl',
      'De ware ontdekkingsreis bestaat niet uit het zoeken naar nieuwe landschappen, maar uit het hebben van nieuwe ogen.'),
     ('Not until we are lost do we begin to understand ourselves.', 'nl',
-     'Pas als we verdwaald zijn, beginnen we onszelf te begrijpen.');
+     'Pas als we verdwaald zijn, beginnen we onszelf te begrijpen.'),
+    ('Things do not change; we change.', 'nl',
+     'De dingen veranderen niet; wij veranderen.');
