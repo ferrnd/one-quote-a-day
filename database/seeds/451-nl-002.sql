@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Paralyze resistance with persistence.', 'nl',
      'Verlam weerstand met volharding.'),
     ('Effort only fully releases its reward after a person refuses to quit.', 'nl',
-     'Inspanning geeft pas haar volle beloning als je weigert op te geven.');
+     'Inspanning geeft pas haar volle beloning als je weigert op te geven.'),
+    ('Patience, persistence and perspiration make an unbeatable combination for success.', 'nl',
+     'Geduld, volharding en zweet vormen een onverslaanbare combinatie voor succes.');
