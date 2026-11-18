@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is a conquering virtue.', 'nl',
      'Geduld is een deugd die overwint.'),
     ('Everything comes to him who hustles while he waits.', 'nl',
-     'Alles komt naar wie zich inspant terwijl hij wacht.');
+     'Alles komt naar wie zich inspant terwijl hij wacht.'),
+    ('If I have made any valuable discoveries, it has been owing more to patient attention than to any other talent.', 'nl',
+     'Als ik waardevolle ontdekkingen heb gedaan, dan dank ik dat meer aan geduldige aandacht dan aan enig ander talent.');
