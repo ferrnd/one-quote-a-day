@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not discouraged, because every wrong attempt discarded is another step forward.', 'pt-BR',
      'Não fico desanimado, porque cada tentativa errada que descarto é mais um passo à frente.'),
     ('Never let the fear of striking out keep you from playing the game.', 'pt-BR',
-     'Nunca deixe o medo de errar impedir você de entrar no jogo.');
+     'Nunca deixe o medo de errar impedir você de entrar no jogo.'),
+    ('If you can''t outplay them, outwork them.', 'pt-BR',
+     'Se você não consegue jogar melhor que eles, trabalhe mais que eles.');
