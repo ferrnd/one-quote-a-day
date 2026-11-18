@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come.', 'nl',
      'Hoop begint in het donker: de koppige hoop dat de dageraad komt als je gewoon komt opdagen en probeert het juiste te doen.'),
     ('Let your hopes, not your hurts, shape your future.', 'nl',
-     'Laat je hoop, niet je pijn, je toekomst vormen.');
+     'Laat je hoop, niet je pijn, je toekomst vormen.'),
+    ('Hope is a renewable option: if you run out of it at the end of the day, you get to start over in the morning.', 'nl',
+     'Hoop is hernieuwbaar: als ze aan het eind van de dag op is, kun je ''s ochtends opnieuw beginnen.');
