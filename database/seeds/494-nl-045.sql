@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday''s logic.', 'nl',
      'Het grootste gevaar in tijden van turbulentie is niet de turbulentie, maar handelen met de logica van gisteren.'),
     ('We must be willing to let go of the life we planned so as to have the life that is waiting for us.', 'nl',
-     'We moeten bereid zijn het leven los te laten dat we hadden gepland, om het leven te hebben dat op ons wacht.');
+     'We moeten bereid zijn het leven los te laten dat we hadden gepland, om het leven te hebben dat op ons wacht.'),
+    ('The privilege of a lifetime is to become who you truly are.', 'nl',
+     'Het voorrecht van een leven is worden wie je werkelijk bent.');
