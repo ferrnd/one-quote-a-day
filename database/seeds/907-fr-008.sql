@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The oak fought the wind and was broken, the willow bent when it must and survived.', 'fr',
      'Le chêne a lutté contre le vent et s''est brisé ; le saule a plié quand il le fallait et a survécu.'),
     ('Although the world is full of suffering, it is also full of the overcoming of it.', 'fr',
-     'Bien que le monde soit plein de souffrance, il est aussi plein de victoires sur elle.');
+     'Bien que le monde soit plein de souffrance, il est aussi plein de victoires sur elle.'),
+    ('Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.', 'fr',
+     'Le caractère ne se forge pas dans la facilité et le calme. Ce n''est que par l''épreuve et la souffrance que l''âme se fortifie, que l''ambition s''éveille et que le succès s''obtient.');
