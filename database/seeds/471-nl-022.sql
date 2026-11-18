@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Turn your face to the sun and the shadows fall behind you.', 'nl',
      'Keer je gezicht naar de zon en de schaduwen vallen achter je.'),
     ('A man of character finds a special attractiveness in difficulty.', 'nl',
-     'Een man met karakter vindt een bijzondere aantrekkingskracht in moeilijkheden.');
+     'Een man met karakter vindt een bijzondere aantrekkingskracht in moeilijkheden.'),
+    ('Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.', 'nl',
+     'Moeilijkheden zijn er om wakker te schudden, niet om te ontmoedigen. De menselijke geest moet sterk worden door strijd.');
