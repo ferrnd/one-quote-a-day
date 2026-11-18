@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Obstacles cannot crush me. Every obstacle yields to stern resolve.', 'nl',
      'Obstakels kunnen me niet verpletteren. Elk obstakel wijkt voor vaste vastberadenheid.'),
     ('I am not discouraged, because every wrong attempt discarded is another step forward.', 'nl',
-     'Ik ben niet ontmoedigd, want elke verkeerde poging die ik terzijde leg, is weer een stap vooruit.');
+     'Ik ben niet ontmoedigd, want elke verkeerde poging die ik terzijde leg, is weer een stap vooruit.'),
+    ('Never let the fear of striking out keep you from playing the game.', 'nl',
+     'Laat de angst om uit te gaan je nooit weerhouden het spel te spelen.');
