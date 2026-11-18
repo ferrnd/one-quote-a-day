@@ -193,6 +193,7 @@ function applyLanguage() {
   if (stats) stats.textContent = tr(lang, "{q} quotes by {a} authors",
     { q: state.engine.count, a: state.engine.x.author_count() });
   renderCounter();
+  renderFavorites();
   if (changed && textEl.textContent) paint(entryFor(state.view));
   if (archiveEl.open && archive) {
     archive.next = archive.first;
@@ -234,6 +235,7 @@ function renderCounter() {
   counterEl.hidden = state.today - state.launch + 1 < 1;
   counterLabel.textContent = tr(state.lang, "Day {n}", { n: state.view - state.launch + 1 });
   counterEl.dataset.today = JSON.stringify(state.engine.partsFromDays(state.today));
+  figure.dataset.favorite = String(favorites.includes(state.view));
   layoutCorner();
 }
 
@@ -503,10 +505,149 @@ function toast(message) {
   toastTimer = setTimeout(() => { toastEl.dataset.visible = "false"; }, 1600);
 }
 
+/* ---------------------------------------------------------- favorites -- */
+/* Favorites are days (days since 1970-01-01), so a favorite always brings
+ * back that day's quote in whichever language is chosen. Kept in this
+ * browser only, like the settings. */
+
+const FAVORITES_KEY = "quotes:favorites";
+const LONG_PRESS_MS = 550;
+/** @type {number[]} */
+let favorites = loadFavorites();
+let favoredAt = 0;
+
+function loadFavorites() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(FAVORITES_KEY) ?? "[]");
+    return Array.isArray(saved) ? saved.filter(Number.isInteger) : [];
+  } catch {
+    return [];
+  }
+}
+
+function saveFavorites() {
+  try { localStorage.setItem(FAVORITES_KEY, JSON.stringify(favorites)); } catch { /* storage unavailable */ }
+}
+
+/** Add or remove the favorite for `day` (the day on screen by default). */
+function toggleFavorite(day = state.view) {
+  const at = favorites.indexOf(day);
+  if (at >= 0) {
+    favorites.splice(at, 1);
+    toast("Removed from favorites");
+  } else {
+    favorites.push(day);
+    toast("Added to favorites");
+  }
+  favoredAt = performance.now();
+  saveFavorites();
+  figure.dataset.favorite = String(favorites.includes(state.view));
+  renderFavorites();
+}
+
+/** Middle click on a computer, long press on a phone. */
+function wireFavorites() {
+  figure.addEventListener("mousedown", (event) => { if (event.button === 1) event.preventDefault(); });
+  figure.addEventListener("auxclick", (event) => {
+    if (event.button !== 1) return;
+    event.preventDefault();
+    toggleFavorite();
+  });
+
+  let pressTimer = 0;
+  /** @type {{x: number, y: number} | null} */
+  let pressStart = null;
+  const cancel = () => { clearTimeout(pressTimer); pressStart = null; };
+  figure.addEventListener("touchstart", (event) => {
+    if (event.touches.length !== 1) { cancel(); return; }
+    const touch = event.touches[0];
+    pressStart = { x: touch.clientX, y: touch.clientY };
+    clearTimeout(pressTimer);
+    pressTimer = setTimeout(() => {
+      pressStart = null;
+      navigator.vibrate?.(15);
+      toggleFavorite();
+    }, LONG_PRESS_MS);
+  }, { passive: true });
+  figure.addEventListener("touchmove", (event) => {
+    if (!pressStart) return;
+    const touch = event.touches[0];
+    if (Math.hypot(touch.clientX - pressStart.x, touch.clientY - pressStart.y) > 10) cancel();
+  }, { passive: true });
+  figure.addEventListener("touchend", cancel, { passive: true });
+  figure.addEventListener("touchcancel", cancel, { passive: true });
+  // a long press would otherwise open the native menu or select the text
+  figure.addEventListener("contextmenu", (event) => {
+    if (performance.now() - favoredAt < 800) event.preventDefault();
+  });
+}
+
+/** The favorites tab: newest day first, each with Show and Remove. */
+function renderFavorites() {
+  const list = document.getElementById("fav-list");
+  const empty = document.getElementById("fav-empty");
+  const download = /** @type {HTMLButtonElement | null} */ (document.getElementById("fav-download"));
+  if (!list || !state.engine) return;
+  const days = [...favorites].sort((a, b) => b - a);
+  if (empty) empty.hidden = days.length > 0;
+  if (download) download.hidden = days.length === 0;
+  list.replaceChildren(...days.map((day) => {
+    const quote = entryFor(day);
+    const li = document.createElement("li");
+    const meta = document.createElement("p");
+    meta.className = "archive-meta";
+    meta.textContent = `${tr(state.lang, "Day {n}", { n: day - state.launch + 1 })} · ${formatDate(state.lang, state.engine.partsFromDays(day))}`;
+    const text = document.createElement("blockquote");
+    text.textContent = quote.text;
+    li.append(meta, text);
+    if (quote.author) {
+      const author = document.createElement("p");
+      author.className = "archive-author";
+      author.textContent = quote.author;
+      li.append(author);
+    }
+    const actions = document.createElement("div");
+    actions.className = "fav-actions";
+    for (const [label, attr] of [["Show", "data-fav-show"], ["Remove", "data-fav-remove"]]) {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "fav-action";
+      button.setAttribute(attr, String(day));
+      button.textContent = tr(state.lang, label);
+      actions.append(button);
+    }
+    li.append(actions);
+    return li;
+  }));
+}
+
+/** Every favorite as plain text, in the language on screen. */
+function downloadFavorites() {
+  const days = [...favorites].sort((a, b) => a - b);
+  const lines = [tr(state.lang, "My favorite quotes"), ""];
+  for (const day of days) {
+    const quote = entryFor(day);
+    lines.push(`${tr(state.lang, "Day {n}", { n: day - state.launch + 1 })} · ${formatDate(state.lang, state.engine.partsFromDays(day))}`);
+    lines.push(`\u201C${quote.text}\u201D`);
+    if (quote.author) lines.push(`\u2014 ${quote.author}`);
+    lines.push("");
+  }
+  lines.push(siteUrl());
+  const blob = new Blob([lines.join("\n")], { type: "text/plain;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+  const link = Object.assign(document.createElement("a"), { href: url, download: "favorite-quotes.txt" });
+  document.body.append(link);
+  link.click();
+  link.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 10_000);
+  toast("Favorites downloaded");
+}
+
 function wireCopy() {
   figure.addEventListener("click", async () => {
     if (String(getSelection() ?? "")) return; // the visitor is selecting text, not clicking
     if (performance.now() - swipedAt < 500) return; // the tail end of a swipe, not a tap
+    if (performance.now() - favoredAt < 800) return; // the end of a long press that favored it
     const text = textEl.textContent ?? "";
     const author = authorEl.textContent ?? "";
     const payload = author && prefs.copy === "author" ? `“${text}” — ${author}` : `“${text}”`;
@@ -739,6 +880,7 @@ function wirePanel() {
     if (next) next.textContent = tr(state.lang, "The next one arrives in {t}.",
       { t: formatCountdown(msUntilNextLocalMidnight(new Date())) });
     panelEl.classList.remove("is-closing");
+    renderFavorites();
     panelEl.showModal();
   });
   wireDismiss(panelEl, document.getElementById("panel-close"));
@@ -769,6 +911,16 @@ function wirePanel() {
         savePrefs();
         applyPrefs();
       }
+      return;
+    }
+    const fav = /** @type {HTMLElement} */ (event.target).closest("[data-fav-show], [data-fav-remove], [data-fav-download]");
+    if (fav) {
+      if (fav.hasAttribute("data-fav-download")) { downloadFavorites(); return; }
+      if (fav.hasAttribute("data-fav-remove")) { toggleFavorite(Number(fav.getAttribute("data-fav-remove"))); return; }
+      // show: close the panel, then slide to that day
+      const day = Number(fav.getAttribute("data-fav-show"));
+      closeDialog(panelEl);
+      setTimeout(() => goTo(day, day < state.view ? "right" : "left"), CLOSE_MS + 40);
       return;
     }
     const target = /** @type {HTMLElement} */ (event.target).closest("[data-share]");
@@ -844,6 +996,7 @@ async function main() {
     wireKeys();
     wireSwipe();
     wireCopy();
+    wireFavorites();
     wireSearch();
     wirePanel();
     wireCountdown();
