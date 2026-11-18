@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grief can be the garden of compassion.', 'it',
      'Il lutto può essere il giardino della compassione.'),
     ('Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it.', 'it',
-     'Continua ad andare avanti, ed è probabile che tu inciampi in qualcosa, magari quando meno te lo aspetti.');
+     'Continua ad andare avanti, ed è probabile che tu inciampi in qualcosa, magari quando meno te lo aspetti.'),
+    ('Hard work without talent is a shame, but talent without hard work is a tragedy.', 'it',
+     'Il duro lavoro senza talento è un peccato, ma il talento senza duro lavoro è una tragedia.');
