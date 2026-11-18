@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What is to give light must endure burning.', 'it',
      'Ciò che deve dare luce deve sopportare di bruciare.'),
     ('It''s not what happens to you, but how you react to it that matters.', 'it',
-     'Non conta ciò che ti succede, ma come reagisci.');
+     'Non conta ciò che ti succede, ma come reagisci.'),
+    ('Begin at once to live, and count each separate day as a separate life.', 'it',
+     'Comincia subito a vivere, e conta ogni giorno come una vita a sé.');
