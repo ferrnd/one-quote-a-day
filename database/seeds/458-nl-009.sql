@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength does not come from physical capacity. It comes from an indomitable will.', 'nl',
      'Kracht komt niet uit fysiek vermogen. Ze komt uit een ontembare wil.'),
     ('The world breaks everyone and afterward many are strong at the broken places.', 'nl',
-     'De wereld breekt iedereen, en daarna zijn velen sterk op de gebroken plekken.');
+     'De wereld breekt iedereen, en daarna zijn velen sterk op de gebroken plekken.'),
+    ('What does not kill me makes me stronger.', 'nl',
+     'Wat mij niet doodt, maakt mij sterker.');
