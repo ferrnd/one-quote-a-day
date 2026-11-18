@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What we fear doing most is usually what we most need to do.', 'nl',
      'Waar we het meest bang voor zijn om te doen, is meestal wat we het hardst nodig hebben.'),
     ('A comfort zone is a beautiful place, but nothing ever grows there.', 'nl',
-     'Een comfortzone is een prachtige plek, maar er groeit nooit iets.');
+     'Een comfortzone is een prachtige plek, maar er groeit nooit iets.'),
+    ('I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail.', 'nl',
+     'Ik zal niet volgen waar het pad heen leidt, maar gaan waar geen pad is, en een spoor achterlaten.');
