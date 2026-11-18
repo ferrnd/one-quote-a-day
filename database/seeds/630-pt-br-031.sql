@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Trust thyself: every heart vibrates to that iron string.', 'pt-BR',
      'Confie em si mesmo: todo coração vibra com essa corda de ferro.'),
     ('You are the one that possesses the keys to your being. You carry the passport to your own happiness.', 'pt-BR',
-     'É você quem tem as chaves do seu ser. É você quem carrega o passaporte para a sua própria felicidade.');
+     'É você quem tem as chaves do seu ser. É você quem carrega o passaporte para a sua própria felicidade.'),
+    ('We are what we repeatedly do. Excellence, then, is not an act, but a habit.', 'pt-BR',
+     'Somos o que fazemos repetidamente. A excelência, então, não é um ato, mas um hábito.');
