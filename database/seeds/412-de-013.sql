@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('However long the night, the dawn will break.', 'de',
      'Wie lang die Nacht auch ist, der Tag wird anbrechen.'),
     ('Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day.', 'de',
-     'Halt deinen Hut fest. Halt deine Hoffnung fest. Und zieh die Uhr auf, denn morgen ist ein neuer Tag.');
+     'Halt deinen Hut fest. Halt deine Hoffnung fest. Und zieh die Uhr auf, denn morgen ist ein neuer Tag.'),
+    ('There are far, far better things ahead than any we leave behind.', 'de',
+     'Vor uns liegen weit, weit bessere Dinge als alle, die wir hinter uns lassen.');
