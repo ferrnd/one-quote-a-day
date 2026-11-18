@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The art of being wise is the art of knowing what to overlook.', 'de',
      'Die Kunst, weise zu sein, ist die Kunst zu wissen, was man übersehen kann.'),
     ('He who learns but does not think, is lost. He who thinks but does not learn is in great danger.', 'de',
-     'Lernen ohne Denken ist verlorene Mühe; Denken ohne Lernen ist gefährlich.');
+     'Lernen ohne Denken ist verlorene Mühe; Denken ohne Lernen ist gefährlich.'),
+    ('The best revenge is not to be like your enemy.', 'de',
+     'Die beste Rache ist, nicht wie dein Feind zu sein.');
