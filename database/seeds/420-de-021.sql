@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Kites rise highest against the wind, not with it.', 'de',
      'Drachen steigen am höchsten gegen den Wind, nicht mit ihm.'),
     ('Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant.', 'de',
-     'Widrigkeiten bringen Talente hervor, die unter günstigen Umständen geschlummert hätten.');
+     'Widrigkeiten bringen Talente hervor, die unter günstigen Umständen geschlummert hätten.'),
+    ('The block of granite which was an obstacle in the path of the weak becomes a stepping stone in the path of the strong.', 'de',
+     'Der Granitblock, der dem Schwachen ein Hindernis auf dem Weg war, wird dem Starken zur Stufe.');
