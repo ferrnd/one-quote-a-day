@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('People often say that motivation doesn''t last. Well, neither does bathing. That''s why we recommend it daily.', 'fr',
      'On dit souvent que la motivation ne dure pas. Eh bien, la douche non plus. C''est pour ça qu''on la recommande tous les jours.'),
     ('Your attitude, not your aptitude, will determine your altitude.', 'fr',
-     'C''est ton attitude, et non ton aptitude, qui déterminera ton altitude.');
+     'C''est ton attitude, et non ton aptitude, qui déterminera ton altitude.'),
+    ('Positive thinking will let you do everything better than negative thinking will.', 'fr',
+     'La pensée positive te permettra de tout faire mieux que la pensée négative.');
