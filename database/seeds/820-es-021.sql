@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Vitality shows in not only the ability to persist but the ability to start over.', 'es',
      'La vitalidad se demuestra no solo en la capacidad de persistir, sino en la de volver a empezar.'),
     ('But man is not made for defeat. A man can be destroyed but not defeated.', 'es',
-     'Pero el hombre no está hecho para la derrota. Un hombre puede ser destruido, pero no derrotado.');
+     'Pero el hombre no está hecho para la derrota. Un hombre puede ser destruido, pero no derrotado.'),
+    ('Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.', 'es',
+     'La vida no siempre consiste en tener buenas cartas, sino a veces en jugar bien una mala mano.');
