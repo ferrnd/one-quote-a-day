@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a renewable option: if you run out of it at the end of the day, you get to start over in the morning.', 'es',
      'La esperanza es renovable: si se te acaba al final del día, puedes volver a empezar por la mañana.'),
     ('What oxygen is to the lungs, such is hope to the meaning of life.', 'es',
-     'Lo que el oxígeno es para los pulmones, eso es la esperanza para el sentido de la vida.');
+     'Lo que el oxígeno es para los pulmones, eso es la esperanza para el sentido de la vida.'),
+    ('The very least you can do in your life is figure out what you hope for.', 'es',
+     'Lo mínimo que puedes hacer en la vida es descubrir qué es lo que esperas.');
