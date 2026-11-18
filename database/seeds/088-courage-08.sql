@@ -6,4 +6,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Courage is like love; it must have hope for nourishment.', 'Napoleon Bonaparte', 'courage'),
     ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'Mark Twain', 'courage'),
     ('The opposite of courage in our society is not cowardice, it is conformity.', 'Rollo May', 'courage'),
-    ('Cowards die many times before their deaths; the valiant never taste of death but once.', 'William Shakespeare', 'courage');
+    ('Cowards die many times before their deaths; the valiant never taste of death but once.', 'William Shakespeare', 'courage'),
+    ('Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.', 'William Shakespeare', 'courage');
