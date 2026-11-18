@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Kites rise highest against the wind, not with it.', 'nl',
      'Vliegers stijgen het hoogst tegen de wind in, niet met de wind mee.'),
     ('Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant.', 'nl',
-     'Tegenspoed brengt talenten naar boven die in voorspoedige omstandigheden zouden zijn blijven sluimeren.');
+     'Tegenspoed brengt talenten naar boven die in voorspoedige omstandigheden zouden zijn blijven sluimeren.'),
+    ('The block of granite which was an obstacle in the path of the weak becomes a stepping stone in the path of the strong.', 'nl',
+     'Het granietblok dat voor de zwakke een obstakel op de weg was, wordt voor de sterke een opstapje.');
