@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Action is the foundational key to all success.', 'de',
      'Handeln ist der grundlegende Schlüssel zu jedem Erfolg.'),
     ('You don''t have to be great to start, but you have to start to be great.', 'de',
-     'Du musst nicht großartig sein, um anzufangen, aber du musst anfangen, um großartig zu werden.');
+     'Du musst nicht großartig sein, um anzufangen, aber du musst anfangen, um großartig zu werden.'),
+    ('The way to get started is to quit talking and begin doing.', 'de',
+     'Der Weg zum Anfang ist, aufzuhören zu reden und anzufangen zu handeln.');
