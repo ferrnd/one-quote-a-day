@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Great works are performed not by strength but by perseverance.', 'de',
      'Große Werke werden nicht durch Kraft vollbracht, sondern durch Ausdauer.'),
     ('Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.', 'de',
-     'Geduld und Ausdauer haben eine magische Wirkung, vor der Schwierigkeiten verschwinden und Hindernisse sich auflösen.');
+     'Geduld und Ausdauer haben eine magische Wirkung, vor der Schwierigkeiten verschwinden und Hindernisse sich auflösen.'),
+    ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'de',
+     'Durch Ausdauer erringen viele Menschen Erfolg aus dem, was zum sicheren Scheitern verurteilt schien.');
