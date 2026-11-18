@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t be pushed around by the fears in your mind. Be led by the dreams in your heart.', 'nl',
      'Laat je niet opjagen door de angsten in je hoofd. Laat je leiden door de dromen in je hart.'),
     ('Put your heart, mind, and soul into even your smallest acts. This is the secret of success.', 'nl',
-     'Leg je hart, je verstand en je ziel zelfs in je kleinste daden. Dat is het geheim van succes.');
+     'Leg je hart, je verstand en je ziel zelfs in je kleinste daden. Dat is het geheim van succes.'),
+    ('You can''t cross the sea merely by standing and staring at the water.', 'nl',
+     'Je kunt de zee niet oversteken door alleen maar te staan en naar het water te staren.');
