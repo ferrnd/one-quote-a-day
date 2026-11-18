@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Very little is needed to make a happy life; it is all within yourself, in your way of thinking.', 'nl',
      'Er is heel weinig nodig voor een gelukkig leven; het zit allemaal in jezelf, in je manier van denken.'),
     ('A positive attitude can really make dreams come true.', 'nl',
-     'Een positieve houding kan dromen echt laten uitkomen.');
+     'Een positieve houding kan dromen echt laten uitkomen.'),
+    ('Optimism is a happiness magnet.', 'nl',
+     'Optimisme is een magneet voor geluk.');
