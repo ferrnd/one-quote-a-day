@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the art of hoping.', 'de',
      'Geduld ist die Kunst zu hoffen.'),
     ('A handful of patience is worth more than a bushel of brains.', 'de',
-     'Eine Handvoll Geduld ist mehr wert als ein Scheffel Verstand.');
+     'Eine Handvoll Geduld ist mehr wert als ein Scheffel Verstand.'),
+    ('Patience is also a form of action.', 'de',
+     'Auch Geduld ist eine Form des Handelns.');
