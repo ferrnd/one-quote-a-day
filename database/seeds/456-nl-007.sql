@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can accept failure, everyone fails at something. But I can''t accept not trying.', 'nl',
      'Ik kan falen accepteren, iedereen faalt ergens in. Maar ik kan niet accepteren dat ik het niet probeer.'),
     ('Success is not built on success. It''s built on failure. It''s built on frustration.', 'nl',
-     'Succes is niet gebouwd op succes. Het is gebouwd op falen. Het is gebouwd op frustratie.');
+     'Succes is niet gebouwd op succes. Het is gebouwd op falen. Het is gebouwd op frustratie.'),
+    ('Winners are not afraid of losing. But losers are. Failure is part of the process of success.', 'nl',
+     'Winnaars zijn niet bang om te verliezen. Verliezers wel. Falen hoort bij het proces van succes.');
