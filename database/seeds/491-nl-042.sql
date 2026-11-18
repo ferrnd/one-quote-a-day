@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you want to see the sunshine, you have to weather the storm.', 'nl',
      'Als je de zon wilt zien, moet je de storm doorstaan.'),
     ('The strongest people find the courage and caring to help others, even if they are going through their own storm.', 'nl',
-     'De sterkste mensen vinden de moed en de zorg om anderen te helpen, zelfs als ze door hun eigen storm gaan.');
+     'De sterkste mensen vinden de moed en de zorg om anderen te helpen, zelfs als ze door hun eigen storm gaan.'),
+    ('There is no such thing as ruining your life. Life''s a pretty resilient thing, it turns out.', 'nl',
+     'Je leven verpesten bestaat niet. Het leven blijkt behoorlijk veerkrachtig te zijn.');
