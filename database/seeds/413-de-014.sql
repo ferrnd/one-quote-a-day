@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.', 'de',
      'Nicht weil es schwer ist, wagen wir es nicht, sondern weil wir es nicht wagen, ist es schwer.'),
     ('We suffer more often in imagination than in reality.', 'de',
-     'Wir leiden öfter in der Vorstellung als in der Wirklichkeit.');
+     'Wir leiden öfter in der Vorstellung als in der Wirklichkeit.'),
+    ('Mastering others is strength. Mastering yourself is true power.', 'de',
+     'Andere zu beherrschen ist Stärke. Sich selbst zu beherrschen ist wahre Macht.');
