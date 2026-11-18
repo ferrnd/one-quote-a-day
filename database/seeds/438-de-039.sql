@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'de',
      'Die meisten Menschen geben genau dann auf, wenn sie kurz vor dem Erfolg stehen. Sie geben einen Schritt vor der Ziellinie auf.'),
     ('If you are going to doubt something, doubt your limits.', 'de',
-     'Wenn du schon an etwas zweifeln musst, dann zweifle an deinen Grenzen.');
+     'Wenn du schon an etwas zweifeln musst, dann zweifle an deinen Grenzen.'),
+    ('There is no substitute for hard work.', 'de',
+     'Es gibt keinen Ersatz für harte Arbeit.');
