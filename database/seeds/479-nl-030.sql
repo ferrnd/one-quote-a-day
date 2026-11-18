@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rome wasn''t built in a day.', 'nl',
      'Rome is niet in één dag gebouwd.'),
     ('Everything comes gradually and at its appointed hour.', 'nl',
-     'Alles komt geleidelijk en op het vastgestelde uur.');
+     'Alles komt geleidelijk en op het vastgestelde uur.'),
+    ('Be patient and tough; someday this pain will be useful to you.', 'nl',
+     'Wees geduldig en sterk; op een dag zal deze pijn je van nut zijn.');
