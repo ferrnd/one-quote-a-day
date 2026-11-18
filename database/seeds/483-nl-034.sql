@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A dream you dream alone is only a dream. A dream you dream together is reality.', 'nl',
      'Een droom die je alleen droomt, is maar een droom. Een droom die je samen droomt, is werkelijkheid.'),
     ('Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.', 'nl',
-     'Houd vast aan dromen, want als dromen sterven, is het leven een vogel met gebroken vleugels die niet kan vliegen.');
+     'Houd vast aan dromen, want als dromen sterven, is het leven een vogel met gebroken vleugels die niet kan vliegen.'),
+    ('Dreams are the touchstones of our characters.', 'nl',
+     'Dromen zijn de toetsstenen van ons karakter.');
