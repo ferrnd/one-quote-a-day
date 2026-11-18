@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Finish each day and be done with it. You have done what you could.', 'nl',
-     'Rond elke dag af en laat hem los. Je hebt gedaan wat je kon.');
+     'Rond elke dag af en laat hem los. Je hebt gedaan wat je kon.'),
+    ('The years teach much which the days never know.', 'nl',
+     'De jaren leren veel wat de dagen nooit weten.');
