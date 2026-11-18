@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Difficulties are things that show a person what they are.', 'it',
      'Sono le difficoltà a mostrare a una persona chi è.'),
     ('No tree becomes rooted and sturdy unless many a wind assails it.', 'it',
-     'Nessun albero mette radici salde se molti venti non lo scuotono.');
+     'Nessun albero mette radici salde se molti venti non lo scuotono.'),
+    ('It is a rough road that leads to the heights of greatness.', 'it',
+     'È una strada aspra quella che conduce alle vette della grandezza.');
