@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What I am looking for is not out there, it is in me.', 'nl',
      'Wat ik zoek, is niet daarbuiten, het is in mij.'),
     ('Efforts and courage are not enough without purpose and direction.', 'nl',
-     'Inspanning en moed zijn niet genoeg zonder doel en richting.');
+     'Inspanning en moed zijn niet genoeg zonder doel en richting.'),
+    ('The world is changed by your example, not by your opinion.', 'nl',
+     'De wereld verandert door je voorbeeld, niet door je mening.');
