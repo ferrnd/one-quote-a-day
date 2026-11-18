@@ -489,6 +489,12 @@ main {
   grid-column: 1 / -1;
 }
 
+/* icons line up in one column per side; text starts on a shared edge */
+.share-target:not(.share-wide) {
+  justify-content: flex-start;
+  padding-left: 1.6rem;
+}
+
 .share-target:hover {
   background: color-mix(in srgb, var(--ink) 9%, var(--paper));
 }
