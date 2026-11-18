@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''ve been absolutely terrified every moment of my life and I''ve never let it keep me from doing a single thing I wanted to do.', 'it',
      'Sono stata assolutamente terrorizzata in ogni momento della mia vita, e non ho mai lasciato che questo mi impedisse di fare una sola cosa che volessi fare.'),
     ('Sorrow is how we learn to love. Your heart isn''t breaking. It hurts because it''s getting larger.', 'it',
-     'Il dolore è il modo in cui impariamo ad amare. Il tuo cuore non si sta spezzando. Fa male perché sta diventando più grande.');
+     'Il dolore è il modo in cui impariamo ad amare. Il tuo cuore non si sta spezzando. Fa male perché sta diventando più grande.'),
+    ('Once you choose hope, anything''s possible.', 'it',
+     'Quando scegli la speranza, tutto è possibile.');
