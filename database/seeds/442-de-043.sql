@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the end, everything will be okay. If it''s not okay, it''s not yet the end.', 'de',
      'Am Ende wird alles gut. Wenn es nicht gut ist, ist es noch nicht das Ende.'),
     ('Hope is the companion of power, and mother of success.', 'de',
-     'Hoffnung ist die Gefährtin der Kraft und die Mutter des Erfolgs.');
+     'Hoffnung ist die Gefährtin der Kraft und die Mutter des Erfolgs.'),
+    ('Hope is itself a species of happiness.', 'de',
+     'Hoffnung ist selbst eine Art von Glück.');
