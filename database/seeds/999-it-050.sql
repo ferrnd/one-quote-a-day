@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The art of being wise is the art of knowing what to overlook.', 'it',
      'L''arte di essere saggi è l''arte di sapere cosa ignorare.'),
     ('He who learns but does not think, is lost. He who thinks but does not learn is in great danger.', 'it',
-     'Chi impara ma non pensa è perduto. Chi pensa ma non impara è in grave pericolo.');
+     'Chi impara ma non pensa è perduto. Chi pensa ma non impara è in grave pericolo.'),
+    ('The best revenge is not to be like your enemy.', 'it',
+     'La miglior vendetta è non somigliare al tuo nemico.');
