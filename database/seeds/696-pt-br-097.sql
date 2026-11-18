@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The road to success is always under construction.', 'pt-BR',
      'O caminho para o sucesso está sempre em obras.'),
     ('Ambition is enthusiasm with a purpose.', 'pt-BR',
-     'Ambição é entusiasmo com propósito.');
+     'Ambição é entusiasmo com propósito.'),
+    ('Dreams are illustrations from the book your soul is writing about you.', 'pt-BR',
+     'Os sonhos são ilustrações do livro que a sua alma está escrevendo sobre você.');
