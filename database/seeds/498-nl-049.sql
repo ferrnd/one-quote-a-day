@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.', 'nl',
      'Wie vol vertrouwen in de richting van zijn dromen gaat, zal in gewone uren een onverwacht succes ontmoeten.'),
     ('Our truest life is when we are in dreams awake.', 'nl',
-     'Ons echtste leven is wanneer we wakend dromen.');
+     'Ons echtste leven is wanneer we wakend dromen.'),
+    ('Go as far as you can see; when you get there, you''ll be able to see farther.', 'nl',
+     'Ga zo ver als je kunt zien; als je daar bent, kun je verder kijken.');
