@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The human capacity for burden is like bamboo: far more flexible than you''d ever believe at first glance.', 'pt-BR',
      'A capacidade humana de carregar peso é como o bambu: muito mais flexível do que você imaginaria à primeira vista.'),
     ('I can be changed by what happens to me. But I refuse to be reduced by it.', 'pt-BR',
-     'O que me acontece pode me transformar. Mas eu me recuso a ser diminuída por isso.');
+     'O que me acontece pode me transformar. Mas eu me recuso a ser diminuída por isso.'),
+    ('You may encounter many defeats, but you must not be defeated.', 'pt-BR',
+     'Você pode enfrentar muitas derrotas, mas não pode se deixar derrotar.');
