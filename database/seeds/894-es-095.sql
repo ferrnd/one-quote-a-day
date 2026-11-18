@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Argue for your limitations, and sure enough they''re yours.', 'es',
      'Defiende tus limitaciones y, sin duda, serán tuyas.'),
     ('Success is liking yourself, liking what you do, and liking how you do it.', 'es',
-     'El éxito es gustarte a ti mismo, que te guste lo que haces y cómo lo haces.');
+     'El éxito es gustarte a ti mismo, que te guste lo que haces y cómo lo haces.'),
+    ('The soul becomes dyed with the color of its thoughts.', 'es',
+     'El alma se tiñe del color de sus pensamientos.');
