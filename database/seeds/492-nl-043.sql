@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.', 'nl',
      'Wolken drijven mijn leven binnen, niet langer om regen te brengen of storm aan te kondigen, maar om kleur te geven aan mijn avondhemel.'),
     ('Character is power.', 'nl',
-     'Karakter is macht.');
+     'Karakter is macht.'),
+    ('I am not afraid; I was born to do this.', 'nl',
+     'Ik ben niet bang; ik ben geboren om dit te doen.');
