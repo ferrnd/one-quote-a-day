@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you don''t like the road you''re walking, start paving another one.', 'es',
      'Si no te gusta el camino que estás recorriendo, empieza a pavimentar otro.'),
     ('You get in life what you have the courage to ask for.', 'es',
-     'Recibes de la vida lo que tienes el valor de pedir.');
+     'Recibes de la vida lo que tienes el valor de pedir.'),
+    ('Success isn''t about how much money you make; it''s about the difference you make in people''s lives.', 'es',
+     'El éxito no tiene que ver con cuánto dinero ganas; tiene que ver con la diferencia que marcas en la vida de las personas.');
