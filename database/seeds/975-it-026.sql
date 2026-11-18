@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t be pushed around by the fears in your mind. Be led by the dreams in your heart.', 'it',
      'Non lasciarti spingere dalle paure della tua mente. Lasciati guidare dai sogni del tuo cuore.'),
     ('Put your heart, mind, and soul into even your smallest acts. This is the secret of success.', 'it',
-     'Metti il cuore, la mente e l''anima anche nei tuoi gesti più piccoli. Questo è il segreto del successo.');
+     'Metti il cuore, la mente e l''anima anche nei tuoi gesti più piccoli. Questo è il segreto del successo.'),
+    ('You can''t cross the sea merely by standing and staring at the water.', 'it',
+     'Non si può attraversare il mare restando fermi a guardare l''acqua.');
