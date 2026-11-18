@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The power of imagination makes us infinite.', 'de',
      'Die Kraft der Fantasie macht uns unendlich.'),
     ('You see things; and you say ''Why?'' But I dream things that never were; and I say ''Why not?''', 'de',
-     'Du siehst Dinge und fragst: „Warum?“ Doch ich träume von Dingen, die es nie gab, und frage: „Warum nicht?“');
+     'Du siehst Dinge und fragst: „Warum?“ Doch ich träume von Dingen, die es nie gab, und frage: „Warum nicht?“'),
+    ('Hitch your wagon to a star.', 'de',
+     'Spanne deinen Wagen an einen Stern.');
