@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.', 'nl',
      'Als alles tegen je lijkt te gaan, onthoud dan dat een vliegtuig opstijgt tegen de wind in, niet met de wind mee.'),
     ('Out of difficulties grow miracles.', 'nl',
-     'Uit moeilijkheden groeien wonderen.');
+     'Uit moeilijkheden groeien wonderen.'),
+    ('The gem cannot be polished without friction, nor man perfected without trials.', 'nl',
+     'Een edelsteen kan niet gepolijst worden zonder wrijving, en een mens niet vervolmaakt zonder beproevingen.');
