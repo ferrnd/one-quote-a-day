@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.', 'de',
      'Es braucht viel Tapferkeit, sich seinen Feinden entgegenzustellen, aber genauso viel, sich seinen Freunden entgegenzustellen.'),
     ('Do the thing you fear, and the death of fear is certain.', 'de',
-     'Tu, was du fürchtest, und der Tod der Angst ist gewiss.');
+     'Tu, was du fürchtest, und der Tod der Angst ist gewiss.'),
+    ('Fear is only as deep as the mind allows.', 'de',
+     'Angst ist nur so tief, wie der Verstand es zulässt.');
