@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only thing worse than being blind is having sight but no vision.', 'fr',
      'La seule chose pire que d''être aveugle, c''est d''avoir la vue mais aucune vision.'),
     ('No pessimist ever discovered the secret of the stars, or sailed to an uncharted land.', 'fr',
-     'Aucun pessimiste n''a jamais découvert le secret des étoiles ni navigué vers une terre inconnue.');
+     'Aucun pessimiste n''a jamais découvert le secret des étoiles ni navigué vers une terre inconnue.'),
+    ('We can do anything we want to if we stick to it long enough.', 'fr',
+     'Nous pouvons faire tout ce que nous voulons si nous persévérons assez longtemps.');
