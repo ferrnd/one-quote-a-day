@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I must not fear. Fear is the mind-killer.', 'nl',
      'Ik mag niet bang zijn. Angst doodt de geest.'),
     ('Courage is the main quality of leadership.', 'nl',
-     'Moed is de belangrijkste eigenschap van leiderschap.');
+     'Moed is de belangrijkste eigenschap van leiderschap.'),
+    ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'nl',
+     'Het moedigste wat je kunt doen als je niet moedig bent, is moed belijden en daarnaar handelen.');
