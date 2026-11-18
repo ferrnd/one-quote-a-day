@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything you''ve ever wanted is on the other side of fear.', 'de',
      'Alles, was du dir je gewünscht hast, liegt auf der anderen Seite der Angst.'),
     ('Inaction breeds doubt and fear. Action breeds confidence and courage.', 'de',
-     'Untätigkeit erzeugt Zweifel und Angst. Handeln erzeugt Zuversicht und Mut.');
+     'Untätigkeit erzeugt Zweifel und Angst. Handeln erzeugt Zuversicht und Mut.'),
+    ('Courage is being scared to death, but saddling up anyway.', 'de',
+     'Mut heißt, zu Tode erschrocken zu sein und trotzdem in den Sattel zu steigen.');
