@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I would rather be ashes than dust!', 'pt-BR',
      'Prefiro ser cinzas a ser pó!'),
     ('Determine never to be idle.', 'pt-BR',
-     'Decida nunca ficar ocioso.');
+     'Decida nunca ficar ocioso.'),
+    ('A dream doesn''t become reality through magic; it takes sweat, determination and hard work.', 'pt-BR',
+     'Um sonho não vira realidade por mágica; é preciso suor, determinação e trabalho duro.');
