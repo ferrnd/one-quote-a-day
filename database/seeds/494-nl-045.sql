@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Knowing your own darkness is the best method for dealing with the darknesses of other people.', 'nl',
      'Je eigen duisternis kennen is de beste methode om met de duisternis van anderen om te gaan.'),
     ('There is no coming to consciousness without pain.', 'nl',
-     'Er is geen bewustwording zonder pijn.');
+     'Er is geen bewustwording zonder pijn.'),
+    ('It''s what you learn after you know it all that counts.', 'nl',
+     'Wat telt, is wat je leert nadat je denkt dat je alles al weet.');
