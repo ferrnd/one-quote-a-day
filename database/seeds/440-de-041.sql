@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'de',
      'Wenn du nicht ab und zu scheiterst, ist das ein Zeichen, dass du nichts sehr Innovatives tust.'),
     ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'de',
-     'Scheitern passiert ständig. Es passiert jeden Tag im Training. Was dich besser macht, ist, wie du darauf reagierst.');
+     'Scheitern passiert ständig. Es passiert jeden Tag im Training. Was dich besser macht, ist, wie du darauf reagierst.'),
+    ('There are no mistakes or failures, only lessons.', 'de',
+     'Es gibt keine Fehler und kein Scheitern, nur Lektionen.');
