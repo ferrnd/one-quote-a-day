@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A champion is someone who gets up when he can''t.', 'de',
      'Ein Champion ist jemand, der aufsteht, wenn er nicht mehr kann.'),
     ('Never give in. Never, never, never, never.', 'de',
-     'Gebt niemals nach. Niemals, niemals, niemals, niemals.');
+     'Gebt niemals nach. Niemals, niemals, niemals, niemals.'),
+    ('Success seems to be connected with action. Successful people keep moving.', 'de',
+     'Erfolg scheint mit Handeln verbunden zu sein. Erfolgreiche Menschen bleiben in Bewegung.');
