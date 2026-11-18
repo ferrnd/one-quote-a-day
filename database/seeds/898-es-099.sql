@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Happiness is not a goal; it is a by-product.', 'es',
      'La felicidad no es una meta; es una consecuencia.'),
     ('The purpose of life is to live it, to taste experience to the utmost.', 'es',
-     'El propósito de la vida es vivirla, saborear la experiencia al máximo.');
+     'El propósito de la vida es vivirla, saborear la experiencia al máximo.'),
+    ('The art of being wise is the art of knowing what to overlook.', 'es',
+     'El arte de ser sabio es el arte de saber qué pasar por alto.');
