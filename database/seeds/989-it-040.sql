@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be brave. Take risks. Nothing can substitute experience.', 'it',
      'Sii coraggioso. Corri dei rischi. Niente può sostituire l''esperienza.'),
     ('He who is brave is free.', 'it',
-     'Chi è coraggioso è libero.');
+     'Chi è coraggioso è libero.'),
+    ('I must not fear. Fear is the mind-killer.', 'it',
+     'Non devo avere paura. La paura uccide la mente.');
