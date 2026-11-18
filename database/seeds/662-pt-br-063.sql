@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you can''t outplay them, outwork them.', 'pt-BR',
      'Se você não consegue jogar melhor que eles, trabalhe mais que eles.'),
     ('I really think a champion is defined not by their wins but by how they can recover when they fall.', 'pt-BR',
-     'Acredito mesmo que um campeão não se define pelas vitórias, mas por como consegue se recuperar quando cai.');
+     'Acredito mesmo que um campeão não se define pelas vitórias, mas por como consegue se recuperar quando cai.'),
+    ('You have to believe in yourself when no one else does.', 'pt-BR',
+     'Você precisa acreditar em si mesmo quando ninguém mais acredita.');
