@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No great thing is created suddenly.', 'fr',
      'Rien de grand ne se crée soudainement.'),
     ('Perhaps someday it will be pleasant to remember even this.', 'fr',
-     'Peut-être un jour sera-t-il doux de se souvenir même de ceci.');
+     'Peut-être un jour sera-t-il doux de se souvenir même de ceci.'),
+    ('Endure, and preserve yourselves for better things.', 'fr',
+     'Tenez bon, et gardez-vous pour des jours meilleurs.');
