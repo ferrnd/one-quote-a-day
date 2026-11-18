@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perhaps someday it will be pleasant to remember even this.', 'de',
      'Vielleicht wird es eines Tages angenehm sein, sich sogar daran zu erinnern.'),
     ('Endure, and preserve yourselves for better things.', 'de',
-     'Haltet aus und bewahrt euch für bessere Zeiten.');
+     'Haltet aus und bewahrt euch für bessere Zeiten.'),
+    ('Bear up, my heart; you have endured worse than this.', 'de',
+     'Halte aus, mein Herz; du hast schon Schlimmeres ertragen.');
