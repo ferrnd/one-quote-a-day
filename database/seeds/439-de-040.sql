@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'de',
      'Mut heißt, das zu tun, wovor man Angst hat. Ohne Angst gibt es keinen Mut.'),
     ('Fortune and love favor the brave.', 'de',
-     'Glück und Liebe sind mit den Mutigen.');
+     'Glück und Liebe sind mit den Mutigen.'),
+    ('Expose yourself to your deepest fear; after that, fear has no power.', 'de',
+     'Setze dich deiner tiefsten Angst aus; danach hat die Angst keine Macht mehr.');
