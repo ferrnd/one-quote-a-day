@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('But man is not made for defeat. A man can be destroyed but not defeated.', 'nl',
      'Maar de mens is niet gemaakt voor de nederlaag. Een mens kan vernietigd worden, maar niet verslagen.'),
     ('Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.', 'nl',
-     'Het leven draait niet altijd om goede kaarten hebben, maar soms om een slechte hand goed te spelen.');
+     'Het leven draait niet altijd om goede kaarten hebben, maar soms om een slechte hand goed te spelen.'),
+    ('Hope is the thing with feathers that perches in the soul.', 'nl',
+     'Hoop is het ding met veren dat in de ziel neerstrijkt.');
