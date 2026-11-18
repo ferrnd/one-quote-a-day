@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Slow and steady wins the race.', 'nl',
      'Langzaam maar zeker wint de race.'),
     ('With time and patience the mulberry leaf becomes a silk gown.', 'nl',
-     'Met tijd en geduld wordt het moerbeiblad een zijden japon.');
+     'Met tijd en geduld wordt het moerbeiblad een zijden japon.'),
+    ('Patience attracts happiness; it brings near that which is far.', 'nl',
+     'Geduld trekt geluk aan; het brengt dichtbij wat ver weg is.');
