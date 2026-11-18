@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When one door of happiness closes, another opens.', 'es',
      'Cuando una puerta de la felicidad se cierra, otra se abre.'),
     ('Alone we can do so little; together we can do so much.', 'es',
-     'Solos podemos hacer muy poco; juntos podemos hacer mucho.');
+     'Solos podemos hacer muy poco; juntos podemos hacer mucho.'),
+    ('The only thing worse than being blind is having sight but no vision.', 'es',
+     'Lo único peor que ser ciego es tener vista pero no tener visión.');
