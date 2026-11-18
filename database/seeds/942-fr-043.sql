@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is itself a species of happiness.', 'fr',
      'L''espoir est lui-même une forme de bonheur.'),
     ('The sun shines not on us but in us.', 'fr',
-     'Le soleil ne brille pas sur nous, mais en nous.');
+     'Le soleil ne brille pas sur nous, mais en nous.'),
+    ('Hope arouses, as nothing else can arouse, a passion for the possible.', 'fr',
+     'L''espoir éveille, comme rien d''autre ne peut le faire, une passion pour le possible.');
