@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.', 'de',
      'Der Pessimist beklagt sich über den Wind; der Optimist hofft, dass er dreht; der Realist richtet die Segel aus.'),
     ('Optimism is essential to achievement and it is also the foundation of courage and true progress.', 'de',
-     'Optimismus ist unverzichtbar für den Erfolg, und er ist auch die Grundlage von Mut und wahrem Fortschritt.');
+     'Optimismus ist unverzichtbar für den Erfolg, und er ist auch die Grundlage von Mut und wahrem Fortschritt.'),
+    ('You are what you believe yourself to be.', 'de',
+     'Du bist, was du zu sein glaubst.');
