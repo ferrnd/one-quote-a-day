@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard times don''t create heroes. It is during the hard times when the hero within us is revealed.', 'nl',
      'Moeilijke tijden maken geen helden. In moeilijke tijden wordt de held in ons zichtbaar.'),
     ('Mountains cannot be surmounted except by winding paths.', 'nl',
-     'Bergen kunnen alleen via kronkelende paden worden beklommen.');
+     'Bergen kunnen alleen via kronkelende paden worden beklommen.'),
+    ('Pain is inevitable. Suffering is optional.', 'nl',
+     'Pijn is onvermijdelijk. Lijden is een keuze.');
