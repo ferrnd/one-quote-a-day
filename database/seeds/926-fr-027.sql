@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Whatever the mind of man can conceive and believe, it can achieve.', 'fr',
      'Tout ce que l''esprit humain peut concevoir et croire, il peut le réaliser.'),
     ('The man who has confidence in himself gains the confidence of others.', 'fr',
-     'Celui qui a confiance en lui gagne la confiance des autres.');
+     'Celui qui a confiance en lui gagne la confiance des autres.'),
+    ('Once you replace negative thoughts with positive ones, you''ll start having positive results.', 'fr',
+     'Dès que tu remplaces les pensées négatives par des pensées positives, tu commences à obtenir des résultats positifs.');
