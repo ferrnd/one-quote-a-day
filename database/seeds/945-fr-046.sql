@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When it is obvious that the goals cannot be reached, don''t adjust the goals, adjust the action steps.', 'fr',
      'Quand il est évident que les objectifs ne peuvent pas être atteints, n''ajuste pas les objectifs ; ajuste les étapes pour y arriver.'),
     ('Victory is sweetest when you''ve known defeat.', 'fr',
-     'La victoire est plus douce quand on a connu la défaite.');
+     'La victoire est plus douce quand on a connu la défaite.'),
+    ('It is a mistake to look too far ahead. Only one link of the chain of destiny can be handled at a time.', 'fr',
+     'C''est une erreur de regarder trop loin devant. On ne peut saisir qu''un seul maillon de la chaîne du destin à la fois.');
