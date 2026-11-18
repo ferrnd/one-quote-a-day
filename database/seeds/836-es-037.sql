@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Change is the law of life. And those who look only to the past or present are certain to miss the future.', 'es',
      'El cambio es la ley de la vida. Y quienes miran solo al pasado o al presente seguramente se perderán el futuro.'),
     ('The secret of change is to focus all of your energy not on fighting the old, but on building the new.', 'es',
-     'El secreto del cambio es concentrar toda tu energía no en luchar contra lo viejo, sino en construir lo nuevo.');
+     'El secreto del cambio es concentrar toda tu energía no en luchar contra lo viejo, sino en construir lo nuevo.'),
+    ('What you get by achieving your goals is not as important as what you become by achieving your goals.', 'es',
+     'Lo que obtienes al alcanzar tus metas no es tan importante como en quién te conviertes al alcanzarlas.');
