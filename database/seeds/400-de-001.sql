@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It always seems impossible until it''s done.', 'de',
      'Es scheint immer unmöglich, bis man es getan hat.'),
     ('Nothing in this world can take the place of persistence.', 'de',
-     'Nichts auf der Welt kann Beharrlichkeit ersetzen.');
+     'Nichts auf der Welt kann Beharrlichkeit ersetzen.'),
+    ('Victory belongs to the most persevering.', 'de',
+     'Der Sieg gehört dem Beharrlichsten.');
