@@ -118,7 +118,7 @@ const observer = new IntersectionObserver(
 /** @param {QuoteEngine} engine @param {number} n */
 function archiveItem(engine, n) {
   const parts = engine.partsFromDays(archive.launch + n - 1);
-  const quote = engine.quote(engine.x.quote_for_day(archive.launch + n - 1));
+  const quote = engine.quote(engine.x.entry_for_day(archive.launch + n - 1));
   const li = document.createElement("li");
   const meta = document.createElement("p");
   meta.className = "archive-meta";
@@ -128,7 +128,8 @@ function archiveItem(engine, n) {
   const author = document.createElement("p");
   author.className = "archive-author";
   author.textContent = quote.author;
-  li.append(meta, text, author);
+  li.append(meta, text);
+  if (quote.author) li.append(author); // dedications may be unsigned
   return li;
 }
 
