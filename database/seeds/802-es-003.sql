@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never give up, for that is just the place and time that the tide will turn.', 'es',
      'Nunca te rindas, porque ese es justo el lugar y el momento en que la marea va a cambiar.'),
     ('Persistence can change failure into extraordinary achievement.', 'es',
-     'La persistencia puede convertir el fracaso en un logro extraordinario.');
+     'La persistencia puede convertir el fracaso en un logro extraordinario.'),
+    ('He conquers who endures.', 'es',
+     'Vence quien resiste.');
