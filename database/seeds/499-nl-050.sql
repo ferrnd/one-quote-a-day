@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be kind, for everyone you meet is fighting a hard battle.', 'nl',
      'Wees vriendelijk, want iedereen die je ontmoet, voert een zware strijd.'),
     ('No act of kindness, no matter how small, is ever wasted.', 'nl',
-     'Geen enkele vriendelijke daad, hoe klein ook, is ooit verspild.');
+     'Geen enkele vriendelijke daad, hoe klein ook, is ooit verspild.'),
+    ('The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.', 'nl',
+     'De beste en mooiste dingen ter wereld kun je niet zien of zelfs aanraken. Ze moeten met het hart gevoeld worden.');
