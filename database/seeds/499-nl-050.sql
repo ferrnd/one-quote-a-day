@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best revenge is not to be like your enemy.', 'nl',
      'De beste wraak is niet te zijn zoals je vijand.'),
     ('Loss is nothing else but change, and change is Nature''s delight.', 'nl',
-     'Verlies is niets anders dan verandering, en verandering is de vreugde van de Natuur.');
+     'Verlies is niets anders dan verandering, en verandering is de vreugde van de Natuur.'),
+    ('Dwell on the beauty of life. Watch the stars, and see yourself running with them.', 'nl',
+     'Sta stil bij de schoonheid van het leven. Kijk naar de sterren en zie jezelf met hen meerennen.');
