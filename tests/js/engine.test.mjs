@@ -62,7 +62,7 @@ test("every quote is available in every locale", async () => {
   const dec = new TextDecoder("utf-8", { fatal: true });
   const read = (p, l) => dec.decode(new Uint8Array(x.memory.buffer, p, l));
   const codes = Array.from({ length: x.locale_count() }, (_, k) => read(x.locale_code_ptr(k), x.locale_code_len(k)));
-  assert.deepEqual(codes, ["en", "pt-BR", "es", "fr", "it"]);
+  assert.deepEqual(codes, ["en", "pt-BR", "es", "fr", "it", "de", "nl"]);
   for (let i = 0; i < x.quote_count(); i++) {
     const en = read(x.localized_text_ptr(i, 0), x.localized_text_len(i, 0));
     const pt = read(x.localized_text_ptr(i, 1), x.localized_text_len(i, 1));
