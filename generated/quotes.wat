@@ -27,10 +27,10 @@
 ;;  authors       413
 ;;  themes        15
 ;;  dedications   1
-;;  pool          57160 bytes, fnv1a 0x7291a157
+;;  pool          57182 bytes, fnv1a 0x47c56829
 ;;  schedule      146097 days from 2000-01-01, seed 0x853c49e6748fea9b
 ;;  sequence      0xda3e39cb94b95bdb
-;;  memory        364728 bytes in 6 pages
+;;  memory        364752 bytes in 6 pages
 
   (memory (export "memory") 6)
 
@@ -457,7 +457,7 @@
 
   ;; ======================================================== header ==
   ;;  magic, format, quote_count, author_count, records_ptr, pool_ptr, pool_len, schedule_ptr, schedule_base, schedule_len, scratch_ptr, pool_fnv1a, dedication_count, dedications_ptr
-  (data (i32.const 0) "\51\4f\54\44\02\00\00\00\fc\02\00\00\9d\01\00\00\40\00\00\00\10\30\00\00\48\df\00\00\60\0f\01\00\cd\2a\00\00\b1\3a\02\00\c8\84\05\00\57\a1\91\72\01\00\00\00\58\0f\01\00\00\00\00\00\00\00\00\00")
+  (data (i32.const 0) "\51\4f\54\44\02\00\00\00\fc\02\00\00\9d\01\00\00\40\00\00\00\10\30\00\00\5e\df\00\00\78\0f\01\00\cd\2a\00\00\b1\3a\02\00\e0\84\05\00\29\68\c5\47\01\00\00\00\70\0f\01\00\00\00\00\00\00\00\00\00")
 
   ;; ======================================================= records ==
   (data (i32.const 64)
@@ -1225,7 +1225,7 @@
     "\9a\0e\01\00\5e\00\00\00\9d\38\00\00\0e\00\00\00" ;; #0761 wisdom
     "\f8\0e\01\00\24\00\00\00\1a\46\00\00\0d\00\00\00" ;; #0762 wisdom
     "\1c\0f\01\00\26\00\00\00\da\37\00\00\04\00\00\00" ;; #0763 wisdom
-    "\42\0f\01\00\16\00\00\00\00\00\00\00\00\00\00\00" ;; #0764 dedication 2026-11-16
+    "\42\0f\01\00\2c\00\00\00\00\00\00\00\00\00\00\00" ;; #0764 dedication 2026-11-16
   )
 
   ;; ======================================================= authors ==
@@ -2412,15 +2412,15 @@
   ;; =================================================== dedications ==
   ;;  Messages pinned to one exact date. They override the rotation on
   ;;  that day only and are never part of the schedule below.
-  (data (i32.const 69442) "I love you. I'm sorry.") ;; #0764 2026-11-16
-  (data (i32.const 69464)
+  (data (i32.const 69442) "I'm sorry for making you suffer. I love you.") ;; #0764 2026-11-16
+  (data (i32.const 69488)
     "\25\51\00\00\fc\02\00\00" ;; 2026-11-16 -> #0764
   )
 
   ;; ====================================================== schedule ==
   ;;  One little-endian u16 per day. The calendar repeats every 146097
   ;;  days, so this table covers every weekday/date combination there is.
-  (data (i32.const 69472)
+  (data (i32.const 69496)
     "\a0\01" ;; 2000-01-01 Sat #0416 John Neal
     "\ff\01" ;; 2000-01-02 Sun #0511 Madam C. J. Walker
     "\47\00" ;; 2000-01-03 Mon #0071 John Wayne

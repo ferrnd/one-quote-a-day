@@ -8,9 +8,9 @@
  * Append ?date=YYYY-MM-DD to the URL to preview another day.
  */
 
-import { dateKey, localDateParts, msUntilNextLocalMidnight, parseDateKey } from "./clock.js?v=7d192244e438";
+import { dateKey, localDateParts, msUntilNextLocalMidnight, parseDateKey } from "./clock.js?v=9718c198cdae";
 
-const WASM_URL = new URL("quotes.wasm?v=a21267492895", import.meta.url);
+const WASM_URL = new URL("quotes.wasm?v=0ecf06eeb1a5", import.meta.url);
 const FADE_MS = 900;
 const WATCHDOG_MS = 60_000;
 const FALLBACK = { text: "Fall seven times, stand up eight.", author: "Japanese Proverb" };
