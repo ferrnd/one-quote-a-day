@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s fine to celebrate success but it is more important to heed the lessons of failure.', 'nl',
      'Het is goed om succes te vieren, maar het is belangrijker om de lessen van falen ter harte te nemen.'),
     ('One fails forward toward success.', 'nl',
-     'Je faalt vooruit naar succes.');
+     'Je faalt vooruit naar succes.'),
+    ('Failure is the key to success; each mistake teaches us something.', 'nl',
+     'Falen is de sleutel tot succes; elke fout leert ons iets.');
