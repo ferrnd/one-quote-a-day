@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.', 'nl',
      'Je hebt hersens in je hoofd. Je hebt voeten in je schoenen. Je kunt elke richting op die je kiest.'),
     ('Unless someone like you cares a whole awful lot, nothing is going to get better. It''s not.', 'nl',
-     'Tenzij iemand zoals jij er ontzettend veel om geeft, wordt niets beter. Echt niet.');
+     'Tenzij iemand zoals jij er ontzettend veel om geeft, wordt niets beter. Echt niet.'),
+    ('Tell me, what is it you plan to do with your one wild and precious life?', 'nl',
+     'Zeg me, wat ben je van plan te doen met je ene wilde en kostbare leven?');
