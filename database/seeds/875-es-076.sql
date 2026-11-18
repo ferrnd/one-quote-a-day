@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What I am looking for is not out there, it is in me.', 'es',
      'Lo que busco no está ahí fuera; está en mí.'),
     ('Efforts and courage are not enough without purpose and direction.', 'es',
-     'El esfuerzo y el valor no bastan sin propósito y dirección.');
+     'El esfuerzo y el valor no bastan sin propósito y dirección.'),
+    ('The world is changed by your example, not by your opinion.', 'es',
+     'El mundo cambia con tu ejemplo, no con tu opinión.');
