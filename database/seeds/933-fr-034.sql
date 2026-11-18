@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t let anyone rob you of your imagination, your creativity, or your curiosity.', 'fr',
      'Ne laisse personne te voler ton imagination, ta créativité ou ta curiosité.'),
     ('Never let your memories be greater than your dreams.', 'fr',
-     'Ne laisse jamais tes souvenirs être plus grands que tes rêves.');
+     'Ne laisse jamais tes souvenirs être plus grands que tes rêves.'),
+    ('All men dream, but not equally.', 'fr',
+     'Tous les hommes rêvent, mais pas de la même façon.');
