@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nature does not hurry, yet everything is accomplished.', 'es',
      'La naturaleza no tiene prisa, y sin embargo todo se cumple.'),
     ('Trees that are slow to grow bear the best fruit.', 'es',
-     'Los árboles que crecen despacio dan los mejores frutos.');
+     'Los árboles que crecen despacio dan los mejores frutos.'),
+    ('Genius is eternal patience.', 'es',
+     'El genio es una paciencia eterna.');
