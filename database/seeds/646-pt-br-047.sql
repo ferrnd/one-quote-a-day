@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Things turn out best for the people who make the best of the way things turn out.', 'pt-BR',
      'As coisas dão mais certo para quem aproveita ao máximo o jeito como as coisas acontecem.'),
     ('Now is no time to think of what you do not have. Think of what you can do with what there is.', 'pt-BR',
-     'Agora não é hora de pensar no que você não tem. Pense no que pode fazer com o que tem.');
+     'Agora não é hora de pensar no que você não tem. Pense no que pode fazer com o que tem.'),
+    ('The obstacle is the path.', 'pt-BR',
+     'O obstáculo é o caminho.');
