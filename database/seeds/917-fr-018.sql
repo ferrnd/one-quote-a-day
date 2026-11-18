@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The will to win is important, but the will to prepare is vital.', 'fr',
      'La volonté de gagner est importante, mais la volonté de se préparer est vitale.'),
     ('I never dreamed about success. I worked for it.', 'fr',
-     'Je n''ai jamais rêvé de succès. J''ai travaillé pour lui.');
+     'Je n''ai jamais rêvé de succès. J''ai travaillé pour lui.'),
+    ('Nothing will work unless you do.', 'fr',
+     'Rien ne marchera si tu ne travailles pas.');
