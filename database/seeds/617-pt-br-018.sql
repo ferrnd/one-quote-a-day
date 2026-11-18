@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What does not kill me makes me stronger.', 'pt-BR',
      'O que não me mata me fortalece.'),
     ('He who has a why to live can bear almost any how.', 'pt-BR',
-     'Quem tem um porquê para viver suporta quase qualquer como.');
+     'Quem tem um porquê para viver suporta quase qualquer como.'),
+    ('When we are no longer able to change a situation, we are challenged to change ourselves.', 'pt-BR',
+     'Quando já não somos capazes de mudar uma situação, somos desafiados a mudar a nós mesmos.');
