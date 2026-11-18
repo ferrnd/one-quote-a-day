@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The most effective way to do it, is to do it.', 'de',
      'Der wirksamste Weg, es zu tun, ist, es zu tun.'),
     ('Don''t sit down and wait for the opportunities to come. Get up and make them.', 'de',
-     'Setz dich nicht hin und warte darauf, dass die Gelegenheiten kommen. Steh auf und schaffe sie.');
+     'Setz dich nicht hin und warte darauf, dass die Gelegenheiten kommen. Steh auf und schaffe sie.'),
+    ('How wonderful it is that nobody need wait a single moment before starting to improve the world.', 'de',
+     'Wie wunderbar ist es, dass niemand auch nur einen einzigen Moment warten muss, um damit zu beginnen, die Welt zu verbessern.');
