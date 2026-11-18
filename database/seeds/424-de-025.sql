@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.', 'de',
      'Wenn du Luftschlösser gebaut hast, ist deine Arbeit nicht verloren; dort gehören sie hin. Jetzt bau die Fundamente darunter.'),
     ('Ideas are easy. Implementation is hard.', 'de',
-     'Ideen sind leicht. Die Umsetzung ist schwer.');
+     'Ideen sind leicht. Die Umsetzung ist schwer.'),
+    ('Begin, be bold, and venture to be wise.', 'de',
+     'Fang an, sei kühn und wage es, weise zu sein.');
