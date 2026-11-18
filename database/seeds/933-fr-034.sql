@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t tell me the sky''s the limit when there are footprints on the moon.', 'fr',
      'Ne me dis pas que le ciel est la limite quand il y a des empreintes de pas sur la Lune.'),
     ('The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.', 'fr',
-     'La Terre est le berceau de l''humanité, mais on ne passe pas sa vie entière dans un berceau.');
+     'La Terre est le berceau de l''humanité, mais on ne passe pas sa vie entière dans un berceau.'),
+    ('Exploration is really the essence of the human spirit.', 'fr',
+     'L''exploration est vraiment l''essence de l''esprit humain.');
