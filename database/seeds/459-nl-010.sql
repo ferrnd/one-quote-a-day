@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing is impossible. The word itself says ''I''m possible''!', 'nl',
      'Niets is onmogelijk. Het woord zegt het zelf, in het Engels: ''I''m possible'', ik ben mogelijk!'),
     ('Stars can''t shine without darkness.', 'nl',
-     'Sterren kunnen niet schijnen zonder duisternis.');
+     'Sterren kunnen niet schijnen zonder duisternis.'),
+    ('The wound is the place where the Light enters you.', 'nl',
+     'De wond is de plek waar het Licht je binnenkomt.');
