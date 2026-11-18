@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Great works are performed not by strength but by perseverance.', 'nl',
      'Grote werken worden niet volbracht door kracht, maar door volharding.'),
     ('Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.', 'nl',
-     'Geduld en doorzettingsvermogen hebben een magische uitwerking waarvoor moeilijkheden verdwijnen en obstakels oplossen.');
+     'Geduld en doorzettingsvermogen hebben een magische uitwerking waarvoor moeilijkheden verdwijnen en obstakels oplossen.'),
+    ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'nl',
+     'Door volharding behalen veel mensen succes uit wat tot zekere mislukking gedoemd leek.');
