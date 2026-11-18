@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Victory is sweetest when you''ve known defeat.', 'es',
      'La victoria es más dulce cuando has conocido la derrota.'),
     ('It is a mistake to look too far ahead. Only one link of the chain of destiny can be handled at a time.', 'es',
-     'Es un error mirar demasiado lejos. Solo se puede sostener un eslabón de la cadena del destino a la vez.');
+     'Es un error mirar demasiado lejos. Solo se puede sostener un eslabón de la cadena del destino a la vez.'),
+    ('Don''t spend time beating on a wall, hoping to transform it into a door.', 'es',
+     'No pierdas el tiempo golpeando un muro con la esperanza de convertirlo en puerta.');
