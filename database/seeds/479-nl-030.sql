@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A handful of patience is worth more than a bushel of brains.', 'nl',
      'Een handvol geduld is meer waard dan een schepel verstand.'),
     ('Patience is also a form of action.', 'nl',
-     'Geduld is ook een vorm van handelen.');
+     'Geduld is ook een vorm van handelen.'),
+    ('Slow and steady wins the race.', 'nl',
+     'Langzaam maar zeker wint de race.');
