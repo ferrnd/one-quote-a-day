@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Have patience with all things, but first of all with yourself.', 'nl',
      'Heb geduld met alles, maar vooral met jezelf.'),
     ('One moment of patience may ward off great disaster. One moment of impatience may ruin a whole life.', 'nl',
-     'Eén moment van geduld kan een grote ramp voorkomen. Eén moment van ongeduld kan een heel leven verwoesten.');
+     'Eén moment van geduld kan een grote ramp voorkomen. Eén moment van ongeduld kan een heel leven verwoesten.'),
+    ('Patience is not simply the ability to wait; it''s how we behave while we''re waiting.', 'nl',
+     'Geduld is niet alleen het vermogen om te wachten; het is hoe we ons gedragen terwijl we wachten.');
