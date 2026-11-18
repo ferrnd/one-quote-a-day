@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The way to get started is to quit talking and begin doing.', 'nl',
      'De manier om te beginnen is ophouden met praten en beginnen met doen.'),
     ('Do not wait; the time will never be just right.', 'nl',
-     'Wacht niet; het moment zal nooit precies goed zijn.');
+     'Wacht niet; het moment zal nooit precies goed zijn.'),
+    ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'nl',
+     'Weten is niet genoeg; we moeten toepassen. Willen is niet genoeg; we moeten doen.');
