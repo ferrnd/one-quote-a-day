@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'es',
      'Gracias a la perseverancia, muchas personas logran el éxito a partir de lo que parecía destinado a ser un fracaso seguro.'),
     ('Continuous effort, not strength or intelligence, is the key to unlocking our potential.', 'es',
-     'El esfuerzo continuo, y no la fuerza o la inteligencia, es la clave para liberar nuestro potencial.');
+     'El esfuerzo continuo, y no la fuerza o la inteligencia, es la clave para liberar nuestro potencial.'),
+    ('Ambition is the path to success. Persistence is the vehicle you arrive in.', 'es',
+     'La ambición es el camino al éxito. La persistencia es el vehículo en el que llegas.');
