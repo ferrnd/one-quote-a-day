@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can accept failure, everyone fails at something. But I can''t accept not trying.', 'fr',
      'Je peux accepter l''échec, tout le monde échoue à quelque chose. Mais je ne peux pas accepter de ne pas essayer.'),
     ('Success is not built on success. It''s built on failure. It''s built on frustration.', 'fr',
-     'Le succès ne se construit pas sur le succès. Il se construit sur l''échec. Il se construit sur la frustration.');
+     'Le succès ne se construit pas sur le succès. Il se construit sur l''échec. Il se construit sur la frustration.'),
+    ('Winners are not afraid of losing. But losers are. Failure is part of the process of success.', 'fr',
+     'Les gagnants n''ont pas peur de perdre. Les perdants, si. L''échec fait partie du chemin vers le succès.');
