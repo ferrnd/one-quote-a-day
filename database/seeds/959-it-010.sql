@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s not whether you get knocked down; it''s whether you get up.', 'it',
      'Non conta se vieni messo a terra; conta se ti rialzi.'),
     ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'it',
-     'Non conta quanto colpisci forte. Conta quanto riesci a incassare e continuare ad andare avanti.');
+     'Non conta quanto colpisci forte. Conta quanto riesci a incassare e continuare ad andare avanti.'),
+    ('A good half of the art of living is resilience.', 'it',
+     'Buona parte dell''arte di vivere è la resilienza.');
