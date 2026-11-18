@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.', 'es',
      'Nos hacemos justos practicando actos justos, moderados practicando actos moderados, valientes practicando actos valientes.'),
     ('Never mistake activity for achievement.', 'es',
-     'Nunca confundas actividad con logro.');
+     'Nunca confundas actividad con logro.'),
+    ('The harder you work, the harder it is to surrender.', 'es',
+     'Cuanto más trabajas, más difícil es rendirse.');
