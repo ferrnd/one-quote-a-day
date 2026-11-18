@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity is like a strong wind. It tears away from us all but the things that cannot be torn, so that we see ourselves as we really are.', 'fr',
      'L''adversité est comme un vent violent. Elle nous arrache tout, sauf ce qui ne peut être arraché, afin que nous nous voyions tels que nous sommes vraiment.'),
     ('What makes the desert beautiful is that somewhere it hides a well.', 'fr',
-     'Ce qui embellit le désert, c''est qu''il cache un puits quelque part.');
+     'Ce qui embellit le désert, c''est qu''il cache un puits quelque part.'),
+    ('The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.', 'fr',
+     'Le pessimiste voit la difficulté dans chaque opportunité. L''optimiste voit l''opportunité dans chaque difficulté.');
