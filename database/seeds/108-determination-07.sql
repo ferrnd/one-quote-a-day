@@ -2,4 +2,5 @@
 
 INSERT INTO intake (body, author, theme) VALUES
     ('Determination gives you the resolve to keep going in spite of the roadblocks that lay before you.', 'Denis Waitley', 'determination'),
-    ('They can conquer who believe they can.', 'Virgil', 'determination');
+    ('They can conquer who believe they can.', 'Virgil', 'determination'),
+    ('There are no limits. There are plateaus, but you must not stay there, you must go beyond them.', 'Bruce Lee', 'determination');
