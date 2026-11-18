@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The more I practice, the luckier I get.', 'fr',
      'Plus je m''entraîne, plus j''ai de la chance.'),
     ('Do not wait to strike till the iron is hot; but make it hot by striking.', 'fr',
-     'N''attends pas que le fer soit chaud pour le battre ; rends-le chaud en le battant.');
+     'N''attends pas que le fer soit chaud pour le battre ; rends-le chaud en le battant.'),
+    ('Self-respect is the fruit of discipline; the sense of dignity grows with the ability to say no to oneself.', 'fr',
+     'Le respect de soi est le fruit de la discipline ; le sens de la dignité grandit avec la capacité de se dire non.');
