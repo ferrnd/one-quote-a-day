@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Problems are only opportunities in work clothes.', 'es',
      'Los problemas son solo oportunidades con ropa de trabajo.'),
     ('Calamity is the test of integrity.', 'es',
-     'La calamidad es la prueba de la integridad.');
+     'La calamidad es la prueba de la integridad.'),
+    ('Prosperity makes friends, adversity tries them.', 'es',
+     'La prosperidad hace amigos; la adversidad los pone a prueba.');
