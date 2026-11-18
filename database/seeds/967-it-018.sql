@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do something today that your future self will thank you for.', 'it',
      'Fai oggi qualcosa per cui il tuo io futuro ti ringrazierà.'),
     ('Focus on being productive instead of busy.', 'it',
-     'Concentrati sull''essere produttivo, non sull''essere impegnato.');
+     'Concentrati sull''essere produttivo, non sull''essere impegnato.'),
+    ('Discipline is remembering what you want.', 'it',
+     'La disciplina è ricordare ciò che vuoi.');
