@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.', 'pt-BR',
      'O otimismo é a fé que leva à realização. Nada pode ser feito sem esperança e confiança.'),
     ('Keep your eyes on the stars, and your feet on the ground.', 'pt-BR',
-     'Mantenha os olhos nas estrelas e os pés no chão.');
+     'Mantenha os olhos nas estrelas e os pés no chão.'),
+    ('Hope is a waking dream.', 'pt-BR',
+     'A esperança é um sonho acordado.');
