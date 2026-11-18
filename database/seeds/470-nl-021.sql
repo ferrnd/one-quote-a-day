@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I was taught that the way of progress was neither swift nor easy.', 'nl',
      'Mij is geleerd dat de weg van vooruitgang snel noch makkelijk is.'),
     ('Adversity causes some men to break; others to break records.', 'nl',
-     'Tegenspoed laat sommige mensen breken; anderen breken records.');
+     'Tegenspoed laat sommige mensen breken; anderen breken records.'),
+    ('Prosperity is not without many fears and distastes; and adversity is not without comforts and hopes.', 'nl',
+     'Voorspoed is niet zonder angsten en afkeer, en tegenspoed is niet zonder troost en hoop.');
