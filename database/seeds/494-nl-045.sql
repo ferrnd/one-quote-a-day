@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I don''t stop when I''m tired. I stop when I''m done.', 'nl',
      'Ik stop niet als ik moe ben. Ik stop als ik klaar ben.'),
     ('The only easy day was yesterday.', 'nl',
-     'De enige makkelijke dag was gisteren.');
+     'De enige makkelijke dag was gisteren.'),
+    ('In a gentle way, you can shake the world.', 'nl',
+     'Op een zachte manier kun je de wereld doen schudden.');
