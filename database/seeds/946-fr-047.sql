@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Either write something worth reading or do something worth writing.', 'fr',
      'Écris quelque chose qui vaille la peine d''être lu, ou fais quelque chose qui vaille la peine d''être écrit.'),
     ('Some people want it to happen, some wish it would happen, others make it happen.', 'fr',
-     'Certains veulent que cela arrive, d''autres souhaitent que cela arrive, d''autres encore le font arriver.');
+     'Certains veulent que cela arrive, d''autres souhaitent que cela arrive, d''autres encore le font arriver.'),
+    ('The more I want to get something done, the less I call it work.', 'fr',
+     'Plus je veux faire une chose, moins je l''appelle travail.');
