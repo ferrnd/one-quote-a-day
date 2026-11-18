@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Leap, and the net will appear.', 'nl',
      'Spring, en het net zal verschijnen.'),
     ('Security is mostly a superstition. Life is either a daring adventure or nothing.', 'nl',
-     'Zekerheid is grotendeels bijgeloof. Het leven is een gedurfd avontuur of het is niets.');
+     'Zekerheid is grotendeels bijgeloof. Het leven is een gedurfd avontuur of het is niets.'),
+    ('What would life be if we had no courage to attempt anything?', 'nl',
+     'Wat zou het leven zijn als we niet de moed hadden iets te proberen?');
