@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Even the darkest night will end and the sun will rise.', 'nl',
      'Zelfs de donkerste nacht zal eindigen, en de zon zal opkomen.'),
     ('Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.', 'nl',
-     'Optimisme is het geloof dat tot prestaties leidt. Zonder hoop en vertrouwen kan niets worden gedaan.');
+     'Optimisme is het geloof dat tot prestaties leidt. Zonder hoop en vertrouwen kan niets worden gedaan.'),
+    ('Keep your eyes on the stars, and your feet on the ground.', 'nl',
+     'Houd je ogen op de sterren en je voeten op de grond.');
