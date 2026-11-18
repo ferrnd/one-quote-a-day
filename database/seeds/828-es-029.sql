@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be the heroine of your life, not the victim.', 'es',
      'Sé la heroína de tu vida, no la víctima.'),
     ('Stand up straight and realize who you are, that you tower over your circumstances.', 'es',
-     'Ponte derecha y date cuenta de quién eres: alguien más grande que tus circunstancias.');
+     'Ponte derecha y date cuenta de quién eres: alguien más grande que tus circunstancias.'),
+    ('Never bend your head. Always hold it high. Look the world straight in the eye.', 'es',
+     'Nunca agaches la cabeza. Mantenla siempre en alto. Mira al mundo directamente a los ojos.');
