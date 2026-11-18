@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I dwell in possibility.', 'de',
      'Ich wohne in der Möglichkeit.'),
     ('It is our choices that show what we truly are, far more than our abilities.', 'de',
-     'Es sind unsere Entscheidungen, die zeigen, wer wir wirklich sind, viel mehr als unsere Fähigkeiten.');
+     'Es sind unsere Entscheidungen, die zeigen, wer wir wirklich sind, viel mehr als unsere Fähigkeiten.'),
+    ('Look up at the stars and not down at your feet.', 'de',
+     'Schau hinauf zu den Sternen und nicht hinunter auf deine Füße.');
