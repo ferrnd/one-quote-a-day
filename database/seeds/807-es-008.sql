@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Bravery is the capacity to perform properly even when scared half to death.', 'es',
      'La valentía es la capacidad de actuar bien incluso cuando estás muerto de miedo.'),
     ('With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble.', 'es',
-     'Con valor te atreverás a correr riesgos, tendrás fuerza para ser compasivo y sabiduría para ser humilde.');
+     'Con valor te atreverás a correr riesgos, tendrás fuerza para ser compasivo y sabiduría para ser humilde.'),
+    ('One isn''t necessarily born with courage, but one is born with potential.', 'es',
+     'Nadie nace necesariamente con valor, pero todos nacen con potencial.');
