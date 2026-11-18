@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.', 'fr',
      'Nous admirons la beauté du papillon, mais nous reconnaissons rarement les transformations qu''il a traversées pour atteindre cette beauté.'),
     ('It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.', 'fr',
-     'Ce n''est pas l''espèce la plus forte qui survit, ni la plus intelligente, mais celle qui s''adapte le mieux au changement.');
+     'Ce n''est pas l''espèce la plus forte qui survit, ni la plus intelligente, mais celle qui s''adapte le mieux au changement.'),
+    ('When I let go of what I am, I become what I might be.', 'fr',
+     'Quand je lâche ce que je suis, je deviens ce que je pourrais être.');
