@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You get in life what you have the courage to ask for.', 'nl',
      'Je krijgt van het leven waar je de moed voor hebt om het te vragen.'),
     ('Success isn''t about how much money you make; it''s about the difference you make in people''s lives.', 'nl',
-     'Succes gaat niet over hoeveel geld je verdient; het gaat over het verschil dat je maakt in het leven van mensen.');
+     'Succes gaat niet over hoeveel geld je verdient; het gaat over het verschil dat je maakt in het leven van mensen.'),
+    ('There is no greater agony than bearing an untold story inside you.', 'nl',
+     'Er is geen grotere kwelling dan een onverteld verhaal in je meedragen.');
