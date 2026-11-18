@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greatest mistake you can make in life is to be continually fearing you will make one.', 'de',
      'Der größte Fehler, den man im Leben machen kann, ist, ständig Angst zu haben, einen zu machen.'),
     ('If you''re not prepared to be wrong, you''ll never come up with anything original.', 'de',
-     'Wenn du nicht bereit bist, dich zu irren, wirst du nie etwas Originelles hervorbringen.');
+     'Wenn du nicht bereit bist, dich zu irren, wirst du nie etwas Originelles hervorbringen.'),
+    ('Experience is simply the name we give our mistakes.', 'de',
+     'Erfahrung ist einfach der Name, den wir unseren Fehlern geben.');
