@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is like a muscle. We strengthen it by use.', 'nl',
      'Moed is als een spier. We versterken hem door hem te gebruiken.'),
     ('Vulnerability is the birthplace of innovation, creativity and change.', 'nl',
-     'Kwetsbaarheid is de geboorteplaats van innovatie, creativiteit en verandering.');
+     'Kwetsbaarheid is de geboorteplaats van innovatie, creativiteit en verandering.'),
+    ('Courage starts with showing up and letting ourselves be seen.', 'nl',
+     'Moed begint met je laten zien en jezelf laten zien.');
