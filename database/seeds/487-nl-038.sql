@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you don''t like the road you''re walking, start paving another one.', 'nl',
      'Als je de weg die je loopt niet bevalt, begin dan een andere te bestraten.'),
     ('You get in life what you have the courage to ask for.', 'nl',
-     'Je krijgt van het leven waar je de moed voor hebt om het te vragen.');
+     'Je krijgt van het leven waar je de moed voor hebt om het te vragen.'),
+    ('Success isn''t about how much money you make; it''s about the difference you make in people''s lives.', 'nl',
+     'Succes gaat niet over hoeveel geld je verdient; het gaat over het verschil dat je maakt in het leven van mensen.');
