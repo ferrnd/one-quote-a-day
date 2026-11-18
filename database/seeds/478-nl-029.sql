@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The worst enemy to creativity is self-doubt.', 'nl',
      'De ergste vijand van creativiteit is twijfel aan jezelf.'),
     ('I dwell in possibility.', 'nl',
-     'Ik woon in de mogelijkheid.');
+     'Ik woon in de mogelijkheid.'),
+    ('It is our choices that show what we truly are, far more than our abilities.', 'nl',
+     'Het zijn onze keuzes die laten zien wie we werkelijk zijn, veel meer dan onze capaciteiten.');
