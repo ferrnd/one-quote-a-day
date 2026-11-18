@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What is now proved was once only imagined.', 'pt-BR',
      'O que hoje está provado um dia foi apenas imaginado.'),
     ('Aim for the moon. If you miss, you may hit a star.', 'pt-BR',
-     'Mire na Lua. Se errar, pode acertar uma estrela.');
+     'Mire na Lua. Se errar, pode acertar uma estrela.'),
+    ('Nothing happens unless first we dream.', 'pt-BR',
+     'Nada acontece sem que antes a gente sonhe.');
