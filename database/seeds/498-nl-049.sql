@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Tread softly because you tread on my dreams.', 'nl',
      'Treed zachtjes, want je treedt op mijn dromen.'),
     ('All that we see or seem is but a dream within a dream.', 'nl',
-     'Alles wat we zien of lijken, is slechts een droom in een droom.');
+     'Alles wat we zien of lijken, is slechts een droom in een droom.'),
+    ('Don''t give up on your dreams, or your dreams will give up on you.', 'nl',
+     'Geef je dromen niet op, anders geven je dromen jou op.');
