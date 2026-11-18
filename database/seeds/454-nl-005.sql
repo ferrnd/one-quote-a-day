@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Freedom lies in being bold.', 'nl',
      'Vrijheid ligt in het durven.'),
     ('The only thing we have to fear is fear itself.', 'nl',
-     'Het enige wat we moeten vrezen, is de angst zelf.');
+     'Het enige wat we moeten vrezen, is de angst zelf.'),
+    ('Courage is knowing what not to fear.', 'nl',
+     'Moed is weten wat je niet hoeft te vrezen.');
