@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What I am looking for is not out there, it is in me.', 'fr',
      'Ce que je cherche n''est pas là-bas, c''est en moi.'),
     ('Efforts and courage are not enough without purpose and direction.', 'fr',
-     'L''effort et le courage ne suffisent pas sans but ni direction.');
+     'L''effort et le courage ne suffisent pas sans but ni direction.'),
+    ('The world is changed by your example, not by your opinion.', 'fr',
+     'Le monde change par ton exemple, pas par ton opinion.');
