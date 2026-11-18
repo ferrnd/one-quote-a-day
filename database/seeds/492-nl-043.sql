@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is itself a species of happiness.', 'nl',
      'Hoop is zelf een soort geluk.'),
     ('The sun shines not on us but in us.', 'nl',
-     'De zon schijnt niet op ons, maar in ons.');
+     'De zon schijnt niet op ons, maar in ons.'),
+    ('Hope arouses, as nothing else can arouse, a passion for the possible.', 'nl',
+     'Hoop wekt, zoals niets anders dat kan, een passie voor het mogelijke.');
