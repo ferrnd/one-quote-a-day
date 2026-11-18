@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.', 'de',
      'Wenn dich etwas Äußeres bedrückt, so ist es nicht das Ding selbst, das dich stört, sondern dein Urteil darüber; und dieses kannst du jederzeit widerrufen.'),
     ('Waste no more time arguing about what a good man should be. Be one.', 'de',
-     'Verschwende keine Zeit mehr damit, darüber zu streiten, wie ein guter Mensch sein sollte. Sei einer.');
+     'Verschwende keine Zeit mehr damit, darüber zu streiten, wie ein guter Mensch sein sollte. Sei einer.'),
+    ('Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.', 'de',
+     'Sei wie das Vorgebirge, an dem sich die Wellen unaufhörlich brechen: Es steht fest und bändigt das Toben des Wassers um sich herum.');
