@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope arouses, as nothing else can arouse, a passion for the possible.', 'nl',
      'Hoop wekt, zoals niets anders dat kan, een passie voor het mogelijke.'),
     ('Do not let your fire go out, spark by irreplaceable spark.', 'nl',
-     'Laat je vuur niet doven, vonk na onvervangbare vonk.');
+     'Laat je vuur niet doven, vonk na onvervangbare vonk.'),
+    ('We are all in the gutter, but some of us are looking at the stars.', 'nl',
+     'We liggen allemaal in de goot, maar sommigen van ons kijken naar de sterren.');
