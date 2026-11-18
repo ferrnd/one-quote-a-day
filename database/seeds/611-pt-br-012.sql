@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is not the opposite of success; it''s part of success.', 'pt-BR',
      'O fracasso não é o oposto do sucesso; ele faz parte do sucesso.'),
     ('You build on failure. You use it as a stepping stone.', 'pt-BR',
-     'Você constrói em cima do fracasso. Usa-o como degrau.');
+     'Você constrói em cima do fracasso. Usa-o como degrau.'),
+    ('A man of genius makes no mistakes. His errors are volitional and are the portals of discovery.', 'pt-BR',
+     'Um gênio não comete erros. Seus erros são voluntários e são portais para a descoberta.');
