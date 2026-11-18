@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You see things; and you say ''Why?'' But I dream things that never were; and I say ''Why not?''', 'it',
      'Tu vedi le cose e ti chiedi: "Perché?". Ma io sogno cose che non sono mai state e mi chiedo: "Perché no?".'),
     ('Hitch your wagon to a star.', 'it',
-     'Attacca il tuo carro a una stella.');
+     'Attacca il tuo carro a una stella.'),
+    ('If one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.', 'it',
+     'Chi avanza con fiducia nella direzione dei propri sogni incontra un successo inaspettato nelle ore più comuni.');
