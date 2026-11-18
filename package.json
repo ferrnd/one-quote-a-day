@@ -20,5 +20,8 @@
     "test:js": "node --test \"tests/js/*.test.mjs\"",
     "test": "npm run test:py && npm run test:js",
     "serve": "python -m http.server 8000 --directory docs"
+  },
+  "devDependencies": {
+    "wabt": "1.0.39"
   }
 }
