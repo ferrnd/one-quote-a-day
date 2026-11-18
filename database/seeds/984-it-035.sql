@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I dream my painting and I paint my dream.', 'it',
      'Sogno i miei quadri e dipingo i miei sogni.'),
     ('Dreams don''t work unless you do.', 'it',
-     'I sogni non funzionano se non lavori tu.');
+     'I sogni non funzionano se non lavori tu.'),
+    ('Keep your dreams alive. Understand to achieve anything requires faith and belief in yourself, vision, hard work, determination, and dedication.', 'it',
+     'Mantieni vivi i tuoi sogni. Comprendi che realizzare qualsiasi cosa richiede fede e fiducia in sé, visione, duro lavoro, determinazione e dedizione.');
