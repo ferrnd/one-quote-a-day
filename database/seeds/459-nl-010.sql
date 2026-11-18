@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grief and resilience live together.', 'nl',
      'Rouw en veerkracht leven samen.'),
     ('It''s not whether you get knocked down; it''s whether you get up.', 'nl',
-     'Het gaat er niet om of je wordt neergeslagen; het gaat erom of je weer opstaat.');
+     'Het gaat er niet om of je wordt neergeslagen; het gaat erom of je weer opstaat.'),
+    ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'nl',
+     'Het gaat er niet om hoe hard je slaat. Het gaat erom hoeveel klappen je kunt incasseren en toch door kunt gaan.');
