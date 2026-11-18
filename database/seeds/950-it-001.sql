@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.', 'it',
      'La pazienza e la perseveranza hanno un effetto magico davanti al quale le difficoltà scompaiono e gli ostacoli svaniscono.'),
     ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'it',
-     'Grazie alla perseveranza, molte persone ottengono il successo da ciò che sembrava destinato a un sicuro fallimento.');
+     'Grazie alla perseveranza, molte persone ottengono il successo da ciò che sembrava destinato a un sicuro fallimento.'),
+    ('Continuous effort, not strength or intelligence, is the key to unlocking our potential.', 'it',
+     'Lo sforzo continuo, non la forza o l''intelligenza, è la chiave per liberare il nostro potenziale.');
