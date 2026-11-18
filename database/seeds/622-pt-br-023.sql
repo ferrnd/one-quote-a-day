@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every cloud has a silver lining.', 'pt-BR',
      'Há males que vêm para o bem.'),
     ('The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.', 'pt-BR',
-     'O próprio sol é fraco quando nasce, e vai ganhando força e coragem conforme o dia avança.');
+     'O próprio sol é fraco quando nasce, e vai ganhando força e coragem conforme o dia avança.'),
+    ('Hope is the only thing stronger than fear.', 'pt-BR',
+     'A esperança é a única coisa mais forte que o medo.');
