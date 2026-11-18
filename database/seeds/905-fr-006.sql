@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''ve failed over and over and over again in my life. And that is why I succeed.', 'fr',
      'J''ai échoué encore et encore et encore dans ma vie. Et c''est pour cela que je réussis.'),
     ('Only those who dare to fail greatly can ever achieve greatly.', 'fr',
-     'Seuls ceux qui osent échouer grandement peuvent réussir grandement.');
+     'Seuls ceux qui osent échouer grandement peuvent réussir grandement.'),
+    ('Failure is the condiment that gives success its flavor.', 'fr',
+     'L''échec est le condiment qui donne sa saveur au succès.');
