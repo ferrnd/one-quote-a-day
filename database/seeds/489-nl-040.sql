@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you''re supposed to do when you don''t like a thing is change it.', 'nl',
      'Wat je moet doen als je iets niet bevalt, is het veranderen.'),
     ('Be brave. Take risks. Nothing can substitute experience.', 'nl',
-     'Wees moedig. Neem risico''s. Niets kan ervaring vervangen.');
+     'Wees moedig. Neem risico''s. Niets kan ervaring vervangen.'),
+    ('He who is brave is free.', 'nl',
+     'Wie moedig is, is vrij.');
