@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If not now, when?', 'es',
      'Si no es ahora, ¿cuándo?'),
     ('To begin, begin.', 'es',
-     'Para empezar, empieza.');
+     'Para empezar, empieza.'),
+    ('Pursue what catches your heart, not what catches your eyes.', 'es',
+     'Persigue lo que conquista tu corazón, no lo que llama la atención de tus ojos.');
