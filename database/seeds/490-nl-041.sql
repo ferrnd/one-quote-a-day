@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We learn from failure, not from success!', 'nl',
      'We leren van falen, niet van succes!'),
     ('You can''t be afraid to fail. It''s the only way you succeed.', 'nl',
-     'Je mag niet bang zijn om te falen. Het is de enige manier om te slagen.');
+     'Je mag niet bang zijn om te falen. Het is de enige manier om te slagen.'),
+    ('A man is not finished when he is defeated. He is finished when he quits.', 'nl',
+     'Een mens is niet verslagen wanneer hij verliest. Hij is verslagen wanneer hij opgeeft.');
