@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity is the first path to truth.', 'pt-BR',
      'A adversidade é o primeiro caminho para a verdade.'),
     ('Kites rise highest against the wind, not with it.', 'pt-BR',
-     'As pipas sobem mais alto contra o vento, e não a favor dele.');
+     'As pipas sobem mais alto contra o vento, e não a favor dele.'),
+    ('Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant.', 'pt-BR',
+     'A adversidade tem o poder de despertar talentos que, em tempos de prosperidade, teriam ficado adormecidos.');
