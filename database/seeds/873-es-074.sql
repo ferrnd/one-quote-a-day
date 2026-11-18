@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.', 'es',
-     'El ayer es historia, el mañana es un misterio, el hoy es un regalo de Dios, y por eso se llama presente.');
+     'El ayer es historia, el mañana es un misterio, el hoy es un regalo de Dios, y por eso se llama presente.'),
+    ('If you want to go fast, go alone. If you want to go far, go together.', 'es',
+     'Si quieres ir rápido, ve solo. Si quieres llegar lejos, ve acompañado.');
