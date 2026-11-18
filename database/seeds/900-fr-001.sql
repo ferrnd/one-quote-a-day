@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our greatest glory is not in never falling, but in rising every time we fall.', 'fr',
      'Notre plus grande gloire n''est pas de ne jamais tomber, mais de nous relever chaque fois que nous tombons.'),
     ('Energy and persistence conquer all things.', 'fr',
-     'L''énergie et la persévérance viennent à bout de tout.');
+     'L''énergie et la persévérance viennent à bout de tout.'),
+    ('Rivers know this: there is no hurry. We shall get there some day.', 'fr',
+     'Les rivières le savent : rien ne presse. Nous arriverons un jour.');
