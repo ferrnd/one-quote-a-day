@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Endurance is patience concentrated.', 'fr',
      'L''endurance, c''est de la patience concentrée.'),
     ('Patience and diligence, like faith, remove mountains.', 'fr',
-     'La patience et l''application, comme la foi, déplacent les montagnes.');
+     'La patience et l''application, comme la foi, déplacent les montagnes.'),
+    ('Beware the fury of a patient man.', 'fr',
+     'Méfiez-vous de la colère d''un homme patient.');
