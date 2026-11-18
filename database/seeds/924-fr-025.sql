@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you spend too much time thinking about a thing, you''ll never get it done.', 'fr',
      'Si tu passes trop de temps à réfléchir à une chose, tu ne la feras jamais.'),
     ('What you do speaks so loudly that I cannot hear what you say.', 'fr',
-     'Ce que tu fais parle si fort que je n''entends pas ce que tu dis.');
+     'Ce que tu fais parle si fort que je n''entends pas ce que tu dis.'),
+    ('Go confidently in the direction of your dreams. Live the life you have imagined.', 'fr',
+     'Avance avec confiance dans la direction de tes rêves. Vis la vie que tu as imaginée.');
