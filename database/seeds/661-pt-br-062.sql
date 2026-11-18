@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No great thing is created suddenly.', 'pt-BR',
      'Nada grandioso é criado de repente.'),
     ('Perhaps someday it will be pleasant to remember even this.', 'pt-BR',
-     'Talvez um dia seja agradável lembrar até disto.');
+     'Talvez um dia seja agradável lembrar até disto.'),
+    ('Endure, and preserve yourselves for better things.', 'pt-BR',
+     'Resistam e guardem-se para coisas melhores.');
