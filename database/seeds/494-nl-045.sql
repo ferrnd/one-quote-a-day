@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Change is the end result of all true learning.', 'nl',
      'Verandering is het eindresultaat van al het echte leren.'),
     ('Anyone who stops learning is old, whether at twenty or eighty.', 'nl',
-     'Wie stopt met leren, is oud, of hij nu twintig is of tachtig.');
+     'Wie stopt met leren, is oud, of hij nu twintig is of tachtig.'),
+    ('The only real voyage of discovery consists not in seeking new landscapes, but in having new eyes.', 'nl',
+     'De ware ontdekkingsreis bestaat niet uit het zoeken naar nieuwe landschappen, maar uit het hebben van nieuwe ogen.');
