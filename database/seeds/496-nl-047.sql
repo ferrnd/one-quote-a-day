@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.', 'nl',
      'De geest is zijn eigen plek en kan op zichzelf van de hel een hemel maken, en van de hemel een hel.'),
     ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'nl',
-     'Als je besefte hoe krachtig je gedachten zijn, zou je nooit meer een negatieve gedachte hebben.');
+     'Als je besefte hoe krachtig je gedachten zijn, zou je nooit meer een negatieve gedachte hebben.'),
+    ('I am the greatest. I said that even before I knew I was.', 'nl',
+     'Ik ben de grootste. Dat zei ik al voordat ik wist dat ik het was.');
