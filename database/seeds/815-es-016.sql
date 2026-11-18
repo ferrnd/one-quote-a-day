@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is the key to success; each mistake teaches us something.', 'es',
-     'El fracaso es la clave del éxito; cada error nos enseña algo.');
+     'El fracaso es la clave del éxito; cada error nos enseña algo.'),
+    ('You always pass failure on your way to success.', 'es',
+     'En el camino al éxito, siempre pasas por el fracaso.');
