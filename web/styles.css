@@ -102,6 +102,11 @@ main {
   margin-right: -0.32em;
 }
 
+/* unsigned messages: no author, no rule above it */
+.quote figcaption:empty {
+  display: none;
+}
+
 .quote figcaption::before {
   content: "";
   display: block;
