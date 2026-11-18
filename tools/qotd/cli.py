@@ -54,6 +54,11 @@ def cmd_today(args: argparse.Namespace) -> int:
     date = dt.date.fromisoformat(args.date) if args.date else dt.date.today()
     catalog = database.load(DB_DIR)
     day = days_from_civil(date.year, date.month, date.day)
+    pinned = {d.day: d for d in catalog.dedications}.get(date.isoformat())
+    if pinned:
+        signature = f"\n\n  -- {pinned.author}" if pinned.author else ""
+        print(f"{date.isoformat()}  (dedication)\n\n  {pinned.body}{signature}")
+        return 0
     quote = catalog.quotes[schedule.quote_for_day(day, len(catalog))]
     print(f"{date.isoformat()}\n\n  {quote.body}\n\n  -- {quote.author}")
     return 0
