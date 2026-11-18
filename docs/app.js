@@ -10,13 +10,13 @@
  *
  * Keys: <- and -> (or a horizontal swipe) walk through past days.
  * Click the quote to copy it; right-click it (or the author) to search the
- * web. The arrow button shares it as an image. "!" explains all of this.
+ * web. The gear opens settings, help, sharing and credits.
  */
 
 import {
   dateKey, formatCountdown, isNight, localDateParts, msUntilNextLocalMidnight,
   msUntilNextThemeChange, parseDateKey,
-} from "./clock.js?v=74f744e2263d";
+} from "./clock.js?v=aba96b4ba423";
 
 const WASM_URL = new URL("quotes.wasm?v=0ecf06eeb1a5", import.meta.url);
 const WATCHDOG_MS = 60_000;
@@ -30,7 +30,6 @@ const counterLabel = /** @type {HTMLElement} */ (document.getElementById("day-la
 const counterNext = /** @type {HTMLElement} */ (document.getElementById("day-next"));
 const toastEl = /** @type {HTMLElement} */ (document.getElementById("toast"));
 const settingsButton = /** @type {HTMLButtonElement} */ (document.getElementById("settings-button"));
-const shareButton = /** @type {HTMLButtonElement} */ (document.getElementById("share-button"));
 const panelEl = /** @type {HTMLDialogElement} */ (document.getElementById("panel"));
 const archiveEl = /** @type {HTMLDialogElement} */ (document.getElementById("archive"));
 const archiveList = /** @type {HTMLOListElement} */ (document.getElementById("archive-list"));
@@ -63,6 +62,7 @@ function applyPrefs() {
   root.dataset.size = prefs.size;
   root.dataset.motion = prefs.motion;
   root.dataset.counter = prefs.counter;
+  layoutCorner();
   for (const group of document.querySelectorAll(".choices[data-pref]")) {
     const key = /** @type {HTMLElement} */ (group).dataset.pref;
     for (const button of group.querySelectorAll("button")) {
@@ -159,10 +159,30 @@ function entryFor(z) {
   return state.engine.quote(state.engine.x.entry_for_day(z));
 }
 
+/*
+ * Bottom-right corner: [gear] DAY 2. The counter's width is set explicitly
+ * and animated, so when hovering swaps "Day 2" for the longer countdown, the
+ * gear glides left to make room. With the counter hidden, the gear takes its
+ * place in the corner.
+ */
+function layoutCorner() {
+  const root = document.documentElement;
+  const shown = !counterEl.hidden && prefs.counter !== "hide";
+  const hovering = counterEl.matches(":hover, :focus-visible");
+  const target = hovering ? counterNext : counterLabel;
+  const width = shown ? target.getBoundingClientRect().width : 0;
+  root.style.setProperty("--counter-w", `${width}px`);
+  root.style.setProperty("--counter-h", `${shown ? counterLabel.getBoundingClientRect().height : 0}px`);
+  root.dataset.corner = shown ? "with-counter" : "alone";
+  // animate later changes (hover, toggling the counter), never the first layout
+  if (shown && !root.dataset.cornerReady) setTimeout(() => { root.dataset.cornerReady = "true"; }, 60);
+}
+
 function renderCounter() {
   counterEl.hidden = state.today - state.launch + 1 < 1;
   counterLabel.textContent = `Day ${state.view - state.launch + 1}`;
   counterEl.dataset.today = JSON.stringify(state.engine.partsFromDays(state.today));
+  layoutCorner();
 }
 
 /*
@@ -581,9 +601,6 @@ async function shareImage({ story = false } = {}) {
   toast(story ? "Image saved for your story" : "Image saved");
 }
 
-function wireShare() {
-  shareButton.addEventListener("click", () => { shareImage().catch(() => toast("Could not share")); });
-}
 
 /* ---------------------------------------------------------- countdown -- */
 
@@ -593,8 +610,13 @@ function wireCountdown() {
   const update = () => {
     counterNext.textContent = `Next in ${formatCountdown(msUntilNextLocalMidnight(new Date()))}`;
   };
-  const start = () => { update(); clearInterval(countdownTimer); countdownTimer = setInterval(update, 1000); };
-  const stop = () => clearInterval(countdownTimer);
+  const start = () => {
+    update();
+    layoutCorner();
+    clearInterval(countdownTimer);
+    countdownTimer = setInterval(() => { update(); layoutCorner(); }, 1000);
+  };
+  const stop = () => { clearInterval(countdownTimer); layoutCorner(); };
   update();
   counterEl.addEventListener("mouseenter", start);
   counterEl.addEventListener("focus", start);
@@ -635,6 +657,7 @@ const SHARE_TARGETS = {
   instagram: () => shareImage({ story: true }).catch(() => toast("Could not share")),
   email: () => { location.href = `mailto:?subject=${enc("A quote for you")}&body=${enc(`${currentQuoteText()}\n\n${siteUrl()}`)}`; },
   link: () => copyText(siteUrl(), "Link copied"),
+  image: () => shareImage().catch(() => toast("Could not share")),
 };
 
 /** @param {HTMLElement} tab */
@@ -760,6 +783,8 @@ function startClock() {
 
 async function main() {
   applyPrefs();
+  addEventListener("resize", layoutCorner);
+  document.fonts?.ready.then(layoutCorner);
   try {
     state.engine = new QuoteEngine(await instantiate(WASM_URL));
     state.launch = state.engine.x.launch_day();
@@ -769,7 +794,6 @@ async function main() {
     wireSwipe();
     wireCopy();
     wireSearch();
-    wireShare();
     wirePanel();
     wireCountdown();
     if (pinned) {
