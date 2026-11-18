@@ -715,6 +715,7 @@ async function renderCard() {
     document.fonts.load(`italic 400 64px ${family}`),
     document.fonts.load(`500 26px ${family}`),
     document.fonts.load(`700 24px ${family}`),
+    document.fonts.load("600 24px Cinzel"),
   ]).catch(() => {});
 
   const canvas = document.createElement("canvas");
@@ -747,16 +748,18 @@ async function renderCard() {
   let y = (CARD - dayBlock - lines.length * lineHeight - authorBlock - linkBlock) / 2;
 
   /** small grey capitals, centred, compensating the trailing letter-spacing */
-  const caption = (label, weight, px, spacing, alpha, at) => {
+  const caption = (label, weight, px, spacing, alpha, at, face = family) => {
     ctx.save();
     ctx.globalAlpha = alpha;
-    ctx.font = `${weight} ${px}px ${family}`;
+    ctx.font = `${weight} ${px}px ${face}`;
     if ("letterSpacing" in ctx) ctx.letterSpacing = `${spacing}px`;
     ctx.fillText(label, CARD / 2 + spacing / 2, at);
     ctx.restore();
   };
 
-  caption((counterLabel.textContent ?? "").toUpperCase(), 700, 24, 6, 0.4, y + 24);
+  // Cinzel has capital-height (lining) figures; Cormorant's old-style "2"
+  // sits low, and canvas cannot switch font features
+  caption((counterLabel.textContent ?? "").toUpperCase(), 600, 24, 6, 0.4, y + 24, '"Cinzel", serif');
   y += dayBlock + lineHeight / 2;
 
   for (const line of lines) {
@@ -775,7 +778,8 @@ async function renderCard() {
     y += 62;
   }
 
-  caption(location.host || "quoteaday.vercel.app", 500, 22, 3, 0.4, y + linkBlock);
+  const link = location.protocol.startsWith("http") ? location.origin : "https://quoteaday.vercel.app";
+  caption(link, 500, 22, 2, 0.4, y + linkBlock);
   return canvas;
 }
 
