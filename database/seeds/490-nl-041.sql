@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.', 'nl',
      'Ontwikkel succes uit mislukkingen. Ontmoediging en falen zijn twee van de zekerste opstapjes naar succes.'),
     ('Mistakes are always forgivable, if one has the courage to admit them.', 'nl',
-     'Fouten zijn altijd te vergeven, als je de moed hebt ze toe te geven.');
+     'Fouten zijn altijd te vergeven, als je de moed hebt ze toe te geven.'),
+    ('Do not fear mistakes. There are none.', 'nl',
+     'Wees niet bang voor fouten. Ze bestaan niet.');
