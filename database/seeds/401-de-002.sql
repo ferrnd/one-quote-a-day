@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Persistence can change failure into extraordinary achievement.', 'de',
      'Beharrlichkeit kann Scheitern in eine außergewöhnliche Leistung verwandeln.'),
     ('He conquers who endures.', 'de',
-     'Wer ausharrt, siegt.');
+     'Wer ausharrt, siegt.'),
+    ('Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield.', 'de',
+     'Wasser ist flüssig, weich und nachgiebig. Doch Wasser höhlt den Fels aus, der starr ist und nicht nachgeben kann.');
