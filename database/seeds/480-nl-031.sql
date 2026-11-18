@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Bear up, my heart; you have endured worse than this.', 'nl',
      'Houd vol, mijn hart; je hebt erger dan dit doorstaan.'),
     ('This too shall pass.', 'nl',
-     'Ook dit gaat voorbij.');
+     'Ook dit gaat voorbij.'),
+    ('Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.', 'nl',
+     'Geef een droom nooit op alleen vanwege de tijd die het kost om hem te verwezenlijken. De tijd gaat toch wel voorbij.');
