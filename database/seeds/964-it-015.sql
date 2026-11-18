@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t be hesitant about who you are.', 'it',
      'Non puoi avere esitazioni su chi sei.'),
     ('The most common way people give up their power is by thinking they don''t have any.', 'it',
-     'Il modo più comune in cui le persone rinunciano al proprio potere è pensare di non averne.');
+     'Il modo più comune in cui le persone rinunciano al proprio potere è pensare di non averne.'),
+    ('Think like a queen. A queen is not afraid to fail.', 'it',
+     'Pensa come una regina. Una regina non ha paura di fallire.');
