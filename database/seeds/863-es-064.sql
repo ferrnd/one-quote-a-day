@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perfection is not attainable, but if we chase perfection we can catch excellence.', 'es',
      'La perfección no es alcanzable, pero si perseguimos la perfección podemos alcanzar la excelencia.'),
     ('Once you learn to quit, it becomes a habit.', 'es',
-     'Una vez que aprendes a rendirte, se convierte en un hábito.');
+     'Una vez que aprendes a rendirte, se convierte en un hábito.'),
+    ('Today I will do what others won''t, so tomorrow I can accomplish what others can''t.', 'es',
+     'Hoy haré lo que otros no harán, para que mañana pueda lograr lo que otros no pueden.');
