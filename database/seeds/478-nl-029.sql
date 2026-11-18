@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Worry does not empty tomorrow of its sorrow, it empties today of its strength.', 'nl',
      'Zorgen maken haalt het verdriet niet uit morgen, het haalt de kracht uit vandaag.'),
     ('Man is not worried by real problems so much as by his imagined anxieties about real problems.', 'nl',
-     'De mens wordt niet zozeer verontrust door echte problemen als door zijn ingebeelde angsten over echte problemen.');
+     'De mens wordt niet zozeer verontrust door echte problemen als door zijn ingebeelde angsten over echte problemen.'),
+    ('If you think you are beaten, you are.', 'nl',
+     'Als je denkt dat je verslagen bent, dan ben je dat.');
