@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If not now, when?', 'nl',
      'Als niet nu, wanneer dan?'),
     ('To begin, begin.', 'nl',
-     'Om te beginnen, begin.');
+     'Om te beginnen, begin.'),
+    ('Pursue what catches your heart, not what catches your eyes.', 'nl',
+     'Volg wat je hart raakt, niet wat je ogen trekt.');
