@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Cancer can take away all of my physical abilities. It cannot touch my mind, it cannot touch my heart, and it cannot touch my soul.', 'pt-BR',
      'O câncer pode tirar todas as minhas capacidades físicas. Mas não pode tocar minha mente, não pode tocar meu coração e não pode tocar minha alma.'),
     ('Be water, my friend.', 'pt-BR',
-     'Seja água, meu amigo.');
+     'Seja água, meu amigo.'),
+    ('Hard days are the best because that''s when champions are made.', 'pt-BR',
+     'Os dias difíceis são os melhores, porque é neles que os campeões são feitos.');
