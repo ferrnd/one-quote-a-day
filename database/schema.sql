@@ -103,3 +103,24 @@ CREATE VIEW author_stats AS
       JOIN quotes q ON q.author_id = a.id
   GROUP BY a.id
   ORDER BY quotes DESC, a.name;
+
+-- @section dedications -------------------------------------------------------
+--  A dedication pins a message to one exact calendar date, overriding the
+--  rotation for that day only. It sits outside the quote pool: it never shows
+--  up on any other day and does not change N or the schedule. The author is
+--  optional; NULL means the message is shown unsigned.
+
+CREATE TABLE dedications (
+    id     INTEGER PRIMARY KEY,
+    day    TEXT    NOT NULL UNIQUE
+                   CHECK (day GLOB '[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]'
+                          AND strftime('%Y-%m-%d', julianday(day)) = day),
+    body   TEXT    NOT NULL
+                   CHECK (length(body) BETWEEN 2 AND 280
+                          AND body = trim(body)
+                          AND body NOT GLOB '*[^ -~]*'),
+    author TEXT    CHECK (author IS NULL
+                          OR (length(author) BETWEEN 2 AND 64
+                              AND author = trim(author)
+                              AND author NOT GLOB '*[^ -~]*'))
+) STRICT;
