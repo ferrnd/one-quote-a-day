@@ -1,0 +1,5 @@
+-- seed 933 :: fr translations 661-680
+
+INSERT INTO translation_intake (original, locale, body) VALUES
+    ('We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.', 'fr',
+     'Il faut croire que l''on est doué pour quelque chose, et que cette chose, il faut l''atteindre coûte que coûte.');
