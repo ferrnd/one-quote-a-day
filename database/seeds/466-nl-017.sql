@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.', 'nl',
      'Talent is goedkoper dan keukenzout. Wat de getalenteerde mens van de succesvolle scheidt, is heel veel hard werk.'),
     ('Amateurs sit and wait for inspiration, the rest of us just get up and go to work.', 'nl',
-     'Amateurs zitten te wachten op inspiratie; de rest van ons staat gewoon op en gaat aan het werk.');
+     'Amateurs zitten te wachten op inspiratie; de rest van ons staat gewoon op en gaat aan het werk.'),
+    ('The more I practice, the luckier I get.', 'nl',
+     'Hoe meer ik oefen, hoe meer geluk ik heb.');
