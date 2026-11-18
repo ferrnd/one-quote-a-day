@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let everything happen to you: beauty and terror. Just keep going. No feeling is final.', 'de',
      'Lass dir alles geschehen: Schönheit und Schrecken. Man muss nur gehn. Kein Gefühl ist das fernste.'),
     ('No snowflake ever falls in the wrong place.', 'de',
-     'Keine Schneeflocke fällt je an die falsche Stelle.');
+     'Keine Schneeflocke fällt je an die falsche Stelle.'),
+    ('Let go or be dragged.', 'de',
+     'Lass los oder werde mitgeschleift.');
