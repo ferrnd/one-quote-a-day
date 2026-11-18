@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A river cuts through rock not because of its power, but because of its persistence.', 'de',
      'Ein Fluss schneidet sich nicht durch seine Kraft durch den Fels, sondern durch seine Beharrlichkeit.'),
     ('Many of life''s failures are people who did not realize how close they were to success when they gave up.', 'de',
-     'Viele Misserfolge im Leben erleiden Menschen, die nicht erkannten, wie nah sie dem Erfolg waren, als sie aufgaben.');
+     'Viele Misserfolge im Leben erleiden Menschen, die nicht erkannten, wie nah sie dem Erfolg waren, als sie aufgaben.'),
+    ('I am a slow walker, but I never walk back.', 'de',
+     'Ich gehe langsam, aber ich gehe niemals zurück.');
