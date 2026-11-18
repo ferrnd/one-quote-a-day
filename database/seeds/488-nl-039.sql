@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grief can be the garden of compassion.', 'nl',
      'Rouw kan de tuin van het mededogen zijn.'),
     ('Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it.', 'nl',
-     'Ga door, en de kans is groot dat je op iets stuit, misschien wel wanneer je het het minst verwacht.');
+     'Ga door, en de kans is groot dat je op iets stuit, misschien wel wanneer je het het minst verwacht.'),
+    ('Hard work without talent is a shame, but talent without hard work is a tragedy.', 'nl',
+     'Hard werken zonder talent is jammer, maar talent zonder hard werken is een tragedie.');
