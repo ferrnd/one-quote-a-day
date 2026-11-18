@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is during our darkest moments that we must focus to see the light.', 'it',
      'È nei nostri momenti più bui che dobbiamo concentrarci per vedere la luce.'),
     ('The world is round and the place which may seem like the end may also be only the beginning.', 'it',
-     'Il mondo è rotondo, e il luogo che può sembrare la fine potrebbe essere solo l''inizio.');
+     'Il mondo è rotondo, e il luogo che può sembrare la fine potrebbe essere solo l''inizio.'),
+    ('Faith is the bird that feels the light and sings when the dawn is still dark.', 'it',
+     'La fede è l''uccello che sente la luce e canta quando l''alba è ancora buia.');
