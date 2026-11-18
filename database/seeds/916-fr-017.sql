@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rest at the end, not in the middle.', 'fr',
      'Repose-toi à la fin, pas au milieu.'),
     ('There are no shortcuts to any place worth going.', 'fr',
-     'Il n''y a pas de raccourci vers un endroit qui en vaut la peine.');
+     'Il n''y a pas de raccourci vers un endroit qui en vaut la peine.'),
+    ('The only place where success comes before work is in the dictionary.', 'fr',
+     'Le seul endroit où le succès vient avant le travail, c''est dans le dictionnaire.');
