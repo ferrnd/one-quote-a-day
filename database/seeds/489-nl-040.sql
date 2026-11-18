@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is like love; it must have hope for nourishment.', 'nl',
      'Moed is als liefde: het heeft hoop nodig als voeding.'),
     ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'nl',
-     'Het is merkwaardig dat fysieke moed zo gewoon is in de wereld, en morele moed zo zeldzaam.');
+     'Het is merkwaardig dat fysieke moed zo gewoon is in de wereld, en morele moed zo zeldzaam.'),
+    ('The opposite of courage in our society is not cowardice, it is conformity.', 'nl',
+     'Het tegenovergestelde van moed is in onze samenleving niet lafheid, maar conformisme.');
