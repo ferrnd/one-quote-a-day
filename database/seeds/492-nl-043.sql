@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One day, in retrospect, the years of struggle will strike you as the most beautiful.', 'nl',
      'Op een dag, achteraf gezien, zullen de jaren van strijd je de mooiste toeschijnen.'),
     ('In the end, everything will be okay. If it''s not okay, it''s not yet the end.', 'nl',
-     'Uiteindelijk komt alles goed. Als het nog niet goed is, is het nog niet het einde.');
+     'Uiteindelijk komt alles goed. Als het nog niet goed is, is het nog niet het einde.'),
+    ('Hope is the companion of power, and mother of success.', 'nl',
+     'Hoop is de metgezel van kracht en de moeder van succes.');
