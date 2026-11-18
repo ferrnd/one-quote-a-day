@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the thing you fear, and the death of fear is certain.', 'nl',
      'Doe wat je vreest, en de dood van de angst is zeker.'),
     ('Fear is only as deep as the mind allows.', 'nl',
-     'Angst is maar zo diep als de geest toelaat.');
+     'Angst is maar zo diep als de geest toelaat.'),
+    ('Everything you''ve ever wanted is on the other side of fear.', 'nl',
+     'Alles wat je ooit hebt gewild, ligt aan de andere kant van de angst.');
