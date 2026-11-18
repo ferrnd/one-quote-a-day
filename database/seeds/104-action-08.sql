@@ -3,4 +3,5 @@
 INSERT INTO intake (body, author, theme) VALUES
     ('You may delay, but time will not.', 'Benjamin Franklin', 'action'),
     ('Either write something worth reading or do something worth writing.', 'Benjamin Franklin', 'action'),
-    ('Some people want it to happen, some wish it would happen, others make it happen.', 'Michael Jordan', 'action');
+    ('Some people want it to happen, some wish it would happen, others make it happen.', 'Michael Jordan', 'action'),
+    ('The more I want to get something done, the less I call it work.', 'Richard Bach', 'action');
