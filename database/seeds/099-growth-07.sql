@@ -6,4 +6,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Change is the end result of all true learning.', 'Leo Buscaglia', 'growth'),
     ('Anyone who stops learning is old, whether at twenty or eighty.', 'Henry Ford', 'growth'),
     ('The only real voyage of discovery consists not in seeking new landscapes, but in having new eyes.', 'Marcel Proust', 'growth'),
-    ('Not until we are lost do we begin to understand ourselves.', 'Henry David Thoreau', 'growth');
+    ('Not until we are lost do we begin to understand ourselves.', 'Henry David Thoreau', 'growth'),
+    ('Things do not change; we change.', 'Henry David Thoreau', 'growth');
