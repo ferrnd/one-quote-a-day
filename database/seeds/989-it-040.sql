@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I must not fear. Fear is the mind-killer.', 'it',
      'Non devo avere paura. La paura uccide la mente.'),
     ('Courage is the main quality of leadership.', 'it',
-     'Il coraggio è la qualità principale di un leader.');
+     'Il coraggio è la qualità principale di un leader.'),
+    ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'it',
+     'La cosa più coraggiosa che puoi fare quando non ti senti coraggioso è dichiararti coraggioso e agire di conseguenza.');
