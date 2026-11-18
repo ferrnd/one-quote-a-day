@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Endure, and preserve yourselves for better things.', 'nl',
      'Houd vol en bewaar jezelf voor betere dingen.'),
     ('Bear up, my heart; you have endured worse than this.', 'nl',
-     'Houd vol, mijn hart; je hebt erger dan dit doorstaan.');
+     'Houd vol, mijn hart; je hebt erger dan dit doorstaan.'),
+    ('This too shall pass.', 'nl',
+     'Ook dit gaat voorbij.');
