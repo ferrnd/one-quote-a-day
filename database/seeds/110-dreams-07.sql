@@ -5,4 +5,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('If one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.', 'Henry David Thoreau', 'dreams'),
     ('Our truest life is when we are in dreams awake.', 'Henry David Thoreau', 'dreams'),
     ('Go as far as you can see; when you get there, you''ll be able to see farther.', 'Thomas Carlyle', 'dreams'),
-    ('The best way to make your dreams come true is to wake up.', 'Paul Valery', 'dreams');
+    ('The best way to make your dreams come true is to wake up.', 'Paul Valery', 'dreams'),
+    ('Who looks outside, dreams; who looks inside, awakes.', 'Carl Jung', 'dreams');
