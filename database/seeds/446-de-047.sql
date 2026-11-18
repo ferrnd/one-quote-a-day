@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s the repetition of affirmations that leads to belief.', 'de',
      'Es ist die Wiederholung von Bekräftigungen, die zum Glauben führt.'),
     ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'de',
-     'Wenn mein Verstand es sich vorstellen und mein Herz es glauben kann, dann kann ich es erreichen.');
+     'Wenn mein Verstand es sich vorstellen und mein Herz es glauben kann, dann kann ich es erreichen.'),
+    ('Confidence is contagious. So is lack of confidence.', 'de',
+     'Selbstvertrauen ist ansteckend. Mangelndes Selbstvertrauen auch.');
