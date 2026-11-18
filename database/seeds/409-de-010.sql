@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Although no one can go back and make a brand new start, anyone can start from now and make a brand new ending.', 'de',
      'Niemand kann zurückgehen und einen ganz neuen Anfang machen, aber jeder kann jetzt anfangen und ein ganz neues Ende schaffen.'),
     ('I''ve been absolutely terrified every moment of my life and I''ve never let it keep me from doing a single thing I wanted to do.', 'de',
-     'Ich hatte jeden Moment meines Lebens schreckliche Angst und habe mich davon nie abhalten lassen, irgendetwas zu tun, das ich tun wollte.');
+     'Ich hatte jeden Moment meines Lebens schreckliche Angst und habe mich davon nie abhalten lassen, irgendetwas zu tun, das ich tun wollte.'),
+    ('Sorrow is how we learn to love. Your heart isn''t breaking. It hurts because it''s getting larger.', 'de',
+     'Durch Kummer lernen wir zu lieben. Dein Herz bricht nicht. Es tut weh, weil es größer wird.');
