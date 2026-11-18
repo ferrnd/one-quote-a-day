@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The secret of change is to focus all of your energy not on fighting the old, but on building the new.', 'nl',
      'Het geheim van verandering is al je energie te richten, niet op het bestrijden van het oude, maar op het bouwen van het nieuwe.'),
     ('What you get by achieving your goals is not as important as what you become by achieving your goals.', 'nl',
-     'Wat je krijgt door je doelen te bereiken, is niet zo belangrijk als wie je wordt door je doelen te bereiken.');
+     'Wat je krijgt door je doelen te bereiken, is niet zo belangrijk als wie je wordt door je doelen te bereiken.'),
+    ('Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don''t belong.', 'nl',
+     'Groeien doet pijn. Veranderen doet pijn. Maar niets doet zoveel pijn als vastzitten op een plek waar je niet thuishoort.');
