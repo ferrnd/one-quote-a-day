@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The most effective way to do it, is to do it.', 'nl',
      'De meest effectieve manier om het te doen, is het te doen.'),
     ('Don''t sit down and wait for the opportunities to come. Get up and make them.', 'nl',
-     'Ga niet zitten wachten tot de kansen komen. Sta op en creëer ze.');
+     'Ga niet zitten wachten tot de kansen komen. Sta op en creëer ze.'),
+    ('How wonderful it is that nobody need wait a single moment before starting to improve the world.', 'nl',
+     'Hoe heerlijk is het dat niemand ook maar één ogenblik hoeft te wachten om te beginnen de wereld te verbeteren.');
