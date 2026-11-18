@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s not whether you get knocked down; it''s whether you get up.', 'es',
      'Lo que importa no es si te derriban; es si te levantas.'),
     ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'es',
-     'No importa lo fuerte que golpees. Importa cuánto aguantas que te golpeen y seguir avanzando.');
+     'No importa lo fuerte que golpees. Importa cuánto aguantas que te golpeen y seguir avanzando.'),
+    ('A good half of the art of living is resilience.', 'es',
+     'Buena parte del arte de vivir es la resiliencia.');
