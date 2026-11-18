@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.', 'fr',
      'Nos doutes sont des traîtres qui nous font perdre le bien que nous pourrions souvent gagner, par peur d''essayer.'),
     ('If we did all the things we are capable of, we would literally astound ourselves.', 'fr',
-     'Si nous faisions tout ce dont nous sommes capables, nous nous étonnerions littéralement nous-mêmes.');
+     'Si nous faisions tout ce dont nous sommes capables, nous nous étonnerions littéralement nous-mêmes.'),
+    ('The best time to plant a tree was 20 years ago. The second best time is now.', 'fr',
+     'Le meilleur moment pour planter un arbre, c''était il y a 20 ans. Le deuxième meilleur moment, c''est maintenant.');
