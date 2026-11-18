@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is not falling down but refusing to get up.', 'fr',
      'Échouer, ce n''est pas tomber, c''est refuser de se relever.'),
     ('The successful man will profit from his mistakes and try again in a different way.', 'fr',
-     'L''homme qui réussit tire profit de ses erreurs et réessaie d''une autre manière.');
+     'L''homme qui réussit tire profit de ses erreurs et réessaie d''une autre manière.'),
+    ('Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.', 'fr',
+     'Bâtis le succès à partir de tes échecs. Le découragement et l''échec sont deux des marches les plus sûres vers le succès.');
