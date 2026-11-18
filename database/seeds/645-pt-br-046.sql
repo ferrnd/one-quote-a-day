@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No tree becomes rooted and sturdy unless many a wind assails it.', 'pt-BR',
      'Nenhuma árvore cria raízes firmes sem que muitos ventos a sacudam.'),
     ('It is a rough road that leads to the heights of greatness.', 'pt-BR',
-     'É um caminho áspero o que leva às alturas da grandeza.');
+     'É um caminho áspero o que leva às alturas da grandeza.'),
+    ('Difficult roads often lead to beautiful destinations.', 'pt-BR',
+     'Caminhos difíceis muitas vezes levam a destinos lindos.');
