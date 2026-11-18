@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no mistakes or failures, only lessons.', 'pt-BR',
      'Não existem erros nem fracassos, apenas lições.'),
     ('I have learned more from my mistakes than from my successes.', 'pt-BR',
-     'Aprendi mais com meus erros do que com meus acertos.');
+     'Aprendi mais com meus erros do que com meus acertos.'),
+    ('It''s failure that gives you the proper perspective on success.', 'pt-BR',
+     'É o fracasso que dá a perspectiva certa sobre o sucesso.');
