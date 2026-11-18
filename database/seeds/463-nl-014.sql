@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength is the product of struggle. You must do what others don''t to achieve what others won''t.', 'nl',
      'Kracht is het product van strijd. Je moet doen wat anderen niet doen om te bereiken wat anderen niet bereiken.'),
     ('The strongest of all warriors are these two: time and patience.', 'nl',
-     'De sterkste van alle krijgers zijn deze twee: tijd en geduld.');
+     'De sterkste van alle krijgers zijn deze twee: tijd en geduld.'),
+    ('Nobody can make you feel inferior without your consent.', 'nl',
+     'Niemand kan je een minderwaardig gevoel geven zonder jouw toestemming.');
