@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the long run, we shape our lives, and we shape ourselves.', 'nl',
      'Op de lange termijn vormen we ons leven, en vormen we onszelf.'),
     ('Out of adversity comes opportunity.', 'nl',
-     'Uit tegenspoed komt kans voort.');
+     'Uit tegenspoed komt kans voort.'),
+    ('Adversity has ever been considered the state in which a man most easily becomes acquainted with himself.', 'nl',
+     'Tegenspoed is altijd beschouwd als de toestand waarin een mens zichzelf het makkelijkst leert kennen.');
