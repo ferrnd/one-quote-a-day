@@ -18,6 +18,9 @@ const FALLBACK = { text: "Fall seven times, stand up eight.", author: "Japanese 
 const figure = /** @type {HTMLElement} */ (document.getElementById("quote"));
 const textEl = /** @type {HTMLElement} */ (document.getElementById("quote-text"));
 const authorEl = /** @type {HTMLElement} */ (document.getElementById("quote-author"));
+const counterEl = /** @type {HTMLButtonElement} */ (document.getElementById("day-counter"));
+const archiveEl = /** @type {HTMLDialogElement} */ (document.getElementById("archive"));
+const archiveList = /** @type {HTMLOListElement} */ (document.getElementById("archive-list"));
 const decoder = new TextDecoder("utf-8", { fatal: true });
 
 /** @param {URL} url */
@@ -58,6 +61,62 @@ class QuoteEngine {
       author: this.read(this.x.quote_author_ptr(index), this.x.quote_author_len(index)),
     };
   }
+
+  /** @param {{year: number, month: number, day: number}} parts */
+  dayNumber({ year, month, day }) {
+    return this.x.day_number(year, month, day);
+  }
+
+  /** Days since 1970-01-01 -> {year, month, day}, via the module's calendar. */
+  partsFromDays(z) {
+    const packed = this.x.civil_from_days(z);
+    return { year: Math.floor(packed / 10000), month: Math.floor(packed / 100) % 100, day: packed % 100 };
+  }
+}
+
+const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+/** @param {QuoteEngine} engine @param {{year: number, month: number, day: number}} today */
+function updateCounter(engine, today) {
+  const n = engine.dayNumber(today);
+  counterEl.hidden = n < 1;
+  counterEl.textContent = `Day ${n}`;
+  counterEl.dataset.today = JSON.stringify(today);
+}
+
+/** @param {QuoteEngine} engine */
+function openArchive(engine) {
+  const today = JSON.parse(counterEl.dataset.today ?? "null");
+  if (!today) return;
+  const last = engine.dayNumber(today);
+  const launch = engine.x.launch_day();
+  const items = [];
+  for (let n = last; n >= 1; n--) {
+    const parts = engine.partsFromDays(launch + n - 1);
+    const quote = engine.forDate(parts);
+    const li = document.createElement("li");
+    const meta = document.createElement("p");
+    meta.className = "archive-meta";
+    meta.textContent = `Day ${n} · ${MONTHS[parts.month - 1]} ${parts.day}, ${parts.year}`;
+    const text = document.createElement("blockquote");
+    text.textContent = quote.text;
+    const author = document.createElement("p");
+    author.className = "archive-author";
+    author.textContent = quote.author;
+    li.append(meta, text, author);
+    items.push(li);
+  }
+  archiveList.replaceChildren(...items);
+  archiveEl.showModal();
+  archiveList.scrollTop = 0;
+}
+
+/** @param {QuoteEngine} engine */
+function wireArchive(engine) {
+  counterEl.addEventListener("click", () => openArchive(engine));
+  document.getElementById("archive-close")?.addEventListener("click", () => archiveEl.close());
+  // click on the backdrop closes too
+  archiveEl.addEventListener("click", (event) => { if (event.target === archiveEl) archiveEl.close(); });
 }
 
 let rendered = false;
@@ -91,7 +150,9 @@ function startClock(engine) {
     const key = dateKey(now);
     if (key !== currentKey) {
       currentKey = key;
-      show(engine.forDate(localDateParts(now)));
+      const today = localDateParts(now);
+      show(engine.forDate(today));
+      updateCounter(engine, today);
     }
     clearTimeout(midnightTimer);
     // Wake just after midnight; the watchdog below covers sleep and clock changes.
@@ -109,8 +170,10 @@ async function main() {
   try {
     const engine = new QuoteEngine(await instantiate(WASM_URL));
     const pinned = parseDateKey(new URLSearchParams(location.search).get("date"));
+    wireArchive(engine);
     if (pinned) {
       show(engine.forDate(pinned));
+      updateCounter(engine, pinned);
     } else {
       startClock(engine);
     }
