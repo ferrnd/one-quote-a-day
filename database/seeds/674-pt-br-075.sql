@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Beginnings are always messy.', 'pt-BR',
      'Começos são sempre bagunçados.'),
     ('Vision is the art of seeing what is invisible to others.', 'pt-BR',
-     'Visão é a arte de enxergar o que é invisível para os outros.');
+     'Visão é a arte de enxergar o que é invisível para os outros.'),
+    ('When one door of happiness closes, another opens.', 'pt-BR',
+     'Quando uma porta da felicidade se fecha, outra se abre.');
