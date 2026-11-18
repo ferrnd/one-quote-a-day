@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Character is power.', 'nl',
      'Karakter is macht.'),
     ('I am not afraid; I was born to do this.', 'nl',
-     'Ik ben niet bang; ik ben geboren om dit te doen.');
+     'Ik ben niet bang; ik ben geboren om dit te doen.'),
+    ('Self-control is strength. Right thought is mastery. Calmness is power.', 'nl',
+     'Zelfbeheersing is kracht. Juist denken is meesterschap. Kalmte is macht.');
