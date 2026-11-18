@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No matter how long the winter, spring is sure to follow.', 'de',
      'Wie lang der Winter auch sein mag, der Frühling folgt gewiss.'),
     ('Every cloud has a silver lining.', 'de',
-     'Jedes Unglück hat auch sein Gutes.');
+     'Jedes Unglück hat auch sein Gutes.'),
+    ('The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.', 'de',
+     'Die Sonne selbst ist schwach, wenn sie aufgeht, und gewinnt im Lauf des Tages an Kraft und Mut.');
