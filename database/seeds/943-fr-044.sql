@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Though she be but little, she is fierce.', 'fr',
      'Elle a beau être petite, elle est féroce.'),
     ('You cannot run away from a weakness; you must some time fight it out or perish.', 'fr',
-     'On ne peut pas fuir une faiblesse ; il faut un jour l''affronter jusqu''au bout, ou périr.');
+     'On ne peut pas fuir une faiblesse ; il faut un jour l''affronter jusqu''au bout, ou périr.'),
+    ('Do not go gentle into that good night. Rage, rage against the dying of the light.', 'fr',
+     'N''entre pas sans violence dans cette bonne nuit. Rage, rage contre la mort de la lumière.');
