@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t fear failure. Not failure, but low aim, is the crime.', 'es',
      'No le temas al fracaso. El crimen no es fracasar, sino apuntar bajo.'),
     ('Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes.', 'es',
-     'El fracaso enseña. Quien de verdad piensa aprende tanto de sus fracasos como de sus éxitos.');
+     'El fracaso enseña. Quien de verdad piensa aprende tanto de sus fracasos como de sus éxitos.'),
+    ('Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.', 'es',
+     'Nuestra mayor debilidad está en rendirnos. La forma más segura de triunfar es intentarlo siempre una vez más.');
