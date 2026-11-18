@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'nl',
      'Het moedigste wat je kunt doen als je niet moedig bent, is moed belijden en daarnaar handelen.'),
     ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'nl',
-     'Moed is doen waar je bang voor bent. Er kan geen moed zijn als je niet bang bent.');
+     'Moed is doen waar je bang voor bent. Er kan geen moed zijn als je niet bang bent.'),
+    ('Fortune and love favor the brave.', 'nl',
+     'Geluk en liefde zijn met de dapperen.');
