@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never give up, for that is just the place and time that the tide will turn.', 'nl',
      'Geef nooit op, want dat is precies de plek en het moment waarop het tij zal keren.'),
     ('Persistence can change failure into extraordinary achievement.', 'nl',
-     'Volharding kan een mislukking veranderen in een buitengewone prestatie.');
+     'Volharding kan een mislukking veranderen in een buitengewone prestatie.'),
+    ('He conquers who endures.', 'nl',
+     'Wie volhardt, overwint.');
