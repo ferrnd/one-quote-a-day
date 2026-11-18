@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope will never be silent.', 'nl',
      'De hoop zal nooit zwijgen.'),
     ('Weeping may endure for a night, but joy cometh in the morning.', 'nl',
-     'Des avonds vernachten wenen, maar des morgens is er gejuich.');
+     'Des avonds vernachten wenen, maar des morgens is er gejuich.'),
+    ('Grow old along with me! The best is yet to be.', 'nl',
+     'Word oud met mij! Het beste moet nog komen.');
