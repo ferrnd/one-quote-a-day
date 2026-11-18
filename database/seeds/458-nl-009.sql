@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can be changed by what happens to me. But I refuse to be reduced by it.', 'nl',
      'Wat mij overkomt, kan me veranderen. Maar ik weiger erdoor kleiner gemaakt te worden.'),
     ('You may encounter many defeats, but you must not be defeated.', 'nl',
-     'Je zult misschien veel nederlagen meemaken, maar je mag je niet laten verslaan.');
+     'Je zult misschien veel nederlagen meemaken, maar je mag je niet laten verslaan.'),
+    ('Still, like air, I''ll rise.', 'nl',
+     'En toch sta ik op, als de lucht.');
