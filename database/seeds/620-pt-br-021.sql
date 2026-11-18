@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the thing with feathers that perches in the soul.', 'pt-BR',
      'A esperança é a coisa com penas que pousa na alma.'),
     ('Everything that is done in the world is done by hope.', 'pt-BR',
-     'Tudo o que é feito no mundo é feito pela esperança.');
+     'Tudo o que é feito no mundo é feito pela esperança.'),
+    ('Hope is being able to see that there is light despite all of the darkness.', 'pt-BR',
+     'Esperança é conseguir ver que existe luz apesar de toda a escuridão.');
