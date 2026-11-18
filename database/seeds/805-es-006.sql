@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The brave man is not he who does not feel afraid, but he who conquers that fear.', 'es',
      'El hombre valiente no es el que no siente miedo, sino el que vence ese miedo.'),
     ('Have the courage to follow your heart and intuition.', 'es',
-     'Ten el valor de seguir a tu corazón y a tu intuición.');
+     'Ten el valor de seguir a tu corazón y a tu intuición.'),
+    ('Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.', 'es',
+     'Ser amado profundamente por alguien te da fuerza, mientras que amar a alguien profundamente te da valor.');
