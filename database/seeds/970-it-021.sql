@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Kites rise highest against the wind, not with it.', 'it',
      'Gli aquiloni volano più in alto controvento, non con il vento a favore.'),
     ('Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant.', 'it',
-     'L''avversità ha l''effetto di far emergere talenti che, in tempi prosperi, sarebbero rimasti sopiti.');
+     'L''avversità ha l''effetto di far emergere talenti che, in tempi prosperi, sarebbero rimasti sopiti.'),
+    ('The block of granite which was an obstacle in the path of the weak becomes a stepping stone in the path of the strong.', 'it',
+     'Il blocco di granito che era un ostacolo sul cammino del debole diventa un gradino sul cammino del forte.');
