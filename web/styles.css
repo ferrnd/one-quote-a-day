@@ -186,6 +186,29 @@ main {
   to   { opacity: 1; }
 }
 
+.archive[open].is-closing {
+  animation: archive-out 280ms cubic-bezier(0.4, 0, 1, 1) forwards;
+}
+
+.archive.is-closing::backdrop {
+  animation: archive-fade-out 280ms ease forwards;
+}
+
+@keyframes archive-out {
+  from { opacity: 1; transform: none; }
+  to   { opacity: 0; transform: translateY(0.5rem) scale(0.985); }
+}
+
+@keyframes archive-fade-out {
+  from { opacity: 1; }
+  to   { opacity: 0; }
+}
+
+.archive-sentinel {
+  height: 1px;
+  padding: 0;
+}
+
 .archive-head {
   position: relative;
   padding: 2.25rem 3.5rem 0.75rem;
