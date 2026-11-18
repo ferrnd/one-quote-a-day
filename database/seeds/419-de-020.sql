@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life begins at the end of your comfort zone.', 'de',
      'Das Leben beginnt am Ende deiner Komfortzone.'),
     ('I can''t change the direction of the wind, but I can adjust my sails to always reach my destination.', 'de',
-     'Ich kann die Richtung des Windes nicht ändern, aber ich kann die Segel so setzen, dass ich immer mein Ziel erreiche.');
+     'Ich kann die Richtung des Windes nicht ändern, aber ich kann die Segel so setzen, dass ich immer mein Ziel erreiche.'),
+    ('We cannot become what we want by remaining what we are.', 'de',
+     'Wir können nicht werden, was wir sein wollen, indem wir bleiben, was wir sind.');
