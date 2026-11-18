@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have learned over the years that when one''s mind is made up, this diminishes fear.', 'de',
      'Ich habe im Lauf der Jahre gelernt, dass die Angst schwindet, wenn man sich einmal entschieden hat.'),
     ('You must do the things you think you cannot do.', 'de',
-     'Du musst die Dinge tun, von denen du glaubst, dass du sie nicht kannst.');
+     'Du musst die Dinge tun, von denen du glaubst, dass du sie nicht kannst.'),
+    ('Clear thinking requires courage rather than intelligence.', 'de',
+     'Klares Denken erfordert eher Mut als Intelligenz.');
