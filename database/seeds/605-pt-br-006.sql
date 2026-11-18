@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is rightly esteemed the first of human qualities because it is the quality which guarantees all others.', 'pt-BR',
      'A coragem é, com razão, considerada a primeira das qualidades humanas, porque é a qualidade que garante todas as outras.'),
     ('The brave man is not he who does not feel afraid, but he who conquers that fear.', 'pt-BR',
-     'O homem corajoso não é aquele que não sente medo, mas aquele que vence esse medo.');
+     'O homem corajoso não é aquele que não sente medo, mas aquele que vence esse medo.'),
+    ('Have the courage to follow your heart and intuition.', 'pt-BR',
+     'Tenha a coragem de seguir seu coração e sua intuição.');
