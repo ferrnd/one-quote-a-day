@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is patience with the lamp lit.', 'nl',
      'Hoop is geduld met de lamp aan.'),
     ('I am prepared for the worst, but hope for the best.', 'nl',
-     'Ik ben voorbereid op het ergste, maar hoop op het beste.');
+     'Ik ben voorbereid op het ergste, maar hoop op het beste.'),
+    ('We need never be hopeless because we can never be irreparably broken.', 'nl',
+     'We hoeven nooit hopeloos te zijn, want we kunnen nooit onherstelbaar gebroken worden.');
