@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Change is the end result of all true learning.', 'es',
      'El cambio es el resultado final de todo aprendizaje verdadero.'),
     ('Anyone who stops learning is old, whether at twenty or eighty.', 'es',
-     'Quien deja de aprender es viejo, tenga veinte u ochenta años.');
+     'Quien deja de aprender es viejo, tenga veinte u ochenta años.'),
+    ('The only real voyage of discovery consists not in seeking new landscapes, but in having new eyes.', 'es',
+     'El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en tener nuevos ojos.');
