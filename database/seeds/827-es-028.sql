@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength does not come from winning. Your struggles develop your strengths.', 'es',
      'La fuerza no viene de ganar. Son tus luchas las que desarrollan tu fuerza.'),
     ('Strength is a matter of the made-up mind.', 'es',
-     'La fuerza es cuestión de una mente decidida.');
+     'La fuerza es cuestión de una mente decidida.'),
+    ('I am the master of my fate, I am the captain of my soul.', 'es',
+     'Soy el amo de mi destino, soy el capitán de mi alma.');
