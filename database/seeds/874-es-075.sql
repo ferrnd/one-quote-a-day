@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life can only be understood backwards; but it must be lived forwards.', 'es',
      'La vida solo puede entenderse mirando hacia atrás, pero debe vivirse mirando hacia delante.'),
     ('Beginnings are always messy.', 'es',
-     'Los comienzos siempre son desordenados.');
+     'Los comienzos siempre son desordenados.'),
+    ('Vision is the art of seeing what is invisible to others.', 'es',
+     'La visión es el arte de ver lo que es invisible para los demás.');
