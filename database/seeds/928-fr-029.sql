@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We become what we think about.', 'fr',
      'Nous devenons ce à quoi nous pensons.'),
     ('If you''re always trying to be normal, you will never know how amazing you can be.', 'fr',
-     'Si tu essaies toujours d''être normal, tu ne sauras jamais à quel point tu peux être extraordinaire.');
+     'Si tu essaies toujours d''être normal, tu ne sauras jamais à quel point tu peux être extraordinaire.'),
+    ('Why, sometimes I''ve believed as many as six impossible things before breakfast.', 'fr',
+     'Il m''est arrivé de croire jusqu''à six choses impossibles avant le petit-déjeuner.');
