@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.', 'nl',
      'Geduld en doorzettingsvermogen hebben een magische uitwerking waarvoor moeilijkheden verdwijnen en obstakels oplossen.'),
     ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'nl',
-     'Door volharding behalen veel mensen succes uit wat tot zekere mislukking gedoemd leek.');
+     'Door volharding behalen veel mensen succes uit wat tot zekere mislukking gedoemd leek.'),
+    ('Continuous effort, not strength or intelligence, is the key to unlocking our potential.', 'nl',
+     'Voortdurende inspanning, niet kracht of intelligentie, is de sleutel tot ons potentieel.');
