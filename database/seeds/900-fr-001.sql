@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rivers know this: there is no hurry. We shall get there some day.', 'fr',
      'Les rivières le savent : rien ne presse. Nous arriverons un jour.'),
     ('Perseverance is not a long race; it is many short races one after the other.', 'fr',
-     'La persévérance n''est pas une longue course ; c''est une succession de courtes courses, l''une après l''autre.');
+     'La persévérance n''est pas une longue course ; c''est une succession de courtes courses, l''une après l''autre.'),
+    ('A river cuts through rock not because of its power, but because of its persistence.', 'fr',
+     'La rivière perce la roche non par sa force, mais par sa persévérance.');
