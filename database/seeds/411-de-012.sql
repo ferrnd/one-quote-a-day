@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Weeping may endure for a night, but joy cometh in the morning.', 'de',
      'Den Abend lang währt das Weinen, aber des Morgens ist Freude.'),
     ('Grow old along with me! The best is yet to be.', 'de',
-     'Werde alt mit mir! Das Beste kommt noch.');
+     'Werde alt mit mir! Das Beste kommt noch.'),
+    ('Isn''t it nice to think that tomorrow is a new day with no mistakes in it yet?', 'de',
+     'Ist es nicht schön zu denken, dass morgen ein neuer Tag ist, noch ganz ohne Fehler?');
