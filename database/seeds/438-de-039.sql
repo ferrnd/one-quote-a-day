@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perseverance is failing nineteen times and succeeding the twentieth.', 'de',
      'Ausdauer heißt, neunzehnmal zu scheitern und beim zwanzigsten Mal Erfolg zu haben.'),
     ('Persistence is to the character of man as carbon is to steel.', 'de',
-     'Beharrlichkeit ist für den Charakter des Menschen, was Kohlenstoff für den Stahl ist.');
+     'Beharrlichkeit ist für den Charakter des Menschen, was Kohlenstoff für den Stahl ist.'),
+    ('The man who can drive himself further once the effort gets painful is the man who will win.', 'de',
+     'Wer sich weiter antreiben kann, wenn die Anstrengung schmerzhaft wird, ist der, der gewinnen wird.');
