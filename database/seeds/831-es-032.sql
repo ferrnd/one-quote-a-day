@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Discipline is choosing between what you want now and what you want most.', 'es',
      'Disciplina es elegir entre lo que quieres ahora y lo que más quieres.'),
     ('No man is free who is not master of himself.', 'es',
-     'Ningún hombre es libre si no es dueño de sí mismo.');
+     'Ningún hombre es libre si no es dueño de sí mismo.'),
+    ('First say to yourself what you would be; and then do what you have to do.', 'es',
+     'Primero dite a ti mismo lo que quieres ser; luego haz lo que tengas que hacer.');
