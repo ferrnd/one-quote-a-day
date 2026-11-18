@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The man who can drive himself further once the effort gets painful is the man who will win.', 'nl',
      'Wie zich verder kan drijven als de inspanning pijn gaat doen, is degene die zal winnen.'),
     ('Don''t give up. Don''t ever give up.', 'nl',
-     'Geef niet op. Geef nooit op.');
+     'Geef niet op. Geef nooit op.'),
+    ('Many people have gone further than they thought they could because someone else thought they could.', 'nl',
+     'Veel mensen zijn verder gekomen dan ze dachten, omdat iemand anders geloofde dat ze het konden.');
