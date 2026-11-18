@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All we have to decide is what to do with the time that is given us.', 'nl',
      'Het enige wat we moeten beslissen, is wat we doen met de tijd die ons gegeven is.'),
     ('It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.', 'nl',
-     'Er is veel moed nodig om je vijanden te trotseren, maar evenveel om je vrienden te trotseren.');
+     'Er is veel moed nodig om je vijanden te trotseren, maar evenveel om je vrienden te trotseren.'),
+    ('Do the thing you fear, and the death of fear is certain.', 'nl',
+     'Doe wat je vreest, en de dood van de angst is zeker.');
