@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Turn your wounds into wisdom.', 'nl',
      'Verander je wonden in wijsheid.'),
     ('When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.', 'nl',
-     'Als alles tegen je lijkt te gaan, onthoud dan dat een vliegtuig opstijgt tegen de wind in, niet met de wind mee.');
+     'Als alles tegen je lijkt te gaan, onthoud dan dat een vliegtuig opstijgt tegen de wind in, niet met de wind mee.'),
+    ('Out of difficulties grow miracles.', 'nl',
+     'Uit moeilijkheden groeien wonderen.');
