@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t cross the sea merely by standing and staring at the water.', 'fr',
      'On ne traverse pas la mer en restant planté à regarder l''eau.'),
     ('The most difficult thing is the decision to act, the rest is merely tenacity.', 'fr',
-     'Le plus difficile est de décider d''agir ; le reste n''est que ténacité.');
+     'Le plus difficile est de décider d''agir ; le reste n''est que ténacité.'),
+    ('The most effective way to do it, is to do it.', 'fr',
+     'La façon la plus efficace de le faire, c''est de le faire.');
