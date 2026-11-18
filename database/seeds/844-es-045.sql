@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard times don''t create heroes. It is during the hard times when the hero within us is revealed.', 'es',
      'Los tiempos difíciles no crean héroes. Es en los tiempos difíciles cuando se revela el héroe que llevamos dentro.'),
     ('Mountains cannot be surmounted except by winding paths.', 'es',
-     'Las montañas no se superan sino por caminos sinuosos.');
+     'Las montañas no se superan sino por caminos sinuosos.'),
+    ('Pain is inevitable. Suffering is optional.', 'es',
+     'El dolor es inevitable. El sufrimiento es opcional.');
