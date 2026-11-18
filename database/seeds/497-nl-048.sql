@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Wisely and slow; they stumble that run fast.', 'nl',
      'Wijs en langzaam; wie hard loopt, struikelt.'),
     ('They also serve who only stand and wait.', 'nl',
-     'Ook zij dienen die alleen staan en wachten.');
+     'Ook zij dienen die alleen staan en wachten.'),
+    ('Only time can heal what reason cannot.', 'nl',
+     'Alleen de tijd kan helen wat de rede niet kan.');
