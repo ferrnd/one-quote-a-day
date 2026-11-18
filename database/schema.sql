@@ -23,3 +23,13 @@ CREATE TABLE themes (
                   CHECK (length(title) BETWEEN 2 AND 64)
 ) STRICT;
 
+-- @section authors -----------------------------------------------------------
+--  Authors are deduplicated by exact name. Proverbs use their origin as the
+--  author ("Japanese Proverb") so that every quote can be attributed.
+
+CREATE TABLE authors (
+    id   INTEGER PRIMARY KEY,
+    name TEXT    NOT NULL UNIQUE
+                 CHECK (length(name) BETWEEN 2 AND 64 AND name = trim(name))
+) STRICT;
+
