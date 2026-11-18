@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Even the smallest person can change the course of the future.', 'nl',
      'Zelfs de kleinste persoon kan de loop van de toekomst veranderen.'),
     ('All we have to decide is what to do with the time that is given us.', 'nl',
-     'Het enige wat we moeten beslissen, is wat we doen met de tijd die ons gegeven is.');
+     'Het enige wat we moeten beslissen, is wat we doen met de tijd die ons gegeven is.'),
+    ('It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.', 'nl',
+     'Er is veel moed nodig om je vijanden te trotseren, maar evenveel om je vrienden te trotseren.');
