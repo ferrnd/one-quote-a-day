@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you seek is seeking you.', 'fr',
      'Ce que tu cherches te cherche aussi.'),
     ('Don''t grieve. Anything you lose comes round in another form.', 'fr',
-     'Ne t''afflige pas. Tout ce que tu perds revient sous une autre forme.');
+     'Ne t''afflige pas. Tout ce que tu perds revient sous une autre forme.'),
+    ('Set your life on fire. Seek those who fan your flames.', 'fr',
+     'Mets le feu à ta vie. Cherche ceux qui attisent tes flammes.');
