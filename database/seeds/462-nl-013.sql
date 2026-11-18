@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Faith is the bird that feels the light and sings when the dawn is still dark.', 'nl',
      'Geloof is de vogel die het licht voelt en zingt wanneer de dageraad nog donker is.'),
     ('However long the night, the dawn will break.', 'nl',
-     'Hoe lang de nacht ook is, de dag zal aanbreken.');
+     'Hoe lang de nacht ook is, de dag zal aanbreken.'),
+    ('Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day.', 'nl',
+     'Houd je hoed vast. Houd je hoop vast. En wind de klok op, want morgen is er weer een dag.');
