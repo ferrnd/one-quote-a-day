@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Start where you are. Use what you have. Do what you can.', 'nl',
      'Begin waar je bent. Gebruik wat je hebt. Doe wat je kunt.'),
     ('We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.', 'nl',
-     'We genieten van de schoonheid van de vlinder, maar erkennen zelden de veranderingen die hij heeft doorgemaakt om die schoonheid te bereiken.');
+     'We genieten van de schoonheid van de vlinder, maar erkennen zelden de veranderingen die hij heeft doorgemaakt om die schoonheid te bereiken.'),
+    ('It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.', 'nl',
+     'Niet de sterkste soort overleeft, en ook niet de intelligentste, maar de soort die het best op verandering inspeelt.');
