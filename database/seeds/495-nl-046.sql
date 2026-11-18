@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Action is eloquence.', 'nl',
      'Daden zijn welsprekend.'),
     ('Do not wait for leaders; do it alone, person to person.', 'nl',
-     'Wacht niet op leiders; doe het zelf, van mens tot mens.');
+     'Wacht niet op leiders; doe het zelf, van mens tot mens.'),
+    ('Don''t judge each day by the harvest you reap but by the seeds that you plant.', 'nl',
+     'Beoordeel elke dag niet op de oogst die je binnenhaalt, maar op de zaden die je plant.');
