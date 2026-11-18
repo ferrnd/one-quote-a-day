@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope arouses, as nothing else can arouse, a passion for the possible.', 'it',
      'La speranza risveglia, come nient''altro può fare, una passione per il possibile.'),
     ('Do not let your fire go out, spark by irreplaceable spark.', 'it',
-     'Non lasciare che il tuo fuoco si spenga, scintilla dopo scintilla insostituibile.');
+     'Non lasciare che il tuo fuoco si spenga, scintilla dopo scintilla insostituibile.'),
+    ('We are all in the gutter, but some of us are looking at the stars.', 'it',
+     'Siamo tutti nel fango, ma alcuni di noi guardano le stelle.');
