@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I learned that courage was not the absence of fear, but the triumph over it.', 'it',
      'Ho imparato che il coraggio non è l''assenza di paura, ma il trionfo su di essa.'),
     ('You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.', 'it',
-     'Acquisti forza, coraggio e fiducia da ogni esperienza in cui ti fermi davvero a guardare la paura in faccia.');
+     'Acquisti forza, coraggio e fiducia da ogni esperienza in cui ti fermi davvero a guardare la paura in faccia.'),
+    ('Courage is resistance to fear, mastery of fear, not absence of fear.', 'it',
+     'Il coraggio è resistenza alla paura, dominio della paura, non assenza di paura.');
