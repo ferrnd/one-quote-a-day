@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it.', 'de',
      'Mach weiter, und die Chancen stehen gut, dass du auf etwas stößt, vielleicht wenn du es am wenigsten erwartest.'),
     ('Hard work without talent is a shame, but talent without hard work is a tragedy.', 'de',
-     'Harte Arbeit ohne Talent ist schade, aber Talent ohne harte Arbeit ist eine Tragödie.');
+     'Harte Arbeit ohne Talent ist schade, aber Talent ohne harte Arbeit ist eine Tragödie.'),
+    ('It ain''t over till it''s over.', 'de',
+     'Es ist nicht vorbei, bis es vorbei ist.');
