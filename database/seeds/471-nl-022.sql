@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.', 'nl',
      'De pessimist ziet een moeilijkheid in elke kans. De optimist ziet een kans in elke moeilijkheid.'),
     ('Challenges are what make life interesting and overcoming them is what makes life meaningful.', 'nl',
-     'Uitdagingen maken het leven interessant, en ze overwinnen geeft het leven betekenis.');
+     'Uitdagingen maken het leven interessant, en ze overwinnen geeft het leven betekenis.'),
+    ('Adversity is the diamond dust Heaven polishes its jewels with.', 'nl',
+     'Tegenspoed is het diamantstof waarmee de Hemel zijn juwelen polijst.');
