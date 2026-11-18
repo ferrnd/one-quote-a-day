@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ambition is enthusiasm with a purpose.', 'it',
      'L''ambizione è entusiasmo con uno scopo.'),
     ('Dreams are illustrations from the book your soul is writing about you.', 'it',
-     'I sogni sono illustrazioni del libro che la tua anima sta scrivendo su di te.');
+     'I sogni sono illustrazioni del libro che la tua anima sta scrivendo su di te.'),
+    ('Dream no small dreams for they have no power to move the hearts of men.', 'it',
+     'Non fare sogni piccoli, perché non hanno il potere di muovere il cuore degli uomini.');
