@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.', 'pt-BR',
      'O sucesso não é por acaso. É trabalho duro, perseverança, aprendizado, estudo, sacrifício e, acima de tudo, amor pelo que você faz.'),
     ('The will to win is important, but the will to prepare is vital.', 'pt-BR',
-     'A vontade de vencer é importante, mas a vontade de se preparar é vital.');
+     'A vontade de vencer é importante, mas a vontade de se preparar é vital.'),
+    ('I never dreamed about success. I worked for it.', 'pt-BR',
+     'Nunca sonhei com o sucesso. Trabalhei por ele.');
