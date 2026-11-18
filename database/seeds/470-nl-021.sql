@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without continual growth and progress, such words as improvement, achievement, and success have no meaning.', 'nl',
      'Zonder voortdurende groei en vooruitgang hebben woorden als verbetering, prestatie en succes geen betekenis.'),
     ('What is to give light must endure burning.', 'nl',
-     'Wat licht moet geven, moet branden verdragen.');
+     'Wat licht moet geven, moet branden verdragen.'),
+    ('It''s not what happens to you, but how you react to it that matters.', 'nl',
+     'Het gaat er niet om wat je overkomt, maar hoe je erop reageert.');
