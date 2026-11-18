@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is important because it can make the present moment less difficult to bear.', 'de',
      'Hoffnung ist wichtig, weil sie den gegenwärtigen Moment leichter erträglich machen kann.'),
     ('No matter how long the winter, spring is sure to follow.', 'de',
-     'Wie lang der Winter auch sein mag, der Frühling folgt gewiss.');
+     'Wie lang der Winter auch sein mag, der Frühling folgt gewiss.'),
+    ('Every cloud has a silver lining.', 'de',
+     'Jedes Unglück hat auch sein Gutes.');
