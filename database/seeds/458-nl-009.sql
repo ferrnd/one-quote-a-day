@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The human capacity for burden is like bamboo: far more flexible than you''d ever believe at first glance.', 'nl',
      'Het menselijk vermogen om lasten te dragen is als bamboe: veel buigzamer dan je op het eerste gezicht zou denken.'),
     ('I can be changed by what happens to me. But I refuse to be reduced by it.', 'nl',
-     'Wat mij overkomt, kan me veranderen. Maar ik weiger erdoor kleiner gemaakt te worden.');
+     'Wat mij overkomt, kan me veranderen. Maar ik weiger erdoor kleiner gemaakt te worden.'),
+    ('You may encounter many defeats, but you must not be defeated.', 'nl',
+     'Je zult misschien veel nederlagen meemaken, maar je mag je niet laten verslaan.');
