@@ -94,3 +94,20 @@ npm run build:db              # write build/quotes.sqlite for ad-hoc queries
 
 Append `?date=YYYY-MM-DD` to the page URL to preview another day.
 
+## Testing
+
+```sh
+npm test
+```
+
+- `tests/python`: PCG32 reference vectors, calendar math against `datetime`
+  for four full centuries, schedule invariants, database constraints, and a
+  check that `generated/quotes.wat` is up to date.
+- `tests/js`: the shipped `quotes.wasm` itself: calendar math against `Date`,
+  the embedded table against the on-the-fly algorithm, no repeats across the
+  whole 400-year window, trap behaviour, a corrupted-binary check, and
+  midnight/DST handling in the clock module.
+
+CI runs the full build, fails if the committed `generated/` or `docs/` differ
+from a fresh build, then runs both suites.
+
