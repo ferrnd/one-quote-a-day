@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'nl',
      'Als je besefte hoe krachtig je gedachten zijn, zou je nooit meer een negatieve gedachte hebben.'),
     ('I am the greatest. I said that even before I knew I was.', 'nl',
-     'Ik ben de grootste. Dat zei ik al voordat ik wist dat ik het was.');
+     'Ik ben de grootste. Dat zei ik al voordat ik wist dat ik het was.'),
+    ('Impossible is just a big word thrown around by small men.', 'nl',
+     'Onmogelijk is maar een groot woord waar kleine mensen mee strooien.');
