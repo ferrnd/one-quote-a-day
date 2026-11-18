@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We suffer more often in imagination than in reality.', 'de',
      'Wir leiden öfter in der Vorstellung als in der Wirklichkeit.'),
     ('Mastering others is strength. Mastering yourself is true power.', 'de',
-     'Andere zu beherrschen ist Stärke. Sich selbst zu beherrschen ist wahre Macht.');
+     'Andere zu beherrschen ist Stärke. Sich selbst zu beherrschen ist wahre Macht.'),
+    ('Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who conquers himself.', 'de',
+     'Wer in der Schlacht tausendmal tausend Menschen besiegt, ist nicht so edel wie der, der sich selbst besiegt.');
