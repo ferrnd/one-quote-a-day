@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You always pass failure on your way to success.', 'nl',
      'Op weg naar succes kom je altijd langs falen.'),
     ('Failure is unimportant. It takes courage to make a fool of yourself.', 'nl',
-     'Falen is onbelangrijk. Er is moed voor nodig om jezelf voor gek te zetten.');
+     'Falen is onbelangrijk. Er is moed voor nodig om jezelf voor gek te zetten.'),
+    ('What is defeat? Nothing but education; nothing but the first step to something better.', 'nl',
+     'Wat is een nederlaag? Niets anders dan een les; niets anders dan de eerste stap naar iets beters.');
