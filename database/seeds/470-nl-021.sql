@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity causes some men to break; others to break records.', 'nl',
      'Tegenspoed laat sommige mensen breken; anderen breken records.'),
     ('Prosperity is not without many fears and distastes; and adversity is not without comforts and hopes.', 'nl',
-     'Voorspoed is niet zonder angsten en afkeer, en tegenspoed is niet zonder troost en hoop.');
+     'Voorspoed is niet zonder angsten en afkeer, en tegenspoed is niet zonder troost en hoop.'),
+    ('Adversity is the first path to truth.', 'nl',
+     'Tegenspoed is de eerste weg naar de waarheid.');
