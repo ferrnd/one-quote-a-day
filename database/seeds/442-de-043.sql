@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The darker the night, the brighter the stars, the deeper the grief, the closer is God!', 'de',
      'Je dunkler die Nacht, desto heller die Sterne; je tiefer der Kummer, desto näher ist Gott!'),
     ('Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.', 'de',
-     'Wolken schweben in mein Leben, nicht mehr, um Regen zu bringen oder Sturm anzukündigen, sondern um meinem Abendhimmel Farbe zu verleihen.');
+     'Wolken schweben in mein Leben, nicht mehr, um Regen zu bringen oder Sturm anzukündigen, sondern um meinem Abendhimmel Farbe zu verleihen.'),
+    ('Character is power.', 'de',
+     'Charakter ist Macht.');
