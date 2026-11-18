@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is the condiment that gives success its flavor.', 'es',
      'El fracaso es el condimento que le da sabor al éxito.'),
     ('It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.', 'es',
-     'Es imposible vivir sin fracasar en algo, a menos que vivas con tanta cautela que sea como no haber vivido.');
+     'Es imposible vivir sin fracasar en algo, a menos que vivas con tanta cautela que sea como no haber vivido.'),
+    ('Rock bottom became the solid foundation on which I rebuilt my life.', 'es',
+     'Tocar fondo se convirtió en la base sólida sobre la que reconstruí mi vida.');
