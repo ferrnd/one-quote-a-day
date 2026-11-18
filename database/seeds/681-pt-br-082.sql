@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We learn from failure, not from success!', 'pt-BR',
      'Aprendemos com o fracasso, não com o sucesso!'),
     ('You can''t be afraid to fail. It''s the only way you succeed.', 'pt-BR',
-     'Você não pode ter medo de fracassar. É o único jeito de ter sucesso.');
+     'Você não pode ter medo de fracassar. É o único jeito de ter sucesso.'),
+    ('A man is not finished when he is defeated. He is finished when he quits.', 'pt-BR',
+     'Um homem não está acabado quando é derrotado. Está acabado quando desiste.');
