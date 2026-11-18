@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The power of imagination makes us infinite.', 'nl',
      'De kracht van de verbeelding maakt ons oneindig.'),
     ('You see things; and you say ''Why?'' But I dream things that never were; and I say ''Why not?''', 'nl',
-     'Jij ziet dingen en zegt: ''Waarom?'' Maar ik droom van dingen die nooit hebben bestaan en zeg: ''Waarom niet?''');
+     'Jij ziet dingen en zegt: ''Waarom?'' Maar ik droom van dingen die nooit hebben bestaan en zeg: ''Waarom niet?'''),
+    ('Hitch your wagon to a star.', 'nl',
+     'Span je kar voor een ster.');
