@@ -6,4 +6,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('You are what you believe yourself to be.', 'Paulo Coelho', 'mindset'),
     ('Believe and act as if it were impossible to fail.', 'Charles F. Kettering', 'mindset'),
     ('The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.', 'John Milton', 'mindset'),
-    ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'Peace Pilgrim', 'mindset');
+    ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'Peace Pilgrim', 'mindset'),
+    ('I am the greatest. I said that even before I knew I was.', 'Muhammad Ali', 'mindset');
