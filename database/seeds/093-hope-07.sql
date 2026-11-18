@@ -3,4 +3,5 @@
 INSERT INTO intake (body, author, theme) VALUES
     ('There is always light, if only we''re brave enough to see it. If only we''re brave enough to be it.', 'Amanda Gorman', 'hope'),
     ('Hope is a verb with its shirtsleeves rolled up.', 'David Orr', 'hope'),
-    ('To hope is to give yourself to the future.', 'Rebecca Solnit', 'hope');
+    ('To hope is to give yourself to the future.', 'Rebecca Solnit', 'hope'),
+    ('Hope is not a lottery ticket you can sit on the sofa and clutch, feeling lucky. It is an axe you break down doors with in an emergency.', 'Rebecca Solnit', 'hope');
