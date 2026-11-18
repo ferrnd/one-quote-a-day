@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the only thing stronger than fear.', 'es',
      'La esperanza es lo único más fuerte que el miedo.'),
     ('Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.', 'es',
-     'La felicidad se puede encontrar incluso en los momentos más oscuros, si uno recuerda encender la luz.');
+     'La felicidad se puede encontrar incluso en los momentos más oscuros, si uno recuerda encender la luz.'),
+    ('Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come.', 'es',
+     'La esperanza empieza en la oscuridad: la esperanza terca de que, si simplemente te presentas e intentas hacer lo correcto, llegará el amanecer.');
