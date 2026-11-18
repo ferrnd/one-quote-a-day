@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream as if you''ll live forever. Live as if you''ll die today.', 'it',
      'Sogna come se dovessi vivere per sempre. Vivi come se dovessi morire oggi.'),
     ('The biggest adventure you can take is to live the life of your dreams.', 'it',
-     'La più grande avventura che puoi intraprendere è vivere la vita dei tuoi sogni.');
+     'La più grande avventura che puoi intraprendere è vivere la vita dei tuoi sogni.'),
+    ('Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.', 'it',
+     'Punta in alto, perché in te si nascondono le stelle. Sogna in profondità, perché ogni sogno precede la meta.');
