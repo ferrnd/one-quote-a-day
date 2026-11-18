@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hitch your wagon to a star.', 'nl',
      'Span je kar voor een ster.'),
     ('If one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.', 'nl',
-     'Wie vol vertrouwen in de richting van zijn dromen gaat, zal in gewone uren een onverwacht succes ontmoeten.');
+     'Wie vol vertrouwen in de richting van zijn dromen gaat, zal in gewone uren een onverwacht succes ontmoeten.'),
+    ('Our truest life is when we are in dreams awake.', 'nl',
+     'Ons echtste leven is wanneer we wakend dromen.');
