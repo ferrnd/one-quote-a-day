@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am no bird; and no net ensnares me: I am a free human being with an independent will.', 'fr',
      'Je ne suis pas un oiseau, et aucun filet ne me retient : je suis un être humain libre, doté d''une volonté indépendante.'),
     ('My mission in life is not merely to survive, but to thrive.', 'fr',
-     'Ma mission dans la vie n''est pas seulement de survivre, mais de m''épanouir.');
+     'Ma mission dans la vie n''est pas seulement de survivre, mais de m''épanouir.'),
+    ('You can''t be hesitant about who you are.', 'fr',
+     'Tu ne peux pas hésiter sur qui tu es.');
