@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One moment of patience may ward off great disaster. One moment of impatience may ruin a whole life.', 'es',
      'Un momento de paciencia puede evitar un gran desastre. Un momento de impaciencia puede arruinar toda una vida.'),
     ('Patience is not simply the ability to wait; it''s how we behave while we''re waiting.', 'es',
-     'La paciencia no es solo la capacidad de esperar; es cómo nos comportamos mientras esperamos.');
+     'La paciencia no es solo la capacidad de esperar; es cómo nos comportamos mientras esperamos.'),
+    ('Rome wasn''t built in a day.', 'es',
+     'Roma no se construyó en un día.');
