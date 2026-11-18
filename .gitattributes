@@ -1,0 +1,11 @@
+* text=auto eol=lf
+
+*.wasm binary
+*.sqlite binary
+
+# build artifacts: collapse them in diffs and keep them out of language stats
+generated/** linguist-generated=true -diff
+docs/**      linguist-generated=true
+
+# make GitHub count the hand-written WebAssembly Text
+src/wat/*.wat linguist-language=WebAssembly linguist-detectable=true
