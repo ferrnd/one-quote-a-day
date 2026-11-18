@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is the sum of small efforts, repeated day in and day out.', 'nl',
      'Succes is de som van kleine inspanningen, dag in dag uit herhaald.'),
     ('It always seems impossible until it''s done.', 'nl',
-     'Het lijkt altijd onmogelijk, totdat het gedaan is.');
+     'Het lijkt altijd onmogelijk, totdat het gedaan is.'),
+    ('Nothing in this world can take the place of persistence.', 'nl',
+     'Niets ter wereld kan de plaats innemen van volharding.');
