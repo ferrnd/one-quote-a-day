@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I would rather be ashes than dust!', 'nl',
      'Ik ben liever as dan stof!'),
     ('Determine never to be idle.', 'nl',
-     'Neem je voor nooit ledig te zijn.');
+     'Neem je voor nooit ledig te zijn.'),
+    ('A dream doesn''t become reality through magic; it takes sweat, determination and hard work.', 'nl',
+     'Een droom wordt niet door magie werkelijkheid; daar zijn zweet, vastberadenheid en hard werken voor nodig.');
