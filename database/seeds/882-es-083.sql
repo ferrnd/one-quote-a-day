@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Once you face your fear, nothing is ever as hard as you think.', 'es',
      'Una vez que enfrentas tu miedo, nada es tan difícil como crees.'),
     ('When life knocks you down, try to land on your back. Because if you can look up, you can get up.', 'es',
-     'Cuando la vida te derribe, intenta caer de espaldas. Porque si puedes mirar hacia arriba, puedes levantarte.');
+     'Cuando la vida te derribe, intenta caer de espaldas. Porque si puedes mirar hacia arriba, puedes levantarte.'),
+    ('Out of every crisis comes the chance to be reborn.', 'es',
+     'De cada crisis surge la oportunidad de renacer.');
