@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If there is no struggle, there is no progress.', 'nl',
      'Zonder strijd geen vooruitgang.'),
     ('Be the heroine of your life, not the victim.', 'nl',
-     'Wees de heldin van je leven, niet het slachtoffer.');
+     'Wees de heldin van je leven, niet het slachtoffer.'),
+    ('Stand up straight and realize who you are, that you tower over your circumstances.', 'nl',
+     'Sta rechtop en besef wie je bent: je torent boven je omstandigheden uit.');
