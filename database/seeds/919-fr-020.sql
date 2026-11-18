@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the best you can until you know better. Then when you know better, do better.', 'fr',
      'Fais de ton mieux jusqu''à ce que tu saches mieux faire. Et quand tu sauras mieux faire, fais mieux.'),
     ('The beautiful thing about learning is that no one can take it away from you.', 'fr',
-     'Ce qui est beau dans le fait d''apprendre, c''est que personne ne peut te l''enlever.');
+     'Ce qui est beau dans le fait d''apprendre, c''est que personne ne peut te l''enlever.'),
+    ('Education is the most powerful weapon which you can use to change the world.', 'fr',
+     'L''éducation est l''arme la plus puissante que l''on puisse utiliser pour changer le monde.');
