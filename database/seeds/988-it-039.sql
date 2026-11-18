@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between try and triumph is just a little umph!', 'it',
      'La differenza tra provare e trionfare è solo un pizzico di grinta in più!'),
     ('Perseverance is failing nineteen times and succeeding the twentieth.', 'it',
-     'La perseveranza è fallire diciannove volte e riuscire alla ventesima.');
+     'La perseveranza è fallire diciannove volte e riuscire alla ventesima.'),
+    ('Persistence is to the character of man as carbon is to steel.', 'it',
+     'La perseveranza sta al carattere dell''uomo come il carbonio sta all''acciaio.');
