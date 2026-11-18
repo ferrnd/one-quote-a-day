@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rivers know this: there is no hurry. We shall get there some day.', 'nl',
      'Rivieren weten het: er is geen haast. Ooit komen we er wel.'),
     ('Perseverance is not a long race; it is many short races one after the other.', 'nl',
-     'Doorzettingsvermogen is geen lange race; het zijn vele korte races, de een na de ander.');
+     'Doorzettingsvermogen is geen lange race; het zijn vele korte races, de een na de ander.'),
+    ('A river cuts through rock not because of its power, but because of its persistence.', 'nl',
+     'Een rivier snijdt door de rots, niet door haar kracht, maar door haar volharding.');
