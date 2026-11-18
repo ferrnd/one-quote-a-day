@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t connect the dots looking forward; you can only connect them looking backwards.', 'de',
      'Man kann die Punkte nicht verbinden, wenn man nach vorn schaut; man kann sie nur im Rückblick verbinden.'),
     ('Sometimes life hits you in the head with a brick. Don''t lose faith.', 'de',
-     'Manchmal trifft dich das Leben mit einem Ziegelstein am Kopf. Verliere nicht den Glauben.');
+     'Manchmal trifft dich das Leben mit einem Ziegelstein am Kopf. Verliere nicht den Glauben.'),
+    ('When something is important enough, you do it even if the odds are not in your favor.', 'de',
+     'Wenn etwas wichtig genug ist, tut man es, auch wenn die Chancen nicht auf deiner Seite stehen.');
