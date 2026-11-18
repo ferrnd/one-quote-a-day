@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard work beats talent when talent doesn''t work hard.', 'es',
      'El trabajo duro vence al talento cuando el talento no trabaja duro.'),
     ('Small disciplines repeated with consistency every day lead to great achievements gained slowly over time.', 'es',
-     'Pequeñas disciplinas repetidas con constancia cada día conducen a grandes logros alcanzados poco a poco.');
+     'Pequeñas disciplinas repetidas con constancia cada día conducen a grandes logros alcanzados poco a poco.'),
+    ('You will never change your life until you change something you do daily.', 'es',
+     'Nunca cambiarás tu vida hasta que cambies algo que haces a diario.');
