@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You may have to fight a battle more than once to win it.', 'nl',
      'Soms moet je een strijd meer dan eens voeren om hem te winnen.'),
     ('Failure isn''t fatal, but failure to change might be.', 'nl',
-     'Falen is niet fataal, maar weigeren te veranderen kan dat wel zijn.');
+     'Falen is niet fataal, maar weigeren te veranderen kan dat wel zijn.'),
+    ('If you learn from defeat, you haven''t really lost.', 'nl',
+     'Als je leert van een nederlaag, heb je niet echt verloren.');
