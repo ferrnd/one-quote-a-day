@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Waste no more time arguing about what a good man should be. Be one.', 'it',
      'Non perdere altro tempo a discutere su come dovrebbe essere un uomo buono. Siilo.'),
     ('Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.', 'it',
-     'Sii come il promontorio contro cui le onde si infrangono di continuo: resta saldo e placa la furia delle acque intorno a sé.');
+     'Sii come il promontorio contro cui le onde si infrangono di continuo: resta saldo e placa la furia delle acque intorno a sé.'),
+    ('Mighty oaks from little acorns grow.', 'it',
+     'Da piccole ghiande nascono grandi querce.');
