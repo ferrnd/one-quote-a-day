@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dreams are the touchstones of our characters.', 'pt-BR',
      'Os sonhos são a pedra de toque do nosso caráter.'),
     ('Don''t let anyone rob you of your imagination, your creativity, or your curiosity.', 'pt-BR',
-     'Não deixe ninguém roubar a sua imaginação, a sua criatividade ou a sua curiosidade.');
+     'Não deixe ninguém roubar a sua imaginação, a sua criatividade ou a sua curiosidade.'),
+    ('Never let your memories be greater than your dreams.', 'pt-BR',
+     'Nunca deixe que suas lembranças sejam maiores que seus sonhos.');
