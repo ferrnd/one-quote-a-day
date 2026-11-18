@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep your face to the sunshine and you cannot see a shadow.', 'nl',
      'Houd je gezicht naar de zon en je ziet geen schaduw.'),
     ('One day, in retrospect, the years of struggle will strike you as the most beautiful.', 'nl',
-     'Op een dag, achteraf gezien, zullen de jaren van strijd je de mooiste toeschijnen.');
+     'Op een dag, achteraf gezien, zullen de jaren van strijd je de mooiste toeschijnen.'),
+    ('In the end, everything will be okay. If it''s not okay, it''s not yet the end.', 'nl',
+     'Uiteindelijk komt alles goed. Als het nog niet goed is, is het nog niet het einde.');
