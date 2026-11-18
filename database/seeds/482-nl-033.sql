@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Stay hungry, stay foolish.', 'nl',
      'Blijf hongerig, blijf dwaas.'),
     ('Your time is limited, so don''t waste it living someone else''s life.', 'nl',
-     'Je tijd is beperkt, dus verspil hem niet door het leven van een ander te leiden.');
+     'Je tijd is beperkt, dus verspil hem niet door het leven van een ander te leiden.'),
+    ('If you are working on something exciting that you really care about, you don''t have to be pushed. The vision pulls you.', 'nl',
+     'Als je werkt aan iets spannends waar je echt om geeft, hoef je niet geduwd te worden. De visie trekt je.');
