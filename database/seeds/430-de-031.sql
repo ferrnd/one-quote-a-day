@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Endure, and preserve yourselves for better things.', 'de',
      'Haltet aus und bewahrt euch für bessere Zeiten.'),
     ('Bear up, my heart; you have endured worse than this.', 'de',
-     'Halte aus, mein Herz; du hast schon Schlimmeres ertragen.');
+     'Halte aus, mein Herz; du hast schon Schlimmeres ertragen.'),
+    ('This too shall pass.', 'de',
+     'Auch das geht vorüber.');
