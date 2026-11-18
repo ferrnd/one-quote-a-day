@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If there is no struggle, there is no progress.', 'de',
      'Ohne Kampf gibt es keinen Fortschritt.'),
     ('Be the heroine of your life, not the victim.', 'de',
-     'Sei die Heldin deines Lebens, nicht das Opfer.');
+     'Sei die Heldin deines Lebens, nicht das Opfer.'),
+    ('Stand up straight and realize who you are, that you tower over your circumstances.', 'de',
+     'Steh aufrecht und erkenne, wer du bist: Du überragst deine Umstände.');
