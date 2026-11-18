@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is necessary, and one cannot reap immediately where one has sown.', 'de',
      'Geduld ist nötig, und man kann nicht sofort ernten, wo man gesät hat.'),
     ('Wisely and slow; they stumble that run fast.', 'de',
-     'Weise und langsam; wer schnell läuft, stolpert.');
+     'Weise und langsam; wer schnell läuft, stolpert.'),
+    ('They also serve who only stand and wait.', 'de',
+     'Auch die dienen, die nur stehen und warten.');
