@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Today''s accomplishments were yesterday''s impossibilities.', 'pt-BR',
-     'As conquistas de hoje foram as impossibilidades de ontem.');
+     'As conquistas de hoje foram as impossibilidades de ontem.'),
+    ('Nothing is particularly hard if you divide it into small jobs.', 'pt-BR',
+     'Nada é especialmente difícil se você dividir em pequenas tarefas.');
