@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of adversity comes opportunity.', 'nl',
      'Uit tegenspoed komt kans voort.'),
     ('Adversity has ever been considered the state in which a man most easily becomes acquainted with himself.', 'nl',
-     'Tegenspoed is altijd beschouwd als de toestand waarin een mens zichzelf het makkelijkst leert kennen.');
+     'Tegenspoed is altijd beschouwd als de toestand waarin een mens zichzelf het makkelijkst leert kennen.'),
+    ('Bad times have a scientific value. These are occasions a good learner would not miss.', 'nl',
+     'Slechte tijden hebben een wetenschappelijke waarde. Het zijn gelegenheden die een goede leerling niet zou missen.');
