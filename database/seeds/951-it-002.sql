@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Effort only fully releases its reward after a person refuses to quit.', 'it',
      'Lo sforzo dà tutta la sua ricompensa solo quando una persona si rifiuta di mollare.'),
     ('Patience, persistence and perspiration make an unbeatable combination for success.', 'it',
-     'Pazienza, perseveranza e sudore formano una combinazione imbattibile per il successo.');
+     'Pazienza, perseveranza e sudore formano una combinazione imbattibile per il successo.'),
+    ('A champion is someone who gets up when he can''t.', 'it',
+     'Un campione è uno che si rialza quando non ce la fa più.');
