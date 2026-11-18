@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you want to lift yourself up, lift up someone else.', 'nl',
      'Als je jezelf wilt optillen, til dan iemand anders op.'),
     ('Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.', 'nl',
-     'Succes moet niet zozeer worden afgemeten aan de positie die iemand in het leven heeft bereikt, als wel aan de obstakels die hij heeft overwonnen.');
+     'Succes moet niet zozeer worden afgemeten aan de positie die iemand in het leven heeft bereikt, als wel aan de obstakels die hij heeft overwonnen.'),
+    ('Excellence is to do a common thing in an uncommon way.', 'nl',
+     'Uitmuntendheid is een gewoon ding op een ongewone manier doen.');
