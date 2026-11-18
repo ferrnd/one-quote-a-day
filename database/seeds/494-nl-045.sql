@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s what you learn after you know it all that counts.', 'nl',
      'Wat telt, is wat je leert nadat je denkt dat je alles al weet.'),
     ('Our business in life is not to get ahead of others, but to get ahead of ourselves.', 'nl',
-     'Onze taak in het leven is niet anderen voor te blijven, maar onszelf voor te blijven.');
+     'Onze taak in het leven is niet anderen voor te blijven, maar onszelf voor te blijven.'),
+    ('To be what we are, and to become what we are capable of becoming, is the only end of life.', 'nl',
+     'Zijn wat we zijn, en worden wat we kunnen worden, is het enige doel van het leven.');
