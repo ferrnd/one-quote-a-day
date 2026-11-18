@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s what you learn after you know it all that counts.', 'de',
      'Was zählt, ist, was du lernst, nachdem du glaubst, schon alles zu wissen.'),
     ('Our business in life is not to get ahead of others, but to get ahead of ourselves.', 'de',
-     'Unsere Aufgabe im Leben ist es nicht, anderen voraus zu sein, sondern uns selbst voraus zu sein.');
+     'Unsere Aufgabe im Leben ist es nicht, anderen voraus zu sein, sondern uns selbst voraus zu sein.'),
+    ('To be what we are, and to become what we are capable of becoming, is the only end of life.', 'de',
+     'Zu sein, was wir sind, und zu werden, was wir werden können, ist der einzige Zweck des Lebens.');
