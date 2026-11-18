@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Mistakes are always forgivable, if one has the courage to admit them.', 'pt-BR',
      'Os erros são sempre perdoáveis, se a pessoa tiver coragem de admiti-los.'),
     ('Do not fear mistakes. There are none.', 'pt-BR',
-     'Não tenha medo de errar. Não existem erros.');
+     'Não tenha medo de errar. Não existem erros.'),
+    ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'pt-BR',
+     'Quando você comete um erro, só deve fazer três coisas: admiti-lo, aprender com ele e não repeti-lo.');
