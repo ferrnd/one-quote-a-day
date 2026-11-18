@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To begin, begin.', 'de',
      'Um anzufangen, fang an.'),
     ('Pursue what catches your heart, not what catches your eyes.', 'de',
-     'Folge dem, was dein Herz bewegt, nicht dem, was deine Augen lockt.');
+     'Folge dem, was dein Herz bewegt, nicht dem, was deine Augen lockt.'),
+    ('Life is ten percent what happens to you and ninety percent how you respond to it.', 'de',
+     'Das Leben besteht zu zehn Prozent aus dem, was dir geschieht, und zu neunzig Prozent daraus, wie du darauf reagierst.');
