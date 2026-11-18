@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The tougher the battle, the sweeter the victory.', 'fr',
      'Plus la bataille est dure, plus la victoire est douce.'),
     ('Sweet are the uses of adversity.', 'fr',
-     'Doux sont les fruits de l''adversité.');
+     'Doux sont les fruits de l''adversité.'),
+    ('Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.', 'fr',
+     'Chaque adversité, chaque échec, chaque peine de cœur porte en lui la graine d''un bienfait égal ou supérieur.');
