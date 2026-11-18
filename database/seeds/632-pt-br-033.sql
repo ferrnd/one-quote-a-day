@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The price of excellence is discipline. The cost of mediocrity is disappointment.', 'pt-BR',
      'O preço da excelência é a disciplina. O custo da mediocridade é a decepção.'),
     ('Hard work beats talent when talent doesn''t work hard.', 'pt-BR',
-     'O esforço vence o talento quando o talento não se esforça.');
+     'O esforço vence o talento quando o talento não se esforça.'),
+    ('Small disciplines repeated with consistency every day lead to great achievements gained slowly over time.', 'pt-BR',
+     'Pequenas disciplinas, repetidas com constância todos os dias, levam a grandes conquistas alcançadas devagar, com o tempo.');
