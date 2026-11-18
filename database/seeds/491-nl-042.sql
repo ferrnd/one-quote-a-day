@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is always light, if only we''re brave enough to see it. If only we''re brave enough to be it.', 'nl',
      'Er is altijd licht, als we maar dapper genoeg zijn om het te zien. Als we maar dapper genoeg zijn om het te zijn.'),
     ('Hope is a verb with its shirtsleeves rolled up.', 'nl',
-     'Hoop is een werkwoord met opgestroopte mouwen.');
+     'Hoop is een werkwoord met opgestroopte mouwen.'),
+    ('To hope is to give yourself to the future.', 'nl',
+     'Hopen is jezelf aan de toekomst geven.');
