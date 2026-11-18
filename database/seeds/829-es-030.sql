@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('My mission in life is not merely to survive, but to thrive.', 'es',
      'Mi misión en la vida no es solo sobrevivir, sino prosperar.'),
     ('You can''t be hesitant about who you are.', 'es',
-     'No puedes dudar de quién eres.');
+     'No puedes dudar de quién eres.'),
+    ('The most common way people give up their power is by thinking they don''t have any.', 'es',
+     'La forma más común en que las personas renuncian a su poder es creer que no tienen ninguno.');
