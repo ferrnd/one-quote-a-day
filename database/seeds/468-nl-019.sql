@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life is like riding a bicycle. To keep your balance you must keep moving.', 'nl',
      'Het leven is als fietsen. Om je evenwicht te bewaren, moet je blijven bewegen.'),
     ('They always say time changes things, but you actually have to change them yourself.', 'nl',
-     'Men zegt altijd dat de tijd dingen verandert, maar eigenlijk moet je ze zelf veranderen.');
+     'Men zegt altijd dat de tijd dingen verandert, maar eigenlijk moet je ze zelf veranderen.'),
+    ('Progress is impossible without change, and those who cannot change their minds cannot change anything.', 'nl',
+     'Vooruitgang is onmogelijk zonder verandering, en wie zijn mening niet kan veranderen, kan niets veranderen.');
