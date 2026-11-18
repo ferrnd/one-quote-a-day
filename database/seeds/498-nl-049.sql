@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is nothing like a dream to create the future.', 'nl',
      'Er is niets zoals een droom om de toekomst te scheppen.'),
     ('The power of imagination makes us infinite.', 'nl',
-     'De kracht van de verbeelding maakt ons oneindig.');
+     'De kracht van de verbeelding maakt ons oneindig.'),
+    ('You see things; and you say ''Why?'' But I dream things that never were; and I say ''Why not?''', 'nl',
+     'Jij ziet dingen en zegt: ''Waarom?'' Maar ik droom van dingen die nooit hebben bestaan en zeg: ''Waarom niet?''');
