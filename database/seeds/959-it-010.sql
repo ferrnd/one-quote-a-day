@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Difficulties strengthen the mind, as labor does the body.', 'it',
      'Le difficoltà rafforzano la mente, come la fatica rafforza il corpo.'),
     ('Although no one can go back and make a brand new start, anyone can start from now and make a brand new ending.', 'it',
-     'Anche se nessuno può tornare indietro e ricominciare da capo, chiunque può cominciare da adesso e scrivere un nuovo finale.');
+     'Anche se nessuno può tornare indietro e ricominciare da capo, chiunque può cominciare da adesso e scrivere un nuovo finale.'),
+    ('I''ve been absolutely terrified every moment of my life and I''ve never let it keep me from doing a single thing I wanted to do.', 'it',
+     'Sono stata assolutamente terrorizzata in ogni momento della mia vita, e non ho mai lasciato che questo mi impedisse di fare una sola cosa che volessi fare.');
