@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity is the diamond dust Heaven polishes its jewels with.', 'nl',
      'Tegenspoed is het diamantstof waarmee de Hemel zijn juwelen polijst.'),
     ('Storms make trees take deeper roots.', 'nl',
-     'Stormen laten bomen diepere wortels schieten.');
+     'Stormen laten bomen diepere wortels schieten.'),
+    ('The way I see it, if you want the rainbow, you gotta put up with the rain.', 'nl',
+     'Zoals ik het zie: als je de regenboog wilt, moet je de regen op de koop toe nemen.');
