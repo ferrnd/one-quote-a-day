@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.', 'it',
      'La mente è luogo a sé, e in sé può fare un cielo dell''inferno, un inferno del cielo.'),
     ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'it',
-     'Se ti rendessi conto di quanto sono potenti i tuoi pensieri, non avresti mai più un pensiero negativo.');
+     'Se ti rendessi conto di quanto sono potenti i tuoi pensieri, non avresti mai più un pensiero negativo.'),
+    ('I am the greatest. I said that even before I knew I was.', 'it',
+     'Io sono il più grande. Lo dicevo ancora prima di sapere di esserlo.');
