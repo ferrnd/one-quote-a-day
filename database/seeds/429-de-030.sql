@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('How poor are they that have not patience! What wound did ever heal but by degrees?', 'de',
      'Wie arm sind die, die keine Geduld haben! Welche Wunde heilte je anders als nach und nach?'),
     ('Patience is the art of hoping.', 'de',
-     'Geduld ist die Kunst zu hoffen.');
+     'Geduld ist die Kunst zu hoffen.'),
+    ('A handful of patience is worth more than a bushel of brains.', 'de',
+     'Eine Handvoll Geduld ist mehr wert als ein Scheffel Verstand.');
