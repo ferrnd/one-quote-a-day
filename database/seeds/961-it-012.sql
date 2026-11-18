@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What oxygen is to the lungs, such is hope to the meaning of life.', 'it',
      'Ciò che l''ossigeno è per i polmoni, la speranza lo è per il senso della vita.'),
     ('The very least you can do in your life is figure out what you hope for.', 'it',
-     'Il minimo che puoi fare nella vita è capire che cosa speri.');
+     'Il minimo che puoi fare nella vita è capire che cosa speri.'),
+    ('There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something better tomorrow.', 'it',
+     'Non c''è medicina come la speranza, né incentivo così grande, né tonico così potente come l''attesa di qualcosa di meglio domani.');
