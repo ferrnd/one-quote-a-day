@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not discouraged, because every wrong attempt discarded is another step forward.', 'nl',
      'Ik ben niet ontmoedigd, want elke verkeerde poging die ik terzijde leg, is weer een stap vooruit.'),
     ('Never let the fear of striking out keep you from playing the game.', 'nl',
-     'Laat de angst om uit te gaan je nooit weerhouden het spel te spelen.');
+     'Laat de angst om uit te gaan je nooit weerhouden het spel te spelen.'),
+    ('If you can''t outplay them, outwork them.', 'nl',
+     'Als je niet beter kunt spelen dan zij, werk dan harder dan zij.');
