@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Imagination is more important than knowledge.', 'nl',
      'Verbeelding is belangrijker dan kennis.'),
     ('I have learned over the years that when one''s mind is made up, this diminishes fear.', 'nl',
-     'Ik heb door de jaren heen geleerd dat angst afneemt wanneer je eenmaal een besluit hebt genomen.');
+     'Ik heb door de jaren heen geleerd dat angst afneemt wanneer je eenmaal een besluit hebt genomen.'),
+    ('You must do the things you think you cannot do.', 'nl',
+     'Je moet de dingen doen waarvan je denkt dat je ze niet kunt.');
