@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What is now proved was once only imagined.', 'nl',
      'Wat nu bewezen is, was ooit alleen maar ingebeeld.'),
     ('Aim for the moon. If you miss, you may hit a star.', 'nl',
-     'Mik op de maan. Als je mist, raak je misschien een ster.');
+     'Mik op de maan. Als je mist, raak je misschien een ster.'),
+    ('Nothing happens unless first we dream.', 'nl',
+     'Niets gebeurt tenzij we eerst dromen.');
