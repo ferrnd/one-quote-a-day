@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the key to paradise.', 'nl',
      'Geduld is de sleutel tot het paradijs.'),
     ('Be patient toward all that is unsolved in your heart.', 'nl',
-     'Heb geduld met alles wat onopgelost is in je hart.');
+     'Heb geduld met alles wat onopgelost is in je hart.'),
+    ('No great thing is created suddenly.', 'nl',
+     'Niets groots ontstaat plotseling.');
