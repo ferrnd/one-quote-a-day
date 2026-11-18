@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We must accept finite disappointment, but never lose infinite hope.', 'nl',
      'We moeten eindige teleurstelling aanvaarden, maar nooit de oneindige hoop verliezen.'),
     ('Only in the darkness can you see the stars.', 'nl',
-     'Alleen in het donker kun je de sterren zien.');
+     'Alleen in het donker kun je de sterren zien.'),
+    ('Even the darkest night will end and the sun will rise.', 'nl',
+     'Zelfs de donkerste nacht zal eindigen, en de zon zal opkomen.');
