@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep your dreams alive. Understand to achieve anything requires faith and belief in yourself, vision, hard work, determination, and dedication.', 'pt-BR',
-     'Mantenha seus sonhos vivos. Entenda que conquistar qualquer coisa exige fé e confiança em si mesmo, visão, trabalho duro, determinação e dedicação.');
+     'Mantenha seus sonhos vivos. Entenda que conquistar qualquer coisa exige fé e confiança em si mesmo, visão, trabalho duro, determinação e dedicação.'),
+    ('If you can imagine it, you can achieve it.', 'pt-BR',
+     'Se você consegue imaginar, consegue realizar.');
