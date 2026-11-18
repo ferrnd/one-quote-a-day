@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing in this world can take the place of persistence.', 'pt-BR',
      'Nada neste mundo pode substituir a persistência.'),
     ('Victory belongs to the most persevering.', 'pt-BR',
-     'A vitória pertence aos mais perseverantes.');
+     'A vitória pertence aos mais perseverantes.'),
+    ('With ordinary talent and extraordinary perseverance, all things are attainable.', 'pt-BR',
+     'Com talento comum e perseverança extraordinária, tudo é possível.');
