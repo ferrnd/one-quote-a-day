@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s the repetition of affirmations that leads to belief.', 'nl',
      'Het is de herhaling van bevestigingen die tot geloof leidt.'),
     ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'nl',
-     'Als mijn geest het kan bedenken en mijn hart het kan geloven, dan kan ik het bereiken.');
+     'Als mijn geest het kan bedenken en mijn hart het kan geloven, dan kan ik het bereiken.'),
+    ('Confidence is contagious. So is lack of confidence.', 'nl',
+     'Zelfvertrouwen is besmettelijk. Gebrek aan zelfvertrouwen ook.');
