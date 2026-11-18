@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To live without hope is to cease to live.', 'fr',
      'Vivre sans espoir, c''est cesser de vivre.'),
     ('In all things it is better to hope than to despair.', 'fr',
-     'En toute chose, il vaut mieux espérer que désespérer.');
+     'En toute chose, il vaut mieux espérer que désespérer.'),
+    ('Hope is important because it can make the present moment less difficult to bear.', 'fr',
+     'L''espoir est important car il peut rendre le moment présent moins difficile à supporter.');
