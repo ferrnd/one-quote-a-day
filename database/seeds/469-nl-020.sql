@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Becoming is better than being.', 'nl',
      'Worden is beter dan zijn.'),
     ('Not everything that is faced can be changed, but nothing can be changed until it is faced.', 'nl',
-     'Niet alles wat je onder ogen ziet, kan veranderd worden, maar niets kan veranderd worden zolang je het niet onder ogen ziet.');
+     'Niet alles wat je onder ogen ziet, kan veranderd worden, maar niets kan veranderd worden zolang je het niet onder ogen ziet.'),
+    ('Your present circumstances don''t determine where you can go; they merely determine where you start.', 'nl',
+     'Je huidige omstandigheden bepalen niet waar je naartoe kunt; ze bepalen alleen waar je begint.');
