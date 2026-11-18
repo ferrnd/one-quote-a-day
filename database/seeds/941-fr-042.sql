@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Turn your scars into stars.', 'fr',
      'Transforme tes cicatrices en étoiles.'),
     ('Cancer can take away all of my physical abilities. It cannot touch my mind, it cannot touch my heart, and it cannot touch my soul.', 'fr',
-     'Le cancer peut m''enlever toutes mes capacités physiques. Il ne peut pas toucher mon esprit, il ne peut pas toucher mon cœur, il ne peut pas toucher mon âme.');
+     'Le cancer peut m''enlever toutes mes capacités physiques. Il ne peut pas toucher mon esprit, il ne peut pas toucher mon cœur, il ne peut pas toucher mon âme.'),
+    ('Be water, my friend.', 'fr',
+     'Sois l''eau, mon ami.');
