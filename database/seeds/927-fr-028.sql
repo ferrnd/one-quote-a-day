@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Believe in yourself! Have faith in your abilities!', 'fr',
      'Crois en toi ! Aie foi en tes capacités !'),
     ('You must expect great things of yourself before you can do them.', 'fr',
-     'Tu dois attendre de grandes choses de toi avant de pouvoir les accomplir.');
+     'Tu dois attendre de grandes choses de toi avant de pouvoir les accomplir.'),
+    ('I attribute my success to this: I never gave or took any excuse.', 'fr',
+     'J''attribue mon succès à ceci : je n''ai jamais donné ni accepté d''excuse.');
