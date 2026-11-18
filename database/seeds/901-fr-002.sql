@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Persistence can change failure into extraordinary achievement.', 'fr',
      'La persévérance peut transformer l''échec en une réussite extraordinaire.'),
     ('He conquers who endures.', 'fr',
-     'Celui qui endure triomphe.');
+     'Celui qui endure triomphe.'),
+    ('Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield.', 'fr',
+     'L''eau est fluide, douce et souple. Mais l''eau use la roche, qui est rigide et ne peut céder.');
