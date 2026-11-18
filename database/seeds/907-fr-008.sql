@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You always pass failure on your way to success.', 'fr',
      'Sur le chemin du succès, on passe toujours par l''échec.'),
     ('Failure is unimportant. It takes courage to make a fool of yourself.', 'fr',
-     'L''échec n''a pas d''importance. Il faut du courage pour se ridiculiser.');
+     'L''échec n''a pas d''importance. Il faut du courage pour se ridiculiser.'),
+    ('What is defeat? Nothing but education; nothing but the first step to something better.', 'fr',
+     'Qu''est-ce que la défaite ? Rien d''autre qu''une leçon ; rien d''autre que le premier pas vers quelque chose de meilleur.');
