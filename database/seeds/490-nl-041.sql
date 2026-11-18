@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not fear mistakes. There are none.', 'nl',
      'Wees niet bang voor fouten. Ze bestaan niet.'),
     ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'nl',
-     'Als je een fout maakt, zijn er maar drie dingen die je moet doen: hem toegeven, ervan leren en hem niet herhalen.');
+     'Als je een fout maakt, zijn er maar drie dingen die je moet doen: hem toegeven, ervan leren en hem niet herhalen.'),
+    ('Failure is a detour, not a dead-end street.', 'nl',
+     'Falen is een omweg, geen doodlopende straat.');
