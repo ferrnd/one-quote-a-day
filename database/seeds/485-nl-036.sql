@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You''re off to great places! Today is your day! Your mountain is waiting, so get on your way!', 'nl',
      'Je gaat naar geweldige plekken! Vandaag is jouw dag! Je berg wacht, dus ga op weg!'),
     ('You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.', 'nl',
-     'Je hebt hersens in je hoofd. Je hebt voeten in je schoenen. Je kunt elke richting op die je kiest.');
+     'Je hebt hersens in je hoofd. Je hebt voeten in je schoenen. Je kunt elke richting op die je kiest.'),
+    ('Unless someone like you cares a whole awful lot, nothing is going to get better. It''s not.', 'nl',
+     'Tenzij iemand zoals jij er ontzettend veel om geeft, wordt niets beter. Echt niet.');
