@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All human wisdom is summed up in two words: wait and hope.', 'it',
      'Tutta la saggezza umana si riassume in due parole: attendere e sperare.'),
     ('The key to everything is patience. You get the chicken by hatching the egg, not by smashing it.', 'it',
-     'La chiave di tutto è la pazienza. Il pulcino si ottiene covando l''uovo, non rompendolo.');
+     'La chiave di tutto è la pazienza. Il pulcino si ottiene covando l''uovo, non rompendolo.'),
+    ('Patience and time do more than strength or passion.', 'it',
+     'La pazienza e il tempo fanno più della forza o della passione.');
