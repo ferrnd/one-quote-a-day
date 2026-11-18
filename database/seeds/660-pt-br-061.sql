@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am extraordinarily patient, provided I get my own way in the end.', 'pt-BR',
      'Sou extraordinariamente paciente, desde que, no fim, as coisas sejam do meu jeito.'),
     ('If you are patient in one moment of anger, you will escape a hundred days of sorrow.', 'pt-BR',
-     'Se você tiver paciência em um momento de raiva, escapará de cem dias de tristeza.');
+     'Se você tiver paciência em um momento de raiva, escapará de cem dias de tristeza.'),
+    ('Patience is the support of weakness; impatience the ruin of strength.', 'pt-BR',
+     'A paciência é o apoio da fraqueza; a impaciência, a ruína da força.');
