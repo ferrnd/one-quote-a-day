@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Act as if what you do makes a difference. It does.', 'nl',
      'Handel alsof wat je doet een verschil maakt. Dat doet het.'),
     ('What we fear doing most is usually what we most need to do.', 'nl',
-     'Waar we het meest bang voor zijn om te doen, is meestal wat we het hardst nodig hebben.');
+     'Waar we het meest bang voor zijn om te doen, is meestal wat we het hardst nodig hebben.'),
+    ('A comfort zone is a beautiful place, but nothing ever grows there.', 'nl',
+     'Een comfortzone is een prachtige plek, maar er groeit nooit iets.');
