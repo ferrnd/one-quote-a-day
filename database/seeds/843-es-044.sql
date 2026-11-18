@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Challenges are what make life interesting and overcoming them is what makes life meaningful.', 'es',
      'Los desafíos hacen interesante la vida, y superarlos es lo que le da sentido.'),
     ('Adversity is the diamond dust Heaven polishes its jewels with.', 'es',
-     'La adversidad es el polvo de diamante con el que el Cielo pule sus joyas.');
+     'La adversidad es el polvo de diamante con el que el Cielo pule sus joyas.'),
+    ('Storms make trees take deeper roots.', 'es',
+     'Las tormentas hacen que los árboles echen raíces más profundas.');
