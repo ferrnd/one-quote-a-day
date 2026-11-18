@@ -24,7 +24,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,700;1,400&amp;display=swap">
-  <link rel="stylesheet" href="styles.css?v=91e5c3caaefc">
+  <link rel="stylesheet" href="styles.css?v=74f744e2263d">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="manifest" href="manifest.webmanifest">
 </head>
@@ -51,28 +51,71 @@
       <path d="M5.5 12.5v6a2 2 0 0 0 2 2h9a2 2 0 0 0 2-2v-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     </svg>
   </button>
-  <button class="info-button" id="info-button" type="button" aria-haspopup="dialog" aria-controls="info" aria-label="How this site works">!</button>
-  <dialog class="archive info" id="info" aria-labelledby="info-title">
-    <header class="archive-head">
-      <h2 id="info-title">How it works</h2>
-      <button class="archive-close" id="info-close" type="button" aria-label="Close">&times;</button>
-    </header>
-    <ol class="archive-list info-list">
+  <button class="settings-button" id="settings-button" type="button" aria-haspopup="dialog" aria-controls="panel" aria-label="Settings">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+  </button>
+  <dialog class="archive panel" id="panel" aria-labelledby="panel-title">
+    <nav class="panel-rail" role="tablist" aria-orientation="vertical" aria-label="Sections">
+      <button class="rail-tab" type="button" role="tab" id="tab-settings" aria-controls="sec-settings" aria-selected="true" aria-label="Settings" title="Settings" data-title="Settings"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg></button>
+      <button class="rail-tab" type="button" role="tab" id="tab-help" aria-controls="sec-help" aria-selected="false" tabindex="-1" aria-label="How it works" title="How it works" data-title="How it works"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v6"/><path d="M12 16.75v.01" stroke-width="2.4"/></svg></button>
+      <button class="rail-tab" type="button" role="tab" id="tab-share" aria-controls="sec-share" aria-selected="false" tabindex="-1" aria-label="Share" title="Share" data-title="Share"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="18" cy="5.5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="18.5" r="2.5"/><path d="m8.2 10.8 7.6-4.1M8.2 13.2l7.6 4.1"/></svg></button>
+      <button class="rail-tab" type="button" role="tab" id="tab-credits" aria-controls="sec-credits" aria-selected="false" tabindex="-1" aria-label="Credits" title="Credits" data-title="Credits"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 20s-7.5-4.6-7.5-10.2A4.3 4.3 0 0 1 12 7.1a4.3 4.3 0 0 1 7.5 2.7C19.5 15.4 12 20 12 20z"/></svg></button>
+    </nav>
+    <div class="panel-body">
+      <header class="archive-head">
+        <h2 id="panel-title">Settings</h2>
+        <button class="archive-close" id="panel-close" type="button" aria-label="Close">&times;</button>
+      </header>
+      <section class="archive-list panel-section" id="sec-settings" role="tabpanel" aria-labelledby="tab-settings">
+        <ul class="settings">
+        <li>
+          <p class="archive-meta" id="pref-theme">Theme</p>
+          <div class="choices" role="group" aria-labelledby="pref-theme" data-pref="theme"><button type="button" data-value="auto" aria-pressed="false">Auto</button><button type="button" data-value="light" aria-pressed="false">Light</button><button type="button" data-value="dark" aria-pressed="false">Dark</button></div>
+          <p class="setting-note">Auto turns the page dark from 9 p.m. to 6 a.m.</p>
+        </li>
+        <li>
+          <p class="archive-meta" id="pref-size">Text size</p>
+          <div class="choices" role="group" aria-labelledby="pref-size" data-pref="size"><button type="button" data-value="s" aria-pressed="false">Small</button><button type="button" data-value="m" aria-pressed="false">Medium</button><button type="button" data-value="l" aria-pressed="false">Large</button></div>
+        </li>
+        <li>
+          <p class="archive-meta" id="pref-motion">Animations</p>
+          <div class="choices" role="group" aria-labelledby="pref-motion" data-pref="motion"><button type="button" data-value="on" aria-pressed="false">On</button><button type="button" data-value="off" aria-pressed="false">Off</button></div>
+          <p class="setting-note">Off swaps quotes instantly, without sliding.</p>
+        </li>
+        <li>
+          <p class="archive-meta" id="pref-counter">Day counter</p>
+          <div class="choices" role="group" aria-labelledby="pref-counter" data-pref="counter"><button type="button" data-value="show" aria-pressed="false">Show</button><button type="button" data-value="hide" aria-pressed="false">Hide</button></div>
+        </li>
+        <li>
+          <p class="archive-meta" id="pref-copy">Copy</p>
+          <div class="choices" role="group" aria-labelledby="pref-copy" data-pref="copy"><button type="button" data-value="author" aria-pressed="false">With author</button><button type="button" data-value="text" aria-pressed="false">Quote only</button></div>
+          <p class="setting-note">What a click on the quote puts on your clipboard.</p>
+        </li>
+        <li>
+          <p class="archive-meta" id="pref-search">Search with</p>
+          <div class="choices" role="group" aria-labelledby="pref-search" data-pref="search"><button type="button" data-value="google" aria-pressed="false">Google</button><button type="button" data-value="duckduckgo" aria-pressed="false">DuckDuckGo</button><button type="button" data-value="bing" aria-pressed="false">Bing</button></div>
+          <p class="setting-note">Used when you right-click the quote or the author.</p>
+        </li>
+        </ul>
+        <p class="setting-foot">Saved on this device only.</p>
+      </section>
+      <section class="archive-list panel-section" id="sec-help" role="tabpanel" aria-labelledby="tab-help" hidden>
+        <ol class="info-list">
       <li>
         <p class="archive-meta">One quote a day</p>
         <p class="info-text">A new quote about overcoming appears every day at midnight, in your own time zone. The old one drops away and the new one comes down from above. <span id="info-next"></span></p>
       </li>
       <li>
         <p class="archive-meta">Copy</p>
-        <p class="info-text">Click or tap the quote to copy it, together with its author.</p>
+        <p class="info-text">Click or tap the quote to copy it, together with its author. You can copy the quote alone in Settings.</p>
       </li>
       <li>
         <p class="archive-meta">Search</p>
-        <p class="info-text">Right-click the quote to search for it on the web, or right-click the author to look them up.</p>
+        <p class="info-text">Right-click the quote to search for it on the web, or right-click the author to look them up. Pick the search engine in Settings.</p>
       </li>
       <li>
         <p class="archive-meta">Share</p>
-        <p class="info-text">The arrow next to this button turns the quote on screen into a square image. On a phone it opens the share sheet; on a computer it saves the picture.</p>
+        <p class="info-text">The arrow beside the gear turns the quote on screen into a square image: on a phone it opens the share sheet, on a computer it saves the picture. The Share tab here sends it to WhatsApp, Facebook, X, Telegram, Discord or your Instagram story.</p>
       </li>
       <li>
         <p class="archive-meta">Past days</p>
@@ -84,7 +127,7 @@
       </li>
       <li>
         <p class="archive-meta">Night</p>
-        <p class="info-text">From 9 p.m. to 6 a.m. the page turns white on black, and back again in the morning.</p>
+        <p class="info-text">From 9 p.m. to 6 a.m. the page turns white on black, and back again in the morning. Settings can keep it light or dark all the time.</p>
       </li>
       <li>
         <p class="archive-meta">Offline</p>
@@ -94,20 +137,35 @@
         <p class="archive-meta">Underneath</p>
         <p class="info-text">Every quote, and the calendar that picks them, lives inside a WebAssembly module written by hand: <span id="info-stats">hundreds of quotes</span>, scheduled for the next four hundred years.</p>
       </li>
-      <li class="info-credits">
-        <footer>
-          <p class="archive-meta">Credits</p>
-          <dl class="credits">
-            <div><dt>Made by</dt><dd><a href="https://github.com/ferrnd" rel="noopener noreferrer" target="_blank">ferrnd</a></dd></div>
-            <div><dt>Typeset in</dt><dd>Cormorant Garamond, by Christian Thalmann</dd></div>
-            <div><dt>Engine</dt><dd>Hand-written WebAssembly, SQLite and Python</dd></div>
-            <div><dt>Words</dt><dd>Every quote belongs to its author</dd></div>
-            <div><dt>Source</dt><dd><a href="https://github.com/ferrnd/quotes" rel="noopener noreferrer" target="_blank">github.com/ferrnd/quotes</a></dd></div>
-          </dl>
-          <p class="credits-sign">&copy; 2026 &middot; Since Day 1</p>
-        </footer>
-      </li>
-    </ol>
+        </ol>
+      </section>
+      <section class="archive-list panel-section" id="sec-share" role="tabpanel" aria-labelledby="tab-share" hidden>
+        <p class="info-text share-intro">Send the quote on screen, with a link back here.</p>
+        <ul class="share-list">
+          <li><button type="button" class="share-target" data-share="whatsapp">WhatsApp</button></li>
+          <li><button type="button" class="share-target" data-share="facebook">Facebook</button></li>
+          <li><button type="button" class="share-target" data-share="x">X</button></li>
+          <li><button type="button" class="share-target" data-share="telegram">Telegram</button></li>
+          <li><button type="button" class="share-target" data-share="discord">Discord</button></li>
+          <li><button type="button" class="share-target" data-share="instagram">Instagram story</button></li>
+          <li><button type="button" class="share-target" data-share="email">Email</button></li>
+          <li><button type="button" class="share-target" data-share="link">Copy link</button></li>
+        </ul>
+        <p class="setting-note share-note">Discord has no share link, so its button copies a message ready to paste. Instagram stories need a picture: on a phone the share sheet opens with the image; on a computer it is saved for you to post.</p>
+      </section>
+      <section class="archive-list panel-section" id="sec-credits" role="tabpanel" aria-labelledby="tab-credits" hidden>
+        <div class="info-credits">
+        <dl class="credits">
+          <div><dt>Made by</dt><dd><a href="https://github.com/ferrnd" rel="noopener noreferrer" target="_blank">ferrnd</a></dd></div>
+          <div><dt>Typeset in</dt><dd>Cormorant Garamond, by Christian Thalmann</dd></div>
+          <div><dt>Engine</dt><dd>Hand-written WebAssembly, SQLite and Python</dd></div>
+          <div><dt>Words</dt><dd>Every quote belongs to its author</dd></div>
+          <div><dt>Source</dt><dd><a href="https://github.com/ferrnd/quotes" rel="noopener noreferrer" target="_blank">github.com/ferrnd/quotes</a></dd></div>
+        </dl>
+        <p class="credits-sign">&copy; 2026 &middot; Since Day 1</p>
+        </div>
+      </section>
+    </div>
   </dialog>
   <p class="toast" id="toast" role="status" aria-live="polite" data-visible="false"></p>
   <dialog class="archive" id="archive" aria-labelledby="archive-title">
@@ -117,6 +175,6 @@
     </header>
     <ol class="archive-list" id="archive-list"></ol>
   </dialog>
-  <script type="module" src="app.js?v=91e5c3caaefc"></script>
+  <script type="module" src="app.js?v=74f744e2263d"></script>
 </body>
 </html>

@@ -220,10 +220,10 @@ main {
   opacity: 1;
 }
 
-/* ---------------------------------------------------------- info button -- */
+/* ------------------------------------------------------ settings button -- */
 /* Mirrors the day counter: same gap to the left and bottom edges. */
 
-.info-button {
+.settings-button {
   position: fixed;
   left: 2rem;
   bottom: 2rem;
@@ -233,29 +233,33 @@ main {
   height: 1.6rem;
   padding: 0;
   border: 0;
-  border-radius: 999px;
-  background: var(--ink);
-  color: var(--paper);
+  background: none;
+  color: var(--ink);
   opacity: 0.4;
-  font: 700 1.05rem/1 var(--serif);
   cursor: pointer;
-  transition: opacity 300ms ease, background-color var(--theme-fade) ease, color var(--theme-fade) ease;
+  transition: opacity 300ms ease, transform 600ms cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
-.info-button:hover,
-.info-button:focus-visible {
+.settings-button svg {
+  width: 1.45rem;
+  height: 1.45rem;
+}
+
+.settings-button:hover,
+.settings-button:focus-visible {
   opacity: 0.85;
+  transform: rotate(45deg);
 }
 
-.info-button:focus-visible {
+.settings-button:focus-visible {
   outline: 0.0625rem solid var(--ink);
   outline-offset: 0.25rem;
 }
 
-.info-button::after {
+.settings-button::after {
   content: "";
   position: absolute;
-  inset: -0.9rem;
+  inset: -0.6rem;
 }
 
 /* --------------------------------------------------------- share button -- */
@@ -299,6 +303,244 @@ main {
   inset: -0.6rem;
 }
 
+/* ---------------------------------------------------------------- panel -- */
+/* Settings, help, share and credits share one card with a rail of tabs on
+ * the left. On narrow screens the rail moves to the top. */
+
+.panel {
+  width: min(46rem, calc(100vw - 2rem));
+  height: min(78vh, 40rem);
+}
+
+.archive.panel[open] {
+  flex-direction: row;
+}
+
+.panel-rail {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 1.5rem 0.7rem;
+  background: var(--hover);
+}
+
+.rail-tab {
+  display: grid;
+  place-items: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  padding: 0;
+  border: 0;
+  border-radius: 0.8rem;
+  background: none;
+  color: var(--ink);
+  opacity: 0.4;
+  cursor: pointer;
+  transition: opacity 200ms ease, background-color 200ms ease;
+}
+
+.rail-tab svg {
+  width: 1.3rem;
+  height: 1.3rem;
+}
+
+.rail-tab:hover {
+  opacity: 0.75;
+}
+
+.rail-tab[aria-selected="true"] {
+  opacity: 1;
+  background: var(--paper);
+  box-shadow: 0 0.0625rem 0.25rem rgb(0 0 0 / 0.08);
+}
+
+.rail-tab:focus-visible {
+  outline: 0.0625rem solid var(--ink);
+  outline-offset: 0.15rem;
+}
+
+.panel-body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.panel-section {
+  flex: 1;
+}
+
+.panel-section .info-credits {
+  text-align: center;
+}
+
+.panel-section[hidden] {
+  display: none;
+}
+
+/* ------------------------------------------------------------- settings -- */
+
+.settings {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.settings li {
+  padding: 1.1rem 0;
+  text-align: center;
+}
+
+.choices {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.2rem;
+  margin-top: 0.7rem;
+  padding: 0.25rem;
+  border-radius: 999px;
+  background: var(--hover);
+}
+
+.choices button {
+  padding: 0.55rem 0.95rem;
+  border: 0;
+  border-radius: 999px;
+  background: none;
+  color: var(--ink);
+  font: 500 0.68rem/1 var(--serif);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  opacity: 0.45;
+  cursor: pointer;
+  transition: opacity 200ms ease, background-color 200ms ease;
+}
+
+.choices button:hover {
+  opacity: 0.8;
+}
+
+.choices button[aria-pressed="true"] {
+  background: var(--paper);
+  opacity: 1;
+  box-shadow: 0 0.0625rem 0.25rem rgb(0 0 0 / 0.08);
+}
+
+.choices button:focus-visible,
+.share-target:focus-visible {
+  outline: 0.0625rem solid var(--ink);
+  outline-offset: 0.15rem;
+}
+
+.setting-note,
+.setting-foot {
+  margin: 0.6rem auto 0;
+  max-width: 24rem;
+  font-size: 0.9rem;
+  font-style: italic;
+  opacity: 0.5;
+}
+
+.setting-foot {
+  margin: 1rem auto 0.5rem;
+  text-align: center;
+}
+
+/* ---------------------------------------------------------------- share -- */
+
+.share-intro {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.share-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.5rem;
+  margin: 1.4rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.archive-list .share-list li {
+  padding: 0;
+}
+
+.share-target {
+  width: 100%;
+  padding: 1rem 0.5rem;
+  border: 0;
+  border-radius: 0.9rem;
+  background: var(--hover);
+  color: var(--ink);
+  font: 500 0.7rem/1 var(--serif);
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 200ms ease, transform 200ms ease;
+}
+
+.share-target:hover {
+  background: color-mix(in srgb, var(--ink) 9%, var(--paper));
+}
+
+.share-target:active {
+  transform: scale(0.98);
+}
+
+.share-note {
+  text-align: center;
+  margin-top: 1.2rem;
+}
+
+/* -------------------------------------------------------- text size pref -- */
+
+:root[data-size="s"] .quote p { font-size: clamp(1.35rem, 0.9rem + 2.15vw, 2.55rem); }
+:root[data-size="l"] .quote p { font-size: clamp(1.95rem, 1.3rem + 3.1vw, 3.7rem); }
+
+/* --------------------------------------------------------- counter pref -- */
+
+:root[data-counter="hide"] .day-counter { display: none; }
+
+/* ---------------------------------------------------------- motion pref -- */
+
+:root[data-motion="off"],
+:root[data-motion="off"] body,
+:root[data-motion="off"] .quote { transition: none; }
+
+:root[data-motion="off"] .archive[open],
+:root[data-motion="off"] .archive::backdrop { animation: none; }
+
+@media (max-aspect-ratio: 4/5) {
+  .panel {
+    height: min(84vh, 46rem);
+  }
+
+  .archive.panel[open] {
+    flex-direction: column;
+  }
+
+  .panel-rail {
+    flex-direction: row;
+    justify-content: center;
+    padding: 0.7rem;
+  }
+
+  .choices {
+    flex-wrap: nowrap;
+  }
+
+  .choices button {
+    padding: 0.55rem 0.7rem;
+    letter-spacing: 0.14em;
+  }
+
+  .archive-list.panel-section {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
 /* ------------------------------------------------------------ info card -- */
 
 .info-list li {
@@ -317,7 +559,7 @@ main {
 /* -------------------------------------------------------- info credits -- */
 /* A quiet footer at the end of the card: smaller, lighter, no rules. */
 
-.info-list li.info-credits {
+.info-credits {
   margin-top: 1.5rem;
   padding: 2rem 0 1.75rem; /* clear of the fade at the bottom of the card */
 }
