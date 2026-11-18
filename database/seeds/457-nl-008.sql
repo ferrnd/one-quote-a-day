@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.', 'nl',
      'Uit lijden zijn de sterkste zielen voortgekomen; de krachtigste karakters zijn getekend door littekens.'),
     ('The oak fought the wind and was broken, the willow bent when it must and survived.', 'nl',
-     'De eik vocht tegen de wind en brak; de wilg boog wanneer dat moest en overleefde.');
+     'De eik vocht tegen de wind en brak; de wilg boog wanneer dat moest en overleefde.'),
+    ('Although the world is full of suffering, it is also full of the overcoming of it.', 'nl',
+     'Hoewel de wereld vol lijden is, is ze ook vol van het overwinnen ervan.');
