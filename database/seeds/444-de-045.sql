@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In a gentle way, you can shake the world.', 'de',
      'Auf sanfte Weise kannst du die Welt erschüttern.'),
     ('Re-examine all you have been told; dismiss what insults your soul.', 'de',
-     'Prüfe alles, was man dir gesagt hat, aufs Neue; verwirf, was deine Seele beleidigt.');
+     'Prüfe alles, was man dir gesagt hat, aufs Neue; verwirf, was deine Seele beleidigt.'),
+    ('Change is the end result of all true learning.', 'de',
+     'Veränderung ist das Endergebnis allen wahren Lernens.');
