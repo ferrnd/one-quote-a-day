@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is how high you bounce when you hit bottom.', 'it',
      'Il successo è quanto in alto rimbalzi quando tocchi il fondo.'),
     ('Don''t let the fear of losing be greater than the excitement of winning.', 'it',
-     'Non lasciare che la paura di perdere sia più grande dell''emozione di vincere.');
+     'Non lasciare che la paura di perdere sia più grande dell''emozione di vincere.'),
+    ('We learn from failure, not from success!', 'it',
+     'Impariamo dal fallimento, non dal successo!');
