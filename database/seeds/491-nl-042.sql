@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Resilience is knowing that you are the only one that has the power and the responsibility to pick yourself up.', 'nl',
      'Veerkracht is weten dat alleen jij de macht en de verantwoordelijkheid hebt om jezelf op te rapen.'),
     ('Once you face your fear, nothing is ever as hard as you think.', 'nl',
-     'Als je je angst eenmaal onder ogen ziet, is niets zo moeilijk als je denkt.');
+     'Als je je angst eenmaal onder ogen ziet, is niets zo moeilijk als je denkt.'),
+    ('When life knocks you down, try to land on your back. Because if you can look up, you can get up.', 'nl',
+     'Als het leven je neerslaat, probeer dan op je rug te landen. Want als je omhoog kunt kijken, kun je opstaan.');
