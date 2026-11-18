@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.', 'nl',
      'Vrijheid is het enige waardige doel in het leven. Je wint haar door je niet druk te maken om wat buiten je macht ligt.'),
     ('Don''t explain your philosophy. Embody it.', 'nl',
-     'Leg je filosofie niet uit. Belichaam haar.');
+     'Leg je filosofie niet uit. Belichaam haar.'),
+    ('If you want to improve, be content to be thought foolish and stupid.', 'nl',
+     'Als je vooruit wilt, wees dan tevreden als men je dwaas en dom vindt.');
