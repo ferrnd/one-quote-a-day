@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do what you can, with what you have, where you are.', 'fr',
      'Fais ce que tu peux, avec ce que tu as, là où tu es.'),
     ('A year from now you may wish you had started today.', 'fr',
-     'Dans un an, tu regretteras peut-être de ne pas avoir commencé aujourd''hui.');
+     'Dans un an, tu regretteras peut-être de ne pas avoir commencé aujourd''hui.'),
+    ('Change your thoughts and you change your world.', 'fr',
+     'Change tes pensées et tu changeras ton monde.');
