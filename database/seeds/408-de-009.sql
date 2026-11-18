@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not pray for an easy life, pray for the strength to endure a difficult one.', 'de',
      'Bete nicht um ein leichtes Leben, bete um die Kraft, ein schweres zu ertragen.'),
     ('The human capacity for burden is like bamboo: far more flexible than you''d ever believe at first glance.', 'de',
-     'Die menschliche Fähigkeit, Lasten zu tragen, ist wie Bambus: viel biegsamer, als man auf den ersten Blick glauben würde.');
+     'Die menschliche Fähigkeit, Lasten zu tragen, ist wie Bambus: viel biegsamer, als man auf den ersten Blick glauben würde.'),
+    ('I can be changed by what happens to me. But I refuse to be reduced by it.', 'de',
+     'Was mir geschieht, kann mich verändern. Aber ich weigere mich, mich davon kleinmachen zu lassen.');
