@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You cannot run away from a weakness; you must some time fight it out or perish.', 'es',
      'No puedes huir de una debilidad; tarde o temprano debes enfrentarla hasta el final, o sucumbir.'),
     ('Do not go gentle into that good night. Rage, rage against the dying of the light.', 'es',
-     'No entres dócilmente en esa buena noche. Enfurécete, enfurécete contra la muerte de la luz.');
+     'No entres dócilmente en esa buena noche. Enfurécete, enfurécete contra la muerte de la luz.'),
+    ('Strength doesn''t come from what you can do. It comes from overcoming the things you once thought you couldn''t.', 'es',
+     'La fuerza no viene de lo que puedes hacer. Viene de superar las cosas que una vez creíste que no podías.');
