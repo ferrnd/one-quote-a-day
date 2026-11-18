@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The obstacle is the path.', 'es',
      'El obstáculo es el camino.'),
     ('The journey of a thousand miles begins with one step.', 'es',
-     'Un viaje de mil millas comienza con un paso.');
+     'Un viaje de mil millas comienza con un paso.'),
+    ('Action is the foundational key to all success.', 'es',
+     'La acción es la clave fundamental de todo éxito.');
