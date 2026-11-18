@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is our choices that show what we truly are, far more than our abilities.', 'fr',
      'Ce sont nos choix qui montrent ce que nous sommes vraiment, bien plus que nos capacités.'),
     ('Look up at the stars and not down at your feet.', 'fr',
-     'Regarde les étoiles, et non tes pieds.');
+     'Regarde les étoiles, et non tes pieds.'),
+    ('However difficult life may seem, there is always something you can do and succeed at.', 'fr',
+     'Aussi difficile que la vie puisse paraître, il y a toujours quelque chose que tu peux faire et réussir.');
