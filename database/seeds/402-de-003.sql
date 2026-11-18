@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is rightly esteemed the first of human qualities because it is the quality which guarantees all others.', 'de',
      'Mut gilt zu Recht als die erste aller menschlichen Eigenschaften, denn er ist die Eigenschaft, die alle anderen sichert.'),
     ('The brave man is not he who does not feel afraid, but he who conquers that fear.', 'de',
-     'Der Mutige ist nicht der, der keine Angst hat, sondern der, der diese Angst besiegt.');
+     'Der Mutige ist nicht der, der keine Angst hat, sondern der, der diese Angst besiegt.'),
+    ('Have the courage to follow your heart and intuition.', 'de',
+     'Habt den Mut, eurem Herzen und eurer Intuition zu folgen.');
