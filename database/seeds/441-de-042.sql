@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a verb with its shirtsleeves rolled up.', 'de',
      'Hoffnung ist ein Verb mit hochgekrempelten Ärmeln.'),
     ('To hope is to give yourself to the future.', 'de',
-     'Hoffen heißt, sich der Zukunft hinzugeben.');
+     'Hoffen heißt, sich der Zukunft hinzugeben.'),
+    ('Hope is not a lottery ticket you can sit on the sofa and clutch, feeling lucky. It is an axe you break down doors with in an emergency.', 'de',
+     'Hoffnung ist kein Lottoschein, den man auf dem Sofa umklammert und sich dabei glücklich fühlt. Sie ist eine Axt, mit der man im Notfall Türen einschlägt.');
