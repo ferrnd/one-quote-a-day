@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not afraid; I was born to do this.', 'de',
      'Ich habe keine Angst; ich bin dafür geboren.'),
     ('Self-control is strength. Right thought is mastery. Calmness is power.', 'de',
-     'Selbstbeherrschung ist Stärke. Richtiges Denken ist Meisterschaft. Ruhe ist Macht.');
+     'Selbstbeherrschung ist Stärke. Richtiges Denken ist Meisterschaft. Ruhe ist Macht.'),
+    ('The greatest weapon against stress is our ability to choose one thought over another.', 'de',
+     'Die größte Waffe gegen Stress ist unsere Fähigkeit, einen Gedanken einem anderen vorzuziehen.');
