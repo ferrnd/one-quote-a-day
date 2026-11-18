@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Habit is either the best of servants or the worst of masters.', 'fr',
      'L''habitude est soit le meilleur des serviteurs, soit le pire des maîtres.'),
     ('First we make our habits, then our habits make us.', 'fr',
-     'D''abord nous faisons nos habitudes, ensuite nos habitudes nous font.');
+     'D''abord nous faisons nos habitudes, ensuite nos habitudes nous font.'),
+    ('It is the start that stops most people.', 'fr',
+     'C''est le départ qui arrête la plupart des gens.');
