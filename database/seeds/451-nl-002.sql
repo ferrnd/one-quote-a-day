@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Persistence can change failure into extraordinary achievement.', 'nl',
      'Volharding kan een mislukking veranderen in een buitengewone prestatie.'),
     ('He conquers who endures.', 'nl',
-     'Wie volhardt, overwint.');
+     'Wie volhardt, overwint.'),
+    ('Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield.', 'nl',
+     'Water is vloeibaar, zacht en meegaand. Maar water slijt de rots, die star is en niet kan toegeven.');
