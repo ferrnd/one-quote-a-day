@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The harder the conflict, the more glorious the triumph.', 'pt-BR',
      'Quanto mais duro o conflito, mais glorioso o triunfo.'),
     ('Persistence guarantees that results are inevitable.', 'pt-BR',
-     'A persistência garante que os resultados sejam inevitáveis.');
+     'A persistência garante que os resultados sejam inevitáveis.'),
+    ('Courage doesn''t always roar. Sometimes courage is the quiet voice at the end of the day saying, I will try again tomorrow.', 'pt-BR',
+     'A coragem nem sempre ruge. Às vezes, a coragem é a voz baixinha no fim do dia dizendo: amanhã eu tento de novo.');
