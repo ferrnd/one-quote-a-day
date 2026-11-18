@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have not failed. I''ve just found 10,000 ways that won''t work.', 'nl',
      'Ik heb niet gefaald. Ik heb alleen 10.000 manieren gevonden die niet werken.'),
     ('Failure is simply the opportunity to begin again, this time more intelligently.', 'nl',
-     'Falen is slechts de kans om opnieuw te beginnen, dit keer slimmer.');
+     'Falen is slechts de kans om opnieuw te beginnen, dit keer slimmer.'),
+    ('Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.', 'nl',
+     'Altijd geprobeerd. Altijd gefaald. Geeft niet. Probeer opnieuw. Faal opnieuw. Faal beter.');
