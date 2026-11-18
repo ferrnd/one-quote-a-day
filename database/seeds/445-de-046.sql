@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every wall is a door.', 'de',
      'Jede Mauer ist eine Tür.'),
     ('Pain and suffering are always inevitable for a large intelligence and a deep heart.', 'de',
-     'Schmerz und Leid sind für einen großen Verstand und ein tiefes Herz immer unvermeidlich.');
+     'Schmerz und Leid sind für einen großen Verstand und ein tiefes Herz immer unvermeidlich.'),
+    ('Long is the way and hard, that out of hell leads up to light.', 'de',
+     'Lang und schwer ist der Weg, der aus der Hölle zum Licht führt.');
