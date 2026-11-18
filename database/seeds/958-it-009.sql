@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can be changed by what happens to me. But I refuse to be reduced by it.', 'it',
      'Ciò che mi accade può cambiarmi. Ma mi rifiuto di esserne sminuita.'),
     ('You may encounter many defeats, but you must not be defeated.', 'it',
-     'Potrai incontrare molte sconfitte, ma non devi lasciarti sconfiggere.');
+     'Potrai incontrare molte sconfitte, ma non devi lasciarti sconfiggere.'),
+    ('Still, like air, I''ll rise.', 'it',
+     'Eppure, come l''aria, io mi sollevo.');
