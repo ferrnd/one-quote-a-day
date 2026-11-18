@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without leaps of imagination or dreaming, we lose the excitement of possibilities.', 'nl',
      'Zonder sprongen van verbeelding of dromen verliezen we de opwinding van wat mogelijk is.'),
     ('Dreaming, after all, is a form of planning.', 'nl',
-     'Dromen is tenslotte een vorm van plannen.');
+     'Dromen is tenslotte een vorm van plannen.'),
+    ('You''re off to great places! Today is your day! Your mountain is waiting, so get on your way!', 'nl',
+     'Je gaat naar geweldige plekken! Vandaag is jouw dag! Je berg wacht, dus ga op weg!');
