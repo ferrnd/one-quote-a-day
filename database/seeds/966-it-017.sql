@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only place where success comes before work is in the dictionary.', 'it',
      'L''unico posto in cui il successo viene prima del lavoro è il vocabolario.'),
     ('Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.', 'it',
-     'Il talento costa meno del sale da cucina. Ciò che separa la persona di talento da quella di successo è tanto duro lavoro.');
+     'Il talento costa meno del sale da cucina. Ciò che separa la persona di talento da quella di successo è tanto duro lavoro.'),
+    ('Amateurs sit and wait for inspiration, the rest of us just get up and go to work.', 'it',
+     'I dilettanti si siedono ad aspettare l''ispirazione; noialtri ci alziamo e andiamo a lavorare.');
