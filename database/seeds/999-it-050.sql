@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Wherever there is a human being, there is an opportunity for a kindness.', 'it',
      'Ovunque ci sia un essere umano, c''è un''occasione per fare del bene.'),
     ('He suffers more than necessary, who suffers before it is necessary.', 'it',
-     'Soffre più del necessario chi soffre prima che sia necessario.');
+     'Soffre più del necessario chi soffre prima che sia necessario.'),
+    ('Ignorance is the cause of fear.', 'it',
+     'L''ignoranza è la causa della paura.');
