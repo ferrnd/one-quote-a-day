@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only thing we have to fear is fear itself.', 'it',
      'L''unica cosa di cui dobbiamo avere paura è la paura stessa.'),
     ('Courage is knowing what not to fear.', 'it',
-     'Il coraggio è sapere che cosa non temere.');
+     'Il coraggio è sapere che cosa non temere.'),
+    ('Feel the fear and do it anyway.', 'it',
+     'Senti la paura e fallo comunque.');
