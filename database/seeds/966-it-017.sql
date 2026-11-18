@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Amateurs sit and wait for inspiration, the rest of us just get up and go to work.', 'it',
      'I dilettanti si siedono ad aspettare l''ispirazione; noialtri ci alziamo e andiamo a lavorare.'),
     ('The more I practice, the luckier I get.', 'it',
-     'Più mi alleno, più sono fortunato.');
+     'Più mi alleno, più sono fortunato.'),
+    ('Do not wait to strike till the iron is hot; but make it hot by striking.', 'it',
+     'Non aspettare che il ferro sia caldo per batterlo; rendilo caldo battendolo.');
