@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Great things are not done by impulse, but by a series of small things brought together.', 'pt-BR',
      'Grandes coisas não são feitas por impulso, mas por uma série de pequenas coisas reunidas.'),
     ('Genius is one percent inspiration and ninety-nine percent perspiration.', 'pt-BR',
-     'O gênio é um por cento inspiração e noventa e nove por cento transpiração.');
+     'O gênio é um por cento inspiração e noventa e nove por cento transpiração.'),
+    ('The harder the conflict, the more glorious the triumph.', 'pt-BR',
+     'Quanto mais duro o conflito, mais glorioso o triunfo.');
