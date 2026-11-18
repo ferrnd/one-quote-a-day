@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Worry does not empty tomorrow of its sorrow, it empties today of its strength.', 'es',
      'La preocupación no vacía el mañana de su tristeza; vacía el hoy de su fuerza.'),
     ('Man is not worried by real problems so much as by his imagined anxieties about real problems.', 'es',
-     'Al hombre no le preocupan tanto los problemas reales como las ansiedades que imagina sobre ellos.');
+     'Al hombre no le preocupan tanto los problemas reales como las ansiedades que imagina sobre ellos.'),
+    ('If you think you are beaten, you are.', 'es',
+     'Si crees que estás vencido, lo estás.');
