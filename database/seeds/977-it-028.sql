@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Imagination is more important than knowledge.', 'it',
      'L''immaginazione è più importante della conoscenza.'),
     ('I have learned over the years that when one''s mind is made up, this diminishes fear.', 'it',
-     'Con gli anni ho imparato che, quando la mente è decisa, la paura diminuisce.');
+     'Con gli anni ho imparato che, quando la mente è decisa, la paura diminuisce.'),
+    ('You must do the things you think you cannot do.', 'it',
+     'Devi fare le cose che pensi di non poter fare.');
