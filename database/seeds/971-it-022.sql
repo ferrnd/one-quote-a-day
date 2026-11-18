@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.', 'it',
      'Le difficoltà servono a risvegliare, non a scoraggiare. Lo spirito umano è fatto per rafforzarsi nel conflitto.'),
     ('If you can''t fly then run, if you can''t run then walk, if you can''t walk then crawl, but whatever you do you have to keep moving forward.', 'it',
-     'Se non puoi volare, corri; se non puoi correre, cammina; se non puoi camminare, striscia; ma qualunque cosa tu faccia, continua ad andare avanti.');
+     'Se non puoi volare, corri; se non puoi correre, cammina; se non puoi camminare, striscia; ma qualunque cosa tu faccia, continua ad andare avanti.'),
+    ('The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.', 'it',
+     'La vera misura di un uomo non è dove si trova nei momenti di comodità e convenienza, ma dove si trova nei momenti di sfida e controversia.');
