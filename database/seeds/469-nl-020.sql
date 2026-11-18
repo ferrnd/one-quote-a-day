@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not everything that is faced can be changed, but nothing can be changed until it is faced.', 'nl',
      'Niet alles wat je onder ogen ziet, kan veranderd worden, maar niets kan veranderd worden zolang je het niet onder ogen ziet.'),
     ('Your present circumstances don''t determine where you can go; they merely determine where you start.', 'nl',
-     'Je huidige omstandigheden bepalen niet waar je naartoe kunt; ze bepalen alleen waar je begint.');
+     'Je huidige omstandigheden bepalen niet waar je naartoe kunt; ze bepalen alleen waar je begint.'),
+    ('One day you will wake up and there won''t be any more time to do the things you''ve always wanted. Do it now.', 'nl',
+     'Op een dag word je wakker en is er geen tijd meer om de dingen te doen die je altijd al wilde. Doe het nu.');
