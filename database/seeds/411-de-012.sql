@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.', 'de',
      'Die Sonne selbst ist schwach, wenn sie aufgeht, und gewinnt im Lauf des Tages an Kraft und Mut.'),
     ('Hope is the only thing stronger than fear.', 'de',
-     'Hoffnung ist das Einzige, was stärker ist als Angst.');
+     'Hoffnung ist das Einzige, was stärker ist als Angst.'),
+    ('Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.', 'de',
+     'Man kann das Glück selbst in den dunkelsten Zeiten finden, wenn man nur daran denkt, das Licht einzuschalten.');
