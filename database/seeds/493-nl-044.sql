@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You cannot run away from a weakness; you must some time fight it out or perish.', 'nl',
      'Je kunt niet wegvluchten voor een zwakte; je moet haar ooit uitvechten of ten onder gaan.'),
     ('Do not go gentle into that good night. Rage, rage against the dying of the light.', 'nl',
-     'Ga niet gedwee die goede nacht in. Woed, woed tegen het sterven van het licht.');
+     'Ga niet gedwee die goede nacht in. Woed, woed tegen het sterven van het licht.'),
+    ('Strength doesn''t come from what you can do. It comes from overcoming the things you once thought you couldn''t.', 'nl',
+     'Kracht komt niet van wat je kunt. Het komt van het overwinnen van de dingen waarvan je ooit dacht dat je ze niet kon.');
