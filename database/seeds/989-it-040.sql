@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'it',
      'È curioso che il coraggio fisico sia così comune nel mondo, e il coraggio morale così raro.'),
     ('The opposite of courage in our society is not cowardice, it is conformity.', 'it',
-     'Il contrario del coraggio, nella nostra società, non è la codardia, è il conformismo.');
+     'Il contrario del coraggio, nella nostra società, non è la codardia, è il conformismo.'),
+    ('Cowards die many times before their deaths; the valiant never taste of death but once.', 'it',
+     'I codardi muoiono molte volte prima della loro morte; i valorosi assaggiano la morte una volta sola.');
