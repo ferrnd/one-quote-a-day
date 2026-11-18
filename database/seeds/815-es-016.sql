@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not be embarrassed by your failures, learn from them and start again.', 'es',
      'No te avergüences de tus fracasos; aprende de ellos y vuelve a empezar.'),
     ('Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.', 'es',
-     'Del sufrimiento han surgido las almas más fuertes; los caracteres más sólidos están marcados por cicatrices.');
+     'Del sufrimiento han surgido las almas más fuertes; los caracteres más sólidos están marcados por cicatrices.'),
+    ('The oak fought the wind and was broken, the willow bent when it must and survived.', 'es',
+     'El roble luchó contra el viento y se quebró; el sauce se dobló cuando hizo falta y sobrevivió.');
