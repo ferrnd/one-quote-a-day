@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Becoming is better than being.', 'de',
      'Werden ist besser als Sein.'),
     ('Not everything that is faced can be changed, but nothing can be changed until it is faced.', 'de',
-     'Nicht alles, dem man sich stellt, lässt sich ändern, aber nichts lässt sich ändern, solange man sich ihm nicht stellt.');
+     'Nicht alles, dem man sich stellt, lässt sich ändern, aber nichts lässt sich ändern, solange man sich ihm nicht stellt.'),
+    ('Your present circumstances don''t determine where you can go; they merely determine where you start.', 'de',
+     'Deine jetzigen Umstände bestimmen nicht, wohin du gehen kannst; sie bestimmen nur, wo du anfängst.');
