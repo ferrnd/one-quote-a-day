@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The man who has confidence in himself gains the confidence of others.', 'pt-BR',
      'Quem confia em si mesmo conquista a confiança dos outros.'),
     ('Once you replace negative thoughts with positive ones, you''ll start having positive results.', 'pt-BR',
-     'Quando você troca os pensamentos negativos por positivos, começa a ter resultados positivos.');
+     'Quando você troca os pensamentos negativos por positivos, começa a ter resultados positivos.'),
+    ('When you change the way you look at things, the things you look at change.', 'pt-BR',
+     'Quando você muda a forma de olhar para as coisas, as coisas para as quais você olha mudam.');
