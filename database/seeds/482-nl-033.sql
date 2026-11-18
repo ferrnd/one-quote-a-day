@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Pain is temporary. Quitting lasts forever.', 'nl',
      'Pijn is tijdelijk. Opgeven is voor altijd.'),
     ('I have stood on a mountain of no''s for one yes.', 'nl',
-     'Ik heb op een berg van nee''s gestaan voor één ja.');
+     'Ik heb op een berg van nee''s gestaan voor één ja.'),
+    ('I had to make my own living and my own opportunity. But I made it!', 'nl',
+     'Ik moest mijn eigen kost en mijn eigen kansen verdienen. Maar het is me gelukt!');
