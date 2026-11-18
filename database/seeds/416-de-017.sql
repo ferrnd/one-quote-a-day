@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Excellence is the gradual result of always striving to do better.', 'de',
      'Exzellenz ist das allmähliche Ergebnis des ständigen Strebens, es besser zu machen.'),
     ('Champions keep playing until they get it right.', 'de',
-     'Champions spielen weiter, bis sie es richtig machen.');
+     'Champions spielen weiter, bis sie es richtig machen.'),
+    ('I hated every minute of training, but I said, don''t quit. Suffer now and live the rest of your life as a champion.', 'de',
+     'Ich habe jede Minute des Trainings gehasst, aber ich sagte mir: Gib nicht auf. Leide jetzt und lebe den Rest deines Lebens als Champion.');
