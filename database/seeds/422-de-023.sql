@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Calamity is the test of integrity.', 'de',
      'Das Unglück ist die Probe der Rechtschaffenheit.'),
     ('Prosperity makes friends, adversity tries them.', 'de',
-     'Wohlstand schafft Freunde, Unglück prüft sie.');
+     'Wohlstand schafft Freunde, Unglück prüft sie.'),
+    ('Anyone can hold the helm when the sea is calm.', 'de',
+     'Jeder kann das Steuer halten, wenn die See ruhig ist.');
