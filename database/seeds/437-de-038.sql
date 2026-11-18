@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The years teach much which the days never know.', 'de',
      'Die Jahre lehren viel, was die Tage nie wissen.'),
     ('Write it on your heart that every day is the best day in the year.', 'de',
-     'Schreib es dir ins Herz, dass jeder Tag der beste Tag des Jahres ist.');
+     'Schreib es dir ins Herz, dass jeder Tag der beste Tag des Jahres ist.'),
+    ('Life can only be understood backwards; but it must be lived forwards.', 'de',
+     'Das Leben kann nur rückwärts verstanden werden, aber es muss vorwärts gelebt werden.');
