@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rock bottom became the solid foundation on which I rebuilt my life.', 'nl',
      'Het dieptepunt werd het stevige fundament waarop ik mijn leven weer opbouwde.'),
     ('Do not judge me by my success, judge me by how many times I fell down and got back up again.', 'nl',
-     'Beoordeel me niet op mijn succes, maar op hoe vaak ik viel en weer opstond.');
+     'Beoordeel me niet op mijn succes, maar op hoe vaak ik viel en weer opstond.'),
+    ('Failure should be our teacher, not our undertaker.', 'nl',
+     'Falen moet onze leraar zijn, niet onze doodgraver.');
