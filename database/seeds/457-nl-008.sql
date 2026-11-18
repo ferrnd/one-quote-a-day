@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never confuse a single defeat with a final defeat.', 'nl',
      'Verwar nooit één nederlaag met de definitieve nederlaag.'),
     ('Do not be embarrassed by your failures, learn from them and start again.', 'nl',
-     'Schaam je niet voor je mislukkingen; leer ervan en begin opnieuw.');
+     'Schaam je niet voor je mislukkingen; leer ervan en begin opnieuw.'),
+    ('Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.', 'nl',
+     'Uit lijden zijn de sterkste zielen voortgekomen; de krachtigste karakters zijn getekend door littekens.');
