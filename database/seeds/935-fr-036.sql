@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Two roads diverged in a wood, and I, I took the one less traveled by, and that has made all the difference.', 'fr',
      'Deux routes divergeaient dans un bois, et moi, j''ai pris la moins fréquentée, et c''est ce qui a fait toute la différence.'),
     ('Not all those who wander are lost.', 'fr',
-     'Tous ceux qui errent ne sont pas perdus.');
+     'Tous ceux qui errent ne sont pas perdus.'),
+    ('I took a deep breath and listened to the old brag of my heart: I am, I am, I am.', 'fr',
+     'J''ai pris une grande inspiration et écouté la vieille vantardise de mon cœur : je suis, je suis, je suis.');
