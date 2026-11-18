@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hardships often prepare ordinary people for an extraordinary destiny.', 'nl',
      'Tegenslagen bereiden gewone mensen vaak voor op een buitengewone bestemming.'),
     ('Our wounds are often the openings into the best and most beautiful part of us.', 'nl',
-     'Onze wonden zijn vaak de openingen naar het beste en mooiste deel van onszelf.');
+     'Onze wonden zijn vaak de openingen naar het beste en mooiste deel van onszelf.'),
+    ('Resilience is accepting your new reality, even if it''s less good than the one you had before.', 'nl',
+     'Veerkracht is je nieuwe werkelijkheid aanvaarden, ook al is die minder goed dan wat je eerder had.');
