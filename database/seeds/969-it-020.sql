@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What we fear doing most is usually what we most need to do.', 'it',
      'Ciò che più temiamo di fare è di solito ciò che più abbiamo bisogno di fare.'),
     ('A comfort zone is a beautiful place, but nothing ever grows there.', 'it',
-     'La zona di comfort è un bel posto, ma lì non cresce mai niente.');
+     'La zona di comfort è un bel posto, ma lì non cresce mai niente.'),
+    ('I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail.', 'it',
+     'Non seguirò il sentiero dove porta; andrò dove non c''è sentiero e lascerò una traccia.');
