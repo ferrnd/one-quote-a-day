@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are what you believe yourself to be.', 'it',
      'Sei ciò che credi di essere.'),
     ('Believe and act as if it were impossible to fail.', 'it',
-     'Credi e agisci come se fosse impossibile fallire.');
+     'Credi e agisci come se fosse impossibile fallire.'),
+    ('The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.', 'it',
+     'La mente è luogo a sé, e in sé può fare un cielo dell''inferno, un inferno del cielo.');
