@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You must do the things you think you cannot do.', 'pt-BR',
      'Você precisa fazer as coisas que acha que não consegue fazer.'),
     ('Clear thinking requires courage rather than intelligence.', 'pt-BR',
-     'Pensar com clareza exige mais coragem do que inteligência.');
+     'Pensar com clareza exige mais coragem do que inteligência.'),
+    ('It''s not the load that breaks you down, it''s the way you carry it.', 'pt-BR',
+     'Não é o peso da carga que derruba você, mas o jeito como você a carrega.');
