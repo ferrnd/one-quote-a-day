@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The impediment to action advances action. What stands in the way becomes the way.', 'nl',
      'Het obstakel voor de daad brengt de daad vooruit. Wat in de weg staat, wordt de weg.'),
     ('If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.', 'nl',
-     'Als iets van buitenaf je kwelt, komt de pijn niet van het ding zelf, maar van je oordeel erover; en dat oordeel kun je op elk moment intrekken.');
+     'Als iets van buitenaf je kwelt, komt de pijn niet van het ding zelf, maar van je oordeel erover; en dat oordeel kun je op elk moment intrekken.'),
+    ('Waste no more time arguing about what a good man should be. Be one.', 'nl',
+     'Verspil geen tijd meer met discussiëren over hoe een goed mens moet zijn. Wees er een.');
