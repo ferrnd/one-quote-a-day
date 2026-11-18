@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Re-examine all you have been told; dismiss what insults your soul.', 'es',
      'Reexamina todo lo que te han dicho; descarta lo que ofende a tu alma.'),
     ('Change is the end result of all true learning.', 'es',
-     'El cambio es el resultado final de todo aprendizaje verdadero.');
+     'El cambio es el resultado final de todo aprendizaje verdadero.'),
+    ('Anyone who stops learning is old, whether at twenty or eighty.', 'es',
+     'Quien deja de aprender es viejo, tenga veinte u ochenta años.');
