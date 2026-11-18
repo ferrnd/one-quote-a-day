@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The world is round and the place which may seem like the end may also be only the beginning.', 'fr',
      'Le monde est rond, et ce qui peut sembler la fin n''est peut-être que le commencement.'),
     ('Faith is the bird that feels the light and sings when the dawn is still dark.', 'fr',
-     'La foi est l''oiseau qui sent la lumière et chante quand l''aube est encore sombre.');
+     'La foi est l''oiseau qui sent la lumière et chante quand l''aube est encore sombre.'),
+    ('However long the night, the dawn will break.', 'fr',
+     'Aussi longue que soit la nuit, le jour finira par se lever.');
