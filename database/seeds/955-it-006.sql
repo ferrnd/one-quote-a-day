@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.', 'it',
      'È impossibile vivere senza fallire in qualcosa, a meno di vivere con tanta cautela da non aver vissuto affatto.'),
     ('Rock bottom became the solid foundation on which I rebuilt my life.', 'it',
-     'Toccare il fondo è diventato la base solida su cui ho ricostruito la mia vita.');
+     'Toccare il fondo è diventato la base solida su cui ho ricostruito la mia vita.'),
+    ('Do not judge me by my success, judge me by how many times I fell down and got back up again.', 'it',
+     'Non giudicatemi dai miei successi, giudicatemi da quante volte sono caduto e mi sono rialzato.');
