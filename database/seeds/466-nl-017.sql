@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Amateurs sit and wait for inspiration, the rest of us just get up and go to work.', 'nl',
      'Amateurs zitten te wachten op inspiratie; de rest van ons staat gewoon op en gaat aan het werk.'),
     ('The more I practice, the luckier I get.', 'nl',
-     'Hoe meer ik oefen, hoe meer geluk ik heb.');
+     'Hoe meer ik oefen, hoe meer geluk ik heb.'),
+    ('Do not wait to strike till the iron is hot; but make it hot by striking.', 'nl',
+     'Wacht niet tot het ijzer heet is om te smeden; maak het heet door te smeden.');
