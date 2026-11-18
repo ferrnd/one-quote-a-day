@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard days are the best because that''s when champions are made.', 'nl',
      'Zware dagen zijn de beste, want dan worden kampioenen gemaakt.'),
     ('There is always light, if only we''re brave enough to see it. If only we''re brave enough to be it.', 'nl',
-     'Er is altijd licht, als we maar dapper genoeg zijn om het te zien. Als we maar dapper genoeg zijn om het te zijn.');
+     'Er is altijd licht, als we maar dapper genoeg zijn om het te zien. Als we maar dapper genoeg zijn om het te zijn.'),
+    ('Hope is a verb with its shirtsleeves rolled up.', 'nl',
+     'Hoop is een werkwoord met opgestroopte mouwen.');
