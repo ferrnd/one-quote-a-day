@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Mighty oaks from little acorns grow.', 'it',
      'Da piccole ghiande nascono grandi querce.'),
     ('It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.', 'it',
-     'Non è perché le cose sono difficili che non osiamo; è perché non osiamo che sono difficili.');
+     'Non è perché le cose sono difficili che non osiamo; è perché non osiamo che sono difficili.'),
+    ('We suffer more often in imagination than in reality.', 'it',
+     'Soffriamo più spesso nell''immaginazione che nella realtà.');
