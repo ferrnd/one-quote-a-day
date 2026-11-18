@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope smiles from the threshold of the year to come, whispering ''it will be happier''.', 'es',
      'La esperanza sonríe desde el umbral del año que viene y susurra: "será más feliz".'),
     ('To live without hope is to cease to live.', 'es',
-     'Vivir sin esperanza es dejar de vivir.');
+     'Vivir sin esperanza es dejar de vivir.'),
+    ('In all things it is better to hope than to despair.', 'es',
+     'En todas las cosas, es mejor tener esperanza que desesperar.');
