@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are working on something exciting that you really care about, you don''t have to be pushed. The vision pulls you.', 'nl',
      'Als je werkt aan iets spannends waar je echt om geeft, hoef je niet geduwd te worden. De visie trekt je.'),
     ('The only way to do great work is to love what you do.', 'nl',
-     'De enige manier om geweldig werk te leveren, is houden van wat je doet.');
+     'De enige manier om geweldig werk te leveren, is houden van wat je doet.'),
+    ('You can''t connect the dots looking forward; you can only connect them looking backwards.', 'nl',
+     'Je kunt de puntjes niet verbinden door vooruit te kijken; je kunt ze alleen verbinden door terug te kijken.');
