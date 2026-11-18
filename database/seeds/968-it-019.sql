@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.', 'it',
      'E arrivò il giorno in cui il rischio di restare chiusa in un bocciolo fu più doloroso del rischio di sbocciare.'),
     ('I am always doing that which I cannot do, in order that I may learn how to do it.', 'it',
-     'Faccio sempre ciò che non so fare, per imparare a farlo.');
+     'Faccio sempre ciò che non so fare, per imparare a farlo.'),
+    ('Unless you try to do something beyond what you have already mastered, you will never grow.', 'it',
+     'Se non provi a fare qualcosa al di là di ciò che già sai fare, non crescerai mai.');
