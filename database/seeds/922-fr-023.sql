@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard times don''t create heroes. It is during the hard times when the hero within us is revealed.', 'fr',
      'Les temps difficiles ne créent pas les héros. C''est dans les temps difficiles que se révèle le héros qui est en nous.'),
     ('Mountains cannot be surmounted except by winding paths.', 'fr',
-     'On ne gravit les montagnes que par des chemins sinueux.');
+     'On ne gravit les montagnes que par des chemins sinueux.'),
+    ('Pain is inevitable. Suffering is optional.', 'fr',
+     'La douleur est inévitable. La souffrance est facultative.');
