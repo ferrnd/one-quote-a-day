@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Optimism is the one quality more associated with success and happiness than any other.', 'fr',
      'L''optimisme est la qualité la plus associée au succès et au bonheur, plus que toute autre.'),
     ('Believe in yourself! Have faith in your abilities!', 'fr',
-     'Crois en toi ! Aie foi en tes capacités !');
+     'Crois en toi ! Aie foi en tes capacités !'),
+    ('You must expect great things of yourself before you can do them.', 'fr',
+     'Tu dois attendre de grandes choses de toi avant de pouvoir les accomplir.');
