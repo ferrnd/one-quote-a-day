@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You get in life what you have the courage to ask for.', 'de',
      'Du bekommst vom Leben, was du den Mut hast, zu verlangen.'),
     ('Success isn''t about how much money you make; it''s about the difference you make in people''s lives.', 'de',
-     'Bei Erfolg geht es nicht darum, wie viel Geld du verdienst, sondern um den Unterschied, den du im Leben anderer machst.');
+     'Bei Erfolg geht es nicht darum, wie viel Geld du verdienst, sondern um den Unterschied, den du im Leben anderer machst.'),
+    ('There is no greater agony than bearing an untold story inside you.', 'de',
+     'Es gibt keine größere Qual, als eine unerzählte Geschichte in sich zu tragen.');
