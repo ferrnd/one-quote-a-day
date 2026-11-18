@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have to believe in yourself when no one else does.', 'nl',
      'Je moet in jezelf geloven als niemand anders dat doet.'),
     ('The more difficult the victory, the greater the happiness in winning.', 'nl',
-     'Hoe moeilijker de overwinning, hoe groter het geluk van het winnen.');
+     'Hoe moeilijker de overwinning, hoe groter het geluk van het winnen.'),
+    ('Gold medals aren''t really made of gold. They''re made of sweat, determination, and a hard-to-find alloy called guts.', 'nl',
+     'Gouden medailles zijn niet echt van goud. Ze zijn gemaakt van zweet, vastberadenheid en een zeldzame legering die lef heet.');
