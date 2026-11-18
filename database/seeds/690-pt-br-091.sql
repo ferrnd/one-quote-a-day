@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of adversity comes opportunity.', 'pt-BR',
      'Da adversidade nasce a oportunidade.'),
     ('Adversity has ever been considered the state in which a man most easily becomes acquainted with himself.', 'pt-BR',
-     'A adversidade sempre foi considerada o estado em que o homem mais facilmente vem a conhecer a si mesmo.');
+     'A adversidade sempre foi considerada o estado em que o homem mais facilmente vem a conhecer a si mesmo.'),
+    ('Bad times have a scientific value. These are occasions a good learner would not miss.', 'pt-BR',
+     'Os tempos ruins têm um valor científico. São ocasiões que um bom aprendiz não deixaria passar.');
