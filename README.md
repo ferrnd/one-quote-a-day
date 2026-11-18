@@ -129,3 +129,6 @@ docs/            the deployable site (committed)
 tests/           Python and Node test suites
 ```
 
+## License
+
+Code is MIT licensed. The quotes are short excerpts attributed to their authors.
