@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Concentrate all your thoughts upon the work at hand. The sun''s rays do not burn until brought to a focus.', 'fr',
      'Concentre toutes tes pensées sur la tâche en cours. Les rayons du soleil ne brûlent que lorsqu''ils sont concentrés en un point.'),
     ('Well done is better than well said.', 'fr',
-     'Bien faire vaut mieux que bien dire.');
+     'Bien faire vaut mieux que bien dire.'),
+    ('Lost time is never found again.', 'fr',
+     'Le temps perdu ne se rattrape jamais.');
