@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Weeping may endure for a night, but joy cometh in the morning.', 'nl',
      'Des avonds vernachten wenen, maar des morgens is er gejuich.'),
     ('Grow old along with me! The best is yet to be.', 'nl',
-     'Word oud met mij! Het beste moet nog komen.');
+     'Word oud met mij! Het beste moet nog komen.'),
+    ('Isn''t it nice to think that tomorrow is a new day with no mistakes in it yet?', 'nl',
+     'Is het niet fijn om te denken dat morgen een nieuwe dag is, nog zonder fouten?');
