@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is patience with the lamp lit.', 'fr',
      'L''espoir, c''est la patience avec la lampe allumée.'),
     ('I am prepared for the worst, but hope for the best.', 'fr',
-     'Je suis préparé au pire, mais j''espère le meilleur.');
+     'Je suis préparé au pire, mais j''espère le meilleur.'),
+    ('We need never be hopeless because we can never be irreparably broken.', 'fr',
+     'Nous n''avons jamais à désespérer, car nous ne pouvons jamais être brisés sans retour.');
