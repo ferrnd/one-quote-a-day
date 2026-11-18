@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The dreamers are the saviors of the world.', 'pt-BR',
      'Os sonhadores são os salvadores do mundo.'),
     ('Dream lofty dreams, and as you dream, so shall you become.', 'pt-BR',
-     'Sonhe sonhos elevados, e assim como você sonha, assim você se tornará.');
+     'Sonhe sonhos elevados, e assim como você sonha, assim você se tornará.'),
+    ('Some people dream of success, while other people get up every morning and make it happen.', 'pt-BR',
+     'Algumas pessoas sonham com o sucesso, enquanto outras acordam todas as manhãs e fazem acontecer.');
