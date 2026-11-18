@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rest at the end, not in the middle.', 'nl',
      'Rust aan het eind, niet halverwege.'),
     ('There are no shortcuts to any place worth going.', 'nl',
-     'Er zijn geen kortere wegen naar een plek die de moeite waard is.');
+     'Er zijn geen kortere wegen naar een plek die de moeite waard is.'),
+    ('The only place where success comes before work is in the dictionary.', 'nl',
+     'De enige plek waar succes vóór werk komt, is in het woordenboek.');
