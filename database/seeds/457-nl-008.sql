@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure isn''t fatal, but failure to change might be.', 'nl',
      'Falen is niet fataal, maar weigeren te veranderen kan dat wel zijn.'),
     ('If you learn from defeat, you haven''t really lost.', 'nl',
-     'Als je leert van een nederlaag, heb je niet echt verloren.');
+     'Als je leert van een nederlaag, heb je niet echt verloren.'),
+    ('The master has failed more times than the beginner has even tried.', 'nl',
+     'De meester heeft vaker gefaald dan de beginner het ooit heeft geprobeerd.');
