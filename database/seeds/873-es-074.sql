@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am still learning.', 'es',
      'Todavía estoy aprendiendo.'),
     ('It is not length of life, but depth of life.', 'es',
-     'No importa la duración de la vida, sino su profundidad.');
+     'No importa la duración de la vida, sino su profundidad.'),
+    ('Once you make a decision, the universe conspires to make it happen.', 'es',
+     'Una vez que tomas una decisión, el universo conspira para que se cumpla.');
