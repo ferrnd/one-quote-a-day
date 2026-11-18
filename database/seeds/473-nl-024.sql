@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wait; the time will never be just right.', 'nl',
      'Wacht niet; het moment zal nooit precies goed zijn.'),
     ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'nl',
-     'Weten is niet genoeg; we moeten toepassen. Willen is niet genoeg; we moeten doen.');
+     'Weten is niet genoeg; we moeten toepassen. Willen is niet genoeg; we moeten doen.'),
+    ('Action may not always bring happiness; but there is no happiness without action.', 'nl',
+     'Actie brengt niet altijd geluk, maar er is geen geluk zonder actie.');
