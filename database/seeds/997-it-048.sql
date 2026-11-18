@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Determination gives you the resolve to keep going in spite of the roadblocks that lay before you.', 'it',
      'La determinazione ti dà la risolutezza per andare avanti nonostante gli ostacoli che ti si parano davanti.'),
     ('They can conquer who believe they can.', 'it',
-     'Possono vincere coloro che credono di poterlo fare.');
+     'Possono vincere coloro che credono di poterlo fare.'),
+    ('There are no limits. There are plateaus, but you must not stay there, you must go beyond them.', 'it',
+     'Non ci sono limiti. Ci sono altopiani, ma non devi restarci; devi andare oltre.');
