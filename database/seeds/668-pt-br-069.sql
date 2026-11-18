@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The biggest adventure you can take is to live the life of your dreams.', 'pt-BR',
      'A maior aventura que você pode viver é a vida dos seus sonhos.'),
     ('Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.', 'pt-BR',
-     'Mire alto, pois há estrelas escondidas em você. Sonhe fundo, pois todo sonho vem antes da meta.');
+     'Mire alto, pois há estrelas escondidas em você. Sonhe fundo, pois todo sonho vem antes da meta.'),
+    ('I dream my painting and I paint my dream.', 'pt-BR',
+     'Eu sonho minha pintura e pinto meu sonho.');
