@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No pessimist ever discovered the secret of the stars, or sailed to an uncharted land.', 'de',
      'Kein Pessimist hat je das Geheimnis der Sterne entdeckt oder ist zu einem unbekannten Land gesegelt.'),
     ('We can do anything we want to if we stick to it long enough.', 'de',
-     'Wir können alles tun, was wir wollen, wenn wir nur lange genug dranbleiben.');
+     'Wir können alles tun, was wir wollen, wenn wir nur lange genug dranbleiben.'),
+    ('What I am looking for is not out there, it is in me.', 'de',
+     'Was ich suche, ist nicht da draußen, es ist in mir.');
