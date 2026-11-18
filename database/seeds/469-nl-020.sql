@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the best you can until you know better. Then when you know better, do better.', 'nl',
      'Doe je best tot je beter weet. Als je dan beter weet, doe het dan beter.'),
     ('The beautiful thing about learning is that no one can take it away from you.', 'nl',
-     'Het mooie van leren is dat niemand het je kan afnemen.');
+     'Het mooie van leren is dat niemand het je kan afnemen.'),
+    ('Education is the most powerful weapon which you can use to change the world.', 'nl',
+     'Onderwijs is het machtigste wapen dat je kunt gebruiken om de wereld te veranderen.');
