@@ -939,7 +939,3 @@ main {
     padding-top: 30vh;
   }
 }
-
-/* Android app only: notification settings */
-:root:not([data-native="true"]) .native-only { display: none; }
-:root[data-notify="off"] .native-only + .native-only { opacity: .45; }
