@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perseverance is not a long race; it is many short races one after the other.', 'es',
      'La perseverancia no es una carrera larga; son muchas carreras cortas, una tras otra.'),
     ('A river cuts through rock not because of its power, but because of its persistence.', 'es',
-     'El río atraviesa la roca no por su fuerza, sino por su persistencia.');
+     'El río atraviesa la roca no por su fuerza, sino por su persistencia.'),
+    ('Many of life''s failures are people who did not realize how close they were to success when they gave up.', 'es',
+     'Muchos de los fracasos de la vida son de personas que no se dieron cuenta de lo cerca que estaban del éxito cuando se rindieron.');
