@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dreams are illustrations from the book your soul is writing about you.', 'it',
      'I sogni sono illustrazioni del libro che la tua anima sta scrivendo su di te.'),
     ('Dream no small dreams for they have no power to move the hearts of men.', 'it',
-     'Non fare sogni piccoli, perché non hanno il potere di muovere il cuore degli uomini.');
+     'Non fare sogni piccoli, perché non hanno il potere di muovere il cuore degli uomini.'),
+    ('A man is not old until regrets take the place of dreams.', 'it',
+     'Un uomo non è vecchio finché i rimpianti non prendono il posto dei sogni.');
