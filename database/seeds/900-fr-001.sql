@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Many of life''s failures are people who did not realize how close they were to success when they gave up.', 'fr',
      'Beaucoup d''échecs dans la vie sont le fait de personnes qui n''ont pas compris à quel point elles étaient proches du succès quand elles ont abandonné.'),
     ('I am a slow walker, but I never walk back.', 'fr',
-     'Je marche lentement, mais je ne recule jamais.');
+     'Je marche lentement, mais je ne recule jamais.'),
+    ('Great works are performed not by strength but by perseverance.', 'fr',
+     'Les grandes œuvres ne s''accomplissent pas par la force, mais par la persévérance.');
