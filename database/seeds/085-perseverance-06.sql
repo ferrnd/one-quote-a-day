@@ -6,4 +6,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('It ain''t over till it''s over.', 'Yogi Berra', 'perseverance'),
     ('We will either find a way, or make one.', 'Hannibal', 'perseverance'),
     ('The secret of success is constancy to purpose.', 'Benjamin Disraeli', 'perseverance'),
-    ('Persist and persevere, and you will find most things that are attainable, possible.', 'Lord Chesterfield', 'perseverance');
+    ('Persist and persevere, and you will find most things that are attainable, possible.', 'Lord Chesterfield', 'perseverance'),
+    ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'Ross Perot', 'perseverance');
