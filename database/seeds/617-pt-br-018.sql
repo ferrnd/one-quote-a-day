@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength does not come from physical capacity. It comes from an indomitable will.', 'pt-BR',
      'A força não vem da capacidade física. Vem de uma vontade indomável.'),
     ('The world breaks everyone and afterward many are strong at the broken places.', 'pt-BR',
-     'O mundo quebra todo mundo e, depois, muitos ficam fortes justamente nos lugares onde se quebraram.');
+     'O mundo quebra todo mundo e, depois, muitos ficam fortes justamente nos lugares onde se quebraram.'),
+    ('What does not kill me makes me stronger.', 'pt-BR',
+     'O que não me mata me fortalece.');
