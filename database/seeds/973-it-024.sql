@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The journey of a thousand miles begins with one step.', 'it',
      'Un viaggio di mille miglia comincia con un passo.'),
     ('Action is the foundational key to all success.', 'it',
-     'L''azione è la chiave fondamentale di ogni successo.');
+     'L''azione è la chiave fondamentale di ogni successo.'),
+    ('You don''t have to be great to start, but you have to start to be great.', 'it',
+     'Non devi essere grande per cominciare, ma devi cominciare per diventare grande.');
