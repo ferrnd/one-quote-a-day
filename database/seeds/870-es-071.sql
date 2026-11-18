@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.', 'es',
      'Tienes cerebro en la cabeza. Tienes pies en los zapatos. Puedes ir en la dirección que elijas.'),
     ('Unless someone like you cares a whole awful lot, nothing is going to get better. It''s not.', 'es',
-     'A menos que a alguien como tú le importe muchísimo, nada va a mejorar. Nada.');
+     'A menos que a alguien como tú le importe muchísimo, nada va a mejorar. Nada.'),
+    ('Tell me, what is it you plan to do with your one wild and precious life?', 'es',
+     'Dime, ¿qué piensas hacer con tu única vida, salvaje y preciosa?');
