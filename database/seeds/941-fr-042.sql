@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you want to see the sunshine, you have to weather the storm.', 'fr',
      'Si tu veux voir le soleil, tu dois affronter la tempête.'),
     ('The strongest people find the courage and caring to help others, even if they are going through their own storm.', 'fr',
-     'Les personnes les plus fortes trouvent le courage et la bienveillance d''aider les autres, même quand elles traversent leur propre tempête.');
+     'Les personnes les plus fortes trouvent le courage et la bienveillance d''aider les autres, même quand elles traversent leur propre tempête.'),
+    ('There is no such thing as ruining your life. Life''s a pretty resilient thing, it turns out.', 'fr',
+     'Gâcher sa vie, ça n''existe pas. La vie, en fin de compte, est une chose plutôt résiliente.');
