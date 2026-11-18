@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.', 'fr',
      'Les nuages viennent flotter dans ma vie, non plus pour apporter la pluie ou annoncer l''orage, mais pour colorer mon ciel de couchant.'),
     ('Character is power.', 'fr',
-     'Le caractère, c''est la puissance.');
+     'Le caractère, c''est la puissance.'),
+    ('I am not afraid; I was born to do this.', 'fr',
+     'Je n''ai pas peur ; je suis née pour cela.');
