@@ -16,10 +16,10 @@
 import {
   dateKey, formatCountdown, isNight, localDateParts, msUntilNextLocalMidnight,
   msUntilNextThemeChange, parseDateKey,
-} from "./clock.js?v=ef52af734b66";
-import { formatDate, translateDocument, tr } from "./i18n.js?v=ef52af734b66";
+} from "./clock.js?v=78ca80d138dd";
+import { formatDate, translateDocument, tr } from "./i18n.js?v=78ca80d138dd";
 
-const WASM_URL = new URL("quotes.wasm?v=a63e312dec95", import.meta.url);
+const WASM_URL = new URL("quotes.wasm?v=64c6c8b3bd63", import.meta.url);
 const WATCHDOG_MS = 60_000;
 const FALLBACK = { text: "Fall seven times, stand up eight.", author: "Japanese Proverb" };
 
