@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A dream doesn''t become reality through magic; it takes sweat, determination and hard work.', 'it',
      'Un sogno non diventa realtà per magia; servono sudore, determinazione e duro lavoro.'),
     ('There are no secrets to success. It is the result of preparation, hard work, and learning from failure.', 'it',
-     'Non ci sono segreti per il successo. È il risultato della preparazione, del duro lavoro e dell''imparare dal fallimento.');
+     'Non ci sono segreti per il successo. È il risultato della preparazione, del duro lavoro e dell''imparare dal fallimento.'),
+    ('Our greatest fear should not be of failure but of succeeding at things in life that don''t really matter.', 'it',
+     'La nostra più grande paura non dovrebbe essere il fallimento, ma avere successo in cose della vita che non contano davvero.');
