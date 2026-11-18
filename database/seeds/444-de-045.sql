@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'de',
      'Fortschritt birgt immer Risiken. Man kann die zweite Base nicht stehlen und den Fuß auf der ersten lassen.'),
     ('The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday''s logic.', 'de',
-     'Die größte Gefahr in Zeiten der Turbulenz ist nicht die Turbulenz, sondern mit der Logik von gestern zu handeln.');
+     'Die größte Gefahr in Zeiten der Turbulenz ist nicht die Turbulenz, sondern mit der Logik von gestern zu handeln.'),
+    ('We must be willing to let go of the life we planned so as to have the life that is waiting for us.', 'de',
+     'Wir müssen bereit sein, das Leben loszulassen, das wir geplant haben, um das Leben zu haben, das auf uns wartet.');
