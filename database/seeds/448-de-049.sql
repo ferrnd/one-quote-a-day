@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ambition is enthusiasm with a purpose.', 'de',
      'Ehrgeiz ist Begeisterung mit einem Ziel.'),
     ('Dreams are illustrations from the book your soul is writing about you.', 'de',
-     'Träume sind Illustrationen aus dem Buch, das deine Seele über dich schreibt.');
+     'Träume sind Illustrationen aus dem Buch, das deine Seele über dich schreibt.'),
+    ('Dream no small dreams for they have no power to move the hearts of men.', 'de',
+     'Träume keine kleinen Träume, denn sie haben keine Kraft, die Herzen der Menschen zu bewegen.');
