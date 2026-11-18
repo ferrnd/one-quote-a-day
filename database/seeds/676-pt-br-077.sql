@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is not how high you have climbed, but how you make a positive difference to the world.', 'pt-BR',
      'Sucesso não é o quão alto você subiu, mas como você faz uma diferença positiva no mundo.'),
     ('The best revenge is massive success.', 'pt-BR',
-     'A melhor vingança é um sucesso enorme.');
+     'A melhor vingança é um sucesso enorme.'),
+    ('Grief can be the garden of compassion.', 'pt-BR',
+     'O luto pode ser o jardim da compaixão.');
