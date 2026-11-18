@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perpetual optimism is a force multiplier.', 'it',
      'L''ottimismo perpetuo moltiplica le forze.'),
     ('If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.', 'it',
-     'Se senti una voce dentro di te che dice che non sai dipingere, allora dipingi, e quella voce tacerà.');
+     'Se senti una voce dentro di te che dice che non sai dipingere, allora dipingi, e quella voce tacerà.'),
+    ('Whatever the mind of man can conceive and believe, it can achieve.', 'it',
+     'Tutto ciò che la mente umana può concepire e credere, lo può realizzare.');
