@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A goal is a dream with a deadline.', 'pt-BR',
      'Uma meta é um sonho com prazo.'),
     ('It''s the possibility of having a dream come true that makes life interesting.', 'pt-BR',
-     'É a possibilidade de realizar um sonho que torna a vida interessante.');
+     'É a possibilidade de realizar um sonho que torna a vida interessante.'),
+    ('And, when you want something, all the universe conspires in helping you to achieve it.', 'pt-BR',
+     'E, quando você quer alguma coisa, todo o Universo conspira para que você realize o seu desejo.');
