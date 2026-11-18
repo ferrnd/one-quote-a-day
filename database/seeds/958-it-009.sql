@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Tough times never last, but tough people do.', 'it',
      'I tempi duri non durano, le persone forti sì.'),
     ('Where there is no struggle, there is no strength.', 'it',
-     'Dove non c''è lotta, non c''è forza.');
+     'Dove non c''è lotta, non c''è forza.'),
+    ('Turn your wounds into wisdom.', 'it',
+     'Trasforma le tue ferite in saggezza.');
