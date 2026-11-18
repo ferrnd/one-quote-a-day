@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure should be our teacher, not our undertaker.', 'it',
      'Il fallimento dovrebbe essere il nostro maestro, non il nostro becchino.'),
     ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'it',
-     'C''è una sola cosa che rende impossibile realizzare un sogno: la paura di fallire.');
+     'C''è una sola cosa che rende impossibile realizzare un sogno: la paura di fallire.'),
+    ('Failure is not the opposite of success; it''s part of success.', 'it',
+     'Il fallimento non è il contrario del successo; ne fa parte.');
