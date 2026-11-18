@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am a slow walker, but I never walk back.', 'de',
      'Ich gehe langsam, aber ich gehe niemals zurück.'),
     ('Great works are performed not by strength but by perseverance.', 'de',
-     'Große Werke werden nicht durch Kraft vollbracht, sondern durch Ausdauer.');
+     'Große Werke werden nicht durch Kraft vollbracht, sondern durch Ausdauer.'),
+    ('Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.', 'de',
+     'Geduld und Ausdauer haben eine magische Wirkung, vor der Schwierigkeiten verschwinden und Hindernisse sich auflösen.');
