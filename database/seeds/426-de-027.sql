@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Optimism is a happiness magnet.', 'de',
      'Optimismus ist ein Magnet für das Glück.'),
     ('Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.', 'de',
-     'Grenzen existieren nur in unserem Kopf. Doch wenn wir unsere Vorstellungskraft nutzen, werden unsere Möglichkeiten grenzenlos.');
+     'Grenzen existieren nur in unserem Kopf. Doch wenn wir unsere Vorstellungskraft nutzen, werden unsere Möglichkeiten grenzenlos.'),
+    ('The only limit to our realization of tomorrow will be our doubts of today.', 'de',
+     'Die einzige Grenze für unsere Verwirklichung von morgen werden unsere Zweifel von heute sein.');
