@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You''re off to great places! Today is your day! Your mountain is waiting, so get on your way!', 'pt-BR',
      'Você vai para lugares incríveis! Hoje é o seu dia! Sua montanha está esperando, então pé na estrada!'),
     ('You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.', 'pt-BR',
-     'Você tem um cérebro na cabeça. Tem pés nos sapatos. Pode seguir para a direção que escolher.');
+     'Você tem um cérebro na cabeça. Tem pés nos sapatos. Pode seguir para a direção que escolher.'),
+    ('Unless someone like you cares a whole awful lot, nothing is going to get better. It''s not.', 'pt-BR',
+     'A não ser que alguém como você se importe muito, muito mesmo, nada vai melhorar. Nada.');
