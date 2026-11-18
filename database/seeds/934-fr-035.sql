@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream lofty dreams, and as you dream, so shall you become.', 'fr',
      'Fais de grands rêves, et tel que tu rêves, tel tu deviendras.'),
     ('Some people dream of success, while other people get up every morning and make it happen.', 'fr',
-     'Certaines personnes rêvent de réussite, tandis que d''autres se lèvent chaque matin pour la faire advenir.');
+     'Certaines personnes rêvent de réussite, tandis que d''autres se lèvent chaque matin pour la faire advenir.'),
+    ('I have a dream.', 'fr',
+     'J''ai un rêve.');
