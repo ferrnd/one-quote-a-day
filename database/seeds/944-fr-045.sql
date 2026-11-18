@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only easy day was yesterday.', 'fr',
      'Le seul jour facile, c''était hier.'),
     ('In a gentle way, you can shake the world.', 'fr',
-     'Avec douceur, tu peux ébranler le monde.');
+     'Avec douceur, tu peux ébranler le monde.'),
+    ('Re-examine all you have been told; dismiss what insults your soul.', 'fr',
+     'Réexamine tout ce qu''on t''a dit ; rejette ce qui insulte ton âme.');
