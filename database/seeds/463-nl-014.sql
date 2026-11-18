@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength lies in differences, not in similarities.', 'nl',
      'Kracht ligt in verschillen, niet in overeenkomsten.'),
     ('The weak can never forgive. Forgiveness is the attribute of the strong.', 'nl',
-     'De zwakke kan nooit vergeven. Vergeving is een eigenschap van de sterke.');
+     'De zwakke kan nooit vergeven. Vergeving is een eigenschap van de sterke.'),
+    ('Strength does not come from winning. Your struggles develop your strengths.', 'nl',
+     'Kracht komt niet van winnen. Je worstelingen ontwikkelen je kracht.');
