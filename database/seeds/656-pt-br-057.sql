@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sooner or later the man who wins is the man who thinks he can.', 'pt-BR',
      'Cedo ou tarde, quem vence é quem acredita que consegue.'),
     ('We become what we think about.', 'pt-BR',
-     'Nós nos tornamos aquilo em que pensamos.');
+     'Nós nos tornamos aquilo em que pensamos.'),
+    ('If you''re always trying to be normal, you will never know how amazing you can be.', 'pt-BR',
+     'Se você vive tentando ser normal, nunca vai saber o quão incrível pode ser.');
