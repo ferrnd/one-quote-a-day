@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is contagious. When a brave man takes a stand, the spines of others are often stiffened.', 'es',
      'El valor es contagioso. Cuando un hombre valiente toma una posición, los demás suelen enderezar la espalda.'),
     ('Nothing in life is to be feared, it is only to be understood.', 'es',
-     'Nada en la vida debe ser temido, solamente comprendido.');
+     'Nada en la vida debe ser temido, solamente comprendido.'),
+    ('Bravery is the capacity to perform properly even when scared half to death.', 'es',
+     'La valentía es la capacidad de actuar bien incluso cuando estás muerto de miedo.');
