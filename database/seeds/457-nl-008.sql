@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not be embarrassed by your failures, learn from them and start again.', 'nl',
      'Schaam je niet voor je mislukkingen; leer ervan en begin opnieuw.'),
     ('Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.', 'nl',
-     'Uit lijden zijn de sterkste zielen voortgekomen; de krachtigste karakters zijn getekend door littekens.');
+     'Uit lijden zijn de sterkste zielen voortgekomen; de krachtigste karakters zijn getekend door littekens.'),
+    ('The oak fought the wind and was broken, the willow bent when it must and survived.', 'nl',
+     'De eik vocht tegen de wind en brak; de wilg boog wanneer dat moest en overleefde.');
