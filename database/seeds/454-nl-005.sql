@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What would life be if we had no courage to attempt anything?', 'nl',
      'Wat zou het leven zijn als we niet de moed hadden iets te proberen?'),
     ('Far better is it to dare mighty things, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy much nor suffer much.', 'nl',
-     'Het is veel beter om grote dingen te wagen en glorieuze triomfen te behalen, ook al worden ze ontsierd door mislukkingen, dan je te scharen bij die arme zielen die niet veel genieten en niet veel lijden.');
+     'Het is veel beter om grote dingen te wagen en glorieuze triomfen te behalen, ook al worden ze ontsierd door mislukkingen, dan je te scharen bij die arme zielen die niet veel genieten en niet veel lijden.'),
+    ('It is not the critic who counts.', 'nl',
+     'Het is niet de criticus die telt.');
