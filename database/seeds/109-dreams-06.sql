@@ -8,4 +8,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Tread softly because you tread on my dreams.', 'W. B. Yeats', 'dreams'),
     ('All that we see or seem is but a dream within a dream.', 'Edgar Allan Poe', 'dreams'),
     ('Don''t give up on your dreams, or your dreams will give up on you.', 'John Wooden', 'dreams'),
-    ('There is nothing like a dream to create the future.', 'Victor Hugo', 'dreams');
+    ('There is nothing like a dream to create the future.', 'Victor Hugo', 'dreams'),
+    ('The power of imagination makes us infinite.', 'John Muir', 'dreams');
