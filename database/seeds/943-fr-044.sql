@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the hard jobs first. The easy jobs will take care of themselves.', 'fr',
      'Fais d''abord les tâches difficiles. Les faciles se régleront d''elles-mêmes.'),
     ('It is better to offer no excuse than a bad one.', 'fr',
-     'Mieux vaut ne donner aucune excuse qu''en donner une mauvaise.');
+     'Mieux vaut ne donner aucune excuse qu''en donner une mauvaise.'),
+    ('Hard work is a prison sentence only if it does not have meaning.', 'fr',
+     'Le travail acharné n''est une prison que s''il n''a pas de sens.');
