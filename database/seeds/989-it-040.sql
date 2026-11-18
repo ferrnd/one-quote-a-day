@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Expose yourself to your deepest fear; after that, fear has no power.', 'it',
      'Esponiti alla tua paura più profonda; dopo, la paura non avrà più potere.'),
     ('Courage is like love; it must have hope for nourishment.', 'it',
-     'Il coraggio è come l''amore: ha bisogno di speranza per nutrirsi.');
+     'Il coraggio è come l''amore: ha bisogno di speranza per nutrirsi.'),
+    ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'it',
+     'È curioso che il coraggio fisico sia così comune nel mondo, e il coraggio morale così raro.');
