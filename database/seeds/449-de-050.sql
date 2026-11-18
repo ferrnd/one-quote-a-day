@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.', 'de',
      'Die besten und schönsten Dinge der Welt kann man weder sehen noch berühren. Man muss sie mit dem Herzen fühlen.'),
     ('What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.', 'de',
-     'Was wir einmal genossen haben, können wir nie verlieren. Alles, was wir zutiefst lieben, wird ein Teil von uns.');
+     'Was wir einmal genossen haben, können wir nie verlieren. Alles, was wir zutiefst lieben, wird ein Teil von uns.'),
+    ('Happiness is not a goal; it is a by-product.', 'de',
+     'Glück ist kein Ziel; es ist eine Begleiterscheinung.');
