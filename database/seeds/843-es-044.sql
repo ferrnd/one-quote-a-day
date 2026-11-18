@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.', 'es',
      'El pesimista ve dificultad en cada oportunidad. El optimista ve oportunidad en cada dificultad.'),
     ('Challenges are what make life interesting and overcoming them is what makes life meaningful.', 'es',
-     'Los desafíos hacen interesante la vida, y superarlos es lo que le da sentido.');
+     'Los desafíos hacen interesante la vida, y superarlos es lo que le da sentido.'),
+    ('Adversity is the diamond dust Heaven polishes its jewels with.', 'es',
+     'La adversidad es el polvo de diamante con el que el Cielo pule sus joyas.');
