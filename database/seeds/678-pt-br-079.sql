@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perseverance and spirit have done wonders in all ages.', 'pt-BR',
      'Perseverança e ânimo fizeram maravilhas em todas as épocas.'),
     ('Courage is the price that life exacts for granting peace.', 'pt-BR',
-     'A coragem é o preço que a vida cobra para conceder a paz.');
+     'A coragem é o preço que a vida cobra para conceder a paz.'),
+    ('Adventure is worthwhile in itself.', 'pt-BR',
+     'A aventura vale a pena por si só.');
