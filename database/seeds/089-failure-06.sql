@@ -7,4 +7,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Mistakes are always forgivable, if one has the courage to admit them.', 'Bruce Lee', 'failure'),
     ('Do not fear mistakes. There are none.', 'Miles Davis', 'failure'),
     ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'Bear Bryant', 'failure'),
-    ('Failure is a detour, not a dead-end street.', 'Zig Ziglar', 'failure');
+    ('Failure is a detour, not a dead-end street.', 'Zig Ziglar', 'failure'),
+    ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'B. F. Skinner', 'failure');
