@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a waking dream.', 'it',
      'La speranza è un sogno a occhi aperti.'),
     ('While there''s life, there''s hope.', 'it',
-     'Finché c''è vita, c''è speranza.');
+     'Finché c''è vita, c''è speranza.'),
+    ('There is some good in this world, and it''s worth fighting for.', 'it',
+     'C''è del buono in questo mondo, ed è giusto combattere per questo.');
