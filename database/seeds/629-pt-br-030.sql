@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The most common way people give up their power is by thinking they don''t have any.', 'pt-BR',
      'A forma mais comum de as pessoas abrirem mão do seu poder é achar que não têm nenhum.'),
     ('Think like a queen. A queen is not afraid to fail.', 'pt-BR',
-     'Pense como uma rainha. Uma rainha não tem medo de fracassar.');
+     'Pense como uma rainha. Uma rainha não tem medo de fracassar.'),
+    ('Find out who you are and do it on purpose.', 'pt-BR',
+     'Descubra quem você é e seja isso de propósito.');
