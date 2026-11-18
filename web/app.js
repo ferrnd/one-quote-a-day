@@ -44,6 +44,22 @@ class QuoteEngine {
   constructor(instance) {
     this.x = /** @type {any} */ (instance.exports);
     this.count = this.x.quote_count();
+    /** @type {Map<number, {index: number, text: string, author: string}>} */
+    this.cache = new Map();
+  }
+
+  /** Decoded quote by index; there are only N distinct quotes, so memoise them. */
+  quote(index) {
+    let hit = this.cache.get(index);
+    if (!hit) {
+      hit = {
+        index,
+        text: this.read(this.x.quote_text_ptr(index), this.x.quote_text_len(index)),
+        author: this.read(this.x.quote_author_ptr(index), this.x.quote_author_len(index)),
+      };
+      this.cache.set(index, hit);
+    }
+    return hit;
   }
 
   /** @param {number} ptr @param {number} len */
@@ -55,11 +71,7 @@ class QuoteEngine {
   forDate({ year, month, day }) {
     const index = this.x.quote_for_date(year, month, day);
     if (index < 0) throw new RangeError(`invalid date ${year}-${month}-${day}`);
-    return {
-      index,
-      text: this.read(this.x.quote_text_ptr(index), this.x.quote_text_len(index)),
-      author: this.read(this.x.quote_author_ptr(index), this.x.quote_author_len(index)),
-    };
+    return this.quote(index);
   }
 
   /** @param {{year: number, month: number, day: number}} parts */
@@ -84,39 +96,108 @@ function updateCounter(engine, today) {
   counterEl.dataset.today = JSON.stringify(today);
 }
 
+/*
+ * The archive can span tens of thousands of days (DAY 18000 is only ~2075),
+ * so it is rendered lazily: one page on open, then another whenever a
+ * sentinel at the bottom of the list scrolls near the viewport.
+ */
+const ARCHIVE_PAGE = 30;
+const CLOSE_MS = 280;
+
+/** @type {{engine: QuoteEngine, launch: number, next: number} | null} */
+let archive = null;
+const sentinel = document.createElement("li");
+sentinel.className = "archive-sentinel";
+sentinel.setAttribute("aria-hidden", "true");
+
+const observer = new IntersectionObserver(
+  (entries) => { if (entries.some((entry) => entry.isIntersecting)) appendArchivePage(); },
+  { root: archiveList, rootMargin: "0px 0px 800px 0px" },
+);
+
+/** @param {QuoteEngine} engine @param {number} n */
+function archiveItem(engine, n) {
+  const parts = engine.partsFromDays(archive.launch + n - 1);
+  const quote = engine.quote(engine.x.quote_for_day(archive.launch + n - 1));
+  const li = document.createElement("li");
+  const meta = document.createElement("p");
+  meta.className = "archive-meta";
+  meta.textContent = `Day ${n} · ${MONTHS[parts.month - 1]} ${parts.day}, ${parts.year}`;
+  const text = document.createElement("blockquote");
+  text.textContent = quote.text;
+  const author = document.createElement("p");
+  author.className = "archive-author";
+  author.textContent = quote.author;
+  li.append(meta, text, author);
+  return li;
+}
+
+function appendArchivePage() {
+  if (!archive || archive.next < 1) return;
+  const fragment = document.createDocumentFragment();
+  const stop = Math.max(1, archive.next - ARCHIVE_PAGE + 1);
+  for (let n = archive.next; n >= stop; n--) fragment.append(archiveItem(archive.engine, n));
+  archive.next = stop - 1;
+  sentinel.before(fragment);
+  if (archive.next < 1) {
+    observer.disconnect();
+    sentinel.remove();
+  } else {
+    // re-observe so a sentinel that is still visible fires again
+    observer.unobserve(sentinel);
+    observer.observe(sentinel);
+  }
+}
+
 /** @param {QuoteEngine} engine */
 function openArchive(engine) {
   const today = JSON.parse(counterEl.dataset.today ?? "null");
-  if (!today) return;
-  const last = engine.dayNumber(today);
-  const launch = engine.x.launch_day();
-  const items = [];
-  for (let n = last; n >= 1; n--) {
-    const parts = engine.partsFromDays(launch + n - 1);
-    const quote = engine.forDate(parts);
-    const li = document.createElement("li");
-    const meta = document.createElement("p");
-    meta.className = "archive-meta";
-    meta.textContent = `Day ${n} · ${MONTHS[parts.month - 1]} ${parts.day}, ${parts.year}`;
-    const text = document.createElement("blockquote");
-    text.textContent = quote.text;
-    const author = document.createElement("p");
-    author.className = "archive-author";
-    author.textContent = quote.author;
-    li.append(meta, text, author);
-    items.push(li);
-  }
-  archiveList.replaceChildren(...items);
+  if (!today || archiveEl.open) return;
+  archive = { engine, launch: engine.x.launch_day(), next: engine.dayNumber(today) };
+  archiveList.replaceChildren(sentinel);
+  appendArchivePage();
+  archiveEl.classList.remove("is-closing");
   archiveEl.showModal();
   archiveList.scrollTop = 0;
+  if (archive && archive.next >= 1) observer.observe(sentinel);
+}
+
+let closeTimer = 0;
+
+function closeArchive() {
+  if (!archiveEl.open || archiveEl.classList.contains("is-closing")) return;
+  if (matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    archiveEl.close();
+    return;
+  }
+  archiveEl.classList.add("is-closing");
+  closeTimer = setTimeout(() => archiveEl.close(), CLOSE_MS);
 }
 
 /** @param {QuoteEngine} engine */
 function wireArchive(engine) {
   counterEl.addEventListener("click", () => openArchive(engine));
-  document.getElementById("archive-close")?.addEventListener("click", () => archiveEl.close());
+  document.getElementById("archive-close")?.addEventListener("click", closeArchive);
   // click on the backdrop closes too
-  archiveEl.addEventListener("click", (event) => { if (event.target === archiveEl) archiveEl.close(); });
+  archiveEl.addEventListener("click", (event) => { if (event.target === archiveEl) closeArchive(); });
+  // belt and braces for fast flings: top up whenever we get near the bottom
+  archiveList.addEventListener("scroll", () => {
+    if (archiveList.scrollHeight - archiveList.scrollTop - archiveList.clientHeight < 800) appendArchivePage();
+  }, { passive: true });
+  // Esc: animate out instead of vanishing. Handle the key itself, because
+  // browsers only let a page cancel the native dialog close after a user gesture.
+  archiveEl.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") { event.preventDefault(); closeArchive(); }
+  });
+  archiveEl.addEventListener("cancel", (event) => { event.preventDefault(); closeArchive(); });
+  archiveEl.addEventListener("close", () => {
+    clearTimeout(closeTimer);
+    archiveEl.classList.remove("is-closing");
+    observer.disconnect();
+    archive = null;
+    archiveList.replaceChildren();
+    counterEl.focus({ preventScroll: true });
+  });
 }
 
 let rendered = false;
