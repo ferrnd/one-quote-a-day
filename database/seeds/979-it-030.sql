@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be patient and tough; someday this pain will be useful to you.', 'it',
      'Sii paziente e forte; un giorno questo dolore ti sarà utile.'),
     ('Dripping water hollows out stone, not through force but through persistence.', 'it',
-     'La goccia scava la pietra, non con la forza, ma con la costanza.');
+     'La goccia scava la pietra, non con la forza, ma con la costanza.'),
+    ('All human wisdom is summed up in two words: wait and hope.', 'it',
+     'Tutta la saggezza umana si riassume in due parole: attendere e sperare.');
