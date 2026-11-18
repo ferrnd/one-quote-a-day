@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best way to cheer yourself up is to try to cheer somebody else up.', 'es',
      'La mejor forma de animarte es intentar animar a otra persona.'),
     ('When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.', 'es',
-     'Cuando brilla el sol, puedo hacer cualquier cosa; ninguna montaña es demasiado alta, ningún problema demasiado difícil de superar.');
+     'Cuando brilla el sol, puedo hacer cualquier cosa; ninguna montaña es demasiado alta, ningún problema demasiado difícil de superar.'),
+    ('Never doubt that a small group of thoughtful, committed citizens can change the world.', 'es',
+     'Nunca dudes de que un pequeño grupo de ciudadanos conscientes y comprometidos puede cambiar el mundo.');
