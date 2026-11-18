@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Follow your bliss and the universe will open doors where there were only walls.', 'de',
      'Folge deiner Glückseligkeit, und das Universum wird dir Türen öffnen, wo vorher nur Mauern waren.'),
     ('Without leaps of imagination or dreaming, we lose the excitement of possibilities.', 'de',
-     'Ohne Sprünge der Fantasie oder des Träumens verlieren wir die Begeisterung für das Mögliche.');
+     'Ohne Sprünge der Fantasie oder des Träumens verlieren wir die Begeisterung für das Mögliche.'),
+    ('Dreaming, after all, is a form of planning.', 'de',
+     'Träumen ist schließlich eine Form des Planens.');
