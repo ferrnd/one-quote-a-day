@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.', 'pt-BR',
      'Nossa maior fraqueza está em desistir. O jeito mais certo de vencer é sempre tentar só mais uma vez.'),
     ('Good people are good because they''ve come to wisdom through failure.', 'pt-BR',
-     'Pessoas boas são boas porque chegaram à sabedoria através do fracasso.');
+     'Pessoas boas são boas porque chegaram à sabedoria através do fracasso.'),
+    ('The greatest mistake you can make in life is to be continually fearing you will make one.', 'pt-BR',
+     'O maior erro que você pode cometer na vida é viver com medo de errar.');
