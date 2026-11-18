@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The successful man will profit from his mistakes and try again in a different way.', 'nl',
      'De succesvolle mens haalt voordeel uit zijn fouten en probeert het op een andere manier opnieuw.'),
     ('Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.', 'nl',
-     'Ontwikkel succes uit mislukkingen. Ontmoediging en falen zijn twee van de zekerste opstapjes naar succes.');
+     'Ontwikkel succes uit mislukkingen. Ontmoediging en falen zijn twee van de zekerste opstapjes naar succes.'),
+    ('Mistakes are always forgivable, if one has the courage to admit them.', 'nl',
+     'Fouten zijn altijd te vergeven, als je de moed hebt ze toe te geven.');
