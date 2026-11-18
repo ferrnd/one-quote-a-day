@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am no bird; and no net ensnares me: I am a free human being with an independent will.', 'pt-BR',
      'Não sou pássaro, e nenhuma rede me prende: sou um ser humano livre, com vontade própria.'),
     ('My mission in life is not merely to survive, but to thrive.', 'pt-BR',
-     'Minha missão na vida não é apenas sobreviver, mas florescer.');
+     'Minha missão na vida não é apenas sobreviver, mas florescer.'),
+    ('You can''t be hesitant about who you are.', 'pt-BR',
+     'Você não pode hesitar sobre quem você é.');
