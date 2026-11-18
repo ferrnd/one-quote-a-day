@@ -6,4 +6,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('There is no coming to consciousness without pain.', 'Carl Jung', 'growth'),
     ('It''s what you learn after you know it all that counts.', 'John Wooden', 'growth'),
     ('Our business in life is not to get ahead of others, but to get ahead of ourselves.', 'E. Joseph Cossman', 'growth'),
-    ('To be what we are, and to become what we are capable of becoming, is the only end of life.', 'Robert Louis Stevenson', 'growth');
+    ('To be what we are, and to become what we are capable of becoming, is the only end of life.', 'Robert Louis Stevenson', 'growth'),
+    ('What the caterpillar calls the end of the world the master calls a butterfly.', 'Richard Bach', 'growth');
