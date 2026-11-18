@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every failure is a step to success.', 'nl',
      'Elke mislukking is een stap naar succes.'),
     ('Defeat is not the worst of failures. Not to have tried is the true failure.', 'nl',
-     'Een nederlaag is niet de ergste mislukking. Het niet geprobeerd hebben is de echte mislukking.');
+     'Een nederlaag is niet de ergste mislukking. Het niet geprobeerd hebben is de echte mislukking.'),
+    ('Failures are finger posts on the road to achievement.', 'nl',
+     'Mislukkingen zijn wegwijzers op de weg naar succes.');
