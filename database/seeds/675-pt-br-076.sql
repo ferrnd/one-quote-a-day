@@ -1,0 +1,5 @@
+-- seed 675 :: pt-BR translations 751-760
+
+INSERT INTO translation_intake (original, locale, body) VALUES
+    ('We can do anything we want to if we stick to it long enough.', 'pt-BR',
+     'Podemos fazer qualquer coisa que quisermos, se persistirmos por tempo suficiente.');
