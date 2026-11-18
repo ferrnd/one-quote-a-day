@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The harder you work, the harder it is to surrender.', 'nl',
      'Hoe harder je werkt, hoe moeilijker het is om je over te geven.'),
     ('Practice does not make perfect. Only perfect practice makes perfect.', 'nl',
-     'Oefening baart geen kunst. Alleen perfecte oefening baart kunst.');
+     'Oefening baart geen kunst. Alleen perfecte oefening baart kunst.'),
+    ('Success is where preparation and opportunity meet.', 'nl',
+     'Succes ligt daar waar voorbereiding en kans elkaar ontmoeten.');
