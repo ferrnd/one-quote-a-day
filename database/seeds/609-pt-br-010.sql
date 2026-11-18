@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Far better is it to dare mighty things, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy much nor suffer much.', 'pt-BR',
      'É muito melhor ousar coisas grandiosas e conquistar triunfos gloriosos, mesmo marcados por fracassos, do que se juntar aos pobres de espírito que nem desfrutam muito nem sofrem muito.'),
     ('It is not the critic who counts.', 'pt-BR',
-     'Não é o crítico que importa.');
+     'Não é o crítico que importa.'),
+    ('The credit belongs to the man who is actually in the arena.', 'pt-BR',
+     'O mérito pertence a quem está de fato na arena.');
