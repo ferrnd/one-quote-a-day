@@ -46,6 +46,18 @@
           (i32.add (global.get $schedule) (i32.shl (local.get $rel) (i32.const 1)))))
       (else (call $quote_for_day_computed (local.get $day)))))
 
+  ;; launch_day() -> days since 1970-01-01 of DAY 1 (2026-11-17)
+  (func $launch_day (export "launch_day") (result i32)
+    (call $days_from_civil (i32.const 2026) (i32.const 11) (i32.const 17)))
+
+  ;; day_number(y, m, d) -> 1 on launch day, 2 the day after, ...
+  (func $day_number (export "day_number")
+    (param $y i32) (param $m i32) (param $d i32) (result i32)
+    (i32.add
+      (i32.sub (call $days_from_civil (local.get $y) (local.get $m) (local.get $d))
+               (call $launch_day))
+      (i32.const 1)))
+
   ;; quote_for_date(y, m, d) -> index, or -1 for an invalid date
   (func $quote_for_date (export "quote_for_date")
     (param $y i32) (param $m i32) (param $d i32) (result i32)
