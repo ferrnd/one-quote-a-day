@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.', 'pt-BR',
      'A diferença entre uma pessoa bem-sucedida e as outras não é falta de força, nem falta de conhecimento, mas falta de vontade.'),
     ('Success is the sum of small efforts, repeated day in and day out.', 'pt-BR',
-     'O sucesso é a soma de pequenos esforços, repetidos dia após dia.');
+     'O sucesso é a soma de pequenos esforços, repetidos dia após dia.'),
+    ('It always seems impossible until it''s done.', 'pt-BR',
+     'Tudo parece impossível até que seja feito.');
