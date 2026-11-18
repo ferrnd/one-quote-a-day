@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.', 'fr',
      'La plupart des grandes choses de ce monde ont été accomplies par des gens qui ont continué d''essayer alors qu''il ne semblait plus y avoir le moindre espoir.'),
     ('Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: it is this that in all things distinguishes the strong soul from the weak.', 'fr',
-     'Constance, persévérance et ténacité malgré tous les obstacles, découragements et impossibilités : voilà ce qui, en toute chose, distingue l''âme forte de l''âme faible.');
+     'Constance, persévérance et ténacité malgré tous les obstacles, découragements et impossibilités : voilà ce qui, en toute chose, distingue l''âme forte de l''âme faible.'),
+    ('Never give up, for that is just the place and time that the tide will turn.', 'fr',
+     'N''abandonne jamais, car c''est précisément à cet endroit et à ce moment que la marée va tourner.');
