@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In three words I can sum up everything I''ve learned about life: it goes on.', 'fr',
      'En deux mots, je peux résumer tout ce que j''ai appris sur la vie : elle continue.'),
     ('Vitality shows in not only the ability to persist but the ability to start over.', 'fr',
-     'La vitalité se révèle non seulement dans la capacité à persévérer, mais aussi dans celle de recommencer.');
+     'La vitalité se révèle non seulement dans la capacité à persévérer, mais aussi dans celle de recommencer.'),
+    ('But man is not made for defeat. A man can be destroyed but not defeated.', 'fr',
+     'Mais l''homme n''est pas fait pour la défaite. Un homme, ça peut être détruit, mais pas vaincu.');
