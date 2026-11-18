@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.', 'pt-BR',
      'As dificuldades existem para despertar, não para desanimar. O espírito humano foi feito para se fortalecer no conflito.'),
     ('If you can''t fly then run, if you can''t run then walk, if you can''t walk then crawl, but whatever you do you have to keep moving forward.', 'pt-BR',
-     'Se não puder voar, corra; se não puder correr, ande; se não puder andar, rasteje; mas, faça o que fizer, continue seguindo em frente.');
+     'Se não puder voar, corra; se não puder correr, ande; se não puder andar, rasteje; mas, faça o que fizer, continue seguindo em frente.'),
+    ('The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.', 'pt-BR',
+     'A verdadeira medida de um homem não é onde ele está nos momentos de conforto e conveniência, mas onde ele está nos tempos de desafio e controvérsia.');
