@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not that we have a short time to live, but that we waste a lot of it.', 'nl',
      'Het is niet zo dat we weinig tijd hebben om te leven, maar dat we er veel van verspillen.'),
     ('While we wait for life, life passes.', 'nl',
-     'Terwijl we op het leven wachten, gaat het leven voorbij.');
+     'Terwijl we op het leven wachten, gaat het leven voorbij.'),
+    ('Wherever there is a human being, there is an opportunity for a kindness.', 'nl',
+     'Waar een mens is, is een kans voor vriendelijkheid.');
