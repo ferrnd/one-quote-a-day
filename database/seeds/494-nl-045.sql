@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not until we are lost do we begin to understand ourselves.', 'nl',
      'Pas als we verdwaald zijn, beginnen we onszelf te begrijpen.'),
     ('Things do not change; we change.', 'nl',
-     'De dingen veranderen niet; wij veranderen.');
+     'De dingen veranderen niet; wij veranderen.'),
+    ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'nl',
+     'Vooruitgang brengt altijd risico''s met zich mee. Je kunt het tweede honk niet stelen met je voet op het eerste.');
