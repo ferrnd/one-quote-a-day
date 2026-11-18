@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dedication sees dreams come true.', 'pt-BR',
-     'A dedicação faz os sonhos se realizarem.');
+     'A dedicação faz os sonhos se realizarem.'),
+    ('Rest at the end, not in the middle.', 'pt-BR',
+     'Descanse no fim, não no meio.');
