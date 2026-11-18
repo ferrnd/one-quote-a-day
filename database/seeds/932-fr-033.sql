@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing great was ever achieved without enthusiasm.', 'fr',
      'Rien de grand ne s''est jamais accompli sans enthousiasme.'),
     ('I would rather be ashes than dust!', 'fr',
-     'Je préfère être cendre que poussière !');
+     'Je préfère être cendre que poussière !'),
+    ('Determine never to be idle.', 'fr',
+     'Décide de ne jamais rester oisif.');
