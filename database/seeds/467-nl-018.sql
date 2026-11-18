@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Make each day your masterpiece.', 'nl',
      'Maak van elke dag je meesterwerk.'),
     ('Be quick, but don''t hurry.', 'nl',
-     'Wees snel, maar haast je niet.');
+     'Wees snel, maar haast je niet.'),
+    ('Be not afraid of growing slowly, be afraid only of standing still.', 'nl',
+     'Wees niet bang om langzaam te groeien; wees alleen bang om stil te staan.');
