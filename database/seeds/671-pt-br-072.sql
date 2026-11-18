@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What would you attempt to do if you knew you would not fail?', 'pt-BR',
      'O que você tentaria fazer se soubesse que não iria fracassar?'),
     ('I saw the angel in the marble and carved until I set him free.', 'pt-BR',
-     'Vi o anjo no mármore e esculpi até libertá-lo.');
+     'Vi o anjo no mármore e esculpi até libertá-lo.'),
+    ('People with goals succeed because they know where they''re going.', 'pt-BR',
+     'Pessoas com metas têm sucesso porque sabem para onde estão indo.');
