@@ -9,4 +9,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'Peace Pilgrim', 'mindset'),
     ('I am the greatest. I said that even before I knew I was.', 'Muhammad Ali', 'mindset'),
     ('Impossible is just a big word thrown around by small men.', 'Muhammad Ali', 'mindset'),
-    ('It''s the repetition of affirmations that leads to belief.', 'Muhammad Ali', 'mindset');
+    ('It''s the repetition of affirmations that leads to belief.', 'Muhammad Ali', 'mindset'),
+    ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'Muhammad Ali', 'mindset');
