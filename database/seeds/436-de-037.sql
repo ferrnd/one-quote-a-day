@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only journey is the one within.', 'de',
      'Die einzige Reise ist die nach innen.'),
     ('I am still learning.', 'de',
-     'Ich lerne noch.');
+     'Ich lerne noch.'),
+    ('It is not length of life, but depth of life.', 'de',
+     'Es kommt nicht auf die Länge des Lebens an, sondern auf seine Tiefe.');
