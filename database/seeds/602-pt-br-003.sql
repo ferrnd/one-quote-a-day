@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Paralyze resistance with persistence.', 'pt-BR',
      'Paralise a resistência com persistência.'),
     ('Effort only fully releases its reward after a person refuses to quit.', 'pt-BR',
-     'O esforço só entrega toda a sua recompensa depois que a pessoa se recusa a desistir.');
+     'O esforço só entrega toda a sua recompensa depois que a pessoa se recusa a desistir.'),
+    ('Patience, persistence and perspiration make an unbeatable combination for success.', 'pt-BR',
+     'Paciência, persistência e suor formam uma combinação imbatível para o sucesso.');
