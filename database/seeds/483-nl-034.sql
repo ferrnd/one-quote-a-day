@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dreams are the touchstones of our characters.', 'nl',
      'Dromen zijn de toetsstenen van ons karakter.'),
     ('Don''t let anyone rob you of your imagination, your creativity, or your curiosity.', 'nl',
-     'Laat niemand je je verbeelding, je creativiteit of je nieuwsgierigheid afnemen.');
+     'Laat niemand je je verbeelding, je creativiteit of je nieuwsgierigheid afnemen.'),
+    ('Never let your memories be greater than your dreams.', 'nl',
+     'Laat je herinneringen nooit groter zijn dan je dromen.');
