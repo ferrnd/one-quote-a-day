@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is reckoned the greatest of all virtues; because, unless a man has that virtue, he has no security for preserving any other.', 'es',
      'El valor es considerado la mayor de las virtudes, porque sin él el hombre no tiene garantía de conservar ninguna otra.'),
     ('Courage is the ladder on which all the other virtues mount.', 'es',
-     'El valor es la escalera por la que suben todas las demás virtudes.');
+     'El valor es la escalera por la que suben todas las demás virtudes.'),
+    ('Courage is not simply one of the virtues, but the form of every virtue at the testing point.', 'es',
+     'El valor no es simplemente una de las virtudes, sino la forma de todas las virtudes en el momento de la prueba.');
