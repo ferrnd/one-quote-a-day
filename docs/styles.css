@@ -1,0 +1,131 @@
+/*
+ * quotes :: styles
+ *
+ * Two colours, no exceptions: ink and paper.
+ */
+
+:root {
+  --ink: #000000;
+  --paper: #ffffff;
+  --serif: "Cormorant Garamond", "Cormorant", Garamond, "EB Garamond", "Times New Roman", serif;
+  --measure: 44rem;
+  --fade: 900ms;
+  color-scheme: only light;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  background: var(--paper);
+  color: var(--ink);
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  min-height: 100%;
+  min-height: 100dvh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-optical-sizing: auto;
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures discretionary-ligatures;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+main {
+  width: 100%;
+  max-width: calc(var(--measure) + 4rem);
+  padding: clamp(1.5rem, 6vw, 4rem) clamp(1rem, 5vw, 2rem);
+}
+
+.quote {
+  margin: 0;
+  text-align: center;
+  transition: opacity var(--fade) ease, transform var(--fade) ease;
+}
+
+.quote[data-state="loading"],
+.quote[data-state="leaving"] {
+  opacity: 0;
+  transform: translateY(0.35rem);
+}
+
+.quote[data-state="ready"] {
+  opacity: 1;
+  transform: none;
+}
+
+.quote blockquote {
+  margin: 0;
+}
+
+.quote p {
+  margin: 0;
+  font-size: clamp(1.65rem, 1.1rem + 2.6vw, 3.1rem);
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.22;
+  letter-spacing: 0.002em;
+  text-wrap: balance;
+  hanging-punctuation: first last;
+  overflow-wrap: break-word;
+}
+
+.quote p::before {
+  content: "\201C";
+}
+
+.quote p::after {
+  content: "\201D";
+}
+
+.quote figcaption {
+  margin-top: clamp(1.4rem, 3vw, 2.2rem);
+  font-size: clamp(0.78rem, 0.7rem + 0.35vw, 0.95rem);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  /* letter-spacing adds trailing space; pull it back so the line stays centred */
+  margin-right: -0.32em;
+}
+
+.quote figcaption::before {
+  content: "";
+  display: block;
+  width: 2.5rem;
+  height: 1px;
+  margin: 0 auto clamp(1.1rem, 2.4vw, 1.6rem);
+  background: var(--ink);
+  transform: translateX(-0.16em);
+}
+
+::selection {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .quote {
+    transition: none;
+  }
+}
+
+@media print {
+  body {
+    min-height: auto;
+    padding-top: 30vh;
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Quotes",
+  "short_name": "Quotes",
+  "description": "One quote about overcoming, every day. It changes at midnight.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
