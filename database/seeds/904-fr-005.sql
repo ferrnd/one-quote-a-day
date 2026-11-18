@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is knowing what not to fear.', 'fr',
      'Le courage, c''est savoir ce qu''il ne faut pas craindre.'),
     ('Feel the fear and do it anyway.', 'fr',
-     'Ressens la peur et fais-le quand même.');
+     'Ressens la peur et fais-le quand même.'),
+    ('Be bold, and mighty forces will come to your aid.', 'fr',
+     'Sois audacieux, et des forces puissantes viendront à ton aide.');
