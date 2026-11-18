@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No pessimist ever discovered the secret of the stars, or sailed to an uncharted land.', 'nl',
      'Geen pessimist heeft ooit het geheim van de sterren ontdekt of is naar een onbekend land gezeild.'),
     ('We can do anything we want to if we stick to it long enough.', 'nl',
-     'We kunnen alles doen wat we willen, als we maar lang genoeg volhouden.');
+     'We kunnen alles doen wat we willen, als we maar lang genoeg volhouden.'),
+    ('What I am looking for is not out there, it is in me.', 'nl',
+     'Wat ik zoek, is niet daarbuiten, het is in mij.');
