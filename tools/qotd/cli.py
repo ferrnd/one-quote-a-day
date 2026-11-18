@@ -7,7 +7,7 @@ import datetime as dt
 import sys
 from pathlib import Path
 
-from . import __version__, database, schedule, site, watgen
+from . import __version__, database, site, watgen
 from .civil import days_from_civil
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -59,7 +59,7 @@ def cmd_today(args: argparse.Namespace) -> int:
         signature = f"\n\n  -- {pinned.author}" if pinned.author else ""
         print(f"{date.isoformat()}  (dedication)\n\n  {pinned.body}{signature}")
         return 0
-    quote = catalog.quotes[schedule.quote_for_day(day, len(catalog))]
+    quote = catalog.quotes[database.calendar_of(catalog).quote_for_day(day)]
     print(f"{date.isoformat()}\n\n  {quote.body}\n\n  -- {quote.author}")
     return 0
 

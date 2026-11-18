@@ -35,6 +35,8 @@ class Catalog:
     authors: list[str]  # index i holds the author with id i + 1
     themes: list[tuple[str, str, int]]
     dedications: list[Dedication] = field(default_factory=list)
+    launch_day: str = "2026-11-16"
+    legacy_quotes: int = 0
 
     def __len__(self) -> int:
         return len(self.quotes)
@@ -78,6 +80,11 @@ def verify(conn: sqlite3.Connection) -> None:
     empty = [row[0] for row in conn.execute("SELECT theme FROM theme_stats WHERE quotes = 0")]
     if empty:
         raise DatabaseError(f"themes without quotes: {', '.join(empty)}")
+    calendar = conn.execute("SELECT legacy_quotes FROM calendar WHERE id = 1").fetchone()
+    if calendar is None:
+        raise DatabaseError("the calendar row is missing")
+    if calendar[0] > count:
+        raise DatabaseError(f"legacy_quotes ({calendar[0]}) exceeds the number of quotes ({count})")
     (gaps,) = conn.execute("SELECT max(id) - count(*) FROM quotes").fetchone()
     if gaps:
         raise DatabaseError("quote ids are not contiguous")
@@ -92,7 +99,18 @@ def read_catalog(conn: sqlite3.Connection) -> Catalog:
         "SELECT day, body, author FROM dedications ORDER BY day")]
     if [a.id for a in quotes] != list(range(1, len(quotes) + 1)):
         raise DatabaseError("catalog ids are not 1..N")
-    return Catalog(quotes=quotes, authors=authors, themes=themes, dedications=dedications)
+    launch_day, legacy = conn.execute(
+        "SELECT launch_day, legacy_quotes FROM calendar WHERE id = 1").fetchone()
+    return Catalog(quotes=quotes, authors=authors, themes=themes, dedications=dedications,
+                   launch_day=launch_day, legacy_quotes=legacy)
+
+
+def calendar_of(catalog: Catalog):
+    """The schedule for this catalog (see schedule.Calendar)."""
+    from .civil import days_from_civil
+    from .schedule import Calendar
+    y, m, d = (int(part) for part in catalog.launch_day.split("-"))
+    return Calendar(n=len(catalog), legacy=catalog.legacy_quotes, launch=days_from_civil(y, m, d))
 
 
 def load(root: Path) -> Catalog:
