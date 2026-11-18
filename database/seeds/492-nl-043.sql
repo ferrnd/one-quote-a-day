@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never doubt that a small group of thoughtful, committed citizens can change the world.', 'nl',
      'Twijfel er nooit aan dat een kleine groep bedachtzame, toegewijde burgers de wereld kan veranderen.'),
     ('Keep your face to the sunshine and you cannot see a shadow.', 'nl',
-     'Houd je gezicht naar de zon en je ziet geen schaduw.');
+     'Houd je gezicht naar de zon en je ziet geen schaduw.'),
+    ('One day, in retrospect, the years of struggle will strike you as the most beautiful.', 'nl',
+     'Op een dag, achteraf gezien, zullen de jaren van strijd je de mooiste toeschijnen.');
