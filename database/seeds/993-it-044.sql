@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The harder you work, the harder it is to surrender.', 'it',
      'Più lavori duro, più è difficile arrendersi.'),
     ('Practice does not make perfect. Only perfect practice makes perfect.', 'it',
-     'La pratica non rende perfetti. Solo la pratica perfetta rende perfetti.');
+     'La pratica non rende perfetti. Solo la pratica perfetta rende perfetti.'),
+    ('Success is where preparation and opportunity meet.', 'it',
+     'Il successo è dove la preparazione incontra l''opportunità.');
