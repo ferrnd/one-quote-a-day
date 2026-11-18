@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength lies in differences, not in similarities.', 'de',
      'Stärke liegt in den Unterschieden, nicht in den Gemeinsamkeiten.'),
     ('The weak can never forgive. Forgiveness is the attribute of the strong.', 'de',
-     'Die Schwachen können nie vergeben. Vergebung ist eine Eigenschaft der Starken.');
+     'Die Schwachen können nie vergeben. Vergebung ist eine Eigenschaft der Starken.'),
+    ('Strength does not come from winning. Your struggles develop your strengths.', 'de',
+     'Stärke entsteht nicht durch Siegen. Deine Kämpfe entwickeln deine Stärken.');
