@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No tree becomes rooted and sturdy unless many a wind assails it.', 'it',
      'Nessun albero mette radici salde se molti venti non lo scuotono.'),
     ('It is a rough road that leads to the heights of greatness.', 'it',
-     'È una strada aspra quella che conduce alle vette della grandezza.');
+     'È una strada aspra quella che conduce alle vette della grandezza.'),
+    ('Difficult roads often lead to beautiful destinations.', 'it',
+     'Le strade difficili spesso portano a destinazioni bellissime.');
