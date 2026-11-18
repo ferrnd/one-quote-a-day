@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dedication sees dreams come true.', 'it',
      'La dedizione fa avverare i sogni.'),
     ('Rest at the end, not in the middle.', 'it',
-     'Riposati alla fine, non a metà.');
+     'Riposati alla fine, non a metà.'),
+    ('There are no shortcuts to any place worth going.', 'it',
+     'Non esistono scorciatoie per nessun posto che valga la pena raggiungere.');
