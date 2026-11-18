@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I hated every minute of training, but I said, don''t quit. Suffer now and live the rest of your life as a champion.', 'de',
      'Ich habe jede Minute des Trainings gehasst, aber ich sagte mir: Gib nicht auf. Leide jetzt und lebe den Rest deines Lebens als Champion.'),
     ('The fight is won or lost far away from witnesses, behind the lines, in the gym, and out there on the road, long before I dance under those lights.', 'de',
-     'Der Kampf wird weit weg von Zeugen gewonnen oder verloren, hinter den Kulissen, im Trainingsraum und draußen auf der Straße, lange bevor ich unter diesen Lichtern tanze.');
+     'Der Kampf wird weit weg von Zeugen gewonnen oder verloren, hinter den Kulissen, im Trainingsraum und draußen auf der Straße, lange bevor ich unter diesen Lichtern tanze.'),
+    ('Don''t count the days, make the days count.', 'de',
+     'Zähle nicht die Tage, sondern sorge dafür, dass die Tage zählen.');
