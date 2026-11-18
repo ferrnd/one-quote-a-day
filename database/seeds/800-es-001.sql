@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A river cuts through rock not because of its power, but because of its persistence.', 'es',
      'El río atraviesa la roca no por su fuerza, sino por su persistencia.'),
     ('Many of life''s failures are people who did not realize how close they were to success when they gave up.', 'es',
-     'Muchos de los fracasos de la vida son de personas que no se dieron cuenta de lo cerca que estaban del éxito cuando se rindieron.');
+     'Muchos de los fracasos de la vida son de personas que no se dieron cuenta de lo cerca que estaban del éxito cuando se rindieron.'),
+    ('I am a slow walker, but I never walk back.', 'es',
+     'Camino despacio, pero nunca camino hacia atrás.');
