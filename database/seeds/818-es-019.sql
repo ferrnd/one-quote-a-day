@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grief and resilience live together.', 'es',
      'El duelo y la resiliencia conviven.'),
     ('It''s not whether you get knocked down; it''s whether you get up.', 'es',
-     'Lo que importa no es si te derriban; es si te levantas.');
+     'Lo que importa no es si te derriban; es si te levantas.'),
+    ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'es',
+     'No importa lo fuerte que golpees. Importa cuánto aguantas que te golpeen y seguir avanzando.');
