@@ -35,6 +35,11 @@ const panelEl = /** @type {HTMLDialogElement} */ (document.getElementById("panel
 const archiveEl = /** @type {HTMLDialogElement} */ (document.getElementById("archive"));
 const archiveList = /** @type {HTMLOListElement} */ (document.getElementById("archive-list"));
 const decoder = new TextDecoder("utf-8", { fatal: true });
+/** True inside the Android app (Capacitor), false on the web. */
+const NATIVE = Boolean(/** @type {any} */ (window).Capacitor?.isNativePlatform?.());
+const PUBLIC_URL = "https://quoteaday.vercel.app/";
+/** The address to share: the page itself on the web, the public site from the app. */
+const siteUrl = () => (NATIVE || !location.protocol.startsWith("http") ? PUBLIC_URL : location.origin + location.pathname);
 
 /* -------------------------------------------------------- preferences -- */
 /* Per-visitor settings, kept in this browser only. Every read and write is
@@ -43,6 +48,7 @@ const decoder = new TextDecoder("utf-8", { fatal: true });
 const PREFS_KEY = "quotes:prefs";
 const DEFAULT_PREFS = {
   theme: "auto", size: "m", motion: "on", counter: "show", copy: "author", search: "google", lang: "auto",
+  notify: "on", notifyAt: "09",
 };
 /** @type {typeof DEFAULT_PREFS} */
 let prefs = loadPrefs();
@@ -65,6 +71,8 @@ function applyPrefs() {
   root.dataset.size = prefs.size;
   root.dataset.motion = prefs.motion;
   root.dataset.counter = prefs.counter;
+  root.dataset.native = String(NATIVE);
+  root.dataset.notify = prefs.notify;
   applyLanguage();
   layoutCorner();
   for (const group of document.querySelectorAll(".choices[data-pref]")) {
@@ -778,7 +786,7 @@ async function renderCard() {
     y += 62;
   }
 
-  const link = location.protocol.startsWith("http") ? location.origin : "https://quoteaday.vercel.app";
+  const link = siteUrl().replace(/\/$/, "");
   caption(link, 500, 22, 2, 0.4, y + linkBlock);
   return canvas;
 }
@@ -793,7 +801,7 @@ async function shareImage({ story = false } = {}) {
   const touch = matchMedia("(pointer: coarse)").matches;
   if (touch && navigator.canShare?.({ files: [file] })) {
     try {
-      await navigator.share({ files: [file], title: "Quotes", url: location.origin + location.pathname });
+      await navigator.share({ files: [file], title: "Quotes", url: siteUrl() });
       return;
     } catch (error) {
       if (/** @type {Error} */ (error).name === "AbortError") return; // the visitor changed their mind
@@ -833,7 +841,6 @@ function wireCountdown() {
 
 /* -------------------------------------------------------------- panel -- */
 
-const siteUrl = () => location.origin + location.pathname;
 const enc = encodeURIComponent;
 const openTab = (url) => window.open(url, "_blank", "noopener,noreferrer");
 
@@ -924,6 +931,7 @@ function wirePanel() {
         prefs = { ...prefs, [key]: button.dataset.value };
         savePrefs();
         applyPrefs();
+        if (key === "notify" || key === "notifyAt" || key === "lang") scheduleNotifications(key === "notify");
       }
       return;
     }
@@ -957,6 +965,75 @@ function applyTheme() {
   themeMeta?.setAttribute("content", night ? "#000000" : "#ffffff");
   clearTimeout(themeTimer);
   themeTimer = setTimeout(applyTheme, msUntilNextThemeChange(now) + 250);
+}
+
+/* ------------------------------------------------------ notifications -- */
+/*
+ * Android app only. The quote of each day is known in advance (the schedule
+ * lives in the module), so the next NOTIFY_DAYS notifications are written
+ * out up front with the system's alarm manager: they arrive even when the
+ * app has not been opened for weeks. Every launch, language change or
+ * settings change rewrites the whole batch.
+ */
+
+const NOTIFY_DAYS = 45;
+const NOTIFY_CHANNEL = "daily";
+
+/** @param {boolean} [ask] request permission if it was not granted yet */
+async function scheduleNotifications(ask = true) {
+  if (!NATIVE || !state.engine) return;
+  const plugin = /** @type {any} */ (window).Capacitor.Plugins?.LocalNotifications;
+  if (!plugin) return;
+  try {
+    const pending = await plugin.getPending();
+    if (pending.notifications.length) {
+      await plugin.cancel({ notifications: pending.notifications.map((n) => ({ id: n.id })) });
+    }
+    if (prefs.notify !== "on") return;
+    let { display } = await plugin.checkPermissions();
+    if (display !== "granted" && ask) ({ display } = await plugin.requestPermissions());
+    if (display !== "granted") return;
+    await plugin.createChannel({
+      id: NOTIFY_CHANNEL, name: tr(state.lang, "Quote of the day"), importance: 3, visibility: 1, vibration: false,
+    }).catch(() => {});
+    const hour = Number(prefs.notifyAt) || 0;
+    const now = new Date();
+    const today = toDay(localDateParts(now));
+    const notifications = [];
+    for (let z = today; notifications.length < NOTIFY_DAYS; z++) {
+      const { year, month, day } = state.engine.partsFromDays(z);
+      const at = new Date(year, month - 1, day, hour, 0, 5);
+      if (at <= now) continue;
+      const entry = entryFor(z);
+      const n = z - state.launch + 1;
+      notifications.push({
+        id: z,
+        channelId: NOTIFY_CHANNEL,
+        title: n >= 1 ? tr(state.lang, "Day {n}", { n }) : tr(state.lang, "Quote of the day"),
+        body: entry.author ? `${entry.text} — ${entry.author}` : entry.text,
+        largeBody: entry.author ? `${entry.text}\n— ${entry.author}` : entry.text,
+        schedule: { at, allowWhileIdle: true },
+        smallIcon: "ic_stat_quote",
+        iconColor: "#000000",
+        extra: { day: z },
+      });
+    }
+    await plugin.schedule({ notifications });
+  } catch (error) {
+    console.warn("notifications:", error);
+  }
+}
+
+function wireNotifications() {
+  if (!NATIVE) return;
+  const plugin = /** @type {any} */ (window).Capacitor.Plugins?.LocalNotifications;
+  // tapping a notification opens the app on today's quote
+  plugin?.addListener?.("localNotificationActionPerformed", () => {
+    if (state.view !== state.today) goTo(state.today, state.view < state.today ? "right" : "left");
+  });
+  scheduleNotifications(true);
+  // a day passed while the app sat in the background: top the batch back up
+  document.addEventListener("visibilitychange", () => { if (!document.hidden) scheduleNotifications(false); });
 }
 
 /* -------------------------------------------------------------- clock -- */
@@ -1014,6 +1091,7 @@ async function main() {
     wireSearch();
     wirePanel();
     wireCountdown();
+    wireNotifications();
     if (pinned) {
       state.today = state.view = toDay(pinned);
       reveal(entryFor(state.today));
@@ -1026,7 +1104,7 @@ async function main() {
     reveal(FALLBACK);
   }
 
-  if ("serviceWorker" in navigator && location.protocol === "https:") {
+  if (!NATIVE && "serviceWorker" in navigator && location.protocol === "https:") {
     navigator.serviceWorker.register("sw.js").catch(() => {});
   }
 }
