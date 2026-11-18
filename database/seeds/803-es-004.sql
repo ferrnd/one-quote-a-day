@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the confrontation between the stream and the rock, the stream always wins, not through strength but by perseverance.', 'es',
      'En el enfrentamiento entre el arroyo y la roca, el arroyo siempre gana, no por su fuerza, sino por su perseverancia.'),
     ('Endurance is not just the ability to bear a hard thing, but to turn it into glory.', 'es',
-     'Resistir no es solo la capacidad de soportar algo difícil, sino de convertirlo en gloria.');
+     'Resistir no es solo la capacidad de soportar algo difícil, sino de convertirlo en gloria.'),
+    ('Perseverance, secret of all triumphs.', 'es',
+     'Perseverancia, secreto de todos los triunfos.');
