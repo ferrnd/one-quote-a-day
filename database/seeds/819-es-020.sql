@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Stars can''t shine without darkness.', 'es',
      'Las estrellas no brillan sin oscuridad.'),
     ('The wound is the place where the Light enters you.', 'es',
-     'La herida es el lugar por donde entra la Luz.');
+     'La herida es el lugar por donde entra la Luz.'),
+    ('When it is dark enough, you can see the stars.', 'es',
+     'Cuando está lo bastante oscuro, se pueden ver las estrellas.');
