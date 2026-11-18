@@ -6,4 +6,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Bad times have a scientific value. These are occasions a good learner would not miss.', 'Ralph Waldo Emerson', 'adversity'),
     ('Every wall is a door.', 'Ralph Waldo Emerson', 'adversity'),
     ('Pain and suffering are always inevitable for a large intelligence and a deep heart.', 'Fyodor Dostoevsky', 'adversity'),
-    ('Long is the way and hard, that out of hell leads up to light.', 'John Milton', 'adversity');
+    ('Long is the way and hard, that out of hell leads up to light.', 'John Milton', 'adversity'),
+    ('Accept challenges so that you may feel the exhilaration of victory.', 'George S. Patton', 'adversity');
