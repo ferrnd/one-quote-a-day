@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing is permanent in this wicked world, not even our troubles.', 'nl',
      'Niets is blijvend in deze boze wereld, zelfs onze zorgen niet.'),
     ('Hardships make or break people.', 'nl',
-     'Tegenslagen maken of breken mensen.');
+     'Tegenslagen maken of breken mensen.'),
+    ('Turn your scars into stars.', 'nl',
+     'Verander je littekens in sterren.');
