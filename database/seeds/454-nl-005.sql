@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage starts with showing up and letting ourselves be seen.', 'nl',
      'Moed begint met je laten zien en jezelf laten zien.'),
     ('Don''t be afraid to give up the good to go for the great.', 'nl',
-     'Wees niet bang het goede op te geven om voor het geweldige te gaan.');
+     'Wees niet bang het goede op te geven om voor het geweldige te gaan.'),
+    ('To dare is to lose one''s footing momentarily. Not to dare is to lose oneself.', 'nl',
+     'Durven is even je evenwicht verliezen. Niet durven is jezelf verliezen.');
