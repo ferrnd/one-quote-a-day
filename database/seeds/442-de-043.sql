@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope arouses, as nothing else can arouse, a passion for the possible.', 'de',
      'Hoffnung weckt wie nichts anderes eine Leidenschaft für das Mögliche.'),
     ('Do not let your fire go out, spark by irreplaceable spark.', 'de',
-     'Lass dein Feuer nicht ausgehen, Funke um unersetzlichen Funken.');
+     'Lass dein Feuer nicht ausgehen, Funke um unersetzlichen Funken.'),
+    ('We are all in the gutter, but some of us are looking at the stars.', 'de',
+     'Wir liegen alle in der Gosse, aber einige von uns betrachten die Sterne.');
