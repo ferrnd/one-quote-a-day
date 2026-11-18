@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One moment of patience may ward off great disaster. One moment of impatience may ruin a whole life.', 'nl',
      'Eén moment van geduld kan een grote ramp voorkomen. Eén moment van ongeduld kan een heel leven verwoesten.'),
     ('Patience is not simply the ability to wait; it''s how we behave while we''re waiting.', 'nl',
-     'Geduld is niet alleen het vermogen om te wachten; het is hoe we ons gedragen terwijl we wachten.');
+     'Geduld is niet alleen het vermogen om te wachten; het is hoe we ons gedragen terwijl we wachten.'),
+    ('Rome wasn''t built in a day.', 'nl',
+     'Rome is niet in één dag gebouwd.');
