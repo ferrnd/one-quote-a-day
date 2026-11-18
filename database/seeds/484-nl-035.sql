@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Aim for the moon. If you miss, you may hit a star.', 'nl',
      'Mik op de maan. Als je mist, raak je misschien een ster.'),
     ('Nothing happens unless first we dream.', 'nl',
-     'Niets gebeurt tenzij we eerst dromen.');
+     'Niets gebeurt tenzij we eerst dromen.'),
+    ('Those who dream by day are cognizant of many things which escape those who dream only by night.', 'nl',
+     'Wie overdag droomt, kent vele dingen die ontsnappen aan wie alleen ''s nachts droomt.');
