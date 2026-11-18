@@ -5,4 +5,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Hardships make or break people.', 'Margaret Mitchell', 'resilience'),
     ('Turn your scars into stars.', 'Robert H. Schuller', 'resilience'),
     ('Cancer can take away all of my physical abilities. It cannot touch my mind, it cannot touch my heart, and it cannot touch my soul.', 'Jim Valvano', 'resilience'),
-    ('Be water, my friend.', 'Bruce Lee', 'resilience');
+    ('Be water, my friend.', 'Bruce Lee', 'resilience'),
+    ('Hard days are the best because that''s when champions are made.', 'Gabby Douglas', 'resilience');
