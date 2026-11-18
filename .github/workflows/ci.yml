@@ -1,0 +1,45 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install wabt
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Committed build is reproducible
+        run: |
+          if ! git diff --quiet -- generated docs; then
+            git --no-pager diff --stat -- generated docs
+            echo "::error::generated/ or docs/ is stale. Run 'npm run build' and commit the result."
+            exit 1
+          fi
+
+      - name: Test
+        run: npm test
