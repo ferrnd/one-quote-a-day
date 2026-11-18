@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The privilege of a lifetime is to become who you truly are.', 'de',
      'Das Privileg eines Lebens ist es, der zu werden, der man wirklich ist.'),
     ('Knowing your own darkness is the best method for dealing with the darknesses of other people.', 'de',
-     'Die eigene Dunkelheit zu kennen, ist die beste Methode, mit der Dunkelheit anderer umzugehen.');
+     'Die eigene Dunkelheit zu kennen, ist die beste Methode, mit der Dunkelheit anderer umzugehen.'),
+    ('There is no coming to consciousness without pain.', 'de',
+     'Es gibt keine Bewusstwerdung ohne Schmerz.');
