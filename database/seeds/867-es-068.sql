@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('First, think. Second, dream. Third, believe. And finally, dare.', 'es',
      'Primero, piensa. Segundo, sueña. Tercero, cree. Y por último, atrévete.'),
     ('A dream you dream alone is only a dream. A dream you dream together is reality.', 'es',
-     'Un sueño que sueñas solo es solo un sueño. Un sueño que sueñas con otros es realidad.');
+     'Un sueño que sueñas solo es solo un sueño. Un sueño que sueñas con otros es realidad.'),
+    ('Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.', 'es',
+     'Aférrate a los sueños, porque si los sueños mueren, la vida es un pájaro con las alas rotas que no puede volar.');
