@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ideas are easy. Implementation is hard.', 'fr',
      'Les idées, c''est facile. Les réaliser, c''est difficile.'),
     ('Begin, be bold, and venture to be wise.', 'fr',
-     'Commence, sois audacieux et ose être sage.');
+     'Commence, sois audacieux et ose être sage.'),
+    ('Dream big and dare to fail.', 'fr',
+     'Rêve grand et ose échouer.');
