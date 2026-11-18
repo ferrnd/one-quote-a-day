@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Genius is one percent inspiration and ninety-nine percent perspiration.', 'nl',
      'Genialiteit is één procent inspiratie en negenennegentig procent transpiratie.'),
     ('The harder the conflict, the more glorious the triumph.', 'nl',
-     'Hoe zwaarder de strijd, hoe glorieuzer de triomf.');
+     'Hoe zwaarder de strijd, hoe glorieuzer de triomf.'),
+    ('Persistence guarantees that results are inevitable.', 'nl',
+     'Volharding garandeert dat resultaten onvermijdelijk zijn.');
