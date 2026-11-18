@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Unless someone like you cares a whole awful lot, nothing is going to get better. It''s not.', 'nl',
      'Tenzij iemand zoals jij er ontzettend veel om geeft, wordt niets beter. Echt niet.'),
     ('Tell me, what is it you plan to do with your one wild and precious life?', 'nl',
-     'Zeg me, wat ben je van plan te doen met je ene wilde en kostbare leven?');
+     'Zeg me, wat ben je van plan te doen met je ene wilde en kostbare leven?'),
+    ('Two roads diverged in a wood, and I, I took the one less traveled by, and that has made all the difference.', 'nl',
+     'Twee wegen gingen uiteen in een bos, en ik, ik nam de minst begane, en dat heeft het verschil gemaakt.');
