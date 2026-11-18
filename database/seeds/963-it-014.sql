@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who conquers himself.', 'it',
      'Anche se uno vincesse in battaglia mille volte mille uomini, il vincitore più nobile è colui che vince sé stesso.'),
     ('Strength lies in differences, not in similarities.', 'it',
-     'La forza sta nelle differenze, non nelle somiglianze.');
+     'La forza sta nelle differenze, non nelle somiglianze.'),
+    ('The weak can never forgive. Forgiveness is the attribute of the strong.', 'it',
+     'I deboli non sanno perdonare. Il perdono è una qualità dei forti.');
