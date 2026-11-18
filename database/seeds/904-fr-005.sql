@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To dare is to lose one''s footing momentarily. Not to dare is to lose oneself.', 'fr',
      'Oser, c''est perdre pied momentanément. Ne pas oser, c''est se perdre soi-même.'),
     ('It is not the mountain we conquer, but ourselves.', 'fr',
-     'Ce n''est pas la montagne que nous conquérons, mais nous-mêmes.');
+     'Ce n''est pas la montagne que nous conquérons, mais nous-mêmes.'),
+    ('Leap, and the net will appear.', 'fr',
+     'Saute, et le filet apparaîtra.');
