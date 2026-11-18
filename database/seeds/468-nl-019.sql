@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do what you can, with what you have, where you are.', 'nl',
      'Doe wat je kunt, met wat je hebt, waar je bent.'),
     ('A year from now you may wish you had started today.', 'nl',
-     'Over een jaar wens je misschien dat je vandaag was begonnen.');
+     'Over een jaar wens je misschien dat je vandaag was begonnen.'),
+    ('Change your thoughts and you change your world.', 'nl',
+     'Verander je gedachten en je verandert je wereld.');
