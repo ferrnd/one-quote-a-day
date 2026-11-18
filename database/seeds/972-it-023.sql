@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sweet are the uses of adversity.', 'it',
      'Dolci sono i frutti dell''avversità.'),
     ('Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.', 'it',
-     'Ogni avversità, ogni fallimento, ogni dolore porta con sé il seme di un beneficio pari o maggiore.');
+     'Ogni avversità, ogni fallimento, ogni dolore porta con sé il seme di un beneficio pari o maggiore.'),
+    ('The greater the difficulty, the more glory in surmounting it.', 'it',
+     'Più grande è la difficoltà, più grande è la gloria nel superarla.');
