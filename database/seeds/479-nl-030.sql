@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything comes gradually and at its appointed hour.', 'nl',
      'Alles komt geleidelijk en op het vastgestelde uur.'),
     ('Be patient and tough; someday this pain will be useful to you.', 'nl',
-     'Wees geduldig en sterk; op een dag zal deze pijn je van nut zijn.');
+     'Wees geduldig en sterk; op een dag zal deze pijn je van nut zijn.'),
+    ('Dripping water hollows out stone, not through force but through persistence.', 'nl',
+     'Druppelend water holt de steen uit, niet door kracht, maar door volharding.');
