@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t connect the dots looking forward; you can only connect them looking backwards.', 'pt-BR',
      'Você não consegue ligar os pontos olhando para a frente; só consegue ligá-los olhando para trás.'),
     ('Sometimes life hits you in the head with a brick. Don''t lose faith.', 'pt-BR',
-     'Às vezes a vida acerta sua cabeça com um tijolo. Não perca a fé.');
+     'Às vezes a vida acerta sua cabeça com um tijolo. Não perca a fé.'),
+    ('When something is important enough, you do it even if the odds are not in your favor.', 'pt-BR',
+     'Quando algo é importante o bastante, você faz, mesmo que as chances não estejam a seu favor.');
