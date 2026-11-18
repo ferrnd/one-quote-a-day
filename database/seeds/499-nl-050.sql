@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The purpose of life is to live it, to taste experience to the utmost.', 'nl',
      'Het doel van het leven is het te leven, de ervaring ten volle te proeven.'),
     ('The art of being wise is the art of knowing what to overlook.', 'nl',
-     'De kunst van wijs zijn is de kunst van weten wat je over het hoofd moet zien.');
+     'De kunst van wijs zijn is de kunst van weten wat je over het hoofd moet zien.'),
+    ('He who learns but does not think, is lost. He who thinks but does not learn is in great danger.', 'nl',
+     'Wie leert maar niet denkt, is verloren. Wie denkt maar niet leert, verkeert in groot gevaar.');
