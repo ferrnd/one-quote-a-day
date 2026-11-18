@@ -1,4 +1,5 @@
 -- seed 109 :: dreams (6)
 
 INSERT INTO intake (body, author, theme) VALUES
-    ('Dreams are illustrations from the book your soul is writing about you.', 'Marsha Norman', 'dreams');
+    ('Dreams are illustrations from the book your soul is writing about you.', 'Marsha Norman', 'dreams'),
+    ('Dream no small dreams for they have no power to move the hearts of men.', 'Johann Wolfgang von Goethe', 'dreams');
