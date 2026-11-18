@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.', 'nl',
      'En de dag kwam waarop het risico om een gesloten knop te blijven pijnlijker was dan het risico om open te bloeien.'),
     ('I am always doing that which I cannot do, in order that I may learn how to do it.', 'nl',
-     'Ik doe altijd wat ik niet kan, om te leren hoe het moet.');
+     'Ik doe altijd wat ik niet kan, om te leren hoe het moet.'),
+    ('Unless you try to do something beyond what you have already mastered, you will never grow.', 'nl',
+     'Als je niet probeert iets te doen wat verder gaat dan wat je al beheerst, zul je nooit groeien.');
