@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is not the opposite of success; it''s part of success.', 'nl',
      'Falen is niet het tegenovergestelde van succes; het is er een deel van.'),
     ('You build on failure. You use it as a stepping stone.', 'nl',
-     'Je bouwt voort op falen. Je gebruikt het als springplank.');
+     'Je bouwt voort op falen. Je gebruikt het als springplank.'),
+    ('A man of genius makes no mistakes. His errors are volitional and are the portals of discovery.', 'nl',
+     'Een genie maakt geen fouten. Zijn vergissingen zijn bewust en zijn de poorten tot ontdekking.');
