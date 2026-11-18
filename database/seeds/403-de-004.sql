@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All we have to decide is what to do with the time that is given us.', 'de',
      'Wir müssen nur entscheiden, was wir mit der Zeit anfangen, die uns gegeben ist.'),
     ('It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.', 'de',
-     'Es braucht viel Tapferkeit, sich seinen Feinden entgegenzustellen, aber genauso viel, sich seinen Freunden entgegenzustellen.');
+     'Es braucht viel Tapferkeit, sich seinen Feinden entgegenzustellen, aber genauso viel, sich seinen Freunden entgegenzustellen.'),
+    ('Do the thing you fear, and the death of fear is certain.', 'de',
+     'Tu, was du fürchtest, und der Tod der Angst ist gewiss.');
