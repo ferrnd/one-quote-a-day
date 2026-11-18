@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Try not to become a man of success, but rather try to become a man of value.', 'fr',
      'N''essaie pas de devenir un homme qui a du succès, essaie plutôt de devenir un homme qui a de la valeur.'),
     ('Patience is bitter, but its fruit is sweet.', 'fr',
-     'La patience est amère, mais son fruit est doux.');
+     'La patience est amère, mais son fruit est doux.'),
+    ('Adopt the pace of nature: her secret is patience.', 'fr',
+     'Adopte le rythme de la nature : son secret est la patience.');
