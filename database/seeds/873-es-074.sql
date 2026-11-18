@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you want to go fast, go alone. If you want to go far, go together.', 'es',
      'Si quieres ir rápido, ve solo. Si quieres llegar lejos, ve acompañado.'),
     ('Be not afraid.', 'es',
-     'No tengáis miedo.');
+     'No tengáis miedo.'),
+    ('I am not afraid of tomorrow, for I have seen yesterday and I love today.', 'es',
+     'No le temo al mañana, porque he visto el ayer y amo el hoy.');
