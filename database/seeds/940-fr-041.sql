@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'fr',
      'Un échec n''est pas toujours une erreur. C''est peut-être simplement le mieux que l''on pouvait faire dans ces circonstances. La vraie erreur, c''est d''arrêter d''essayer.'),
     ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'fr',
-     'Si tu n''échoues pas de temps en temps, c''est le signe que tu ne fais rien de très innovant.');
+     'Si tu n''échoues pas de temps en temps, c''est le signe que tu ne fais rien de très innovant.'),
+    ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'fr',
+     'L''échec arrive tout le temps. Il arrive chaque jour à l''entraînement. Ce qui te rend meilleur, c''est la façon dont tu y réagis.');
