@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t watch the clock; do what it does. Keep going.', 'nl',
      'Kijk niet naar de klok; doe wat zij doet. Ga door.'),
     ('What we hope ever to do with ease, we must learn first to do with diligence.', 'nl',
-     'Wat we ooit met gemak hopen te doen, moeten we eerst met vlijt leren doen.');
+     'Wat we ooit met gemak hopen te doen, moeten we eerst met vlijt leren doen.'),
+    ('In the confrontation between the stream and the rock, the stream always wins, not through strength but by perseverance.', 'nl',
+     'In de strijd tussen de beek en de rots wint de beek altijd, niet door kracht, maar door volharding.');
