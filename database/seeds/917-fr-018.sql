@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Discipline is remembering what you want.', 'fr',
      'La discipline, c''est se souvenir de ce que l''on veut.'),
     ('Make each day your masterpiece.', 'fr',
-     'Fais de chaque jour ton chef-d''œuvre.');
+     'Fais de chaque jour ton chef-d''œuvre.'),
+    ('Be quick, but don''t hurry.', 'fr',
+     'Sois rapide, mais ne te précipite pas.');
