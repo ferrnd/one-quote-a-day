@@ -5,4 +5,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Hard work without talent is a shame, but talent without hard work is a tragedy.', 'Robert Half', 'perseverance'),
     ('It ain''t over till it''s over.', 'Yogi Berra', 'perseverance'),
     ('We will either find a way, or make one.', 'Hannibal', 'perseverance'),
-    ('The secret of success is constancy to purpose.', 'Benjamin Disraeli', 'perseverance');
+    ('The secret of success is constancy to purpose.', 'Benjamin Disraeli', 'perseverance'),
+    ('Persist and persevere, and you will find most things that are attainable, possible.', 'Lord Chesterfield', 'perseverance');
