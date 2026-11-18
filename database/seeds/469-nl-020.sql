@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail.', 'nl',
      'Ik zal niet volgen waar het pad heen leidt, maar gaan waar geen pad is, en een spoor achterlaten.'),
     ('Becoming is better than being.', 'nl',
-     'Worden is beter dan zijn.');
+     'Worden is beter dan zijn.'),
+    ('Not everything that is faced can be changed, but nothing can be changed until it is faced.', 'nl',
+     'Niet alles wat je onder ogen ziet, kan veranderd worden, maar niets kan veranderd worden zolang je het niet onder ogen ziet.');
