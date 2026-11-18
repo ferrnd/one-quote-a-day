@@ -19,3 +19,13 @@ __pycache__/
 Thumbs.db
 .vercel
 .env*
+
+# android app (app/): build output and machine-specific paths
+app/android/.gradle/
+app/android/app/build/
+app/android/build/
+app/android/local.properties
+app/android/app/src/main/assets/public/
+app/android/capacitor-cordova-android-plugins/
+*.apk
+*.aab
