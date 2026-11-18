@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can''t go back to yesterday because I was a different person then.', 'pt-BR',
-     'Não adianta voltar ao dia de ontem, porque eu era outra pessoa.');
+     'Não adianta voltar ao dia de ontem, porque eu era outra pessoa.'),
+    ('Real change, enduring change, happens one step at a time.', 'pt-BR',
+     'A mudança verdadeira, a que dura, acontece um passo de cada vez.');
