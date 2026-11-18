@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every day may not be good, but there''s something good in every day.', 'nl',
      'Niet elke dag is goed, maar er zit iets goeds in elke dag.'),
     ('In the depth of winter, I finally learned that within me there lay an invincible summer.', 'nl',
-     'Midden in de winter ontdekte ik eindelijk dat er in mij een onoverwinnelijke zomer was.');
+     'Midden in de winter ontdekte ik eindelijk dat er in mij een onoverwinnelijke zomer was.'),
+    ('It is during our darkest moments that we must focus to see the light.', 'nl',
+     'Juist in onze donkerste momenten moeten we ons concentreren om het licht te zien.');
