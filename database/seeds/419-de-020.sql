@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Education is the most powerful weapon which you can use to change the world.', 'de',
      'Bildung ist die mächtigste Waffe, mit der man die Welt verändern kann.'),
     ('He who is not every day conquering some fear has not learned the secret of life.', 'de',
-     'Wer nicht jeden Tag eine Angst überwindet, hat das Geheimnis des Lebens nicht gelernt.');
+     'Wer nicht jeden Tag eine Angst überwindet, hat das Geheimnis des Lebens nicht gelernt.'),
+    ('Life begins at the end of your comfort zone.', 'de',
+     'Das Leben beginnt am Ende deiner Komfortzone.');
