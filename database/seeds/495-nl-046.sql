@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Long is the way and hard, that out of hell leads up to light.', 'nl',
      'Lang en zwaar is de weg die uit de hel naar het licht leidt.'),
     ('Accept challenges so that you may feel the exhilaration of victory.', 'nl',
-     'Neem uitdagingen aan, zodat je de opwinding van de overwinning kunt voelen.');
+     'Neem uitdagingen aan, zodat je de opwinding van de overwinning kunt voelen.'),
+    ('When it is obvious that the goals cannot be reached, don''t adjust the goals, adjust the action steps.', 'nl',
+     'Als duidelijk is dat de doelen niet bereikt kunnen worden, pas dan niet de doelen aan, maar de stappen ernaartoe.');
