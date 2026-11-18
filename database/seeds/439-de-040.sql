@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'de',
      'Das Mutigste, was du tun kannst, wenn du nicht mutig bist, ist, dich zum Mut zu bekennen und entsprechend zu handeln.'),
     ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'de',
-     'Mut heißt, das zu tun, wovor man Angst hat. Ohne Angst gibt es keinen Mut.');
+     'Mut heißt, das zu tun, wovor man Angst hat. Ohne Angst gibt es keinen Mut.'),
+    ('Fortune and love favor the brave.', 'de',
+     'Glück und Liebe sind mit den Mutigen.');
