@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only those who dare to fail greatly can ever achieve greatly.', 'es',
-     'Solo quienes se atreven a fracasar en grande pueden lograr algo grande.');
+     'Solo quienes se atreven a fracasar en grande pueden lograr algo grande.'),
+    ('Failure is the condiment that gives success its flavor.', 'es',
+     'El fracaso es el condimento que le da sabor al éxito.');
