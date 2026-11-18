@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not length of life, but depth of life.', 'de',
      'Es kommt nicht auf die Länge des Lebens an, sondern auf seine Tiefe.'),
     ('Once you make a decision, the universe conspires to make it happen.', 'de',
-     'Sobald du eine Entscheidung triffst, sorgt das Universum dafür, dass sie geschieht.');
+     'Sobald du eine Entscheidung triffst, sorgt das Universum dafür, dass sie geschieht.'),
+    ('To be great is to be misunderstood.', 'de',
+     'Groß sein heißt missverstanden werden.');
