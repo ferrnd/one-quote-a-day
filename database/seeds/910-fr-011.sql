@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We must accept finite disappointment, but never lose infinite hope.', 'fr',
      'Nous devons accepter la déception finie, mais ne jamais perdre l''espoir infini.'),
     ('Only in the darkness can you see the stars.', 'fr',
-     'Ce n''est que dans l''obscurité qu''on peut voir les étoiles.');
+     'Ce n''est que dans l''obscurité qu''on peut voir les étoiles.'),
+    ('Even the darkest night will end and the sun will rise.', 'fr',
+     'Même la nuit la plus sombre prendra fin, et le soleil se lèvera.');
