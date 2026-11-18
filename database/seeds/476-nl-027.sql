@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.', 'nl',
      'Als je een stem in je hoort zeggen ''je kunt niet schilderen'', schilder dan vooral, en die stem zal verstommen.'),
     ('Whatever the mind of man can conceive and believe, it can achieve.', 'nl',
-     'Wat de menselijke geest kan bedenken en geloven, kan hij bereiken.');
+     'Wat de menselijke geest kan bedenken en geloven, kan hij bereiken.'),
+    ('The man who has confidence in himself gains the confidence of others.', 'nl',
+     'Wie vertrouwen heeft in zichzelf, wint het vertrouwen van anderen.');
