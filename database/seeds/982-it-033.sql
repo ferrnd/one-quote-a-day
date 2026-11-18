@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only way to do great work is to love what you do.', 'it',
      'L''unico modo di fare un ottimo lavoro è amare quello che fate.'),
     ('You can''t connect the dots looking forward; you can only connect them looking backwards.', 'it',
-     'Non si possono unire i puntini guardando avanti; si possono unire solo guardando indietro.');
+     'Non si possono unire i puntini guardando avanti; si possono unire solo guardando indietro.'),
+    ('Sometimes life hits you in the head with a brick. Don''t lose faith.', 'it',
+     'A volte la vita ti colpisce in testa con un mattone. Non perdere la fede.');
