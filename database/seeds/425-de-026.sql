@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The most difficult thing is the decision to act, the rest is merely tenacity.', 'de',
      'Das Schwierigste ist die Entscheidung zu handeln, der Rest ist nur Beharrlichkeit.'),
     ('The most effective way to do it, is to do it.', 'de',
-     'Der wirksamste Weg, es zu tun, ist, es zu tun.');
+     'Der wirksamste Weg, es zu tun, ist, es zu tun.'),
+    ('Don''t sit down and wait for the opportunities to come. Get up and make them.', 'de',
+     'Setz dich nicht hin und warte darauf, dass die Gelegenheiten kommen. Steh auf und schaffe sie.');
