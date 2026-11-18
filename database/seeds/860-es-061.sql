@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is power. Patience is not an absence of action; rather it is timing.', 'es',
      'La paciencia es poder. La paciencia no es ausencia de acción; es saber elegir el momento.'),
     ('Wise to resolve, and patient to perform.', 'es',
-     'Sabio para decidir y paciente para ejecutar.');
+     'Sabio para decidir y paciente para ejecutar.'),
+    ('I am extraordinarily patient, provided I get my own way in the end.', 'es',
+     'Soy extraordinariamente paciente, siempre que al final se haga lo que yo quiero.');
