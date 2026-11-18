@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t wish it were easier, wish you were better.', 'fr',
      'Ne souhaite pas que ce soit plus facile ; souhaite être meilleur.'),
     ('Either you run the day or the day runs you.', 'fr',
-     'Soit tu mènes ta journée, soit c''est elle qui te mène.');
+     'Soit tu mènes ta journée, soit c''est elle qui te mène.'),
+    ('With self-discipline most anything is possible.', 'fr',
+     'Avec de l''autodiscipline, presque tout est possible.');
