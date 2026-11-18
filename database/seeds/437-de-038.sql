@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you don''t like the road you''re walking, start paving another one.', 'de',
      'Wenn dir der Weg, den du gehst, nicht gefällt, fang an, einen anderen zu pflastern.'),
     ('You get in life what you have the courage to ask for.', 'de',
-     'Du bekommst vom Leben, was du den Mut hast, zu verlangen.');
+     'Du bekommst vom Leben, was du den Mut hast, zu verlangen.'),
+    ('Success isn''t about how much money you make; it''s about the difference you make in people''s lives.', 'de',
+     'Bei Erfolg geht es nicht darum, wie viel Geld du verdienst, sondern um den Unterschied, den du im Leben anderer machst.');
