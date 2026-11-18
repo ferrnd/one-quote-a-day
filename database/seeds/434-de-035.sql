@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The starting point of all achievement is desire.', 'de',
      'Der Ausgangspunkt jeder Leistung ist das Verlangen.'),
     ('A goal is a dream with a deadline.', 'de',
-     'Ein Ziel ist ein Traum mit einer Frist.');
+     'Ein Ziel ist ein Traum mit einer Frist.'),
+    ('It''s the possibility of having a dream come true that makes life interesting.', 'de',
+     'Die Möglichkeit, einen Traum zu verwirklichen, macht das Leben interessant.');
