@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Bravery is the capacity to perform properly even when scared half to death.', 'de',
      'Tapferkeit ist die Fähigkeit, richtig zu handeln, selbst wenn man halb zu Tode erschrocken ist.'),
     ('With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble.', 'de',
-     'Mit Mut wagst du Risiken, hast die Kraft, mitfühlend zu sein, und die Weisheit, demütig zu sein.');
+     'Mit Mut wagst du Risiken, hast die Kraft, mitfühlend zu sein, und die Weisheit, demütig zu sein.'),
+    ('One isn''t necessarily born with courage, but one is born with potential.', 'de',
+     'Man wird nicht unbedingt mit Mut geboren, aber man wird mit Potenzial geboren.');
