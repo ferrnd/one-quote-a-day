@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('An inventor fails 999 times, and if he succeeds once, he''s in.', 'fr',
      'Un inventeur échoue 999 fois, et s''il réussit une seule fois, c''est gagné.'),
     ('Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.', 'fr',
-     'Remarquez que l''arbre le plus rigide est celui qui se brise le plus facilement, tandis que le bambou ou le saule survivent en pliant sous le vent.');
+     'Remarquez que l''arbre le plus rigide est celui qui se brise le plus facilement, tandis que le bambou ou le saule survivent en pliant sous le vent.'),
+    ('Don''t fear failure. Not failure, but low aim, is the crime.', 'fr',
+     'Ne crains pas l''échec. Le crime n''est pas d''échouer, mais de viser trop bas.');
