@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Wise to resolve, and patient to perform.', 'de',
      'Weise im Entschluss, geduldig in der Ausführung.'),
     ('I am extraordinarily patient, provided I get my own way in the end.', 'de',
-     'Ich bin außerordentlich geduldig, vorausgesetzt, ich bekomme am Ende meinen Willen.');
+     'Ich bin außerordentlich geduldig, vorausgesetzt, ich bekomme am Ende meinen Willen.'),
+    ('If you are patient in one moment of anger, you will escape a hundred days of sorrow.', 'de',
+     'Wenn du in einem Moment der Wut geduldig bist, entgehst du hundert Tagen Kummer.');
