@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We suffer more often in imagination than in reality.', 'nl',
      'We lijden vaker in onze verbeelding dan in werkelijkheid.'),
     ('Mastering others is strength. Mastering yourself is true power.', 'nl',
-     'Anderen beheersen is kracht. Jezelf beheersen is ware macht.');
+     'Anderen beheersen is kracht. Jezelf beheersen is ware macht.'),
+    ('Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who conquers himself.', 'nl',
+     'Al overwint iemand in de strijd duizend maal duizend mensen, de edelste overwinnaar is hij die zichzelf overwint.');
