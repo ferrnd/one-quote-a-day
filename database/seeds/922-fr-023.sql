@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is a rough road that leads to the heights of greatness.', 'fr',
      'C''est une route rude qui mène aux sommets de la grandeur.'),
     ('Difficult roads often lead to beautiful destinations.', 'fr',
-     'Les routes difficiles mènent souvent à de belles destinations.');
+     'Les routes difficiles mènent souvent à de belles destinations.'),
+    ('In the midst of chaos, there is also opportunity.', 'fr',
+     'Au cœur du chaos, il y a aussi des opportunités.');
