@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you can''t fly then run, if you can''t run then walk, if you can''t walk then crawl, but whatever you do you have to keep moving forward.', 'es',
      'Si no puedes volar, corre; si no puedes correr, camina; si no puedes caminar, gatea; pero hagas lo que hagas, sigue avanzando.'),
     ('The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.', 'es',
-     'La verdadera medida de un hombre no es dónde se sitúa en momentos de comodidad y conveniencia, sino dónde se sitúa en tiempos de desafío y controversia.');
+     'La verdadera medida de un hombre no es dónde se sitúa en momentos de comodidad y conveniencia, sino dónde se sitúa en tiempos de desafío y controversia.'),
+    ('Darkness cannot drive out darkness; only light can do that.', 'es',
+     'La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacerlo.');
