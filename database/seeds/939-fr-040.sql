@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you''re supposed to do when you don''t like a thing is change it.', 'fr',
      'Ce que tu dois faire quand une chose ne te plaît pas, c''est la changer.'),
     ('Be brave. Take risks. Nothing can substitute experience.', 'fr',
-     'Sois courageux. Prends des risques. Rien ne remplace l''expérience.');
+     'Sois courageux. Prends des risques. Rien ne remplace l''expérience.'),
+    ('He who is brave is free.', 'fr',
+     'Celui qui est courageux est libre.');
