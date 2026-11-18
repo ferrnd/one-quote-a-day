@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I was taught that the way of progress was neither swift nor easy.', 'pt-BR',
      'Aprendi que o caminho do progresso não é rápido nem fácil.'),
     ('Adversity causes some men to break; others to break records.', 'pt-BR',
-     'A adversidade faz alguns homens se quebrarem; outros, quebrarem recordes.');
+     'A adversidade faz alguns homens se quebrarem; outros, quebrarem recordes.'),
+    ('Prosperity is not without many fears and distastes; and adversity is not without comforts and hopes.', 'pt-BR',
+     'A prosperidade não está livre de muitos medos e desgostos, e a adversidade não está livre de consolos e esperanças.');
