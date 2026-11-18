@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adopt the pace of nature: her secret is patience.', 'it',
      'Adotta il ritmo della natura: il suo segreto è la pazienza.'),
     ('Nature does not hurry, yet everything is accomplished.', 'it',
-     'La natura non ha fretta, eppure tutto si compie.');
+     'La natura non ha fretta, eppure tutto si compie.'),
+    ('Trees that are slow to grow bear the best fruit.', 'it',
+     'Gli alberi che crescono lentamente danno i frutti migliori.');
