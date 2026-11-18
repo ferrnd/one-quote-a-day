@@ -76,3 +76,30 @@ BEGIN
             (SELECT id FROM themes  WHERE slug = NEW.theme));
 END;
 
+-- @section catalog -----------------------------------------------------------
+--  Read models consumed by the build pipeline and handy for ad-hoc queries.
+
+CREATE VIEW catalog AS
+    SELECT q.id   AS id,
+           q.body AS body,
+           a.id   AS author_id,
+           a.name AS author,
+           t.slug AS theme
+      FROM quotes q
+      JOIN authors a ON a.id = q.author_id
+      JOIN themes  t ON t.id = q.theme_id
+  ORDER BY q.id;
+
+CREATE VIEW theme_stats AS
+    SELECT t.slug AS theme, t.title AS title, count(q.id) AS quotes
+      FROM themes t
+ LEFT JOIN quotes q ON q.theme_id = t.id
+  GROUP BY t.id
+  ORDER BY t.id;
+
+CREATE VIEW author_stats AS
+    SELECT a.name AS author, count(q.id) AS quotes
+      FROM authors a
+      JOIN quotes q ON q.author_id = a.id
+  GROUP BY a.id
+  ORDER BY quotes DESC, a.name;
