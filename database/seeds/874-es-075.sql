@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Finish each day and be done with it. You have done what you could.', 'es',
      'Termina cada día y déjalo atrás. Hiciste lo que pudiste.'),
     ('The years teach much which the days never know.', 'es',
-     'Los años enseñan mucho que los días nunca saben.');
+     'Los años enseñan mucho que los días nunca saben.'),
+    ('Write it on your heart that every day is the best day in the year.', 'es',
+     'Escribe en tu corazón que cada día es el mejor día del año.');
