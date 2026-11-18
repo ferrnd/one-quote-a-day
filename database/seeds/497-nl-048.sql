@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('They can conquer who believe they can.', 'nl',
      'Zij kunnen overwinnen die geloven dat ze het kunnen.'),
     ('There are no limits. There are plateaus, but you must not stay there, you must go beyond them.', 'nl',
-     'Er zijn geen grenzen. Er zijn plateaus, maar daar mag je niet blijven; je moet erboven uitstijgen.');
+     'Er zijn geen grenzen. Er zijn plateaus, maar daar mag je niet blijven; je moet erboven uitstijgen.'),
+    ('A goal is not always meant to be reached, it often serves simply as something to aim at.', 'nl',
+     'Een doel hoeft niet altijd bereikt te worden; vaak dient het gewoon als iets om op te mikken.');
