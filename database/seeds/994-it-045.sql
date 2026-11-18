@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Anyone who stops learning is old, whether at twenty or eighty.', 'it',
      'Chi smette di imparare è vecchio, che abbia vent''anni o ottanta.'),
     ('The only real voyage of discovery consists not in seeking new landscapes, but in having new eyes.', 'it',
-     'Il vero viaggio di scoperta non consiste nel cercare nuove terre, ma nell''avere nuovi occhi.');
+     'Il vero viaggio di scoperta non consiste nel cercare nuove terre, ma nell''avere nuovi occhi.'),
+    ('Not until we are lost do we begin to understand ourselves.', 'it',
+     'Solo quando ci perdiamo cominciamo a capire noi stessi.');
