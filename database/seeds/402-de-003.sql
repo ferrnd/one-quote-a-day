@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I learned that courage was not the absence of fear, but the triumph over it.', 'de',
      'Ich habe gelernt, dass Mut nicht die Abwesenheit von Angst ist, sondern der Triumph über sie.'),
     ('You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.', 'de',
-     'Du gewinnst Kraft, Mut und Zuversicht durch jede Erfahrung, bei der du innehältst und der Angst ins Gesicht siehst.');
+     'Du gewinnst Kraft, Mut und Zuversicht durch jede Erfahrung, bei der du innehältst und der Angst ins Gesicht siehst.'),
+    ('Courage is resistance to fear, mastery of fear, not absence of fear.', 'de',
+     'Mut ist Widerstand gegen die Angst, Beherrschung der Angst, nicht die Abwesenheit von Angst.');
