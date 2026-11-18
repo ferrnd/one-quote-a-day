@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard work without talent is a shame, but talent without hard work is a tragedy.', 'nl',
      'Hard werken zonder talent is jammer, maar talent zonder hard werken is een tragedie.'),
     ('It ain''t over till it''s over.', 'nl',
-     'Het is pas voorbij als het voorbij is.');
+     'Het is pas voorbij als het voorbij is.'),
+    ('We will either find a way, or make one.', 'nl',
+     'We vinden een weg, of we maken er een.');
