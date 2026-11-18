@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'nl',
      'Vooruitgang brengt altijd risico''s met zich mee. Je kunt het tweede honk niet stelen met je voet op het eerste.'),
     ('The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday''s logic.', 'nl',
-     'Het grootste gevaar in tijden van turbulentie is niet de turbulentie, maar handelen met de logica van gisteren.');
+     'Het grootste gevaar in tijden van turbulentie is niet de turbulentie, maar handelen met de logica van gisteren.'),
+    ('We must be willing to let go of the life we planned so as to have the life that is waiting for us.', 'nl',
+     'We moeten bereid zijn het leven los te laten dat we hadden gepland, om het leven te hebben dat op ons wacht.');
