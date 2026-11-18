@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope smiles from the threshold of the year to come, whispering ''it will be happier''.', 'it',
-     'La speranza sorride dalla soglia dell''anno che verrà, sussurrando: "sarà più felice".');
+     'La speranza sorride dalla soglia dell''anno che verrà, sussurrando: "sarà più felice".'),
+    ('To live without hope is to cease to live.', 'it',
+     'Vivere senza speranza è smettere di vivere.');
