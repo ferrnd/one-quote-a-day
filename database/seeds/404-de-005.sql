@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Freedom lies in being bold.', 'de',
      'Freiheit liegt darin, kühn zu sein.'),
     ('The only thing we have to fear is fear itself.', 'de',
-     'Das Einzige, was wir zu fürchten haben, ist die Furcht selbst.');
+     'Das Einzige, was wir zu fürchten haben, ist die Furcht selbst.'),
+    ('Courage is knowing what not to fear.', 'de',
+     'Mut heißt zu wissen, was man nicht fürchten muss.');
