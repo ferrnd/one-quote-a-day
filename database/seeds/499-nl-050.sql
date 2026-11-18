@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The art of being wise is the art of knowing what to overlook.', 'nl',
      'De kunst van wijs zijn is de kunst van weten wat je over het hoofd moet zien.'),
     ('He who learns but does not think, is lost. He who thinks but does not learn is in great danger.', 'nl',
-     'Wie leert maar niet denkt, is verloren. Wie denkt maar niet leert, verkeert in groot gevaar.');
+     'Wie leert maar niet denkt, is verloren. Wie denkt maar niet leert, verkeert in groot gevaar.'),
+    ('The best revenge is not to be like your enemy.', 'nl',
+     'De beste wraak is niet te zijn zoals je vijand.');
