@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You may delay, but time will not.', 'fr',
      'Tu peux remettre à plus tard, mais le temps, lui, ne le fera pas.'),
     ('Either write something worth reading or do something worth writing.', 'fr',
-     'Écris quelque chose qui vaille la peine d''être lu, ou fais quelque chose qui vaille la peine d''être écrit.');
+     'Écris quelque chose qui vaille la peine d''être lu, ou fais quelque chose qui vaille la peine d''être écrit.'),
+    ('Some people want it to happen, some wish it would happen, others make it happen.', 'fr',
+     'Certains veulent que cela arrive, d''autres souhaitent que cela arrive, d''autres encore le font arriver.');
