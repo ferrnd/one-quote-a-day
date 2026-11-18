@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Pain and suffering are always inevitable for a large intelligence and a deep heart.', 'it',
      'Il dolore e la sofferenza sono sempre inevitabili per una grande intelligenza e un cuore profondo.'),
     ('Long is the way and hard, that out of hell leads up to light.', 'it',
-     'Lunga e dura è la via che dall''inferno conduce alla luce.');
+     'Lunga e dura è la via che dall''inferno conduce alla luce.'),
+    ('Accept challenges so that you may feel the exhilaration of victory.', 'it',
+     'Accetta le sfide, così potrai provare l''euforia della vittoria.');
