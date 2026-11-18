@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Unless you try to do something beyond what you have already mastered, you will never grow.', 'fr',
      'Si tu n''essaies pas de faire quelque chose au-delà de ce que tu maîtrises déjà, tu ne grandiras jamais.'),
     ('We know what we are, but know not what we may be.', 'fr',
-     'Nous savons ce que nous sommes, mais non ce que nous pouvons être.');
+     'Nous savons ce que nous sommes, mais non ce que nous pouvons être.'),
+    ('Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.', 'fr',
+     'Nos doutes sont des traîtres qui nous font perdre le bien que nous pourrions souvent gagner, par peur d''essayer.');
