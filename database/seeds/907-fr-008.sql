@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you learn from defeat, you haven''t really lost.', 'fr',
      'Si tu tires une leçon de la défaite, tu n''as pas vraiment perdu.'),
     ('The master has failed more times than the beginner has even tried.', 'fr',
-     'Le maître a échoué plus de fois que le débutant n''a même essayé.');
+     'Le maître a échoué plus de fois que le débutant n''a même essayé.'),
+    ('It''s fine to celebrate success but it is more important to heed the lessons of failure.', 'fr',
+     'Il est bon de célébrer le succès, mais il est plus important de tirer les leçons de l''échec.');
