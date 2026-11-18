@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Where there is no struggle, there is no strength.', 'nl',
      'Waar geen strijd is, is geen kracht.'),
     ('Turn your wounds into wisdom.', 'nl',
-     'Verander je wonden in wijsheid.');
+     'Verander je wonden in wijsheid.'),
+    ('When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.', 'nl',
+     'Als alles tegen je lijkt te gaan, onthoud dan dat een vliegtuig opstijgt tegen de wind in, niet met de wind mee.');
