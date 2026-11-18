@@ -7,4 +7,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('No act of kindness, no matter how small, is ever wasted.', 'Aesop', 'wisdom'),
     ('The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.', 'Helen Keller', 'wisdom'),
     ('What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.', 'Helen Keller', 'wisdom'),
-    ('Happiness is not a goal; it is a by-product.', 'Eleanor Roosevelt', 'wisdom');
+    ('Happiness is not a goal; it is a by-product.', 'Eleanor Roosevelt', 'wisdom'),
+    ('The purpose of life is to live it, to taste experience to the utmost.', 'Eleanor Roosevelt', 'wisdom');
