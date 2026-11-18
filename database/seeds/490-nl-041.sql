@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'nl',
      'Falen gebeurt voortdurend. Het gebeurt elke dag op de training. Wat je beter maakt, is hoe je erop reageert.'),
     ('There are no mistakes or failures, only lessons.', 'nl',
-     'Er zijn geen fouten of mislukkingen, alleen lessen.');
+     'Er zijn geen fouten of mislukkingen, alleen lessen.'),
+    ('I have learned more from my mistakes than from my successes.', 'nl',
+     'Ik heb meer geleerd van mijn fouten dan van mijn successen.');
