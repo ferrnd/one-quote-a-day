@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.', 'nl',
      'Wees als de kaap waartegen de golven onophoudelijk breken: hij blijft staan en bedwingt het woeden van het water om hem heen.'),
     ('Mighty oaks from little acorns grow.', 'nl',
-     'Uit kleine eikels groeien machtige eiken.');
+     'Uit kleine eikels groeien machtige eiken.'),
+    ('It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.', 'nl',
+     'Het is niet omdat dingen moeilijk zijn dat we niet durven; het is omdat we niet durven dat ze moeilijk zijn.');
