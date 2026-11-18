@@ -16,8 +16,8 @@
 import {
   dateKey, formatCountdown, isNight, localDateParts, msUntilNextLocalMidnight,
   msUntilNextThemeChange, parseDateKey,
-} from "./clock.js?v=d79c6a06dbfa";
-import { formatDate, translateDocument, tr } from "./i18n.js?v=d79c6a06dbfa";
+} from "./clock.js?v=6d16f903a506";
+import { formatDate, translateDocument, tr } from "./i18n.js?v=6d16f903a506";
 
 const WASM_URL = new URL("quotes.wasm?v=2ac3d5e57c85", import.meta.url);
 const WATCHDOG_MS = 60_000;
@@ -739,8 +739,26 @@ async function renderCard() {
   } while (lines.length * size * 1.22 > CARD * 0.52 && size > 34);
   size += 2;
   const lineHeight = size * 1.22;
-  const authorBlock = author ? 150 : 0;
-  let y = (CARD - lines.length * lineHeight - authorBlock) / 2 + lineHeight / 2;
+  // the whole composition is centred as one block:
+  // DAY 2 / quote / rule / AUTHOR / site link
+  const dayBlock = 90;
+  const authorBlock = author ? 150 : 40;
+  const linkBlock = 64;
+  let y = (CARD - dayBlock - lines.length * lineHeight - authorBlock - linkBlock) / 2;
+
+  /** small grey capitals, centred, compensating the trailing letter-spacing */
+  const caption = (label, weight, px, spacing, alpha, at) => {
+    ctx.save();
+    ctx.globalAlpha = alpha;
+    ctx.font = `${weight} ${px}px ${family}`;
+    if ("letterSpacing" in ctx) ctx.letterSpacing = `${spacing}px`;
+    ctx.fillText(label, CARD / 2 + spacing / 2, at);
+    ctx.restore();
+  };
+
+  caption((counterLabel.textContent ?? "").toUpperCase(), 700, 24, 6, 0.4, y + 24);
+  y += dayBlock + lineHeight / 2;
+
   for (const line of lines) {
     ctx.fillText(line, CARD / 2, y);
     y += lineHeight;
@@ -753,19 +771,11 @@ async function renderCard() {
     ctx.moveTo(CARD / 2 - 32, y);
     ctx.lineTo(CARD / 2 + 32, y);
     ctx.stroke();
-    ctx.font = `500 26px ${family}`;
-    if ("letterSpacing" in ctx) ctx.letterSpacing = "8px";
-    ctx.fillText(author, CARD / 2 + 4, y + 62);
+    caption(author, 500, 26, 8, 1, y + 62);
+    y += 62;
   }
 
-  ctx.globalAlpha = 0.4;
-  ctx.font = `700 24px ${family}`;
-  if ("letterSpacing" in ctx) ctx.letterSpacing = "4px";
-  ctx.textBaseline = "alphabetic";
-  ctx.textAlign = "left";
-  ctx.fillText("QUOTES", 72, CARD - 72);
-  ctx.textAlign = "right";
-  ctx.fillText(counterLabel.textContent?.toUpperCase() ?? "", CARD - 72, CARD - 72);
+  caption(location.host || "quoteaday.vercel.app", 500, 22, 3, 0.4, y + linkBlock);
   return canvas;
 }
 
