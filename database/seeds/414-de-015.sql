@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our strength grows out of our weaknesses.', 'de',
      'Unsere Stärke wächst aus unseren Schwächen.'),
     ('Fortitude is the guard and support of the other virtues.', 'de',
-     'Seelenstärke ist die Wächterin und Stütze der anderen Tugenden.');
+     'Seelenstärke ist die Wächterin und Stütze der anderen Tugenden.'),
+    ('I am no bird; and no net ensnares me: I am a free human being with an independent will.', 'de',
+     'Ich bin kein Vogel, und kein Netz fängt mich: Ich bin ein freier Mensch mit einem unabhängigen Willen.');
