@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a good thing, maybe the best of things, and no good thing ever dies.', 'nl',
      'Hoop is iets goeds, misschien wel het beste wat er is, en goede dingen sterven nooit.'),
     ('The darkest hour has only sixty minutes.', 'nl',
-     'Het donkerste uur heeft maar zestig minuten.');
+     'Het donkerste uur heeft maar zestig minuten.'),
+    ('Never lose hope. Storms make people stronger and never last forever.', 'nl',
+     'Verlies nooit de hoop. Stormen maken mensen sterker en duren nooit eeuwig.');
