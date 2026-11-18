@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.', 'it',
      'Punta in alto, perché in te si nascondono le stelle. Sogna in profondità, perché ogni sogno precede la meta.'),
     ('I dream my painting and I paint my dream.', 'it',
-     'Sogno i miei quadri e dipingo i miei sogni.');
+     'Sogno i miei quadri e dipingo i miei sogni.'),
+    ('Dreams don''t work unless you do.', 'it',
+     'I sogni non funzionano se non lavori tu.');
