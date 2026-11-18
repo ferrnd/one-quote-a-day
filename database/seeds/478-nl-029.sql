@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you think you are beaten, you are.', 'nl',
      'Als je denkt dat je verslagen bent, dan ben je dat.'),
     ('Sooner or later the man who wins is the man who thinks he can.', 'nl',
-     'Vroeg of laat wint degene die denkt dat hij het kan.');
+     'Vroeg of laat wint degene die denkt dat hij het kan.'),
+    ('We become what we think about.', 'nl',
+     'We worden waar we aan denken.');
