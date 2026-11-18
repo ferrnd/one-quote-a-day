@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes.', 'nl',
      'Falen is leerzaam. Wie echt nadenkt, leert evenveel van zijn mislukkingen als van zijn successen.'),
     ('Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.', 'nl',
-     'Onze grootste zwakte is opgeven. De zekerste manier om te slagen is altijd nog één keer te proberen.');
+     'Onze grootste zwakte is opgeven. De zekerste manier om te slagen is altijd nog één keer te proberen.'),
+    ('Good people are good because they''ve come to wisdom through failure.', 'nl',
+     'Goede mensen zijn goed omdat ze via falen tot wijsheid zijn gekomen.');
