@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 import sqlite3
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 
 MIN_QUOTES = 500
@@ -23,10 +23,18 @@ class Quote:
 
 
 @dataclass(frozen=True)
+class Dedication:
+    day: str  # ISO date
+    body: str
+    author: str | None
+
+
+@dataclass(frozen=True)
 class Catalog:
     quotes: list[Quote]
     authors: list[str]  # index i holds the author with id i + 1
     themes: list[tuple[str, str, int]]
+    dedications: list[Dedication] = field(default_factory=list)
 
     def __len__(self) -> int:
         return len(self.quotes)
@@ -80,9 +88,11 @@ def read_catalog(conn: sqlite3.Connection) -> Catalog:
         "SELECT id, body, author_id, author, theme FROM catalog")]
     authors = [row[0] for row in conn.execute("SELECT name FROM authors ORDER BY id")]
     themes = [tuple(row) for row in conn.execute("SELECT theme, title, quotes FROM theme_stats")]
+    dedications = [Dedication(*row) for row in conn.execute(
+        "SELECT day, body, author FROM dedications ORDER BY day")]
     if [a.id for a in quotes] != list(range(1, len(quotes) + 1)):
         raise DatabaseError("catalog ids are not 1..N")
-    return Catalog(quotes=quotes, authors=authors, themes=themes)
+    return Catalog(quotes=quotes, authors=authors, themes=themes, dedications=dedications)
 
 
 def load(root: Path) -> Catalog:
