@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Very little is needed to make a happy life; it is all within yourself, in your way of thinking.', 'de',
      'Man braucht sehr wenig für ein glückliches Leben; es liegt alles in dir selbst, in deiner Art zu denken.'),
     ('A positive attitude can really make dreams come true.', 'de',
-     'Eine positive Einstellung kann Träume tatsächlich wahr werden lassen.');
+     'Eine positive Einstellung kann Träume tatsächlich wahr werden lassen.'),
+    ('Optimism is a happiness magnet.', 'de',
+     'Optimismus ist ein Magnet für das Glück.');
