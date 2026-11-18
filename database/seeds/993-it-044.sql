@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''m not going to limit myself just because people won''t accept the fact that I can do something else.', 'it',
      'Non mi limiterò solo perché la gente non accetta che io sappia fare qualcos''altro.'),
     ('Nobody has ever measured, not even poets, how much the heart can hold.', 'it',
-     'Nessuno ha mai misurato, nemmeno i poeti, quanto possa contenere un cuore.');
+     'Nessuno ha mai misurato, nemmeno i poeti, quanto possa contenere un cuore.'),
+    ('Not all of us can do great things. But we can do small things with great love.', 'it',
+     'Non tutti possiamo fare grandi cose. Ma possiamo fare piccole cose con grande amore.');
