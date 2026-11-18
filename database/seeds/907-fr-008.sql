@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never confuse a single defeat with a final defeat.', 'fr',
      'Ne confonds jamais une défaite avec la défaite finale.'),
     ('Do not be embarrassed by your failures, learn from them and start again.', 'fr',
-     'N''aie pas honte de tes échecs ; apprends d''eux et recommence.');
+     'N''aie pas honte de tes échecs ; apprends d''eux et recommence.'),
+    ('Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.', 'fr',
+     'De la souffrance sont nées les âmes les plus fortes ; les caractères les plus solides portent des cicatrices.');
