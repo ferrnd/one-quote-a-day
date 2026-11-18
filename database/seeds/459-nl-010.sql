@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Difficulties strengthen the mind, as labor does the body.', 'nl',
      'Moeilijkheden versterken de geest, zoals arbeid het lichaam versterkt.'),
     ('Although no one can go back and make a brand new start, anyone can start from now and make a brand new ending.', 'nl',
-     'Hoewel niemand terug kan gaan om een gloednieuw begin te maken, kan iedereen nu beginnen en een gloednieuw einde maken.');
+     'Hoewel niemand terug kan gaan om een gloednieuw begin te maken, kan iedereen nu beginnen en een gloednieuw einde maken.'),
+    ('I''ve been absolutely terrified every moment of my life and I''ve never let it keep me from doing a single thing I wanted to do.', 'nl',
+     'Ik ben elk moment van mijn leven doodsbang geweest en ik heb me daardoor nooit laten tegenhouden om ook maar iets te doen wat ik wilde.');
