@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''d rather be a failure at something I love than a success at something I hate.', 'pt-BR',
      'Prefiro fracassar em algo que amo a ter sucesso em algo que odeio.'),
     ('There is no failure except in no longer trying.', 'pt-BR',
-     'Não existe fracasso, a não ser parar de tentar.');
+     'Não existe fracasso, a não ser parar de tentar.'),
+    ('Failure will never overtake me if my determination to succeed is strong enough.', 'pt-BR',
+     'O fracasso nunca vai me alcançar se a minha determinação de vencer for forte o bastante.');
