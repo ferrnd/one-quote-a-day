@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Pain is temporary. Quitting lasts forever.', 'fr',
      'La douleur est temporaire. L''abandon est éternel.'),
     ('I have stood on a mountain of no''s for one yes.', 'fr',
-     'Je me suis tenue sur une montagne de non pour un seul oui.');
+     'Je me suis tenue sur une montagne de non pour un seul oui.'),
+    ('I had to make my own living and my own opportunity. But I made it!', 'fr',
+     'J''ai dû gagner ma vie et créer ma propre chance. Mais j''y suis arrivée !');
