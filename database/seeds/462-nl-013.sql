@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be like the bird who, halting in his flight on limb too slight, feels it give way beneath him, yet sings, knowing he hath wings.', 'nl',
      'Wees als de vogel die even rust op een te tere tak, die voelt dat hij onder hem bezwijkt en toch zingt, wetend dat hij vleugels heeft.'),
     ('While I breathe, I hope.', 'nl',
-     'Zolang ik adem, hoop ik.');
+     'Zolang ik adem, hoop ik.'),
+    ('Every day may not be good, but there''s something good in every day.', 'nl',
+     'Niet elke dag is goed, maar er zit iets goeds in elke dag.');
