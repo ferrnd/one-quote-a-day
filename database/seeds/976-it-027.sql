@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our life is what our thoughts make it.', 'it',
      'La nostra vita è ciò che i nostri pensieri ne fanno.'),
     ('The happiness of your life depends upon the quality of your thoughts.', 'it',
-     'La felicità della tua vita dipende dalla qualità dei tuoi pensieri.');
+     'La felicità della tua vita dipende dalla qualità dei tuoi pensieri.'),
+    ('Very little is needed to make a happy life; it is all within yourself, in your way of thinking.', 'it',
+     'Basta pochissimo per avere una vita felice; è tutto dentro di te, nel tuo modo di pensare.');
