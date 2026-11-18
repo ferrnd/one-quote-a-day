@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is not falling down but refusing to get up.', 'nl',
      'Falen is niet vallen, maar weigeren op te staan.'),
     ('The successful man will profit from his mistakes and try again in a different way.', 'nl',
-     'De succesvolle mens haalt voordeel uit zijn fouten en probeert het op een andere manier opnieuw.');
+     'De succesvolle mens haalt voordeel uit zijn fouten en probeert het op een andere manier opnieuw.'),
+    ('Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.', 'nl',
+     'Ontwikkel succes uit mislukkingen. Ontmoediging en falen zijn twee van de zekerste opstapjes naar succes.');
