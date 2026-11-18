@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perpetual optimism is a force multiplier.', 'de',
      'Beständiger Optimismus vervielfacht die Kraft.'),
     ('If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.', 'de',
-     'Wenn du eine innere Stimme hörst, die sagt, du kannst nicht malen, dann male unbedingt, und diese Stimme wird verstummen.');
+     'Wenn du eine innere Stimme hörst, die sagt, du kannst nicht malen, dann male unbedingt, und diese Stimme wird verstummen.'),
+    ('Whatever the mind of man can conceive and believe, it can achieve.', 'de',
+     'Was immer der menschliche Geist sich vorstellen und glauben kann, das kann er auch erreichen.');
