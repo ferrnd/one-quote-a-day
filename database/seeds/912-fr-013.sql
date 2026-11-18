@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('After all, tomorrow is another day.', 'fr',
-     'Après tout, demain est un autre jour.');
+     'Après tout, demain est un autre jour.'),
+    ('Hope is patience with the lamp lit.', 'fr',
+     'L''espoir, c''est la patience avec la lampe allumée.');
