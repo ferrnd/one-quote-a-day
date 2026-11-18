@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the long run, we shape our lives, and we shape ourselves.', 'es',
      'A la larga, damos forma a nuestra vida y nos damos forma a nosotros mismos.'),
     ('Out of adversity comes opportunity.', 'es',
-     'De la adversidad nace la oportunidad.');
+     'De la adversidad nace la oportunidad.'),
+    ('Adversity has ever been considered the state in which a man most easily becomes acquainted with himself.', 'es',
+     'La adversidad siempre ha sido considerada el estado en el que el hombre llega más fácilmente a conocerse a sí mismo.');
