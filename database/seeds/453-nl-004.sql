@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is contagious. When a brave man takes a stand, the spines of others are often stiffened.', 'nl',
      'Moed is besmettelijk. Als een dapper mens stelling neemt, rechten anderen vaak ook hun rug.'),
     ('Nothing in life is to be feared, it is only to be understood.', 'nl',
-     'Niets in het leven hoeft gevreesd te worden, het moet alleen begrepen worden.');
+     'Niets in het leven hoeft gevreesd te worden, het moet alleen begrepen worden.'),
+    ('Bravery is the capacity to perform properly even when scared half to death.', 'nl',
+     'Dapperheid is het vermogen om goed te handelen, zelfs als je half dood bent van angst.');
