@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s failure that gives you the proper perspective on success.', 'nl',
      'Het is falen dat je het juiste perspectief op succes geeft.'),
     ('Success is how high you bounce when you hit bottom.', 'nl',
-     'Succes is hoe hoog je terugveert als je de bodem raakt.');
+     'Succes is hoe hoog je terugveert als je de bodem raakt.'),
+    ('Don''t let the fear of losing be greater than the excitement of winning.', 'nl',
+     'Laat de angst om te verliezen niet groter zijn dan de opwinding van het winnen.');
