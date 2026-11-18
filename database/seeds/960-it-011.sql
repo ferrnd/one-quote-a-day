@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is being able to see that there is light despite all of the darkness.', 'it',
      'La speranza è riuscire a vedere che c''è luce nonostante tutta l''oscurità.'),
     ('We must accept finite disappointment, but never lose infinite hope.', 'it',
-     'Dobbiamo accettare la delusione finita, ma non perdere mai la speranza infinita.');
+     'Dobbiamo accettare la delusione finita, ma non perdere mai la speranza infinita.'),
+    ('Only in the darkness can you see the stars.', 'it',
+     'Solo nell''oscurità si possono vedere le stelle.');
