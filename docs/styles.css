@@ -112,6 +112,119 @@ main {
   transform: translateX(-0.16em);
 }
 
+/* ---------------------------------------------------------- day counter -- */
+/* "Grey" is still only ink: black at partial opacity on white paper. */
+
+.day-counter {
+  position: fixed;
+  left: clamp(1rem, 3vw, 2rem);
+  bottom: clamp(1rem, 3vw, 1.75rem);
+  padding: 0.4rem 0;
+  border: 0;
+  background: none;
+  color: var(--ink);
+  opacity: 0.4;
+  font: 500 0.72rem/1 var(--serif);
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: opacity 300ms ease;
+}
+
+.day-counter:hover,
+.day-counter:focus-visible {
+  opacity: 0.85;
+}
+
+.day-counter:focus-visible,
+.archive-close:focus-visible {
+  outline: 1px solid var(--ink);
+  outline-offset: 4px;
+}
+
+/* -------------------------------------------------------------- archive -- */
+
+.archive {
+  width: min(40rem, calc(100vw - 2rem));
+  max-height: min(80vh, 52rem);
+  padding: 0;
+  border: 1px solid var(--ink);
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+}
+
+.archive[open] {
+  display: flex;
+  flex-direction: column;
+}
+
+.archive::backdrop {
+  background: var(--paper);
+  opacity: 0.85;
+}
+
+.archive-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.1rem 1.5rem;
+  border-bottom: 1px solid var(--ink);
+}
+
+.archive-head h2 {
+  margin: 0;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+}
+
+.archive-close {
+  border: 0;
+  background: none;
+  color: var(--ink);
+  font: 400 1.6rem/1 var(--serif);
+  cursor: pointer;
+}
+
+.archive-list {
+  margin: 0;
+  padding: 0 1.5rem;
+  list-style: none;
+  overflow-y: auto;
+}
+
+.archive-list li {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--ink);
+  border-bottom-color: color-mix(in srgb, var(--ink) 15%, var(--paper));
+}
+
+.archive-list li:last-child {
+  border-bottom: 0;
+}
+
+.archive-meta,
+.archive-author {
+  margin: 0;
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+}
+
+.archive-meta {
+  opacity: 0.45;
+}
+
+.archive-list blockquote {
+  margin: 0.6rem 0;
+  font-size: 1.3rem;
+  font-style: italic;
+  line-height: 1.3;
+}
+
 ::selection {
   background: var(--ink);
   color: var(--paper);

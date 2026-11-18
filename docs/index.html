@@ -15,7 +15,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&amp;display=swap">
-  <link rel="stylesheet" href="styles.css?v=3ffaae9920fc">
+  <link rel="stylesheet" href="styles.css?v=9c81db71110e">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="manifest" href="manifest.webmanifest">
 </head>
@@ -32,6 +32,14 @@
       </figure>
     </noscript>
   </main>
-  <script type="module" src="app.js?v=3ffaae9920fc"></script>
+  <button class="day-counter" id="day-counter" type="button" hidden aria-haspopup="dialog" aria-controls="archive"></button>
+  <dialog class="archive" id="archive" aria-labelledby="archive-title">
+    <header class="archive-head">
+      <h2 id="archive-title">Every day so far</h2>
+      <button class="archive-close" id="archive-close" type="button" aria-label="Close">&times;</button>
+    </header>
+    <ol class="archive-list" id="archive-list"></ol>
+  </dialog>
+  <script type="module" src="app.js?v=9c81db71110e"></script>
 </body>
 </html>
