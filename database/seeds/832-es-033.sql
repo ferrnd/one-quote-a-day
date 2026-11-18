@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Champions keep playing until they get it right.', 'es',
      'Los campeones siguen jugando hasta hacerlo bien.'),
     ('I hated every minute of training, but I said, don''t quit. Suffer now and live the rest of your life as a champion.', 'es',
-     'Odié cada minuto del entrenamiento, pero me decía: no abandones. Sufre ahora y vive el resto de tu vida como un campeón.');
+     'Odié cada minuto del entrenamiento, pero me decía: no abandones. Sufre ahora y vive el resto de tu vida como un campeón.'),
+    ('The fight is won or lost far away from witnesses, behind the lines, in the gym, and out there on the road, long before I dance under those lights.', 'es',
+     'La pelea se gana o se pierde lejos de los testigos, tras bambalinas, en el gimnasio y en la carretera, mucho antes de que yo baile bajo esas luces.');
