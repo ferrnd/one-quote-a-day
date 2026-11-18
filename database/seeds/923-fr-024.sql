@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'fr',
      'Savoir ne suffit pas, il faut appliquer. Vouloir ne suffit pas, il faut agir.'),
     ('Action may not always bring happiness; but there is no happiness without action.', 'fr',
-     'L''action n''apporte pas toujours le bonheur, mais il n''y a pas de bonheur sans action.');
+     'L''action n''apporte pas toujours le bonheur, mais il n''y a pas de bonheur sans action.'),
+    ('Thinking will not overcome fear but action will.', 'fr',
+     'La réflexion ne vaincra pas la peur, mais l''action, si.');
