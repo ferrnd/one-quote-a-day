@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without leaps of imagination or dreaming, we lose the excitement of possibilities.', 'pt-BR',
      'Sem saltos de imaginação ou de sonho, perdemos o encanto das possibilidades.'),
     ('Dreaming, after all, is a form of planning.', 'pt-BR',
-     'Sonhar, afinal, é uma forma de planejar.');
+     'Sonhar, afinal, é uma forma de planejar.'),
+    ('You''re off to great places! Today is your day! Your mountain is waiting, so get on your way!', 'pt-BR',
+     'Você vai para lugares incríveis! Hoje é o seu dia! Sua montanha está esperando, então pé na estrada!');
