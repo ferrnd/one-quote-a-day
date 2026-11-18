@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ability may get you to the top, but it takes character to keep you there.', 'pt-BR',
      'A habilidade pode levar você ao topo, mas é preciso caráter para se manter lá.'),
     ('When there is no enemy within, the enemies outside cannot hurt you.', 'pt-BR',
-     'Quando não há inimigo dentro, os inimigos de fora não podem ferir você.');
+     'Quando não há inimigo dentro, os inimigos de fora não podem ferir você.'),
+    ('Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.', 'pt-BR',
+     'Nosso medo mais profundo não é o de sermos inadequados. Nosso medo mais profundo é o de sermos poderosos além da medida.');
