@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A positive attitude can really make dreams come true.', 'de',
      'Eine positive Einstellung kann Träume tatsächlich wahr werden lassen.'),
     ('Optimism is a happiness magnet.', 'de',
-     'Optimismus ist ein Magnet für das Glück.');
+     'Optimismus ist ein Magnet für das Glück.'),
+    ('Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.', 'de',
+     'Grenzen existieren nur in unserem Kopf. Doch wenn wir unsere Vorstellungskraft nutzen, werden unsere Möglichkeiten grenzenlos.');
