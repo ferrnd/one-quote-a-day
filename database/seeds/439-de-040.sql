@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I must not fear. Fear is the mind-killer.', 'de',
      'Ich darf keine Angst haben. Die Angst tötet das Bewusstsein.'),
     ('Courage is the main quality of leadership.', 'de',
-     'Mut ist die wichtigste Eigenschaft einer Führungspersönlichkeit.');
+     'Mut ist die wichtigste Eigenschaft einer Führungspersönlichkeit.'),
+    ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'de',
+     'Das Mutigste, was du tun kannst, wenn du nicht mutig bist, ist, dich zum Mut zu bekennen und entsprechend zu handeln.');
