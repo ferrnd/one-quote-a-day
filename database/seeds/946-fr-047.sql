@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The more I want to get something done, the less I call it work.', 'fr',
      'Plus je veux faire une chose, moins je l''appelle travail.'),
     ('The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.', 'fr',
-     'Le pessimiste se plaint du vent ; l''optimiste espère qu''il va changer ; le réaliste ajuste ses voiles.');
+     'Le pessimiste se plaint du vent ; l''optimiste espère qu''il va changer ; le réaliste ajuste ses voiles.'),
+    ('Optimism is essential to achievement and it is also the foundation of courage and true progress.', 'fr',
+     'L''optimisme est essentiel à la réussite, et c''est aussi le fondement du courage et du véritable progrès.');
