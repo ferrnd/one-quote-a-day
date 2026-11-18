@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Even if you''re on the right track, you''ll get run over if you just sit there.', 'pt-BR',
      'Mesmo que você esteja no caminho certo, vai ser atropelado se ficar parado.'),
     ('An idea not coupled with action will never get any bigger than the brain cell it occupied.', 'pt-BR',
-     'Uma ideia que não vem acompanhada de ação nunca vai crescer além da célula cerebral que ocupou.');
+     'Uma ideia que não vem acompanhada de ação nunca vai crescer além da célula cerebral que ocupou.'),
+    ('Talk does not cook rice.', 'pt-BR',
+     'Conversa não cozinha arroz.');
