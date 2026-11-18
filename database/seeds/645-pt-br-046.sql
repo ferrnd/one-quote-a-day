@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Anyone can hold the helm when the sea is calm.', 'pt-BR',
-     'Qualquer um consegue segurar o leme quando o mar está calmo.');
+     'Qualquer um consegue segurar o leme quando o mar está calmo.'),
+    ('The tougher the battle, the sweeter the victory.', 'pt-BR',
+     'Quanto mais dura a batalha, mais doce a vitória.');
