@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('They also serve who only stand and wait.', 'nl',
      'Ook zij dienen die alleen staan en wachten.'),
     ('Only time can heal what reason cannot.', 'nl',
-     'Alleen de tijd kan helen wat de rede niet kan.');
+     'Alleen de tijd kan helen wat de rede niet kan.'),
+    ('Determination gives you the resolve to keep going in spite of the roadblocks that lay before you.', 'nl',
+     'Vastberadenheid geeft je de wilskracht om door te gaan ondanks de obstakels die op je pad liggen.');
