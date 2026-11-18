@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Difficulties are things that show a person what they are.', 'nl',
      'Moeilijkheden zijn wat een mens laat zien wie hij is.'),
     ('No tree becomes rooted and sturdy unless many a wind assails it.', 'nl',
-     'Geen boom wordt stevig geworteld en sterk tenzij vele winden hem bestoken.');
+     'Geen boom wordt stevig geworteld en sterk tenzij vele winden hem bestoken.'),
+    ('It is a rough road that leads to the heights of greatness.', 'nl',
+     'Het is een ruwe weg die naar de hoogten van grootsheid leidt.');
