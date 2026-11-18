@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Bad times have a scientific value. These are occasions a good learner would not miss.', 'nl',
      'Slechte tijden hebben een wetenschappelijke waarde. Het zijn gelegenheden die een goede leerling niet zou missen.'),
     ('Every wall is a door.', 'nl',
-     'Elke muur is een deur.');
+     'Elke muur is een deur.'),
+    ('Pain and suffering are always inevitable for a large intelligence and a deep heart.', 'nl',
+     'Pijn en lijden zijn altijd onvermijdelijk voor een groot verstand en een diep hart.');
