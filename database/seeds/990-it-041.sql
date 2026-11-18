@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is not falling down but refusing to get up.', 'it',
      'Fallire non è cadere, ma rifiutarsi di rialzarsi.'),
     ('The successful man will profit from his mistakes and try again in a different way.', 'it',
-     'L''uomo di successo trae profitto dai propri errori e ci riprova in un modo diverso.');
+     'L''uomo di successo trae profitto dai propri errori e ci riprova in un modo diverso.'),
+    ('Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.', 'it',
+     'Costruisci il successo partendo dai fallimenti. Lo scoraggiamento e il fallimento sono due dei gradini più sicuri verso il successo.');
