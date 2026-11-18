@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grief can be the garden of compassion.', 'es',
      'El duelo puede ser el jardín de la compasión.'),
     ('Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it.', 'es',
-     'Sigue adelante, y es probable que tropieces con algo, quizá cuando menos lo esperes.');
+     'Sigue adelante, y es probable que tropieces con algo, quizá cuando menos lo esperes.'),
+    ('Hard work without talent is a shame, but talent without hard work is a tragedy.', 'es',
+     'El trabajo duro sin talento es una pena, pero el talento sin trabajo duro es una tragedia.');
