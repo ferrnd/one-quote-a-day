@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Paralyze resistance with persistence.', 'de',
      'Lähme den Widerstand durch Beharrlichkeit.'),
     ('Effort only fully releases its reward after a person refuses to quit.', 'de',
-     'Anstrengung gibt ihren vollen Lohn erst preis, wenn man sich weigert aufzugeben.');
+     'Anstrengung gibt ihren vollen Lohn erst preis, wenn man sich weigert aufzugeben.'),
+    ('Patience, persistence and perspiration make an unbeatable combination for success.', 'de',
+     'Geduld, Beharrlichkeit und Schweiß sind eine unschlagbare Kombination für den Erfolg.');
