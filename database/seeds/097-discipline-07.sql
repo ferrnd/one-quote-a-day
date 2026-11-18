@@ -9,4 +9,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Never mistake activity for achievement.', 'John Wooden', 'discipline'),
     ('The harder you work, the harder it is to surrender.', 'Vince Lombardi', 'discipline'),
     ('Practice does not make perfect. Only perfect practice makes perfect.', 'Vince Lombardi', 'discipline'),
-    ('Success is where preparation and opportunity meet.', 'Bobby Unser', 'discipline');
+    ('Success is where preparation and opportunity meet.', 'Bobby Unser', 'discipline'),
+    ('Quality means doing it right when no one is looking.', 'Henry Ford', 'discipline');
