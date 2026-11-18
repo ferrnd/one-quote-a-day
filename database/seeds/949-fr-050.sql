@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Happiness is not a goal; it is a by-product.', 'fr',
      'Le bonheur n''est pas un but ; c''est une conséquence.'),
     ('The purpose of life is to live it, to taste experience to the utmost.', 'fr',
-     'Le but de la vie est de la vivre, de goûter l''expérience jusqu''au bout.');
+     'Le but de la vie est de la vivre, de goûter l''expérience jusqu''au bout.'),
+    ('The art of being wise is the art of knowing what to overlook.', 'fr',
+     'L''art d''être sage est l''art de savoir ce qu''il faut ignorer.');
