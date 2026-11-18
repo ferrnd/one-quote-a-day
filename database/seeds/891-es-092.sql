@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wait for leaders; do it alone, person to person.', 'es',
      'No esperes a los líderes; hazlo tú, de persona a persona.'),
     ('Don''t judge each day by the harvest you reap but by the seeds that you plant.', 'es',
-     'No juzgues cada día por la cosecha que recoges, sino por las semillas que siembras.');
+     'No juzgues cada día por la cosecha que recoges, sino por las semillas que siembras.'),
+    ('Do something wonderful, people may imitate it.', 'es',
+     'Haz algo maravilloso; puede que la gente lo imite.');
