@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.', 'de',
      'Die Erde ist die Wiege der Menschheit, aber man kann nicht ewig in der Wiege bleiben.'),
     ('Exploration is really the essence of the human spirit.', 'de',
-     'Entdeckung ist wirklich das Wesen des menschlichen Geistes.');
+     'Entdeckung ist wirklich das Wesen des menschlichen Geistes.'),
+    ('Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.', 'de',
+     'Siegreiche Krieger siegen zuerst und ziehen dann in den Krieg, während besiegte Krieger zuerst in den Krieg ziehen und dann zu siegen versuchen.');
