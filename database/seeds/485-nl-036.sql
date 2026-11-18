@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.', 'nl',
      'Misschien zijn alle draken in ons leven prinsessen die alleen wachten tot ze ons één keer mooi en moedig zien handelen.'),
     ('What would you attempt to do if you knew you would not fail?', 'nl',
-     'Wat zou je proberen als je wist dat je niet kon falen?');
+     'Wat zou je proberen als je wist dat je niet kon falen?'),
+    ('I saw the angel in the marble and carved until I set him free.', 'nl',
+     'Ik zag de engel in het marmer en hakte tot ik hem had bevrijd.');
