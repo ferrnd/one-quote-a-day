@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When you arise in the morning, think of what a precious privilege it is to be alive.', 'fr',
      'Quand tu te lèves le matin, pense au précieux privilège d''être en vie.'),
     ('It is not that we have a short time to live, but that we waste a lot of it.', 'fr',
-     'Ce n''est pas que nous ayons peu de temps à vivre, c''est que nous en perdons beaucoup.');
+     'Ce n''est pas que nous ayons peu de temps à vivre, c''est que nous en perdons beaucoup.'),
+    ('While we wait for life, life passes.', 'fr',
+     'Pendant que nous attendons de vivre, la vie passe.');
