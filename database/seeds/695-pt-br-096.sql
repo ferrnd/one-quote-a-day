@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('They also serve who only stand and wait.', 'pt-BR',
      'Também servem aqueles que apenas ficam de pé e esperam.'),
     ('Only time can heal what reason cannot.', 'pt-BR',
-     'Só o tempo pode curar o que a razão não consegue.');
+     'Só o tempo pode curar o que a razão não consegue.'),
+    ('Determination gives you the resolve to keep going in spite of the roadblocks that lay before you.', 'pt-BR',
+     'A determinação dá a você a firmeza para seguir em frente apesar dos obstáculos que surgem pelo caminho.');
