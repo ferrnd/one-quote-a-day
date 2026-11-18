@@ -1,6 +1,6 @@
   ;; ======================================================= shuffle ==
-  ;;  Materialise the raw permutation of a block into scratch memory.
-  ;;  Mirrors raw_permutation() in tools/qotd/schedule.py.
+  ;;  Materialise the raw permutation of n items for a block into scratch
+  ;;  memory. Mirrors raw_permutation(block, n) in tools/qotd/schedule.py.
 
   (func $scratch_slot (param $i i32) (result i32)
     (i32.add (global.get $scratch) (i32.shl (local.get $i) (i32.const 2))))
@@ -8,14 +8,14 @@
   (func $perm_at (param $i i32) (result i32)
     (i32.load (call $scratch_slot (local.get $i))))
 
-  (func $permute (param $block i32)
-    (local $n i32) (local $i i32) (local $j i32)
+  (func $permute (param $block i32) (param $n i32)
+    (local $i i32) (local $j i32)
     (local $pi i32) (local $pj i32) (local $tmp i32)
-    ;; already there? permutations are pure functions of the block number
+    ;; already there? permutations are pure functions of (block, n)
     (if (i32.and (global.get $cached_valid)
-                 (i32.eq (global.get $cached_block) (local.get $block)))
+                 (i32.and (i32.eq (global.get $cached_block) (local.get $block))
+                          (i32.eq (global.get $cached_n) (local.get $n))))
       (then (return)))
-    (local.set $n (global.get $quote_count))
     (call $pcg_seed
       (i64.xor (global.get $SCHEDULE_SEED) (i64.extend_i32_s (local.get $block)))
       (global.get $SCHEDULE_SEQUENCE))
@@ -41,4 +41,5 @@
         (local.set $i (i32.sub (local.get $i) (i32.const 1)))
         (br $swap)))
     (global.set $cached_block (local.get $block))
+    (global.set $cached_n (local.get $n))
     (global.set $cached_valid (i32.const 1)))
