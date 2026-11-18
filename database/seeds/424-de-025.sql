@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('The future depends on what you do today.', 'de',
-     'Die Zukunft hängt davon ab, was du heute tust.');
+     'Die Zukunft hängt davon ab, was du heute tust.'),
+    ('Never put off till tomorrow what you can do today.', 'de',
+     'Verschiebe nicht auf morgen, was du heute tun kannst.');
