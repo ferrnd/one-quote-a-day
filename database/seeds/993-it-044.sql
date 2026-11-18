@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Practice does not make perfect. Only perfect practice makes perfect.', 'it',
      'La pratica non rende perfetti. Solo la pratica perfetta rende perfetti.'),
     ('Success is where preparation and opportunity meet.', 'it',
-     'Il successo è dove la preparazione incontra l''opportunità.');
+     'Il successo è dove la preparazione incontra l''opportunità.'),
+    ('Quality means doing it right when no one is looking.', 'it',
+     'Qualità significa fare le cose bene quando nessuno sta guardando.');
