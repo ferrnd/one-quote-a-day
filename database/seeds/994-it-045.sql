@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We must be willing to let go of the life we planned so as to have the life that is waiting for us.', 'it',
      'Dobbiamo essere disposti a lasciar andare la vita che avevamo pianificato per avere la vita che ci sta aspettando.'),
     ('The privilege of a lifetime is to become who you truly are.', 'it',
-     'Il privilegio di una vita è diventare chi sei veramente.');
+     'Il privilegio di una vita è diventare chi sei veramente.'),
+    ('Knowing your own darkness is the best method for dealing with the darknesses of other people.', 'it',
+     'Conoscere la propria oscurità è il metodo migliore per affrontare l''oscurità degli altri.');
