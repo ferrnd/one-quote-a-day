@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who is brave is free.', 'nl',
      'Wie moedig is, is vrij.'),
     ('I must not fear. Fear is the mind-killer.', 'nl',
-     'Ik mag niet bang zijn. Angst doodt de geest.');
+     'Ik mag niet bang zijn. Angst doodt de geest.'),
+    ('Courage is the main quality of leadership.', 'nl',
+     'Moed is de belangrijkste eigenschap van leiderschap.');
