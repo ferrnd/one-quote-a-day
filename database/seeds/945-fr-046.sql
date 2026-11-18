@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Long is the way and hard, that out of hell leads up to light.', 'fr',
      'Long et dur est le chemin qui de l''enfer mène à la lumière.'),
     ('Accept challenges so that you may feel the exhilaration of victory.', 'fr',
-     'Accepte les défis, afin de goûter l''exaltation de la victoire.');
+     'Accepte les défis, afin de goûter l''exaltation de la victoire.'),
+    ('When it is obvious that the goals cannot be reached, don''t adjust the goals, adjust the action steps.', 'fr',
+     'Quand il est évident que les objectifs ne peuvent pas être atteints, n''ajuste pas les objectifs ; ajuste les étapes pour y arriver.');
