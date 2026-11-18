@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of every crisis comes the chance to be reborn.', 'nl',
      'Uit elke crisis komt de kans om herboren te worden.'),
     ('Nothing is permanent in this wicked world, not even our troubles.', 'nl',
-     'Niets is blijvend in deze boze wereld, zelfs onze zorgen niet.');
+     'Niets is blijvend in deze boze wereld, zelfs onze zorgen niet.'),
+    ('Hardships make or break people.', 'nl',
+     'Tegenslagen maken of breken mensen.');
