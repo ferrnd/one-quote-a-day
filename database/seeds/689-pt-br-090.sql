@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Knowing your own darkness is the best method for dealing with the darknesses of other people.', 'pt-BR',
      'Conhecer a própria escuridão é o melhor método para lidar com a escuridão dos outros.'),
     ('There is no coming to consciousness without pain.', 'pt-BR',
-     'Não há tomada de consciência sem dor.');
+     'Não há tomada de consciência sem dor.'),
+    ('It''s what you learn after you know it all that counts.', 'pt-BR',
+     'O que conta é o que você aprende depois de achar que já sabe tudo.');
