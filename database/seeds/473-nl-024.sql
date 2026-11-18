@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Small deeds done are better than great deeds planned.', 'nl',
      'Kleine daden die gedaan zijn, zijn beter dan grote daden die gepland zijn.'),
     ('You miss 100% of the shots you don''t take.', 'nl',
-     'Je mist 100% van de schoten die je niet neemt.');
+     'Je mist 100% van de schoten die je niet neemt.'),
+    ('Inspiration exists, but it has to find you working.', 'nl',
+     'Inspiratie bestaat, maar ze moet je aan het werk vinden.');
