@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don''t belong.', 'de',
      'Wachsen tut weh. Veränderung tut weh. Aber nichts tut so weh, wie irgendwo festzustecken, wo man nicht hingehört.'),
     ('And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.', 'de',
-     'Und der Tag kam, an dem das Risiko, eine fest verschlossene Knospe zu bleiben, schmerzhafter war als das Risiko zu erblühen.');
+     'Und der Tag kam, an dem das Risiko, eine fest verschlossene Knospe zu bleiben, schmerzhafter war als das Risiko zu erblühen.'),
+    ('I am always doing that which I cannot do, in order that I may learn how to do it.', 'de',
+     'Ich tue immer das, was ich nicht kann, um zu lernen, wie es geht.');
