@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Things do not happen. Things are made to happen.', 'de',
      'Die Dinge geschehen nicht. Die Dinge werden zum Geschehen gebracht.'),
     ('Eighty percent of success is showing up.', 'de',
-     'Achtzig Prozent des Erfolgs bestehen darin, da zu sein.');
+     'Achtzig Prozent des Erfolgs bestehen darin, da zu sein.'),
+    ('You can''t build a reputation on what you are going to do.', 'de',
+     'Man kann sich keinen Ruf mit dem aufbauen, was man tun wird.');
