@@ -46,9 +46,9 @@
           (i32.add (global.get $schedule) (i32.shl (local.get $rel) (i32.const 1)))))
       (else (call $quote_for_day_computed (local.get $day)))))
 
-  ;; launch_day() -> days since 1970-01-01 of DAY 1 (2026-11-17)
+  ;; launch_day() -> days since 1970-01-01 of DAY 1 (2026-11-16)
   (func $launch_day (export "launch_day") (result i32)
-    (call $days_from_civil (i32.const 2026) (i32.const 11) (i32.const 17)))
+    (call $days_from_civil (i32.const 2026) (i32.const 11) (i32.const 16)))
 
   ;; day_number(y, m, d) -> 1 on launch day, 2 the day after, ...
   (func $day_number (export "day_number")
@@ -58,10 +58,37 @@
                (call $launch_day))
       (i32.const 1)))
 
-  ;; quote_for_date(y, m, d) -> index, or -1 for an invalid date
+  ;; dedication_for_day(day) -> record index of a dedication, or -1
+  ;;  The table is tiny and sorted by day, so a linear scan that stops early
+  ;;  beats anything cleverer.
+  (func $dedication_for_day (export "dedication_for_day") (param $day i32) (result i32)
+    (local $i i32) (local $entry i32) (local $entry_day i32)
+    (call $assert_ready)
+    (block $none
+      (loop $scan
+        (br_if $none (i32.ge_u (local.get $i) (global.get $dedication_count)))
+        (local.set $entry (i32.add (global.get $dedications) (i32.shl (local.get $i) (i32.const 3))))
+        (local.set $entry_day (i32.load (local.get $entry)))
+        (if (i32.eq (local.get $entry_day) (local.get $day))
+          (then (return (i32.load offset=4 (local.get $entry)))))
+        (br_if $none (i32.gt_s (local.get $entry_day) (local.get $day)))
+        (local.set $i (i32.add (local.get $i) (i32.const 1)))
+        (br $scan)))
+    (i32.const -1))
+
+  ;; entry_for_day(day) -> what the page shows that day: a dedication if one
+  ;;  is pinned to it, otherwise the scheduled quote.
+  (func $entry_for_day (export "entry_for_day") (param $day i32) (result i32)
+    (local $pinned i32)
+    (local.set $pinned (call $dedication_for_day (local.get $day)))
+    (if (result i32) (i32.ge_s (local.get $pinned) (i32.const 0))
+      (then (local.get $pinned))
+      (else (call $quote_for_day (local.get $day)))))
+
+  ;; quote_for_date(y, m, d) -> record index for that date, or -1 if invalid
   (func $quote_for_date (export "quote_for_date")
     (param $y i32) (param $m i32) (param $d i32) (result i32)
     (if (i32.eqz (call $is_valid_date (local.get $y) (local.get $m) (local.get $d)))
       (then (return (i32.const -1))))
-    (call $quote_for_day
+    (call $entry_for_day
       (call $days_from_civil (local.get $y) (local.get $m) (local.get $d))))
