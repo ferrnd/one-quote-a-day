@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Always bear in mind that your own resolution to succeed is more important than any other.', 'de',
      'Denke immer daran, dass dein eigener Entschluss, erfolgreich zu sein, wichtiger ist als alles andere.'),
     ('Pain is temporary. Quitting lasts forever.', 'de',
-     'Schmerz ist vorübergehend. Aufgeben ist für immer.');
+     'Schmerz ist vorübergehend. Aufgeben ist für immer.'),
+    ('I have stood on a mountain of no''s for one yes.', 'de',
+     'Ich habe auf einem Berg von Neins gestanden, für ein einziges Ja.');
