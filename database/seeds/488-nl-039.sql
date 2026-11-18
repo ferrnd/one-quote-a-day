@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Persistence is to the character of man as carbon is to steel.', 'nl',
      'Volharding is voor het karakter van de mens wat koolstof is voor staal.'),
     ('The man who can drive himself further once the effort gets painful is the man who will win.', 'nl',
-     'Wie zich verder kan drijven als de inspanning pijn gaat doen, is degene die zal winnen.');
+     'Wie zich verder kan drijven als de inspanning pijn gaat doen, is degene die zal winnen.'),
+    ('Don''t give up. Don''t ever give up.', 'nl',
+     'Geef niet op. Geef nooit op.');
