@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t fear failure. Not failure, but low aim, is the crime.', 'de',
      'Fürchte das Scheitern nicht. Nicht das Scheitern, sondern das niedrige Ziel ist das Verbrechen.'),
     ('Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes.', 'de',
-     'Scheitern ist lehrreich. Wer wirklich denkt, lernt aus seinen Misserfolgen genauso viel wie aus seinen Erfolgen.');
+     'Scheitern ist lehrreich. Wer wirklich denkt, lernt aus seinen Misserfolgen genauso viel wie aus seinen Erfolgen.'),
+    ('Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.', 'de',
+     'Unsere größte Schwäche liegt im Aufgeben. Der sicherste Weg zum Erfolg ist, es immer noch ein weiteres Mal zu versuchen.');
