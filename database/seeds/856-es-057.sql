@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Why, sometimes I''ve believed as many as six impossible things before breakfast.', 'es',
      'Vaya, a veces he llegado a creer hasta seis cosas imposibles antes del desayuno.'),
     ('The worst enemy to creativity is self-doubt.', 'es',
-     'El peor enemigo de la creatividad es la duda sobre uno mismo.');
+     'El peor enemigo de la creatividad es la duda sobre uno mismo.'),
+    ('I dwell in possibility.', 'es',
+     'Habito en la posibilidad.');
