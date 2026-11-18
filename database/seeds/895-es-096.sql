@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Wisely and slow; they stumble that run fast.', 'es',
      'Con sabiduría y despacio; tropiezan los que corren deprisa.'),
     ('They also serve who only stand and wait.', 'es',
-     'También sirven quienes solo se quedan de pie y esperan.');
+     'También sirven quienes solo se quedan de pie y esperan.'),
+    ('Only time can heal what reason cannot.', 'es',
+     'Solo el tiempo puede curar lo que la razón no puede.');
