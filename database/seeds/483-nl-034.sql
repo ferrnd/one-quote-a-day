@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All our dreams can come true, if we have the courage to pursue them.', 'nl',
      'Al onze dromen kunnen uitkomen, als we de moed hebben ze na te jagen.'),
     ('First, think. Second, dream. Third, believe. And finally, dare.', 'nl',
-     'Eerst denken. Dan dromen. Dan geloven. En ten slotte durven.');
+     'Eerst denken. Dan dromen. Dan geloven. En ten slotte durven.'),
+    ('A dream you dream alone is only a dream. A dream you dream together is reality.', 'nl',
+     'Een droom die je alleen droomt, is maar een droom. Een droom die je samen droomt, is werkelijkheid.');
