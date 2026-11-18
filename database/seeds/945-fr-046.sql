@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Action is eloquence.', 'fr',
      'L''action est éloquente.'),
     ('Do not wait for leaders; do it alone, person to person.', 'fr',
-     'N''attendez pas de chefs ; faites-le seuls, de personne à personne.');
+     'N''attendez pas de chefs ; faites-le seuls, de personne à personne.'),
+    ('Don''t judge each day by the harvest you reap but by the seeds that you plant.', 'fr',
+     'Ne juge pas chaque jour à la récolte que tu fais, mais aux graines que tu sèmes.');
