@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fortune and love favor the brave.', 'de',
      'Glück und Liebe sind mit den Mutigen.'),
     ('Expose yourself to your deepest fear; after that, fear has no power.', 'de',
-     'Setze dich deiner tiefsten Angst aus; danach hat die Angst keine Macht mehr.');
+     'Setze dich deiner tiefsten Angst aus; danach hat die Angst keine Macht mehr.'),
+    ('Courage is like love; it must have hope for nourishment.', 'de',
+     'Mut ist wie die Liebe: Er braucht Hoffnung als Nahrung.');
