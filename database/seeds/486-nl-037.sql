@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t explain your philosophy. Embody it.', 'nl',
      'Leg je filosofie niet uit. Belichaam haar.'),
     ('If you want to improve, be content to be thought foolish and stupid.', 'nl',
-     'Als je vooruit wilt, wees dan tevreden als men je dwaas en dom vindt.');
+     'Als je vooruit wilt, wees dan tevreden als men je dwaas en dom vindt.'),
+    ('As long as you live, keep learning how to live.', 'nl',
+     'Zolang je leeft, blijf leren hoe je moet leven.');
