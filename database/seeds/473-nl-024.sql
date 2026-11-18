@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Action may not always bring happiness; but there is no happiness without action.', 'nl',
      'Actie brengt niet altijd geluk, maar er is geen geluk zonder actie.'),
     ('Thinking will not overcome fear but action will.', 'nl',
-     'Denken overwint angst niet, maar handelen wel.');
+     'Denken overwint angst niet, maar handelen wel.'),
+    ('Someday is not a day of the week.', 'nl',
+     'Ooit is geen dag van de week.');
