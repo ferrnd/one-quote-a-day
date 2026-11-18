@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The world breaks everyone and afterward many are strong at the broken places.', 'nl',
      'De wereld breekt iedereen, en daarna zijn velen sterk op de gebroken plekken.'),
     ('What does not kill me makes me stronger.', 'nl',
-     'Wat mij niet doodt, maakt mij sterker.');
+     'Wat mij niet doodt, maakt mij sterker.'),
+    ('He who has a why to live can bear almost any how.', 'nl',
+     'Wie een waarom heeft om voor te leven, kan bijna elk hoe verdragen.');
