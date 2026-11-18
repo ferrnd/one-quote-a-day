@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream lofty dreams, and as you dream, so shall you become.', 'nl',
      'Droom verheven dromen, en zoals je droomt, zo zul je worden.'),
     ('Some people dream of success, while other people get up every morning and make it happen.', 'nl',
-     'Sommige mensen dromen van succes, terwijl anderen elke ochtend opstaan en het laten gebeuren.');
+     'Sommige mensen dromen van succes, terwijl anderen elke ochtend opstaan en het laten gebeuren.'),
+    ('I have a dream.', 'nl',
+     'Ik heb een droom.');
