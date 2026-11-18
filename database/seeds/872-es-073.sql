@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t explain your philosophy. Embody it.', 'es',
      'No expliques tu filosofía. Encárnala.'),
     ('If you want to improve, be content to be thought foolish and stupid.', 'es',
-     'Si quieres mejorar, conténtate con que te consideren tonto e ignorante.');
+     'Si quieres mejorar, conténtate con que te consideren tonto e ignorante.'),
+    ('As long as you live, keep learning how to live.', 'es',
+     'Mientras vivas, sigue aprendiendo a vivir.');
