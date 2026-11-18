@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('However long the night, the dawn will break.', 'fr',
      'Aussi longue que soit la nuit, le jour finira par se lever.'),
     ('Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day.', 'fr',
-     'Tiens bon ton chapeau. Tiens bon ton espoir. Et remonte l''horloge, car demain est un autre jour.');
+     'Tiens bon ton chapeau. Tiens bon ton espoir. Et remonte l''horloge, car demain est un autre jour.'),
+    ('There are far, far better things ahead than any we leave behind.', 'fr',
+     'Il y a devant nous des choses bien, bien meilleures que tout ce que nous laissons derrière.');
