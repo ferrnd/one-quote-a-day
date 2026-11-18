@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not all those who wander are lost.', 'fr',
      'Tous ceux qui errent ne sont pas perdus.'),
     ('I took a deep breath and listened to the old brag of my heart: I am, I am, I am.', 'fr',
-     'J''ai pris une grande inspiration et écouté la vieille vantardise de mon cœur : je suis, je suis, je suis.');
+     'J''ai pris une grande inspiration et écouté la vieille vantardise de mon cœur : je suis, je suis, je suis.'),
+    ('Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.', 'fr',
+     'Peut-être tous les dragons de notre vie sont-ils des princesses qui n''attendent que de nous voir agir, une seule fois, avec beauté et courage.');
