@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure should be our teacher, not our undertaker.', 'pt-BR',
      'O fracasso deve ser nosso professor, não nosso coveiro.'),
     ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'pt-BR',
-     'Só existe uma coisa que torna um sonho impossível de realizar: o medo de fracassar.');
+     'Só existe uma coisa que torna um sonho impossível de realizar: o medo de fracassar.'),
+    ('Failure is not the opposite of success; it''s part of success.', 'pt-BR',
+     'O fracasso não é o oposto do sucesso; ele faz parte do sucesso.');
