@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Beware the fury of a patient man.', 'fr',
      'Méfiez-vous de la colère d''un homme patient.'),
     ('Patience is the key to paradise.', 'fr',
-     'La patience est la clé du paradis.');
+     'La patience est la clé du paradis.'),
+    ('Be patient toward all that is unsolved in your heart.', 'fr',
+     'Sois patient envers tout ce qui n''est pas résolu dans ton cœur.');
