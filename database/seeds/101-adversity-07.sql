@@ -7,4 +7,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Every wall is a door.', 'Ralph Waldo Emerson', 'adversity'),
     ('Pain and suffering are always inevitable for a large intelligence and a deep heart.', 'Fyodor Dostoevsky', 'adversity'),
     ('Long is the way and hard, that out of hell leads up to light.', 'John Milton', 'adversity'),
-    ('Accept challenges so that you may feel the exhilaration of victory.', 'George S. Patton', 'adversity');
+    ('Accept challenges so that you may feel the exhilaration of victory.', 'George S. Patton', 'adversity'),
+    ('When it is obvious that the goals cannot be reached, don''t adjust the goals, adjust the action steps.', 'Confucius', 'adversity');
