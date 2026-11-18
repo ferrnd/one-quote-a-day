@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of difficulties grow miracles.', 'it',
      'Dalle difficoltà nascono i miracoli.'),
     ('The gem cannot be polished without friction, nor man perfected without trials.', 'it',
-     'La gemma non si può lucidare senza attrito, né l''uomo perfezionare senza prove.');
+     'La gemma non si può lucidare senza attrito, né l''uomo perfezionare senza prove.'),
+    ('Smooth seas do not make skillful sailors.', 'it',
+     'Mare calmo non fa buon marinaio.');
