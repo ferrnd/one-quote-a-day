@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best way to make your dreams come true is to wake up.', 'it',
      'Il modo migliore per realizzare i propri sogni è svegliarsi.'),
     ('Who looks outside, dreams; who looks inside, awakes.', 'it',
-     'Chi guarda fuori sogna; chi guarda dentro si sveglia.');
+     'Chi guarda fuori sogna; chi guarda dentro si sveglia.'),
+    ('You are never given a wish without also being given the power to make it come true.', 'it',
+     'Non ti viene mai dato un desiderio senza che ti venga dato anche il potere di realizzarlo.');
