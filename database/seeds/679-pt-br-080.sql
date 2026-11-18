@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fortune and love favor the brave.', 'pt-BR',
      'A sorte e o amor favorecem os corajosos.'),
     ('Expose yourself to your deepest fear; after that, fear has no power.', 'pt-BR',
-     'Exponha-se ao seu medo mais profundo; depois disso, o medo não tem mais poder.');
+     'Exponha-se ao seu medo mais profundo; depois disso, o medo não tem mais poder.'),
+    ('Courage is like love; it must have hope for nourishment.', 'pt-BR',
+     'A coragem é como o amor: precisa de esperança para se alimentar.');
