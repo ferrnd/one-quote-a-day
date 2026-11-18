@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If not now, when?', 'fr',
      'Si ce n''est pas maintenant, quand ?'),
     ('To begin, begin.', 'fr',
-     'Pour commencer, commence.');
+     'Pour commencer, commence.'),
+    ('Pursue what catches your heart, not what catches your eyes.', 'fr',
+     'Poursuis ce qui touche ton cœur, pas ce qui attire tes yeux.');
