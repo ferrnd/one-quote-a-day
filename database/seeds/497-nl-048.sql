@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Argue for your limitations, and sure enough they''re yours.', 'nl',
      'Pleit voor je beperkingen, en ze zijn gegarandeerd van jou.'),
     ('Success is liking yourself, liking what you do, and liking how you do it.', 'nl',
-     'Succes is jezelf graag mogen, graag doen wat je doet en graag hoe je het doet.');
+     'Succes is jezelf graag mogen, graag doen wat je doet en graag hoe je het doet.'),
+    ('The soul becomes dyed with the color of its thoughts.', 'nl',
+     'De ziel neemt de kleur van haar gedachten aan.');
