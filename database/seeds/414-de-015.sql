@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('With the new day comes new strength and new thoughts.', 'de',
      'Mit dem neuen Tag kommen neue Kraft und neue Gedanken.'),
     ('Our strength grows out of our weaknesses.', 'de',
-     'Unsere Stärke wächst aus unseren Schwächen.');
+     'Unsere Stärke wächst aus unseren Schwächen.'),
+    ('Fortitude is the guard and support of the other virtues.', 'de',
+     'Seelenstärke ist die Wächterin und Stütze der anderen Tugenden.');
