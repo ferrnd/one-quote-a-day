@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The more I practice, the luckier I get.', 'nl',
      'Hoe meer ik oefen, hoe meer geluk ik heb.'),
     ('Do not wait to strike till the iron is hot; but make it hot by striking.', 'nl',
-     'Wacht niet tot het ijzer heet is om te smeden; maak het heet door te smeden.');
+     'Wacht niet tot het ijzer heet is om te smeden; maak het heet door te smeden.'),
+    ('Self-respect is the fruit of discipline; the sense of dignity grows with the ability to say no to oneself.', 'nl',
+     'Zelfrespect is de vrucht van discipline; het gevoel van waardigheid groeit met het vermogen nee te zeggen tegen jezelf.');
