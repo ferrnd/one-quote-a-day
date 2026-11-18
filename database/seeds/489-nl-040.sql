@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adventure is worthwhile in itself.', 'nl',
      'Avontuur is op zichzelf de moeite waard.'),
     ('Courage is a love affair with the unknown.', 'nl',
-     'Moed is een liefdesaffaire met het onbekende.');
+     'Moed is een liefdesaffaire met het onbekende.'),
+    ('What you''re supposed to do when you don''t like a thing is change it.', 'nl',
+     'Wat je moet doen als je iets niet bevalt, is het veranderen.');
