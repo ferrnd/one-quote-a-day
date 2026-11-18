@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Real change, enduring change, happens one step at a time.', 'nl',
      'Echte verandering, blijvende verandering, gebeurt stap voor stap.'),
     ('I was taught that the way of progress was neither swift nor easy.', 'nl',
-     'Mij is geleerd dat de weg van vooruitgang snel noch makkelijk is.');
+     'Mij is geleerd dat de weg van vooruitgang snel noch makkelijk is.'),
+    ('Adversity causes some men to break; others to break records.', 'nl',
+     'Tegenspoed laat sommige mensen breken; anderen breken records.');
