@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I took a deep breath and listened to the old brag of my heart: I am, I am, I am.', 'nl',
      'Ik haalde diep adem en luisterde naar het oude gepoch van mijn hart: ik ben, ik ben, ik ben.'),
     ('Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.', 'nl',
-     'Misschien zijn alle draken in ons leven prinsessen die alleen wachten tot ze ons één keer mooi en moedig zien handelen.');
+     'Misschien zijn alle draken in ons leven prinsessen die alleen wachten tot ze ons één keer mooi en moedig zien handelen.'),
+    ('What would you attempt to do if you knew you would not fail?', 'nl',
+     'Wat zou je proberen als je wist dat je niet kon falen?');
