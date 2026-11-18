@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Set your life on fire. Seek those who fan your flames.', 'de',
      'Setze dein Leben in Brand. Suche die, die deine Flammen entfachen.'),
     ('Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.', 'de',
-     'Gestern war ich klug, also wollte ich die Welt verändern. Heute bin ich weise, also verändere ich mich selbst.');
+     'Gestern war ich klug, also wollte ich die Welt verändern. Heute bin ich weise, also verändere ich mich selbst.'),
+    ('You were born with wings, why prefer to crawl through life?', 'de',
+     'Du wurdest mit Flügeln geboren, warum willst du durchs Leben kriechen?');
