@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes.', 'fr',
      'L''échec est instructif. Celui qui réfléchit vraiment apprend autant de ses échecs que de ses réussites.'),
     ('Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.', 'fr',
-     'Notre plus grande faiblesse est d''abandonner. La façon la plus sûre de réussir est toujours d''essayer une fois de plus.');
+     'Notre plus grande faiblesse est d''abandonner. La façon la plus sûre de réussir est toujours d''essayer une fois de plus.'),
+    ('Good people are good because they''ve come to wisdom through failure.', 'fr',
+     'Les gens bons sont bons parce qu''ils sont parvenus à la sagesse à travers l''échec.');
