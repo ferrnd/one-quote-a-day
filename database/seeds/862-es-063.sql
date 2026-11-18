@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between the impossible and the possible lies in a man''s determination.', 'es',
      'La diferencia entre lo imposible y lo posible está en la determinación de una persona.'),
     ('Set your goals high, and don''t stop till you get there.', 'es',
-     'Fíjate metas altas y no te detengas hasta llegar.');
+     'Fíjate metas altas y no te detengas hasta llegar.'),
+    ('Desire is the key to motivation, but it''s determination and commitment to an unrelenting pursuit of your goal that will enable you to attain the success you seek.', 'es',
+     'El deseo es la clave de la motivación, pero son la determinación y el compromiso con la búsqueda incansable de tu meta los que te permitirán alcanzar el éxito que buscas.');
