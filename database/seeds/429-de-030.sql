@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be patient and tough; someday this pain will be useful to you.', 'de',
      'Sei geduldig und stark; eines Tages wird dir dieser Schmerz nützlich sein.'),
     ('Dripping water hollows out stone, not through force but through persistence.', 'de',
-     'Steter Tropfen höhlt den Stein, nicht durch Gewalt, sondern durch Beharrlichkeit.');
+     'Steter Tropfen höhlt den Stein, nicht durch Gewalt, sondern durch Beharrlichkeit.'),
+    ('All human wisdom is summed up in two words: wait and hope.', 'de',
+     'Die ganze menschliche Weisheit liegt in diesen zwei Worten: warten und hoffen.');
