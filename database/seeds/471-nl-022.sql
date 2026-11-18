@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Problems are not stop signs, they are guidelines.', 'nl',
      'Problemen zijn geen stopborden, het zijn richtlijnen.'),
     ('Turn your face to the sun and the shadows fall behind you.', 'nl',
-     'Keer je gezicht naar de zon en de schaduwen vallen achter je.');
+     'Keer je gezicht naar de zon en de schaduwen vallen achter je.'),
+    ('A man of character finds a special attractiveness in difficulty.', 'nl',
+     'Een man met karakter vindt een bijzondere aantrekkingskracht in moeilijkheden.');
