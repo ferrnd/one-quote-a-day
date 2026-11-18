@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('A champion is someone who gets up when he can''t.', 'es',
-     'Un campeón es alguien que se levanta cuando no puede.');
+     'Un campeón es alguien que se levanta cuando no puede.'),
+    ('Never give in. Never, never, never, never.', 'es',
+     'Nunca te rindas. Nunca, nunca, nunca, nunca.');
