@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Loss is nothing else but change, and change is Nature''s delight.', 'nl',
      'Verlies is niets anders dan verandering, en verandering is de vreugde van de Natuur.'),
     ('Dwell on the beauty of life. Watch the stars, and see yourself running with them.', 'nl',
-     'Sta stil bij de schoonheid van het leven. Kijk naar de sterren en zie jezelf met hen meerennen.');
+     'Sta stil bij de schoonheid van het leven. Kijk naar de sterren en zie jezelf met hen meerennen.'),
+    ('When you arise in the morning, think of what a precious privilege it is to be alive.', 'nl',
+     'Als je ''s ochtends opstaat, denk dan aan wat een kostbaar voorrecht het is om te leven.');
