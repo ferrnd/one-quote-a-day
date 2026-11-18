@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the key to paradise.', 'it',
      'La pazienza è la chiave del paradiso.'),
     ('Be patient toward all that is unsolved in your heart.', 'it',
-     'Abbi pazienza verso tutto ciò che è irrisolto nel tuo cuore.');
+     'Abbi pazienza verso tutto ciò che è irrisolto nel tuo cuore.'),
+    ('No great thing is created suddenly.', 'it',
+     'Nessuna grande cosa nasce all''improvviso.');
