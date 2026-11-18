@@ -1,0 +1,5 @@
+-- seed 866 :: es translations 661-670
+
+INSERT INTO translation_intake (original, locale, body) VALUES
+    ('We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.', 'es',
+     'Debemos creer que tenemos un don para algo y que ese algo, cueste lo que cueste, debe alcanzarse.');
