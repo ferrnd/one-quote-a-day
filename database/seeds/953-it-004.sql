@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fortune favors the bold.', 'it',
      'La fortuna aiuta gli audaci.'),
     ('Courage is found in unlikely places.', 'it',
-     'Il coraggio si trova nei luoghi più impensati.');
+     'Il coraggio si trova nei luoghi più impensati.'),
+    ('Even the smallest person can change the course of the future.', 'it',
+     'Anche la persona più piccola può cambiare il corso del futuro.');
