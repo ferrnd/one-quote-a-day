@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am always doing that which I cannot do, in order that I may learn how to do it.', 'it',
      'Faccio sempre ciò che non so fare, per imparare a farlo.'),
     ('Unless you try to do something beyond what you have already mastered, you will never grow.', 'it',
-     'Se non provi a fare qualcosa al di là di ciò che già sai fare, non crescerai mai.');
+     'Se non provi a fare qualcosa al di là di ciò che già sai fare, non crescerai mai.'),
+    ('We know what we are, but know not what we may be.', 'it',
+     'Sappiamo ciò che siamo, ma non ciò che potremmo essere.');
