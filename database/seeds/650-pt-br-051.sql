@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is in your moments of decision that your destiny is shaped.', 'pt-BR',
      'É nos seus momentos de decisão que o seu destino é traçado.'),
     ('Setting goals is the first step in turning the invisible into the visible.', 'pt-BR',
-     'Definir metas é o primeiro passo para transformar o invisível em visível.');
+     'Definir metas é o primeiro passo para transformar o invisível em visível.'),
+    ('Opportunities don''t happen. You create them.', 'pt-BR',
+     'Oportunidades não acontecem. Você as cria.');
