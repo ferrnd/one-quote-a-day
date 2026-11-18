@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Still, like air, I''ll rise.', 'nl',
      'En toch sta ik op, als de lucht.'),
     ('She stood in the storm, and when the wind did not blow her way, she adjusted her sails.', 'nl',
-     'Ze stond in de storm, en toen de wind niet haar kant op waaide, stelde ze haar zeilen bij.');
+     'Ze stond in de storm, en toen de wind niet haar kant op waaide, stelde ze haar zeilen bij.'),
+    ('Tough times never last, but tough people do.', 'nl',
+     'Moeilijke tijden duren nooit eeuwig, sterke mensen wel.');
