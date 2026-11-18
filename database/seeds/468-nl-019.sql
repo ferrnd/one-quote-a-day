@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Change your thoughts and you change your world.', 'nl',
      'Verander je gedachten en je verandert je wereld.'),
     ('You cannot change your destination overnight, but you can change your direction overnight.', 'nl',
-     'Je kunt je bestemming niet van de ene op de andere dag veranderen, maar je richting wel.');
+     'Je kunt je bestemming niet van de ene op de andere dag veranderen, maar je richting wel.'),
+    ('Everyone thinks of changing the world, but no one thinks of changing himself.', 'nl',
+     'Iedereen denkt erover de wereld te veranderen, maar niemand denkt erover zichzelf te veranderen.');
