@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success seems to be connected with action. Successful people keep moving.', 'nl',
      'Succes lijkt verbonden met actie. Succesvolle mensen blijven in beweging.'),
     ('Every strike brings me closer to the next home run.', 'nl',
-     'Elke misser brengt me dichter bij de volgende homerun.');
+     'Elke misser brengt me dichter bij de volgende homerun.'),
+    ('You just can''t beat the person who never gives up.', 'nl',
+     'Je kunt iemand die nooit opgeeft simpelweg niet verslaan.');
