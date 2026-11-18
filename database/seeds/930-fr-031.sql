@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perhaps someday it will be pleasant to remember even this.', 'fr',
      'Peut-être un jour sera-t-il doux de se souvenir même de ceci.'),
     ('Endure, and preserve yourselves for better things.', 'fr',
-     'Tenez bon, et gardez-vous pour des jours meilleurs.');
+     'Tenez bon, et gardez-vous pour des jours meilleurs.'),
+    ('Bear up, my heart; you have endured worse than this.', 'fr',
+     'Patience, mon cœur ; tu as supporté pire que cela.');
