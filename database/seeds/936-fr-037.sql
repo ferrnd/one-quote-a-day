@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not afraid of tomorrow, for I have seen yesterday and I love today.', 'fr',
      'Je n''ai pas peur de demain, car j''ai vu hier et j''aime aujourd''hui.'),
     ('Every day is a new day.', 'fr',
-     'Chaque jour est un jour nouveau.');
+     'Chaque jour est un jour nouveau.'),
+    ('The only journey is the one within.', 'fr',
+     'Le seul voyage est le voyage intérieur.');
