@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All our dreams can come true, if we have the courage to pursue them.', 'fr',
      'Tous nos rêves peuvent devenir réalité si nous avons le courage de les poursuivre.'),
     ('First, think. Second, dream. Third, believe. And finally, dare.', 'fr',
-     'D''abord, pense. Ensuite, rêve. Puis, crois. Et enfin, ose.');
+     'D''abord, pense. Ensuite, rêve. Puis, crois. Et enfin, ose.'),
+    ('A dream you dream alone is only a dream. A dream you dream together is reality.', 'fr',
+     'Un rêve que l''on fait seul n''est qu''un rêve. Un rêve que l''on fait ensemble est une réalité.');
