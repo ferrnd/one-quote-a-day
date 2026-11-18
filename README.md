@@ -53,3 +53,23 @@ Linear memory of the module:
 The start function validates the header and recomputes the pool checksum, so a
 corrupted module refuses to instantiate instead of showing garbage.
 
+## The schedule
+
+Time is cut into blocks of N days, where N is the number of quotes. Each block
+shows every quote exactly once, in an order produced by a Fisher-Yates shuffle
+driven by PCG32 seeded with the block number. If a block would open with the
+quote that closed the previous one, its first two days are swapped, so the same
+quote never appears two days in a row.
+
+The table embedded in the module covers 2000-01-01 to 2399-12-31: exactly one
+Gregorian cycle, after which weekdays and leap years repeat. Outside that
+window the module recomputes the identical schedule on the fly. Both paths are
+tested against each other and against the Python reference implementation.
+
+Every line of the schedule in `generated/quotes.wat` is annotated with its date,
+weekday, quote index and author, so the calendar can be audited with `grep`:
+
+```sh
+grep "2026-12-25" generated/quotes.wat
+```
+
