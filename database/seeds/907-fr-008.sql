@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is the key to success; each mistake teaches us something.', 'fr',
      'L''échec est la clé du succès ; chaque erreur nous apprend quelque chose.'),
     ('You always pass failure on your way to success.', 'fr',
-     'Sur le chemin du succès, on passe toujours par l''échec.');
+     'Sur le chemin du succès, on passe toujours par l''échec.'),
+    ('Failure is unimportant. It takes courage to make a fool of yourself.', 'fr',
+     'L''échec n''a pas d''importance. Il faut du courage pour se ridiculiser.');
