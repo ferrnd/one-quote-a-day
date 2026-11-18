@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no substitute for hard work.', 'nl',
      'Er is geen vervanging voor hard werken.'),
     ('The difference between try and triumph is just a little umph!', 'nl',
-     'Het verschil tussen proberen en triomferen is gewoon een klein beetje meer pit!');
+     'Het verschil tussen proberen en triomferen is gewoon een klein beetje meer pit!'),
+    ('Perseverance is failing nineteen times and succeeding the twentieth.', 'nl',
+     'Doorzettingsvermogen is negentien keer falen en de twintigste keer slagen.');
