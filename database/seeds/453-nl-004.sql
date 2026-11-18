@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Inaction breeds doubt and fear. Action breeds confidence and courage.', 'nl',
      'Nietsdoen kweekt twijfel en angst. Handelen kweekt vertrouwen en moed.'),
     ('Courage is being scared to death, but saddling up anyway.', 'nl',
-     'Moed is doodsbang zijn en toch in het zadel stappen.');
+     'Moed is doodsbang zijn en toch in het zadel stappen.'),
+    ('I am not afraid of storms, for I am learning how to sail my ship.', 'nl',
+     'Ik ben niet bang voor stormen, want ik leer mijn schip te zeilen.');
