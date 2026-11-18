@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The way to get started is to quit talking and begin doing.', 'it',
      'Il modo per cominciare è smettere di parlare e iniziare a fare.'),
     ('Do not wait; the time will never be just right.', 'it',
-     'Non aspettare; il momento non sarà mai quello perfetto.');
+     'Non aspettare; il momento non sarà mai quello perfetto.'),
+    ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'it',
+     'Sapere non basta; bisogna applicare. Volere non basta; bisogna fare.');
