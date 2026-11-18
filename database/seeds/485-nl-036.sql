@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I saw the angel in the marble and carved until I set him free.', 'nl',
      'Ik zag de engel in het marmer en hakte tot ik hem had bevrijd.'),
     ('People with goals succeed because they know where they''re going.', 'nl',
-     'Mensen met doelen slagen omdat ze weten waar ze heen gaan.');
+     'Mensen met doelen slagen omdat ze weten waar ze heen gaan.'),
+    ('What you seek is seeking you.', 'nl',
+     'Wat je zoekt, zoekt jou.');
