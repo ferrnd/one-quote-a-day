@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be like the bird who, halting in his flight on limb too slight, feels it give way beneath him, yet sings, knowing he hath wings.', 'pt-BR',
      'Seja como o pássaro que, ao pousar em um galho frágil demais, sente-o ceder sob seus pés e, mesmo assim, canta, sabendo que tem asas.'),
     ('While I breathe, I hope.', 'pt-BR',
-     'Enquanto respiro, tenho esperança.');
+     'Enquanto respiro, tenho esperança.'),
+    ('Every day may not be good, but there''s something good in every day.', 'pt-BR',
+     'Nem todo dia é bom, mas há algo de bom em todo dia.');
