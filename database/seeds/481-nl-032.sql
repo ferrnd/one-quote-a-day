@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I really think a champion is defined not by their wins but by how they can recover when they fall.', 'nl',
      'Ik denk echt dat een kampioen niet wordt bepaald door overwinningen, maar door hoe ze herstellen als ze vallen.'),
     ('You have to believe in yourself when no one else does.', 'nl',
-     'Je moet in jezelf geloven als niemand anders dat doet.');
+     'Je moet in jezelf geloven als niemand anders dat doet.'),
+    ('The more difficult the victory, the greater the happiness in winning.', 'nl',
+     'Hoe moeilijker de overwinning, hoe groter het geluk van het winnen.');
