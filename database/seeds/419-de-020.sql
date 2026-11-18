@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Your present circumstances don''t determine where you can go; they merely determine where you start.', 'de',
      'Deine jetzigen Umstände bestimmen nicht, wohin du gehen kannst; sie bestimmen nur, wo du anfängst.'),
     ('One day you will wake up and there won''t be any more time to do the things you''ve always wanted. Do it now.', 'de',
-     'Eines Tages wirst du aufwachen, und es wird keine Zeit mehr sein für die Dinge, die du immer tun wolltest. Tu sie jetzt.');
+     'Eines Tages wirst du aufwachen, und es wird keine Zeit mehr sein für die Dinge, die du immer tun wolltest. Tu sie jetzt.'),
+    ('Do the best you can until you know better. Then when you know better, do better.', 'de',
+     'Tu das Beste, was du kannst, bis du es besser weißt. Und wenn du es besser weißt, mach es besser.');
