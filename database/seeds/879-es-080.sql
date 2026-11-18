@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is like love; it must have hope for nourishment.', 'es',
      'El valor es como el amor: necesita esperanza para alimentarse.'),
     ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'es',
-     'Es curioso que el valor físico sea tan común en el mundo, y el valor moral tan raro.');
+     'Es curioso que el valor físico sea tan común en el mundo, y el valor moral tan raro.'),
+    ('The opposite of courage in our society is not cowardice, it is conformity.', 'es',
+     'Lo opuesto al valor en nuestra sociedad no es la cobardía, es el conformismo.');
