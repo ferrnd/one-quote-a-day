@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is not the key to happiness. Happiness is the key to success.', 'es',
      'El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.'),
     ('Patience is the calm acceptance that things can happen in a different order than the one you have in mind.', 'es',
-     'La paciencia es la aceptación serena de que las cosas pueden suceder en un orden distinto al que tienes en mente.');
+     'La paciencia es la aceptación serena de que las cosas pueden suceder en un orden distinto al que tienes en mente.'),
+    ('Patience and fortitude conquer all things.', 'es',
+     'La paciencia y la fortaleza lo conquistan todo.');
