@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength does not come from winning. Your struggles develop your strengths.', 'nl',
      'Kracht komt niet van winnen. Je worstelingen ontwikkelen je kracht.'),
     ('Strength is a matter of the made-up mind.', 'nl',
-     'Kracht is een kwestie van een vastberaden geest.');
+     'Kracht is een kwestie van een vastberaden geest.'),
+    ('I am the master of my fate, I am the captain of my soul.', 'nl',
+     'Ik ben de meester van mijn lot, ik ben de kapitein van mijn ziel.');
