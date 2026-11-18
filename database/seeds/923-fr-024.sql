@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Great spirits have always encountered violent opposition from mediocre minds.', 'fr',
      'Les grands esprits ont toujours rencontré une opposition violente de la part des esprits médiocres.'),
     ('The pain passes, but the beauty remains.', 'fr',
-     'La douleur passe, la beauté reste.');
+     'La douleur passe, la beauté reste.'),
+    ('Things turn out best for the people who make the best of the way things turn out.', 'fr',
+     'Les choses tournent au mieux pour ceux qui tirent le meilleur parti de la façon dont les choses tournent.');
