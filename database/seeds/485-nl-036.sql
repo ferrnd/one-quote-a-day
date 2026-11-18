@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('People with goals succeed because they know where they''re going.', 'nl',
      'Mensen met doelen slagen omdat ze weten waar ze heen gaan.'),
     ('What you seek is seeking you.', 'nl',
-     'Wat je zoekt, zoekt jou.');
+     'Wat je zoekt, zoekt jou.'),
+    ('Don''t grieve. Anything you lose comes round in another form.', 'nl',
+     'Treur niet. Alles wat je verliest, komt terug in een andere vorm.');
