@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something better tomorrow.', 'de',
      'Es gibt keine Medizin wie die Hoffnung, keinen so großen Ansporn und kein so starkes Stärkungsmittel wie die Erwartung von etwas Besserem morgen.'),
     ('Hope is the pillar that holds up the world.', 'de',
-     'Die Hoffnung ist die Säule, die die Welt trägt.');
+     'Die Hoffnung ist die Säule, die die Welt trägt.'),
+    ('Hope will never be silent.', 'de',
+     'Die Hoffnung wird niemals schweigen.');
