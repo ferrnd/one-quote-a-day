@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Slow and steady wins the race.', 'es',
      'Despacio y con constancia se gana la carrera.'),
     ('With time and patience the mulberry leaf becomes a silk gown.', 'es',
-     'Con tiempo y paciencia, la hoja de morera se convierte en vestido de seda.');
+     'Con tiempo y paciencia, la hoja de morera se convierte en vestido de seda.'),
+    ('Patience attracts happiness; it brings near that which is far.', 'es',
+     'La paciencia atrae la felicidad; acerca lo que está lejos.');
