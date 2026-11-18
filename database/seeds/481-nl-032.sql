@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Today I will do what others won''t, so tomorrow I can accomplish what others can''t.', 'nl',
      'Vandaag doe ik wat anderen niet doen, zodat ik morgen kan bereiken wat anderen niet kunnen.'),
     ('You can''t put a limit on anything. The more you dream, the farther you get.', 'nl',
-     'Je kunt nergens een grens aan stellen. Hoe meer je droomt, hoe verder je komt.');
+     'Je kunt nergens een grens aan stellen. Hoe meer je droomt, hoe verder je komt.'),
+    ('There are better starters than me but I''m a strong finisher.', 'nl',
+     'Er zijn betere starters dan ik, maar ik ben een sterke finisher.');
