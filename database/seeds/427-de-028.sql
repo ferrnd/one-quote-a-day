@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.', 'de',
      'Erfolg bemisst sich nicht so sehr an der Stellung, die man im Leben erreicht hat, als an den Hindernissen, die man überwunden hat.'),
     ('Excellence is to do a common thing in an uncommon way.', 'de',
-     'Exzellenz bedeutet, eine gewöhnliche Sache auf ungewöhnliche Weise zu tun.');
+     'Exzellenz bedeutet, eine gewöhnliche Sache auf ungewöhnliche Weise zu tun.'),
+    ('What you think of yourself is much more important than what others think of you.', 'de',
+     'Was du von dir selbst denkst, ist viel wichtiger als das, was andere von dir denken.');
