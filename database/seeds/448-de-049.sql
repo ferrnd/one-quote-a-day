@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hitch your wagon to a star.', 'de',
      'Spanne deinen Wagen an einen Stern.'),
     ('If one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.', 'de',
-     'Wer zuversichtlich in die Richtung seiner Träume geht, wird in gewöhnlichen Stunden einem unerwarteten Erfolg begegnen.');
+     'Wer zuversichtlich in die Richtung seiner Träume geht, wird in gewöhnlichen Stunden einem unerwarteten Erfolg begegnen.'),
+    ('Our truest life is when we are in dreams awake.', 'de',
+     'Unser wahrstes Leben ist, wenn wir wach träumen.');
