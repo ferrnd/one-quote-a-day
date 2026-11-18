@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It does not matter how slowly you go as long as you do not stop.', 'nl',
      'Het maakt niet uit hoe langzaam je gaat, zolang je maar niet stopt.'),
     ('Fall seven times, stand up eight.', 'nl',
-     'Zeven keer vallen, acht keer opstaan.');
+     'Zeven keer vallen, acht keer opstaan.'),
+    ('Our greatest glory is not in never falling, but in rising every time we fall.', 'nl',
+     'Onze grootste glorie is niet dat we nooit vallen, maar dat we telkens weer opstaan als we vallen.');
