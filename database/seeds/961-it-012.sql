@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let your hopes, not your hurts, shape your future.', 'it',
      'Lascia che siano le tue speranze, e non le tue ferite, a dare forma al tuo futuro.'),
     ('Hope is a renewable option: if you run out of it at the end of the day, you get to start over in the morning.', 'it',
-     'La speranza è rinnovabile: se finisce alla fine della giornata, puoi ricominciare la mattina.');
+     'La speranza è rinnovabile: se finisce alla fine della giornata, puoi ricominciare la mattina.'),
+    ('What oxygen is to the lungs, such is hope to the meaning of life.', 'it',
+     'Ciò che l''ossigeno è per i polmoni, la speranza lo è per il senso della vita.');
