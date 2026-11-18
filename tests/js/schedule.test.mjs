@@ -34,12 +34,17 @@ test("never the same quote two days in a row, across the whole window", () => {
 });
 
 test("every quote appears exactly once per block", () => {
-  const base = x.schedule_base();
-  const n = x.quote_count();
-  for (const block of [0, 1, 17, 190]) {
-    const seen = new Set();
-    for (let i = 0; i < n; i++) seen.add(x.quote_for_day(base + block * n + i));
-    assert.equal(seen.size, n);
+  // before the launch era ends, blocks of the original 764 run from 2000-01-01;
+  // after the fresh run, blocks of all N run from launch + N
+  const L = x.legacy_count();
+  const N = x.quote_count();
+  const eras = [[x.schedule_base(), L, [0, 1, 5]], [x.launch_day() + N, N, [0, 1, 17, 190]]];
+  for (const [start, n, blocks] of eras) {
+    for (const block of blocks) {
+      const seen = new Set();
+      for (let i = 0; i < n; i++) seen.add(x.quote_for_day(start + block * n + i));
+      assert.equal(seen.size, n);
+    }
   }
 });
 
@@ -95,4 +100,18 @@ test("dedications override the day but not the rotation", () => {
   assert.equal(x.dedication_for_day(day + 1), -1);
   assert.equal(x.entry_for_day(day + 1), x.quote_for_day(day + 1));
   assert.equal(x.record_count(), x.quote_count() + x.dedication_count());
+});
+
+test("the launch era keeps its order, new quotes follow, then all cycle together", () => {
+  const L = x.legacy_count();
+  const N = x.quote_count();
+  const launch = x.launch_day();
+  assert.equal(L, 764);
+  const fresh = [];
+  for (let d = launch + L; d < launch + N; d++) fresh.push(x.quote_for_day(d));
+  assert.deepEqual([...fresh].sort((a, b) => a - b), Array.from({ length: N - L }, (_, i) => L + i));
+  for (let d = launch; d < launch + L; d++) assert.ok(x.quote_for_day(d) < L, `day ${d - launch + 1}`);
+  const cycle = new Set();
+  for (let d = launch + N; d < launch + 2 * N; d++) cycle.add(x.quote_for_day(d));
+  assert.equal(cycle.size, N);
 });
