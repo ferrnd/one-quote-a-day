@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All that we see or seem is but a dream within a dream.', 'nl',
      'Alles wat we zien of lijken, is slechts een droom in een droom.'),
     ('Don''t give up on your dreams, or your dreams will give up on you.', 'nl',
-     'Geef je dromen niet op, anders geven je dromen jou op.');
+     'Geef je dromen niet op, anders geven je dromen jou op.'),
+    ('There is nothing like a dream to create the future.', 'nl',
+     'Er is niets zoals een droom om de toekomst te scheppen.');
