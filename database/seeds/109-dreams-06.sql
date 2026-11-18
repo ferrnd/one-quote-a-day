@@ -5,4 +5,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Dream no small dreams for they have no power to move the hearts of men.', 'Johann Wolfgang von Goethe', 'dreams'),
     ('A man is not old until regrets take the place of dreams.', 'John Barrymore', 'dreams'),
     ('In dreams begins responsibility.', 'W. B. Yeats', 'dreams'),
-    ('Tread softly because you tread on my dreams.', 'W. B. Yeats', 'dreams');
+    ('Tread softly because you tread on my dreams.', 'W. B. Yeats', 'dreams'),
+    ('All that we see or seem is but a dream within a dream.', 'Edgar Allan Poe', 'dreams');
