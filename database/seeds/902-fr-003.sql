@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The road to success is dotted with many tempting parking spaces.', 'fr',
      'La route du succès est jalonnée de places de parking bien tentantes.'),
     ('If you fell down yesterday, stand up today.', 'fr',
-     'Si tu es tombé hier, relève-toi aujourd''hui.');
+     'Si tu es tombé hier, relève-toi aujourd''hui.'),
+    ('I will persist until I succeed.', 'fr',
+     'Je persisterai jusqu''à ce que je réussisse.');
