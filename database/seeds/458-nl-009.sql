@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What does not kill me makes me stronger.', 'nl',
      'Wat mij niet doodt, maakt mij sterker.'),
     ('He who has a why to live can bear almost any how.', 'nl',
-     'Wie een waarom heeft om voor te leven, kan bijna elk hoe verdragen.');
+     'Wie een waarom heeft om voor te leven, kan bijna elk hoe verdragen.'),
+    ('When we are no longer able to change a situation, we are challenged to change ourselves.', 'nl',
+     'Als we een situatie niet meer kunnen veranderen, worden we uitgedaagd onszelf te veranderen.');
