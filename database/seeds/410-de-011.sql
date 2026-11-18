@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.', 'de',
      'Optimismus ist der Glaube, der zum Erfolg führt. Ohne Hoffnung und Zuversicht kann nichts getan werden.'),
     ('Keep your eyes on the stars, and your feet on the ground.', 'de',
-     'Halte die Augen auf die Sterne gerichtet und die Füße auf dem Boden.');
+     'Halte die Augen auf die Sterne gerichtet und die Füße auf dem Boden.'),
+    ('Hope is a waking dream.', 'de',
+     'Hoffnung ist ein Wachtraum.');
