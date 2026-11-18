@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything comes gradually and at its appointed hour.', 'es',
      'Todo llega poco a poco y a su debido tiempo.'),
     ('Be patient and tough; someday this pain will be useful to you.', 'es',
-     'Sé paciente y fuerte; algún día este dolor te será útil.');
+     'Sé paciente y fuerte; algún día este dolor te será útil.'),
+    ('Dripping water hollows out stone, not through force but through persistence.', 'es',
+     'El agua que gotea horada la piedra, no por la fuerza, sino por la persistencia.');
