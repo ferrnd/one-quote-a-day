@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.', 'nl',
      'Als je niet bereid bent te leren, kan niemand je helpen. Als je vastbesloten bent te leren, kan niemand je tegenhouden.'),
     ('In the long run, we shape our lives, and we shape ourselves.', 'nl',
-     'Op de lange termijn vormen we ons leven, en vormen we onszelf.');
+     'Op de lange termijn vormen we ons leven, en vormen we onszelf.'),
+    ('Out of adversity comes opportunity.', 'nl',
+     'Uit tegenspoed komt kans voort.');
