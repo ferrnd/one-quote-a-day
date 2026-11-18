@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success isn''t always about greatness. It''s about consistency.', 'nl',
      'Succes gaat niet altijd om grootsheid. Het gaat om consistentie.'),
     ('Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.', 'nl',
-     'Succes is geen toeval. Het is hard werken, doorzettingsvermogen, leren, studeren, opoffering en vooral liefde voor wat je doet.');
+     'Succes is geen toeval. Het is hard werken, doorzettingsvermogen, leren, studeren, opoffering en vooral liefde voor wat je doet.'),
+    ('The will to win is important, but the will to prepare is vital.', 'nl',
+     'De wil om te winnen is belangrijk, maar de wil om je voor te bereiden is essentieel.');
