@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In spite of everything I still believe that people are really good at heart.', 'nl',
      'Ondanks alles geloof ik nog steeds dat de mensen in de grond van hun hart goed zijn.'),
     ('Think of all the beauty still left around you and be happy.', 'nl',
-     'Denk aan al het mooie dat nog om je heen is en wees gelukkig.');
+     'Denk aan al het mooie dat nog om je heen is en wees gelukkig.'),
+    ('It is often in the darkest skies that we see the brightest stars.', 'nl',
+     'Vaak zien we juist in de donkerste luchten de helderste sterren.');
