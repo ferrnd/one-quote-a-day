@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage starts with showing up and letting ourselves be seen.', 'de',
      'Mut beginnt damit, sich zu zeigen und sich sehen zu lassen.'),
     ('Don''t be afraid to give up the good to go for the great.', 'de',
-     'Hab keine Angst, das Gute aufzugeben, um das Großartige zu erreichen.');
+     'Hab keine Angst, das Gute aufzugeben, um das Großartige zu erreichen.'),
+    ('To dare is to lose one''s footing momentarily. Not to dare is to lose oneself.', 'de',
+     'Wagen heißt, für einen Augenblick den Halt zu verlieren. Nicht wagen heißt, sich selbst zu verlieren.');
