@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Luck is what happens when preparation meets opportunity.', 'fr',
      'La chance, c''est ce qui arrive quand la préparation rencontre l''opportunité.'),
     ('Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.', 'fr',
-     'Hier est de l''histoire, demain est un mystère, aujourd''hui est un cadeau de Dieu, c''est pourquoi on l''appelle le présent.');
+     'Hier est de l''histoire, demain est un mystère, aujourd''hui est un cadeau de Dieu, c''est pourquoi on l''appelle le présent.'),
+    ('If you want to go fast, go alone. If you want to go far, go together.', 'fr',
+     'Seul, on va plus vite ; ensemble, on va plus loin.');
