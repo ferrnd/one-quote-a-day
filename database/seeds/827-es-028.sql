@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength is a matter of the made-up mind.', 'es',
      'La fuerza es cuestión de una mente decidida.'),
     ('I am the master of my fate, I am the captain of my soul.', 'es',
-     'Soy el amo de mi destino, soy el capitán de mi alma.');
+     'Soy el amo de mi destino, soy el capitán de mi alma.'),
+    ('I thank whatever gods may be for my unconquerable soul.', 'es',
+     'Doy gracias a los dioses, sean cuales sean, por mi alma invencible.');
