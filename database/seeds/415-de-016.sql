@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Discipline is the bridge between goals and accomplishment.', 'de',
      'Disziplin ist die Brücke zwischen Zielen und Erfolgen.'),
     ('We must all suffer one of two things: the pain of discipline or the pain of regret.', 'de',
-     'Wir alle müssen eines von zwei Dingen erleiden: den Schmerz der Disziplin oder den Schmerz der Reue.');
+     'Wir alle müssen eines von zwei Dingen erleiden: den Schmerz der Disziplin oder den Schmerz der Reue.'),
+    ('Motivation is what gets you started. Habit is what keeps you going.', 'de',
+     'Motivation bringt dich in Gang. Gewohnheit hält dich in Bewegung.');
