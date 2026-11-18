@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield.', 'de',
      'Wasser ist flüssig, weich und nachgiebig. Doch Wasser höhlt den Fels aus, der starr ist und nicht nachgeben kann.'),
     ('Paralyze resistance with persistence.', 'de',
-     'Lähme den Widerstand durch Beharrlichkeit.');
+     'Lähme den Widerstand durch Beharrlichkeit.'),
+    ('Effort only fully releases its reward after a person refuses to quit.', 'de',
+     'Anstrengung gibt ihren vollen Lohn erst preis, wenn man sich weigert aufzugeben.');
