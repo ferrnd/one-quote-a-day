@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We must all suffer one of two things: the pain of discipline or the pain of regret.', 'it',
      'Dobbiamo tutti soffrire una di due cose: il dolore della disciplina o il dolore del rimpianto.'),
     ('Motivation is what gets you started. Habit is what keeps you going.', 'it',
-     'La motivazione è ciò che ti fa cominciare. L''abitudine è ciò che ti fa continuare.');
+     'La motivazione è ciò che ti fa cominciare. L''abitudine è ciò che ti fa continuare.'),
+    ('Success is nothing more than a few simple disciplines, practiced every day.', 'it',
+     'Il successo non è altro che poche, semplici discipline praticate ogni giorno.');
