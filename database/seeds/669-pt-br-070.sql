@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have a dream.', 'pt-BR',
      'Eu tenho um sonho.'),
     ('What is now proved was once only imagined.', 'pt-BR',
-     'O que hoje está provado um dia foi apenas imaginado.');
+     'O que hoje está provado um dia foi apenas imaginado.'),
+    ('Aim for the moon. If you miss, you may hit a star.', 'pt-BR',
+     'Mire na Lua. Se errar, pode acertar uma estrela.');
