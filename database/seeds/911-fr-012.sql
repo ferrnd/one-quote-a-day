@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come.', 'fr',
      'L''espoir commence dans le noir : l''espoir obstiné que, si l''on se présente et qu''on essaie de bien faire, l''aube finira par venir.'),
     ('Let your hopes, not your hurts, shape your future.', 'fr',
-     'Laisse tes espoirs, et non tes blessures, façonner ton avenir.');
+     'Laisse tes espoirs, et non tes blessures, façonner ton avenir.'),
+    ('Hope is a renewable option: if you run out of it at the end of the day, you get to start over in the morning.', 'fr',
+     'L''espoir est une ressource renouvelable : si tu en manques à la fin de la journée, tu peux recommencer le matin.');
