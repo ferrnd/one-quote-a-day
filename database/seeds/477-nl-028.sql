@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you don''t like something, change it. If you can''t change it, change your attitude.', 'nl',
      'Als je iets niet bevalt, verander het dan. Als je het niet kunt veranderen, verander dan je houding.'),
     ('People often say that motivation doesn''t last. Well, neither does bathing. That''s why we recommend it daily.', 'nl',
-     'Mensen zeggen vaak dat motivatie niet blijft. Nou, douchen ook niet. Daarom raden we het dagelijks aan.');
+     'Mensen zeggen vaak dat motivatie niet blijft. Nou, douchen ook niet. Daarom raden we het dagelijks aan.'),
+    ('Your attitude, not your aptitude, will determine your altitude.', 'nl',
+     'Je houding, niet je aanleg, bepaalt hoe hoog je vliegt.');
