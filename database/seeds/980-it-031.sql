@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Bear up, my heart; you have endured worse than this.', 'it',
      'Sopporta, mio cuore; hai sopportato di peggio.'),
     ('This too shall pass.', 'it',
-     'Anche questo passerà.');
+     'Anche questo passerà.'),
+    ('Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.', 'it',
+     'Non rinunciare mai a un sogno solo per il tempo che ci vorrà per realizzarlo. Il tempo passerà comunque.');
