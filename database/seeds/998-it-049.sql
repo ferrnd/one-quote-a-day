@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All that we see or seem is but a dream within a dream.', 'it',
      'Tutto ciò che vediamo o sembriamo non è che un sogno dentro un sogno.'),
     ('Don''t give up on your dreams, or your dreams will give up on you.', 'it',
-     'Non rinunciare ai tuoi sogni, o i tuoi sogni rinunceranno a te.');
+     'Non rinunciare ai tuoi sogni, o i tuoi sogni rinunceranno a te.'),
+    ('There is nothing like a dream to create the future.', 'it',
+     'Non c''è niente come un sogno per creare il futuro.');
