@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Believe and act as if it were impossible to fail.', 'it',
      'Credi e agisci come se fosse impossibile fallire.'),
     ('The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.', 'it',
-     'La mente è luogo a sé, e in sé può fare un cielo dell''inferno, un inferno del cielo.');
+     'La mente è luogo a sé, e in sé può fare un cielo dell''inferno, un inferno del cielo.'),
+    ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'it',
+     'Se ti rendessi conto di quanto sono potenti i tuoi pensieri, non avresti mai più un pensiero negativo.');
