@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.', 'nl',
      'Er is veel moed nodig om je vijanden te trotseren, maar evenveel om je vrienden te trotseren.'),
     ('Do the thing you fear, and the death of fear is certain.', 'nl',
-     'Doe wat je vreest, en de dood van de angst is zeker.');
+     'Doe wat je vreest, en de dood van de angst is zeker.'),
+    ('Fear is only as deep as the mind allows.', 'nl',
+     'Angst is maar zo diep als de geest toelaat.');
