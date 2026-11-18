@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is how high you bounce when you hit bottom.', 'nl',
      'Succes is hoe hoog je terugveert als je de bodem raakt.'),
     ('Don''t let the fear of losing be greater than the excitement of winning.', 'nl',
-     'Laat de angst om te verliezen niet groter zijn dan de opwinding van het winnen.');
+     'Laat de angst om te verliezen niet groter zijn dan de opwinding van het winnen.'),
+    ('We learn from failure, not from success!', 'nl',
+     'We leren van falen, niet van succes!');
