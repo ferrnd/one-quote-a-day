@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wait to strike till the iron is hot; but make it hot by striking.', 'nl',
      'Wacht niet tot het ijzer heet is om te smeden; maak het heet door te smeden.'),
     ('Self-respect is the fruit of discipline; the sense of dignity grows with the ability to say no to oneself.', 'nl',
-     'Zelfrespect is de vrucht van discipline; het gevoel van waardigheid groeit met het vermogen nee te zeggen tegen jezelf.');
+     'Zelfrespect is de vrucht van discipline; het gevoel van waardigheid groeit met het vermogen nee te zeggen tegen jezelf.'),
+    ('What you do every day matters more than what you do once in a while.', 'nl',
+     'Wat je elke dag doet, telt meer dan wat je af en toe doet.');
