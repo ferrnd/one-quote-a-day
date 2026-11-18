@@ -8,4 +8,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Be brave. Take risks. Nothing can substitute experience.', 'Paulo Coelho', 'courage'),
     ('He who is brave is free.', 'Seneca', 'courage'),
     ('I must not fear. Fear is the mind-killer.', 'Frank Herbert', 'courage'),
-    ('Courage is the main quality of leadership.', 'Walt Disney', 'courage');
+    ('Courage is the main quality of leadership.', 'Walt Disney', 'courage'),
+    ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'Corra May Harris', 'courage');
