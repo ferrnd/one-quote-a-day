@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sometimes even to live is an act of courage.', 'nl',
      'Soms is zelfs leven een daad van moed.'),
     ('If a man knows not to which port he sails, no wind is favorable.', 'nl',
-     'Voor wie niet weet naar welke haven hij vaart, is geen enkele wind gunstig.');
+     'Voor wie niet weet naar welke haven hij vaart, is geen enkele wind gunstig.'),
+    ('Luck is what happens when preparation meets opportunity.', 'nl',
+     'Geluk is wat er gebeurt wanneer voorbereiding en kans elkaar ontmoeten.');
