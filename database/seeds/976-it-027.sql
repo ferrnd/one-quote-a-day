@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The happiness of your life depends upon the quality of your thoughts.', 'it',
      'La felicità della tua vita dipende dalla qualità dei tuoi pensieri.'),
     ('Very little is needed to make a happy life; it is all within yourself, in your way of thinking.', 'it',
-     'Basta pochissimo per avere una vita felice; è tutto dentro di te, nel tuo modo di pensare.');
+     'Basta pochissimo per avere una vita felice; è tutto dentro di te, nel tuo modo di pensare.'),
+    ('A positive attitude can really make dreams come true.', 'it',
+     'Un atteggiamento positivo può davvero far avverare i sogni.');
