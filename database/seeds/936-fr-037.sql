@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('These pains you feel are messengers. Listen to them.', 'fr',
      'Ces douleurs que tu ressens sont des messagères. Écoute-les.'),
     ('Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.', 'fr',
-     'La liberté est le seul but digne dans la vie. Elle s''obtient en se détachant de ce qui ne dépend pas de nous.');
+     'La liberté est le seul but digne dans la vie. Elle s''obtient en se détachant de ce qui ne dépend pas de nous.'),
+    ('Don''t explain your philosophy. Embody it.', 'fr',
+     'N''explique pas ta philosophie. Incarne-la.');
