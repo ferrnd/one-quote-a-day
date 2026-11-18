@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The strongest of all warriors are these two: time and patience.', 'es',
      'Los más fuertes de todos los guerreros son estos dos: el tiempo y la paciencia.'),
     ('Nobody can make you feel inferior without your consent.', 'es',
-     'Nadie puede hacerte sentir inferior sin tu consentimiento.');
+     'Nadie puede hacerte sentir inferior sin tu consentimiento.'),
+    ('You have power over your mind, not outside events. Realize this, and you will find strength.', 'es',
+     'Tienes poder sobre tu mente, no sobre los acontecimientos externos. Date cuenta de esto y encontrarás la fuerza.');
