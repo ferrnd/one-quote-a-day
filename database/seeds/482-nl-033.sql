@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Your time is limited, so don''t waste it living someone else''s life.', 'nl',
      'Je tijd is beperkt, dus verspil hem niet door het leven van een ander te leiden.'),
     ('If you are working on something exciting that you really care about, you don''t have to be pushed. The vision pulls you.', 'nl',
-     'Als je werkt aan iets spannends waar je echt om geeft, hoef je niet geduwd te worden. De visie trekt je.');
+     'Als je werkt aan iets spannends waar je echt om geeft, hoef je niet geduwd te worden. De visie trekt je.'),
+    ('The only way to do great work is to love what you do.', 'nl',
+     'De enige manier om geweldig werk te leveren, is houden van wat je doet.');
