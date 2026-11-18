@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It ain''t over till it''s over.', 'nl',
      'Het is pas voorbij als het voorbij is.'),
     ('We will either find a way, or make one.', 'nl',
-     'We vinden een weg, of we maken er een.');
+     'We vinden een weg, of we maken er een.'),
+    ('The secret of success is constancy to purpose.', 'nl',
+     'Het geheim van succes is standvastigheid in je doel.');
