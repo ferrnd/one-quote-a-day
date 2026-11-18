@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('To improve is to change; to be perfect is to change often.', 'it',
-     'Migliorare è cambiare; essere perfetti è cambiare spesso.');
+     'Migliorare è cambiare; essere perfetti è cambiare spesso.'),
+    ('Growth begins when we begin to accept our own weakness.', 'it',
+     'La crescita comincia quando iniziamo ad accettare le nostre debolezze.');
