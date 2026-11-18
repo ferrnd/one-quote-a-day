@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day.', 'pt-BR',
      'Segure firme o chapéu. Segure firme a esperança. E dê corda no relógio, pois amanhã é outro dia.'),
     ('There are far, far better things ahead than any we leave behind.', 'pt-BR',
-     'Há coisas muito, muito melhores pela frente do que qualquer coisa que deixamos para trás.');
+     'Há coisas muito, muito melhores pela frente do que qualquer coisa que deixamos para trás.'),
+    ('In spite of everything I still believe that people are really good at heart.', 'pt-BR',
+     'Apesar de tudo, ainda acredito que as pessoas são boas de coração.');
