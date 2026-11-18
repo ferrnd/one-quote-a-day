@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Thinking will not overcome fear but action will.', 'nl',
      'Denken overwint angst niet, maar handelen wel.'),
     ('Someday is not a day of the week.', 'nl',
-     'Ooit is geen dag van de week.');
+     'Ooit is geen dag van de week.'),
+    ('Done is better than perfect.', 'nl',
+     'Gedaan is beter dan perfect.');
