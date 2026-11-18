@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.', 'it',
      'La vera misura di un uomo non è dove si trova nei momenti di comodità e convenienza, ma dove si trova nei momenti di sfida e controversia.'),
     ('Darkness cannot drive out darkness; only light can do that.', 'it',
-     'L''oscurità non può scacciare l''oscurità; solo la luce può farlo.');
+     'L''oscurità non può scacciare l''oscurità; solo la luce può farlo.'),
+    ('Faith is taking the first step even when you don''t see the whole staircase.', 'it',
+     'La fede è fare il primo passo anche quando non vedi tutta la scala.');
