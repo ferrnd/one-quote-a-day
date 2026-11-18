@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have not failed. I''ve just found 10,000 ways that won''t work.', 'de',
      'Ich bin nicht gescheitert. Ich habe nur 10.000 Wege gefunden, die nicht funktionieren.'),
     ('Failure is simply the opportunity to begin again, this time more intelligently.', 'de',
-     'Misserfolg ist lediglich die Gelegenheit, noch einmal neu anzufangen, diesmal klüger.');
+     'Misserfolg ist lediglich die Gelegenheit, noch einmal neu anzufangen, diesmal klüger.'),
+    ('Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.', 'de',
+     'Immer versucht. Immer gescheitert. Einerlei. Wieder versuchen. Wieder scheitern. Besser scheitern.');
