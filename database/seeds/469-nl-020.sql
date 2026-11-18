@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One day you will wake up and there won''t be any more time to do the things you''ve always wanted. Do it now.', 'nl',
      'Op een dag word je wakker en is er geen tijd meer om de dingen te doen die je altijd al wilde. Doe het nu.'),
     ('Do the best you can until you know better. Then when you know better, do better.', 'nl',
-     'Doe je best tot je beter weet. Als je dan beter weet, doe het dan beter.');
+     'Doe je best tot je beter weet. Als je dan beter weet, doe het dan beter.'),
+    ('The beautiful thing about learning is that no one can take it away from you.', 'nl',
+     'Het mooie van leren is dat niemand het je kan afnemen.');
