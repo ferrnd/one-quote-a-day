@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The starting point of all achievement is desire.', 'nl',
      'Het beginpunt van elke prestatie is verlangen.'),
     ('A goal is a dream with a deadline.', 'nl',
-     'Een doel is een droom met een deadline.');
+     'Een doel is een droom met een deadline.'),
+    ('It''s the possibility of having a dream come true that makes life interesting.', 'nl',
+     'Het is de mogelijkheid dat een droom uitkomt die het leven interessant maakt.');
