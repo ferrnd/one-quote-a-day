@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.', 'fr',
      'Chaque adversité, chaque échec, chaque peine de cœur porte en lui la graine d''un bienfait égal ou supérieur.'),
     ('The greater the difficulty, the more glory in surmounting it.', 'fr',
-     'Plus la difficulté est grande, plus il y a de gloire à la surmonter.');
+     'Plus la difficulté est grande, plus il y a de gloire à la surmonter.'),
+    ('Difficulties are things that show a person what they are.', 'fr',
+     'Ce sont les difficultés qui montrent ce que vaut une personne.');
