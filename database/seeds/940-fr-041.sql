@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no mistakes or failures, only lessons.', 'fr',
      'Il n''y a ni erreurs ni échecs, seulement des leçons.'),
     ('I have learned more from my mistakes than from my successes.', 'fr',
-     'J''ai appris davantage de mes erreurs que de mes réussites.');
+     'J''ai appris davantage de mes erreurs que de mes réussites.'),
+    ('It''s failure that gives you the proper perspective on success.', 'fr',
+     'C''est l''échec qui te donne la juste perspective sur le succès.');
