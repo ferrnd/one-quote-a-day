@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dreaming, after all, is a form of planning.', 'nl',
      'Dromen is tenslotte een vorm van plannen.'),
     ('You''re off to great places! Today is your day! Your mountain is waiting, so get on your way!', 'nl',
-     'Je gaat naar geweldige plekken! Vandaag is jouw dag! Je berg wacht, dus ga op weg!');
+     'Je gaat naar geweldige plekken! Vandaag is jouw dag! Je berg wacht, dus ga op weg!'),
+    ('You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.', 'nl',
+     'Je hebt hersens in je hoofd. Je hebt voeten in je schoenen. Je kunt elke richting op die je kiest.');
