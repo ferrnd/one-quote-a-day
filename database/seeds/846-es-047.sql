@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What seems to us as bitter trials are often blessings in disguise.', 'es',
      'Lo que nos parecen pruebas amargas a menudo son bendiciones disfrazadas.'),
     ('Great spirits have always encountered violent opposition from mediocre minds.', 'es',
-     'Los grandes espíritus siempre han encontrado una oposición violenta de las mentes mediocres.');
+     'Los grandes espíritus siempre han encontrado una oposición violenta de las mentes mediocres.'),
+    ('The pain passes, but the beauty remains.', 'es',
+     'El dolor pasa, pero la belleza permanece.');
