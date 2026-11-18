@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing is particularly hard if you divide it into small jobs.', 'de',
      'Nichts ist besonders schwer, wenn man es in kleine Aufgaben aufteilt.'),
     ('Perseverance and spirit have done wonders in all ages.', 'de',
-     'Ausdauer und Tatkraft haben zu allen Zeiten Wunder gewirkt.');
+     'Ausdauer und Tatkraft haben zu allen Zeiten Wunder gewirkt.'),
+    ('Courage is the price that life exacts for granting peace.', 'de',
+     'Mut ist der Preis, den das Leben dafür verlangt, Frieden zu gewähren.');
