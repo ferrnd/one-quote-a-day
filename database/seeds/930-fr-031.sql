@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be patient toward all that is unsolved in your heart.', 'fr',
      'Sois patient envers tout ce qui n''est pas résolu dans ton cœur.'),
     ('No great thing is created suddenly.', 'fr',
-     'Rien de grand ne se crée soudainement.');
+     'Rien de grand ne se crée soudainement.'),
+    ('Perhaps someday it will be pleasant to remember even this.', 'fr',
+     'Peut-être un jour sera-t-il doux de se souvenir même de ceci.');
