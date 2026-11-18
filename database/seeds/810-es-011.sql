@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage, dear heart.', 'es',
      'Valor, querido corazón.'),
     ('Courage is the power to let go of the familiar.', 'es',
-     'El valor es la fuerza de soltar lo conocido.');
+     'El valor es la fuerza de soltar lo conocido.'),
+    ('I have not failed. I''ve just found 10,000 ways that won''t work.', 'es',
+     'No he fracasado. Solo he encontrado 10.000 maneras que no funcionan.');
