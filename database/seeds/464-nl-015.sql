@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('My mission in life is not merely to survive, but to thrive.', 'nl',
      'Mijn missie in het leven is niet alleen overleven, maar opbloeien.'),
     ('You can''t be hesitant about who you are.', 'nl',
-     'Je kunt niet aarzelen over wie je bent.');
+     'Je kunt niet aarzelen over wie je bent.'),
+    ('The most common way people give up their power is by thinking they don''t have any.', 'nl',
+     'De meest gebruikelijke manier waarop mensen hun macht opgeven, is denken dat ze die niet hebben.');
