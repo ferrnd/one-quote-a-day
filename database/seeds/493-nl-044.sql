@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not all of us can do great things. But we can do small things with great love.', 'nl',
      'Niet iedereen kan grote dingen doen. Maar we kunnen kleine dingen doen met grote liefde.'),
     ('Though she be but little, she is fierce.', 'nl',
-     'Ook al is ze klein, ze is fel.');
+     'Ook al is ze klein, ze is fel.'),
+    ('You cannot run away from a weakness; you must some time fight it out or perish.', 'nl',
+     'Je kunt niet wegvluchten voor een zwakte; je moet haar ooit uitvechten of ten onder gaan.');
