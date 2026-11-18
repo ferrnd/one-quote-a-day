@@ -9,4 +9,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('There is no such thing as ruining your life. Life''s a pretty resilient thing, it turns out.', 'Sophie Kinsella', 'resilience'),
     ('Resilience is knowing that you are the only one that has the power and the responsibility to pick yourself up.', 'Mary Holloway', 'resilience'),
     ('Once you face your fear, nothing is ever as hard as you think.', 'Olivia Newton-John', 'resilience'),
-    ('When life knocks you down, try to land on your back. Because if you can look up, you can get up.', 'Les Brown', 'resilience');
+    ('When life knocks you down, try to land on your back. Because if you can look up, you can get up.', 'Les Brown', 'resilience'),
+    ('Out of every crisis comes the chance to be reborn.', 'Nena O''Neill', 'resilience');
