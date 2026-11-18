@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One day you will wake up and there won''t be any more time to do the things you''ve always wanted. Do it now.', 'it',
      'Un giorno ti sveglierai e non ci sarà più tempo per fare le cose che hai sempre voluto. Falle adesso.'),
     ('Do the best you can until you know better. Then when you know better, do better.', 'it',
-     'Fai del tuo meglio finché non sai fare di meglio. Quando sai fare di meglio, fai meglio.');
+     'Fai del tuo meglio finché non sai fare di meglio. Quando sai fare di meglio, fai meglio.'),
+    ('The beautiful thing about learning is that no one can take it away from you.', 'it',
+     'La cosa bella dell''imparare è che nessuno può portartelo via.');
