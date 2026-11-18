@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Efforts and courage are not enough without purpose and direction.', 'es',
      'El esfuerzo y el valor no bastan sin propósito y dirección.'),
     ('The world is changed by your example, not by your opinion.', 'es',
-     'El mundo cambia con tu ejemplo, no con tu opinión.');
+     'El mundo cambia con tu ejemplo, no con tu opinión.'),
+    ('We can''t help everyone, but everyone can help someone.', 'es',
+     'No podemos ayudar a todos, pero todos podemos ayudar a alguien.');
