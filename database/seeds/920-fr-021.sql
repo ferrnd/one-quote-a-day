@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity is the first path to truth.', 'fr',
      'L''adversité est le premier chemin vers la vérité.'),
     ('Kites rise highest against the wind, not with it.', 'fr',
-     'Les cerfs-volants montent le plus haut face au vent, et non avec lui.');
+     'Les cerfs-volants montent le plus haut face au vent, et non avec lui.'),
+    ('Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant.', 'fr',
+     'L''adversité a pour effet de révéler des talents qui, dans la prospérité, seraient restés endormis.');
