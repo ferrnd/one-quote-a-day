@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Screw your courage to the sticking-place, and we''ll not fail.', 'fr',
      'Tends ton courage jusqu''au bout, et nous n''échouerons pas.'),
     ('Courage is fear holding on a minute longer.', 'fr',
-     'Le courage, c''est la peur qui tient une minute de plus.');
+     'Le courage, c''est la peur qui tient une minute de plus.'),
+    ('Failure is not falling down but refusing to get up.', 'fr',
+     'Échouer, ce n''est pas tomber, c''est refuser de se relever.');
