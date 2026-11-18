@@ -1,0 +1,5 @@
+-- seed 650 :: pt-BR translations 501-510
+
+INSERT INTO translation_intake (original, locale, body) VALUES
+    ('If opportunity doesn''t knock, build a door.', 'pt-BR',
+     'Se a oportunidade não bater, construa uma porta.');
