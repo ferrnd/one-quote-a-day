@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You get in life what you have the courage to ask for.', 'pt-BR',
      'Você recebe da vida aquilo que tem coragem de pedir.'),
     ('Success isn''t about how much money you make; it''s about the difference you make in people''s lives.', 'pt-BR',
-     'Sucesso não tem a ver com quanto dinheiro você ganha; tem a ver com a diferença que você faz na vida das pessoas.');
+     'Sucesso não tem a ver com quanto dinheiro você ganha; tem a ver com a diferença que você faz na vida das pessoas.'),
+    ('There is no greater agony than bearing an untold story inside you.', 'pt-BR',
+     'Não há agonia maior do que carregar dentro de si uma história não contada.');
