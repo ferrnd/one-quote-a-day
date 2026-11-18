@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep your dreams alive. Understand to achieve anything requires faith and belief in yourself, vision, hard work, determination, and dedication.', 'nl',
      'Houd je dromen levend. Begrijp dat iets bereiken geloof en vertrouwen in jezelf vraagt, visie, hard werken, vastberadenheid en toewijding.'),
     ('If you can imagine it, you can achieve it.', 'nl',
-     'Als je het je kunt voorstellen, kun je het bereiken.');
+     'Als je het je kunt voorstellen, kun je het bereiken.'),
+    ('The dreamers are the saviors of the world.', 'nl',
+     'De dromers zijn de redders van de wereld.');
