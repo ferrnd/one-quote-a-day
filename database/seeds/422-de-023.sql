@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The tougher the battle, the sweeter the victory.', 'de',
      'Je härter der Kampf, desto süßer der Sieg.'),
     ('Sweet are the uses of adversity.', 'de',
-     'Süß sind die Früchte des Unglücks.');
+     'Süß sind die Früchte des Unglücks.'),
+    ('Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.', 'de',
+     'Jedes Unglück, jedes Scheitern, jeder Kummer trägt den Keim eines gleichwertigen oder größeren Nutzens in sich.');
