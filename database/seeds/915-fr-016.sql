@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When they go low, we go high.', 'fr',
      'Quand ils s''abaissent, nous nous élevons.'),
     ('Ability may get you to the top, but it takes character to keep you there.', 'fr',
-     'Le talent peut te mener au sommet, mais il faut du caractère pour y rester.');
+     'Le talent peut te mener au sommet, mais il faut du caractère pour y rester.'),
+    ('When there is no enemy within, the enemies outside cannot hurt you.', 'fr',
+     'Quand il n''y a pas d''ennemi à l''intérieur, les ennemis du dehors ne peuvent te nuire.');
