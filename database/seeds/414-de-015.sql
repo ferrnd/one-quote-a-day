@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Of all the virtues we can learn, no trait is more useful, more essential for survival, and more likely to improve the quality of life than the ability to transform adversity into an enjoyable challenge.', 'de',
      'Von allen Tugenden, die wir lernen können, ist keine nützlicher, keine überlebenswichtiger und keine besser geeignet, die Lebensqualität zu verbessern, als die Fähigkeit, Widrigkeiten in eine reizvolle Herausforderung zu verwandeln.'),
     ('If there is no struggle, there is no progress.', 'de',
-     'Ohne Kampf gibt es keinen Fortschritt.');
+     'Ohne Kampf gibt es keinen Fortschritt.'),
+    ('Be the heroine of your life, not the victim.', 'de',
+     'Sei die Heldin deines Lebens, nicht das Opfer.');
