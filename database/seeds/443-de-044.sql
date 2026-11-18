@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not all of us can do great things. But we can do small things with great love.', 'de',
      'Nicht alle von uns können große Dinge tun. Aber wir können kleine Dinge mit großer Liebe tun.'),
     ('Though she be but little, she is fierce.', 'de',
-     'Auch wenn sie klein ist, sie ist wild.');
+     'Auch wenn sie klein ist, sie ist wild.'),
+    ('You cannot run away from a weakness; you must some time fight it out or perish.', 'de',
+     'Du kannst vor einer Schwäche nicht davonlaufen; irgendwann musst du sie ausfechten oder untergehen.');
