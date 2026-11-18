@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is like love; it must have hope for nourishment.', 'de',
      'Mut ist wie die Liebe: Er braucht Hoffnung als Nahrung.'),
     ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'de',
-     'Es ist merkwürdig, dass körperlicher Mut auf der Welt so verbreitet ist und moralischer Mut so selten.');
+     'Es ist merkwürdig, dass körperlicher Mut auf der Welt so verbreitet ist und moralischer Mut so selten.'),
+    ('The opposite of courage in our society is not cowardice, it is conformity.', 'de',
+     'Das Gegenteil von Mut ist in unserer Gesellschaft nicht Feigheit, sondern Anpassung.');
