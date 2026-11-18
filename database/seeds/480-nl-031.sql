@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be patient toward all that is unsolved in your heart.', 'nl',
      'Heb geduld met alles wat onopgelost is in je hart.'),
     ('No great thing is created suddenly.', 'nl',
-     'Niets groots ontstaat plotseling.');
+     'Niets groots ontstaat plotseling.'),
+    ('Perhaps someday it will be pleasant to remember even this.', 'nl',
+     'Misschien is het ooit aangenaam om zelfs hieraan terug te denken.');
