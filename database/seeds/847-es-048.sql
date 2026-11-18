@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Small deeds done are better than great deeds planned.', 'es',
      'Pequeñas acciones realizadas son mejores que grandes acciones planeadas.'),
     ('You miss 100% of the shots you don''t take.', 'es',
-     'Fallas el 100% de los tiros que no haces.');
+     'Fallas el 100% de los tiros que no haces.'),
+    ('Inspiration exists, but it has to find you working.', 'es',
+     'La inspiración existe, pero tiene que encontrarte trabajando.');
