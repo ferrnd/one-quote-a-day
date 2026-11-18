@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is a mistake to look too far ahead. Only one link of the chain of destiny can be handled at a time.', 'nl',
      'Het is een vergissing te ver vooruit te kijken. Je kunt maar één schakel van de keten van het lot tegelijk vastpakken.'),
     ('Don''t spend time beating on a wall, hoping to transform it into a door.', 'nl',
-     'Verspil geen tijd met bonken op een muur in de hoop dat hij een deur wordt.');
+     'Verspil geen tijd met bonken op een muur in de hoop dat hij een deur wordt.'),
+    ('Begin anywhere.', 'nl',
+     'Begin ergens.');
