@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope will never be silent.', 'it',
      'La speranza non tacerà mai.'),
     ('Weeping may endure for a night, but joy cometh in the morning.', 'it',
-     'Alla sera sopraggiunge il pianto e al mattino la gioia.');
+     'Alla sera sopraggiunge il pianto e al mattino la gioia.'),
+    ('Grow old along with me! The best is yet to be.', 'it',
+     'Invecchia con me! Il meglio deve ancora venire.');
