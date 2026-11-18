@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The most common way people give up their power is by thinking they don''t have any.', 'de',
      'Die häufigste Art, wie Menschen ihre Macht aufgeben, ist zu glauben, sie hätten keine.'),
     ('Think like a queen. A queen is not afraid to fail.', 'de',
-     'Denke wie eine Königin. Eine Königin hat keine Angst zu scheitern.');
+     'Denke wie eine Königin. Eine Königin hat keine Angst zu scheitern.'),
+    ('Find out who you are and do it on purpose.', 'de',
+     'Finde heraus, wer du bist, und sei es mit Absicht.');
