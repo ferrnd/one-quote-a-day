@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.', 'nl',
      'De zon zelf is zwak als ze opkomt, en wint aan kracht en moed naarmate de dag vordert.'),
     ('Hope is the only thing stronger than fear.', 'nl',
-     'Hoop is het enige wat sterker is dan angst.');
+     'Hoop is het enige wat sterker is dan angst.'),
+    ('Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.', 'nl',
+     'Geluk kun je zelfs in de donkerste tijden vinden, als je er maar aan denkt het licht aan te doen.');
