@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing in life is to be feared, it is only to be understood.', 'it',
      'Nella vita non c''è nulla da temere, solo da capire.'),
     ('Bravery is the capacity to perform properly even when scared half to death.', 'it',
-     'Il coraggio è la capacità di agire nel modo giusto anche quando si è morti di paura.');
+     'Il coraggio è la capacità di agire nel modo giusto anche quando si è morti di paura.'),
+    ('With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble.', 'it',
+     'Con il coraggio oserai correre rischi, avrai la forza di essere compassionevole e la saggezza di essere umile.');
