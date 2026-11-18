@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Begin, be bold, and venture to be wise.', 'de',
      'Fang an, sei kühn und wage es, weise zu sein.'),
     ('Dream big and dare to fail.', 'de',
-     'Träume groß und wage es zu scheitern.');
+     'Träume groß und wage es zu scheitern.'),
+    ('Never mistake motion for action.', 'de',
+     'Verwechsle niemals Bewegung mit Handeln.');
