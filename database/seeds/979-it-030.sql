@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is not simply the ability to wait; it''s how we behave while we''re waiting.', 'it',
      'La pazienza non è solo la capacità di aspettare; è il modo in cui ci comportiamo mentre aspettiamo.'),
     ('Rome wasn''t built in a day.', 'it',
-     'Roma non fu costruita in un giorno.');
+     'Roma non fu costruita in un giorno.'),
+    ('Everything comes gradually and at its appointed hour.', 'it',
+     'Tutto arriva a poco a poco e al momento stabilito.');
