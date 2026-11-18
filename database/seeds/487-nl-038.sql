@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Alone we can do so little; together we can do so much.', 'nl',
      'Alleen kunnen we zo weinig; samen kunnen we zoveel.'),
     ('The only thing worse than being blind is having sight but no vision.', 'nl',
-     'Het enige wat erger is dan blind zijn, is kunnen zien maar geen visie hebben.');
+     'Het enige wat erger is dan blind zijn, is kunnen zien maar geen visie hebben.'),
+    ('No pessimist ever discovered the secret of the stars, or sailed to an uncharted land.', 'nl',
+     'Geen pessimist heeft ooit het geheim van de sterren ontdekt of is naar een onbekend land gezeild.');
