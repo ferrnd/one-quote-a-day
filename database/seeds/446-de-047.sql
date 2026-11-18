@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A goal properly set is halfway reached.', 'de',
      'Ein richtig gesetztes Ziel ist halb erreicht.'),
     ('Things do not happen. Things are made to happen.', 'de',
-     'Die Dinge geschehen nicht. Die Dinge werden zum Geschehen gebracht.');
+     'Die Dinge geschehen nicht. Die Dinge werden zum Geschehen gebracht.'),
+    ('Eighty percent of success is showing up.', 'de',
+     'Achtzig Prozent des Erfolgs bestehen darin, da zu sein.');
