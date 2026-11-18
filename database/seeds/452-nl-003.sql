@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I learned that courage was not the absence of fear, but the triumph over it.', 'nl',
      'Ik leerde dat moed niet de afwezigheid van angst is, maar de overwinning erop.'),
     ('You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.', 'nl',
-     'Je wint kracht, moed en vertrouwen met elke ervaring waarin je echt stilstaat om de angst in de ogen te kijken.');
+     'Je wint kracht, moed en vertrouwen met elke ervaring waarin je echt stilstaat om de angst in de ogen te kijken.'),
+    ('Courage is resistance to fear, mastery of fear, not absence of fear.', 'nl',
+     'Moed is weerstand tegen angst, beheersing van angst, niet de afwezigheid van angst.');
