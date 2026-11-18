@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am no bird; and no net ensnares me: I am a free human being with an independent will.', 'nl',
      'Ik ben geen vogel, en geen net vangt mij: ik ben een vrij mens met een onafhankelijke wil.'),
     ('My mission in life is not merely to survive, but to thrive.', 'nl',
-     'Mijn missie in het leven is niet alleen overleven, maar opbloeien.');
+     'Mijn missie in het leven is niet alleen overleven, maar opbloeien.'),
+    ('You can''t be hesitant about who you are.', 'nl',
+     'Je kunt niet aarzelen over wie je bent.');
