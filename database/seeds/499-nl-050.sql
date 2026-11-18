@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No act of kindness, no matter how small, is ever wasted.', 'nl',
      'Geen enkele vriendelijke daad, hoe klein ook, is ooit verspild.'),
     ('The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.', 'nl',
-     'De beste en mooiste dingen ter wereld kun je niet zien of zelfs aanraken. Ze moeten met het hart gevoeld worden.');
+     'De beste en mooiste dingen ter wereld kun je niet zien of zelfs aanraken. Ze moeten met het hart gevoeld worden.'),
+    ('What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.', 'nl',
+     'Wat we ooit hebben genoten, kunnen we nooit verliezen. Alles waar we diep van houden, wordt een deel van ons.');
