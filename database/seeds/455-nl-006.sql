@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'nl',
      'Er is maar één ding dat een droom onmogelijk maakt: de angst om te falen.'),
     ('Failure is not the opposite of success; it''s part of success.', 'nl',
-     'Falen is niet het tegenovergestelde van succes; het is er een deel van.');
+     'Falen is niet het tegenovergestelde van succes; het is er een deel van.'),
+    ('You build on failure. You use it as a stepping stone.', 'nl',
+     'Je bouwt voort op falen. Je gebruikt het als springplank.');
