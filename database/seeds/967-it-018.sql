@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success isn''t always about greatness. It''s about consistency.', 'it',
      'Il successo non riguarda sempre la grandezza. Riguarda la costanza.'),
     ('Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.', 'it',
-     'Il successo non è un caso. È duro lavoro, perseveranza, apprendimento, studio, sacrificio e, soprattutto, amore per ciò che si fa.');
+     'Il successo non è un caso. È duro lavoro, perseveranza, apprendimento, studio, sacrificio e, soprattutto, amore per ciò che si fa.'),
+    ('The will to win is important, but the will to prepare is vital.', 'it',
+     'La volontà di vincere è importante, ma la volontà di prepararsi è vitale.');
