@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'de',
      'Nur eines macht einen Traum unerreichbar: die Angst vor dem Scheitern.'),
     ('Failure is not the opposite of success; it''s part of success.', 'de',
-     'Scheitern ist nicht das Gegenteil von Erfolg; es ist ein Teil davon.');
+     'Scheitern ist nicht das Gegenteil von Erfolg; es ist ein Teil davon.'),
+    ('You build on failure. You use it as a stepping stone.', 'de',
+     'Man baut auf dem Scheitern auf. Man nutzt es als Sprungbrett.');
