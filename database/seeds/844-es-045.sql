@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sometimes adversity is what you need to face in order to become successful.', 'es',
      'A veces la adversidad es justo lo que necesitas enfrentar para tener éxito.'),
     ('Hard times don''t create heroes. It is during the hard times when the hero within us is revealed.', 'es',
-     'Los tiempos difíciles no crean héroes. Es en los tiempos difíciles cuando se revela el héroe que llevamos dentro.');
+     'Los tiempos difíciles no crean héroes. Es en los tiempos difíciles cuando se revela el héroe que llevamos dentro.'),
+    ('Mountains cannot be surmounted except by winding paths.', 'es',
+     'Las montañas no se superan sino por caminos sinuosos.');
