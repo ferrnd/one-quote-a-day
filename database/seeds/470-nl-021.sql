@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity is the first path to truth.', 'nl',
      'Tegenspoed is de eerste weg naar de waarheid.'),
     ('Kites rise highest against the wind, not with it.', 'nl',
-     'Vliegers stijgen het hoogst tegen de wind in, niet met de wind mee.');
+     'Vliegers stijgen het hoogst tegen de wind in, niet met de wind mee.'),
+    ('Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant.', 'nl',
+     'Tegenspoed brengt talenten naar boven die in voorspoedige omstandigheden zouden zijn blijven sluimeren.');
