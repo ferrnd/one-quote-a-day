@@ -2,11 +2,15 @@
 
 Linear memory layout (all integers little-endian):
 
-    0x0000  header (64 bytes, see HEADER_FIELDS)
-    0x0040  records: one 16-byte record per quote, then one per dedication
+    0x0000  header (128 bytes, see HEADER_FIELDS)
+    0x0080  records: K blocks, one per locale, of R = N + D records each
+            (N quotes, then D dedications); record (i, k) sits at
+            records_ptr + (k * R + i) * 16
               +0 text_ptr  +4 text_len  +8 author_ptr  +12 author_len
               (an unsigned dedication has author_ptr = author_len = 0)
-    ......  string pool: author names, quote bodies, dedication texts (ASCII)
+    ......  locales: K entries of 16 bytes
+              +0 code_ptr  +4 code_len  +8 name_ptr  +12 name_len
+    ......  string pool: every distinct string once, UTF-8
     ......  dedications: (i32 day, u32 record index) pairs, sorted by day
     ......  schedule: one u16 quote index per day, one Gregorian cycle long
     ......  scratch: N x u32 used by the runtime to materialise permutations
@@ -15,7 +19,7 @@ Linear memory layout (all integers little-endian):
 from __future__ import annotations
 
 import struct
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 
 from . import __version__
@@ -24,15 +28,17 @@ from .database import Catalog, calendar_of
 from .schedule import BASE_DAY, SEED, SEQUENCE, WINDOW
 
 MAGIC = 0x44544F51  # "QOTD"
-FORMAT = 3
+FORMAT = 4
 PAGE = 65_536
-HEADER_SIZE = 64
+HEADER_SIZE = 128
 RECORD_SIZE = 16
+LOCALE_SIZE = 16
 HEADER_FIELDS = (
     "magic", "format", "quote_count", "author_count",
     "records_ptr", "pool_ptr", "pool_len", "schedule_ptr",
     "schedule_base", "schedule_len", "scratch_ptr", "pool_fnv1a",
     "dedication_count", "dedications_ptr", "launch_day", "legacy_count",
+    "locale_count", "locales_ptr", "records_per_locale",
 )
 DEDICATION_SIZE = 8
 
@@ -53,8 +59,9 @@ def hex_bytes(data: bytes) -> str:
 
 
 def wat_string(text: str) -> str:
+    """A WAT string literal. Printable ASCII stays readable, the rest is escaped."""
     out = []
-    for ch in text.encode("ascii"):
+    for ch in text.encode("utf-8"):
         if ch in (0x22, 0x5C) or not 0x20 <= ch <= 0x7E:
             out.append(f"\\{ch:02x}")
         else:
@@ -62,18 +69,41 @@ def wat_string(text: str) -> str:
     return '"' + "".join(out) + '"'
 
 
+@dataclass
+class Pool:
+    """Interned UTF-8 strings laid out from `base`; each distinct string once."""
+
+    base: int
+    data: bytearray = field(default_factory=bytearray)
+    index: dict[str, tuple[int, int]] = field(default_factory=dict)
+    order: list[tuple[int, str, str]] = field(default_factory=list)  # (ptr, text, label)
+
+    def add(self, text: str, label: str) -> tuple[int, int]:
+        if text not in self.index:
+            raw = text.encode("utf-8")
+            ptr = self.base + len(self.data)
+            self.index[text] = (ptr, len(raw))
+            self.order.append((ptr, text, label))
+            self.data += raw
+        return self.index[text]
+
+
 @dataclass(frozen=True)
 class Layout:
     records_ptr: int
+    locales_ptr: int
     pool_ptr: int
     pool: bytes
-    author_ptrs: list[tuple[int, int]]
-    quote_ptrs: list[tuple[int, int]]
-    dedication_ptrs: list[tuple[int, int, int, int]]
+    strings: list[tuple[int, str, str]]
+    records: list[list[tuple[int, int, int, int]]]  # [locale][record]
+    locale_entries: list[tuple[int, int, int, int]]
     dedications_ptr: int
     schedule_ptr: int
     scratch_ptr: int
     end: int
+    author_ptrs: list[tuple[int, int]]
+    quote_ptrs: list[tuple[int, int]]
+    dedication_ptrs: list[tuple[int, int, int, int]]
 
     @property
     def pages(self) -> int:
@@ -82,36 +112,42 @@ class Layout:
 
 def plan(catalog: Catalog) -> Layout:
     n = len(catalog)
+    per_locale = n + len(catalog.dedications)
+    locales = catalog.locales
     records_ptr = HEADER_SIZE
-    pool_ptr = records_ptr + (n + len(catalog.dedications)) * RECORD_SIZE
-    pool = bytearray()
-    author_ptrs = []
-    for name in catalog.authors:
-        raw = name.encode("ascii")
-        author_ptrs.append((pool_ptr + len(pool), len(raw)))
-        pool += raw
-    quote_ptrs = []
-    for quote in catalog.quotes:
-        raw = quote.body.encode("ascii")
-        quote_ptrs.append((pool_ptr + len(pool), len(raw)))
-        pool += raw
-    dedication_ptrs = []
-    for ded in catalog.dedications:
-        raw = ded.body.encode("ascii")
-        text = (pool_ptr + len(pool), len(raw))
-        pool += raw
-        signature = (0, 0)
-        if ded.author:
-            raw = ded.author.encode("ascii")
-            signature = (pool_ptr + len(pool), len(raw))
-            pool += raw
-        dedication_ptrs.append(text + signature)
-    dedications_ptr = align(pool_ptr + len(pool), 8)
+    locales_ptr = records_ptr + per_locale * len(locales) * RECORD_SIZE
+    pool = Pool(locales_ptr + len(locales) * LOCALE_SIZE)
+
+    locale_entries = [pool.add(code, "locale") + pool.add(name, "locale") for code, name in locales]
+    records = []
+    for k, (code, _name) in enumerate(locales):
+        authors = catalog.authors if k == 0 else catalog.author_names[code]
+        bodies = [q.body for q in catalog.quotes] if k == 0 else catalog.translations[code]
+        dedications = ([(d.body, d.author) for d in catalog.dedications] if k == 0
+                       else catalog.dedication_texts[code])
+        author_ptrs = [pool.add(name, f"a{i:04d} {code}") for i, name in enumerate(authors)]
+        block = []
+        for i, quote in enumerate(catalog.quotes):
+            block.append(pool.add(bodies[i], f"#{i:04d} {code}") + author_ptrs[quote.author_id - 1])
+        for j, (body, author) in enumerate(dedications):
+            text = pool.add(body, f"#{n + j:04d} {code} dedication")
+            block.append(text + (pool.add(author, "dedication author") if author else (0, 0)))
+        records.append(block)
+
+    base_authors = [pool.index[name] for name in catalog.authors]
+    dedications_ptr = align(pool.base + len(pool.data), 8)
     schedule_ptr = align(dedications_ptr + len(catalog.dedications) * DEDICATION_SIZE, 8)
     scratch_ptr = align(schedule_ptr + WINDOW * 2, 8)
     end = scratch_ptr + n * 4
-    return Layout(records_ptr, pool_ptr, bytes(pool), author_ptrs, quote_ptrs,
-                  dedication_ptrs, dedications_ptr, schedule_ptr, scratch_ptr, end)
+    return Layout(
+        records_ptr=records_ptr, locales_ptr=locales_ptr, pool_ptr=pool.base,
+        pool=bytes(pool.data), strings=pool.order, records=records,
+        locale_entries=locale_entries, dedications_ptr=dedications_ptr,
+        schedule_ptr=schedule_ptr, scratch_ptr=scratch_ptr, end=end,
+        author_ptrs=base_authors,
+        quote_ptrs=[r[:2] for r in records[0][:n]],
+        dedication_ptrs=records[0][n:],
+    )
 
 
 def dedication_day(iso_date: str) -> int:
@@ -126,6 +162,7 @@ def header_bytes(catalog: Catalog, layout: Layout) -> bytes:
         BASE_DAY, WINDOW, layout.scratch_ptr, fnv1a32(layout.pool),
         len(catalog.dedications), layout.dedications_ptr,
         calendar_of(catalog).launch, catalog.legacy_quotes,
+        len(catalog.locales), layout.locales_ptr, len(catalog) + len(catalog.dedications),
     )
     raw = struct.pack(f"<{len(HEADER_FIELDS)}I", *(v & 0xFFFF_FFFF for v in values))
     return raw.ljust(HEADER_SIZE, b"\0")
@@ -148,9 +185,11 @@ def render(catalog: Catalog, fragments: list[Path]) -> str:
     emit(f";;  authors       {len(catalog.authors)}")
     emit(f";;  themes        {len(catalog.themes)}")
     emit(f";;  dedications   {len(catalog.dedications)}")
+    emit(f";;  locales       {', '.join(code for code, _ in catalog.locales)}")
     emit(f";;  calendar      day 1 {catalog.launch_day}, {catalog.legacy_quotes} legacy quotes; new quotes")
     emit(f";;                from day {calendar.legacy + 1}, full rotation from day {calendar.n + 1}")
-    emit(f";;  pool          {len(layout.pool)} bytes, fnv1a {fnv1a32(layout.pool):#010x}")
+    emit(f";;  pool          {len(layout.pool)} bytes, {len(layout.strings)} strings, "
+         f"fnv1a {fnv1a32(layout.pool):#010x}")
     emit(f";;  schedule      {WINDOW} days from 2000-01-01, seed {SEED:#018x}")
     emit(f";;  sequence      {SEQUENCE:#018x}")
     emit(f";;  memory        {layout.end} bytes in {layout.pages} pages")
@@ -168,44 +207,40 @@ def render(catalog: Catalog, fragments: list[Path]) -> str:
 
     emit("  ;; ======================================================= records ==")
     emit(f"  (data (i32.const {layout.records_ptr})")
-    for i, quote in enumerate(catalog.quotes):
-        tp, tl = layout.quote_ptrs[i]
-        ap, al = layout.author_ptrs[quote.author_id - 1]
-        rec = struct.pack("<4I", tp, tl, ap, al)
-        emit(f'    "{hex_bytes(rec)}" ;; #{i:04d} {quote.theme}')
-    for j, ded in enumerate(catalog.dedications):
-        rec = struct.pack("<4I", *layout.dedication_ptrs[j])
-        emit(f'    "{hex_bytes(rec)}" ;; #{n + j:04d} dedication {ded.day}')
+    for k, (code, _name) in enumerate(catalog.locales):
+        emit(f"    ;; ---- locale {k}: {code}")
+        for i, quote in enumerate(catalog.quotes):
+            emit(f'    "{hex_bytes(struct.pack("<4I", *layout.records[k][i]))}" ;; #{i:04d} {quote.theme}')
+        for j, ded in enumerate(catalog.dedications):
+            emit(f'    "{hex_bytes(struct.pack("<4I", *layout.records[k][n + j]))}" '
+                 f";; #{n + j:04d} dedication {ded.day}")
     emit("  )")
     emit("")
 
-    emit("  ;; ======================================================= authors ==")
-    for i, name in enumerate(catalog.authors):
-        ptr, _ = layout.author_ptrs[i]
-        emit(f"  (data (i32.const {ptr}) {wat_string(name)}) ;; a{i:04d}")
+    emit("  ;; ======================================================= locales ==")
+    emit(f"  (data (i32.const {layout.locales_ptr})")
+    for k, (code, _name) in enumerate(catalog.locales):
+        emit(f'    "{hex_bytes(struct.pack("<4I", *layout.locale_entries[k]))}" ;; {k} {code}')
+    emit("  )")
     emit("")
 
-    emit("  ;; ======================================================== quotes ==")
-    for i, quote in enumerate(catalog.quotes):
-        ptr, _ = layout.quote_ptrs[i]
-        emit(f"  (data (i32.const {ptr}) {wat_string(quote.body)}) ;; #{i:04d}")
+    emit("  ;; ======================================================== strings ==")
+    emit("  ;;  Every distinct string once: author names, quotes, dedications and")
+    emit("  ;;  locale names, in every language. Non-ASCII bytes are escaped.")
+    for ptr, text, label in layout.strings:
+        emit(f"  (data (i32.const {ptr}) {wat_string(text)}) ;; {label}")
     emit("")
 
-    emit("  ;; =================================================== dedications ==")
-    emit("  ;;  Messages pinned to one exact date. They override the rotation on")
-    emit("  ;;  that day only and are never part of the schedule below.")
-    for j, ded in enumerate(catalog.dedications):
-        tp, _, ap, _ = layout.dedication_ptrs[j]
-        emit(f"  (data (i32.const {tp}) {wat_string(ded.body)}) ;; #{n + j:04d} {ded.day}")
-        if ded.author:
-            emit(f"  (data (i32.const {ap}) {wat_string(ded.author)})")
     if catalog.dedications:
+        emit("  ;; =================================================== dedications ==")
+        emit("  ;;  Messages pinned to one exact date. They override the rotation on")
+        emit("  ;;  that day only and are never part of the schedule below.")
         emit(f"  (data (i32.const {layout.dedications_ptr})")
         for j, ded in enumerate(catalog.dedications):
             pair = struct.pack("<iI", dedication_day(ded.day), n + j)
             emit(f'    "{hex_bytes(pair)}" ;; {ded.day} -> #{n + j:04d}')
         emit("  )")
-    emit("")
+        emit("")
 
     emit("  ;; ====================================================== schedule ==")
     emit("  ;;  One little-endian u16 per day. The calendar repeats every 146097")
