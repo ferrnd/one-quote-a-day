@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The successful man will profit from his mistakes and try again in a different way.', 'de',
      'Der erfolgreiche Mensch zieht Nutzen aus seinen Fehlern und versucht es auf andere Weise noch einmal.'),
     ('Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.', 'de',
-     'Entwickle Erfolg aus Misserfolgen. Entmutigung und Scheitern sind zwei der sichersten Stufen zum Erfolg.');
+     'Entwickle Erfolg aus Misserfolgen. Entmutigung und Scheitern sind zwei der sichersten Stufen zum Erfolg.'),
+    ('Mistakes are always forgivable, if one has the courage to admit them.', 'de',
+     'Fehler sind immer verzeihlich, wenn man den Mut hat, sie zuzugeben.');
