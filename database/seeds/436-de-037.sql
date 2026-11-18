@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you want to go fast, go alone. If you want to go far, go together.', 'de',
      'Wenn du schnell gehen willst, geh allein. Wenn du weit gehen willst, geh mit anderen.'),
     ('Be not afraid.', 'de',
-     'Habt keine Angst.');
+     'Habt keine Angst.'),
+    ('I am not afraid of tomorrow, for I have seen yesterday and I love today.', 'de',
+     'Ich habe keine Angst vor morgen, denn ich habe das Gestern gesehen und liebe das Heute.');
