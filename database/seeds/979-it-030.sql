@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The key to everything is patience. You get the chicken by hatching the egg, not by smashing it.', 'it',
      'La chiave di tutto è la pazienza. Il pulcino si ottiene covando l''uovo, non rompendolo.'),
     ('Patience and time do more than strength or passion.', 'it',
-     'La pazienza e il tempo fanno più della forza o della passione.');
+     'La pazienza e il tempo fanno più della forza o della passione.'),
+    ('Our patience will achieve more than our force.', 'it',
+     'La nostra pazienza otterrà più della nostra forza.');
