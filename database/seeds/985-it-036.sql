@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without leaps of imagination or dreaming, we lose the excitement of possibilities.', 'it',
      'Senza slanci di immaginazione o di sogno, perdiamo l''entusiasmo delle possibilità.'),
     ('Dreaming, after all, is a form of planning.', 'it',
-     'Sognare, dopotutto, è un modo di pianificare.');
+     'Sognare, dopotutto, è un modo di pianificare.'),
+    ('You''re off to great places! Today is your day! Your mountain is waiting, so get on your way!', 'it',
+     'Stai andando verso posti fantastici! Oggi è il tuo giorno! La tua montagna ti aspetta, quindi mettiti in cammino!');
