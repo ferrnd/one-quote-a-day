@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.', 'nl',
      'Elke tegenslag, elke mislukking, elk hartzeer draagt de kiem van een gelijk of groter voordeel in zich.'),
     ('The greater the difficulty, the more glory in surmounting it.', 'nl',
-     'Hoe groter de moeilijkheid, hoe groter de glorie om haar te overwinnen.');
+     'Hoe groter de moeilijkheid, hoe groter de glorie om haar te overwinnen.'),
+    ('Difficulties are things that show a person what they are.', 'nl',
+     'Moeilijkheden zijn wat een mens laat zien wie hij is.');
