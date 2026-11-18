@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rest at the end, not in the middle.', 'it',
      'Riposati alla fine, non a metà.'),
     ('There are no shortcuts to any place worth going.', 'it',
-     'Non esistono scorciatoie per nessun posto che valga la pena raggiungere.');
+     'Non esistono scorciatoie per nessun posto che valga la pena raggiungere.'),
+    ('The only place where success comes before work is in the dictionary.', 'it',
+     'L''unico posto in cui il successo viene prima del lavoro è il vocabolario.');
