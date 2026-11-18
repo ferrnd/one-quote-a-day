@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We learn from failure, not from success!', 'de',
      'Wir lernen aus dem Scheitern, nicht aus dem Erfolg!'),
     ('You can''t be afraid to fail. It''s the only way you succeed.', 'de',
-     'Du darfst keine Angst vor dem Scheitern haben. Nur so hast du Erfolg.');
+     'Du darfst keine Angst vor dem Scheitern haben. Nur so hast du Erfolg.'),
+    ('A man is not finished when he is defeated. He is finished when he quits.', 'de',
+     'Ein Mensch ist nicht erledigt, wenn er besiegt wird. Er ist erledigt, wenn er aufgibt.');
