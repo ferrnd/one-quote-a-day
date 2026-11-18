@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not let your fire go out, spark by irreplaceable spark.', 'nl',
      'Laat je vuur niet doven, vonk na onvervangbare vonk.'),
     ('We are all in the gutter, but some of us are looking at the stars.', 'nl',
-     'We liggen allemaal in de goot, maar sommigen van ons kijken naar de sterren.');
+     'We liggen allemaal in de goot, maar sommigen van ons kijken naar de sterren.'),
+    ('The darker the night, the brighter the stars, the deeper the grief, the closer is God!', 'nl',
+     'Hoe donkerder de nacht, hoe helderder de sterren; hoe dieper het verdriet, hoe dichter God nabij is!');
