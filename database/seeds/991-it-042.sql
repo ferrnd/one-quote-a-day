@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Resilience is knowing that you are the only one that has the power and the responsibility to pick yourself up.', 'it',
      'La resilienza è sapere che sei l''unico ad avere il potere e la responsabilità di rialzarti.'),
     ('Once you face your fear, nothing is ever as hard as you think.', 'it',
-     'Una volta affrontata la tua paura, niente è mai difficile come pensi.');
+     'Una volta affrontata la tua paura, niente è mai difficile come pensi.'),
+    ('When life knocks you down, try to land on your back. Because if you can look up, you can get up.', 'it',
+     'Quando la vita ti butta a terra, cerca di cadere di schiena. Perché se riesci a guardare in alto, riesci a rialzarti.');
