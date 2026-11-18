@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greatest test of courage on earth is to bear defeat without losing heart.', 'pt-BR',
      'O maior teste de coragem na Terra é suportar a derrota sem perder o ânimo.'),
     ('Of all the virtues we can learn, no trait is more useful, more essential for survival, and more likely to improve the quality of life than the ability to transform adversity into an enjoyable challenge.', 'pt-BR',
-     'De todas as virtudes que podemos aprender, nenhuma é mais útil, mais essencial para a sobrevivência e mais capaz de melhorar a qualidade de vida do que a capacidade de transformar a adversidade em um desafio prazeroso.');
+     'De todas as virtudes que podemos aprender, nenhuma é mais útil, mais essencial para a sobrevivência e mais capaz de melhorar a qualidade de vida do que a capacidade de transformar a adversidade em um desafio prazeroso.'),
+    ('If there is no struggle, there is no progress.', 'pt-BR',
+     'Se não há luta, não há progresso.');
