@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Slow and steady wins the race.', 'it',
      'Chi va piano va sano e va lontano.'),
     ('With time and patience the mulberry leaf becomes a silk gown.', 'it',
-     'Con il tempo e la pazienza, la foglia di gelso diventa seta.');
+     'Con il tempo e la pazienza, la foglia di gelso diventa seta.'),
+    ('Patience attracts happiness; it brings near that which is far.', 'it',
+     'La pazienza attira la felicità; avvicina ciò che è lontano.');
