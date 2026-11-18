@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep your face to the sunshine and you cannot see a shadow.', 'de',
      'Halte dein Gesicht der Sonne zugewandt, dann siehst du keinen Schatten.'),
     ('One day, in retrospect, the years of struggle will strike you as the most beautiful.', 'de',
-     'Eines Tages, im Rückblick, werden dir die Jahre des Kampfes als die schönsten erscheinen.');
+     'Eines Tages, im Rückblick, werden dir die Jahre des Kampfes als die schönsten erscheinen.'),
+    ('In the end, everything will be okay. If it''s not okay, it''s not yet the end.', 'de',
+     'Am Ende wird alles gut. Wenn es nicht gut ist, ist es noch nicht das Ende.');
