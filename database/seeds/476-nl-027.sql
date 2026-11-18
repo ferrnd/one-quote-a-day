@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only limit to our realization of tomorrow will be our doubts of today.', 'nl',
      'De enige grens aan wat we morgen bereiken, zijn onze twijfels van vandaag.'),
     ('Perpetual optimism is a force multiplier.', 'nl',
-     'Voortdurend optimisme vermenigvuldigt je kracht.');
+     'Voortdurend optimisme vermenigvuldigt je kracht.'),
+    ('If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.', 'nl',
+     'Als je een stem in je hoort zeggen ''je kunt niet schilderen'', schilder dan vooral, en die stem zal verstommen.');
