@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have learned more from my mistakes than from my successes.', 'pt-BR',
      'Aprendi mais com meus erros do que com meus acertos.'),
     ('It''s failure that gives you the proper perspective on success.', 'pt-BR',
-     'É o fracasso que dá a perspectiva certa sobre o sucesso.');
+     'É o fracasso que dá a perspectiva certa sobre o sucesso.'),
+    ('Success is how high you bounce when you hit bottom.', 'pt-BR',
+     'Sucesso é o quão alto você quica quando chega ao fundo.');
