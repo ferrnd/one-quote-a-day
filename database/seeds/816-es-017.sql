@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Still, like air, I''ll rise.', 'es',
      'Aun así, como el aire, me levanto.'),
     ('She stood in the storm, and when the wind did not blow her way, she adjusted her sails.', 'es',
-     'Se mantuvo de pie en la tormenta y, cuando el viento no sopló a su favor, ajustó las velas.');
+     'Se mantuvo de pie en la tormenta y, cuando el viento no sopló a su favor, ajustó las velas.'),
+    ('Tough times never last, but tough people do.', 'es',
+     'Los tiempos difíciles no duran, pero las personas fuertes sí.');
