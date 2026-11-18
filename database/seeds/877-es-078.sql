@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Persistence is to the character of man as carbon is to steel.', 'es',
      'La persistencia es al carácter del hombre lo que el carbono es al acero.'),
     ('The man who can drive himself further once the effort gets painful is the man who will win.', 'es',
-     'El hombre capaz de exigirse más cuando el esfuerzo empieza a doler es el que ganará.');
+     'El hombre capaz de exigirse más cuando el esfuerzo empieza a doler es el que ganará.'),
+    ('Don''t give up. Don''t ever give up.', 'es',
+     'No te rindas. Nunca te rindas.');
