@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When the whole world is silent, even one voice becomes powerful.', 'nl',
      'Als de hele wereld zwijgt, wordt zelfs één stem krachtig.'),
     ('Because it''s there.', 'nl',
-     'Omdat hij er is.');
+     'Omdat hij er is.'),
+    ('That''s one small step for a man, one giant leap for mankind.', 'nl',
+     'Dit is een kleine stap voor een mens, maar een reuzensprong voor de mensheid.');
