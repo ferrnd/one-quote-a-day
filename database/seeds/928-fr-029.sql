@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you''re always trying to be normal, you will never know how amazing you can be.', 'fr',
      'Si tu essaies toujours d''être normal, tu ne sauras jamais à quel point tu peux être extraordinaire.'),
     ('Why, sometimes I''ve believed as many as six impossible things before breakfast.', 'fr',
-     'Il m''est arrivé de croire jusqu''à six choses impossibles avant le petit-déjeuner.');
+     'Il m''est arrivé de croire jusqu''à six choses impossibles avant le petit-déjeuner.'),
+    ('The worst enemy to creativity is self-doubt.', 'fr',
+     'Le pire ennemi de la créativité est le doute de soi.');
