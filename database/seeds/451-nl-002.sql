@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('The drops of rain make a hole in the stone, not by violence, but by oft falling.', 'nl',
-     'Regendruppels hollen de steen uit, niet door geweld, maar door steeds weer te vallen.');
+     'Regendruppels hollen de steen uit, niet door geweld, maar door steeds weer te vallen.'),
+    ('Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.', 'nl',
+     'De meeste belangrijke dingen ter wereld zijn bereikt door mensen die het bleven proberen toen er helemaal geen hoop meer leek te zijn.');
