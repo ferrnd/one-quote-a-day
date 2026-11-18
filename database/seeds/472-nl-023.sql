@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is a rough road that leads to the heights of greatness.', 'nl',
      'Het is een ruwe weg die naar de hoogten van grootsheid leidt.'),
     ('Difficult roads often lead to beautiful destinations.', 'nl',
-     'Moeilijke wegen leiden vaak naar prachtige bestemmingen.');
+     'Moeilijke wegen leiden vaak naar prachtige bestemmingen.'),
+    ('In the midst of chaos, there is also opportunity.', 'nl',
+     'Midden in de chaos ligt ook een kans.');
