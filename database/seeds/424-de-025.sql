@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream big and dare to fail.', 'de',
      'Träume groß und wage es zu scheitern.'),
     ('Never mistake motion for action.', 'de',
-     'Verwechsle niemals Bewegung mit Handeln.');
+     'Verwechsle niemals Bewegung mit Handeln.'),
+    ('Don''t let yesterday take up too much of today.', 'de',
+     'Lass nicht zu, dass das Gestern zu viel vom Heute einnimmt.');
