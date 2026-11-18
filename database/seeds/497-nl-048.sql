@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything comes to him who hustles while he waits.', 'nl',
      'Alles komt naar wie zich inspant terwijl hij wacht.'),
     ('If I have made any valuable discoveries, it has been owing more to patient attention than to any other talent.', 'nl',
-     'Als ik waardevolle ontdekkingen heb gedaan, dan dank ik dat meer aan geduldige aandacht dan aan enig ander talent.');
+     'Als ik waardevolle ontdekkingen heb gedaan, dan dank ik dat meer aan geduldige aandacht dan aan enig ander talent.'),
+    ('Patience is necessary, and one cannot reap immediately where one has sown.', 'nl',
+     'Geduld is nodig, en je kunt niet meteen oogsten waar je hebt gezaaid.');
