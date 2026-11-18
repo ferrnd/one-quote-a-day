@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Doubt kills more dreams than failure ever will.', 'es',
      'La duda mata más sueños de los que el fracaso matará jamás.'),
     ('Don''t be pushed around by the fears in your mind. Be led by the dreams in your heart.', 'es',
-     'No te dejes empujar por los miedos de tu mente. Déjate guiar por los sueños de tu corazón.');
+     'No te dejes empujar por los miedos de tu mente. Déjate guiar por los sueños de tu corazón.'),
+    ('Put your heart, mind, and soul into even your smallest acts. This is the secret of success.', 'es',
+     'Pon el corazón, la mente y el alma incluso en tus actos más pequeños. Ese es el secreto del éxito.');
