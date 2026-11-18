@@ -9,4 +9,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Persist and persevere, and you will find most things that are attainable, possible.', 'Lord Chesterfield', 'perseverance'),
     ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'Ross Perot', 'perseverance'),
     ('If you are going to doubt something, doubt your limits.', 'Don Ward', 'perseverance'),
-    ('There is no substitute for hard work.', 'Thomas Edison', 'perseverance');
+    ('There is no substitute for hard work.', 'Thomas Edison', 'perseverance'),
+    ('The difference between try and triumph is just a little umph!', 'Marvin Phillips', 'perseverance');
