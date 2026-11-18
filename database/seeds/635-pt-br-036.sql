@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Focus on being productive instead of busy.', 'pt-BR',
      'Concentre-se em ser produtivo, e não em estar ocupado.'),
     ('Discipline is remembering what you want.', 'pt-BR',
-     'Disciplina é lembrar o que você quer.');
+     'Disciplina é lembrar o que você quer.'),
+    ('Make each day your masterpiece.', 'pt-BR',
+     'Faça de cada dia a sua obra-prima.');
