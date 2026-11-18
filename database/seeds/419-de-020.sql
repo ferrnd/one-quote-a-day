@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.', 'de',
      'Die größte Entdeckung meiner Generation ist, dass ein Mensch sein Leben verändern kann, indem er seine Einstellung verändert.'),
     ('You are never too old to set another goal or to dream a new dream.', 'de',
-     'Man ist nie zu alt, sich ein neues Ziel zu setzen oder einen neuen Traum zu träumen.');
+     'Man ist nie zu alt, sich ein neues Ziel zu setzen oder einen neuen Traum zu träumen.'),
+    ('Act as if what you do makes a difference. It does.', 'de',
+     'Handle so, als ob das, was du tust, einen Unterschied macht. Das tut es.');
