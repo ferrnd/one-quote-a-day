@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'nl',
      'Een mislukking is niet altijd een fout. Het kan gewoon het beste zijn wat onder de omstandigheden mogelijk was. De echte fout is stoppen met proberen.'),
     ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'nl',
-     'Als je niet af en toe faalt, is dat een teken dat je niets erg vernieuwends doet.');
+     'Als je niet af en toe faalt, is dat een teken dat je niets erg vernieuwends doet.'),
+    ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'nl',
+     'Falen gebeurt voortdurend. Het gebeurt elke dag op de training. Wat je beter maakt, is hoe je erop reageert.');
