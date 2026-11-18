@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Trust thyself: every heart vibrates to that iron string.', 'nl',
      'Vertrouw op jezelf: elk hart trilt mee met die ijzeren snaar.'),
     ('You are the one that possesses the keys to your being. You carry the passport to your own happiness.', 'nl',
-     'Jij bent degene die de sleutels van je wezen bezit. Jij draagt het paspoort naar je eigen geluk.');
+     'Jij bent degene die de sleutels van je wezen bezit. Jij draagt het paspoort naar je eigen geluk.'),
+    ('We are what we repeatedly do. Excellence, then, is not an act, but a habit.', 'nl',
+     'We zijn wat we herhaaldelijk doen. Uitmuntendheid is dus geen daad, maar een gewoonte.');
