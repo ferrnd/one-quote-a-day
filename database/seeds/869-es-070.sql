@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Some people dream of success, while other people get up every morning and make it happen.', 'es',
      'Algunas personas sueñan con el éxito, mientras que otras se levantan cada mañana y lo hacen realidad.'),
     ('I have a dream.', 'es',
-     'Tengo un sueño.');
+     'Tengo un sueño.'),
+    ('What is now proved was once only imagined.', 'es',
+     'Lo que hoy está demostrado alguna vez fue solo imaginado.');
