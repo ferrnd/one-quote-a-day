@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The way to get started is to quit talking and begin doing.', 'de',
      'Der Weg zum Anfang ist, aufzuhören zu reden und anzufangen zu handeln.'),
     ('Do not wait; the time will never be just right.', 'de',
-     'Warte nicht; der richtige Zeitpunkt wird nie kommen.');
+     'Warte nicht; der richtige Zeitpunkt wird nie kommen.'),
+    ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'de',
+     'Es ist nicht genug, zu wissen, man muss auch anwenden; es ist nicht genug, zu wollen, man muss auch tun.');
