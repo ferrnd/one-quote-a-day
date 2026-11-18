@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no such thing as ruining your life. Life''s a pretty resilient thing, it turns out.', 'nl',
      'Je leven verpesten bestaat niet. Het leven blijkt behoorlijk veerkrachtig te zijn.'),
     ('Resilience is knowing that you are the only one that has the power and the responsibility to pick yourself up.', 'nl',
-     'Veerkracht is weten dat alleen jij de macht en de verantwoordelijkheid hebt om jezelf op te rapen.');
+     'Veerkracht is weten dat alleen jij de macht en de verantwoordelijkheid hebt om jezelf op te rapen.'),
+    ('Once you face your fear, nothing is ever as hard as you think.', 'nl',
+     'Als je je angst eenmaal onder ogen ziet, is niets zo moeilijk als je denkt.');
