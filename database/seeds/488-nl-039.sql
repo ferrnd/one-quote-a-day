@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are going to doubt something, doubt your limits.', 'nl',
      'Als je ergens aan gaat twijfelen, twijfel dan aan je grenzen.'),
     ('There is no substitute for hard work.', 'nl',
-     'Er is geen vervanging voor hard werken.');
+     'Er is geen vervanging voor hard werken.'),
+    ('The difference between try and triumph is just a little umph!', 'nl',
+     'Het verschil tussen proberen en triomferen is gewoon een klein beetje meer pit!');
