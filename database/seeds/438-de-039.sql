@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best revenge is massive success.', 'de',
      'Die beste Rache ist gewaltiger Erfolg.'),
     ('Grief can be the garden of compassion.', 'de',
-     'Trauer kann der Garten des Mitgefühls sein.');
+     'Trauer kann der Garten des Mitgefühls sein.'),
+    ('Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it.', 'de',
+     'Mach weiter, und die Chancen stehen gut, dass du auf etwas stößt, vielleicht wenn du es am wenigsten erwartest.');
