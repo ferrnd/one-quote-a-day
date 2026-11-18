@@ -123,24 +123,27 @@ The built site lives in `docs/`. In the repository settings, under
 
 ## Android app
 
-`app/` is a native Android app built with [Capacitor](https://capacitorjs.com/).
-It bundles the staged site from `docs/` (the WebAssembly module included), so
-it works offline, and adds what a web page cannot: a **daily notification**
-with that day's quote, in the chosen language, at 00:00, 07:00, 09:00 or
-12:00 (Settings, visible only in the app). The next 45 days are scheduled
-with the system alarm manager on every launch.
+`android/` is a native Android app in Kotlin and Jetpack Compose: no WebView.
+It carries the same catalog as the site (`assets/quotes.json`, written from the
+SQLite database) and computes the schedule itself: `Schedule.kt` is a port of
+the PCG32 shuffle and the calendar, checked day by day against the Python
+reference by a JVM unit test. On top of the site it has a **daily
+notification** with that day's quote, in the chosen language, at the hour
+picked in Settings, armed with `AlarmManager` and re-armed after reboots and
+clock changes.
 
-Requirements: JDK 21 and the Android SDK (platform 35). Then:
+Requirements: JDK 17+ and the Android SDK (platform 35). Then:
 
 ```bash
-npm run build:site          # stage docs/
-cd app && npm ci
-npx cap sync android        # copy docs/ into the Android project
-cd android && ./gradlew assembleDebug
+python -m tools.qotd android   # export quotes.json and the golden schedule
+node android/tools/strings.mjs # interface strings, shared with web/i18n.js
+cd android && ./gradlew test assembleDebug
 ```
 
-The APK lands in `app/android/app/build/outputs/apk/debug/`. Icons are drawn
-by `python app/tools/icons.py`.
+`./gradlew test` also runs the whole app under Robolectric (every gesture and
+every tab) and saves screenshots to `android/app/build/screens/`. The APK lands
+in `android/app/build/outputs/apk/debug/`. Icons are drawn by
+`python android/tools/icons.py`.
 
 ## Project layout
 

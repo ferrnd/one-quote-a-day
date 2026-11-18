@@ -4,6 +4,29 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [2.0.0] - 2026-11-18
+
+### Changed
+
+- The Android app is rewritten as a native Kotlin and Jetpack Compose app in
+  `android/`, replacing the Capacitor wrapper in `app/`. Same look (bundled
+  Cormorant Garamond, ink and paper, night from 21:00 to 06:00), same gestures
+  (tap to copy, long-press to favorite, swipe through past days), the archive,
+  settings, seven languages, favorites and the share card.
+- Daily notifications now use `AlarmManager`: the quote is worked out when the
+  alarm fires, and the alarm is re-armed after reboots, updates and clock or
+  time-zone changes.
+
+### Added
+
+- `python -m tools.qotd android` exports the catalog and a golden schedule;
+  the Kotlin port of the calendar is tested against it.
+- Robolectric UI tests that walk through the whole app and save screenshots.
+
+### Removed
+
+- The Capacitor project and the notification code it needed in the site.
+
 ## [1.12.0] - 2026-11-18
 
 ### Added
