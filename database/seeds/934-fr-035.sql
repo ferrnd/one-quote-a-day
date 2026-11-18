@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have a dream.', 'fr',
      'J''ai un rêve.'),
     ('What is now proved was once only imagined.', 'fr',
-     'Ce qui est prouvé aujourd''hui n''était autrefois qu''imaginé.');
+     'Ce qui est prouvé aujourd''hui n''était autrefois qu''imaginé.'),
+    ('Aim for the moon. If you miss, you may hit a star.', 'fr',
+     'Vise la Lune. Si tu la manques, tu toucheras peut-être une étoile.');
