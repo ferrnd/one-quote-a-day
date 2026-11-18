@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is always light, if only we''re brave enough to see it. If only we''re brave enough to be it.', 'pt-BR',
      'Sempre há luz, se tivermos coragem de vê-la. Se tivermos coragem de ser a luz.'),
     ('Hope is a verb with its shirtsleeves rolled up.', 'pt-BR',
-     'Esperança é um verbo de mangas arregaçadas.');
+     'Esperança é um verbo de mangas arregaçadas.'),
+    ('To hope is to give yourself to the future.', 'pt-BR',
+     'Ter esperança é entregar-se ao futuro.');
