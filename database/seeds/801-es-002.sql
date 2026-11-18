@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ambition is the path to success. Persistence is the vehicle you arrive in.', 'es',
      'La ambición es el camino al éxito. La persistencia es el vehículo en el que llegas.'),
     ('The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.', 'es',
-     'La diferencia entre una persona exitosa y las demás no es la falta de fuerza ni de conocimiento, sino la falta de voluntad.');
+     'La diferencia entre una persona exitosa y las demás no es la falta de fuerza ni de conocimiento, sino la falta de voluntad.'),
+    ('Success is the sum of small efforts, repeated day in and day out.', 'es',
+     'El éxito es la suma de pequeños esfuerzos repetidos día tras día.');
