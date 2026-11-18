@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.', 'fr',
      'La Terre est le berceau de l''humanité, mais on ne passe pas sa vie entière dans un berceau.'),
     ('Exploration is really the essence of the human spirit.', 'fr',
-     'L''exploration est vraiment l''essence de l''esprit humain.');
+     'L''exploration est vraiment l''essence de l''esprit humain.'),
+    ('Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.', 'fr',
+     'Les guerriers victorieux gagnent d''abord et partent ensuite en guerre, tandis que les vaincus partent d''abord en guerre et cherchent ensuite à gagner.');
