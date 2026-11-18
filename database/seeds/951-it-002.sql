@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You just can''t beat the person who never gives up.', 'it',
      'Semplicemente non puoi battere chi non si arrende mai.'),
     ('Don''t watch the clock; do what it does. Keep going.', 'it',
-     'Non guardare l''orologio; fai come lui. Vai avanti.');
+     'Non guardare l''orologio; fai come lui. Vai avanti.'),
+    ('What we hope ever to do with ease, we must learn first to do with diligence.', 'it',
+     'Ciò che speriamo un giorno di fare con facilità, dobbiamo prima imparare a farlo con impegno.');
