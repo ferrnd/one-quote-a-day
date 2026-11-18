@@ -69,6 +69,10 @@ body {
   place-items: center;
   /* one screen, no scrollbars: quotes slide in and out past the edges */
   overflow: hidden;
+  overscroll-behavior: none;
+  /* horizontal swipes belong to the page (they change the day) */
+  touch-action: pan-y pinch-zoom;
+  -webkit-tap-highlight-color: transparent;
   background: var(--paper);
   color: var(--ink);
   transition: background-color var(--theme-fade) ease, color var(--theme-fade) ease;
@@ -214,6 +218,59 @@ main {
 .day-counter:hover .day-next,
 .day-counter:focus-visible .day-next {
   opacity: 1;
+}
+
+/* ---------------------------------------------------------- info button -- */
+/* Mirrors the day counter: same gap to the left and bottom edges. */
+
+.info-button {
+  position: fixed;
+  left: 2rem;
+  bottom: 2rem;
+  display: grid;
+  place-items: center;
+  width: 1.6rem;
+  height: 1.6rem;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: var(--ink);
+  color: var(--paper);
+  opacity: 0.4;
+  font: 700 1.05rem/1 var(--serif);
+  cursor: pointer;
+  transition: opacity 300ms ease, background-color var(--theme-fade) ease, color var(--theme-fade) ease;
+}
+
+.info-button:hover,
+.info-button:focus-visible {
+  opacity: 0.85;
+}
+
+.info-button:focus-visible {
+  outline: 0.0625rem solid var(--ink);
+  outline-offset: 0.25rem;
+}
+
+.info-button::after {
+  content: "";
+  position: absolute;
+  inset: -0.9rem;
+}
+
+/* ------------------------------------------------------------ info card -- */
+
+.info-list li {
+  padding: 1.25rem 0;
+}
+
+.info-text {
+  margin: 0.55rem auto 0;
+  max-width: 26rem;
+  font-size: clamp(1.05rem, 0.95rem + 0.4vw, 1.2rem);
+  font-style: italic;
+  line-height: 1.4;
+  text-wrap: pretty;
 }
 
 /* --------------------------------------------------------------- toast -- */

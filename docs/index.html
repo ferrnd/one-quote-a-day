@@ -15,7 +15,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,700;1,400&amp;display=swap">
-  <link rel="stylesheet" href="styles.css?v=4c68bface613">
+  <link rel="stylesheet" href="styles.css?v=889dbdd2b2f0">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="manifest" href="manifest.webmanifest">
 </head>
@@ -36,6 +36,43 @@
     <span class="day-label" id="day-label"></span>
     <span class="day-next" id="day-next" aria-hidden="true"></span>
   </button>
+  <button class="info-button" id="info-button" type="button" aria-haspopup="dialog" aria-controls="info" aria-label="How this site works">!</button>
+  <dialog class="archive info" id="info" aria-labelledby="info-title">
+    <header class="archive-head">
+      <h2 id="info-title">How it works</h2>
+      <button class="archive-close" id="info-close" type="button" aria-label="Close">&times;</button>
+    </header>
+    <ol class="archive-list info-list">
+      <li>
+        <p class="archive-meta">One quote a day</p>
+        <p class="info-text">A new quote about overcoming appears every day at midnight, in your own time zone. The old one drops away and the new one comes down from above. <span id="info-next"></span></p>
+      </li>
+      <li>
+        <p class="archive-meta">Copy</p>
+        <p class="info-text">Click or tap the quote to copy it, together with its author.</p>
+      </li>
+      <li>
+        <p class="archive-meta">Past days</p>
+        <p class="info-text">Press &larr; and &rarr; on a keyboard, or swipe left and right on a phone, to walk back through every day since Day 1.</p>
+      </li>
+      <li>
+        <p class="archive-meta">The day counter</p>
+        <p class="info-text">The number in the corner counts the days since the first one. Open it to read every quote so far. Hover over it to see how long until the next.</p>
+      </li>
+      <li>
+        <p class="archive-meta">Night</p>
+        <p class="info-text">From 9 p.m. to 6 a.m. the page turns white on black, and back again in the morning.</p>
+      </li>
+      <li>
+        <p class="archive-meta">Offline</p>
+        <p class="info-text">Once you have visited, the site keeps working without a connection.</p>
+      </li>
+      <li>
+        <p class="archive-meta">Underneath</p>
+        <p class="info-text">Every quote, and the calendar that picks them, lives inside a WebAssembly module written by hand: <span id="info-stats">hundreds of quotes</span>, scheduled for the next four hundred years.</p>
+      </li>
+    </ol>
+  </dialog>
   <p class="toast" id="toast" role="status" aria-live="polite" data-visible="false"></p>
   <dialog class="archive" id="archive" aria-labelledby="archive-title">
     <header class="archive-head">
@@ -44,6 +81,6 @@
     </header>
     <ol class="archive-list" id="archive-list"></ol>
   </dialog>
-  <script type="module" src="app.js?v=4c68bface613"></script>
+  <script type="module" src="app.js?v=889dbdd2b2f0"></script>
 </body>
 </html>
