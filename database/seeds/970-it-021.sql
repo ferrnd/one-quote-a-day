@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.', 'it',
      'Non è la specie più forte a sopravvivere, né la più intelligente, ma quella più capace di adattarsi al cambiamento.'),
     ('When I let go of what I am, I become what I might be.', 'it',
-     'Quando lascio andare ciò che sono, divento ciò che potrei essere.');
+     'Quando lascio andare ciò che sono, divento ciò che potrei essere.'),
+    ('I can''t go back to yesterday because I was a different person then.', 'it',
+     'Non posso tornare a ieri, perché allora ero una persona diversa.');
