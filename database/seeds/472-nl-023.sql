@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The struggle itself toward the heights is enough to fill a man''s heart. One must imagine Sisyphus happy.', 'nl',
      'De strijd naar de top is zelf genoeg om een mensenhart te vullen. We moeten ons Sisyphus gelukkig voorstellen.'),
     ('Sometimes adversity is what you need to face in order to become successful.', 'nl',
-     'Soms is tegenspoed precies wat je moet doorstaan om succesvol te worden.');
+     'Soms is tegenspoed precies wat je moet doorstaan om succesvol te worden.'),
+    ('Hard times don''t create heroes. It is during the hard times when the hero within us is revealed.', 'nl',
+     'Moeilijke tijden maken geen helden. In moeilijke tijden wordt de held in ons zichtbaar.');
