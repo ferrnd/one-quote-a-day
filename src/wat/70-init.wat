@@ -30,6 +30,11 @@
                (i32.lt_u (global.get $legacy) (global.get $quote_count))))
     (global.set $fresh_start (i32.add (global.get $launch) (global.get $legacy)))
     (global.set $cycle_start (i32.add (global.get $launch) (global.get $quote_count)))
+    (global.set $locale_count (i32.load (i32.const 64)))
+    (global.set $locales      (i32.load (i32.const 68)))
+    ;; every locale block holds exactly the quotes and the dedications
+    (if (i32.eqz (global.get $locale_count)) (then (unreachable)))
+    (if (i32.ne (i32.load (i32.const 72)) (global.get $record_count)) (then (unreachable)))
     ;; the seam rule needs at least three quotes, u16 indices at most 65535
     (if (i32.lt_u (global.get $quote_count) (i32.const 3)) (then (unreachable)))
     (if (i32.gt_u (global.get $quote_count) (i32.const 65535)) (then (unreachable)))

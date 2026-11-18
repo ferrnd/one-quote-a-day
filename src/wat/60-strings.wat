@@ -1,11 +1,47 @@
   ;; ======================================================= strings ==
-  ;;  Accessors over the record table and the string pool.
+  ;;  Accessors over the record table and the string pool. Records come in
+  ;;  one block per locale; locale 0 is the English source.
+
+  ;; record_l(i, k) -> address of record i in locale k (traps when out of range)
+  (func $record_l (param $i i32) (param $k i32) (result i32)
+    (call $assert_ready)
+    (if (i32.ge_u (local.get $i) (global.get $record_count)) (then (unreachable)))
+    (if (i32.ge_u (local.get $k) (global.get $locale_count)) (then (unreachable)))
+    (i32.add (global.get $records)
+      (i32.shl
+        (i32.add (i32.mul (local.get $k) (global.get $record_count)) (local.get $i))
+        (i32.const 4))))
 
   (func $record (param $i i32) (result i32)
+    (call $record_l (local.get $i) (i32.const 0)))
+
+  (func (export "localized_text_ptr") (param $i i32) (param $k i32) (result i32)
+    (i32.load offset=0 (call $record_l (local.get $i) (local.get $k))))
+
+  (func (export "localized_text_len") (param $i i32) (param $k i32) (result i32)
+    (i32.load offset=4 (call $record_l (local.get $i) (local.get $k))))
+
+  (func (export "localized_author_ptr") (param $i i32) (param $k i32) (result i32)
+    (i32.load offset=8 (call $record_l (local.get $i) (local.get $k))))
+
+  (func (export "localized_author_len") (param $i i32) (param $k i32) (result i32)
+    (i32.load offset=12 (call $record_l (local.get $i) (local.get $k))))
+
+  ;; locale table: code and display name of locale k
+  (func $locale_entry (param $k i32) (result i32)
     (call $assert_ready)
-    (if (i32.ge_u (local.get $i) (global.get $record_count))
-      (then (unreachable)))
-    (i32.add (global.get $records) (i32.shl (local.get $i) (i32.const 4))))
+    (if (i32.ge_u (local.get $k) (global.get $locale_count)) (then (unreachable)))
+    (i32.add (global.get $locales) (i32.shl (local.get $k) (i32.const 4))))
+
+  (func (export "locale_count") (result i32) (global.get $locale_count))
+  (func (export "locale_code_ptr") (param $k i32) (result i32)
+    (i32.load offset=0 (call $locale_entry (local.get $k))))
+  (func (export "locale_code_len") (param $k i32) (result i32)
+    (i32.load offset=4 (call $locale_entry (local.get $k))))
+  (func (export "locale_name_ptr") (param $k i32) (result i32)
+    (i32.load offset=8 (call $locale_entry (local.get $k))))
+  (func (export "locale_name_len") (param $k i32) (result i32)
+    (i32.load offset=12 (call $locale_entry (local.get $k))))
 
   (func (export "quote_text_ptr") (param $i i32) (result i32)
     (i32.load offset=0 (call $record (local.get $i))))

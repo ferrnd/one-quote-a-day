@@ -2,7 +2,7 @@
   ;;  Mirrors of the header fields, loaded once by $init.
 
   (global $MAGIC  i32 (i32.const 0x44544F51)) ;; "QOTD"
-  (global $FORMAT i32 (i32.const 3))
+  (global $FORMAT i32 (i32.const 4))
 
   (global $ready          (mut i32) (i32.const 0))
   (global $quote_count    (mut i32) (i32.const 0))
@@ -27,6 +27,10 @@
   (global $fresh_start  (mut i32) (i32.const 0))
   (global $cycle_start  (mut i32) (i32.const 0))
   (global $FRESH_BLOCK  i32 (i32.const 0x40000000))
+
+  ;;  Locales: K blocks of records, one per language (see 60-strings.wat)
+  (global $locale_count (mut i32) (i32.const 0))
+  (global $locales      (mut i32) (i32.const 0))
 
   ;;  PCG32 generator state (see 30-pcg32.wat)
   (global $pcg_state (mut i64) (i64.const 0))
