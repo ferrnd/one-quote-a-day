@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Prosperity is not without many fears and distastes; and adversity is not without comforts and hopes.', 'nl',
      'Voorspoed is niet zonder angsten en afkeer, en tegenspoed is niet zonder troost en hoop.'),
     ('Adversity is the first path to truth.', 'nl',
-     'Tegenspoed is de eerste weg naar de waarheid.');
+     'Tegenspoed is de eerste weg naar de waarheid.'),
+    ('Kites rise highest against the wind, not with it.', 'nl',
+     'Vliegers stijgen het hoogst tegen de wind in, niet met de wind mee.');
