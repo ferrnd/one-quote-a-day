@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What would you attempt to do if you knew you would not fail?', 'nl',
      'Wat zou je proberen als je wist dat je niet kon falen?'),
     ('I saw the angel in the marble and carved until I set him free.', 'nl',
-     'Ik zag de engel in het marmer en hakte tot ik hem had bevrijd.');
+     'Ik zag de engel in het marmer en hakte tot ik hem had bevrijd.'),
+    ('People with goals succeed because they know where they''re going.', 'nl',
+     'Mensen met doelen slagen omdat ze weten waar ze heen gaan.');
