@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When the going gets tough, the tough get going.', 'de',
      'Wenn es hart auf hart kommt, legen die Harten erst richtig los.'),
     ('A hero is no braver than an ordinary man, but he is brave five minutes longer.', 'de',
-     'Ein Held ist nicht mutiger als ein gewöhnlicher Mensch, er ist nur fünf Minuten länger mutig.');
+     'Ein Held ist nicht mutiger als ein gewöhnlicher Mensch, er ist nur fünf Minuten länger mutig.'),
+    ('The struggle itself toward the heights is enough to fill a man''s heart. One must imagine Sisyphus happy.', 'de',
+     'Der Kampf gegen Gipfel vermag ein Menschenherz auszufüllen. Wir müssen uns Sisyphos als einen glücklichen Menschen vorstellen.');
