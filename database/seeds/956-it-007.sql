@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.', 'it',
      'La nostra più grande debolezza sta nell''arrenderci. Il modo più sicuro per riuscire è provarci sempre ancora una volta.'),
     ('Good people are good because they''ve come to wisdom through failure.', 'it',
-     'Le persone buone sono buone perché sono arrivate alla saggezza attraverso il fallimento.');
+     'Le persone buone sono buone perché sono arrivate alla saggezza attraverso il fallimento.'),
+    ('The greatest mistake you can make in life is to be continually fearing you will make one.', 'it',
+     'L''errore più grande che si possa fare nella vita è temere continuamente di farne uno.');
