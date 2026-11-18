@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Set your life on fire. Seek those who fan your flames.', 'nl',
      'Zet je leven in vuur en vlam. Zoek mensen die je vuur aanwakkeren.'),
     ('Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.', 'nl',
-     'Gisteren was ik slim, dus wilde ik de wereld veranderen. Vandaag ben ik wijs, dus verander ik mezelf.');
+     'Gisteren was ik slim, dus wilde ik de wereld veranderen. Vandaag ben ik wijs, dus verander ik mezelf.'),
+    ('You were born with wings, why prefer to crawl through life?', 'nl',
+     'Je bent geboren met vleugels, waarom zou je door het leven kruipen?');
