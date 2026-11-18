@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hardships make or break people.', 'de',
      'Härten machen Menschen stark oder brechen sie.'),
     ('Turn your scars into stars.', 'de',
-     'Verwandle deine Narben in Sterne.');
+     'Verwandle deine Narben in Sterne.'),
+    ('Cancer can take away all of my physical abilities. It cannot touch my mind, it cannot touch my heart, and it cannot touch my soul.', 'de',
+     'Der Krebs kann mir alle meine körperlichen Fähigkeiten nehmen. Aber er kann meinen Geist nicht berühren, er kann mein Herz nicht berühren, und er kann meine Seele nicht berühren.');
