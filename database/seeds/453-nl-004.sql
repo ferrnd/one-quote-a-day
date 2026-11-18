@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The cave you fear to enter holds the treasure you seek.', 'nl',
      'De grot die je niet durft te betreden, bevat de schat die je zoekt.'),
     ('Courage is contagious. When a brave man takes a stand, the spines of others are often stiffened.', 'nl',
-     'Moed is besmettelijk. Als een dapper mens stelling neemt, rechten anderen vaak ook hun rug.');
+     'Moed is besmettelijk. Als een dapper mens stelling neemt, rechten anderen vaak ook hun rug.'),
+    ('Nothing in life is to be feared, it is only to be understood.', 'nl',
+     'Niets in het leven hoeft gevreesd te worden, het moet alleen begrepen worden.');
