@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Begin at once to live, and count each separate day as a separate life.', 'pt-BR',
      'Comece agora mesmo a viver, e conte cada dia como uma vida à parte.'),
     ('Start where you are. Use what you have. Do what you can.', 'pt-BR',
-     'Comece de onde você está. Use o que você tem. Faça o que você pode.');
+     'Comece de onde você está. Use o que você tem. Faça o que você pode.'),
+    ('We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.', 'pt-BR',
+     'Admiramos a beleza da borboleta, mas raramente reconhecemos as transformações pelas quais ela passou para chegar a essa beleza.');
