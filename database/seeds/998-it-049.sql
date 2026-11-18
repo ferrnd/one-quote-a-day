@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our truest life is when we are in dreams awake.', 'it',
      'La nostra vita più vera è quando sogniamo a occhi aperti.'),
     ('Go as far as you can see; when you get there, you''ll be able to see farther.', 'it',
-     'Va'' fin dove riesci a vedere; quando arriverai lì, potrai vedere più lontano.');
+     'Va'' fin dove riesci a vedere; quando arriverai lì, potrai vedere più lontano.'),
+    ('The best way to make your dreams come true is to wake up.', 'it',
+     'Il modo migliore per realizzare i propri sogni è svegliarsi.');
