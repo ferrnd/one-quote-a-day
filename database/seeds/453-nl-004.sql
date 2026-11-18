@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not afraid of storms, for I am learning how to sail my ship.', 'nl',
      'Ik ben niet bang voor stormen, want ik leer mijn schip te zeilen.'),
     ('A ship in harbor is safe, but that is not what ships are built for.', 'nl',
-     'Een schip in de haven is veilig, maar daar zijn schepen niet voor gebouwd.');
+     'Een schip in de haven is veilig, maar daar zijn schepen niet voor gebouwd.'),
+    ('The cave you fear to enter holds the treasure you seek.', 'nl',
+     'De grot die je niet durft te betreden, bevat de schat die je zoekt.');
