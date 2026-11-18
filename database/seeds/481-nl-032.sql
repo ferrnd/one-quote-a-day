@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Winning isn''t everything, but wanting to win is.', 'nl',
      'Winnen is niet alles, maar willen winnen wel.'),
     ('Perfection is not attainable, but if we chase perfection we can catch excellence.', 'nl',
-     'Perfectie is niet haalbaar, maar als we perfectie najagen, kunnen we uitmuntendheid bereiken.');
+     'Perfectie is niet haalbaar, maar als we perfectie najagen, kunnen we uitmuntendheid bereiken.'),
+    ('Once you learn to quit, it becomes a habit.', 'nl',
+     'Als je eenmaal leert op te geven, wordt het een gewoonte.');
