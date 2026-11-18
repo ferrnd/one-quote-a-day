@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You don''t have to be great to start, but you have to start to be great.', 'nl',
      'Je hoeft niet geweldig te zijn om te beginnen, maar je moet beginnen om geweldig te worden.'),
     ('The way to get started is to quit talking and begin doing.', 'nl',
-     'De manier om te beginnen is ophouden met praten en beginnen met doen.');
+     'De manier om te beginnen is ophouden met praten en beginnen met doen.'),
+    ('Do not wait; the time will never be just right.', 'nl',
+     'Wacht niet; het moment zal nooit precies goed zijn.');
