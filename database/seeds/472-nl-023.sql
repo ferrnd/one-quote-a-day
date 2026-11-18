@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Prosperity makes friends, adversity tries them.', 'nl',
      'Voorspoed maakt vrienden, tegenspoed beproeft ze.'),
     ('Anyone can hold the helm when the sea is calm.', 'nl',
-     'Iedereen kan het roer houden als de zee kalm is.');
+     'Iedereen kan het roer houden als de zee kalm is.'),
+    ('The tougher the battle, the sweeter the victory.', 'nl',
+     'Hoe zwaarder de strijd, hoe zoeter de overwinning.');
