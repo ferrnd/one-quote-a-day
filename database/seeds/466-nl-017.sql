@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard work beats talent when talent doesn''t work hard.', 'nl',
      'Hard werken verslaat talent als talent niet hard werkt.'),
     ('Small disciplines repeated with consistency every day lead to great achievements gained slowly over time.', 'nl',
-     'Kleine disciplines, elke dag consequent herhaald, leiden tot grote prestaties die langzaam in de loop van de tijd worden bereikt.');
+     'Kleine disciplines, elke dag consequent herhaald, leiden tot grote prestaties die langzaam in de loop van de tijd worden bereikt.'),
+    ('You will never change your life until you change something you do daily.', 'nl',
+     'Je zult je leven nooit veranderen totdat je iets verandert wat je dagelijks doet.');
