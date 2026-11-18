@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.', 'nl',
      'Succes moet niet zozeer worden afgemeten aan de positie die iemand in het leven heeft bereikt, als wel aan de obstakels die hij heeft overwonnen.'),
     ('Excellence is to do a common thing in an uncommon way.', 'nl',
-     'Uitmuntendheid is een gewoon ding op een ongewone manier doen.');
+     'Uitmuntendheid is een gewoon ding op een ongewone manier doen.'),
+    ('What you think of yourself is much more important than what others think of you.', 'nl',
+     'Wat je van jezelf denkt, is veel belangrijker dan wat anderen van je denken.');
