@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Done is better than perfect.', 'nl',
      'Gedaan is beter dan perfect.'),
     ('Small deeds done are better than great deeds planned.', 'nl',
-     'Kleine daden die gedaan zijn, zijn beter dan grote daden die gepland zijn.');
+     'Kleine daden die gedaan zijn, zijn beter dan grote daden die gepland zijn.'),
+    ('You miss 100% of the shots you don''t take.', 'nl',
+     'Je mist 100% van de schoten die je niet neemt.');
