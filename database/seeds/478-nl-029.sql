@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sooner or later the man who wins is the man who thinks he can.', 'nl',
      'Vroeg of laat wint degene die denkt dat hij het kan.'),
     ('We become what we think about.', 'nl',
-     'We worden waar we aan denken.');
+     'We worden waar we aan denken.'),
+    ('If you''re always trying to be normal, you will never know how amazing you can be.', 'nl',
+     'Als je altijd probeert normaal te zijn, zul je nooit weten hoe geweldig je kunt zijn.');
