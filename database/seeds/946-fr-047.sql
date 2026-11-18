@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am the greatest. I said that even before I knew I was.', 'fr',
      'Je suis le plus grand. Je le disais avant même de savoir que je l''étais.'),
     ('Impossible is just a big word thrown around by small men.', 'fr',
-     'Impossible n''est qu''un grand mot utilisé par de petits hommes.');
+     'Impossible n''est qu''un grand mot utilisé par de petits hommes.'),
+    ('It''s the repetition of affirmations that leads to belief.', 'fr',
+     'C''est la répétition des affirmations qui mène à la croyance.');
