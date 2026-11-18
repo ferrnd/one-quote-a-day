@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Your time is limited, so don''t waste it living someone else''s life.', 'it',
      'Il vostro tempo è limitato, quindi non sprecatelo vivendo la vita di qualcun altro.'),
     ('If you are working on something exciting that you really care about, you don''t have to be pushed. The vision pulls you.', 'it',
-     'Se lavori a qualcosa di entusiasmante che ti sta davvero a cuore, non hai bisogno di essere spinto. È la visione a trascinarti.');
+     'Se lavori a qualcosa di entusiasmante che ti sta davvero a cuore, non hai bisogno di essere spinto. È la visione a trascinarti.'),
+    ('The only way to do great work is to love what you do.', 'it',
+     'L''unico modo di fare un ottimo lavoro è amare quello che fate.');
