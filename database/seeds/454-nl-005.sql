@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is knowing what not to fear.', 'nl',
      'Moed is weten wat je niet hoeft te vrezen.'),
     ('Feel the fear and do it anyway.', 'nl',
-     'Voel de angst en doe het toch.');
+     'Voel de angst en doe het toch.'),
+    ('Be bold, and mighty forces will come to your aid.', 'nl',
+     'Wees stoutmoedig, en machtige krachten zullen je te hulp komen.');
