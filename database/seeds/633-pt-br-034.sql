@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no shortcuts to any place worth going.', 'pt-BR',
      'Não existem atalhos para nenhum lugar que valha a pena.'),
     ('The only place where success comes before work is in the dictionary.', 'pt-BR',
-     'O único lugar onde o sucesso vem antes do trabalho é no dicionário.');
+     'O único lugar onde o sucesso vem antes do trabalho é no dicionário.'),
+    ('Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.', 'pt-BR',
+     'Talento é mais barato que sal de cozinha. O que separa a pessoa talentosa da bem-sucedida é muito trabalho duro.');
