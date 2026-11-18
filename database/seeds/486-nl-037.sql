@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every day is a new day.', 'nl',
      'Elke dag is een nieuwe dag.'),
     ('The only journey is the one within.', 'nl',
-     'De enige reis is de reis naar binnen.');
+     'De enige reis is de reis naar binnen.'),
+    ('I am still learning.', 'nl',
+     'Ik leer nog steeds.');
