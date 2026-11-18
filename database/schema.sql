@@ -47,3 +47,8 @@ CREATE TABLE quotes (
     theme_id  INTEGER NOT NULL REFERENCES themes (id) ON DELETE RESTRICT
 ) STRICT;
 
+-- @section indexes -----------------------------------------------------------
+
+CREATE INDEX quotes_author_idx ON quotes (author_id);
+CREATE INDEX quotes_theme_idx  ON quotes (theme_id);
+
