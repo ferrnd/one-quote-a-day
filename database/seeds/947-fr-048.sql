@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and fortitude conquer all things.', 'fr',
      'La patience et la force d''âme viennent à bout de tout.'),
     ('Have patience. All things are difficult before they become easy.', 'fr',
-     'Sois patient. Toutes les choses sont difficiles avant de devenir faciles.');
+     'Sois patient. Toutes les choses sont difficiles avant de devenir faciles.'),
+    ('Patience is a conquering virtue.', 'fr',
+     'La patience est une vertu conquérante.');
