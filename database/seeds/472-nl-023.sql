@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Calamity is the test of integrity.', 'nl',
      'Rampspoed is de toets van integriteit.'),
     ('Prosperity makes friends, adversity tries them.', 'nl',
-     'Voorspoed maakt vrienden, tegenspoed beproeft ze.');
+     'Voorspoed maakt vrienden, tegenspoed beproeft ze.'),
+    ('Anyone can hold the helm when the sea is calm.', 'nl',
+     'Iedereen kan het roer houden als de zee kalm is.');
