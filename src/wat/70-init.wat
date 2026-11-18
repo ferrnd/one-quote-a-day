@@ -22,6 +22,14 @@
     (global.set $dedications      (i32.load (i32.const 52)))
     (global.set $record_count
       (i32.add (global.get $quote_count) (global.get $dedication_count)))
+    (global.set $launch (i32.load (i32.const 56)))
+    (global.set $legacy (i32.load (i32.const 60)))
+    ;; grown: launched with fewer quotes than there are now (and at least 3)
+    (global.set $grown
+      (i32.and (i32.ge_u (global.get $legacy) (i32.const 3))
+               (i32.lt_u (global.get $legacy) (global.get $quote_count))))
+    (global.set $fresh_start (i32.add (global.get $launch) (global.get $legacy)))
+    (global.set $cycle_start (i32.add (global.get $launch) (global.get $quote_count)))
     ;; the seam rule needs at least three quotes, u16 indices at most 65535
     (if (i32.lt_u (global.get $quote_count) (i32.const 3)) (then (unreachable)))
     (if (i32.gt_u (global.get $quote_count) (i32.const 65535)) (then (unreachable)))
