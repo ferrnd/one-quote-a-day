@@ -1,0 +1,5 @@
+-- seed 924 :: fr translations 481-500
+
+INSERT INTO translation_intake (original, locale, body) VALUES
+    ('The future depends on what you do today.', 'fr',
+     'L''avenir dépend de ce que tu fais aujourd''hui.');
