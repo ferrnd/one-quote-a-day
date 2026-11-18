@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The wound is the place where the Light enters you.', 'nl',
      'De wond is de plek waar het Licht je binnenkomt.'),
     ('When it is dark enough, you can see the stars.', 'nl',
-     'Als het donker genoeg is, kun je de sterren zien.');
+     'Als het donker genoeg is, kun je de sterren zien.'),
+    ('Fire is the test of gold; adversity, of strong men.', 'nl',
+     'Vuur is de toets van goud; tegenspoed die van sterke mensen.');
