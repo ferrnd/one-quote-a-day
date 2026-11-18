@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'es',
-     'La mayoría de la gente se rinde justo cuando está a punto de tener éxito. Abandonan a un paso de la meta.');
+     'La mayoría de la gente se rinde justo cuando está a punto de tener éxito. Abandonan a un paso de la meta.'),
+    ('If you are going to doubt something, doubt your limits.', 'es',
+     'Si vas a dudar de algo, duda de tus límites.');
