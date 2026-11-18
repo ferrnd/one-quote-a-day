@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and diligence, like faith, remove mountains.', 'nl',
      'Geduld en vlijt verzetten, net als geloof, bergen.'),
     ('Beware the fury of a patient man.', 'nl',
-     'Pas op voor de woede van een geduldig man.');
+     'Pas op voor de woede van een geduldig man.'),
+    ('Patience is the key to paradise.', 'nl',
+     'Geduld is de sleutel tot het paradijs.');
