@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Motivation is what gets you started. Habit is what keeps you going.', 'de',
      'Motivation bringt dich in Gang. Gewohnheit hält dich in Bewegung.'),
     ('Success is nothing more than a few simple disciplines, practiced every day.', 'de',
-     'Erfolg ist nichts anderes als ein paar einfache Disziplinen, jeden Tag geübt.');
+     'Erfolg ist nichts anderes als ein paar einfache Disziplinen, jeden Tag geübt.'),
+    ('Don''t wish it were easier, wish you were better.', 'de',
+     'Wünsche dir nicht, es wäre leichter; wünsche dir, du wärst besser.');
