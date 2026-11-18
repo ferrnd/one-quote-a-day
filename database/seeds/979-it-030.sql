@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything comes gradually and at its appointed hour.', 'it',
      'Tutto arriva a poco a poco e al momento stabilito.'),
     ('Be patient and tough; someday this pain will be useful to you.', 'it',
-     'Sii paziente e forte; un giorno questo dolore ti sarà utile.');
+     'Sii paziente e forte; un giorno questo dolore ti sarà utile.'),
+    ('Dripping water hollows out stone, not through force but through persistence.', 'it',
+     'La goccia scava la pietra, non con la forza, ma con la costanza.');
