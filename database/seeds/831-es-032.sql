@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('With self-discipline most anything is possible.', 'es',
      'Con autodisciplina, casi todo es posible.'),
     ('The successful warrior is the average man, with laser-like focus.', 'es',
-     'El guerrero exitoso es un hombre común con un enfoque de láser.');
+     'El guerrero exitoso es un hombre común con un enfoque de láser.'),
+    ('I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.', 'es',
+     'No temo al hombre que ha practicado 10.000 patadas una vez, sino al que ha practicado una patada 10.000 veces.');
