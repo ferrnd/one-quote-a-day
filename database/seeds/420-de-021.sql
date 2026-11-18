@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When I let go of what I am, I become what I might be.', 'de',
      'Wenn ich loslasse, was ich bin, werde ich, was ich sein könnte.'),
     ('I can''t go back to yesterday because I was a different person then.', 'de',
-     'Ich kann nicht zu gestern zurückkehren, denn damals war ich ein anderer Mensch.');
+     'Ich kann nicht zu gestern zurückkehren, denn damals war ich ein anderer Mensch.'),
+    ('Real change, enduring change, happens one step at a time.', 'de',
+     'Echte Veränderung, dauerhafte Veränderung, geschieht Schritt für Schritt.');
