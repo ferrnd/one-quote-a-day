@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The will to win is important, but the will to prepare is vital.', 'nl',
      'De wil om te winnen is belangrijk, maar de wil om je voor te bereiden is essentieel.'),
     ('I never dreamed about success. I worked for it.', 'nl',
-     'Ik heb nooit van succes gedroomd. Ik heb ervoor gewerkt.');
+     'Ik heb nooit van succes gedroomd. Ik heb ervoor gewerkt.'),
+    ('Nothing will work unless you do.', 'nl',
+     'Niets werkt tenzij jij werkt.');
