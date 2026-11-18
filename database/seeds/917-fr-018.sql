@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Practice isn''t the thing you do once you''re good. It''s the thing you do that makes you good.', 'fr',
      'L''entraînement n''est pas ce que tu fais une fois que tu es bon. C''est ce que tu fais pour le devenir.'),
     ('Do something today that your future self will thank you for.', 'fr',
-     'Fais aujourd''hui quelque chose dont ton futur toi te remerciera.');
+     'Fais aujourd''hui quelque chose dont ton futur toi te remerciera.'),
+    ('Focus on being productive instead of busy.', 'fr',
+     'Concentre-toi sur le fait d''être productif plutôt qu''occupé.');
