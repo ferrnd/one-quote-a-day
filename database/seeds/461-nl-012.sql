@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What oxygen is to the lungs, such is hope to the meaning of life.', 'nl',
      'Wat zuurstof is voor de longen, is hoop voor de zin van het leven.'),
     ('The very least you can do in your life is figure out what you hope for.', 'nl',
-     'Het minste wat je in je leven kunt doen, is uitzoeken waarop je hoopt.');
+     'Het minste wat je in je leven kunt doen, is uitzoeken waarop je hoopt.'),
+    ('There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something better tomorrow.', 'nl',
+     'Er is geen medicijn als hoop, geen prikkel zo groot en geen tonicum zo krachtig als de verwachting van iets beters morgen.');
