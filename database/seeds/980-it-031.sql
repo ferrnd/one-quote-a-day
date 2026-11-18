@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('This too shall pass.', 'it',
      'Anche questo passerà.'),
     ('Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.', 'it',
-     'Non rinunciare mai a un sogno solo per il tempo che ci vorrà per realizzarlo. Il tempo passerà comunque.');
+     'Non rinunciare mai a un sogno solo per il tempo che ci vorrà per realizzarlo. Il tempo passerà comunque.'),
+    ('Let everything happen to you: beauty and terror. Just keep going. No feeling is final.', 'it',
+     'Lascia che tutto ti accada: bellezza e terrore. Continua ad andare. Nessun sentimento è definitivo.');
