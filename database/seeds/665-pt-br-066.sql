@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Pain is temporary. Quitting lasts forever.', 'pt-BR',
      'A dor é temporária. Desistir é para sempre.'),
     ('I have stood on a mountain of no''s for one yes.', 'pt-BR',
-     'Já fiquei de pé sobre uma montanha de nãos por um único sim.');
+     'Já fiquei de pé sobre uma montanha de nãos por um único sim.'),
+    ('I had to make my own living and my own opportunity. But I made it!', 'pt-BR',
+     'Tive que criar meu próprio sustento e minha própria oportunidade. Mas consegui!');
