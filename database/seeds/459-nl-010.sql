@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A good half of the art of living is resilience.', 'nl',
      'Een goed deel van de kunst van het leven is veerkracht.'),
     ('Nothing is impossible. The word itself says ''I''m possible''!', 'nl',
-     'Niets is onmogelijk. Het woord zegt het zelf, in het Engels: ''I''m possible'', ik ben mogelijk!');
+     'Niets is onmogelijk. Het woord zegt het zelf, in het Engels: ''I''m possible'', ik ben mogelijk!'),
+    ('Stars can''t shine without darkness.', 'nl',
+     'Sterren kunnen niet schijnen zonder duisternis.');
