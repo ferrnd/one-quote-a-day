@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can''t go back to yesterday because I was a different person then.', 'it',
      'Non posso tornare a ieri, perché allora ero una persona diversa.'),
     ('Real change, enduring change, happens one step at a time.', 'it',
-     'Il vero cambiamento, quello duraturo, avviene un passo alla volta.');
+     'Il vero cambiamento, quello duraturo, avviene un passo alla volta.'),
+    ('I was taught that the way of progress was neither swift nor easy.', 'it',
+     'Mi hanno insegnato che la strada del progresso non è né rapida né facile.');
