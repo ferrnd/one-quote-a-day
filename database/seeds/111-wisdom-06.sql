@@ -1,4 +1,5 @@
 -- seed 111 :: wisdom (6)
 
 INSERT INTO intake (body, author, theme) VALUES
-    ('The unexamined life is not worth living.', 'Socrates', 'wisdom');
+    ('The unexamined life is not worth living.', 'Socrates', 'wisdom'),
+    ('The only true wisdom is in knowing you know nothing.', 'Socrates', 'wisdom');
