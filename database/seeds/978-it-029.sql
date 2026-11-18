@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The worst enemy to creativity is self-doubt.', 'it',
      'Il peggior nemico della creatività è il dubbio su sé stessi.'),
     ('I dwell in possibility.', 'it',
-     'Abito nella possibilità.');
+     'Abito nella possibilità.'),
+    ('It is our choices that show what we truly are, far more than our abilities.', 'it',
+     'Sono le nostre scelte a mostrare ciò che siamo veramente, molto più delle nostre capacità.');
