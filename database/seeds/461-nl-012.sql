@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No matter how long the winter, spring is sure to follow.', 'nl',
      'Hoe lang de winter ook is, de lente volgt zeker.'),
     ('Every cloud has a silver lining.', 'nl',
-     'Achter de wolken schijnt de zon.');
+     'Achter de wolken schijnt de zon.'),
+    ('The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.', 'nl',
+     'De zon zelf is zwak als ze opkomt, en wint aan kracht en moed naarmate de dag vordert.');
