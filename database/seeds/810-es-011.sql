@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the ladder on which all the other virtues mount.', 'es',
      'El valor es la escalera por la que suben todas las demás virtudes.'),
     ('Courage is not simply one of the virtues, but the form of every virtue at the testing point.', 'es',
-     'El valor no es simplemente una de las virtudes, sino la forma de todas las virtudes en el momento de la prueba.');
+     'El valor no es simplemente una de las virtudes, sino la forma de todas las virtudes en el momento de la prueba.'),
+    ('Courage, dear heart.', 'es',
+     'Valor, querido corazón.');
