@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep your eyes on the stars, and your feet on the ground.', 'nl',
      'Houd je ogen op de sterren en je voeten op de grond.'),
     ('Hope is a waking dream.', 'nl',
-     'Hoop is een wakende droom.');
+     'Hoop is een wakende droom.'),
+    ('While there''s life, there''s hope.', 'nl',
+     'Zolang er leven is, is er hoop.');
