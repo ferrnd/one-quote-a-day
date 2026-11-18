@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('A woman is like a tea bag; you can''t tell how strong she is until you put her in hot water.', 'fr',
-     'Une femme est comme un sachet de thé : on ne sait pas à quel point elle est forte avant de la plonger dans l''eau chaude.');
+     'Une femme est comme un sachet de thé : on ne sait pas à quel point elle est forte avant de la plonger dans l''eau chaude.'),
+    ('Strength is the product of struggle. You must do what others don''t to achieve what others won''t.', 'fr',
+     'La force naît de la lutte. Il faut faire ce que les autres ne font pas pour obtenir ce que les autres n''obtiennent pas.');
