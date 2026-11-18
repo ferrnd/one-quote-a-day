@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Motivation is what gets you started. Habit is what keeps you going.', 'nl',
      'Motivatie zet je in gang. Gewoonte houdt je gaande.'),
     ('Success is nothing more than a few simple disciplines, practiced every day.', 'nl',
-     'Succes is niets meer dan een paar eenvoudige disciplines, elke dag beoefend.');
+     'Succes is niets meer dan een paar eenvoudige disciplines, elke dag beoefend.'),
+    ('Don''t wish it were easier, wish you were better.', 'nl',
+     'Wens niet dat het makkelijker was; wens dat je beter was.');
