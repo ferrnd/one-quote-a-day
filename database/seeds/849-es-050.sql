@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never mistake motion for action.', 'es',
      'Nunca confundas movimiento con acción.'),
     ('Don''t let yesterday take up too much of today.', 'es',
-     'No dejes que el ayer ocupe demasiado del hoy.');
+     'No dejes que el ayer ocupe demasiado del hoy.'),
+    ('Even if you''re on the right track, you''ll get run over if you just sit there.', 'es',
+     'Aunque estés en el camino correcto, te atropellarán si te quedas quieto.');
