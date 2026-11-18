@@ -8,4 +8,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('The only real voyage of discovery consists not in seeking new landscapes, but in having new eyes.', 'Marcel Proust', 'growth'),
     ('Not until we are lost do we begin to understand ourselves.', 'Henry David Thoreau', 'growth'),
     ('Things do not change; we change.', 'Henry David Thoreau', 'growth'),
-    ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'Frederick B. Wilcox', 'growth');
+    ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'Frederick B. Wilcox', 'growth'),
+    ('The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday''s logic.', 'Peter Drucker', 'growth');
