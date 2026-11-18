@@ -52,3 +52,27 @@ CREATE TABLE quotes (
 CREATE INDEX quotes_author_idx ON quotes (author_id);
 CREATE INDEX quotes_theme_idx  ON quotes (theme_id);
 
+-- @section intake ------------------------------------------------------------
+--  Seeds never touch the normalised tables directly. They insert denormalised
+--  rows into the `intake` view and this trigger resolves (or creates) the
+--  author and resolves the theme, aborting the whole build on unknown themes.
+
+CREATE VIEW intake AS
+    SELECT q.body AS body, a.name AS author, t.slug AS theme
+      FROM quotes q
+      JOIN authors a ON a.id = q.author_id
+      JOIN themes  t ON t.id = q.theme_id;
+
+CREATE TRIGGER intake_insert INSTEAD OF INSERT ON intake
+BEGIN
+    SELECT RAISE(ABORT, 'intake: unknown theme')
+     WHERE NOT EXISTS (SELECT 1 FROM themes WHERE slug = NEW.theme);
+
+    INSERT OR IGNORE INTO authors (name) VALUES (NEW.author);
+
+    INSERT INTO quotes (body, author_id, theme_id)
+    VALUES (NEW.body,
+            (SELECT id FROM authors WHERE name = NEW.author),
+            (SELECT id FROM themes  WHERE slug = NEW.theme));
+END;
+
