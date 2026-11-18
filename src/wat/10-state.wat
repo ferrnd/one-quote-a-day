@@ -2,7 +2,7 @@
   ;;  Mirrors of the header fields, loaded once by $init.
 
   (global $MAGIC  i32 (i32.const 0x44544F51)) ;; "QOTD"
-  (global $FORMAT i32 (i32.const 1))
+  (global $FORMAT i32 (i32.const 2))
 
   (global $ready          (mut i32) (i32.const 0))
   (global $quote_count    (mut i32) (i32.const 0))
@@ -15,6 +15,9 @@
   (global $schedule_len   (mut i32) (i32.const 0))
   (global $scratch        (mut i32) (i32.const 0))
   (global $pool_fnv1a     (mut i32) (i32.const 0))
+  (global $dedication_count (mut i32) (i32.const 0))
+  (global $dedications    (mut i32) (i32.const 0))
+  (global $record_count   (mut i32) (i32.const 0)) ;; quotes + dedications
 
   ;;  PCG32 generator state (see 30-pcg32.wat)
   (global $pcg_state (mut i64) (i64.const 0))

@@ -3,7 +3,7 @@
 
   (func $record (param $i i32) (result i32)
     (call $assert_ready)
-    (if (i32.ge_u (local.get $i) (global.get $quote_count))
+    (if (i32.ge_u (local.get $i) (global.get $record_count))
       (then (unreachable)))
     (i32.add (global.get $records) (i32.shl (local.get $i) (i32.const 4))))
 
@@ -21,6 +21,8 @@
 
   (func (export "quote_count") (result i32) (global.get $quote_count))
   (func (export "author_count") (result i32) (global.get $author_count))
+  (func (export "record_count") (result i32) (global.get $record_count))
+  (func (export "dedication_count") (result i32) (global.get $dedication_count))
   (func (export "schedule_base") (result i32) (global.get $schedule_base))
   (func (export "schedule_length") (result i32) (global.get $schedule_len))
 

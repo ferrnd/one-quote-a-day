@@ -18,6 +18,10 @@
     (global.set $schedule_len  (i32.load (i32.const 36)))
     (global.set $scratch       (i32.load (i32.const 40)))
     (global.set $pool_fnv1a    (i32.load (i32.const 44)))
+    (global.set $dedication_count (i32.load (i32.const 48)))
+    (global.set $dedications      (i32.load (i32.const 52)))
+    (global.set $record_count
+      (i32.add (global.get $quote_count) (global.get $dedication_count)))
     ;; the seam rule needs at least three quotes, u16 indices at most 65535
     (if (i32.lt_u (global.get $quote_count) (i32.const 3)) (then (unreachable)))
     (if (i32.gt_u (global.get $quote_count) (i32.const 65535)) (then (unreachable)))
