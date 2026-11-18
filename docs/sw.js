@@ -5,13 +5,13 @@
  * offline but a fresh deploy is never hidden behind a stale cache.
  */
 
-const CACHE = "quotes-496930dd93c2";
+const CACHE = "quotes-f429a697ad29";
 const PRECACHE = [
   "./",
   "./index.html",
-  "./styles.css?v=496930dd93c2",
-  "./app.js?v=496930dd93c2",
-  "./clock.js?v=496930dd93c2",
+  "./styles.css?v=f429a697ad29",
+  "./app.js?v=f429a697ad29",
+  "./clock.js?v=f429a697ad29",
   "./quotes.wasm?v=9e9675a3a529",
   "./favicon.svg",
   "./manifest.webmanifest",
