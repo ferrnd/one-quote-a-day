@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I was taught that the way of progress was neither swift nor easy.', 'fr',
      'On m''a appris que le chemin du progrès n''est ni rapide ni facile.'),
     ('Adversity causes some men to break; others to break records.', 'fr',
-     'L''adversité brise certains hommes ; d''autres battent des records.');
+     'L''adversité brise certains hommes ; d''autres battent des records.'),
+    ('Prosperity is not without many fears and distastes; and adversity is not without comforts and hopes.', 'fr',
+     'La prospérité ne va pas sans craintes ni dégoûts, et l''adversité ne va pas sans réconforts ni espoirs.');
