@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He suffers more than necessary, who suffers before it is necessary.', 'pt-BR',
      'Sofre mais do que o necessário quem sofre antes que seja necessário.'),
     ('Ignorance is the cause of fear.', 'pt-BR',
-     'A ignorância é a causa do medo.');
+     'A ignorância é a causa do medo.'),
+    ('To live is the rarest thing in the world. Most people exist, that is all.', 'pt-BR',
+     'Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.');
