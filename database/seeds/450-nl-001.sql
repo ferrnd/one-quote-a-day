@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'nl',
      'Door volharding behalen veel mensen succes uit wat tot zekere mislukking gedoemd leek.'),
     ('Continuous effort, not strength or intelligence, is the key to unlocking our potential.', 'nl',
-     'Voortdurende inspanning, niet kracht of intelligentie, is de sleutel tot ons potentieel.');
+     'Voortdurende inspanning, niet kracht of intelligentie, is de sleutel tot ons potentieel.'),
+    ('Ambition is the path to success. Persistence is the vehicle you arrive in.', 'nl',
+     'Ambitie is de weg naar succes. Volharding is het voertuig waarmee je aankomt.');
