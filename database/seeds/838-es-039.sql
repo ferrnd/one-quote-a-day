@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A comfort zone is a beautiful place, but nothing ever grows there.', 'es',
      'La zona de confort es un lugar hermoso, pero allí nunca crece nada.'),
     ('I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail.', 'es',
-     'No seguiré adonde lleve el camino; iré donde no hay camino y dejaré un sendero.');
+     'No seguiré adonde lleve el camino; iré donde no hay camino y dejaré un sendero.'),
+    ('Becoming is better than being.', 'es',
+     'Llegar a ser es mejor que ser.');
