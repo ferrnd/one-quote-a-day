@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are working on something exciting that you really care about, you don''t have to be pushed. The vision pulls you.', 'it',
      'Se lavori a qualcosa di entusiasmante che ti sta davvero a cuore, non hai bisogno di essere spinto. È la visione a trascinarti.'),
     ('The only way to do great work is to love what you do.', 'it',
-     'L''unico modo di fare un ottimo lavoro è amare quello che fate.');
+     'L''unico modo di fare un ottimo lavoro è amare quello che fate.'),
+    ('You can''t connect the dots looking forward; you can only connect them looking backwards.', 'it',
+     'Non si possono unire i puntini guardando avanti; si possono unire solo guardando indietro.');
