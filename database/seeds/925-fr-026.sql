@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Opportunities multiply as they are seized.', 'fr',
      'Les occasions se multiplient à mesure qu''on les saisit.'),
     ('You can''t wait for inspiration. You have to go after it with a club.', 'fr',
-     'On ne peut pas attendre l''inspiration. Il faut lui courir après avec une massue.');
+     'On ne peut pas attendre l''inspiration. Il faut lui courir après avec une massue.'),
+    ('Go for it now. The future is promised to no one.', 'fr',
+     'Lance-toi maintenant. L''avenir n''est promis à personne.');
