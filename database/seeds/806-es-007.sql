@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Even the smallest person can change the course of the future.', 'es',
      'Incluso la persona más pequeña puede cambiar el curso del futuro.'),
     ('All we have to decide is what to do with the time that is given us.', 'es',
-     'Todo lo que tenemos que decidir es qué hacer con el tiempo que se nos ha dado.');
+     'Todo lo que tenemos que decidir es qué hacer con el tiempo que se nos ha dado.'),
+    ('It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.', 'es',
+     'Hace falta mucha valentía para enfrentarse a los enemigos, pero la misma para enfrentarse a los amigos.');
