@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The brave man is not he who does not feel afraid, but he who conquers that fear.', 'de',
      'Der Mutige ist nicht der, der keine Angst hat, sondern der, der diese Angst besiegt.'),
     ('Have the courage to follow your heart and intuition.', 'de',
-     'Habt den Mut, eurem Herzen und eurer Intuition zu folgen.');
+     'Habt den Mut, eurem Herzen und eurer Intuition zu folgen.'),
+    ('Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.', 'de',
+     'Von jemandem tief geliebt zu werden, gibt dir Kraft, während jemanden tief zu lieben dir Mut gibt.');
