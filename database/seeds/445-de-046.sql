@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Action is eloquence.', 'de',
      'Handeln ist Beredsamkeit.'),
     ('Do not wait for leaders; do it alone, person to person.', 'de',
-     'Wartet nicht auf Anführer; tut es selbst, von Mensch zu Mensch.');
+     'Wartet nicht auf Anführer; tut es selbst, von Mensch zu Mensch.'),
+    ('Don''t judge each day by the harvest you reap but by the seeds that you plant.', 'de',
+     'Beurteile nicht jeden Tag nach der Ernte, die du einbringst, sondern nach der Saat, die du säst.');
