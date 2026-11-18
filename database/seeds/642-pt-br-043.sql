@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A man of character finds a special attractiveness in difficulty.', 'pt-BR',
      'O homem de caráter encontra uma atração especial na dificuldade.'),
     ('Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.', 'pt-BR',
-     'As dificuldades existem para despertar, não para desanimar. O espírito humano foi feito para se fortalecer no conflito.');
+     'As dificuldades existem para despertar, não para desanimar. O espírito humano foi feito para se fortalecer no conflito.'),
+    ('If you can''t fly then run, if you can''t run then walk, if you can''t walk then crawl, but whatever you do you have to keep moving forward.', 'pt-BR',
+     'Se não puder voar, corra; se não puder correr, ande; se não puder andar, rasteje; mas, faça o que fizer, continue seguindo em frente.');
