@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is simply the opportunity to begin again, this time more intelligently.', 'nl',
      'Falen is slechts de kans om opnieuw te beginnen, dit keer slimmer.'),
     ('Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.', 'nl',
-     'Altijd geprobeerd. Altijd gefaald. Geeft niet. Probeer opnieuw. Faal opnieuw. Faal beter.');
+     'Altijd geprobeerd. Altijd gefaald. Geeft niet. Probeer opnieuw. Faal opnieuw. Faal beter.'),
+    ('I''ve failed over and over and over again in my life. And that is why I succeed.', 'nl',
+     'Ik heb in mijn leven keer op keer op keer gefaald. En daarom slaag ik.');
