@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the thing you fear, and the death of fear is certain.', 'es',
      'Haz aquello que temes, y la muerte del miedo es segura.'),
     ('Fear is only as deep as the mind allows.', 'es',
-     'El miedo es tan profundo como la mente lo permite.');
+     'El miedo es tan profundo como la mente lo permite.'),
+    ('Everything you''ve ever wanted is on the other side of fear.', 'es',
+     'Todo lo que siempre has querido está al otro lado del miedo.');
