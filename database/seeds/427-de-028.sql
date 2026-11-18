@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I attribute my success to this: I never gave or took any excuse.', 'de',
      'Ich verdanke meinen Erfolg Folgendem: Ich habe nie eine Ausrede gegeben oder angenommen.'),
     ('Imagination is more important than knowledge.', 'de',
-     'Fantasie ist wichtiger als Wissen.');
+     'Fantasie ist wichtiger als Wissen.'),
+    ('I have learned over the years that when one''s mind is made up, this diminishes fear.', 'de',
+     'Ich habe im Lauf der Jahre gelernt, dass die Angst schwindet, wenn man sich einmal entschieden hat.');
