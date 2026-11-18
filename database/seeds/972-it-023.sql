@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A hero is no braver than an ordinary man, but he is brave five minutes longer.', 'it',
      'Un eroe non è più coraggioso di un uomo comune; è solo coraggioso cinque minuti di più.'),
     ('The struggle itself toward the heights is enough to fill a man''s heart. One must imagine Sisyphus happy.', 'it',
-     'La lotta stessa verso la vetta basta a riempire il cuore di un uomo. Bisogna immaginare Sisifo felice.');
+     'La lotta stessa verso la vetta basta a riempire il cuore di un uomo. Bisogna immaginare Sisifo felice.'),
+    ('Sometimes adversity is what you need to face in order to become successful.', 'it',
+     'A volte l''avversità è proprio ciò che devi affrontare per avere successo.');
