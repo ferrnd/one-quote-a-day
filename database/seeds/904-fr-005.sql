@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Vulnerability is the birthplace of innovation, creativity and change.', 'fr',
      'La vulnérabilité est le berceau de l''innovation, de la créativité et du changement.'),
     ('Courage starts with showing up and letting ourselves be seen.', 'fr',
-     'Le courage commence par se présenter et se laisser voir.');
+     'Le courage commence par se présenter et se laisser voir.'),
+    ('Don''t be afraid to give up the good to go for the great.', 'fr',
+     'N''aie pas peur de renoncer au bien pour viser l''excellent.');
