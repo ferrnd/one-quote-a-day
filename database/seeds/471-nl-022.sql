@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you can''t fly then run, if you can''t run then walk, if you can''t walk then crawl, but whatever you do you have to keep moving forward.', 'nl',
      'Als je niet kunt vliegen, ren dan; als je niet kunt rennen, loop dan; als je niet kunt lopen, kruip dan; maar wat je ook doet, je moet vooruit blijven gaan.'),
     ('The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.', 'nl',
-     'De ware maatstaf van een mens is niet waar hij staat in momenten van comfort en gemak, maar waar hij staat in tijden van uitdaging en strijd.');
+     'De ware maatstaf van een mens is niet waar hij staat in momenten van comfort en gemak, maar waar hij staat in tijden van uitdaging en strijd.'),
+    ('Darkness cannot drive out darkness; only light can do that.', 'nl',
+     'Duisternis kan duisternis niet verdrijven; alleen licht kan dat.');
