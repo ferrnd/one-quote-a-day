@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you don''t like something, change it. If you can''t change it, change your attitude.', 'de',
      'Wenn dir etwas nicht gefällt, ändere es. Wenn du es nicht ändern kannst, ändere deine Einstellung.'),
     ('People often say that motivation doesn''t last. Well, neither does bathing. That''s why we recommend it daily.', 'de',
-     'Man sagt oft, Motivation halte nicht lange an. Nun, Baden auch nicht. Deshalb empfehlen wir es täglich.');
+     'Man sagt oft, Motivation halte nicht lange an. Nun, Baden auch nicht. Deshalb empfehlen wir es täglich.'),
+    ('Your attitude, not your aptitude, will determine your altitude.', 'de',
+     'Deine Einstellung, nicht deine Begabung, bestimmt deine Flughöhe.');
