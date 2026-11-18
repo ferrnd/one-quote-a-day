@@ -9,4 +9,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('The best way to cheer yourself up is to try to cheer somebody else up.', 'Mark Twain', 'hope'),
     ('When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.', 'Wilma Rudolph', 'hope'),
     ('Never doubt that a small group of thoughtful, committed citizens can change the world.', 'Margaret Mead', 'hope'),
-    ('Keep your face to the sunshine and you cannot see a shadow.', 'Helen Keller', 'hope');
+    ('Keep your face to the sunshine and you cannot see a shadow.', 'Helen Keller', 'hope'),
+    ('One day, in retrospect, the years of struggle will strike you as the most beautiful.', 'Sigmund Freud', 'hope');
