@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is the key to success; each mistake teaches us something.', 'de',
      'Scheitern ist der Schlüssel zum Erfolg; jeder Fehler lehrt uns etwas.'),
     ('You always pass failure on your way to success.', 'de',
-     'Auf dem Weg zum Erfolg kommt man immer am Scheitern vorbei.');
+     'Auf dem Weg zum Erfolg kommt man immer am Scheitern vorbei.'),
+    ('Failure is unimportant. It takes courage to make a fool of yourself.', 'de',
+     'Scheitern ist unwichtig. Es braucht Mut, sich lächerlich zu machen.');
