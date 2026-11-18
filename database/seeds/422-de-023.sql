@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Prosperity makes friends, adversity tries them.', 'de',
      'Wohlstand schafft Freunde, Unglück prüft sie.'),
     ('Anyone can hold the helm when the sea is calm.', 'de',
-     'Jeder kann das Steuer halten, wenn die See ruhig ist.');
+     'Jeder kann das Steuer halten, wenn die See ruhig ist.'),
+    ('The tougher the battle, the sweeter the victory.', 'de',
+     'Je härter der Kampf, desto süßer der Sieg.');
