@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If I have made any valuable discoveries, it has been owing more to patient attention than to any other talent.', 'de',
      'Wenn ich irgendwelche wertvollen Entdeckungen gemacht habe, so verdanke ich das mehr geduldiger Aufmerksamkeit als irgendeinem anderen Talent.'),
     ('Patience is necessary, and one cannot reap immediately where one has sown.', 'de',
-     'Geduld ist nötig, und man kann nicht sofort ernten, wo man gesät hat.');
+     'Geduld ist nötig, und man kann nicht sofort ernten, wo man gesät hat.'),
+    ('Wisely and slow; they stumble that run fast.', 'de',
+     'Weise und langsam; wer schnell läuft, stolpert.');
