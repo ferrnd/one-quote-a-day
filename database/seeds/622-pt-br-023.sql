@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In all things it is better to hope than to despair.', 'pt-BR',
      'Em todas as coisas, é melhor ter esperança do que se desesperar.'),
     ('Hope is important because it can make the present moment less difficult to bear.', 'pt-BR',
-     'A esperança é importante porque pode tornar o momento presente menos difícil de suportar.');
+     'A esperança é importante porque pode tornar o momento presente menos difícil de suportar.'),
+    ('No matter how long the winter, spring is sure to follow.', 'pt-BR',
+     'Por mais longo que seja o inverno, a primavera sempre vem depois.');
