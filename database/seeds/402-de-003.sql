@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I will persist until I succeed.', 'de',
      'Ich werde durchhalten, bis ich Erfolg habe.'),
     ('One may walk over the highest mountain one step at a time.', 'de',
-     'Man kann den höchsten Berg überqueren, Schritt für Schritt.');
+     'Man kann den höchsten Berg überqueren, Schritt für Schritt.'),
+    ('Diamonds are nothing more than chunks of coal that stuck to their jobs.', 'de',
+     'Diamanten sind nichts anderes als Kohlestücke, die bei der Arbeit geblieben sind.');
