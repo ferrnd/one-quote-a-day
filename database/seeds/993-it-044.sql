@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Though she be but little, she is fierce.', 'it',
      'Anche se è piccola, è feroce.'),
     ('You cannot run away from a weakness; you must some time fight it out or perish.', 'it',
-     'Non puoi fuggire da una debolezza; prima o poi devi affrontarla fino in fondo, o soccombere.');
+     'Non puoi fuggire da una debolezza; prima o poi devi affrontarla fino in fondo, o soccombere.'),
+    ('Do not go gentle into that good night. Rage, rage against the dying of the light.', 'it',
+     'Non andartene docile in quella buona notte. Infuriati, infuriati contro il morire della luce.');
