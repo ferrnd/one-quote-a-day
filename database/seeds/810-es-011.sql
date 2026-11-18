@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is simply the opportunity to begin again, this time more intelligently.', 'es',
      'El fracaso es simplemente la oportunidad de empezar de nuevo, esta vez con más inteligencia.'),
     ('Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.', 'es',
-     'Lo intentaste. Fracasaste. No importa. Inténtalo otra vez. Fracasa otra vez. Fracasa mejor.');
+     'Lo intentaste. Fracasaste. No importa. Inténtalo otra vez. Fracasa otra vez. Fracasa mejor.'),
+    ('I''ve failed over and over and over again in my life. And that is why I succeed.', 'es',
+     'He fracasado una y otra y otra vez en mi vida. Y por eso tengo éxito.');
