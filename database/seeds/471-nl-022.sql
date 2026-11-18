@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A man of character finds a special attractiveness in difficulty.', 'nl',
      'Een man met karakter vindt een bijzondere aantrekkingskracht in moeilijkheden.'),
     ('Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.', 'nl',
-     'Moeilijkheden zijn er om wakker te schudden, niet om te ontmoedigen. De menselijke geest moet sterk worden door strijd.');
+     'Moeilijkheden zijn er om wakker te schudden, niet om te ontmoedigen. De menselijke geest moet sterk worden door strijd.'),
+    ('If you can''t fly then run, if you can''t run then walk, if you can''t walk then crawl, but whatever you do you have to keep moving forward.', 'nl',
+     'Als je niet kunt vliegen, ren dan; als je niet kunt rennen, loop dan; als je niet kunt lopen, kruip dan; maar wat je ook doet, je moet vooruit blijven gaan.');
