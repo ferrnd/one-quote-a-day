@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No mud, no lotus.', 'it',
      'Senza fango, niente loto.'),
     ('If you want to see the sunshine, you have to weather the storm.', 'it',
-     'Se vuoi vedere il sole, devi affrontare la tempesta.');
+     'Se vuoi vedere il sole, devi affrontare la tempesta.'),
+    ('The strongest people find the courage and caring to help others, even if they are going through their own storm.', 'it',
+     'Le persone più forti trovano il coraggio e l''affetto per aiutare gli altri, anche quando stanno attraversando la propria tempesta.');
