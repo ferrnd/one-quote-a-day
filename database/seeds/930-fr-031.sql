@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the support of weakness; impatience the ruin of strength.', 'fr',
      'La patience est le soutien de la faiblesse ; l''impatience, la ruine de la force.'),
     ('Endurance is patience concentrated.', 'fr',
-     'L''endurance, c''est de la patience concentrée.');
+     'L''endurance, c''est de la patience concentrée.'),
+    ('Patience and diligence, like faith, remove mountains.', 'fr',
+     'La patience et l''application, comme la foi, déplacent les montagnes.');
