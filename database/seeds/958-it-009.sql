@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('She stood in the storm, and when the wind did not blow her way, she adjusted her sails.', 'it',
      'Rimase in piedi nella tempesta e, quando il vento non soffiò a suo favore, regolò le vele.'),
     ('Tough times never last, but tough people do.', 'it',
-     'I tempi duri non durano, le persone forti sì.');
+     'I tempi duri non durano, le persone forti sì.'),
+    ('Where there is no struggle, there is no strength.', 'it',
+     'Dove non c''è lotta, non c''è forza.');
