@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Those things that hurt, instruct.', 'fr',
      'Ce qui blesse instruit.'),
     ('Adversity is like a strong wind. It tears away from us all but the things that cannot be torn, so that we see ourselves as we really are.', 'fr',
-     'L''adversité est comme un vent violent. Elle nous arrache tout, sauf ce qui ne peut être arraché, afin que nous nous voyions tels que nous sommes vraiment.');
+     'L''adversité est comme un vent violent. Elle nous arrache tout, sauf ce qui ne peut être arraché, afin que nous nous voyions tels que nous sommes vraiment.'),
+    ('What makes the desert beautiful is that somewhere it hides a well.', 'fr',
+     'Ce qui embellit le désert, c''est qu''il cache un puits quelque part.');
