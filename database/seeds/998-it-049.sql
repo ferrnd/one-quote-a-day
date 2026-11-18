@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t give up on your dreams, or your dreams will give up on you.', 'it',
      'Non rinunciare ai tuoi sogni, o i tuoi sogni rinunceranno a te.'),
     ('There is nothing like a dream to create the future.', 'it',
-     'Non c''è niente come un sogno per creare il futuro.');
+     'Non c''è niente come un sogno per creare il futuro.'),
+    ('The power of imagination makes us infinite.', 'it',
+     'Il potere dell''immaginazione ci rende infiniti.');
