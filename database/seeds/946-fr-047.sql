@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Eighty percent of success is showing up.', 'fr',
      'Quatre-vingts pour cent du succès, c''est d''être présent.'),
     ('You can''t build a reputation on what you are going to do.', 'fr',
-     'On ne bâtit pas une réputation sur ce qu''on va faire.');
+     'On ne bâtit pas une réputation sur ce qu''on va faire.'),
+    ('You may delay, but time will not.', 'fr',
+     'Tu peux remettre à plus tard, mais le temps, lui, ne le fera pas.');
