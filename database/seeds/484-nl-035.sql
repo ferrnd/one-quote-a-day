@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.', 'nl',
      'Reik hoog, want er liggen sterren in je verborgen. Droom diep, want elke droom gaat aan het doel vooraf.'),
     ('I dream my painting and I paint my dream.', 'nl',
-     'Ik droom mijn schilderij en ik schilder mijn droom.');
+     'Ik droom mijn schilderij en ik schilder mijn droom.'),
+    ('Dreams don''t work unless you do.', 'nl',
+     'Dromen werken niet, tenzij jij werkt.');
