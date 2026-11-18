@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One fails forward toward success.', 'nl',
      'Je faalt vooruit naar succes.'),
     ('Failure is the key to success; each mistake teaches us something.', 'nl',
-     'Falen is de sleutel tot succes; elke fout leert ons iets.');
+     'Falen is de sleutel tot succes; elke fout leert ons iets.'),
+    ('You always pass failure on your way to success.', 'nl',
+     'Op weg naar succes kom je altijd langs falen.');
