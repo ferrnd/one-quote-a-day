@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('This too shall pass.', 'nl',
      'Ook dit gaat voorbij.'),
     ('Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.', 'nl',
-     'Geef een droom nooit op alleen vanwege de tijd die het kost om hem te verwezenlijken. De tijd gaat toch wel voorbij.');
+     'Geef een droom nooit op alleen vanwege de tijd die het kost om hem te verwezenlijken. De tijd gaat toch wel voorbij.'),
+    ('Let everything happen to you: beauty and terror. Just keep going. No feeling is final.', 'nl',
+     'Laat alles met je gebeuren: schoonheid en verschrikking. Ga gewoon door. Geen gevoel is definitief.');
