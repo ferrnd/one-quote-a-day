@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are going to doubt something, doubt your limits.', 'it',
      'Se devi dubitare di qualcosa, dubita dei tuoi limiti.'),
     ('There is no substitute for hard work.', 'it',
-     'Niente può sostituire il duro lavoro.');
+     'Niente può sostituire il duro lavoro.'),
+    ('The difference between try and triumph is just a little umph!', 'it',
+     'La differenza tra provare e trionfare è solo un pizzico di grinta in più!');
