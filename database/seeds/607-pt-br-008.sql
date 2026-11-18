@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is contagious. When a brave man takes a stand, the spines of others are often stiffened.', 'pt-BR',
      'A coragem é contagiosa. Quando um homem corajoso toma posição, os outros costumam endireitar a coluna.'),
     ('Nothing in life is to be feared, it is only to be understood.', 'pt-BR',
-     'Nada na vida deve ser temido, apenas compreendido.');
+     'Nada na vida deve ser temido, apenas compreendido.'),
+    ('Bravery is the capacity to perform properly even when scared half to death.', 'pt-BR',
+     'Bravura é a capacidade de agir bem mesmo quando se está morrendo de medo.');
