@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best way to make your dreams come true is to wake up.', 'nl',
      'De beste manier om je dromen te laten uitkomen, is wakker worden.'),
     ('Who looks outside, dreams; who looks inside, awakes.', 'nl',
-     'Wie naar buiten kijkt, droomt; wie naar binnen kijkt, ontwaakt.');
+     'Wie naar buiten kijkt, droomt; wie naar binnen kijkt, ontwaakt.'),
+    ('You are never given a wish without also being given the power to make it come true.', 'nl',
+     'Je krijgt nooit een wens zonder dat je ook de kracht krijgt om hem te laten uitkomen.');
