@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength is a matter of the made-up mind.', 'nl',
      'Kracht is een kwestie van een vastberaden geest.'),
     ('I am the master of my fate, I am the captain of my soul.', 'nl',
-     'Ik ben de meester van mijn lot, ik ben de kapitein van mijn ziel.');
+     'Ik ben de meester van mijn lot, ik ben de kapitein van mijn ziel.'),
+    ('I thank whatever gods may be for my unconquerable soul.', 'nl',
+     'Ik dank welke goden er ook mogen zijn voor mijn onoverwinnelijke ziel.');
