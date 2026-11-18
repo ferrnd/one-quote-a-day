@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The bamboo that bends is stronger than the oak that resists.', 'nl',
      'De bamboe die buigt, is sterker dan de eik die zich verzet.'),
     ('Hardships often prepare ordinary people for an extraordinary destiny.', 'nl',
-     'Tegenslagen bereiden gewone mensen vaak voor op een buitengewone bestemming.');
+     'Tegenslagen bereiden gewone mensen vaak voor op een buitengewone bestemming.'),
+    ('Our wounds are often the openings into the best and most beautiful part of us.', 'nl',
+     'Onze wonden zijn vaak de openingen naar het beste en mooiste deel van onszelf.');
