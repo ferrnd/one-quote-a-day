@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Believe in yourself! Have faith in your abilities!', 'nl',
      'Geloof in jezelf! Heb vertrouwen in je kunnen!'),
     ('You must expect great things of yourself before you can do them.', 'nl',
-     'Je moet grote dingen van jezelf verwachten voordat je ze kunt doen.');
+     'Je moet grote dingen van jezelf verwachten voordat je ze kunt doen.'),
+    ('I attribute my success to this: I never gave or took any excuse.', 'nl',
+     'Ik schrijf mijn succes hieraan toe: ik heb nooit een excuus gegeven of geaccepteerd.');
