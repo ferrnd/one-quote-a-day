@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never let the fear of striking out keep you from playing the game.', 'es',
      'Nunca dejes que el miedo a fallar te impida jugar el partido.'),
     ('If you can''t outplay them, outwork them.', 'es',
-     'Si no puedes jugar mejor que ellos, trabaja más que ellos.');
+     'Si no puedes jugar mejor que ellos, trabaja más que ellos.'),
+    ('I really think a champion is defined not by their wins but by how they can recover when they fall.', 'es',
+     'De verdad creo que a un campeón no lo definen sus victorias, sino cómo se recupera cuando cae.');
