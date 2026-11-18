@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything comes to him who hustles while he waits.', 'de',
      'Alles kommt zu dem, der sich ins Zeug legt, während er wartet.'),
     ('If I have made any valuable discoveries, it has been owing more to patient attention than to any other talent.', 'de',
-     'Wenn ich irgendwelche wertvollen Entdeckungen gemacht habe, so verdanke ich das mehr geduldiger Aufmerksamkeit als irgendeinem anderen Talent.');
+     'Wenn ich irgendwelche wertvollen Entdeckungen gemacht habe, so verdanke ich das mehr geduldiger Aufmerksamkeit als irgendeinem anderen Talent.'),
+    ('Patience is necessary, and one cannot reap immediately where one has sown.', 'de',
+     'Geduld ist nötig, und man kann nicht sofort ernten, wo man gesät hat.');
