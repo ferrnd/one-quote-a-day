@@ -4,6 +4,18 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [1.3.0] - 2026-11-17
+
+### Added
+
+- Share button next to "!": renders the quote on screen as a 1080x1080
+  image in the current theme; opens the share sheet on phones and saves the
+  picture on computers.
+- Right-click the quote to search for it on the web, or the author to look
+  them up.
+- Link previews: Open Graph and Twitter card tags with a 1200x630 image,
+  rendered at build time by a dependency-free Python PNG rasteriser.
+
 ## [1.2.0] - 2026-11-17
 
 ### Added
