@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you fell down yesterday, stand up today.', 'pt-BR',
      'Se você caiu ontem, levante-se hoje.'),
     ('I will persist until I succeed.', 'pt-BR',
-     'Vou persistir até vencer.');
+     'Vou persistir até vencer.'),
+    ('One may walk over the highest mountain one step at a time.', 'pt-BR',
+     'É possível atravessar a montanha mais alta, um passo de cada vez.');
