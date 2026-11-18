@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a waking dream.', 'nl',
      'Hoop is een wakende droom.'),
     ('While there''s life, there''s hope.', 'nl',
-     'Zolang er leven is, is er hoop.');
+     'Zolang er leven is, is er hoop.'),
+    ('There is some good in this world, and it''s worth fighting for.', 'nl',
+     'Er is iets goeds in deze wereld, en het is het waard om ervoor te vechten.');
