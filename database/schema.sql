@@ -124,3 +124,17 @@ CREATE TABLE dedications (
                               AND author = trim(author)
                               AND author NOT GLOB '*[^ -~]*'))
 ) STRICT;
+
+-- @section calendar ----------------------------------------------------------
+--  How the schedule grows when quotes are added. The site launched on
+--  launch_day with legacy_quotes quotes. Those days keep exactly the order
+--  they had, the quotes added since are shown next in a shuffled run of
+--  their own, and only then does the rotation cycle through all of them.
+
+CREATE TABLE calendar (
+    id            INTEGER PRIMARY KEY CHECK (id = 1),
+    launch_day    TEXT    NOT NULL
+                          CHECK (launch_day GLOB '[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]'
+                                 AND strftime('%Y-%m-%d', julianday(launch_day)) = launch_day),
+    legacy_quotes INTEGER NOT NULL CHECK (legacy_quotes >= 3)
+) STRICT;
