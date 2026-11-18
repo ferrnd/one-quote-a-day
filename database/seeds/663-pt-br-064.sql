@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Age is no barrier. It''s a limitation you put on your mind.', 'pt-BR',
      'Idade não é barreira. É uma limitação que você coloca na sua mente.'),
     ('The difference between ordinary and extraordinary is that little extra.', 'pt-BR',
-     'A diferença entre o comum e o extraordinário é aquele pequeno extra.');
+     'A diferença entre o comum e o extraordinário é aquele pequeno extra.'),
+    ('Winning isn''t everything, but wanting to win is.', 'pt-BR',
+     'Vencer não é tudo, mas querer vencer é.');
