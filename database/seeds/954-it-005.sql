@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Feel the fear and do it anyway.', 'it',
      'Senti la paura e fallo comunque.'),
     ('Be bold, and mighty forces will come to your aid.', 'it',
-     'Sii audace, e forze potenti verranno in tuo aiuto.');
+     'Sii audace, e forze potenti verranno in tuo aiuto.'),
+    ('There is no passion to be found playing small.', 'it',
+     'Non c''è passione nel giocare in piccolo.');
