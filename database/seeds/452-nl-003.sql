@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It takes courage to grow up and become who you really are.', 'nl',
      'Er is moed voor nodig om op te groeien en te worden wie je werkelijk bent.'),
     ('Courage is rightly esteemed the first of human qualities because it is the quality which guarantees all others.', 'nl',
-     'Moed wordt terecht beschouwd als de eerste van alle menselijke eigenschappen, omdat het de eigenschap is die alle andere waarborgt.');
+     'Moed wordt terecht beschouwd als de eerste van alle menselijke eigenschappen, omdat het de eigenschap is die alle andere waarborgt.'),
+    ('The brave man is not he who does not feel afraid, but he who conquers that fear.', 'nl',
+     'De dappere mens is niet degene die geen angst voelt, maar degene die die angst overwint.');
