@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you''re not prepared to be wrong, you''ll never come up with anything original.', 'nl',
      'Als je niet bereid bent je te vergissen, zul je nooit iets origineels bedenken.'),
     ('Experience is simply the name we give our mistakes.', 'nl',
-     'Ervaring is gewoon de naam die we aan onze fouten geven.');
+     'Ervaring is gewoon de naam die we aan onze fouten geven.'),
+    ('When we give ourselves permission to fail, we, at the same time, give ourselves permission to excel.', 'nl',
+     'Als we onszelf toestaan te falen, staan we onszelf tegelijk toe uit te blinken.');
