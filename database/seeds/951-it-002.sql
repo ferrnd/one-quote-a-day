@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t watch the clock; do what it does. Keep going.', 'it',
      'Non guardare l''orologio; fai come lui. Vai avanti.'),
     ('What we hope ever to do with ease, we must learn first to do with diligence.', 'it',
-     'Ciò che speriamo un giorno di fare con facilità, dobbiamo prima imparare a farlo con impegno.');
+     'Ciò che speriamo un giorno di fare con facilità, dobbiamo prima imparare a farlo con impegno.'),
+    ('In the confrontation between the stream and the rock, the stream always wins, not through strength but by perseverance.', 'it',
+     'Nello scontro tra il ruscello e la roccia, il ruscello vince sempre, non con la forza, ma con la perseveranza.');
