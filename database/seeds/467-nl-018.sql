@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Concentrate all your thoughts upon the work at hand. The sun''s rays do not burn until brought to a focus.', 'nl',
      'Concentreer al je gedachten op het werk dat voor je ligt. De zonnestralen branden pas als ze gebundeld worden.'),
     ('Well done is better than well said.', 'nl',
-     'Goed gedaan is beter dan goed gezegd.');
+     'Goed gedaan is beter dan goed gezegd.'),
+    ('Lost time is never found again.', 'nl',
+     'Verloren tijd vind je nooit meer terug.');
