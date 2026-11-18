@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('And, when you want something, all the universe conspires in helping you to achieve it.', 'pt-BR',
      'E, quando você quer alguma coisa, todo o Universo conspira para que você realize o seu desejo.'),
     ('Dream as if you''ll live forever. Live as if you''ll die today.', 'pt-BR',
-     'Sonhe como se fosse viver para sempre. Viva como se fosse morrer hoje.');
+     'Sonhe como se fosse viver para sempre. Viva como se fosse morrer hoje.'),
+    ('The biggest adventure you can take is to live the life of your dreams.', 'pt-BR',
+     'A maior aventura que você pode viver é a vida dos seus sonhos.');
