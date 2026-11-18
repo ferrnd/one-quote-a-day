@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The secret of change is to focus all of your energy not on fighting the old, but on building the new.', 'es',
      'El secreto del cambio es concentrar toda tu energía no en luchar contra lo viejo, sino en construir lo nuevo.'),
     ('What you get by achieving your goals is not as important as what you become by achieving your goals.', 'es',
-     'Lo que obtienes al alcanzar tus metas no es tan importante como en quién te conviertes al alcanzarlas.');
+     'Lo que obtienes al alcanzar tus metas no es tan importante como en quién te conviertes al alcanzarlas.'),
+    ('Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don''t belong.', 'es',
+     'Crecer duele. Cambiar duele. Pero nada duele tanto como quedarse atrapado en un lugar al que no perteneces.');
