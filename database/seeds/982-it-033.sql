@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'it',
      'Non ci sono arrivata desiderandolo o sperandolo, ma lavorando per ottenerlo.'),
     ('Fight for the things that you care about, but do it in a way that will lead others to join you.', 'it',
-     'Lotta per le cose che ti stanno a cuore, ma fallo in un modo che spinga gli altri a unirsi a te.');
+     'Lotta per le cose che ti stanno a cuore, ma fallo in un modo che spinga gli altri a unirsi a te.'),
+    ('Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves.', 'it',
+     'La vita non è facile per nessuno di noi. Ma che importa? Dobbiamo avere perseveranza e, soprattutto, fiducia in noi stessi.');
