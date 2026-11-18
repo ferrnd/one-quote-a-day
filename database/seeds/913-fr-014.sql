@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have power over your mind, not outside events. Realize this, and you will find strength.', 'fr',
      'Tu as du pouvoir sur ton esprit, pas sur les événements extérieurs. Comprends cela, et tu trouveras la force.'),
     ('The impediment to action advances action. What stands in the way becomes the way.', 'fr',
-     'L''obstacle à l''action fait avancer l''action. Ce qui barre le chemin devient le chemin.');
+     'L''obstacle à l''action fait avancer l''action. Ce qui barre le chemin devient le chemin.'),
+    ('If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.', 'fr',
+     'Si une chose extérieure te tourmente, ce n''est pas elle qui te trouble, mais le jugement que tu portes sur elle ; et ce jugement, tu peux l''effacer à tout instant.');
