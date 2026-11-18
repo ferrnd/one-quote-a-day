@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.', 'it',
      'Hai provato. Hai fallito. Non importa. Prova ancora. Fallisci ancora. Fallisci meglio.'),
     ('I''ve failed over and over and over again in my life. And that is why I succeed.', 'it',
-     'Ho fallito ancora e ancora e ancora nella mia vita. Ed è per questo che ho successo.');
+     'Ho fallito ancora e ancora e ancora nella mia vita. Ed è per questo che ho successo.'),
+    ('Only those who dare to fail greatly can ever achieve greatly.', 'it',
+     'Solo chi osa fallire in grande può ottenere grandi risultati.');
