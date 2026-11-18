@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One person can make a difference, and everyone should try.', 'es',
      'Una persona puede marcar la diferencia, y todos deberían intentarlo.'),
     ('We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.', 'es',
-     'Elegimos ir a la Luna en esta década, y hacer las otras cosas, no porque sean fáciles, sino porque son difíciles.');
+     'Elegimos ir a la Luna en esta década, y hacer las otras cosas, no porque sean fáciles, sino porque son difíciles.'),
+    ('Opportunities multiply as they are seized.', 'es',
+     'Las oportunidades se multiplican a medida que se aprovechan.');
