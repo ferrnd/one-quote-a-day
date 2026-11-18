@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have learned more from my mistakes than from my successes.', 'nl',
      'Ik heb meer geleerd van mijn fouten dan van mijn successen.'),
     ('It''s failure that gives you the proper perspective on success.', 'nl',
-     'Het is falen dat je het juiste perspectief op succes geeft.');
+     'Het is falen dat je het juiste perspectief op succes geeft.'),
+    ('Success is how high you bounce when you hit bottom.', 'nl',
+     'Succes is hoe hoog je terugveert als je de bodem raakt.');
