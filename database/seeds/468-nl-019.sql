@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you get by achieving your goals is not as important as what you become by achieving your goals.', 'nl',
      'Wat je krijgt door je doelen te bereiken, is niet zo belangrijk als wie je wordt door je doelen te bereiken.'),
     ('Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don''t belong.', 'nl',
-     'Groeien doet pijn. Veranderen doet pijn. Maar niets doet zoveel pijn als vastzitten op een plek waar je niet thuishoort.');
+     'Groeien doet pijn. Veranderen doet pijn. Maar niets doet zoveel pijn als vastzitten op een plek waar je niet thuishoort.'),
+    ('And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.', 'nl',
+     'En de dag kwam waarop het risico om een gesloten knop te blijven pijnlijker was dan het risico om open te bloeien.');
