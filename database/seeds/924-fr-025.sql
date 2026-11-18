@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the difficult things while they are easy and do the great things while they are small.', 'fr',
      'Fais les choses difficiles tant qu''elles sont faciles, et les grandes tant qu''elles sont petites.'),
     ('Well begun is half done.', 'fr',
-     'Bien commencer, c''est déjà avoir fait la moitié du chemin.');
+     'Bien commencer, c''est déjà avoir fait la moitié du chemin.'),
+    ('If you spend too much time thinking about a thing, you''ll never get it done.', 'fr',
+     'Si tu passes trop de temps à réfléchir à une chose, tu ne la feras jamais.');
