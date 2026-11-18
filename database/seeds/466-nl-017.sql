@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no shortcuts to any place worth going.', 'nl',
      'Er zijn geen kortere wegen naar een plek die de moeite waard is.'),
     ('The only place where success comes before work is in the dictionary.', 'nl',
-     'De enige plek waar succes vóór werk komt, is in het woordenboek.');
+     'De enige plek waar succes vóór werk komt, is in het woordenboek.'),
+    ('Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.', 'nl',
+     'Talent is goedkoper dan keukenzout. Wat de getalenteerde mens van de succesvolle scheidt, is heel veel hard werk.');
