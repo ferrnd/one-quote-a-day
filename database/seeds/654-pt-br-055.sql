@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Confidence comes not from always being right but from not fearing to be wrong.', 'pt-BR',
      'A confiança não vem de estar sempre certo, mas de não ter medo de errar.'),
     ('If you want to lift yourself up, lift up someone else.', 'pt-BR',
-     'Se você quer se erguer, erga outra pessoa.');
+     'Se você quer se erguer, erga outra pessoa.'),
+    ('Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.', 'pt-BR',
+     'O sucesso não deve ser medido tanto pela posição que alguém alcançou na vida, mas pelos obstáculos que superou.');
