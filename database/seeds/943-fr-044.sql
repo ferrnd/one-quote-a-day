@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is where preparation and opportunity meet.', 'fr',
      'Le succès se trouve là où la préparation rencontre l''opportunité.'),
     ('Quality means doing it right when no one is looking.', 'fr',
-     'La qualité, c''est bien faire même quand personne ne regarde.');
+     'La qualité, c''est bien faire même quand personne ne regarde.'),
+    ('The last three or four reps is what makes the muscle grow.', 'fr',
+     'Ce sont les trois ou quatre dernières répétitions qui font grossir le muscle.');
