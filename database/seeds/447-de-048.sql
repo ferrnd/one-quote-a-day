@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no limits. There are plateaus, but you must not stay there, you must go beyond them.', 'de',
      'Es gibt keine Grenzen. Es gibt Plateaus, aber dort darfst du nicht bleiben, du musst darüber hinausgehen.'),
     ('A goal is not always meant to be reached, it often serves simply as something to aim at.', 'de',
-     'Ein Ziel muss nicht immer erreicht werden; oft dient es einfach als etwas, worauf man zielt.');
+     'Ein Ziel muss nicht immer erreicht werden; oft dient es einfach als etwas, worauf man zielt.'),
+    ('I''m going to use all my tools, my God-given ability, and make the best life I can with it.', 'de',
+     'Ich werde all meine Werkzeuge nutzen, meine gottgegebene Begabung, und das beste Leben daraus machen, das ich kann.');
