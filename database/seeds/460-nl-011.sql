@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is some good in this world, and it''s worth fighting for.', 'nl',
      'Er is iets goeds in deze wereld, en het is het waard om ervoor te vechten.'),
     ('Hope is a good thing, maybe the best of things, and no good thing ever dies.', 'nl',
-     'Hoop is iets goeds, misschien wel het beste wat er is, en goede dingen sterven nooit.');
+     'Hoop is iets goeds, misschien wel het beste wat er is, en goede dingen sterven nooit.'),
+    ('The darkest hour has only sixty minutes.', 'nl',
+     'Het donkerste uur heeft maar zestig minuten.');
