@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Self-control is strength. Right thought is mastery. Calmness is power.', 'pt-BR',
      'Autocontrole é força. Pensamento correto é domínio. Calma é poder.'),
     ('The greatest weapon against stress is our ability to choose one thought over another.', 'pt-BR',
-     'A maior arma contra o estresse é a nossa capacidade de escolher um pensamento em vez de outro.');
+     'A maior arma contra o estresse é a nossa capacidade de escolher um pensamento em vez de outro.'),
+    ('Do not wish to be anything but what you are, and try to be that perfectly.', 'pt-BR',
+     'Não deseje ser nada além do que você é, e procure ser isso com perfeição.');
