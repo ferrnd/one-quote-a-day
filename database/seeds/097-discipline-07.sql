@@ -8,4 +8,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.', 'Aristotle', 'discipline'),
     ('Never mistake activity for achievement.', 'John Wooden', 'discipline'),
     ('The harder you work, the harder it is to surrender.', 'Vince Lombardi', 'discipline'),
-    ('Practice does not make perfect. Only perfect practice makes perfect.', 'Vince Lombardi', 'discipline');
+    ('Practice does not make perfect. Only perfect practice makes perfect.', 'Vince Lombardi', 'discipline'),
+    ('Success is where preparation and opportunity meet.', 'Bobby Unser', 'discipline');
