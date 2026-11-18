@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The weak can never forgive. Forgiveness is the attribute of the strong.', 'nl',
      'De zwakke kan nooit vergeven. Vergeving is een eigenschap van de sterke.'),
     ('Strength does not come from winning. Your struggles develop your strengths.', 'nl',
-     'Kracht komt niet van winnen. Je worstelingen ontwikkelen je kracht.');
+     'Kracht komt niet van winnen. Je worstelingen ontwikkelen je kracht.'),
+    ('Strength is a matter of the made-up mind.', 'nl',
+     'Kracht is een kwestie van een vastberaden geest.');
