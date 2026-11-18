@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not the critic who counts.', 'fr',
      'Ce n''est pas le critique qui compte.'),
     ('The credit belongs to the man who is actually in the arena.', 'fr',
-     'Le mérite revient à celui qui est réellement dans l''arène.');
+     'Le mérite revient à celui qui est réellement dans l''arène.'),
+    ('Fear has two meanings: forget everything and run, or face everything and rise.', 'fr',
+     'La peur a deux sens : tout fuir, ou tout affronter et se relever.');
