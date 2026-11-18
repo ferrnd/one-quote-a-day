@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sometimes life hits you in the head with a brick. Don''t lose faith.', 'it',
      'A volte la vita ti colpisce in testa con un mattone. Non perdere la fede.'),
     ('When something is important enough, you do it even if the odds are not in your favor.', 'it',
-     'Quando una cosa è abbastanza importante, la fai anche se le probabilità non sono a tuo favore.');
+     'Quando una cosa è abbastanza importante, la fai anche se le probabilità non sono a tuo favore.'),
+    ('Always bear in mind that your own resolution to succeed is more important than any other.', 'it',
+     'Tieni sempre a mente che la tua determinazione a riuscire è più importante di qualsiasi altra cosa.');
