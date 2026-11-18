@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not go gentle into that good night. Rage, rage against the dying of the light.', 'es',
      'No entres dócilmente en esa buena noche. Enfurécete, enfurécete contra la muerte de la luz.'),
     ('Strength doesn''t come from what you can do. It comes from overcoming the things you once thought you couldn''t.', 'es',
-     'La fuerza no viene de lo que puedes hacer. Viene de superar las cosas que una vez creíste que no podías.');
+     'La fuerza no viene de lo que puedes hacer. Viene de superar las cosas que una vez creíste que no podías.'),
+    ('Excellence is not a skill. It is an attitude.', 'es',
+     'La excelencia no es una habilidad. Es una actitud.');
