@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('While I breathe, I hope.', 'nl',
      'Zolang ik adem, hoop ik.'),
     ('Every day may not be good, but there''s something good in every day.', 'nl',
-     'Niet elke dag is goed, maar er zit iets goeds in elke dag.');
+     'Niet elke dag is goed, maar er zit iets goeds in elke dag.'),
+    ('In the depth of winter, I finally learned that within me there lay an invincible summer.', 'nl',
+     'Midden in de winter ontdekte ik eindelijk dat er in mij een onoverwinnelijke zomer was.');
