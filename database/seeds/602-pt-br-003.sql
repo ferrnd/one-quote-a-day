@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield.', 'pt-BR',
      'A água é fluida, macia e flexível. Mas a água desgasta a rocha, que é rígida e não consegue ceder.'),
     ('Paralyze resistance with persistence.', 'pt-BR',
-     'Paralise a resistência com persistência.');
+     'Paralise a resistência com persistência.'),
+    ('Effort only fully releases its reward after a person refuses to quit.', 'pt-BR',
+     'O esforço só entrega toda a sua recompensa depois que a pessoa se recusa a desistir.');
