@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The harder the conflict, the more glorious the triumph.', 'nl',
      'Hoe zwaarder de strijd, hoe glorieuzer de triomf.'),
     ('Persistence guarantees that results are inevitable.', 'nl',
-     'Volharding garandeert dat resultaten onvermijdelijk zijn.');
+     'Volharding garandeert dat resultaten onvermijdelijk zijn.'),
+    ('Courage doesn''t always roar. Sometimes courage is the quiet voice at the end of the day saying, I will try again tomorrow.', 'nl',
+     'Moed brult niet altijd. Soms is moed het zachte stemmetje aan het eind van de dag dat zegt: morgen probeer ik het opnieuw.');
