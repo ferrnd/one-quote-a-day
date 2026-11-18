@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Bad times have a scientific value. These are occasions a good learner would not miss.', 'de',
      'Schlechte Zeiten haben einen wissenschaftlichen Wert. Es sind Gelegenheiten, die ein guter Schüler nicht verpassen würde.'),
     ('Every wall is a door.', 'de',
-     'Jede Mauer ist eine Tür.');
+     'Jede Mauer ist eine Tür.'),
+    ('Pain and suffering are always inevitable for a large intelligence and a deep heart.', 'de',
+     'Schmerz und Leid sind für einen großen Verstand und ein tiefes Herz immer unvermeidlich.');
