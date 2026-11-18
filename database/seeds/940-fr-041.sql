@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'fr',
      'Si tu n''échoues pas de temps en temps, c''est le signe que tu ne fais rien de très innovant.'),
     ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'fr',
-     'L''échec arrive tout le temps. Il arrive chaque jour à l''entraînement. Ce qui te rend meilleur, c''est la façon dont tu y réagis.');
+     'L''échec arrive tout le temps. Il arrive chaque jour à l''entraînement. Ce qui te rend meilleur, c''est la façon dont tu y réagis.'),
+    ('There are no mistakes or failures, only lessons.', 'fr',
+     'Il n''y a ni erreurs ni échecs, seulement des leçons.');
