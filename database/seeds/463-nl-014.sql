@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Waste no more time arguing about what a good man should be. Be one.', 'nl',
      'Verspil geen tijd meer met discussiëren over hoe een goed mens moet zijn. Wees er een.'),
     ('Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.', 'nl',
-     'Wees als de kaap waartegen de golven onophoudelijk breken: hij blijft staan en bedwingt het woeden van het water om hem heen.');
+     'Wees als de kaap waartegen de golven onophoudelijk breken: hij blijft staan en bedwingt het woeden van het water om hem heen.'),
+    ('Mighty oaks from little acorns grow.', 'nl',
+     'Uit kleine eikels groeien machtige eiken.');
