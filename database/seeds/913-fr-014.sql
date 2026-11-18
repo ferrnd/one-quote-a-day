@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nobody can make you feel inferior without your consent.', 'fr',
      'Personne ne peut vous faire sentir inférieur sans votre consentement.'),
     ('You have power over your mind, not outside events. Realize this, and you will find strength.', 'fr',
-     'Tu as du pouvoir sur ton esprit, pas sur les événements extérieurs. Comprends cela, et tu trouveras la force.');
+     'Tu as du pouvoir sur ton esprit, pas sur les événements extérieurs. Comprends cela, et tu trouveras la force.'),
+    ('The impediment to action advances action. What stands in the way becomes the way.', 'fr',
+     'L''obstacle à l''action fait avancer l''action. Ce qui barre le chemin devient le chemin.');
