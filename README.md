@@ -121,6 +121,27 @@ from a fresh build, then runs both suites.
 The built site lives in `docs/`. In the repository settings, under
 **Pages**, choose **Deploy from a branch**, branch `main`, folder `/docs`.
 
+## Android app
+
+`app/` is a native Android app built with [Capacitor](https://capacitorjs.com/).
+It bundles the staged site from `docs/` (the WebAssembly module included), so
+it works offline, and adds what a web page cannot: a **daily notification**
+with that day's quote, in the chosen language, at 00:00, 07:00, 09:00 or
+12:00 (Settings, visible only in the app). The next 45 days are scheduled
+with the system alarm manager on every launch.
+
+Requirements: JDK 21 and the Android SDK (platform 35). Then:
+
+```bash
+npm run build:site          # stage docs/
+cd app && npm ci
+npx cap sync android        # copy docs/ into the Android project
+cd android && ./gradlew assembleDebug
+```
+
+The APK lands in `app/android/app/build/outputs/apk/debug/`. Icons are drawn
+by `python app/tools/icons.py`.
+
 ## Project layout
 
 ```

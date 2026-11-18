@@ -4,6 +4,21 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [1.12.0] - 2026-11-18
+
+### Added
+
+- A native Android app in `app/`, built with Capacitor around the staged
+  site: works offline, black-and-white quotation-mark icon and splash.
+- Daily notifications in the app, with the day's quote and author in the
+  chosen language, at a time picked in Settings (00:00, 07:00, 09:00 or
+  12:00). Tapping one opens today's quote.
+
+### Changed
+
+- Shared links and images from the app point to the public site instead of
+  the app's local address.
+
 ## [1.11.0] - 2026-11-18
 
 ### Added
