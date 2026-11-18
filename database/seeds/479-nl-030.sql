@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is also a form of action.', 'nl',
      'Geduld is ook een vorm van handelen.'),
     ('Slow and steady wins the race.', 'nl',
-     'Langzaam maar zeker wint de race.');
+     'Langzaam maar zeker wint de race.'),
+    ('With time and patience the mulberry leaf becomes a silk gown.', 'nl',
+     'Met tijd en geduld wordt het moerbeiblad een zijden japon.');
