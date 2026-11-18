@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only those who will risk going too far can possibly find out how far one can go.', 'es',
      'Solo quienes se arriesgan a ir demasiado lejos pueden descubrir hasta dónde es posible llegar.'),
     ('Fortune favors the bold.', 'es',
-     'La fortuna favorece a los audaces.');
+     'La fortuna favorece a los audaces.'),
+    ('Courage is found in unlikely places.', 'es',
+     'El valor se encuentra en los lugares más inesperados.');
