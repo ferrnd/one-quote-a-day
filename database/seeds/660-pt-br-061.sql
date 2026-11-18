@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are patient in one moment of anger, you will escape a hundred days of sorrow.', 'pt-BR',
      'Se você tiver paciência em um momento de raiva, escapará de cem dias de tristeza.'),
     ('Patience is the support of weakness; impatience the ruin of strength.', 'pt-BR',
-     'A paciência é o apoio da fraqueza; a impaciência, a ruína da força.');
+     'A paciência é o apoio da fraqueza; a impaciência, a ruína da força.'),
+    ('Endurance is patience concentrated.', 'pt-BR',
+     'Resistência é paciência concentrada.');
