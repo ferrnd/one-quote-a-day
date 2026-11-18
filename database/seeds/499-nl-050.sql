@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dwell on the beauty of life. Watch the stars, and see yourself running with them.', 'nl',
      'Sta stil bij de schoonheid van het leven. Kijk naar de sterren en zie jezelf met hen meerennen.'),
     ('When you arise in the morning, think of what a precious privilege it is to be alive.', 'nl',
-     'Als je ''s ochtends opstaat, denk dan aan wat een kostbaar voorrecht het is om te leven.');
+     'Als je ''s ochtends opstaat, denk dan aan wat een kostbaar voorrecht het is om te leven.'),
+    ('It is not that we have a short time to live, but that we waste a lot of it.', 'nl',
+     'Het is niet zo dat we weinig tijd hebben om te leven, maar dat we er veel van verspillen.');
