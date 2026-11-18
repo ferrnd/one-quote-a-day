@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The way I see it, if you want the rainbow, you gotta put up with the rain.', 'nl',
      'Zoals ik het zie: als je de regenboog wilt, moet je de regen op de koop toe nemen.'),
     ('Life isn''t about waiting for the storm to pass. It''s about learning to dance in the rain.', 'nl',
-     'Het leven gaat niet om wachten tot de storm voorbij is. Het gaat om leren dansen in de regen.');
+     'Het leven gaat niet om wachten tot de storm voorbij is. Het gaat om leren dansen in de regen.'),
+    ('Adversity reveals genius, prosperity conceals it.', 'nl',
+     'Tegenspoed onthult het genie, voorspoed verbergt het.');
