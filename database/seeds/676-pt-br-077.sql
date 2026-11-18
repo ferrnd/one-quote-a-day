@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard work without talent is a shame, but talent without hard work is a tragedy.', 'pt-BR',
      'Trabalho duro sem talento é uma pena, mas talento sem trabalho duro é uma tragédia.'),
     ('It ain''t over till it''s over.', 'pt-BR',
-     'Não acaba até que acabe.');
+     'Não acaba até que acabe.'),
+    ('We will either find a way, or make one.', 'pt-BR',
+     'Ou encontraremos um caminho, ou abriremos um.');
