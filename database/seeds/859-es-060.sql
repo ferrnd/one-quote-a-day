@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A handful of patience is worth more than a bushel of brains.', 'es',
      'Un puñado de paciencia vale más que un saco de sesos.'),
     ('Patience is also a form of action.', 'es',
-     'La paciencia también es una forma de acción.');
+     'La paciencia también es una forma de acción.'),
+    ('Slow and steady wins the race.', 'es',
+     'Despacio y con constancia se gana la carrera.');
