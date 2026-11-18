@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Good people are good because they''ve come to wisdom through failure.', 'it',
      'Le persone buone sono buone perché sono arrivate alla saggezza attraverso il fallimento.'),
     ('The greatest mistake you can make in life is to be continually fearing you will make one.', 'it',
-     'L''errore più grande che si possa fare nella vita è temere continuamente di farne uno.');
+     'L''errore più grande che si possa fare nella vita è temere continuamente di farne uno.'),
+    ('If you''re not prepared to be wrong, you''ll never come up with anything original.', 'it',
+     'Se non sei disposto a sbagliare, non creerai mai nulla di originale.');
