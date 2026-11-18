@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only place where success comes before work is in the dictionary.', 'nl',
      'De enige plek waar succes vóór werk komt, is in het woordenboek.'),
     ('Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.', 'nl',
-     'Talent is goedkoper dan keukenzout. Wat de getalenteerde mens van de succesvolle scheidt, is heel veel hard werk.');
+     'Talent is goedkoper dan keukenzout. Wat de getalenteerde mens van de succesvolle scheidt, is heel veel hard werk.'),
+    ('Amateurs sit and wait for inspiration, the rest of us just get up and go to work.', 'nl',
+     'Amateurs zitten te wachten op inspiratie; de rest van ons staat gewoon op en gaat aan het werk.');
