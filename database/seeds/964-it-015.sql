@@ -1,0 +1,5 @@
+-- seed 964 :: it translations 281-300
+
+INSERT INTO translation_intake (original, locale, body) VALUES
+    ('A hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.', 'it',
+     'Un eroe è una persona comune che trova la forza di perseverare e resistere nonostante ostacoli schiaccianti.');
