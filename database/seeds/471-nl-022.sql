@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Darkness cannot drive out darkness; only light can do that.', 'nl',
      'Duisternis kan duisternis niet verdrijven; alleen licht kan dat.'),
     ('Faith is taking the first step even when you don''t see the whole staircase.', 'nl',
-     'Geloof is de eerste stap zetten, ook als je niet de hele trap ziet.');
+     'Geloof is de eerste stap zetten, ook als je niet de hele trap ziet.'),
+    ('There is no education like adversity.', 'nl',
+     'Er is geen school als tegenspoed.');
