@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('To lose patience is to lose the battle.', 'pt-BR',
-     'Perder a paciência é perder a batalha.');
+     'Perder a paciência é perder a batalha.'),
+    ('Patience is power. Patience is not an absence of action; rather it is timing.', 'pt-BR',
+     'Paciência é poder. Paciência não é ausência de ação; é saber o momento certo.');
