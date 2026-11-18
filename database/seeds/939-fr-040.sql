@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the main quality of leadership.', 'fr',
      'Le courage est la qualité principale du leadership.'),
     ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'fr',
-     'La chose la plus courageuse que tu puisses faire quand tu n''es pas courageux, c''est d''affirmer ton courage et d''agir en conséquence.');
+     'La chose la plus courageuse que tu puisses faire quand tu n''es pas courageux, c''est d''affirmer ton courage et d''agir en conséquence.'),
+    ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'fr',
+     'Le courage, c''est faire ce dont on a peur. Il ne peut y avoir de courage sans peur.');
