@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Too many of us are not living our dreams because we are living our fears.', 'es',
      'Muchos de nosotros no vivimos nuestros sueños porque estamos viviendo nuestros miedos.'),
     ('Shoot for the moon. Even if you miss, you''ll land among the stars.', 'es',
-     'Apunta a la Luna. Aunque falles, aterrizarás entre las estrellas.');
+     'Apunta a la Luna. Aunque falles, aterrizarás entre las estrellas.'),
+    ('It''s not what you look at that matters, it''s what you see.', 'es',
+     'No importa lo que miras, sino lo que ves.');
