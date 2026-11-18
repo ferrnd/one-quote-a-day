@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Persistence can change failure into extraordinary achievement.', 'es',
      'La persistencia puede convertir el fracaso en un logro extraordinario.'),
     ('He conquers who endures.', 'es',
-     'Vence quien resiste.');
+     'Vence quien resiste.'),
+    ('Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield.', 'es',
+     'El agua es fluida, blanda y flexible. Pero el agua desgasta la roca, que es rígida y no puede ceder.');
