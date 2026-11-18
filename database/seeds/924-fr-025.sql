@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To begin, begin.', 'fr',
      'Pour commencer, commence.'),
     ('Pursue what catches your heart, not what catches your eyes.', 'fr',
-     'Poursuis ce qui touche ton cœur, pas ce qui attire tes yeux.');
+     'Poursuis ce qui touche ton cœur, pas ce qui attire tes yeux.'),
+    ('Life is ten percent what happens to you and ninety percent how you respond to it.', 'fr',
+     'La vie, c''est dix pour cent ce qui t''arrive et quatre-vingt-dix pour cent la façon dont tu y réagis.');
