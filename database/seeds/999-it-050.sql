@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The purpose of life is to live it, to taste experience to the utmost.', 'it',
      'Lo scopo della vita è viverla, assaporare l''esperienza fino in fondo.'),
     ('The art of being wise is the art of knowing what to overlook.', 'it',
-     'L''arte di essere saggi è l''arte di sapere cosa ignorare.');
+     'L''arte di essere saggi è l''arte di sapere cosa ignorare.'),
+    ('He who learns but does not think, is lost. He who thinks but does not learn is in great danger.', 'it',
+     'Chi impara ma non pensa è perduto. Chi pensa ma non impara è in grave pericolo.');
