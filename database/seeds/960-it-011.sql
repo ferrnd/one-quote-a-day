@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is some good in this world, and it''s worth fighting for.', 'it',
      'C''è del buono in questo mondo, ed è giusto combattere per questo.'),
     ('Hope is a good thing, maybe the best of things, and no good thing ever dies.', 'it',
-     'La speranza è una cosa buona, forse la migliore delle cose, e le cose buone non muoiono mai.');
+     'La speranza è una cosa buona, forse la migliore delle cose, e le cose buone non muoiono mai.'),
+    ('The darkest hour has only sixty minutes.', 'it',
+     'L''ora più buia dura soltanto sessanta minuti.');
