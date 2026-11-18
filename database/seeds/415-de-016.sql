@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t wish it were easier, wish you were better.', 'de',
      'Wünsche dir nicht, es wäre leichter; wünsche dir, du wärst besser.'),
     ('Either you run the day or the day runs you.', 'de',
-     'Entweder du lenkst den Tag, oder der Tag lenkt dich.');
+     'Entweder du lenkst den Tag, oder der Tag lenkt dich.'),
+    ('With self-discipline most anything is possible.', 'de',
+     'Mit Selbstdisziplin ist fast alles möglich.');
