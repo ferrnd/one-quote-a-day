@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t give up. Don''t ever give up.', 'fr',
      'N''abandonne pas. N''abandonne jamais.'),
     ('Many people have gone further than they thought they could because someone else thought they could.', 'fr',
-     'Beaucoup de gens sont allés plus loin qu''ils ne le pensaient parce que quelqu''un d''autre croyait qu''ils en étaient capables.');
+     'Beaucoup de gens sont allés plus loin qu''ils ne le pensaient parce que quelqu''un d''autre croyait qu''ils en étaient capables.'),
+    ('You can''t climb the ladder of success with your hands in your pockets.', 'fr',
+     'On ne gravit pas l''échelle du succès les mains dans les poches.');
