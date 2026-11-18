@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.', 'de',
      'Ich fürchte nicht den Mann, der 10.000 Tritte einmal geübt hat, sondern den Mann, der einen Tritt 10.000 Mal geübt hat.'),
     ('Discipline is choosing between what you want now and what you want most.', 'de',
-     'Disziplin heißt, zu wählen zwischen dem, was man jetzt will, und dem, was man am meisten will.');
+     'Disziplin heißt, zu wählen zwischen dem, was man jetzt will, und dem, was man am meisten will.'),
+    ('No man is free who is not master of himself.', 'de',
+     'Niemand ist frei, der nicht Herr über sich selbst ist.');
