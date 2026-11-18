@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be bold, and mighty forces will come to your aid.', 'nl',
      'Wees stoutmoedig, en machtige krachten zullen je te hulp komen.'),
     ('There is no passion to be found playing small.', 'nl',
-     'Er zit geen passie in klein spelen.');
+     'Er zit geen passie in klein spelen.'),
+    ('Courage is like a muscle. We strengthen it by use.', 'nl',
+     'Moed is als een spier. We versterken hem door hem te gebruiken.');
