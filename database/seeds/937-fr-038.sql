@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Vision is the art of seeing what is invisible to others.', 'fr',
      'La vision est l''art de voir ce qui est invisible aux autres.'),
     ('When one door of happiness closes, another opens.', 'fr',
-     'Quand une porte du bonheur se ferme, une autre s''ouvre.');
+     'Quand une porte du bonheur se ferme, une autre s''ouvre.'),
+    ('Alone we can do so little; together we can do so much.', 'fr',
+     'Seuls, nous pouvons si peu ; ensemble, nous pouvons tant.');
