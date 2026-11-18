@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity is the diamond dust Heaven polishes its jewels with.', 'pt-BR',
      'A adversidade é o pó de diamante com que o Céu lapida suas joias.'),
     ('Storms make trees take deeper roots.', 'pt-BR',
-     'As tempestades fazem as árvores criarem raízes mais profundas.');
+     'As tempestades fazem as árvores criarem raízes mais profundas.'),
+    ('The way I see it, if you want the rainbow, you gotta put up with the rain.', 'pt-BR',
+     'Do jeito que eu vejo, se você quer o arco-íris, tem que aguentar a chuva.');
