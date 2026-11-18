@@ -6,4 +6,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('It''s failure that gives you the proper perspective on success.', 'Ellen DeGeneres', 'failure'),
     ('Success is how high you bounce when you hit bottom.', 'George S. Patton', 'failure'),
     ('Don''t let the fear of losing be greater than the excitement of winning.', 'Robert Kiyosaki', 'failure'),
-    ('We learn from failure, not from success!', 'Bram Stoker', 'failure');
+    ('We learn from failure, not from success!', 'Bram Stoker', 'failure'),
+    ('You can''t be afraid to fail. It''s the only way you succeed.', 'LeBron James', 'failure');
