@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity causes some men to break; others to break records.', 'es',
      'La adversidad hace que algunos hombres se quiebren; y que otros rompan récords.'),
     ('Prosperity is not without many fears and distastes; and adversity is not without comforts and hopes.', 'es',
-     'La prosperidad no está libre de temores y disgustos, ni la adversidad de consuelos y esperanzas.');
+     'La prosperidad no está libre de temores y disgustos, ni la adversidad de consuelos y esperanzas.'),
+    ('Adversity is the first path to truth.', 'es',
+     'La adversidad es el primer camino hacia la verdad.');
