@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you want to improve, be content to be thought foolish and stupid.', 'it',
      'Se vuoi migliorare, accetta di essere considerato sciocco e ignorante.'),
     ('As long as you live, keep learning how to live.', 'it',
-     'Finché vivi, continua a imparare a vivere.');
+     'Finché vivi, continua a imparare a vivere.'),
+    ('Sometimes even to live is an act of courage.', 'it',
+     'A volte anche vivere è un atto di coraggio.');
