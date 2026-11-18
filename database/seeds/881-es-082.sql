@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We learn from failure, not from success!', 'es',
      '¡Aprendemos del fracaso, no del éxito!'),
     ('You can''t be afraid to fail. It''s the only way you succeed.', 'es',
-     'No puedes tener miedo a fracasar. Es la única forma de triunfar.');
+     'No puedes tener miedo a fracasar. Es la única forma de triunfar.'),
+    ('A man is not finished when he is defeated. He is finished when he quits.', 'es',
+     'Un hombre no está acabado cuando es derrotado. Está acabado cuando se rinde.');
