@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Someday is not a day of the week.', 'fr',
      'Un jour n''est pas un jour de la semaine.'),
     ('Done is better than perfect.', 'fr',
-     'Mieux vaut fait que parfait.');
+     'Mieux vaut fait que parfait.'),
+    ('Small deeds done are better than great deeds planned.', 'fr',
+     'Les petites actions accomplies valent mieux que les grandes actions projetées.');
