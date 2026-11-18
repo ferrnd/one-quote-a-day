@@ -68,3 +68,11 @@ test("quote_for_date is quote_for_day of days_from_civil", () => {
     assert.equal(x.quote_for_date(y, m, d), x.quote_for_day(x.days_from_civil(y, m, d)));
   }
 });
+
+test("day_number counts from DAY 1 on 2026-11-17", () => {
+  assert.equal(x.launch_day(), x.days_from_civil(2026, 11, 17));
+  assert.equal(x.day_number(2026, 11, 17), 1);
+  assert.equal(x.day_number(2026, 11, 18), 2);
+  assert.equal(x.day_number(2027, 11, 17), 366);
+  assert.equal(x.day_number(2026, 11, 16), 0);
+});
