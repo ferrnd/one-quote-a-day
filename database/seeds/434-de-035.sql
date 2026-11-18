@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dreams don''t work unless you do.', 'de',
      'Träume funktionieren nicht, solange du nicht arbeitest.'),
     ('Keep your dreams alive. Understand to achieve anything requires faith and belief in yourself, vision, hard work, determination, and dedication.', 'de',
-     'Halte deine Träume lebendig. Begreife, dass jede Leistung Glauben und Vertrauen in dich selbst, Vision, harte Arbeit, Entschlossenheit und Hingabe erfordert.');
+     'Halte deine Träume lebendig. Begreife, dass jede Leistung Glauben und Vertrauen in dich selbst, Vision, harte Arbeit, Entschlossenheit und Hingabe erfordert.'),
+    ('If you can imagine it, you can achieve it.', 'de',
+     'Wenn du es dir vorstellen kannst, kannst du es auch erreichen.');
