@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I had to make my own living and my own opportunity. But I made it!', 'fr',
      'J''ai dû gagner ma vie et créer ma propre chance. Mais j''y suis arrivée !'),
     ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'fr',
-     'Je n''y suis pas arrivée en le souhaitant ou en l''espérant, mais en travaillant pour.');
+     'Je n''y suis pas arrivée en le souhaitant ou en l''espérant, mais en travaillant pour.'),
+    ('Fight for the things that you care about, but do it in a way that will lead others to join you.', 'fr',
+     'Battez-vous pour ce qui vous tient à cœur, mais faites-le d''une manière qui incite les autres à vous rejoindre.');
