@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Even the darkest night will end and the sun will rise.', 'es',
      'Incluso la noche más oscura terminará, y el sol saldrá.'),
     ('Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.', 'es',
-     'El optimismo es la fe que conduce al logro. Nada puede hacerse sin esperanza y confianza.');
+     'El optimismo es la fe que conduce al logro. Nada puede hacerse sin esperanza y confianza.'),
+    ('Keep your eyes on the stars, and your feet on the ground.', 'es',
+     'Mantén los ojos en las estrellas y los pies en la tierra.');
