@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.', 'it',
      'Nota che l''albero più rigido è quello che si spezza più facilmente, mentre il bambù o il salice sopravvivono piegandosi al vento.'),
     ('Don''t fear failure. Not failure, but low aim, is the crime.', 'it',
-     'Non temere il fallimento. Il crimine non è fallire, ma mirare in basso.');
+     'Non temere il fallimento. Il crimine non è fallire, ma mirare in basso.'),
+    ('Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes.', 'it',
+     'Il fallimento è istruttivo. Chi pensa davvero impara tanto dai suoi fallimenti quanto dai suoi successi.');
