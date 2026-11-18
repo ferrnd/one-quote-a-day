@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t cross the sea merely by standing and staring at the water.', 'nl',
      'Je kunt de zee niet oversteken door alleen maar te staan en naar het water te staren.'),
     ('The most difficult thing is the decision to act, the rest is merely tenacity.', 'nl',
-     'Het moeilijkste is de beslissing om te handelen; de rest is alleen maar volharding.');
+     'Het moeilijkste is de beslissing om te handelen; de rest is alleen maar volharding.'),
+    ('The most effective way to do it, is to do it.', 'nl',
+     'De meest effectieve manier om het te doen, is het te doen.');
