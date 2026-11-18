@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sometimes even to live is an act of courage.', 'de',
      'Manchmal ist sogar zu leben ein Akt des Mutes.'),
     ('If a man knows not to which port he sails, no wind is favorable.', 'de',
-     'Wer den Hafen nicht kennt, in den er segeln will, für den ist kein Wind günstig.');
+     'Wer den Hafen nicht kennt, in den er segeln will, für den ist kein Wind günstig.'),
+    ('Luck is what happens when preparation meets opportunity.', 'de',
+     'Glück ist, was passiert, wenn Vorbereitung auf Gelegenheit trifft.');
