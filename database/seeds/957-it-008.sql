@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure isn''t fatal, but failure to change might be.', 'it',
      'Il fallimento non è fatale, ma non cambiare potrebbe esserlo.'),
     ('If you learn from defeat, you haven''t really lost.', 'it',
-     'Se impari dalla sconfitta, non hai davvero perso.');
+     'Se impari dalla sconfitta, non hai davvero perso.'),
+    ('The master has failed more times than the beginner has even tried.', 'it',
+     'Il maestro ha fallito più volte di quante il principiante abbia mai provato.');
