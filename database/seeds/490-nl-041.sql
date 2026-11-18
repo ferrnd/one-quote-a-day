@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'nl',
      'Als je niet af en toe faalt, is dat een teken dat je niets erg vernieuwends doet.'),
     ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'nl',
-     'Falen gebeurt voortdurend. Het gebeurt elke dag op de training. Wat je beter maakt, is hoe je erop reageert.');
+     'Falen gebeurt voortdurend. Het gebeurt elke dag op de training. Wat je beter maakt, is hoe je erop reageert.'),
+    ('There are no mistakes or failures, only lessons.', 'nl',
+     'Er zijn geen fouten of mislukkingen, alleen lessen.');
