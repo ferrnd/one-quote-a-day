@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Accept challenges so that you may feel the exhilaration of victory.', 'nl',
      'Neem uitdagingen aan, zodat je de opwinding van de overwinning kunt voelen.'),
     ('When it is obvious that the goals cannot be reached, don''t adjust the goals, adjust the action steps.', 'nl',
-     'Als duidelijk is dat de doelen niet bereikt kunnen worden, pas dan niet de doelen aan, maar de stappen ernaartoe.');
+     'Als duidelijk is dat de doelen niet bereikt kunnen worden, pas dan niet de doelen aan, maar de stappen ernaartoe.'),
+    ('Victory is sweetest when you''ve known defeat.', 'nl',
+     'De overwinning is het zoetst als je de nederlaag hebt gekend.');
