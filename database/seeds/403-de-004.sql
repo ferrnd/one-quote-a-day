@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The cave you fear to enter holds the treasure you seek.', 'de',
      'Die Höhle, die du fürchtest zu betreten, birgt den Schatz, den du suchst.'),
     ('Courage is contagious. When a brave man takes a stand, the spines of others are often stiffened.', 'de',
-     'Mut ist ansteckend. Wenn ein tapferer Mensch Stellung bezieht, richten sich oft auch die anderen auf.');
+     'Mut ist ansteckend. Wenn ein tapferer Mensch Stellung bezieht, richten sich oft auch die anderen auf.'),
+    ('Nothing in life is to be feared, it is only to be understood.', 'de',
+     'Nichts im Leben muss man fürchten, man muss es nur verstehen.');
