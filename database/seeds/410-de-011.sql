@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep your eyes on the stars, and your feet on the ground.', 'de',
      'Halte die Augen auf die Sterne gerichtet und die Füße auf dem Boden.'),
     ('Hope is a waking dream.', 'de',
-     'Hoffnung ist ein Wachtraum.');
+     'Hoffnung ist ein Wachtraum.'),
+    ('While there''s life, there''s hope.', 'de',
+     'Solange man lebt, gibt es Hoffnung.');
