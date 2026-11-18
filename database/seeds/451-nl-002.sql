@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the confrontation between the stream and the rock, the stream always wins, not through strength but by perseverance.', 'nl',
      'In de strijd tussen de beek en de rots wint de beek altijd, niet door kracht, maar door volharding.'),
     ('Endurance is not just the ability to bear a hard thing, but to turn it into glory.', 'nl',
-     'Uithoudingsvermogen is niet alleen het vermogen iets zwaars te dragen, maar het in glorie te veranderen.');
+     'Uithoudingsvermogen is niet alleen het vermogen iets zwaars te dragen, maar het in glorie te veranderen.'),
+    ('Perseverance, secret of all triumphs.', 'nl',
+     'Volharding, het geheim van alle triomfen.');
