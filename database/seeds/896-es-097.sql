@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream no small dreams for they have no power to move the hearts of men.', 'es',
      'No sueñes sueños pequeños, porque no tienen poder para mover el corazón de los hombres.'),
     ('A man is not old until regrets take the place of dreams.', 'es',
-     'Un hombre no es viejo hasta que los arrepentimientos ocupan el lugar de los sueños.');
+     'Un hombre no es viejo hasta que los arrepentimientos ocupan el lugar de los sueños.'),
+    ('In dreams begins responsibility.', 'es',
+     'En los sueños empieza la responsabilidad.');
