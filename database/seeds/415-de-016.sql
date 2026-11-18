@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is nothing more than a few simple disciplines, practiced every day.', 'de',
      'Erfolg ist nichts anderes als ein paar einfache Disziplinen, jeden Tag geübt.'),
     ('Don''t wish it were easier, wish you were better.', 'de',
-     'Wünsche dir nicht, es wäre leichter; wünsche dir, du wärst besser.');
+     'Wünsche dir nicht, es wäre leichter; wünsche dir, du wärst besser.'),
+    ('Either you run the day or the day runs you.', 'de',
+     'Entweder du lenkst den Tag, oder der Tag lenkt dich.');
