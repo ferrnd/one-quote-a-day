@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When they go low, we go high.', 'nl',
      'Als zij laag gaan, gaan wij hoog.'),
     ('Ability may get you to the top, but it takes character to keep you there.', 'nl',
-     'Bekwaamheid brengt je misschien naar de top, maar er is karakter nodig om daar te blijven.');
+     'Bekwaamheid brengt je misschien naar de top, maar er is karakter nodig om daar te blijven.'),
+    ('When there is no enemy within, the enemies outside cannot hurt you.', 'nl',
+     'Als er binnen geen vijand is, kunnen de vijanden buiten je geen kwaad doen.');
