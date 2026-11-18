@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He conquers who endures.', 'fr',
      'Celui qui endure triomphe.'),
     ('Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield.', 'fr',
-     'L''eau est fluide, douce et souple. Mais l''eau use la roche, qui est rigide et ne peut céder.');
+     'L''eau est fluide, douce et souple. Mais l''eau use la roche, qui est rigide et ne peut céder.'),
+    ('Paralyze resistance with persistence.', 'fr',
+     'Paralyse la résistance par la persévérance.');
