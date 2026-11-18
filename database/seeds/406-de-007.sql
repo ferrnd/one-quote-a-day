@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Winners are not afraid of losing. But losers are. Failure is part of the process of success.', 'de',
      'Gewinner haben keine Angst vor dem Verlieren. Verlierer schon. Scheitern ist Teil des Weges zum Erfolg.'),
     ('An inventor fails 999 times, and if he succeeds once, he''s in.', 'de',
-     'Ein Erfinder scheitert 999 Mal, und wenn er einmal Erfolg hat, hat er es geschafft.');
+     'Ein Erfinder scheitert 999 Mal, und wenn er einmal Erfolg hat, hat er es geschafft.'),
+    ('Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.', 'de',
+     'Beachte, dass der steifste Baum am leichtesten bricht, während Bambus oder Weide überleben, indem sie sich im Wind biegen.');
