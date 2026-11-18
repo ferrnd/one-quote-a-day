@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It always seems impossible until it''s done.', 'fr',
      'Cela semble toujours impossible, jusqu''à ce qu''on le fasse.'),
     ('Nothing in this world can take the place of persistence.', 'fr',
-     'Rien au monde ne peut remplacer la persévérance.');
+     'Rien au monde ne peut remplacer la persévérance.'),
+    ('Victory belongs to the most persevering.', 'fr',
+     'La victoire appartient au plus persévérant.');
