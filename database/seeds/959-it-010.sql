@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grief and resilience live together.', 'it',
      'Il dolore e la resilienza convivono.'),
     ('It''s not whether you get knocked down; it''s whether you get up.', 'it',
-     'Non conta se vieni messo a terra; conta se ti rialzi.');
+     'Non conta se vieni messo a terra; conta se ti rialzi.'),
+    ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'it',
+     'Non conta quanto colpisci forte. Conta quanto riesci a incassare e continuare ad andare avanti.');
