@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Giving up is the only sure way to fail.', 'es',
      'Rendirse es la única forma segura de fracasar.'),
     ('Every failure is a step to success.', 'es',
-     'Cada fracaso es un paso hacia el éxito.');
+     'Cada fracaso es un paso hacia el éxito.'),
+    ('Defeat is not the worst of failures. Not to have tried is the true failure.', 'es',
+     'La derrota no es el peor de los fracasos. No haberlo intentado es el verdadero fracaso.');
