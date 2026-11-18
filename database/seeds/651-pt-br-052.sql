@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('How wonderful it is that nobody need wait a single moment before starting to improve the world.', 'pt-BR',
      'Que maravilhoso é que ninguém precise esperar um único instante para começar a melhorar o mundo.'),
     ('One person can make a difference, and everyone should try.', 'pt-BR',
-     'Uma pessoa pode fazer a diferença, e todos deveriam tentar.');
+     'Uma pessoa pode fazer a diferença, e todos deveriam tentar.'),
+    ('We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.', 'pt-BR',
+     'Escolhemos ir à Lua nesta década, e fazer as outras coisas, não porque são fáceis, mas porque são difíceis.');
