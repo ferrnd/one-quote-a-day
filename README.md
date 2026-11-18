@@ -61,6 +61,11 @@ driven by PCG32 seeded with the block number. If a block would open with the
 quote that closed the previous one, its first two days are swapped, so the same
 quote never appears two days in a row.
 
+Adding quotes never rewrites days already planned. The `calendar` table
+records the launch day and how many quotes existed then; those first days keep
+their original order, the quotes added later appear next in a shuffled run of
+their own, and only after that does the rotation include everything.
+
 The table embedded in the module covers 2000-01-01 to 2399-12-31: exactly one
 Gregorian cycle, after which weekdays and leap years repeat. Outside that
 window the module recomputes the identical schedule on the fly. Both paths are

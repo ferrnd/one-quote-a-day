@@ -9,7 +9,10 @@ All notable changes to this project are documented here. The format follows
 ### Added
 
 - 236 new quotes, bringing the database to exactly 1,000 with no repeats.
-  N changed, so the 400-year calendar was reshuffled.
+- A calendar table and a three-phase schedule, so growing the database never
+  rewrites history: the first 764 days from launch keep exactly the order
+  they had, the 236 new quotes follow in a shuffled run of their own, and
+  only then does the rotation cycle through all 1,000. WebAssembly format 3.
 
 ## [1.5.0] - 2026-11-17
 
