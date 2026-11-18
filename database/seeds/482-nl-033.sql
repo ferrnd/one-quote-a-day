@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'nl',
      'Ik ben er niet gekomen door het te wensen of erop te hopen, maar door ervoor te werken.'),
     ('Fight for the things that you care about, but do it in a way that will lead others to join you.', 'nl',
-     'Vecht voor de dingen die je belangrijk vindt, maar doe het op een manier die anderen ertoe brengt zich bij je aan te sluiten.');
+     'Vecht voor de dingen die je belangrijk vindt, maar doe het op een manier die anderen ertoe brengt zich bij je aan te sluiten.'),
+    ('Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves.', 'nl',
+     'Het leven is voor niemand van ons makkelijk. Maar wat dan nog? We moeten doorzettingsvermogen hebben en vooral vertrouwen in onszelf.');
