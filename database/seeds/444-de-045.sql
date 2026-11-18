@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no coming to consciousness without pain.', 'de',
      'Es gibt keine Bewusstwerdung ohne Schmerz.'),
     ('It''s what you learn after you know it all that counts.', 'de',
-     'Was zählt, ist, was du lernst, nachdem du glaubst, schon alles zu wissen.');
+     'Was zählt, ist, was du lernst, nachdem du glaubst, schon alles zu wissen.'),
+    ('Our business in life is not to get ahead of others, but to get ahead of ourselves.', 'de',
+     'Unsere Aufgabe im Leben ist es nicht, anderen voraus zu sein, sondern uns selbst voraus zu sein.');
