@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is resistance to fear, mastery of fear, not absence of fear.', 'es',
      'El valor es resistir al miedo, dominar el miedo, no la ausencia de miedo.'),
     ('Life shrinks or expands in proportion to one''s courage.', 'es',
-     'La vida se encoge o se expande en proporción al valor de cada uno.');
+     'La vida se encoge o se expande en proporción al valor de cada uno.'),
+    ('It takes courage to grow up and become who you really are.', 'es',
+     'Hace falta valor para crecer y convertirse en quien realmente eres.');
