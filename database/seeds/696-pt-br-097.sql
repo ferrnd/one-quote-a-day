@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In dreams begins responsibility.', 'pt-BR',
      'Nos sonhos começa a responsabilidade.'),
     ('Tread softly because you tread on my dreams.', 'pt-BR',
-     'Pise devagar, porque você está pisando nos meus sonhos.');
+     'Pise devagar, porque você está pisando nos meus sonhos.'),
+    ('All that we see or seem is but a dream within a dream.', 'pt-BR',
+     'Tudo o que vemos ou parecemos é apenas um sonho dentro de um sonho.');
