@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only easy day was yesterday.', 'nl',
      'De enige makkelijke dag was gisteren.'),
     ('In a gentle way, you can shake the world.', 'nl',
-     'Op een zachte manier kun je de wereld doen schudden.');
+     'Op een zachte manier kun je de wereld doen schudden.'),
+    ('Re-examine all you have been told; dismiss what insults your soul.', 'nl',
+     'Onderzoek alles wat je is verteld opnieuw; verwerp wat je ziel beledigt.');
