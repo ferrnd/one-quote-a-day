@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t sit down and wait for the opportunities to come. Get up and make them.', 'it',
      'Non stare seduto ad aspettare che arrivino le opportunità. Alzati e creale.'),
     ('How wonderful it is that nobody need wait a single moment before starting to improve the world.', 'it',
-     'Che meraviglia che nessuno debba aspettare un solo istante prima di cominciare a migliorare il mondo.');
+     'Che meraviglia che nessuno debba aspettare un solo istante prima di cominciare a migliorare il mondo.'),
+    ('One person can make a difference, and everyone should try.', 'it',
+     'Una persona può fare la differenza, e tutti dovrebbero provarci.');
