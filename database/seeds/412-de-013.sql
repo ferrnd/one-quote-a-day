@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is patience with the lamp lit.', 'de',
      'Hoffnung ist Geduld mit brennender Lampe.'),
     ('I am prepared for the worst, but hope for the best.', 'de',
-     'Ich bin auf das Schlimmste vorbereitet, aber ich hoffe auf das Beste.');
+     'Ich bin auf das Schlimmste vorbereitet, aber ich hoffe auf das Beste.'),
+    ('We need never be hopeless because we can never be irreparably broken.', 'de',
+     'Wir müssen nie hoffnungslos sein, denn wir können nie unheilbar zerbrochen werden.');
