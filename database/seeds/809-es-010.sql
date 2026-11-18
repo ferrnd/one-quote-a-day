@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not the critic who counts.', 'es',
      'No es el crítico quien cuenta.'),
     ('The credit belongs to the man who is actually in the arena.', 'es',
-     'El mérito pertenece a quien está realmente en la arena.');
+     'El mérito pertenece a quien está realmente en la arena.'),
+    ('Fear has two meanings: forget everything and run, or face everything and rise.', 'es',
+     'El miedo tiene dos significados: huir de todo o enfrentarlo todo y levantarse.');
