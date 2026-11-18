@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When I let go of what I am, I become what I might be.', 'nl',
      'Als ik loslaat wat ik ben, word ik wat ik zou kunnen zijn.'),
     ('I can''t go back to yesterday because I was a different person then.', 'nl',
-     'Ik kan niet terug naar gisteren, want toen was ik een ander mens.');
+     'Ik kan niet terug naar gisteren, want toen was ik een ander mens.'),
+    ('Real change, enduring change, happens one step at a time.', 'nl',
+     'Echte verandering, blijvende verandering, gebeurt stap voor stap.');
