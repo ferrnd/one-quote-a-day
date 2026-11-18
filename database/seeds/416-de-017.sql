@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The fight is won or lost far away from witnesses, behind the lines, in the gym, and out there on the road, long before I dance under those lights.', 'de',
      'Der Kampf wird weit weg von Zeugen gewonnen oder verloren, hinter den Kulissen, im Trainingsraum und draußen auf der Straße, lange bevor ich unter diesen Lichtern tanze.'),
     ('Don''t count the days, make the days count.', 'de',
-     'Zähle nicht die Tage, sondern sorge dafür, dass die Tage zählen.');
+     'Zähle nicht die Tage, sondern sorge dafür, dass die Tage zählen.'),
+    ('Dedication sees dreams come true.', 'de',
+     'Hingabe lässt Träume wahr werden.');
