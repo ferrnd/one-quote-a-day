@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Giving up is the only sure way to fail.', 'it',
-     'Arrendersi è l''unico modo sicuro per fallire.');
+     'Arrendersi è l''unico modo sicuro per fallire.'),
+    ('Every failure is a step to success.', 'it',
+     'Ogni fallimento è un passo verso il successo.');
