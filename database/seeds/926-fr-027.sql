@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.', 'fr',
      'Les limites n''existent que dans notre esprit. Mais si nous utilisons notre imagination, nos possibilités deviennent illimitées.'),
     ('The only limit to our realization of tomorrow will be our doubts of today.', 'fr',
-     'La seule limite à notre épanouissement de demain, ce sont nos doutes d''aujourd''hui.');
+     'La seule limite à notre épanouissement de demain, ce sont nos doutes d''aujourd''hui.'),
+    ('Perpetual optimism is a force multiplier.', 'fr',
+     'L''optimisme perpétuel démultiplie les forces.');
