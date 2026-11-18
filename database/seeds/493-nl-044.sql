@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Practice does not make perfect. Only perfect practice makes perfect.', 'nl',
      'Oefening baart geen kunst. Alleen perfecte oefening baart kunst.'),
     ('Success is where preparation and opportunity meet.', 'nl',
-     'Succes ligt daar waar voorbereiding en kans elkaar ontmoeten.');
+     'Succes ligt daar waar voorbereiding en kans elkaar ontmoeten.'),
+    ('Quality means doing it right when no one is looking.', 'nl',
+     'Kwaliteit is het goed doen als niemand kijkt.');
