@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the pillar that holds up the world.', 'nl',
      'Hoop is de pijler die de wereld draagt.'),
     ('Hope will never be silent.', 'nl',
-     'De hoop zal nooit zwijgen.');
+     'De hoop zal nooit zwijgen.'),
+    ('Weeping may endure for a night, but joy cometh in the morning.', 'nl',
+     'Des avonds vernachten wenen, maar des morgens is er gejuich.');
