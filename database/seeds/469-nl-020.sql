@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Your present circumstances don''t determine where you can go; they merely determine where you start.', 'nl',
      'Je huidige omstandigheden bepalen niet waar je naartoe kunt; ze bepalen alleen waar je begint.'),
     ('One day you will wake up and there won''t be any more time to do the things you''ve always wanted. Do it now.', 'nl',
-     'Op een dag word je wakker en is er geen tijd meer om de dingen te doen die je altijd al wilde. Doe het nu.');
+     'Op een dag word je wakker en is er geen tijd meer om de dingen te doen die je altijd al wilde. Doe het nu.'),
+    ('Do the best you can until you know better. Then when you know better, do better.', 'nl',
+     'Doe je best tot je beter weet. Als je dan beter weet, doe het dan beter.');
