@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The world is changed by your example, not by your opinion.', 'fr',
      'Le monde change par ton exemple, pas par ton opinion.'),
     ('We can''t help everyone, but everyone can help someone.', 'fr',
-     'Nous ne pouvons pas aider tout le monde, mais chacun peut aider quelqu''un.');
+     'Nous ne pouvons pas aider tout le monde, mais chacun peut aider quelqu''un.'),
+    ('Each person must live their life as a model for others.', 'fr',
+     'Chacun doit vivre sa vie comme un modèle pour les autres.');
