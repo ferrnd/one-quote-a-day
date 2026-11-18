@@ -568,6 +568,84 @@ main {
   }
 }
 
+/* ------------------------------------------------------------ favorites -- */
+
+/* the small heart under a favorite quote */
+.fav-mark {
+  display: none;
+  justify-content: center;
+  margin-top: 1.3rem;
+  opacity: 0.35;
+}
+
+.fav-mark svg {
+  width: 0.85rem;
+  height: 0.85rem;
+}
+
+.quote[data-favorite="true"] .fav-mark {
+  display: flex;
+}
+
+/* a long press must not select the text or open the native callout */
+@media (pointer: coarse) {
+  .quote {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+}
+
+.fav-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.archive-list .fav-list li {
+  padding: 1.4rem 0;
+  text-align: center;
+}
+
+.fav-actions {
+  display: inline-flex;
+  gap: 0.3rem;
+  margin-top: 0.9rem;
+  padding: 0.25rem;
+  border-radius: 999px;
+  background: var(--hover);
+}
+
+.fav-action {
+  padding: 0.5rem 0.95rem;
+  border: 0;
+  border-radius: 999px;
+  background: none;
+  color: var(--ink);
+  font: 500 0.66rem/1 var(--serif);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  opacity: 0.6;
+  cursor: pointer;
+  transition: opacity 200ms ease, background-color 200ms ease;
+}
+
+.fav-action:hover,
+.fav-action:focus-visible {
+  opacity: 1;
+  background: var(--paper);
+}
+
+.fav-tools {
+  display: grid;
+  margin: 1rem 0 1.5rem;
+}
+
+.fav-empty[hidden],
+.fav-tools .share-target[hidden] {
+  display: none;
+}
+
 /* ------------------------------------------------------------ info card -- */
 
 .info-list li {

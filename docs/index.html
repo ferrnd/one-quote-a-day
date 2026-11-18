@@ -24,7 +24,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,700;1,400&amp;display=swap">
-  <link rel="stylesheet" href="styles.css?v=6f6e2798b273">
+  <link rel="stylesheet" href="styles.css?v=d79c6a06dbfa">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="manifest" href="manifest.webmanifest">
 </head>
@@ -33,6 +33,7 @@
     <figure class="quote" id="quote" data-state="loading" aria-live="polite" aria-busy="true">
       <blockquote><p id="quote-text"></p></blockquote>
       <figcaption id="quote-author"></figcaption>
+      <span class="fav-mark" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 20s-7.5-4.6-7.5-10.2A4.3 4.3 0 0 1 12 7.1a4.3 4.3 0 0 1 7.5 2.7C19.5 15.4 12 20 12 20z" fill="currentColor"/></svg></span>
     </figure>
     <noscript>
       <figure class="quote" data-state="ready">
@@ -54,7 +55,8 @@
       <button class="rail-tab" type="button" role="tab" id="tab-language" aria-controls="sec-language" aria-selected="false" tabindex="-1" aria-label="Language" title="Language" data-title="Language"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a14 14 0 0 1 0 18a14 14 0 0 1 0-18z"/></svg></button>
       <button class="rail-tab" type="button" role="tab" id="tab-help" aria-controls="sec-help" aria-selected="false" tabindex="-1" aria-label="How it works" title="How it works" data-title="How it works"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v6"/><path d="M12 16.75v.01" stroke-width="2.4"/></svg></button>
       <button class="rail-tab" type="button" role="tab" id="tab-share" aria-controls="sec-share" aria-selected="false" tabindex="-1" aria-label="Share" title="Share" data-title="Share"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="18" cy="5.5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="18.5" r="2.5"/><path d="m8.2 10.8 7.6-4.1M8.2 13.2l7.6 4.1"/></svg></button>
-      <button class="rail-tab" type="button" role="tab" id="tab-credits" aria-controls="sec-credits" aria-selected="false" tabindex="-1" aria-label="Credits" title="Credits" data-title="Credits"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 20s-7.5-4.6-7.5-10.2A4.3 4.3 0 0 1 12 7.1a4.3 4.3 0 0 1 7.5 2.7C19.5 15.4 12 20 12 20z"/></svg></button>
+      <button class="rail-tab" type="button" role="tab" id="tab-favorites" aria-controls="sec-favorites" aria-selected="false" tabindex="-1" aria-label="Favorites" title="Favorites" data-title="Favorites"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 20s-7.5-4.6-7.5-10.2A4.3 4.3 0 0 1 12 7.1a4.3 4.3 0 0 1 7.5 2.7C19.5 15.4 12 20 12 20z"/></svg></button>
+      <button class="rail-tab" type="button" role="tab" id="tab-credits" aria-controls="sec-credits" aria-selected="false" tabindex="-1" aria-label="Credits" title="Credits" data-title="Credits"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M14.8 9.4a3.6 3.6 0 1 0 0 5.2"/></svg></button>
     </nav>
     <div class="panel-body">
       <header class="archive-head">
@@ -123,6 +125,10 @@
         <p class="info-text">The Share tab here sends the quote to WhatsApp, Facebook, X, Telegram, Discord, email or your Instagram story, and Save image turns it into a square picture.</p>
       </li>
       <li>
+        <p class="archive-meta">Favorites</p>
+        <p class="info-text">Long-press the quote on a phone, or click it with the mouse wheel on a computer, to save it as a favorite; do it again to remove it. The Favorites tab lists them all, takes you back to their day and can download them.</p>
+      </li>
+      <li>
         <p class="archive-meta">Past days</p>
         <p class="info-text">Press &larr; and &rarr; on a keyboard, or swipe left and right on a phone, to walk back through every day since Day 1.</p>
       </li>
@@ -159,6 +165,12 @@
         </ul>
         <p class="setting-note share-note">Discord has no share link, so its button copies a message ready to paste. Instagram stories need a picture: on a phone the share sheet opens with the image; on a computer it is saved for you to post.</p>
       </section>
+      <section class="archive-list panel-section" id="sec-favorites" role="tabpanel" aria-labelledby="tab-favorites" hidden>
+        <p class="info-text share-intro">Long-press the quote on a phone, or click it with the mouse wheel, to save it here. Do it again to remove it.</p>
+        <p class="setting-foot fav-empty" id="fav-empty">No favorites yet.</p>
+        <ol class="fav-list" id="fav-list"></ol>
+        <div class="fav-tools"><button type="button" class="share-target share-wide" id="fav-download" data-fav-download><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 3.5v11M7.5 10 12 14.5 16.5 10"/><path d="M5 17.5v1a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-1"/></svg><span>Download all</span></button></div>
+      </section>
       <section class="archive-list panel-section" id="sec-credits" role="tabpanel" aria-labelledby="tab-credits" hidden>
         <div class="info-credits">
         <dl class="credits">
@@ -182,6 +194,6 @@
     </header>
     <ol class="archive-list" id="archive-list"></ol>
   </dialog>
-  <script type="module" src="app.js?v=6f6e2798b273"></script>
+  <script type="module" src="app.js?v=d79c6a06dbfa"></script>
 </body>
 </html>
