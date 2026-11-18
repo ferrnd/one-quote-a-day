@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is a detour, not a dead-end street.', 'de',
      'Scheitern ist ein Umweg, keine Sackgasse.'),
     ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'de',
-     'Ein Misserfolg ist nicht immer ein Fehler. Vielleicht ist es einfach das Beste, was unter den Umständen möglich war. Der wahre Fehler ist, nicht mehr zu versuchen.');
+     'Ein Misserfolg ist nicht immer ein Fehler. Vielleicht ist es einfach das Beste, was unter den Umständen möglich war. Der wahre Fehler ist, nicht mehr zu versuchen.'),
+    ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'de',
+     'Wenn du nicht ab und zu scheiterst, ist das ein Zeichen, dass du nichts sehr Innovatives tust.');
