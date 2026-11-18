@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You will never change your life until you change something you do daily.', 'nl',
      'Je zult je leven nooit veranderen totdat je iets verandert wat je dagelijks doet.'),
     ('Excellence is the gradual result of always striving to do better.', 'nl',
-     'Uitmuntendheid is het geleidelijke resultaat van altijd streven om het beter te doen.');
+     'Uitmuntendheid is het geleidelijke resultaat van altijd streven om het beter te doen.'),
+    ('Champions keep playing until they get it right.', 'nl',
+     'Kampioenen blijven spelen tot ze het goed doen.');
