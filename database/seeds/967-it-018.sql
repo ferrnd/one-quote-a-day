@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I never dreamed about success. I worked for it.', 'it',
      'Non ho mai sognato il successo. Ho lavorato per ottenerlo.'),
     ('Nothing will work unless you do.', 'it',
-     'Niente funzionerà se non lavori tu.');
+     'Niente funzionerà se non lavori tu.'),
+    ('Habit is either the best of servants or the worst of masters.', 'it',
+     'L''abitudine è il migliore dei servitori o il peggiore dei padroni.');
