@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Pain is inevitable. Suffering is optional.', 'fr',
      'La douleur est inévitable. La souffrance est facultative.'),
     ('Problems are only opportunities in work clothes.', 'fr',
-     'Les problèmes ne sont que des opportunités en tenue de travail.');
+     'Les problèmes ne sont que des opportunités en tenue de travail.'),
+    ('Calamity is the test of integrity.', 'fr',
+     'La calamité est l''épreuve de l''intégrité.');
