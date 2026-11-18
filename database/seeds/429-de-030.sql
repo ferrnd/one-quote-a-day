@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dripping water hollows out stone, not through force but through persistence.', 'de',
      'Steter Tropfen höhlt den Stein, nicht durch Gewalt, sondern durch Beharrlichkeit.'),
     ('All human wisdom is summed up in two words: wait and hope.', 'de',
-     'Die ganze menschliche Weisheit liegt in diesen zwei Worten: warten und hoffen.');
+     'Die ganze menschliche Weisheit liegt in diesen zwei Worten: warten und hoffen.'),
+    ('The key to everything is patience. You get the chicken by hatching the egg, not by smashing it.', 'de',
+     'Der Schlüssel zu allem ist Geduld. Das Küken bekommt man, indem man das Ei ausbrütet, nicht indem man es zerschlägt.');
