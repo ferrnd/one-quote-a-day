@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not length of life, but depth of life.', 'it',
      'Non conta la lunghezza della vita, ma la sua profondità.'),
     ('Once you make a decision, the universe conspires to make it happen.', 'it',
-     'Una volta presa una decisione, l''universo cospira perché si realizzi.');
+     'Una volta presa una decisione, l''universo cospira perché si realizzi.'),
+    ('To be great is to be misunderstood.', 'it',
+     'Essere grandi significa essere fraintesi.');
