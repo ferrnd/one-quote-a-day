@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Persistence guarantees that results are inevitable.', 'fr',
      'La persévérance garantit que les résultats sont inévitables.'),
     ('Courage doesn''t always roar. Sometimes courage is the quiet voice at the end of the day saying, I will try again tomorrow.', 'fr',
-     'Le courage ne rugit pas toujours. Parfois, le courage est cette petite voix, à la fin de la journée, qui dit : demain, je réessaierai.');
+     'Le courage ne rugit pas toujours. Parfois, le courage est cette petite voix, à la fin de la journée, qui dit : demain, je réessaierai.'),
+    ('I learned that courage was not the absence of fear, but the triumph over it.', 'fr',
+     'J''ai appris que le courage n''est pas l''absence de peur, mais la capacité de la vaincre.');
