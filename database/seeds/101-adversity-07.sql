@@ -9,4 +9,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Long is the way and hard, that out of hell leads up to light.', 'John Milton', 'adversity'),
     ('Accept challenges so that you may feel the exhilaration of victory.', 'George S. Patton', 'adversity'),
     ('When it is obvious that the goals cannot be reached, don''t adjust the goals, adjust the action steps.', 'Confucius', 'adversity'),
-    ('Victory is sweetest when you''ve known defeat.', 'Malcolm Forbes', 'adversity');
+    ('Victory is sweetest when you''ve known defeat.', 'Malcolm Forbes', 'adversity'),
+    ('It is a mistake to look too far ahead. Only one link of the chain of destiny can be handled at a time.', 'Winston Churchill', 'adversity');
