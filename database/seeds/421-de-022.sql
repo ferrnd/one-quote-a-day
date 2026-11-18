@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Those things that hurt, instruct.', 'de',
      'Was schmerzt, das lehrt.'),
     ('Adversity is like a strong wind. It tears away from us all but the things that cannot be torn, so that we see ourselves as we really are.', 'de',
-     'Widrigkeit ist wie ein starker Wind. Er reißt uns alles weg außer dem, was nicht weggerissen werden kann, sodass wir uns sehen, wie wir wirklich sind.');
+     'Widrigkeit ist wie ein starker Wind. Er reißt uns alles weg außer dem, was nicht weggerissen werden kann, sodass wir uns sehen, wie wir wirklich sind.'),
+    ('What makes the desert beautiful is that somewhere it hides a well.', 'de',
+     'Was die Wüste schön macht, ist, dass sie irgendwo einen Brunnen verbirgt.');
