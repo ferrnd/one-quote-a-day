@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Because it''s there.', 'nl',
      'Omdat hij er is.'),
     ('That''s one small step for a man, one giant leap for mankind.', 'nl',
-     'Dit is een kleine stap voor een mens, maar een reuzensprong voor de mensheid.');
+     'Dit is een kleine stap voor een mens, maar een reuzensprong voor de mensheid.'),
+    ('Don''t tell me the sky''s the limit when there are footprints on the moon.', 'nl',
+     'Zeg me niet dat de lucht de grens is, als er voetafdrukken op de maan staan.');
