@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream big and dare to fail.', 'nl',
      'Droom groot en durf te falen.'),
     ('Never mistake motion for action.', 'nl',
-     'Verwar beweging nooit met actie.');
+     'Verwar beweging nooit met actie.'),
+    ('Don''t let yesterday take up too much of today.', 'nl',
+     'Laat gisteren niet te veel van vandaag in beslag nemen.');
