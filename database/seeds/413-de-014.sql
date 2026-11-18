@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have power over your mind, not outside events. Realize this, and you will find strength.', 'de',
      'Du hast Macht über deinen Geist, nicht über äußere Ereignisse. Erkenne das, und du wirst Stärke finden.'),
     ('The impediment to action advances action. What stands in the way becomes the way.', 'de',
-     'Das Hindernis für das Handeln fördert das Handeln. Was im Weg steht, wird zum Weg.');
+     'Das Hindernis für das Handeln fördert das Handeln. Was im Weg steht, wird zum Weg.'),
+    ('If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.', 'de',
+     'Wenn dich etwas Äußeres bedrückt, so ist es nicht das Ding selbst, das dich stört, sondern dein Urteil darüber; und dieses kannst du jederzeit widerrufen.');
