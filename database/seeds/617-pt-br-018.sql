@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The gem cannot be polished without friction, nor man perfected without trials.', 'pt-BR',
      'A pedra preciosa não pode ser polida sem atrito, nem o homem aperfeiçoado sem provações.'),
     ('Smooth seas do not make skillful sailors.', 'pt-BR',
-     'Mar calmo não faz bom marinheiro.');
+     'Mar calmo não faz bom marinheiro.'),
+    ('My scars remind me that I did indeed survive my deepest wounds.', 'pt-BR',
+     'Minhas cicatrizes me lembram de que eu sobrevivi, sim, às minhas feridas mais profundas.');
