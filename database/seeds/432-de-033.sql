@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When something is important enough, you do it even if the odds are not in your favor.', 'de',
      'Wenn etwas wichtig genug ist, tut man es, auch wenn die Chancen nicht auf deiner Seite stehen.'),
     ('Always bear in mind that your own resolution to succeed is more important than any other.', 'de',
-     'Denke immer daran, dass dein eigener Entschluss, erfolgreich zu sein, wichtiger ist als alles andere.');
+     'Denke immer daran, dass dein eigener Entschluss, erfolgreich zu sein, wichtiger ist als alles andere.'),
+    ('Pain is temporary. Quitting lasts forever.', 'de',
+     'Schmerz ist vorübergehend. Aufgeben ist für immer.');
