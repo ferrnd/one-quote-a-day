@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Bravery is the capacity to perform properly even when scared half to death.', 'fr',
      'La bravoure, c''est la capacité d''agir correctement même quand on est mort de peur.'),
     ('With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble.', 'fr',
-     'Avec du courage, tu oseras prendre des risques, tu auras la force d''être compatissant et la sagesse d''être humble.');
+     'Avec du courage, tu oseras prendre des risques, tu auras la force d''être compatissant et la sagesse d''être humble.'),
+    ('One isn''t necessarily born with courage, but one is born with potential.', 'fr',
+     'On ne naît pas forcément courageux, mais on naît avec un potentiel.');
