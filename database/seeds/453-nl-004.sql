@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing in life is to be feared, it is only to be understood.', 'nl',
      'Niets in het leven hoeft gevreesd te worden, het moet alleen begrepen worden.'),
     ('Bravery is the capacity to perform properly even when scared half to death.', 'nl',
-     'Dapperheid is het vermogen om goed te handelen, zelfs als je half dood bent van angst.');
+     'Dapperheid is het vermogen om goed te handelen, zelfs als je half dood bent van angst.'),
+    ('With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble.', 'nl',
+     'Met moed durf je risico''s te nemen, heb je de kracht om meelevend te zijn en de wijsheid om nederig te zijn.');
