@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing great was ever achieved without enthusiasm.', 'es',
-     'Nunca se logró nada grande sin entusiasmo.');
+     'Nunca se logró nada grande sin entusiasmo.'),
+    ('I would rather be ashes than dust!', 'es',
+     '¡Prefiero ser ceniza que polvo!');
