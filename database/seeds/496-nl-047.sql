@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Either write something worth reading or do something worth writing.', 'nl',
      'Schrijf iets wat het lezen waard is of doe iets wat het opschrijven waard is.'),
     ('Some people want it to happen, some wish it would happen, others make it happen.', 'nl',
-     'Sommige mensen willen dat het gebeurt, sommigen wensen dat het gebeurt, anderen laten het gebeuren.');
+     'Sommige mensen willen dat het gebeurt, sommigen wensen dat het gebeurt, anderen laten het gebeuren.'),
+    ('The more I want to get something done, the less I call it work.', 'nl',
+     'Hoe meer ik iets gedaan wil krijgen, hoe minder ik het werk noem.');
