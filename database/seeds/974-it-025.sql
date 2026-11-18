@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t let yesterday take up too much of today.', 'it',
      'Non lasciare che ieri occupi troppo spazio nell''oggi.'),
     ('Even if you''re on the right track, you''ll get run over if you just sit there.', 'it',
-     'Anche se sei sulla strada giusta, verrai investito se resti lì seduto.');
+     'Anche se sei sulla strada giusta, verrai investito se resti lì seduto.'),
+    ('An idea not coupled with action will never get any bigger than the brain cell it occupied.', 'it',
+     'Un''idea non accompagnata dall''azione non diventerà mai più grande del neurone che occupava.');
