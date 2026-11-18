@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are what you believe yourself to be.', 'de',
      'Du bist, was du zu sein glaubst.'),
     ('Believe and act as if it were impossible to fail.', 'de',
-     'Glaube und handle so, als wäre es unmöglich zu scheitern.');
+     'Glaube und handle so, als wäre es unmöglich zu scheitern.'),
+    ('The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.', 'de',
+     'Der Geist ist sein eigener Ort und kann in sich selbst einen Himmel aus der Hölle und eine Hölle aus dem Himmel machen.');
