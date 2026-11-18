@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Smooth seas do not make skillful sailors.', 'it',
      'Mare calmo non fa buon marinaio.'),
     ('My scars remind me that I did indeed survive my deepest wounds.', 'it',
-     'Le mie cicatrici mi ricordano che sono davvero sopravvissuto alle mie ferite più profonde.');
+     'Le mie cicatrici mi ricordano che sono davvero sopravvissuto alle mie ferite più profonde.'),
+    ('Strength does not come from physical capacity. It comes from an indomitable will.', 'it',
+     'La forza non viene dalla capacità fisica. Viene da una volontà indomabile.');
