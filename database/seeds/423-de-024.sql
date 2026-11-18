@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You don''t have to be great to start, but you have to start to be great.', 'de',
      'Du musst nicht großartig sein, um anzufangen, aber du musst anfangen, um großartig zu werden.'),
     ('The way to get started is to quit talking and begin doing.', 'de',
-     'Der Weg zum Anfang ist, aufzuhören zu reden und anzufangen zu handeln.');
+     'Der Weg zum Anfang ist, aufzuhören zu reden und anzufangen zu handeln.'),
+    ('Do not wait; the time will never be just right.', 'de',
+     'Warte nicht; der richtige Zeitpunkt wird nie kommen.');
