@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is like a muscle. We strengthen it by use.', 'it',
      'Il coraggio è come un muscolo: si rafforza con l''uso.'),
     ('Vulnerability is the birthplace of innovation, creativity and change.', 'it',
-     'La vulnerabilità è la culla dell''innovazione, della creatività e del cambiamento.');
+     'La vulnerabilità è la culla dell''innovazione, della creatività e del cambiamento.'),
+    ('Courage starts with showing up and letting ourselves be seen.', 'it',
+     'Il coraggio comincia quando ci presentiamo e ci lasciamo vedere.');
