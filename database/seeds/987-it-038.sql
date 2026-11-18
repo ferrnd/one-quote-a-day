@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Each person must live their life as a model for others.', 'it',
      'Ogni persona deve vivere la propria vita come un esempio per gli altri.'),
     ('If you don''t like the road you''re walking, start paving another one.', 'it',
-     'Se non ti piace la strada che stai percorrendo, comincia a costruirne un''altra.');
+     'Se non ti piace la strada che stai percorrendo, comincia a costruirne un''altra.'),
+    ('You get in life what you have the courage to ask for.', 'it',
+     'Dalla vita ottieni ciò che hai il coraggio di chiedere.');
