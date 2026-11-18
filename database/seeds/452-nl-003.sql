@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Persistence guarantees that results are inevitable.', 'nl',
      'Volharding garandeert dat resultaten onvermijdelijk zijn.'),
     ('Courage doesn''t always roar. Sometimes courage is the quiet voice at the end of the day saying, I will try again tomorrow.', 'nl',
-     'Moed brult niet altijd. Soms is moed het zachte stemmetje aan het eind van de dag dat zegt: morgen probeer ik het opnieuw.');
+     'Moed brult niet altijd. Soms is moed het zachte stemmetje aan het eind van de dag dat zegt: morgen probeer ik het opnieuw.'),
+    ('I learned that courage was not the absence of fear, but the triumph over it.', 'nl',
+     'Ik leerde dat moed niet de afwezigheid van angst is, maar de overwinning erop.');
