@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I never dreamed about success. I worked for it.', 'nl',
      'Ik heb nooit van succes gedroomd. Ik heb ervoor gewerkt.'),
     ('Nothing will work unless you do.', 'nl',
-     'Niets werkt tenzij jij werkt.');
+     'Niets werkt tenzij jij werkt.'),
+    ('Habit is either the best of servants or the worst of masters.', 'nl',
+     'Een gewoonte is de beste dienaar of de slechtste meester.');
