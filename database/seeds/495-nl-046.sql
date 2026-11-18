@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wait for leaders; do it alone, person to person.', 'nl',
      'Wacht niet op leiders; doe het zelf, van mens tot mens.'),
     ('Don''t judge each day by the harvest you reap but by the seeds that you plant.', 'nl',
-     'Beoordeel elke dag niet op de oogst die je binnenhaalt, maar op de zaden die je plant.');
+     'Beoordeel elke dag niet op de oogst die je binnenhaalt, maar op de zaden die je plant.'),
+    ('Do something wonderful, people may imitate it.', 'nl',
+     'Doe iets prachtigs; mensen zouden het kunnen navolgen.');
