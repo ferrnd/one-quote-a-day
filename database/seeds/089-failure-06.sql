@@ -9,4 +9,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'Bear Bryant', 'failure'),
     ('Failure is a detour, not a dead-end street.', 'Zig Ziglar', 'failure'),
     ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'B. F. Skinner', 'failure'),
-    ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'Woody Allen', 'failure');
+    ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'Woody Allen', 'failure'),
+    ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'Mia Hamm', 'failure');
