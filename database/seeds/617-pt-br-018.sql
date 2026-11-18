@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.', 'pt-BR',
-     'Quando tudo parecer estar contra você, lembre-se de que o avião decola contra o vento, e não a favor dele.');
+     'Quando tudo parecer estar contra você, lembre-se de que o avião decola contra o vento, e não a favor dele.'),
+    ('Out of difficulties grow miracles.', 'pt-BR',
+     'Das dificuldades nascem milagres.');
