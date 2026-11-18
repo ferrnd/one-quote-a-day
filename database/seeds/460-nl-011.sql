@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.', 'nl',
      'Optimisme is het geloof dat tot prestaties leidt. Zonder hoop en vertrouwen kan niets worden gedaan.'),
     ('Keep your eyes on the stars, and your feet on the ground.', 'nl',
-     'Houd je ogen op de sterren en je voeten op de grond.');
+     'Houd je ogen op de sterren en je voeten op de grond.'),
+    ('Hope is a waking dream.', 'nl',
+     'Hoop is een wakende droom.');
