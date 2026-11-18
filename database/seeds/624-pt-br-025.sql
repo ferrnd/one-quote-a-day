@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('While I breathe, I hope.', 'pt-BR',
      'Enquanto respiro, tenho esperança.'),
     ('Every day may not be good, but there''s something good in every day.', 'pt-BR',
-     'Nem todo dia é bom, mas há algo de bom em todo dia.');
+     'Nem todo dia é bom, mas há algo de bom em todo dia.'),
+    ('In the depth of winter, I finally learned that within me there lay an invincible summer.', 'pt-BR',
+     'No auge do inverno, finalmente aprendi que dentro de mim havia um verão invencível.');
