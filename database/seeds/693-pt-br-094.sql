@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'pt-BR',
      'Se você percebesse o quão poderosos são seus pensamentos, nunca mais teria um pensamento negativo.'),
     ('I am the greatest. I said that even before I knew I was.', 'pt-BR',
-     'Eu sou o maior. Eu dizia isso antes mesmo de saber que era.');
+     'Eu sou o maior. Eu dizia isso antes mesmo de saber que era.'),
+    ('Impossible is just a big word thrown around by small men.', 'pt-BR',
+     'Impossível é só uma palavra grande usada por homens pequenos.');
