@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never give in. Never, never, never, never.', 'es',
      'Nunca te rindas. Nunca, nunca, nunca, nunca.'),
     ('Success seems to be connected with action. Successful people keep moving.', 'es',
-     'El éxito parece estar ligado a la acción. Las personas exitosas no dejan de moverse.');
+     'El éxito parece estar ligado a la acción. Las personas exitosas no dejan de moverse.'),
+    ('Every strike brings me closer to the next home run.', 'es',
+     'Cada fallo me acerca al próximo jonrón.');
