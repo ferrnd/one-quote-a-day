@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Bad times have a scientific value. These are occasions a good learner would not miss.', 'pt-BR',
      'Os tempos ruins têm um valor científico. São ocasiões que um bom aprendiz não deixaria passar.'),
     ('Every wall is a door.', 'pt-BR',
-     'Toda parede é uma porta.');
+     'Toda parede é uma porta.'),
+    ('Pain and suffering are always inevitable for a large intelligence and a deep heart.', 'pt-BR',
+     'A dor e o sofrimento são sempre inevitáveis para uma grande inteligência e um coração profundo.');
