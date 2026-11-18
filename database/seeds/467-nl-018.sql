@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Discipline is remembering what you want.', 'nl',
      'Discipline is onthouden wat je wilt.'),
     ('Make each day your masterpiece.', 'nl',
-     'Maak van elke dag je meesterwerk.');
+     'Maak van elke dag je meesterwerk.'),
+    ('Be quick, but don''t hurry.', 'nl',
+     'Wees snel, maar haast je niet.');
