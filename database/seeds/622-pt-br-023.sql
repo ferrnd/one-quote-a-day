@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No matter how long the winter, spring is sure to follow.', 'pt-BR',
      'Por mais longo que seja o inverno, a primavera sempre vem depois.'),
     ('Every cloud has a silver lining.', 'pt-BR',
-     'Há males que vêm para o bem.');
+     'Há males que vêm para o bem.'),
+    ('The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.', 'pt-BR',
+     'O próprio sol é fraco quando nasce, e vai ganhando força e coragem conforme o dia avança.');
