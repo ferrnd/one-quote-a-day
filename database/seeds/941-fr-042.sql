@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no such thing as ruining your life. Life''s a pretty resilient thing, it turns out.', 'fr',
      'Gâcher sa vie, ça n''existe pas. La vie, en fin de compte, est une chose plutôt résiliente.'),
     ('Resilience is knowing that you are the only one that has the power and the responsibility to pick yourself up.', 'fr',
-     'La résilience, c''est savoir que tu es le seul à avoir le pouvoir et la responsabilité de te relever.');
+     'La résilience, c''est savoir que tu es le seul à avoir le pouvoir et la responsabilité de te relever.'),
+    ('Once you face your fear, nothing is ever as hard as you think.', 'fr',
+     'Une fois que tu affrontes ta peur, rien n''est jamais aussi difficile que tu le crois.');
