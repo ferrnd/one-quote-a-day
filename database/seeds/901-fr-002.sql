@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every strike brings me closer to the next home run.', 'fr',
      'Chaque élan manqué me rapproche du prochain coup de circuit.'),
     ('You just can''t beat the person who never gives up.', 'fr',
-     'On ne peut tout simplement pas battre quelqu''un qui n''abandonne jamais.');
+     'On ne peut tout simplement pas battre quelqu''un qui n''abandonne jamais.'),
+    ('Don''t watch the clock; do what it does. Keep going.', 'fr',
+     'Ne regarde pas l''horloge ; fais comme elle. Continue d''avancer.');
