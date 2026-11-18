@@ -24,7 +24,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,700;1,400&amp;family=Cinzel:wght@600&amp;display=swap">
-  <link rel="stylesheet" href="styles.css?v=c8fdc001ab51">
+  <link rel="stylesheet" href="styles.css?v=14c73b13dd0a">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="manifest" href="manifest.webmanifest">
 </head>
@@ -92,6 +92,15 @@
           <p class="archive-meta" id="pref-search">Search with</p>
           <div class="choices" role="group" aria-labelledby="pref-search" data-pref="search"><button type="button" data-value="google" aria-pressed="false">Google</button><button type="button" data-value="duckduckgo" aria-pressed="false">DuckDuckGo</button><button type="button" data-value="bing" aria-pressed="false">Bing</button></div>
           <p class="setting-note">Used when you right-click the quote or the author.</p>
+        </li>
+        <li class="native-only">
+          <p class="archive-meta" id="pref-notify">Daily notification</p>
+          <div class="choices" role="group" aria-labelledby="pref-notify" data-pref="notify"><button type="button" data-value="on" aria-pressed="false">On</button><button type="button" data-value="off" aria-pressed="false">Off</button></div>
+          <p class="setting-note">Each day's quote, delivered to your phone.</p>
+        </li>
+        <li class="native-only">
+          <p class="archive-meta" id="pref-notify-at">Notify at</p>
+          <div class="choices" role="group" aria-labelledby="pref-notify-at" data-pref="notifyAt"><button type="button" data-value="00" aria-pressed="false">00:00</button><button type="button" data-value="07" aria-pressed="false">07:00</button><button type="button" data-value="09" aria-pressed="false">09:00</button><button type="button" data-value="12" aria-pressed="false">12:00</button></div>
         </li>
         </ul>
         <p class="setting-foot">Saved on this device only.</p>
@@ -194,6 +203,6 @@
     </header>
     <ol class="archive-list" id="archive-list"></ol>
   </dialog>
-  <script type="module" src="app.js?v=c8fdc001ab51"></script>
+  <script type="module" src="app.js?v=14c73b13dd0a"></script>
 </body>
 </html>
