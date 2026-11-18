@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is necessary, and one cannot reap immediately where one has sown.', 'pt-BR',
      'A paciência é necessária, e não se colhe imediatamente onde se semeou.'),
     ('Wisely and slow; they stumble that run fast.', 'pt-BR',
-     'Com sabedoria e devagar; tropeça quem corre depressa.');
+     'Com sabedoria e devagar; tropeça quem corre depressa.'),
+    ('They also serve who only stand and wait.', 'pt-BR',
+     'Também servem aqueles que apenas ficam de pé e esperam.');
