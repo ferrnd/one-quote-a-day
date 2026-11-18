@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t build a reputation on what you are going to do.', 'nl',
      'Je kunt geen reputatie opbouwen met wat je nog gaat doen.'),
     ('You may delay, but time will not.', 'nl',
-     'Jij kunt uitstellen, maar de tijd niet.');
+     'Jij kunt uitstellen, maar de tijd niet.'),
+    ('Either write something worth reading or do something worth writing.', 'nl',
+     'Schrijf iets wat het lezen waard is of doe iets wat het opschrijven waard is.');
