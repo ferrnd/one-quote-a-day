@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greater the difficulty, the more glory in surmounting it.', 'nl',
      'Hoe groter de moeilijkheid, hoe groter de glorie om haar te overwinnen.'),
     ('Difficulties are things that show a person what they are.', 'nl',
-     'Moeilijkheden zijn wat een mens laat zien wie hij is.');
+     'Moeilijkheden zijn wat een mens laat zien wie hij is.'),
+    ('No tree becomes rooted and sturdy unless many a wind assails it.', 'nl',
+     'Geen boom wordt stevig geworteld en sterk tenzij vele winden hem bestoken.');
