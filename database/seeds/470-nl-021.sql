@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.', 'nl',
      'Niet de sterkste soort overleeft, en ook niet de intelligentste, maar de soort die het best op verandering inspeelt.'),
     ('When I let go of what I am, I become what I might be.', 'nl',
-     'Als ik loslaat wat ik ben, word ik wat ik zou kunnen zijn.');
+     'Als ik loslaat wat ik ben, word ik wat ik zou kunnen zijn.'),
+    ('I can''t go back to yesterday because I was a different person then.', 'nl',
+     'Ik kan niet terug naar gisteren, want toen was ik een ander mens.');
