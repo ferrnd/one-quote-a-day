@@ -8,4 +8,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('The opposite of courage in our society is not cowardice, it is conformity.', 'Rollo May', 'courage'),
     ('Cowards die many times before their deaths; the valiant never taste of death but once.', 'William Shakespeare', 'courage'),
     ('Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.', 'William Shakespeare', 'courage'),
-    ('Screw your courage to the sticking-place, and we''ll not fail.', 'William Shakespeare', 'courage');
+    ('Screw your courage to the sticking-place, and we''ll not fail.', 'William Shakespeare', 'courage'),
+    ('Courage is fear holding on a minute longer.', 'George S. Patton', 'courage');
