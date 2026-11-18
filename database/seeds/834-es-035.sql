@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Lost time is never found again.', 'es',
      'El tiempo perdido nunca se recupera.'),
     ('Without hard work, nothing grows but weeds.', 'es',
-     'Sin trabajo duro, solo crecen las malas hierbas.');
+     'Sin trabajo duro, solo crecen las malas hierbas.'),
+    ('Success isn''t always about greatness. It''s about consistency.', 'es',
+     'El éxito no siempre tiene que ver con la grandeza. Tiene que ver con la constancia.');
