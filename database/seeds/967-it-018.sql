@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without hard work, nothing grows but weeds.', 'it',
      'Senza duro lavoro, crescono solo le erbacce.'),
     ('Success isn''t always about greatness. It''s about consistency.', 'it',
-     'Il successo non riguarda sempre la grandezza. Riguarda la costanza.');
+     'Il successo non riguarda sempre la grandezza. Riguarda la costanza.'),
+    ('Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.', 'it',
+     'Il successo non è un caso. È duro lavoro, perseveranza, apprendimento, studio, sacrificio e, soprattutto, amore per ciò che si fa.');
