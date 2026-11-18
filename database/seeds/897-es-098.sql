@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.', 'es',
      'Quien avanza con confianza en la dirección de sus sueños encuentra un éxito inesperado en las horas más comunes.'),
     ('Our truest life is when we are in dreams awake.', 'es',
-     'Nuestra vida más verdadera es cuando soñamos despiertos.');
+     'Nuestra vida más verdadera es cuando soñamos despiertos.'),
+    ('Go as far as you can see; when you get there, you''ll be able to see farther.', 'es',
+     'Ve hasta donde alcances a ver; cuando llegues allí, podrás ver más lejos.');
