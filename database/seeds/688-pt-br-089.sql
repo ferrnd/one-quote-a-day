@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I don''t stop when I''m tired. I stop when I''m done.', 'pt-BR',
      'Não paro quando estou cansado. Paro quando termino.'),
     ('The only easy day was yesterday.', 'pt-BR',
-     'O único dia fácil foi ontem.');
+     'O único dia fácil foi ontem.'),
+    ('In a gentle way, you can shake the world.', 'pt-BR',
+     'Com delicadeza, você pode sacudir o mundo.');
