@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('However difficult life may seem, there is always something you can do and succeed at.', 'it',
      'Per quanto difficile possa sembrare la vita, c''è sempre qualcosa che puoi fare e in cui puoi riuscire.'),
     ('I have no special talents. I am only passionately curious.', 'it',
-     'Non ho talenti particolari. Sono solo appassionatamente curioso.');
+     'Non ho talenti particolari. Sono solo appassionatamente curioso.'),
+    ('Try not to become a man of success, but rather try to become a man of value.', 'it',
+     'Cerca di non diventare un uomo di successo, ma piuttosto un uomo di valore.');
