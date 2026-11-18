@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'de',
      'Scheitern passiert ständig. Es passiert jeden Tag im Training. Was dich besser macht, ist, wie du darauf reagierst.'),
     ('There are no mistakes or failures, only lessons.', 'de',
-     'Es gibt keine Fehler und kein Scheitern, nur Lektionen.');
+     'Es gibt keine Fehler und kein Scheitern, nur Lektionen.'),
+    ('I have learned more from my mistakes than from my successes.', 'de',
+     'Ich habe aus meinen Fehlern mehr gelernt als aus meinen Erfolgen.');
