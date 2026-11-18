@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is the condiment that gives success its flavor.', 'fr',
      'L''échec est le condiment qui donne sa saveur au succès.'),
     ('It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.', 'fr',
-     'Il est impossible de vivre sans échouer en quelque chose, à moins de vivre avec tant de prudence que c''est comme si l''on n''avait pas vécu.');
+     'Il est impossible de vivre sans échouer en quelque chose, à moins de vivre avec tant de prudence que c''est comme si l''on n''avait pas vécu.'),
+    ('Rock bottom became the solid foundation on which I rebuilt my life.', 'fr',
+     'Toucher le fond est devenu la base solide sur laquelle j''ai reconstruit ma vie.');
