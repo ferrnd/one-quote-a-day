@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fear is only as deep as the mind allows.', 'de',
      'Angst ist nur so tief, wie der Verstand es zulässt.'),
     ('Everything you''ve ever wanted is on the other side of fear.', 'de',
-     'Alles, was du dir je gewünscht hast, liegt auf der anderen Seite der Angst.');
+     'Alles, was du dir je gewünscht hast, liegt auf der anderen Seite der Angst.'),
+    ('Inaction breeds doubt and fear. Action breeds confidence and courage.', 'de',
+     'Untätigkeit erzeugt Zweifel und Angst. Handeln erzeugt Zuversicht und Mut.');
