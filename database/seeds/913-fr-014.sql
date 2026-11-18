@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.', 'fr',
      'Ressemble au promontoire contre lequel les vagues se brisent sans cesse : il reste debout et calme la fureur des flots autour de lui.'),
     ('Mighty oaks from little acorns grow.', 'fr',
-     'Les grands chênes naissent de petits glands.');
+     'Les grands chênes naissent de petits glands.'),
+    ('It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.', 'fr',
+     'Ce n''est pas parce que les choses sont difficiles que nous n''osons pas, c''est parce que nous n''osons pas qu''elles sont difficiles.');
