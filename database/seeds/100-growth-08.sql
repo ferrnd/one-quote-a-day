@@ -8,4 +8,5 @@ INSERT INTO intake (body, author, theme) VALUES
     ('Our business in life is not to get ahead of others, but to get ahead of ourselves.', 'E. Joseph Cossman', 'growth'),
     ('To be what we are, and to become what we are capable of becoming, is the only end of life.', 'Robert Louis Stevenson', 'growth'),
     ('What the caterpillar calls the end of the world the master calls a butterfly.', 'Richard Bach', 'growth'),
-    ('If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.', 'Zig Ziglar', 'growth');
+    ('If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.', 'Zig Ziglar', 'growth'),
+    ('In the long run, we shape our lives, and we shape ourselves.', 'Eleanor Roosevelt', 'growth');
