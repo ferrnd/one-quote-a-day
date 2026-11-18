@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When it is dark enough, you can see the stars.', 'nl',
      'Als het donker genoeg is, kun je de sterren zien.'),
     ('Fire is the test of gold; adversity, of strong men.', 'nl',
-     'Vuur is de toets van goud; tegenspoed die van sterke mensen.');
+     'Vuur is de toets van goud; tegenspoed die van sterke mensen.'),
+    ('Difficulties strengthen the mind, as labor does the body.', 'nl',
+     'Moeilijkheden versterken de geest, zoals arbeid het lichaam versterkt.');
