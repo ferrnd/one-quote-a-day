@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you can imagine it, you can achieve it.', 'pt-BR',
      'Se você consegue imaginar, consegue realizar.'),
     ('The dreamers are the saviors of the world.', 'pt-BR',
-     'Os sonhadores são os salvadores do mundo.');
+     'Os sonhadores são os salvadores do mundo.'),
+    ('Dream lofty dreams, and as you dream, so shall you become.', 'pt-BR',
+     'Sonhe sonhos elevados, e assim como você sonha, assim você se tornará.');
