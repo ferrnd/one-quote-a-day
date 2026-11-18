@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Where there is no struggle, there is no strength.', 'fr',
      'Là où il n''y a pas de lutte, il n''y a pas de force.'),
     ('Turn your wounds into wisdom.', 'fr',
-     'Transforme tes blessures en sagesse.');
+     'Transforme tes blessures en sagesse.'),
+    ('When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.', 'fr',
+     'Quand tout semble aller contre toi, souviens-toi que l''avion décolle face au vent, et non avec lui.');
