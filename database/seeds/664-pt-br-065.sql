@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Stay hungry, stay foolish.', 'pt-BR',
      'Continue faminto, continue tolo.'),
     ('Your time is limited, so don''t waste it living someone else''s life.', 'pt-BR',
-     'Seu tempo é limitado, então não o desperdice vivendo a vida de outra pessoa.');
+     'Seu tempo é limitado, então não o desperdice vivendo a vida de outra pessoa.'),
+    ('If you are working on something exciting that you really care about, you don''t have to be pushed. The vision pulls you.', 'pt-BR',
+     'Se você está trabalhando em algo empolgante, com que realmente se importa, não precisa ser empurrado. A visão puxa você.');
