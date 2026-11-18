@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t give up. Don''t ever give up.', 'nl',
      'Geef niet op. Geef nooit op.'),
     ('Many people have gone further than they thought they could because someone else thought they could.', 'nl',
-     'Veel mensen zijn verder gekomen dan ze dachten, omdat iemand anders geloofde dat ze het konden.');
+     'Veel mensen zijn verder gekomen dan ze dachten, omdat iemand anders geloofde dat ze het konden.'),
+    ('You can''t climb the ladder of success with your hands in your pockets.', 'nl',
+     'Je kunt de ladder van succes niet beklimmen met je handen in je zakken.');
