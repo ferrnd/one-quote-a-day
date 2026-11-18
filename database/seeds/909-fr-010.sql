@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grief and resilience live together.', 'fr',
      'Le deuil et la résilience vont de pair.'),
     ('It''s not whether you get knocked down; it''s whether you get up.', 'fr',
-     'Ce qui compte, ce n''est pas d''être mis à terre, c''est de se relever.');
+     'Ce qui compte, ce n''est pas d''être mis à terre, c''est de se relever.'),
+    ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'fr',
+     'Ce n''est pas la force de tes coups qui compte. C''est ta capacité à encaisser et à continuer d''avancer.');
