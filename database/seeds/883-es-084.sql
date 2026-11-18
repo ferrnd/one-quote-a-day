@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be water, my friend.', 'es',
      'Sé agua, amigo mío.'),
     ('Hard days are the best because that''s when champions are made.', 'es',
-     'Los días difíciles son los mejores, porque es cuando se forjan los campeones.');
+     'Los días difíciles son los mejores, porque es cuando se forjan los campeones.'),
+    ('There is always light, if only we''re brave enough to see it. If only we''re brave enough to be it.', 'es',
+     'Siempre hay luz, si tenemos el valor de verla. Si tenemos el valor de serla.');
