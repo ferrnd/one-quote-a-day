@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Mountains cannot be surmounted except by winding paths.', 'es',
      'Las montañas no se superan sino por caminos sinuosos.'),
     ('Pain is inevitable. Suffering is optional.', 'es',
-     'El dolor es inevitable. El sufrimiento es opcional.');
+     'El dolor es inevitable. El sufrimiento es opcional.'),
+    ('Problems are only opportunities in work clothes.', 'es',
+     'Los problemas son solo oportunidades con ropa de trabajo.');
