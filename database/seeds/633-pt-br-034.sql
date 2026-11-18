@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rest at the end, not in the middle.', 'pt-BR',
      'Descanse no fim, não no meio.'),
     ('There are no shortcuts to any place worth going.', 'pt-BR',
-     'Não existem atalhos para nenhum lugar que valha a pena.');
+     'Não existem atalhos para nenhum lugar que valha a pena.'),
+    ('The only place where success comes before work is in the dictionary.', 'pt-BR',
+     'O único lugar onde o sucesso vem antes do trabalho é no dicionário.');
