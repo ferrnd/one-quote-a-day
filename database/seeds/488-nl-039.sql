@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Persist and persevere, and you will find most things that are attainable, possible.', 'nl',
      'Houd vol en zet door, en je zult merken dat de meeste haalbare dingen mogelijk zijn.'),
     ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'nl',
-     'De meeste mensen geven op net als ze op het punt staan succes te boeken. Ze stoppen vlak voor de eindstreep.');
+     'De meeste mensen geven op net als ze op het punt staan succes te boeken. Ze stoppen vlak voor de eindstreep.'),
+    ('If you are going to doubt something, doubt your limits.', 'nl',
+     'Als je ergens aan gaat twijfelen, twijfel dan aan je grenzen.');
