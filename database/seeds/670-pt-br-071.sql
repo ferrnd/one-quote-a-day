@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Tell me, what is it you plan to do with your one wild and precious life?', 'pt-BR',
      'Me diga, o que você pretende fazer com a sua única vida, selvagem e preciosa?'),
     ('Two roads diverged in a wood, and I, I took the one less traveled by, and that has made all the difference.', 'pt-BR',
-     'Dois caminhos se separavam num bosque, e eu, eu escolhi o menos percorrido, e isso fez toda a diferença.');
+     'Dois caminhos se separavam num bosque, e eu, eu escolhi o menos percorrido, e isso fez toda a diferença.'),
+    ('Not all those who wander are lost.', 'pt-BR',
+     'Nem todos os que vagueiam estão perdidos.');
