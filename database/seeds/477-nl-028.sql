@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Optimism is the one quality more associated with success and happiness than any other.', 'nl',
      'Optimisme is de eigenschap die meer dan enige andere met succes en geluk wordt geassocieerd.'),
     ('Believe in yourself! Have faith in your abilities!', 'nl',
-     'Geloof in jezelf! Heb vertrouwen in je kunnen!');
+     'Geloof in jezelf! Heb vertrouwen in je kunnen!'),
+    ('You must expect great things of yourself before you can do them.', 'nl',
+     'Je moet grote dingen van jezelf verwachten voordat je ze kunt doen.');
