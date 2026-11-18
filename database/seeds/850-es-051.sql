@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Setting goals is the first step in turning the invisible into the visible.', 'es',
      'Fijarse metas es el primer paso para convertir lo invisible en visible.'),
     ('Opportunities don''t happen. You create them.', 'es',
-     'Las oportunidades no suceden. Las creas tú.');
+     'Las oportunidades no suceden. Las creas tú.'),
+    ('Doubt kills more dreams than failure ever will.', 'es',
+     'La duda mata más sueños de los que el fracaso matará jamás.');
