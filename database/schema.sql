@@ -138,3 +138,74 @@ CREATE TABLE calendar (
                                  AND strftime('%Y-%m-%d', julianday(launch_day)) = launch_day),
     legacy_quotes INTEGER NOT NULL CHECK (legacy_quotes >= 3)
 ) STRICT;
+
+-- @section locales -----------------------------------------------------------
+--  Languages the site speaks. English is the source language at position 0;
+--  every other locale carries a hand-made translation of every quote.
+
+CREATE TABLE locales (
+    code     TEXT    PRIMARY KEY
+                     CHECK (code GLOB '[a-z][a-z]' OR code GLOB '[a-z][a-z]-[A-Z][A-Z]'),
+    name     TEXT    NOT NULL CHECK (length(name) BETWEEN 2 AND 40),
+    position INTEGER NOT NULL UNIQUE CHECK (position >= 0)
+) STRICT;
+
+-- @section translations ------------------------------------------------------
+--  Translations are written by hand to carry the meaning of each quote, not
+--  its words. Seeds refer to quotes by their English text, so a typo in a
+--  seed aborts the build instead of attaching a translation to the wrong quote.
+
+CREATE TABLE quote_translations (
+    quote_id INTEGER NOT NULL REFERENCES quotes (id) ON DELETE CASCADE,
+    locale   TEXT    NOT NULL REFERENCES locales (code),
+    body     TEXT    NOT NULL CHECK (length(body) BETWEEN 2 AND 320 AND body = trim(body)),
+    PRIMARY KEY (quote_id, locale)
+) STRICT;
+
+CREATE TABLE author_translations (
+    author_id INTEGER NOT NULL REFERENCES authors (id) ON DELETE CASCADE,
+    locale    TEXT    NOT NULL REFERENCES locales (code),
+    name      TEXT    NOT NULL CHECK (length(name) BETWEEN 2 AND 64 AND name = trim(name)),
+    PRIMARY KEY (author_id, locale)
+) STRICT;
+
+CREATE TABLE dedication_translations (
+    dedication_id INTEGER NOT NULL REFERENCES dedications (id) ON DELETE CASCADE,
+    locale        TEXT    NOT NULL REFERENCES locales (code),
+    body          TEXT    NOT NULL CHECK (length(body) BETWEEN 2 AND 320 AND body = trim(body)),
+    author        TEXT,
+    PRIMARY KEY (dedication_id, locale)
+) STRICT;
+
+CREATE VIEW translation_intake AS
+    SELECT q.body AS original, t.locale AS locale, t.body AS body
+      FROM quote_translations t
+      JOIN quotes q ON q.id = t.quote_id;
+
+CREATE TRIGGER translation_intake_insert INSTEAD OF INSERT ON translation_intake
+BEGIN
+    SELECT RAISE(ABORT, 'translation: no quote has this English text')
+     WHERE NOT EXISTS (SELECT 1 FROM quotes WHERE body = NEW.original);
+    INSERT INTO quote_translations (quote_id, locale, body)
+    VALUES ((SELECT id FROM quotes WHERE body = NEW.original), NEW.locale, NEW.body);
+END;
+
+CREATE VIEW author_translation_intake AS
+    SELECT a.name AS original, t.locale AS locale, t.name AS name
+      FROM author_translations t
+      JOIN authors a ON a.id = t.author_id;
+
+CREATE TRIGGER author_translation_intake_insert INSTEAD OF INSERT ON author_translation_intake
+BEGIN
+    SELECT RAISE(ABORT, 'author translation: unknown author')
+     WHERE NOT EXISTS (SELECT 1 FROM authors WHERE name = NEW.original);
+    INSERT INTO author_translations (author_id, locale, name)
+    VALUES ((SELECT id FROM authors WHERE name = NEW.original), NEW.locale, NEW.name);
+END;
+
+CREATE VIEW translation_stats AS
+    SELECT l.code AS locale, l.name AS name, count(t.quote_id) AS translated
+      FROM locales l
+ LEFT JOIN quote_translations t ON t.locale = l.code
+  GROUP BY l.code
+  ORDER BY l.position;
