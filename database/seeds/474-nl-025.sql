@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you spend too much time thinking about a thing, you''ll never get it done.', 'nl',
      'Als je te lang over iets nadenkt, krijg je het nooit gedaan.'),
     ('What you do speaks so loudly that I cannot hear what you say.', 'nl',
-     'Wat je doet spreekt zo luid dat ik niet kan horen wat je zegt.');
+     'Wat je doet spreekt zo luid dat ik niet kan horen wat je zegt.'),
+    ('Go confidently in the direction of your dreams. Live the life you have imagined.', 'nl',
+     'Ga vol vertrouwen in de richting van je dromen. Leef het leven dat je je hebt voorgesteld.');
