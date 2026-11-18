@@ -43,7 +43,7 @@ class DatabaseTest(unittest.TestCase):
 
     def test_seed_files_hold_at_most_ten_quotes(self):
         for path in database.seed_files(DB):
-            if path.name.startswith("000-"):
+            if "INSERT INTO intake" not in path.read_text(encoding="utf-8"):
                 continue
             rows = path.read_text(encoding="utf-8").count("\n    (")
             self.assertLessEqual(rows, 10, path.name)

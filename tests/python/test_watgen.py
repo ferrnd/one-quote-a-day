@@ -26,8 +26,10 @@ class WatgenTest(unittest.TestCase):
         n = len(self.catalog)
         layout = self.layout
         self.assertEqual(layout.records_ptr, watgen.HEADER_SIZE)
-        records = n + len(self.catalog.dedications)
-        self.assertEqual(layout.pool_ptr, layout.records_ptr + records * watgen.RECORD_SIZE)
+        records = (n + len(self.catalog.dedications)) * len(self.catalog.locales)
+        self.assertEqual(layout.locales_ptr, layout.records_ptr + records * watgen.RECORD_SIZE)
+        self.assertEqual(layout.pool_ptr,
+                         layout.locales_ptr + len(self.catalog.locales) * watgen.LOCALE_SIZE)
         self.assertGreaterEqual(layout.dedications_ptr, layout.pool_ptr + len(layout.pool))
         self.assertGreaterEqual(layout.schedule_ptr, layout.dedications_ptr + 8 * len(self.catalog.dedications))
         self.assertGreaterEqual(layout.schedule_ptr, layout.pool_ptr + len(layout.pool))
@@ -37,7 +39,7 @@ class WatgenTest(unittest.TestCase):
     def test_pointers_land_on_their_strings(self):
         pool, base = self.layout.pool, self.layout.pool_ptr
         for quote, (ptr, length) in zip(self.catalog.quotes, self.layout.quote_ptrs):
-            self.assertEqual(pool[ptr - base:ptr - base + length].decode(), quote.body)
+            self.assertEqual(pool[ptr - base:ptr - base + length].decode("utf-8"), quote.body)
         for name, (ptr, length) in zip(self.catalog.authors, self.layout.author_ptrs):
             self.assertEqual(pool[ptr - base:ptr - base + length].decode(), name)
 
