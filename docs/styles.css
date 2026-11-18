@@ -117,16 +117,18 @@ main {
 
 .day-counter {
   position: fixed;
-  left: clamp(1rem, 3vw, 2rem);
+  right: clamp(1rem, 3vw, 2rem);
   bottom: clamp(1rem, 3vw, 1.75rem);
   padding: 0.4rem 0;
   border: 0;
   background: none;
   color: var(--ink);
   opacity: 0.4;
-  font: 500 0.72rem/1 var(--serif);
-  letter-spacing: 0.3em;
+  font: 700 0.95rem/1 "Inter", "Helvetica Neue", Arial, sans-serif;
+  font-variant-numeric: tabular-nums lining-nums;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
+  white-space: nowrap;
   cursor: pointer;
   transition: opacity 300ms ease;
 }
