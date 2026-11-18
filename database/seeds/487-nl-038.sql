@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Each person must live their life as a model for others.', 'nl',
      'Ieder mens moet zijn leven leiden als voorbeeld voor anderen.'),
     ('If you don''t like the road you''re walking, start paving another one.', 'nl',
-     'Als je de weg die je loopt niet bevalt, begin dan een andere te bestraten.');
+     'Als je de weg die je loopt niet bevalt, begin dan een andere te bestraten.'),
+    ('You get in life what you have the courage to ask for.', 'nl',
+     'Je krijgt van het leven waar je de moed voor hebt om het te vragen.');
