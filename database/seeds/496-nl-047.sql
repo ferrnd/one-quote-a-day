@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Optimism is essential to achievement and it is also the foundation of courage and true progress.', 'nl',
      'Optimisme is essentieel voor prestaties en ook de basis van moed en ware vooruitgang.'),
     ('You are what you believe yourself to be.', 'nl',
-     'Je bent wat je gelooft te zijn.');
+     'Je bent wat je gelooft te zijn.'),
+    ('Believe and act as if it were impossible to fail.', 'nl',
+     'Geloof en handel alsof het onmogelijk is te falen.');
