@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The secret of success is constancy to purpose.', 'nl',
      'Het geheim van succes is standvastigheid in je doel.'),
     ('Persist and persevere, and you will find most things that are attainable, possible.', 'nl',
-     'Houd vol en zet door, en je zult merken dat de meeste haalbare dingen mogelijk zijn.');
+     'Houd vol en zet door, en je zult merken dat de meeste haalbare dingen mogelijk zijn.'),
+    ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'nl',
+     'De meeste mensen geven op net als ze op het punt staan succes te boeken. Ze stoppen vlak voor de eindstreep.');
