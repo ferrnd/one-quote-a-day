@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is not the key to happiness. Happiness is the key to success.', 'nl',
      'Succes is niet de sleutel tot geluk. Geluk is de sleutel tot succes.'),
     ('Patience is the calm acceptance that things can happen in a different order than the one you have in mind.', 'nl',
-     'Geduld is de kalme aanvaarding dat dingen in een andere volgorde kunnen gebeuren dan je in gedachten hebt.');
+     'Geduld is de kalme aanvaarding dat dingen in een andere volgorde kunnen gebeuren dan je in gedachten hebt.'),
+    ('Patience and fortitude conquer all things.', 'nl',
+     'Geduld en standvastigheid overwinnen alles.');
