@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I took a deep breath and listened to the old brag of my heart: I am, I am, I am.', 'de',
      'Ich holte tief Luft und lauschte dem alten Prahlen meines Herzens: Ich bin, ich bin, ich bin.'),
     ('Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.', 'de',
-     'Vielleicht sind alle Drachen unseres Lebens Prinzessinnen, die nur darauf warten, uns einmal schön und mutig zu sehen.');
+     'Vielleicht sind alle Drachen unseres Lebens Prinzessinnen, die nur darauf warten, uns einmal schön und mutig zu sehen.'),
+    ('What would you attempt to do if you knew you would not fail?', 'de',
+     'Was würdest du versuchen, wenn du wüsstest, dass du nicht scheitern kannst?');
