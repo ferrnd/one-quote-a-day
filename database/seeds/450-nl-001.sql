@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am a slow walker, but I never walk back.', 'nl',
      'Ik loop langzaam, maar ik loop nooit terug.'),
     ('Great works are performed not by strength but by perseverance.', 'nl',
-     'Grote werken worden niet volbracht door kracht, maar door volharding.');
+     'Grote werken worden niet volbracht door kracht, maar door volharding.'),
+    ('Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.', 'nl',
+     'Geduld en doorzettingsvermogen hebben een magische uitwerking waarvoor moeilijkheden verdwijnen en obstakels oplossen.');
