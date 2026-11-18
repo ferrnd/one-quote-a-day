@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.', 'nl',
      'Succes is geen toeval. Het is hard werken, doorzettingsvermogen, leren, studeren, opoffering en vooral liefde voor wat je doet.'),
     ('The will to win is important, but the will to prepare is vital.', 'nl',
-     'De wil om te winnen is belangrijk, maar de wil om je voor te bereiden is essentieel.');
+     'De wil om te winnen is belangrijk, maar de wil om je voor te bereiden is essentieel.'),
+    ('I never dreamed about success. I worked for it.', 'nl',
+     'Ik heb nooit van succes gedroomd. Ik heb ervoor gewerkt.');
