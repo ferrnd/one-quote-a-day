@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One fails forward toward success.', 'it',
      'Si avanza verso il successo fallendo.'),
     ('Failure is the key to success; each mistake teaches us something.', 'it',
-     'Il fallimento è la chiave del successo; ogni errore ci insegna qualcosa.');
+     'Il fallimento è la chiave del successo; ogni errore ci insegna qualcosa.'),
+    ('You always pass failure on your way to success.', 'it',
+     'Sulla strada del successo si passa sempre dal fallimento.');
