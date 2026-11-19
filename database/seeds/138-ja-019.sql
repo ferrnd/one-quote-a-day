@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wait; the time will never be just right.', 'ja',
      '待つな。ちょうどいい時など永遠に来ない。'),
     ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'ja',
-     '知るだけでは不十分だ。応用しなければならない。意志だけでは不十分だ。実行しなければならない。');
+     '知るだけでは不十分だ。応用しなければならない。意志だけでは不十分だ。実行しなければならない。'),
+    ('Action may not always bring happiness; but there is no happiness without action.', 'ja',
+     '行動が常に幸福をもたらすとは限らない。だが、行動なくして幸福はない。');
