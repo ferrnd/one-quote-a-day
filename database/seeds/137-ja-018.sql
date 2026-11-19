@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity is like a strong wind. It tears away from us all but the things that cannot be torn, so that we see ourselves as we really are.', 'ja',
      '逆境は強い風のようなものだ。引きはがせないもの以外のすべてを私たちから引きはがし、ありのままの自分を見せてくれる。'),
     ('What makes the desert beautiful is that somewhere it hides a well.', 'ja',
-     '砂漠が美しいのは、どこかに井戸を隠しているからだよ。');
+     '砂漠が美しいのは、どこかに井戸を隠しているからだよ。'),
+    ('The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.', 'ja',
+     '悲観主義者はあらゆる好機の中に困難を見る。楽観主義者はあらゆる困難の中に好機を見る。');
