@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is not how high you have climbed, but how you make a positive difference to the world.', 'zh-CN',
      '成功不在于你爬得多高，而在于你如何为世界带来积极的改变。'),
     ('The best revenge is massive success.', 'zh-CN',
-     '最好的报复是巨大的成功。');
+     '最好的报复是巨大的成功。'),
+    ('Grief can be the garden of compassion.', 'zh-CN',
+     '悲伤可以成为慈悲的花园。');
