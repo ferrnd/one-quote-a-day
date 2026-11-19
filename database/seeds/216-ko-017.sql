@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Kites rise highest against the wind, not with it.', 'ko',
      '연은 바람을 등지고가 아니라 바람을 안고 가장 높이 오른다.'),
     ('Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant.', 'ko',
-     '역경은 순탄한 환경이었다면 잠들어 있었을 재능을 끌어낸다.');
+     '역경은 순탄한 환경이었다면 잠들어 있었을 재능을 끌어낸다.'),
+    ('The block of granite which was an obstacle in the path of the weak becomes a stepping stone in the path of the strong.', 'ko',
+     '약한 사람의 길에서는 장애물이었던 화강암 덩어리가 강한 사람의 길에서는 디딤돌이 된다.');
