@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Quality means doing it right when no one is looking.', 'zh-CN',
      '质量就是在没有人看的时候也把事情做好。'),
     ('The last three or four reps is what makes the muscle grow.', 'zh-CN',
-     '最后那三四次重复，才是让肌肉生长的关键。');
+     '最后那三四次重复，才是让肌肉生长的关键。'),
+    ('Self-discipline begins with the mastery of your thoughts.', 'zh-CN',
+     '自律始于掌控自己的思想。');
