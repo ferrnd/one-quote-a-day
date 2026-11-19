@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Turn your face to the sun and the shadows fall behind you.', 'ja',
      '顔を太陽に向けなさい。そうすれば影はあなたの後ろにできる。'),
     ('A man of character finds a special attractiveness in difficulty.', 'ja',
-     '気骨のある人は、困難の中に特別な魅力を見いだす。');
+     '気骨のある人は、困難の中に特別な魅力を見いだす。'),
+    ('Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.', 'ja',
+     '困難は人を奮い立たせるためにあり、くじけさせるためにあるのではない。人の精神は、葛藤によって強くなるのだ。');
