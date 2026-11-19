@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Clear thinking requires courage rather than intelligence.', 'ko',
      '명료한 사고에는 지성보다 용기가 필요하다.'),
     ('It''s not the load that breaks you down, it''s the way you carry it.', 'ko',
-     '당신을 무너뜨리는 것은 짐이 아니라 그것을 지는 방식이다.');
+     '당신을 무너뜨리는 것은 짐이 아니라 그것을 지는 방식이다.'),
+    ('Ability is what you''re capable of doing. Motivation determines what you do. Attitude determines how well you do it.', 'ko',
+     '능력은 당신이 할 수 있는 것이다. 동기는 당신이 무엇을 할지 결정한다. 태도는 그것을 얼마나 잘할지 결정한다.');
