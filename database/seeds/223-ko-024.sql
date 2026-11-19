@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Trees that are slow to grow bear the best fruit.', 'ko',
      '느리게 자라는 나무가 가장 좋은 열매를 맺는다.'),
     ('Genius is eternal patience.', 'ko',
-     '천재란 영원한 인내다.');
+     '천재란 영원한 인내다.'),
+    ('Patience is the companion of wisdom.', 'ko',
+     '인내는 지혜의 동반자다.');
