@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let us be of good cheer, remembering that the misfortunes hardest to bear are those which never come.', 'ko',
      '기운을 내자. 가장 견디기 힘든 불행은 결코 오지 않는 불행이라는 것을 기억하면서.'),
     ('The best way to cheer yourself up is to try to cheer somebody else up.', 'ko',
-     '자신을 기운 나게 하는 가장 좋은 방법은 다른 누군가를 기운 나게 해 주려고 애쓰는 것이다.');
+     '자신을 기운 나게 하는 가장 좋은 방법은 다른 누군가를 기운 나게 해 주려고 애쓰는 것이다.'),
+    ('When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.', 'ko',
+     '해가 빛나면 나는 무엇이든 할 수 있다. 너무 높은 산도, 극복하기 너무 힘든 어려움도 없다.');
