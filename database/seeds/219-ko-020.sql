@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never mistake motion for action.', 'ko',
      '움직임을 행동으로 착각하지 마라.'),
     ('Don''t let yesterday take up too much of today.', 'ko',
-     '어제가 오늘을 너무 많이 차지하게 두지 마라.');
+     '어제가 오늘을 너무 많이 차지하게 두지 마라.'),
+    ('Even if you''re on the right track, you''ll get run over if you just sit there.', 'ko',
+     '올바른 선로 위에 있더라도 가만히 앉아 있으면 치이고 만다.');
