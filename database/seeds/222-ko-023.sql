@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Man is not worried by real problems so much as by his imagined anxieties about real problems.', 'ko',
      '사람을 괴롭히는 것은 실제 문제라기보다 실제 문제에 대해 상상한 불안이다.'),
     ('If you think you are beaten, you are.', 'ko',
-     '졌다고 생각하면, 당신은 진 것이다.');
+     '졌다고 생각하면, 당신은 진 것이다.'),
+    ('Sooner or later the man who wins is the man who thinks he can.', 'ko',
+     '머지않아 이기는 사람은 할 수 있다고 생각하는 사람이다.');
