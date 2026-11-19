@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not afraid of storms, for I am learning how to sail my ship.', 'ja',
      '嵐は怖くない。私は自分の船の操り方を学んでいるのだから。'),
     ('A ship in harbor is safe, but that is not what ships are built for.', 'ja',
-     '港にいる船は安全だが、船はそのために造られたのではない。');
+     '港にいる船は安全だが、船はそのために造られたのではない。'),
+    ('The cave you fear to enter holds the treasure you seek.', 'ja',
+     '入るのが怖いその洞窟にこそ、あなたが探している宝がある。');
