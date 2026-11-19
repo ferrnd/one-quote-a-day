@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Victory belongs to the most persevering.', 'ko',
      '승리는 가장 끈질긴 자의 것이다.'),
     ('With ordinary talent and extraordinary perseverance, all things are attainable.', 'ko',
-     '평범한 재능과 비범한 끈기가 있다면 무엇이든 이룰 수 있다.');
+     '평범한 재능과 비범한 끈기가 있다면 무엇이든 이룰 수 있다.'),
+    ('The drops of rain make a hole in the stone, not by violence, but by oft falling.', 'ko',
+     '빗방울이 돌에 구멍을 내는 것은 세차게 떨어져서가 아니라 자주 떨어지기 때문이다.');
