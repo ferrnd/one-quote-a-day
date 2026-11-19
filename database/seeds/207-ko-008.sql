@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything can be taken from a man but one thing: the last of the human freedoms, to choose one''s attitude in any given set of circumstances.', 'ko',
      '인간에게서 모든 것을 빼앗을 수 있지만 단 하나는 빼앗을 수 없다. 어떤 상황에서도 자신의 태도를 선택할 수 있는, 인간의 마지막 자유다.'),
     ('The bamboo that bends is stronger than the oak that resists.', 'ko',
-     '휘어지는 대나무가 버티는 참나무보다 강하다.');
+     '휘어지는 대나무가 버티는 참나무보다 강하다.'),
+    ('Hardships often prepare ordinary people for an extraordinary destiny.', 'ko',
+     '고난은 종종 평범한 사람을 비범한 운명에 대비시킨다.');
