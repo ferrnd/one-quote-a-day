@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life can only be understood backwards; but it must be lived forwards.', 'zh-CN',
      '人生只能向后理解，但必须向前生活。'),
     ('Beginnings are always messy.', 'zh-CN',
-     '开头总是一团糟。');
+     '开头总是一团糟。'),
+    ('Vision is the art of seeing what is invisible to others.', 'zh-CN',
+     '远见是看见别人看不见之物的艺术。');
