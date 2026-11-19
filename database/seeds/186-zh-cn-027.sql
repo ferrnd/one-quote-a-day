@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All our dreams can come true, if we have the courage to pursue them.', 'zh-CN',
      '只要我们有勇气去追求，所有的梦想都能成真。'),
     ('First, think. Second, dream. Third, believe. And finally, dare.', 'zh-CN',
-     '第一，思考；第二，梦想；第三，相信；最后，勇于行动。');
+     '第一，思考；第二，梦想；第三，相信；最后，勇于行动。'),
+    ('A dream you dream alone is only a dream. A dream you dream together is reality.', 'zh-CN',
+     '一个人做的梦只是梦，一起做的梦就是现实。');
