@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The road to success is always under construction.', 'ja',
      '成功への道は、いつも工事中だ。'),
     ('Ambition is enthusiasm with a purpose.', 'ja',
-     '大志とは、目的を持った情熱である。');
+     '大志とは、目的を持った情熱である。'),
+    ('Dreams are illustrations from the book your soul is writing about you.', 'ja',
+     '夢とは、あなたの魂があなたについて書いている本の挿絵である。');
