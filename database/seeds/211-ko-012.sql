@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength does not come from winning. Your struggles develop your strengths.', 'ko',
      '힘은 이기는 데서 오지 않는다. 당신의 투쟁이 당신의 힘을 길러 준다.'),
     ('Strength is a matter of the made-up mind.', 'ko',
-     '힘이란 마음을 굳게 정하는 데 달려 있다.');
+     '힘이란 마음을 굳게 정하는 데 달려 있다.'),
+    ('I am the master of my fate, I am the captain of my soul.', 'ko',
+     '나는 내 운명의 주인이요, 내 영혼의 선장이다.');
