@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only easy day was yesterday.', 'ja',
      '楽だった日は、昨日だけだ。'),
     ('In a gentle way, you can shake the world.', 'ja',
-     '穏やかなやり方で、世界を揺るがすことができる。');
+     '穏やかなやり方で、世界を揺るがすことができる。'),
+    ('Re-examine all you have been told; dismiss what insults your soul.', 'ja',
+     'これまで聞かされてきたことをすべて見直し、自分の魂を侮辱するものは捨て去れ。');
