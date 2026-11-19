@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Argue for your limitations, and sure enough they''re yours.', 'zh-CN',
      '为你的局限辩护，它们就真的会成为你的局限。'),
     ('Success is liking yourself, liking what you do, and liking how you do it.', 'zh-CN',
-     '成功就是喜欢你自己，喜欢你所做的事，并喜欢你做事的方式。');
+     '成功就是喜欢你自己，喜欢你所做的事，并喜欢你做事的方式。'),
+    ('The soul becomes dyed with the color of its thoughts.', 'zh-CN',
+     '灵魂会被它的思想染上颜色。');
