@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t climb the ladder of success with your hands in your pockets.', 'ko',
      '주머니에 손을 넣은 채로는 성공의 사다리를 오를 수 없다.'),
     ('Today''s accomplishments were yesterday''s impossibilities.', 'ko',
-     '오늘의 성취는 어제의 불가능이었다.');
+     '오늘의 성취는 어제의 불가능이었다.'),
+    ('Nothing is particularly hard if you divide it into small jobs.', 'ko',
+     '작은 일들로 나누면 특별히 어려운 일은 없다.');
