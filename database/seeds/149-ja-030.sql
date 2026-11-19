@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sometimes even to live is an act of courage.', 'ja',
      'ときには、生きることさえ勇気ある行為である。'),
     ('If a man knows not to which port he sails, no wind is favorable.', 'ja',
-     'どの港を目指すのかわからない者には、どんな風も追い風にならない。');
+     'どの港を目指すのかわからない者には、どんな風も追い風にならない。'),
+    ('Luck is what happens when preparation meets opportunity.', 'ja',
+     '幸運とは、準備が機会に出会ったときに起こるものだ。');
