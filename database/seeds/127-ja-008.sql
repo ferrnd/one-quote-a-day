@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s not whether you get knocked down; it''s whether you get up.', 'ja',
      '大事なのは倒されるかどうかではない。立ち上がるかどうかだ。'),
     ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'ja',
-     '大事なのは、どれだけ強く打つかじゃない。どれだけ強く打たれても前に進み続けられるかだ。');
+     '大事なのは、どれだけ強く打つかじゃない。どれだけ強く打たれても前に進み続けられるかだ。'),
+    ('A good half of the art of living is resilience.', 'ja',
+     '生きる技術の半分は、立ち直る力である。');
