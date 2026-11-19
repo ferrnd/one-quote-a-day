@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.', 'zh-CN',
      '衡量一个人的最终标准，不是看他在舒适和便利时站在哪里，而是看他在挑战和争议时站在哪里。'),
     ('Darkness cannot drive out darkness; only light can do that.', 'zh-CN',
-     '黑暗不能驱散黑暗，只有光明才能做到。');
+     '黑暗不能驱散黑暗，只有光明才能做到。'),
+    ('Faith is taking the first step even when you don''t see the whole staircase.', 'zh-CN',
+     '信念就是即使看不到整段楼梯，也迈出第一步。');
