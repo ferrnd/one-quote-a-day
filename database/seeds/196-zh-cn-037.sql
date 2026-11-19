@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Eighty percent of success is showing up.', 'zh-CN',
      '成功的百分之八十在于露面。'),
     ('You can''t build a reputation on what you are going to do.', 'zh-CN',
-     '你无法靠你打算要做的事情来建立名声。');
+     '你无法靠你打算要做的事情来建立名声。'),
+    ('You may delay, but time will not.', 'zh-CN',
+     '你可以拖延，但时间不会。');
