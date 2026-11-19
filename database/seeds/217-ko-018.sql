@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity reveals genius, prosperity conceals it.', 'ko',
      '역경은 재능을 드러내고, 번영은 그것을 감춘다.'),
     ('When the going gets tough, the tough get going.', 'ko',
-     '상황이 힘들어지면 강한 사람이 나선다.');
+     '상황이 힘들어지면 강한 사람이 나선다.'),
+    ('A hero is no braver than an ordinary man, but he is brave five minutes longer.', 'ko',
+     '영웅은 보통 사람보다 더 용감한 것이 아니라, 5분 더 오래 용감할 뿐이다.');
