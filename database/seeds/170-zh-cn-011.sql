@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is often in the darkest skies that we see the brightest stars.', 'zh-CN',
      '往往在最黑暗的天空中，我们才能看到最明亮的星星。'),
     ('Strength and growth come only through continuous effort and struggle.', 'zh-CN',
-     '力量与成长只能来自持续的努力和奋斗。');
+     '力量与成长只能来自持续的努力和奋斗。'),
+    ('Out of your vulnerabilities will come your strength.', 'zh-CN',
+     '你的力量将来自你的脆弱。');
