@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every failure is a step to success.', 'zh-CN',
      '每一次失败都是迈向成功的一步。'),
     ('Defeat is not the worst of failures. Not to have tried is the true failure.', 'zh-CN',
-     '失败并不是最糟糕的结局，从未尝试才是真正的失败。');
+     '失败并不是最糟糕的结局，从未尝试才是真正的失败。'),
+    ('Failures are finger posts on the road to achievement.', 'zh-CN',
+     '失败是通往成就之路上的路标。');
