@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Where there is no struggle, there is no strength.', 'ja',
      '苦闘のないところに、強さはない。'),
     ('Turn your wounds into wisdom.', 'ja',
-     '傷を知恵に変えなさい。');
+     '傷を知恵に変えなさい。'),
+    ('When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.', 'ja',
+     'すべてが自分に逆らっているように思えるときは、思い出してほしい。飛行機は追い風ではなく、向かい風に向かって離陸するのだ。');
