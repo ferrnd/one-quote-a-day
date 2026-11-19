@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Prosperity is not without many fears and distastes; and adversity is not without comforts and hopes.', 'zh-CN',
      '顺境中不乏恐惧与烦恼，逆境中也不乏慰藉与希望。'),
     ('Adversity is the first path to truth.', 'zh-CN',
-     '逆境是通往真理的第一条路。');
+     '逆境是通往真理的第一条路。'),
+    ('Kites rise highest against the wind, not with it.', 'zh-CN',
+     '风筝逆风时飞得最高，而不是顺风时。');
