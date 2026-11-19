@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Though she be but little, she is fierce.', 'ja',
      'あの子は小さいけれど、気性は激しい。'),
     ('You cannot run away from a weakness; you must some time fight it out or perish.', 'ja',
-     '弱さから逃げることはできない。いつかそれと戦い抜くか、さもなくば滅びるしかない。');
+     '弱さから逃げることはできない。いつかそれと戦い抜くか、さもなくば滅びるしかない。'),
+    ('Do not go gentle into that good night. Rage, rage against the dying of the light.', 'ja',
+     '穏やかにあの良き夜へと身を委ねるな。怒れ、怒れ、消えゆく光に抗って。');
