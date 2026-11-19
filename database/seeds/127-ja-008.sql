@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grief and resilience live together.', 'ja',
      '悲しみとしなやかな強さは、共に生きている。'),
     ('It''s not whether you get knocked down; it''s whether you get up.', 'ja',
-     '大事なのは倒されるかどうかではない。立ち上がるかどうかだ。');
+     '大事なのは倒されるかどうかではない。立ち上がるかどうかだ。'),
+    ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'ja',
+     '大事なのは、どれだけ強く打つかじゃない。どれだけ強く打たれても前に進み続けられるかだ。');
