@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Believe in yourself! Have faith in your abilities!', 'ko',
      '자신을 믿어라! 당신의 능력을 믿어라!'),
     ('You must expect great things of yourself before you can do them.', 'ko',
-     '위대한 일을 해내기 전에 먼저 자신에게 위대한 일을 기대해야 한다.');
+     '위대한 일을 해내기 전에 먼저 자신에게 위대한 일을 기대해야 한다.'),
+    ('I attribute my success to this: I never gave or took any excuse.', 'ko',
+     '내 성공의 비결은 이것이다. 나는 결코 변명을 하지도 받아들이지도 않았다.');
