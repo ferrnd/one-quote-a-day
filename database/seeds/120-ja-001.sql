@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Great works are performed not by strength but by perseverance.', 'ja',
      '偉大な仕事は力によってではなく、忍耐によって成し遂げられる。'),
     ('Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.', 'ja',
-     '忍耐と根気には魔法のような力があり、その前では困難は消え、障害は姿を消す。');
+     '忍耐と根気には魔法のような力があり、その前では困難は消え、障害は姿を消す。'),
+    ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'ja',
+     '多くの人は粘り強さによって、確実に失敗すると思われたところから成功をつかみ取る。');
