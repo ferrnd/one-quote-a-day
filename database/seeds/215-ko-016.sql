@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The beautiful thing about learning is that no one can take it away from you.', 'ko',
      '배움의 아름다운 점은 아무도 그것을 당신에게서 빼앗아 갈 수 없다는 것이다.'),
     ('Education is the most powerful weapon which you can use to change the world.', 'ko',
-     '교육은 세상을 바꾸는 데 쓸 수 있는 가장 강력한 무기다.');
+     '교육은 세상을 바꾸는 데 쓸 수 있는 가장 강력한 무기다.'),
+    ('He who is not every day conquering some fear has not learned the secret of life.', 'ko',
+     '날마다 어떤 두려움을 이겨 내지 않는 사람은 아직 삶의 비밀을 배우지 못한 것이다.');
