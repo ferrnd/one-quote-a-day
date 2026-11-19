@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without leaps of imagination or dreaming, we lose the excitement of possibilities.', 'zh-CN',
      '没有想象的飞跃或梦想，我们就会失去对可能性的兴奋。'),
     ('Dreaming, after all, is a form of planning.', 'zh-CN',
-     '说到底，做梦也是一种规划。');
+     '说到底，做梦也是一种规划。'),
+    ('You''re off to great places! Today is your day! Your mountain is waiting, so get on your way!', 'zh-CN',
+     '你要去很棒的地方了！今天是你的日子！你的高山在等着你，快出发吧！');
