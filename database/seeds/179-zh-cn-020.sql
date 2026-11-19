@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.', 'zh-CN',
      '如果你在空中建造了城堡，你的努力不会白费，城堡本来就应该在那里。现在，在它们下面打好地基。'),
     ('Ideas are easy. Implementation is hard.', 'zh-CN',
-     '想法容易，执行很难。');
+     '想法容易，执行很难。'),
+    ('Begin, be bold, and venture to be wise.', 'zh-CN',
+     '开始吧，勇敢些，敢于变得明智。');
