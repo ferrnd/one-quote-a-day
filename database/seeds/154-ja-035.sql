@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.', 'ja',
      '私たちを救うのは自分自身だけだ。誰にもできないし、誰もしてはならない。私たち自身がその道を歩まねばならない。'),
     ('Power is not given to you. You have to take it.', 'ja',
-     '力は与えられるものではない。自分でつかみ取るものだ。');
+     '力は与えられるものではない。自分でつかみ取るものだ。'),
+    ('I''m not going to limit myself just because people won''t accept the fact that I can do something else.', 'ja',
+     '私がほかのこともできるという事実を人々が受け入れないからといって、自分に限界を設けるつもりはない。');
