@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t cross the sea merely by standing and staring at the water.', 'zh-CN',
      '光是站着凝视海水，你是无法渡过大海的。'),
     ('The most difficult thing is the decision to act, the rest is merely tenacity.', 'zh-CN',
-     '最困难的是下定决心去行动，剩下的只是坚持。');
+     '最困难的是下定决心去行动，剩下的只是坚持。'),
+    ('The most effective way to do it, is to do it.', 'zh-CN',
+     '做一件事最有效的方法，就是去做。');
