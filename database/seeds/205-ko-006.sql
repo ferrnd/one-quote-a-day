@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you''re not prepared to be wrong, you''ll never come up with anything original.', 'ko',
      '틀릴 각오가 없다면 독창적인 것은 결코 만들어 낼 수 없다.'),
     ('Experience is simply the name we give our mistakes.', 'ko',
-     '경험이란 우리가 저지른 실수에 붙이는 이름일 뿐이다.');
+     '경험이란 우리가 저지른 실수에 붙이는 이름일 뿐이다.'),
+    ('When we give ourselves permission to fail, we, at the same time, give ourselves permission to excel.', 'ko',
+     '스스로에게 실패를 허락할 때, 우리는 동시에 뛰어날 수 있는 허락도 스스로에게 준다.');
