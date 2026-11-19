@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything comes gradually and at its appointed hour.', 'zh-CN',
      '一切都是逐渐到来的，都在它注定的时刻。'),
     ('Be patient and tough; someday this pain will be useful to you.', 'zh-CN',
-     '要有耐心，要坚强；总有一天，这份痛苦会对你有用。');
+     '要有耐心，要坚强；总有一天，这份痛苦会对你有用。'),
+    ('Dripping water hollows out stone, not through force but through persistence.', 'zh-CN',
+     '滴水穿石，靠的不是力量，而是坚持。');
