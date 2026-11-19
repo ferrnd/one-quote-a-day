@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Leap, and the net will appear.', 'zh-CN',
      '跳吧，网自然会出现。'),
     ('Security is mostly a superstition. Life is either a daring adventure or nothing.', 'zh-CN',
-     '安全感多半是一种迷信。生活要么是一场大胆的冒险，要么什么都不是。');
+     '安全感多半是一种迷信。生活要么是一场大胆的冒险，要么什么都不是。'),
+    ('What would life be if we had no courage to attempt anything?', 'zh-CN',
+     '如果我们没有勇气去尝试任何事，生活会是什么样子？');
