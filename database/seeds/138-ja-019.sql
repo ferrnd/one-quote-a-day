@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Great spirits have always encountered violent opposition from mediocre minds.', 'ja',
      '偉大な精神は、常に凡庸な人々からの激しい反対に遭ってきた。'),
     ('The pain passes, but the beauty remains.', 'ja',
-     '痛みは過ぎ去るが、美は残る。');
+     '痛みは過ぎ去るが、美は残る。'),
+    ('Things turn out best for the people who make the best of the way things turn out.', 'ja',
+     '物事が最もうまくいくのは、起きたことを最大限に生かす人のところだ。');
