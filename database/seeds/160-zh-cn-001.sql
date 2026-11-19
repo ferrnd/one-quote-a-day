@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('It does not matter how slowly you go as long as you do not stop.', 'zh-CN',
-     '只要不停下脚步，走得多慢都无所谓。');
+     '只要不停下脚步，走得多慢都无所谓。'),
+    ('Fall seven times, stand up eight.', 'zh-CN',
+     '跌倒七次，第八次站起来。');
