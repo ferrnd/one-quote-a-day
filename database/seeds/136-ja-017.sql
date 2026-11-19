@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The block of granite which was an obstacle in the path of the weak becomes a stepping stone in the path of the strong.', 'ja',
      '弱い者の道では障害物だった花崗岩の塊も、強い者の道では踏み石となる。'),
     ('Obstacles are those frightful things you see when you take your eyes off your goal.', 'ja',
-     '障害とは、目標から目を離したときに見える恐ろしいもののことだ。');
+     '障害とは、目標から目を離したときに見える恐ろしいもののことだ。'),
+    ('Obstacles don''t have to stop you. If you run into a wall, don''t turn around and give up. Figure out how to climb it, go through it, or work around it.', 'ja',
+     '障害に止められる必要はない。壁にぶつかったら、引き返してあきらめるな。どうやって登るか、突き抜けるか、回り込むかを考えろ。');
