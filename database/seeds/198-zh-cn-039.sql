@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Wisely and slow; they stumble that run fast.', 'zh-CN',
      '明智而缓慢，跑得快的人会跌倒。'),
     ('They also serve who only stand and wait.', 'zh-CN',
-     '那些只是站着等待的人，也是在服务。');
+     '那些只是站着等待的人，也是在服务。'),
+    ('Only time can heal what reason cannot.', 'zh-CN',
+     '理智无法治愈的，唯有时间能够治愈。');
