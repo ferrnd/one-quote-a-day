@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the main quality of leadership.', 'ko',
      '용기는 리더십의 가장 중요한 자질이다.'),
     ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'ko',
-     '용감하지 않을 때 할 수 있는 가장 용감한 일은 용기를 내겠다고 선언하고 그에 맞게 행동하는 것이다.');
+     '용감하지 않을 때 할 수 있는 가장 용감한 일은 용기를 내겠다고 선언하고 그에 맞게 행동하는 것이다.'),
+    ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'ko',
+     '용기란 두려운 일을 하는 것이다. 두렵지 않다면 용기도 있을 수 없다.');
