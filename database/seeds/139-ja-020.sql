@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To begin, begin.', 'ja',
      '始めるには、始めることだ。'),
     ('Pursue what catches your heart, not what catches your eyes.', 'ja',
-     '目を引くものではなく、心をつかむものを追いかけなさい。');
+     '目を引くものではなく、心をつかむものを追いかけなさい。'),
+    ('Life is ten percent what happens to you and ninety percent how you respond to it.', 'ja',
+     '人生とは、10パーセントが自分に起こることで、90パーセントがそれにどう対応するかである。');
