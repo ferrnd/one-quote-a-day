@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.', 'ko',
      '이기는 군대는 먼저 이겨 놓고 싸움을 구하고, 지는 군대는 먼저 싸우고 나서 승리를 구한다.'),
     ('All our dreams can come true, if we have the courage to pursue them.', 'ko',
-     '그것을 좇을 용기만 있다면, 우리의 모든 꿈은 이루어질 수 있다.');
+     '그것을 좇을 용기만 있다면, 우리의 모든 꿈은 이루어질 수 있다.'),
+    ('First, think. Second, dream. Third, believe. And finally, dare.', 'ko',
+     '첫째, 생각하라. 둘째, 꿈꾸라. 셋째, 믿어라. 그리고 마지막으로, 감행하라.');
