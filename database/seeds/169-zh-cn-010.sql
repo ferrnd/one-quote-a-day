@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Isn''t it nice to think that tomorrow is a new day with no mistakes in it yet?', 'zh-CN',
      '想到明天是新的一天，还没有犯下任何错误，不是很美好吗？'),
     ('After all, tomorrow is another day.', 'zh-CN',
-     '毕竟，明天又是新的一天。');
+     '毕竟，明天又是新的一天。'),
+    ('Hope is patience with the lamp lit.', 'zh-CN',
+     '希望是点着灯的耐心。');
