@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Long is the way and hard, that out of hell leads up to light.', 'ko',
      '지옥에서 빛으로 이어지는 길은 멀고도 험하다.'),
     ('Accept challenges so that you may feel the exhilaration of victory.', 'ko',
-     '도전을 받아들여라. 그래야 승리의 짜릿함을 느낄 수 있다.');
+     '도전을 받아들여라. 그래야 승리의 짜릿함을 느낄 수 있다.'),
+    ('When it is obvious that the goals cannot be reached, don''t adjust the goals, adjust the action steps.', 'ko',
+     '목표에 도달할 수 없다는 것이 분명해지면, 목표를 바꾸지 말고 행동 단계를 바꿔라.');
