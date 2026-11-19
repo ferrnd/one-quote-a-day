@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ability may get you to the top, but it takes character to keep you there.', 'ja',
      '能力は人を頂点へ導くかもしれないが、そこにとどまるには人格が必要だ。'),
     ('When there is no enemy within, the enemies outside cannot hurt you.', 'ja',
-     '内に敵がいなければ、外の敵はあなたを傷つけられない。');
+     '内に敵がいなければ、外の敵はあなたを傷つけられない。'),
+    ('Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.', 'ja',
+     '私たちの最も深い恐れは、自分が不十分であることではない。計り知れないほど力があることなのだ。');
