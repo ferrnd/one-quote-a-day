@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Where there is no struggle, there is no strength.', 'zh-CN',
      '没有挣扎，就没有力量。'),
     ('Turn your wounds into wisdom.', 'zh-CN',
-     '把你的伤口化为智慧。');
+     '把你的伤口化为智慧。'),
+    ('When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.', 'zh-CN',
+     '当一切似乎都在与你作对时，请记住，飞机是逆风起飞的，而不是顺风。');
