@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All human wisdom is summed up in two words: wait and hope.', 'ko',
      '인간의 모든 지혜는 두 마디로 요약된다. 기다려라, 그리고 희망하라.'),
     ('The key to everything is patience. You get the chicken by hatching the egg, not by smashing it.', 'ko',
-     '모든 것의 열쇠는 인내다. 병아리는 달걀을 깨뜨려서가 아니라 품어서 얻는 것이다.');
+     '모든 것의 열쇠는 인내다. 병아리는 달걀을 깨뜨려서가 아니라 품어서 얻는 것이다.'),
+    ('Patience and time do more than strength or passion.', 'ko',
+     '인내와 시간은 힘이나 열정보다 더 많은 일을 해낸다.');
