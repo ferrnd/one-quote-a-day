@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t cross the sea merely by standing and staring at the water.', 'ko',
      '그저 서서 물을 바라보는 것만으로는 바다를 건널 수 없다.'),
     ('The most difficult thing is the decision to act, the rest is merely tenacity.', 'ko',
-     '가장 어려운 것은 행동하겠다는 결심이다. 나머지는 끈기의 문제일 뿐이다.');
+     '가장 어려운 것은 행동하겠다는 결심이다. 나머지는 끈기의 문제일 뿐이다.'),
+    ('The most effective way to do it, is to do it.', 'ko',
+     '그것을 하는 가장 효과적인 방법은 그것을 하는 것이다.');
