@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nobody can make you feel inferior without your consent.', 'ja',
      'あなたの同意なしに、誰もあなたに劣等感を抱かせることはできない。'),
     ('You have power over your mind, not outside events. Realize this, and you will find strength.', 'ja',
-     'あなたが支配できるのは自分の心であって、外の出来事ではない。それを悟れば、強さが見つかるだろう。');
+     'あなたが支配できるのは自分の心であって、外の出来事ではない。それを悟れば、強さが見つかるだろう。'),
+    ('The impediment to action advances action. What stands in the way becomes the way.', 'ja',
+     '行動を妨げるものが、行動を前に進める。道をふさぐものが、道となるのだ。');
