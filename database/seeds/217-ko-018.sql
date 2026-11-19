@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When the going gets tough, the tough get going.', 'ko',
      '상황이 힘들어지면 강한 사람이 나선다.'),
     ('A hero is no braver than an ordinary man, but he is brave five minutes longer.', 'ko',
-     '영웅은 보통 사람보다 더 용감한 것이 아니라, 5분 더 오래 용감할 뿐이다.');
+     '영웅은 보통 사람보다 더 용감한 것이 아니라, 5분 더 오래 용감할 뿐이다.'),
+    ('The struggle itself toward the heights is enough to fill a man''s heart. One must imagine Sisyphus happy.', 'ko',
+     '정상을 향한 투쟁 그 자체만으로도 인간의 마음을 채우기에 충분하다. 우리는 행복한 시시포스를 상상해야 한다.');
