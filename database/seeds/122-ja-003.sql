@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Have the courage to follow your heart and intuition.', 'ja',
      '自分の心と直感に従う勇気を持ちなさい。'),
     ('Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.', 'ja',
-     '誰かに深く愛されることは力をくれ、誰かを深く愛することは勇気をくれる。');
+     '誰かに深く愛されることは力をくれ、誰かを深く愛することは勇気をくれる。'),
+    ('Courage is grace under pressure.', 'ja',
+     '勇気とは、重圧の下での気品である。');
