@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best way out is always through.', 'zh-CN',
      '最好的出路，永远是穿越过去。'),
     ('In three words I can sum up everything I''ve learned about life: it goes on.', 'zh-CN',
-     '关于人生，我学到的一切可以总结为四个字：生活继续。');
+     '关于人生，我学到的一切可以总结为四个字：生活继续。'),
+    ('Vitality shows in not only the ability to persist but the ability to start over.', 'zh-CN',
+     '生命力不仅体现在坚持的能力上，也体现在重新开始的能力上。');
