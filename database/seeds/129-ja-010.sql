@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every day may not be good, but there''s something good in every day.', 'ja',
      '毎日が良い日とは限らない。でも、毎日の中に何か良いことはある。'),
     ('In the depth of winter, I finally learned that within me there lay an invincible summer.', 'ja',
-     '冬のさなかに、私はついに知った。自分の中に、打ち負かされることのない夏があることを。');
+     '冬のさなかに、私はついに知った。自分の中に、打ち負かされることのない夏があることを。'),
+    ('It is during our darkest moments that we must focus to see the light.', 'ja',
+     '最も暗い瞬間にこそ、光を見ようと心を向けなければならない。');
