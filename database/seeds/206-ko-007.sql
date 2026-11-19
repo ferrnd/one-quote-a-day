@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is the key to success; each mistake teaches us something.', 'ko',
-     '실패는 성공의 열쇠다. 모든 실수는 우리에게 무언가를 가르쳐 준다.');
+     '실패는 성공의 열쇠다. 모든 실수는 우리에게 무언가를 가르쳐 준다.'),
+    ('You always pass failure on your way to success.', 'ko',
+     '성공으로 가는 길에서 우리는 언제나 실패를 지나간다.');
