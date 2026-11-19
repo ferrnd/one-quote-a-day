@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best revenge is not to be like your enemy.', 'zh-CN',
      '最好的报复，是不要变得像你的敌人一样。'),
     ('Loss is nothing else but change, and change is Nature''s delight.', 'zh-CN',
-     '失去不过是变化，而变化是大自然的乐趣。');
+     '失去不过是变化，而变化是大自然的乐趣。'),
+    ('Dwell on the beauty of life. Watch the stars, and see yourself running with them.', 'zh-CN',
+     '沉浸于生命之美。仰望星辰，想象自己与它们一同奔跑。');
