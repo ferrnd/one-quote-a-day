@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No mud, no lotus.', 'ko',
      '진흙이 없으면 연꽃도 없다.'),
     ('If you want to see the sunshine, you have to weather the storm.', 'ko',
-     '햇빛을 보고 싶다면 폭풍을 견뎌 내야 한다.');
+     '햇빛을 보고 싶다면 폭풍을 견뎌 내야 한다.'),
+    ('The strongest people find the courage and caring to help others, even if they are going through their own storm.', 'ko',
+     '가장 강한 사람은 자신의 폭풍을 겪고 있을 때에도 다른 사람을 도울 용기와 배려를 찾아낸다.');
