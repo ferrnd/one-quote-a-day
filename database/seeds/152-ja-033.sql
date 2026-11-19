@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t be afraid to fail. It''s the only way you succeed.', 'ja',
      '失敗を恐れてはいけない。それが成功する唯一の方法なのだから。'),
     ('A man is not finished when he is defeated. He is finished when he quits.', 'ja',
-     '人は負けたときに終わるのではない。やめたときに終わるのだ。');
+     '人は負けたときに終わるのではない。やめたときに終わるのだ。'),
+    ('The human spirit is stronger than anything that can happen to it.', 'ja',
+     '人間の精神は、その身に起こりうるどんなことよりも強い。');
