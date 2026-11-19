@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No man is free who is not master of himself.', 'ko',
      '자기 자신의 주인이 아닌 사람은 자유롭지 않다.'),
     ('First say to yourself what you would be; and then do what you have to do.', 'ko',
-     '먼저 네가 어떤 사람이 되고 싶은지 스스로에게 말하라. 그리고 해야 할 일을 하라.');
+     '먼저 네가 어떤 사람이 되고 싶은지 스스로에게 말하라. 그리고 해야 할 일을 하라.'),
+    ('Self-discipline is the magic power that makes you virtually unstoppable.', 'ko',
+     '자기 절제는 당신을 거의 멈출 수 없는 존재로 만드는 마법의 힘이다.');
