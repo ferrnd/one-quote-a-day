@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity has ever been considered the state in which a man most easily becomes acquainted with himself.', 'ko',
      '역경은 언제나 사람이 자기 자신을 가장 쉽게 알게 되는 상태로 여겨져 왔다.'),
     ('Bad times have a scientific value. These are occasions a good learner would not miss.', 'ko',
-     '나쁜 시기에는 과학적 가치가 있다. 잘 배우는 사람이라면 놓치지 않을 기회다.');
+     '나쁜 시기에는 과학적 가치가 있다. 잘 배우는 사람이라면 놓치지 않을 기회다.'),
+    ('Every wall is a door.', 'ko',
+     '모든 벽은 문이다.');
