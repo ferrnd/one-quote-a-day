@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Stay hungry, stay foolish.', 'ko',
      '계속 갈망하라, 계속 우직하라.'),
     ('Your time is limited, so don''t waste it living someone else''s life.', 'ko',
-     '당신의 시간은 한정되어 있다. 그러니 다른 사람의 삶을 사느라 낭비하지 마라.');
+     '당신의 시간은 한정되어 있다. 그러니 다른 사람의 삶을 사느라 낭비하지 마라.'),
+    ('If you are working on something exciting that you really care about, you don''t have to be pushed. The vision pulls you.', 'ko',
+     '진심으로 아끼는 신나는 일을 하고 있다면, 누가 등을 떠밀 필요가 없다. 비전이 당신을 끌어당긴다.');
