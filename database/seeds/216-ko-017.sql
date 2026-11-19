@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity causes some men to break; others to break records.', 'ko',
      '역경은 어떤 사람은 무너뜨리고, 어떤 사람은 기록을 깨게 만든다.'),
     ('Prosperity is not without many fears and distastes; and adversity is not without comforts and hopes.', 'ko',
-     '번영에도 두려움과 싫은 일이 많고, 역경에도 위안과 희망이 있다.');
+     '번영에도 두려움과 싫은 일이 많고, 역경에도 위안과 희망이 있다.'),
+    ('Adversity is the first path to truth.', 'ko',
+     '역경은 진리로 가는 첫 번째 길이다.');
