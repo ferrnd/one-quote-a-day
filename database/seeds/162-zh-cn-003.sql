@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything you''ve ever wanted is on the other side of fear.', 'zh-CN',
      '你想要的一切，都在恐惧的另一边。'),
     ('Inaction breeds doubt and fear. Action breeds confidence and courage.', 'zh-CN',
-     '不行动滋生怀疑与恐惧，行动孕育自信与勇气。');
+     '不行动滋生怀疑与恐惧，行动孕育自信与勇气。'),
+    ('Courage is being scared to death, but saddling up anyway.', 'zh-CN',
+     '勇气就是怕得要死，却依然跨上马鞍。');
