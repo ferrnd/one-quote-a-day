@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The master has failed more times than the beginner has even tried.', 'ja',
      '達人は、初心者が挑戦した回数よりも多く失敗している。'),
     ('It''s fine to celebrate success but it is more important to heed the lessons of failure.', 'ja',
-     '成功を祝うのはいい。だが、失敗の教訓に耳を傾けることのほうが大切だ。');
+     '成功を祝うのはいい。だが、失敗の教訓に耳を傾けることのほうが大切だ。'),
+    ('One fails forward toward success.', 'ja',
+     '人は前のめりに失敗しながら、成功へと進んでいく。');
