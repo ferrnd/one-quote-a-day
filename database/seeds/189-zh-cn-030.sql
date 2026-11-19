@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('As long as you live, keep learning how to live.', 'zh-CN',
      '只要活着，就要不断学习如何生活。'),
     ('Sometimes even to live is an act of courage.', 'zh-CN',
-     '有时候，甚至活着本身就是一种勇气。');
+     '有时候，甚至活着本身就是一种勇气。'),
+    ('If a man knows not to which port he sails, no wind is favorable.', 'zh-CN',
+     '如果一个人不知道要驶向哪个港口，那么任何风都不是顺风。');
