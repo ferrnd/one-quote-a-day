@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only easy day was yesterday.', 'zh-CN',
      '唯一轻松的日子是昨天。'),
     ('In a gentle way, you can shake the world.', 'zh-CN',
-     '以温和的方式，你也可以撼动世界。');
+     '以温和的方式，你也可以撼动世界。'),
+    ('Re-examine all you have been told; dismiss what insults your soul.', 'zh-CN',
+     '重新审视你被告知的一切，摒弃那些侮辱你灵魂的东西。');
