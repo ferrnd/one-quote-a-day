@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.', 'ko',
      '외부의 무언가 때문에 괴롭다면, 그 고통은 그것 자체 때문이 아니라 그것에 대한 당신의 판단 때문이다. 그리고 그 판단은 언제든 거둘 수 있다.'),
     ('Waste no more time arguing about what a good man should be. Be one.', 'ko',
-     '좋은 사람이 어떠해야 하는지 논쟁하며 더는 시간을 낭비하지 마라. 좋은 사람이 되어라.');
+     '좋은 사람이 어떠해야 하는지 논쟁하며 더는 시간을 낭비하지 마라. 좋은 사람이 되어라.'),
+    ('Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.', 'ko',
+     '파도가 끊임없이 부딪쳐 와도 굳건히 서서 주위 물의 분노를 잠재우는 곶처럼 되어라.');
