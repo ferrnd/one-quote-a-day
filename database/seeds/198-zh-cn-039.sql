@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t give up on your dreams, or your dreams will give up on you.', 'zh-CN',
      '不要放弃你的梦想，否则你的梦想也会放弃你。'),
     ('There is nothing like a dream to create the future.', 'zh-CN',
-     '没有什么能像梦想那样创造未来。');
+     '没有什么能像梦想那样创造未来。'),
+    ('The power of imagination makes us infinite.', 'zh-CN',
+     '想象力让我们变得无限。');
