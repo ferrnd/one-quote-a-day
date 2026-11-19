@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Opportunities multiply as they are seized.', 'ko',
      '기회는 붙잡을수록 늘어난다.'),
     ('You can''t wait for inspiration. You have to go after it with a club.', 'ko',
-     '영감을 기다릴 수는 없다. 몽둥이를 들고 쫓아가야 한다.');
+     '영감을 기다릴 수는 없다. 몽둥이를 들고 쫓아가야 한다.'),
+    ('Go for it now. The future is promised to no one.', 'ko',
+     '지금 하라. 미래는 누구에게도 약속되어 있지 않다.');
