@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing great was ever achieved without enthusiasm.', 'ja',
      '情熱なくして、偉大なことが成し遂げられたためしはない。'),
     ('I would rather be ashes than dust!', 'ja',
-     '塵になるより、灰になりたい！');
+     '塵になるより、灰になりたい！'),
+    ('Determine never to be idle.', 'ja',
+     '決して怠けまいと決意せよ。');
