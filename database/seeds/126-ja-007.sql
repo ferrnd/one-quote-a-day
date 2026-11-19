@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What is defeat? Nothing but education; nothing but the first step to something better.', 'ja',
      '敗北とは何か。教育にほかならない。よりよいものへの第一歩にほかならない。'),
     ('Never confuse a single defeat with a final defeat.', 'ja',
-     '一度の敗北を、最後の敗北と混同してはならない。');
+     '一度の敗北を、最後の敗北と混同してはならない。'),
+    ('Do not be embarrassed by your failures, learn from them and start again.', 'ja',
+     '失敗を恥じることはない。そこから学び、また始めればいい。');
