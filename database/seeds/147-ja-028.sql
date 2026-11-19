@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The dreamers are the saviors of the world.', 'ja',
      '夢見る人こそ、世界の救い主である。'),
     ('Dream lofty dreams, and as you dream, so shall you become.', 'ja',
-     '気高い夢を見よ。あなたは夢見たとおりの人になるだろう。');
+     '気高い夢を見よ。あなたは夢見たとおりの人になるだろう。'),
+    ('Some people dream of success, while other people get up every morning and make it happen.', 'ja',
+     '成功を夢見るだけの人もいれば、毎朝起きてそれを実現させる人もいる。');
