@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It takes courage to grow up and become who you really are.', 'ko',
      '어른이 되어 진정한 자신이 되려면 용기가 필요하다.'),
     ('Courage is rightly esteemed the first of human qualities because it is the quality which guarantees all others.', 'ko',
-     '용기가 인간의 자질 가운데 으뜸으로 여겨지는 것은 마땅하다. 다른 모든 자질을 지켜 주는 자질이기 때문이다.');
+     '용기가 인간의 자질 가운데 으뜸으로 여겨지는 것은 마땅하다. 다른 모든 자질을 지켜 주는 자질이기 때문이다.'),
+    ('The brave man is not he who does not feel afraid, but he who conquers that fear.', 'ko',
+     '용감한 사람이란 두려움을 느끼지 않는 사람이 아니라 그 두려움을 이겨내는 사람이다.');
