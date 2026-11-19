@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wait; the time will never be just right.', 'zh-CN',
      '不要等待，时机永远不会恰到好处。'),
     ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'zh-CN',
-     '知道还不够，我们必须应用；愿意还不够，我们必须行动。');
+     '知道还不够，我们必须应用；愿意还不够，我们必须行动。'),
+    ('Action may not always bring happiness; but there is no happiness without action.', 'zh-CN',
+     '行动不一定总能带来幸福，但没有行动就没有幸福。');
