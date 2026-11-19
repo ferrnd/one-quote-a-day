@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To improve is to change; to be perfect is to change often.', 'zh-CN',
      '改进就是改变；要做到完美，就要经常改变。'),
     ('Growth begins when we begin to accept our own weakness.', 'zh-CN',
-     '当我们开始接受自己的弱点时，成长就开始了。');
+     '当我们开始接受自己的弱点时，成长就开始了。'),
+    ('The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.', 'zh-CN',
+     '我这一代人最伟大的发现是，人可以通过改变态度来改变自己的人生。');
