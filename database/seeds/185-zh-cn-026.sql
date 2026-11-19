@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A dream doesn''t become reality through magic; it takes sweat, determination and hard work.', 'zh-CN',
      '梦想不会靠魔法变成现实，它需要汗水、决心和辛勤的努力。'),
     ('There are no secrets to success. It is the result of preparation, hard work, and learning from failure.', 'zh-CN',
-     '成功没有秘诀。它是准备、努力和从失败中学习的结果。');
+     '成功没有秘诀。它是准备、努力和从失败中学习的结果。'),
+    ('Our greatest fear should not be of failure but of succeeding at things in life that don''t really matter.', 'zh-CN',
+     '我们最应该害怕的不是失败，而是在人生中那些并不真正重要的事情上获得成功。');
