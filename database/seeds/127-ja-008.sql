@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A good half of the art of living is resilience.', 'ja',
      '生きる技術の半分は、立ち直る力である。'),
     ('Nothing is impossible. The word itself says ''I''m possible''!', 'ja',
-     '不可能なことなどない。Impossible（不可能）という言葉自体が「I''m possible（私はできる）」と言っているのだから。');
+     '不可能なことなどない。Impossible（不可能）という言葉自体が「I''m possible（私はできる）」と言っているのだから。'),
+    ('Stars can''t shine without darkness.', 'ja',
+     '闇がなければ、星は輝けない。');
