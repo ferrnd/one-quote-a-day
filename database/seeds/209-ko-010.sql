@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is patience with the lamp lit.', 'ko',
      '희망이란 등불을 켜 둔 채 기다리는 인내다.'),
     ('I am prepared for the worst, but hope for the best.', 'ko',
-     '나는 최악에 대비하되 최선을 바란다.');
+     '나는 최악에 대비하되 최선을 바란다.'),
+    ('We need never be hopeless because we can never be irreparably broken.', 'ko',
+     '우리는 결코 절망할 필요가 없다. 결코 돌이킬 수 없을 만큼 부서질 수는 없으니까.');
