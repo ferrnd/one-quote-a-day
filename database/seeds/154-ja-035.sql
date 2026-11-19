@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not all of us can do great things. But we can do small things with great love.', 'ja',
      '私たちは皆が偉大なことをできるわけではありません。でも、小さなことを大きな愛をもって行うことはできます。'),
     ('Though she be but little, she is fierce.', 'ja',
-     'あの子は小さいけれど、気性は激しい。');
+     'あの子は小さいけれど、気性は激しい。'),
+    ('You cannot run away from a weakness; you must some time fight it out or perish.', 'ja',
+     '弱さから逃げることはできない。いつかそれと戦い抜くか、さもなくば滅びるしかない。');
