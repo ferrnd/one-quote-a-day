@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage, dear heart.', 'ko',
      '용기를 내렴, 사랑하는 이여.'),
     ('Courage is the power to let go of the familiar.', 'ko',
-     '용기는 익숙한 것을 놓아 보내는 힘이다.');
+     '용기는 익숙한 것을 놓아 보내는 힘이다.'),
+    ('I have not failed. I''ve just found 10,000 ways that won''t work.', 'ko',
+     '나는 실패하지 않았다. 효과가 없는 방법 1만 가지를 찾았을 뿐이다.');
