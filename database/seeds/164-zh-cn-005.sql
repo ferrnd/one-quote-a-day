@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is not simply one of the virtues, but the form of every virtue at the testing point.', 'zh-CN',
      '勇气不只是美德之一，而是每一种美德在接受考验时所呈现的形态。'),
     ('Courage, dear heart.', 'zh-CN',
-     '鼓起勇气，亲爱的心。');
+     '鼓起勇气，亲爱的心。'),
+    ('Courage is the power to let go of the familiar.', 'zh-CN',
+     '勇气是放下熟悉事物的力量。');
