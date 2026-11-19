@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never bend your head. Always hold it high. Look the world straight in the eye.', 'zh-CN',
      '永远不要低头。永远把头抬高，直视这个世界。'),
     ('There is nothing stronger in the world than gentleness.', 'zh-CN',
-     '世上没有比温柔更强大的东西。');
+     '世上没有比温柔更强大的东西。'),
+    ('Nothing is so strong as gentleness, nothing so gentle as real strength.', 'zh-CN',
+     '没有什么比温柔更强大，也没有什么比真正的强大更温柔。');
