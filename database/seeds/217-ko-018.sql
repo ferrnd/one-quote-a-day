@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.', 'ko',
      '비관론자는 모든 기회에서 어려움을 보고, 낙관론자는 모든 어려움에서 기회를 본다.'),
     ('Challenges are what make life interesting and overcoming them is what makes life meaningful.', 'ko',
-     '도전은 삶을 흥미롭게 하고, 그것을 극복하는 것은 삶을 의미 있게 한다.');
+     '도전은 삶을 흥미롭게 하고, 그것을 극복하는 것은 삶을 의미 있게 한다.'),
+    ('Adversity is the diamond dust Heaven polishes its jewels with.', 'ko',
+     '역경은 하늘이 보석을 닦는 데 쓰는 다이아몬드 가루다.');
