@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Although the world is full of suffering, it is also full of the overcoming of it.', 'ko',
      '세상은 고통으로 가득하지만, 그것을 이겨 내는 일로도 가득하다.'),
     ('Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.', 'ko',
-     '인격은 편안함과 고요함 속에서는 길러지지 않는다. 시련과 고통을 겪어야만 영혼이 단련되고, 야망이 깨어나며, 성공이 이루어진다.');
+     '인격은 편안함과 고요함 속에서는 길러지지 않는다. 시련과 고통을 겪어야만 영혼이 단련되고, 야망이 깨어나며, 성공이 이루어진다.'),
+    ('Life doesn''t get easier or more forgiving, we get stronger and more resilient.', 'ko',
+     '삶이 더 쉬워지거나 더 너그러워지는 것이 아니다. 우리가 더 강해지고 더 단단해지는 것이다.');
