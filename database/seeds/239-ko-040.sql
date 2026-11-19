@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Who looks outside, dreams; who looks inside, awakes.', 'ko',
      '밖을 보는 자는 꿈꾸고, 안을 보는 자는 깨어난다.'),
     ('You are never given a wish without also being given the power to make it come true.', 'ko',
-     '소원이 주어질 때는 반드시 그것을 이룰 힘도 함께 주어진다.');
+     '소원이 주어질 때는 반드시 그것을 이룰 힘도 함께 주어진다.'),
+    ('The unexamined life is not worth living.', 'ko',
+     '성찰하지 않는 삶은 살 가치가 없다.');
