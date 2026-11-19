@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every cloud has a silver lining.', 'ja',
-     'どんな雲にも銀の裏地がある。');
+     'どんな雲にも銀の裏地がある。'),
+    ('The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.', 'ja',
+     '太陽でさえ昇ったばかりのときは弱く、日が進むにつれて力と勇気を集めていく。');
