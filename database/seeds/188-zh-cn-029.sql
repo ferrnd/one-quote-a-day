@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are irritated by every rub, how will your mirror be polished?', 'zh-CN',
      '如果每一次摩擦都让你恼怒，你的镜子又怎能被擦亮？'),
     ('These pains you feel are messengers. Listen to them.', 'zh-CN',
-     '你感受到的这些痛苦是信使，倾听它们吧。');
+     '你感受到的这些痛苦是信使，倾听它们吧。'),
+    ('Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.', 'zh-CN',
+     '自由是人生中唯一值得追求的目标，而它是通过不去在意我们无法控制的事物而获得的。');
