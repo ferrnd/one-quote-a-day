@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the long run, we shape our lives, and we shape ourselves.', 'ja',
      '結局のところ、私たちは自分の人生を形づくり、自分自身を形づくるのだ。'),
     ('Out of adversity comes opportunity.', 'ja',
-     '逆境から、好機が生まれる。');
+     '逆境から、好機が生まれる。'),
+    ('Adversity has ever been considered the state in which a man most easily becomes acquainted with himself.', 'ja',
+     '逆境は常に、人が最もたやすく自分自身を知ることのできる状態だとされてきた。');
