@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The price of excellence is discipline. The cost of mediocrity is disappointment.', 'zh-CN',
      '卓越的代价是自律，平庸的代价是失望。'),
     ('Hard work beats talent when talent doesn''t work hard.', 'zh-CN',
-     '当天才不努力时，努力就会打败天才。');
+     '当天才不努力时，努力就会打败天才。'),
+    ('Small disciplines repeated with consistency every day lead to great achievements gained slowly over time.', 'zh-CN',
+     '每天坚持重复的小小自律，会随着时间慢慢带来巨大的成就。');
