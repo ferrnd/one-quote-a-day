@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.', 'ja',
      '太陽でさえ昇ったばかりのときは弱く、日が進むにつれて力と勇気を集めていく。'),
     ('Hope is the only thing stronger than fear.', 'ja',
-     '希望は、恐怖よりも強い唯一のものだ。');
+     '希望は、恐怖よりも強い唯一のものだ。'),
+    ('Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.', 'ja',
+     '幸せは、どんなに暗い時にも見つけられる。明かりをつけることさえ忘れなければ。');
