@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who is not every day conquering some fear has not learned the secret of life.', 'zh-CN',
      '一个人如果不是每天都在征服某种恐惧，就还没有学会生活的秘诀。'),
     ('Life begins at the end of your comfort zone.', 'zh-CN',
-     '生活始于你舒适区的尽头。');
+     '生活始于你舒适区的尽头。'),
+    ('I can''t change the direction of the wind, but I can adjust my sails to always reach my destination.', 'zh-CN',
+     '我无法改变风向，但我可以调整风帆，始终抵达我的目的地。');
