@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Believe you can and you''re halfway there.', 'ko',
      '할 수 있다고 믿으면 이미 반은 온 것이다.'),
     ('Our life is what our thoughts make it.', 'ko',
-     '우리의 삶은 우리의 생각이 만드는 것이다.');
+     '우리의 삶은 우리의 생각이 만드는 것이다.'),
+    ('The happiness of your life depends upon the quality of your thoughts.', 'ko',
+     '인생의 행복은 생각의 질에 달려 있다.');
