@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grief and resilience live together.', 'ko',
      '슬픔과 회복력은 함께 산다.'),
     ('It''s not whether you get knocked down; it''s whether you get up.', 'ko',
-     '중요한 것은 쓰러지느냐가 아니라 다시 일어서느냐다.');
+     '중요한 것은 쓰러지느냐가 아니라 다시 일어서느냐다.'),
+    ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'ko',
+     '얼마나 세게 치느냐가 중요한 게 아니다. 얼마나 세게 맞고도 계속 앞으로 나아갈 수 있느냐가 중요하다.');
