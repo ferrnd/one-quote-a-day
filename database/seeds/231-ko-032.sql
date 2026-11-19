@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be brave. Take risks. Nothing can substitute experience.', 'ko',
      '용감해져라. 위험을 감수하라. 무엇도 경험을 대신할 수 없다.'),
     ('He who is brave is free.', 'ko',
-     '용감한 사람은 자유롭다.');
+     '용감한 사람은 자유롭다.'),
+    ('I must not fear. Fear is the mind-killer.', 'ko',
+     '나는 두려워해서는 안 된다. 두려움은 정신을 죽이는 것이다.');
