@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Mistakes are always forgivable, if one has the courage to admit them.', 'ja',
      '過ちは、それを認める勇気があれば、いつでも許される。'),
     ('Do not fear mistakes. There are none.', 'ja',
-     '間違いを恐れるな。間違いなど存在しない。');
+     '間違いを恐れるな。間違いなど存在しない。'),
+    ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'ja',
+     '間違いをしたときにすべきことは三つしかない。認めること、学ぶこと、繰り返さないことだ。');
