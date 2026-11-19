@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Confidence comes not from always being right but from not fearing to be wrong.', 'ko',
      '자신감은 언제나 옳은 데서가 아니라 틀리는 것을 두려워하지 않는 데서 나온다.'),
     ('If you want to lift yourself up, lift up someone else.', 'ko',
-     '자신을 높이고 싶다면 다른 누군가를 높여라.');
+     '자신을 높이고 싶다면 다른 누군가를 높여라.'),
+    ('Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.', 'ko',
+     '성공은 인생에서 도달한 지위보다 극복한 장애물로 측정되어야 한다.');
