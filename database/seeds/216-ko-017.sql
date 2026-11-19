@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without continual growth and progress, such words as improvement, achievement, and success have no meaning.', 'ko',
      '끊임없는 성장과 진보가 없다면 개선, 성취, 성공 같은 말은 아무 의미가 없다.'),
     ('What is to give light must endure burning.', 'ko',
-     '빛을 내려는 것은 타는 것을 견뎌야 한다.');
+     '빛을 내려는 것은 타는 것을 견뎌야 한다.'),
+    ('It''s not what happens to you, but how you react to it that matters.', 'ko',
+     '중요한 것은 당신에게 무슨 일이 일어나느냐가 아니라 그것에 어떻게 반응하느냐다.');
