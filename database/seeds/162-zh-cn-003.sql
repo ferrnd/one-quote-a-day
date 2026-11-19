@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the thing you fear, and the death of fear is certain.', 'zh-CN',
      '去做你害怕的事，恐惧必将消亡。'),
     ('Fear is only as deep as the mind allows.', 'zh-CN',
-     '恐惧有多深，取决于心允许它有多深。');
+     '恐惧有多深，取决于心允许它有多深。'),
+    ('Everything you''ve ever wanted is on the other side of fear.', 'zh-CN',
+     '你想要的一切，都在恐惧的另一边。');
