@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When the going gets tough, the tough get going.', 'ja',
      '状況が厳しくなると、強い者が動き出す。'),
     ('A hero is no braver than an ordinary man, but he is brave five minutes longer.', 'ja',
-     '英雄は普通の人より勇敢なのではない。ただ五分長く勇敢なのだ。');
+     '英雄は普通の人より勇敢なのではない。ただ五分長く勇敢なのだ。'),
+    ('The struggle itself toward the heights is enough to fill a man''s heart. One must imagine Sisyphus happy.', 'ja',
+     '頂上を目指す闘いそのものが、人の心を満たすのに十分なのだ。シーシュポスは幸福だと思わねばならない。');
