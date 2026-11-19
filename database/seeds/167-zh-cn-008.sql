@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Resilience is accepting your new reality, even if it''s less good than the one you had before.', 'zh-CN',
      '韧性就是接受新的现实，即使它不如从前的好。'),
     ('Man never made any material as resilient as the human spirit.', 'zh-CN',
-     '人类从未造出过比人的精神更有韧性的材料。');
+     '人类从未造出过比人的精神更有韧性的材料。'),
+    ('Grief and resilience live together.', 'zh-CN',
+     '悲伤与坚韧同在。');
