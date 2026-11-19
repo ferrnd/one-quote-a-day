@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.', 'zh-CN',
      '我们的疑虑是叛徒，它让我们因为害怕尝试，而失去本可以赢得的美好。'),
     ('If we did all the things we are capable of, we would literally astound ourselves.', 'zh-CN',
-     '如果我们做了所有我们能做到的事，我们真的会让自己大吃一惊。');
+     '如果我们做了所有我们能做到的事，我们真的会让自己大吃一惊。'),
+    ('The best time to plant a tree was 20 years ago. The second best time is now.', 'zh-CN',
+     '种一棵树最好的时间是二十年前，其次是现在。');
