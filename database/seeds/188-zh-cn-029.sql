@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Two roads diverged in a wood, and I, I took the one less traveled by, and that has made all the difference.', 'zh-CN',
      '树林里分出两条路，而我选了人迹更少的那一条，从此一切都截然不同。'),
     ('Not all those who wander are lost.', 'zh-CN',
-     '并非所有流浪的人都迷失了方向。');
+     '并非所有流浪的人都迷失了方向。'),
+    ('I took a deep breath and listened to the old brag of my heart: I am, I am, I am.', 'zh-CN',
+     '我深吸一口气，倾听我的心那古老的自夸：我在，我在，我在。');
