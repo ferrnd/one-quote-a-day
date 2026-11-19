@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When there is no enemy within, the enemies outside cannot hurt you.', 'zh-CN',
      '只要内心没有敌人，外面的敌人就伤害不了你。'),
     ('Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.', 'zh-CN',
-     '我们最深的恐惧不是自己能力不足，而是自己强大得超乎想象。');
+     '我们最深的恐惧不是自己能力不足，而是自己强大得超乎想象。'),
+    ('Trust thyself: every heart vibrates to that iron string.', 'zh-CN',
+     '相信你自己：每一颗心都随着那根铁弦而颤动。');
