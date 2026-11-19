@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Begin anywhere.', 'zh-CN',
      '从任何地方开始都可以。'),
     ('Action is eloquence.', 'zh-CN',
-     '行动就是雄辩。');
+     '行动就是雄辩。'),
+    ('Do not wait for leaders; do it alone, person to person.', 'zh-CN',
+     '不要等待领袖，自己去做，一个人对一个人地去做。');
