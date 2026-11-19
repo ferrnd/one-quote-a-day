@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s not the load that breaks you down, it''s the way you carry it.', 'zh-CN',
      '压垮你的不是重担，而是你背负它的方式。'),
     ('Ability is what you''re capable of doing. Motivation determines what you do. Attitude determines how well you do it.', 'zh-CN',
-     '能力是你能做什么，动力决定你做什么，态度决定你做得多好。');
+     '能力是你能做什么，动力决定你做什么，态度决定你做得多好。'),
+    ('Worry does not empty tomorrow of its sorrow, it empties today of its strength.', 'zh-CN',
+     '忧虑不会清空明天的悲伤，只会耗尽今天的力量。');
