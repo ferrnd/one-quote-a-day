@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is simply the opportunity to begin again, this time more intelligently.', 'ko',
      '실패는 이번에는 더 현명하게 다시 시작할 수 있는 기회일 뿐이다.'),
     ('Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.', 'ko',
-     '시도했다. 실패했다. 상관없다. 다시 시도하라. 다시 실패하라. 더 잘 실패하라.');
+     '시도했다. 실패했다. 상관없다. 다시 시도하라. 다시 실패하라. 더 잘 실패하라.'),
+    ('I''ve failed over and over and over again in my life. And that is why I succeed.', 'ko',
+     '나는 살면서 실패하고 또 실패했다. 그것이 내가 성공하는 이유다.');
