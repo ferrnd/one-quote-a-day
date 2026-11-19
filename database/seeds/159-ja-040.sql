@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Loss is nothing else but change, and change is Nature''s delight.', 'ja',
      '喪失とは変化にほかならない。そして変化は、自然の喜びである。'),
     ('Dwell on the beauty of life. Watch the stars, and see yourself running with them.', 'ja',
-     '人生の美しさに心を向けよ。星々を眺め、自分がそれと共に駆けていくさまを思い描け。');
+     '人生の美しさに心を向けよ。星々を眺め、自分がそれと共に駆けていくさまを思い描け。'),
+    ('When you arise in the morning, think of what a precious privilege it is to be alive.', 'ja',
+     '朝起きたら、生きているということがどれほど尊い特権であるかを思いなさい。');
