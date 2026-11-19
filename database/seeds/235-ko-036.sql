@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Change is the end result of all true learning.', 'ko',
      '변화는 모든 진정한 배움의 최종 결과다.'),
     ('Anyone who stops learning is old, whether at twenty or eighty.', 'ko',
-     '배움을 멈춘 사람은 스무 살이든 여든 살이든 늙은 것이다.');
+     '배움을 멈춘 사람은 스무 살이든 여든 살이든 늙은 것이다.'),
+    ('The only real voyage of discovery consists not in seeking new landscapes, but in having new eyes.', 'ko',
+     '진정한 발견의 여정은 새로운 풍경을 찾는 데 있지 않고 새로운 눈을 갖는 데 있다.');
