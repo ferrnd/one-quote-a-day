@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only those who will risk going too far can possibly find out how far one can go.', 'ja',
      '行きすぎる危険を冒す者だけが、人がどこまで行けるかを知ることができる。'),
     ('Fortune favors the bold.', 'ja',
-     '幸運は勇者に味方する。');
+     '幸運は勇者に味方する。'),
+    ('Courage is found in unlikely places.', 'ja',
+     '勇気は思いもよらない場所で見つかるものだ。');
