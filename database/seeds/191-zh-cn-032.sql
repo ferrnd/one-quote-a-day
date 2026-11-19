@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perseverance and spirit have done wonders in all ages.', 'zh-CN',
      '毅力和精神在任何时代都创造过奇迹。'),
     ('Courage is the price that life exacts for granting peace.', 'zh-CN',
-     '勇气是生活赐予安宁时所索取的代价。');
+     '勇气是生活赐予安宁时所索取的代价。'),
+    ('Adventure is worthwhile in itself.', 'zh-CN',
+     '冒险本身就是值得的。');
