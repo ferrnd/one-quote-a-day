@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('My mission in life is not merely to survive, but to thrive.', 'zh-CN',
      '我人生的使命不仅是生存，而是要活得精彩。'),
     ('You can''t be hesitant about who you are.', 'zh-CN',
-     '对于自己是谁，你不能犹豫不决。');
+     '对于自己是谁，你不能犹豫不决。'),
+    ('The most common way people give up their power is by thinking they don''t have any.', 'zh-CN',
+     '人们放弃自身力量最常见的方式，就是认为自己没有力量。');
