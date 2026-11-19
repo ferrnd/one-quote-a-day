@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I had to make my own living and my own opportunity. But I made it!', 'ko',
      '나는 스스로 생계를 꾸리고 스스로 기회를 만들어야 했다. 하지만 나는 해냈다!'),
     ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'ko',
-     '내가 그 자리에 오른 것은 바라거나 소망해서가 아니라, 그것을 위해 일했기 때문이다.');
+     '내가 그 자리에 오른 것은 바라거나 소망해서가 아니라, 그것을 위해 일했기 때문이다.'),
+    ('Fight for the things that you care about, but do it in a way that will lead others to join you.', 'ko',
+     '당신이 소중히 여기는 것을 위해 싸워라. 다만 다른 사람들이 함께하고 싶어지는 방식으로.');
