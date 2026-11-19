@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Progress is impossible without change, and those who cannot change their minds cannot change anything.', 'ja',
      '変化なくして進歩はない。考えを変えられない者は、何も変えることができない。'),
     ('Change is the law of life. And those who look only to the past or present are certain to miss the future.', 'ja',
-     '変化は人生の法則である。過去や現在だけを見ている者は、必ず未来を見失う。');
+     '変化は人生の法則である。過去や現在だけを見ている者は、必ず未来を見失う。'),
+    ('The secret of change is to focus all of your energy not on fighting the old, but on building the new.', 'ja',
+     '変化の秘訣は、古いものと戦うことではなく、新しいものを築くことに全エネルギーを注ぐことだ。');
