@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let us be of good cheer, remembering that the misfortunes hardest to bear are those which never come.', 'zh-CN',
      '让我们振作起来，记住，最难承受的不幸，是那些永远不会到来的不幸。'),
     ('The best way to cheer yourself up is to try to cheer somebody else up.', 'zh-CN',
-     '让自己振作起来的最好方法，就是努力让别人振作起来。');
+     '让自己振作起来的最好方法，就是努力让别人振作起来。'),
+    ('When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.', 'zh-CN',
+     '当阳光灿烂时，我什么都能做到；没有太高的山，也没有难以克服的困难。');
