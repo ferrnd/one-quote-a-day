@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t watch the clock; do what it does. Keep going.', 'zh-CN',
      '别盯着时钟看；像它一样，继续前进。'),
     ('What we hope ever to do with ease, we must learn first to do with diligence.', 'zh-CN',
-     '我们希望将来能轻松做到的事，必须先学会勤奋地去做。');
+     '我们希望将来能轻松做到的事，必须先学会勤奋地去做。'),
+    ('In the confrontation between the stream and the rock, the stream always wins, not through strength but by perseverance.', 'zh-CN',
+     '在溪流与岩石的较量中，溪流总是胜利者，靠的不是力量，而是坚持。');
