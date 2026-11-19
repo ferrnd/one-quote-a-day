@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life begins at the end of your comfort zone.', 'ja',
      '人生は、居心地のいい場所の終わりから始まる。'),
     ('I can''t change the direction of the wind, but I can adjust my sails to always reach my destination.', 'ja',
-     '風向きを変えることはできない。だが、帆を調整して必ず目的地にたどり着くことはできる。');
+     '風向きを変えることはできない。だが、帆を調整して必ず目的地にたどり着くことはできる。'),
+    ('We cannot become what we want by remaining what we are.', 'ja',
+     '今のままでいては、なりたい自分にはなれない。');
