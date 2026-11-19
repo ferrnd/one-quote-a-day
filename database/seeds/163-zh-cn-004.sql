@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To dare is to lose one''s footing momentarily. Not to dare is to lose oneself.', 'zh-CN',
      '敢于冒险，是暂时失去立足点；不敢冒险，是失去自我。'),
     ('It is not the mountain we conquer, but ourselves.', 'zh-CN',
-     '我们征服的不是高山，而是自己。');
+     '我们征服的不是高山，而是自己。'),
+    ('Leap, and the net will appear.', 'zh-CN',
+     '跳吧，网自然会出现。');
