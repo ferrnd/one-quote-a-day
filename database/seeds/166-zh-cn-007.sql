@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.', 'zh-CN',
      '最坚强的灵魂诞生于苦难，最伟大的品格都烙着伤疤。'),
     ('The oak fought the wind and was broken, the willow bent when it must and survived.', 'zh-CN',
-     '橡树与风搏斗，结果折断了；柳树在该弯腰时弯腰，于是活了下来。');
+     '橡树与风搏斗，结果折断了；柳树在该弯腰时弯腰，于是活了下来。'),
+    ('Although the world is full of suffering, it is also full of the overcoming of it.', 'zh-CN',
+     '虽然世界充满了苦难，但也充满了对苦难的战胜。');
