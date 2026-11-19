@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only way to make sense out of change is to plunge into it, move with it, and join the dance.', 'zh-CN',
      '理解变化的唯一方法，就是投身其中，随它而动，加入这场舞蹈。'),
     ('Life is like riding a bicycle. To keep your balance you must keep moving.', 'zh-CN',
-     '人生就像骑自行车，要保持平衡，就必须不断前进。');
+     '人生就像骑自行车，要保持平衡，就必须不断前进。'),
+    ('They always say time changes things, but you actually have to change them yourself.', 'zh-CN',
+     '人们总说时间会改变一切，但实际上你得自己去改变。');
