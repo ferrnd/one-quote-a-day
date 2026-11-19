@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be patient and tough; someday this pain will be useful to you.', 'ko',
      '인내하고 강해져라. 언젠가 이 고통이 너에게 쓸모가 있을 것이다.'),
     ('Dripping water hollows out stone, not through force but through persistence.', 'ko',
-     '떨어지는 물방울이 돌을 뚫는 것은 힘이 아니라 끈기 때문이다.');
+     '떨어지는 물방울이 돌을 뚫는 것은 힘이 아니라 끈기 때문이다.'),
+    ('All human wisdom is summed up in two words: wait and hope.', 'ko',
+     '인간의 모든 지혜는 두 마디로 요약된다. 기다려라, 그리고 희망하라.');
