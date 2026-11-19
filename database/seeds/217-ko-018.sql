@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard times don''t create heroes. It is during the hard times when the hero within us is revealed.', 'ko',
      '힘든 시기가 영웅을 만드는 것이 아니다. 힘든 시기에 우리 안의 영웅이 드러나는 것이다.'),
     ('Mountains cannot be surmounted except by winding paths.', 'ko',
-     '산은 굽이진 길을 통해서만 넘을 수 있다.');
+     '산은 굽이진 길을 통해서만 넘을 수 있다.'),
+    ('Pain is inevitable. Suffering is optional.', 'ko',
+     '고통은 피할 수 없지만, 괴로움은 선택이다.');
