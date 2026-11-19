@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you want to lift yourself up, lift up someone else.', 'ko',
      '자신을 높이고 싶다면 다른 누군가를 높여라.'),
     ('Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.', 'ko',
-     '성공은 인생에서 도달한 지위보다 극복한 장애물로 측정되어야 한다.');
+     '성공은 인생에서 도달한 지위보다 극복한 장애물로 측정되어야 한다.'),
+    ('Excellence is to do a common thing in an uncommon way.', 'ko',
+     '탁월함이란 평범한 일을 평범하지 않은 방식으로 하는 것이다.');
