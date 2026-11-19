@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every failure is a step to success.', 'ja',
      'すべての失敗は、成功への一歩である。'),
     ('Defeat is not the worst of failures. Not to have tried is the true failure.', 'ja',
-     '敗北は最悪の失敗ではない。挑戦しなかったことこそが本当の失敗だ。');
+     '敗北は最悪の失敗ではない。挑戦しなかったことこそが本当の失敗だ。'),
+    ('Failures are finger posts on the road to achievement.', 'ja',
+     '失敗は、達成への道に立つ道しるべである。');
