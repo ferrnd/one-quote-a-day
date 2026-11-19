@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'ko',
      '진보에는 언제나 위험이 따른다. 1루에 발을 둔 채로 2루를 훔칠 수는 없다.'),
     ('The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday''s logic.', 'ko',
-     '격동의 시기에 가장 큰 위험은 격동 그 자체가 아니라 어제의 논리로 행동하는 것이다.');
+     '격동의 시기에 가장 큰 위험은 격동 그 자체가 아니라 어제의 논리로 행동하는 것이다.'),
+    ('We must be willing to let go of the life we planned so as to have the life that is waiting for us.', 'ko',
+     '우리를 기다리고 있는 삶을 얻으려면, 계획했던 삶을 기꺼이 놓아줄 수 있어야 한다.');
