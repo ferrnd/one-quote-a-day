@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The key to everything is patience. You get the chicken by hatching the egg, not by smashing it.', 'zh-CN',
      '一切的关键在于耐心。你要靠孵蛋得到小鸡，而不是靠把蛋砸碎。'),
     ('Patience and time do more than strength or passion.', 'zh-CN',
-     '耐心和时间比力量或激情更有效。');
+     '耐心和时间比力量或激情更有效。'),
+    ('Our patience will achieve more than our force.', 'zh-CN',
+     '我们的耐心将比我们的力量成就更多。');
