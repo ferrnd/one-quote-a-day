@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only time can heal what reason cannot.', 'zh-CN',
      '理智无法治愈的，唯有时间能够治愈。'),
     ('Determination gives you the resolve to keep going in spite of the roadblocks that lay before you.', 'zh-CN',
-     '决心给你继续前进的毅力，无论前方有多少路障。');
+     '决心给你继续前进的毅力，无论前方有多少路障。'),
+    ('They can conquer who believe they can.', 'zh-CN',
+     '相信自己能够胜利的人，就能胜利。');
