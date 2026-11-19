@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Anyone who stops learning is old, whether at twenty or eighty.', 'ja',
      '学ぶことをやめた者は、二十歳であろうと八十歳であろうと老人である。'),
     ('The only real voyage of discovery consists not in seeking new landscapes, but in having new eyes.', 'ja',
-     '本当の発見の旅とは、新しい景色を探すことではなく、新しい目を持つことにある。');
+     '本当の発見の旅とは、新しい景色を探すことではなく、新しい目を持つことにある。'),
+    ('Not until we are lost do we begin to understand ourselves.', 'ja',
+     '道に迷って初めて、私たちは自分自身を理解し始める。');
