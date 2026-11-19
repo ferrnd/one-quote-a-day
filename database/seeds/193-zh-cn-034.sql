@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a verb with its shirtsleeves rolled up.', 'zh-CN',
      '希望是一个挽起袖子的动词。'),
     ('To hope is to give yourself to the future.', 'zh-CN',
-     '怀抱希望，就是把自己交给未来。');
+     '怀抱希望，就是把自己交给未来。'),
+    ('Hope is not a lottery ticket you can sit on the sofa and clutch, feeling lucky. It is an axe you break down doors with in an emergency.', 'zh-CN',
+     '希望不是一张可以坐在沙发上紧紧攥着、觉得自己很幸运的彩票。它是紧急时刻用来劈开门的斧头。');
