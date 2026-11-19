@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The darkest hour has only sixty minutes.', 'ja',
      '最も暗い時間も、六十分しかない。'),
     ('Never lose hope. Storms make people stronger and never last forever.', 'ja',
-     '希望を失ってはいけない。嵐は人を強くし、そして永遠に続くことはない。');
+     '希望を失ってはいけない。嵐は人を強くし、そして永遠に続くことはない。'),
+    ('Hope smiles from the threshold of the year to come, whispering ''it will be happier''.', 'ja',
+     '希望は来たる年の入り口から微笑み、「もっと幸せになるよ」とささやく。');
