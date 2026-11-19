@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.', 'zh-CN',
      '耐心与毅力有一种神奇的力量，在它面前，困难消散，障碍无踪。'),
     ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'zh-CN',
-     '凭借坚持，许多人从看似注定失败的境地中赢得了成功。');
+     '凭借坚持，许多人从看似注定失败的境地中赢得了成功。'),
+    ('Continuous effort, not strength or intelligence, is the key to unlocking our potential.', 'zh-CN',
+     '开启我们潜能的钥匙，不是力量，也不是智慧，而是持续的努力。');
