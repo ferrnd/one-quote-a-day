@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To hope is to give yourself to the future.', 'ko',
      '희망한다는 것은 자신을 미래에 내어 주는 것이다.'),
     ('Hope is not a lottery ticket you can sit on the sofa and clutch, feeling lucky. It is an axe you break down doors with in an emergency.', 'ko',
-     '희망은 소파에 앉아 움켜쥐고 운이 좋다고 느끼는 복권이 아니다. 비상시에 문을 부수는 도끼다.');
+     '희망은 소파에 앉아 움켜쥐고 운이 좋다고 느끼는 복권이 아니다. 비상시에 문을 부수는 도끼다.'),
+    ('Let us be of good cheer, remembering that the misfortunes hardest to bear are those which never come.', 'ko',
+     '기운을 내자. 가장 견디기 힘든 불행은 결코 오지 않는 불행이라는 것을 기억하면서.');
