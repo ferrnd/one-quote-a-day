@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing is so strong as gentleness, nothing so gentle as real strength.', 'zh-CN',
      '没有什么比温柔更强大，也没有什么比真正的强大更温柔。'),
     ('The oak sleeps in the acorn.', 'zh-CN',
-     '橡树沉睡在橡子里。');
+     '橡树沉睡在橡子里。'),
+    ('With the new day comes new strength and new thoughts.', 'zh-CN',
+     '新的一天带来新的力量和新的想法。');
