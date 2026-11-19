@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I attribute my success to this: I never gave or took any excuse.', 'zh-CN',
      '我把我的成功归因于此：我从不找借口，也从不接受借口。'),
     ('Imagination is more important than knowledge.', 'zh-CN',
-     '想象力比知识更重要。');
+     '想象力比知识更重要。'),
+    ('I have learned over the years that when one''s mind is made up, this diminishes fear.', 'zh-CN',
+     '这些年来我明白了，一个人一旦下定决心，恐惧就会减少。');
