@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never mistake motion for action.', 'ja',
      '動いていることを、行動していることと決して取り違えるな。'),
     ('Don''t let yesterday take up too much of today.', 'ja',
-     '昨日に、今日の時間をとられすぎてはいけない。');
+     '昨日に、今日の時間をとられすぎてはいけない。'),
+    ('Even if you''re on the right track, you''ll get run over if you just sit there.', 'ja',
+     '正しい線路の上にいても、ただ座っていたらひかれてしまう。');
