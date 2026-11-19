@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Endurance is patience concentrated.', 'zh-CN',
      '坚忍是凝聚起来的耐心。'),
     ('Patience and diligence, like faith, remove mountains.', 'zh-CN',
-     '耐心和勤奋，就像信念一样，能够移山。');
+     '耐心和勤奋，就像信念一样，能够移山。'),
+    ('Beware the fury of a patient man.', 'zh-CN',
+     '当心一个有耐心的人发怒。');
