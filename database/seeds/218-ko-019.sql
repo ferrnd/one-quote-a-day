@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the midst of chaos, there is also opportunity.', 'ko',
      '혼란 속에도 기회는 있다.'),
     ('What seems to us as bitter trials are often blessings in disguise.', 'ko',
-     '우리에게 쓰라린 시련처럼 보이는 것이 종종 변장한 축복이다.');
+     '우리에게 쓰라린 시련처럼 보이는 것이 종종 변장한 축복이다.'),
+    ('Great spirits have always encountered violent opposition from mediocre minds.', 'ko',
+     '위대한 정신은 언제나 평범한 사람들의 격렬한 반대에 부딪혀 왔다.');
