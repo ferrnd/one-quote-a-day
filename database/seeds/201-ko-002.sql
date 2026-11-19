@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Endurance is not just the ability to bear a hard thing, but to turn it into glory.', 'ko',
      '인내란 힘든 일을 견디는 능력일 뿐 아니라, 그것을 영광으로 바꾸는 능력이다.'),
     ('Perseverance, secret of all triumphs.', 'ko',
-     '끈기, 모든 승리의 비결.');
+     '끈기, 모든 승리의 비결.'),
+    ('The road to success is dotted with many tempting parking spaces.', 'ko',
+     '성공으로 가는 길에는 유혹적인 주차 공간이 곳곳에 있다.');
