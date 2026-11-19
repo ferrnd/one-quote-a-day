@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The more I practice, the luckier I get.', 'zh-CN',
      '我练得越多，运气就越好。'),
     ('Do not wait to strike till the iron is hot; but make it hot by striking.', 'zh-CN',
-     '不要等到铁烧热了才打，要在打的过程中让它变热。');
+     '不要等到铁烧热了才打，要在打的过程中让它变热。'),
+    ('Self-respect is the fruit of discipline; the sense of dignity grows with the ability to say no to oneself.', 'zh-CN',
+     '自尊是自律的果实；尊严感随着对自己说“不”的能力一同成长。');
