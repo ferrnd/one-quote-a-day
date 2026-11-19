@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Start where you are. Use what you have. Do what you can.', 'ja',
      '今いる場所から始めよ。持っているものを使え。できることをせよ。'),
     ('We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.', 'ja',
-     '私たちは蝶の美しさに喜ぶけれど、その美しさにたどり着くまでに蝶がくぐり抜けてきた変化を認めることはめったにない。');
+     '私たちは蝶の美しさに喜ぶけれど、その美しさにたどり着くまでに蝶がくぐり抜けてきた変化を認めることはめったにない。'),
+    ('It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.', 'ja',
+     '生き残るのは最も強い種でも、最も賢い種でもない。変化に最もよく適応する種である。');
