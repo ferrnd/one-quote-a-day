@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the end, everything will be okay. If it''s not okay, it''s not yet the end.', 'zh-CN',
      '最后一切都会好起来的。如果还没好，说明还没到最后。'),
     ('Hope is the companion of power, and mother of success.', 'zh-CN',
-     '希望是力量的伴侣，也是成功之母。');
+     '希望是力量的伴侣，也是成功之母。'),
+    ('Hope is itself a species of happiness.', 'zh-CN',
+     '希望本身就是一种幸福。');
