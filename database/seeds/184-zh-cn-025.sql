@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.', 'zh-CN',
      '永远不要因为实现梦想需要时间就放弃它，反正时间总会过去。'),
     ('Let everything happen to you: beauty and terror. Just keep going. No feeling is final.', 'zh-CN',
-     '让一切都发生在你身上吧：美丽和恐惧。只管继续前行，没有一种感受是最终的。');
+     '让一切都发生在你身上吧：美丽和恐惧。只管继续前行，没有一种感受是最终的。'),
+    ('No snowflake ever falls in the wrong place.', 'zh-CN',
+     '没有一片雪花会落错地方。');
