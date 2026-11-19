@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'ja',
      '頭で思い描くことができ、心で信じることができるなら、俺はそれを成し遂げられる。'),
     ('Confidence is contagious. So is lack of confidence.', 'ja',
-     '自信は伝染する。自信のなさもまた伝染する。');
+     '自信は伝染する。自信のなさもまた伝染する。'),
+    ('Nurture your mind with great thoughts, for you will never go any higher than you think.', 'ja',
+     '偉大な思想で心を養え。人は自分が考える以上に高くは昇れないのだから。');
