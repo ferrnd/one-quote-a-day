@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('An idea not coupled with action will never get any bigger than the brain cell it occupied.', 'zh-CN',
      '一个不与行动结合的想法，永远不会比它所占据的那个脑细胞更大。'),
     ('Talk does not cook rice.', 'zh-CN',
-     '空谈煮不熟米饭。');
+     '空谈煮不熟米饭。'),
+    ('If not now, when?', 'zh-CN',
+     '此时不做，更待何时？');
