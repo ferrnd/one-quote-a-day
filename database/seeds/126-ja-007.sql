@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life doesn''t get easier or more forgiving, we get stronger and more resilient.', 'ja',
      '人生が楽になったり優しくなったりするわけではない。私たちが強く、しなやかになっていくのだ。'),
     ('Do not pray for an easy life, pray for the strength to endure a difficult one.', 'ja',
-     '楽な人生を祈るな。困難な人生に耐える強さを祈れ。');
+     '楽な人生を祈るな。困難な人生に耐える強さを祈れ。'),
+    ('The human capacity for burden is like bamboo: far more flexible than you''d ever believe at first glance.', 'ja',
+     '人が重荷を背負う力は竹のようなものだ。一見して思うよりも、はるかにしなやかなのだ。');
