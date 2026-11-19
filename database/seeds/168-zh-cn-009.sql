@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In all things it is better to hope than to despair.', 'zh-CN',
      '无论何事，抱有希望总比陷入绝望要好。'),
     ('Hope is important because it can make the present moment less difficult to bear.', 'zh-CN',
-     '希望之所以重要，是因为它能让当下变得不那么难熬。');
+     '希望之所以重要，是因为它能让当下变得不那么难熬。'),
+    ('No matter how long the winter, spring is sure to follow.', 'zh-CN',
+     '冬天无论多么漫长，春天总会到来。');
