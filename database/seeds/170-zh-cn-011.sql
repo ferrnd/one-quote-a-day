@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day.', 'zh-CN',
      '抓紧你的帽子，抓紧你的希望，再给时钟上好发条，因为明天又是新的一天。'),
     ('There are far, far better things ahead than any we leave behind.', 'zh-CN',
-     '前方还有远比我们留在身后的任何东西都更美好的事物。');
+     '前方还有远比我们留在身后的任何东西都更美好的事物。'),
+    ('In spite of everything I still believe that people are really good at heart.', 'zh-CN',
+     '尽管发生了这一切，我仍然相信人的内心本质是善良的。');
