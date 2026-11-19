@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our patience will achieve more than our force.', 'zh-CN',
      '我们的耐心将比我们的力量成就更多。'),
     ('How poor are they that have not patience! What wound did ever heal but by degrees?', 'zh-CN',
-     '没有耐心的人是多么可怜！哪一处伤口不是慢慢愈合的？');
+     '没有耐心的人是多么可怜！哪一处伤口不是慢慢愈合的？'),
+    ('Patience is the art of hoping.', 'zh-CN',
+     '耐心是希望的艺术。');
