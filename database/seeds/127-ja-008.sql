@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Difficulties strengthen the mind, as labor does the body.', 'ja',
      '労働が体を鍛えるように、困難は心を鍛える。'),
     ('Although no one can go back and make a brand new start, anyone can start from now and make a brand new ending.', 'ja',
-     '誰も過去に戻ってまったく新しいスタートを切ることはできないが、誰でも今から始めて、まったく新しい結末をつくることはできる。');
+     '誰も過去に戻ってまったく新しいスタートを切ることはできないが、誰でも今から始めて、まったく新しい結末をつくることはできる。'),
+    ('I''ve been absolutely terrified every moment of my life and I''ve never let it keep me from doing a single thing I wanted to do.', 'ja',
+     '私は人生のあらゆる瞬間にひどく怯えてきた。それでも、そのせいでやりたいことを一つでも諦めたことはない。');
