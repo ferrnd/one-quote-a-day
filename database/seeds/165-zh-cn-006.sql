@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure isn''t fatal, but failure to change might be.', 'zh-CN',
      '失败不是致命的，但不肯改变可能是。'),
     ('If you learn from defeat, you haven''t really lost.', 'zh-CN',
-     '如果你从失败中学到了东西，你就没有真正输掉。');
+     '如果你从失败中学到了东西，你就没有真正输掉。'),
+    ('The master has failed more times than the beginner has even tried.', 'zh-CN',
+     '大师失败的次数，比初学者尝试的次数还要多。');
