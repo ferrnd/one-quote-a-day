@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength doesn''t come from what you can do. It comes from overcoming the things you once thought you couldn''t.', 'ja',
      '強さは、自分にできることから生まれるのではない。かつてはできないと思っていたことを乗り越えることから生まれるのだ。'),
     ('Excellence is not a skill. It is an attitude.', 'ja',
-     '卓越は技術ではない。姿勢である。');
+     '卓越は技術ではない。姿勢である。'),
+    ('Do the hard jobs first. The easy jobs will take care of themselves.', 'ja',
+     '難しい仕事から先にやりなさい。易しい仕事は自然に片づく。');
