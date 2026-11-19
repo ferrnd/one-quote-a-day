@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perseverance and spirit have done wonders in all ages.', 'ja',
      '忍耐と気概は、いつの時代にも奇跡を起こしてきた。'),
     ('Courage is the price that life exacts for granting peace.', 'ja',
-     '勇気とは、人生が安らぎを与える代わりに求める代償である。');
+     '勇気とは、人生が安らぎを与える代わりに求める代償である。'),
+    ('Adventure is worthwhile in itself.', 'ja',
+     '冒険は、それ自体に価値がある。');
