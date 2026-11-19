@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have power over your mind, not outside events. Realize this, and you will find strength.', 'ko',
      '당신이 다스릴 수 있는 것은 외부의 사건이 아니라 당신의 마음이다. 이것을 깨달으면 힘을 찾게 될 것이다.'),
     ('The impediment to action advances action. What stands in the way becomes the way.', 'ko',
-     '행동을 가로막는 것이 행동을 앞으로 나아가게 한다. 길을 막는 것이 길이 된다.');
+     '행동을 가로막는 것이 행동을 앞으로 나아가게 한다. 길을 막는 것이 길이 된다.'),
+    ('If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.', 'ko',
+     '외부의 무언가 때문에 괴롭다면, 그 고통은 그것 자체 때문이 아니라 그것에 대한 당신의 판단 때문이다. 그리고 그 판단은 언제든 거둘 수 있다.');
