@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A champion is someone who gets up when he can''t.', 'zh-CN',
      '冠军就是在站不起来时依然站起来的人。'),
     ('Never give in. Never, never, never, never.', 'zh-CN',
-     '永不屈服。永不，永不，永不，永不。');
+     '永不屈服。永不，永不，永不，永不。'),
+    ('Success seems to be connected with action. Successful people keep moving.', 'zh-CN',
+     '成功似乎总与行动相连。成功的人一直在前进。');
