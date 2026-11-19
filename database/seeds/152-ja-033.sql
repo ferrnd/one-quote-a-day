@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The human spirit is stronger than anything that can happen to it.', 'ja',
      '人間の精神は、その身に起こりうるどんなことよりも強い。'),
     ('Life is not about how fast you run or how high you climb, but how well you bounce.', 'ja',
-     '人生とは、どれだけ速く走るかでも、どれだけ高く登るかでもない。どれだけうまく跳ね返るかだ。');
+     '人生とは、どれだけ速く走るかでも、どれだけ高く登るかでもない。どれだけうまく跳ね返るかだ。'),
+    ('No mud, no lotus.', 'ja',
+     '泥なくして、蓮は咲かない。');
