@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The man who has confidence in himself gains the confidence of others.', 'zh-CN',
      '对自己有信心的人，也会赢得别人的信任。'),
     ('Once you replace negative thoughts with positive ones, you''ll start having positive results.', 'zh-CN',
-     '一旦你用积极的想法取代消极的想法，你就会开始得到积极的结果。');
+     '一旦你用积极的想法取代消极的想法，你就会开始得到积极的结果。'),
+    ('When you change the way you look at things, the things you look at change.', 'zh-CN',
+     '当你改变看待事物的方式，你所看的事物也会随之改变。');
