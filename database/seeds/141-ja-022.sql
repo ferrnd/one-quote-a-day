@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Too many of us are not living our dreams because we are living our fears.', 'ja',
      '多くの人が夢を生きていないのは、恐れを生きているからだ。'),
     ('Shoot for the moon. Even if you miss, you''ll land among the stars.', 'ja',
-     '月を目指せ。たとえ外れても、星々の間に着地できる。');
+     '月を目指せ。たとえ外れても、星々の間に着地できる。'),
+    ('It''s not what you look at that matters, it''s what you see.', 'ja',
+     '大切なのは何を見るかではなく、何が見えるかだ。');
