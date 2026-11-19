@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.', 'ja',
      '我々は、この十年のうちに月へ行くことを選ぶ。そしてほかのことも。それが容易だからではなく、困難だからである。'),
     ('Opportunities multiply as they are seized.', 'ja',
-     'チャンスは、つかむほどに増えていく。');
+     'チャンスは、つかむほどに増えていく。'),
+    ('You can''t wait for inspiration. You have to go after it with a club.', 'ja',
+     'ひらめきを待っていてはいけない。棍棒を持って追いかけなければならない。');
