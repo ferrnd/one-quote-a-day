@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every strike brings me closer to the next home run.', 'ko',
      '헛스윙을 할 때마다 나는 다음 홈런에 더 가까워진다.'),
     ('You just can''t beat the person who never gives up.', 'ko',
-     '결코 포기하지 않는 사람은 도저히 이길 수 없다.');
+     '결코 포기하지 않는 사람은 도저히 이길 수 없다.'),
+    ('Don''t watch the clock; do what it does. Keep going.', 'ko',
+     '시계를 보지 마라. 시계처럼 하라. 계속 나아가라.');
