@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All our dreams can come true, if we have the courage to pursue them.', 'ja',
      '追い求める勇気があれば、すべての夢はかなう。'),
     ('First, think. Second, dream. Third, believe. And finally, dare.', 'ja',
-     'まず考えよ。次に夢見よ。そして信じよ。最後に、挑め。');
+     'まず考えよ。次に夢見よ。そして信じよ。最後に、挑め。'),
+    ('A dream you dream alone is only a dream. A dream you dream together is reality.', 'ja',
+     '一人で見る夢はただの夢。みんなで見る夢は現実になる。');
