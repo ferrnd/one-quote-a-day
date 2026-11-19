@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Mountains cannot be surmounted except by winding paths.', 'ko',
      '산은 굽이진 길을 통해서만 넘을 수 있다.'),
     ('Pain is inevitable. Suffering is optional.', 'ko',
-     '고통은 피할 수 없지만, 괴로움은 선택이다.');
+     '고통은 피할 수 없지만, 괴로움은 선택이다.'),
+    ('Problems are only opportunities in work clothes.', 'ko',
+     '문제란 작업복을 입은 기회일 뿐이다.');
