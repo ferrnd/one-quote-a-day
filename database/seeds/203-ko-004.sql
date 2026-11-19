@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not the critic who counts.', 'ko',
      '중요한 것은 비평하는 사람이 아니다.'),
     ('The credit belongs to the man who is actually in the arena.', 'ko',
-     '영광은 실제로 경기장에 서 있는 사람의 것이다.');
+     '영광은 실제로 경기장에 서 있는 사람의 것이다.'),
+    ('Fear has two meanings: forget everything and run, or face everything and rise.', 'ko',
+     '두려움에는 두 가지 뜻이 있다. 모든 것을 잊고 도망치거나, 모든 것에 맞서 일어서거나.');
