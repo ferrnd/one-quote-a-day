@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Vitality shows in not only the ability to persist but the ability to start over.', 'ko',
      '생명력은 버티는 능력뿐 아니라 다시 시작하는 능력에서도 드러난다.'),
     ('But man is not made for defeat. A man can be destroyed but not defeated.', 'ko',
-     '하지만 인간은 패배하도록 만들어지지 않았다. 인간은 파멸할 수는 있어도 패배하지는 않는다.');
+     '하지만 인간은 패배하도록 만들어지지 않았다. 인간은 파멸할 수는 있어도 패배하지는 않는다.'),
+    ('Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.', 'ko',
+     '인생은 언제나 좋은 패를 쥐는 것이 아니라, 때로는 나쁜 패를 잘 쓰는 것이다.');
