@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only thing we have to fear is fear itself.', 'zh-CN',
      '我们唯一需要恐惧的，是恐惧本身。'),
     ('Courage is knowing what not to fear.', 'zh-CN',
-     '勇气就是知道什么不必恐惧。');
+     '勇气就是知道什么不必恐惧。'),
+    ('Feel the fear and do it anyway.', 'zh-CN',
+     '感受恐惧，然后照做不误。');
