@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No mud, no lotus.', 'zh-CN',
      '没有淤泥，就没有莲花。'),
     ('If you want to see the sunshine, you have to weather the storm.', 'zh-CN',
-     '如果你想看到阳光，就必须经受住风暴。');
+     '如果你想看到阳光，就必须经受住风暴。'),
+    ('The strongest people find the courage and caring to help others, even if they are going through their own storm.', 'zh-CN',
+     '最坚强的人，即使正经历自己的风暴，也能找到帮助他人的勇气和关怀。');
