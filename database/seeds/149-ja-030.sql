@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not afraid of tomorrow, for I have seen yesterday and I love today.', 'ja',
      '私は明日を恐れない。昨日を見てきたし、今日を愛しているから。'),
     ('Every day is a new day.', 'ja',
-     '毎日が新しい一日だ。');
+     '毎日が新しい一日だ。'),
+    ('The only journey is the one within.', 'ja',
+     '唯一の旅とは、自分の内側への旅である。');
