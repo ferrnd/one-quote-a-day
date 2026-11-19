@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have not failed. I''ve just found 10,000 ways that won''t work.', 'ja',
      '私は失敗したことがない。うまくいかない方法を一万通り見つけただけだ。'),
     ('Failure is simply the opportunity to begin again, this time more intelligently.', 'ja',
-     '失敗とは、より賢くもう一度始めるための機会にすぎない。');
+     '失敗とは、より賢くもう一度始めるための機会にすぎない。'),
+    ('Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.', 'ja',
+     '挑戦した。失敗した。かまわない。また挑戦しろ。また失敗しろ。もっとうまく失敗しろ。');
