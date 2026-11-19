@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When it is obvious that the goals cannot be reached, don''t adjust the goals, adjust the action steps.', 'ko',
      '목표에 도달할 수 없다는 것이 분명해지면, 목표를 바꾸지 말고 행동 단계를 바꿔라.'),
     ('Victory is sweetest when you''ve known defeat.', 'ko',
-     '패배를 알아 본 사람에게 승리는 가장 달콤하다.');
+     '패배를 알아 본 사람에게 승리는 가장 달콤하다.'),
+    ('It is a mistake to look too far ahead. Only one link of the chain of destiny can be handled at a time.', 'ko',
+     '너무 멀리 내다보는 것은 실수다. 운명의 사슬은 한 번에 한 고리씩만 다룰 수 있다.');
