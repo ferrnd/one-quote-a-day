@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who is brave is free.', 'zh-CN',
      '勇敢的人是自由的。'),
     ('I must not fear. Fear is the mind-killer.', 'zh-CN',
-     '我决不能害怕。恐惧是心灵的杀手。');
+     '我决不能害怕。恐惧是心灵的杀手。'),
+    ('Courage is the main quality of leadership.', 'zh-CN',
+     '勇气是领导力的首要品质。');
