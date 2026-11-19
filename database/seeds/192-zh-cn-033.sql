@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'zh-CN',
      '失败时时刻刻都在发生，每天训练中都在发生。让你变得更好的，是你如何应对它。'),
     ('There are no mistakes or failures, only lessons.', 'zh-CN',
-     '没有错误，也没有失败，只有教训。');
+     '没有错误，也没有失败，只有教训。'),
+    ('I have learned more from my mistakes than from my successes.', 'zh-CN',
+     '我从错误中学到的，比从成功中学到的更多。');
