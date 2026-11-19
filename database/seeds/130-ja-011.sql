@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A woman is like a tea bag; you can''t tell how strong she is until you put her in hot water.', 'ja',
      '女性はティーバッグのようなもの。熱いお湯に入れてみるまで、どれほど強いかはわからない。'),
     ('Strength is the product of struggle. You must do what others don''t to achieve what others won''t.', 'ja',
-     '強さは苦闘から生まれる。他人が成し遂げないことを成し遂げるには、他人がしないことをしなければならない。');
+     '強さは苦闘から生まれる。他人が成し遂げないことを成し遂げるには、他人がしないことをしなければならない。'),
+    ('The strongest of all warriors are these two: time and patience.', 'ja',
+     'あらゆる戦士の中で最も強いのは、この二つ。時間と忍耐である。');
