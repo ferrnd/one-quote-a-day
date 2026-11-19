@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The future depends on what you do today.', 'ja',
      '未来は、今日あなたが何をするかにかかっている。'),
     ('Never put off till tomorrow what you can do today.', 'ja',
-     '今日できることを、明日に延ばすな。');
+     '今日できることを、明日に延ばすな。'),
+    ('Do the difficult things while they are easy and do the great things while they are small.', 'ja',
+     '難しいことは、それが易しいうちにやれ。大きなことは、それが小さいうちにやれ。');
