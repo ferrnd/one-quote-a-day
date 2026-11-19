@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ideas are easy. Implementation is hard.', 'ko',
      '아이디어는 쉽다. 실행은 어렵다.'),
     ('Begin, be bold, and venture to be wise.', 'ko',
-     '시작하라, 대담하라, 그리고 지혜로워지기를 감행하라.');
+     '시작하라, 대담하라, 그리고 지혜로워지기를 감행하라.'),
+    ('Dream big and dare to fail.', 'ko',
+     '크게 꿈꾸고 실패를 무릅써라.');
