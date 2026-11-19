@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing is impossible. The word itself says ''I''m possible''!', 'ko',
      '불가능한 것은 없다. Impossible(불가능)이라는 단어 자체가 "I''m possible(나는 할 수 있다)"이라고 말하고 있으니까!'),
     ('Stars can''t shine without darkness.', 'ko',
-     '어둠이 없으면 별은 빛날 수 없다.');
+     '어둠이 없으면 별은 빛날 수 없다.'),
+    ('The wound is the place where the Light enters you.', 'ko',
+     '상처는 빛이 당신 안으로 들어오는 자리다.');
