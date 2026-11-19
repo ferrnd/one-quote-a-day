@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A man is not old until regrets take the place of dreams.', 'ko',
      '후회가 꿈을 대신하기 전까지 사람은 늙지 않는다.'),
     ('In dreams begins responsibility.', 'ko',
-     '꿈에서 책임이 시작된다.');
+     '꿈에서 책임이 시작된다.'),
+    ('Tread softly because you tread on my dreams.', 'ko',
+     '사뿐히 밟아 주오. 그대가 밟는 것은 나의 꿈이니.');
