@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard days are the best because that''s when champions are made.', 'ko',
      '힘든 날이 최고의 날이다. 챔피언은 바로 그런 날에 만들어지기 때문이다.'),
     ('There is always light, if only we''re brave enough to see it. If only we''re brave enough to be it.', 'ko',
-     '빛은 언제나 있다. 우리가 그것을 볼 만큼 용감하기만 하다면. 우리가 그 빛이 될 만큼 용감하기만 하다면.');
+     '빛은 언제나 있다. 우리가 그것을 볼 만큼 용감하기만 하다면. 우리가 그 빛이 될 만큼 용감하기만 하다면.'),
+    ('Hope is a verb with its shirtsleeves rolled up.', 'ko',
+     '희망은 소매를 걷어붙인 동사다.');
