@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard work is a prison sentence only if it does not have meaning.', 'ko',
      '고된 일이 징역형이 되는 것은 그 일에 의미가 없을 때뿐이다.'),
     ('We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.', 'ko',
-     '우리는 정의로운 행동을 함으로써 정의로워지고, 절제된 행동을 함으로써 절제하게 되며, 용감한 행동을 함으로써 용감해진다.');
+     '우리는 정의로운 행동을 함으로써 정의로워지고, 절제된 행동을 함으로써 절제하게 되며, 용감한 행동을 함으로써 용감해진다.'),
+    ('Never mistake activity for achievement.', 'ko',
+     '활동을 성취로 착각하지 마라.');
