@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Many of life''s failures are people who did not realize how close they were to success when they gave up.', 'ko',
      '인생에서 실패한 사람들 중 많은 이들은 포기하는 순간 자신이 성공에 얼마나 가까이 있었는지 몰랐던 사람들이다.'),
     ('I am a slow walker, but I never walk back.', 'ko',
-     '나는 느리게 걷지만, 결코 뒤로 걷지는 않는다.');
+     '나는 느리게 걷지만, 결코 뒤로 걷지는 않는다.'),
+    ('Great works are performed not by strength but by perseverance.', 'ko',
+     '위대한 일은 힘이 아니라 인내로 이루어진다.');
