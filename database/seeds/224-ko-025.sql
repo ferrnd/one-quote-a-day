@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the support of weakness; impatience the ruin of strength.', 'ko',
      '인내는 약함을 지탱해 주고, 조급함은 강함을 무너뜨린다.'),
     ('Endurance is patience concentrated.', 'ko',
-     '끈기란 응축된 인내다.');
+     '끈기란 응축된 인내다.'),
+    ('Patience and diligence, like faith, remove mountains.', 'ko',
+     '인내와 근면은 믿음처럼 산도 옮긴다.');
