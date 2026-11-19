@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best revenge is not to be like your enemy.', 'ja',
      '最高の復讐は、敵と同じようにならないことだ。'),
     ('Loss is nothing else but change, and change is Nature''s delight.', 'ja',
-     '喪失とは変化にほかならない。そして変化は、自然の喜びである。');
+     '喪失とは変化にほかならない。そして変化は、自然の喜びである。'),
+    ('Dwell on the beauty of life. Watch the stars, and see yourself running with them.', 'ja',
+     '人生の美しさに心を向けよ。星々を眺め、自分がそれと共に駆けていくさまを思い描け。');
