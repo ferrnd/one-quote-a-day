@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is the sum of small efforts, repeated day in and day out.', 'zh-CN',
      '成功是日复一日重复的小小努力的总和。'),
     ('It always seems impossible until it''s done.', 'zh-CN',
-     '事情在完成之前，总是看起来不可能。');
+     '事情在完成之前，总是看起来不可能。'),
+    ('Nothing in this world can take the place of persistence.', 'zh-CN',
+     '世上没有任何东西能取代坚持。');
