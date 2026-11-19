@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dripping water hollows out stone, not through force but through persistence.', 'ja',
      'したたる水は石をうがつ。力によってではなく、絶え間なさによって。'),
     ('All human wisdom is summed up in two words: wait and hope.', 'ja',
-     '人間の知恵はすべて、二つの言葉に要約される。待て、そして希望せよ。');
+     '人間の知恵はすべて、二つの言葉に要約される。待て、そして希望せよ。'),
+    ('The key to everything is patience. You get the chicken by hatching the egg, not by smashing it.', 'ja',
+     'すべての鍵は忍耐だ。鶏を得るには、卵を割るのではなく、かえすのだ。');
