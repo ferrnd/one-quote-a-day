@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The soul becomes dyed with the color of its thoughts.', 'ja',
      '魂は、その思考の色に染まっていく。'),
     ('Success is not the key to happiness. Happiness is the key to success.', 'ja',
-     '成功は幸福の鍵ではない。幸福こそが成功の鍵である。');
+     '成功は幸福の鍵ではない。幸福こそが成功の鍵である。'),
+    ('Patience is the calm acceptance that things can happen in a different order than the one you have in mind.', 'ja',
+     '忍耐とは、物事が自分の思い描いた順序とは違う順序で起こりうることを、落ち着いて受け入れることだ。');
