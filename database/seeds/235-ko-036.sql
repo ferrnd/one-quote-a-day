@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Re-examine all you have been told; dismiss what insults your soul.', 'ko',
      '지금까지 들어 온 모든 것을 다시 검토하고, 당신의 영혼을 모욕하는 것은 버려라.'),
     ('Change is the end result of all true learning.', 'ko',
-     '변화는 모든 진정한 배움의 최종 결과다.');
+     '변화는 모든 진정한 배움의 최종 결과다.'),
+    ('Anyone who stops learning is old, whether at twenty or eighty.', 'ko',
+     '배움을 멈춘 사람은 스무 살이든 여든 살이든 늙은 것이다.');
