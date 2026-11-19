@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can''t go back to yesterday because I was a different person then.', 'zh-CN',
      '我回不到昨天了，因为那时的我是另一个人。'),
     ('Real change, enduring change, happens one step at a time.', 'zh-CN',
-     '真正的改变、持久的改变，是一步一步发生的。');
+     '真正的改变、持久的改变，是一步一步发生的。'),
+    ('I was taught that the way of progress was neither swift nor easy.', 'zh-CN',
+     '我被教导说，进步之路既不迅速，也不轻松。');
