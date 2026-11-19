@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.', 'zh-CN',
      '面对敌人需要极大的勇气，而面对朋友也需要同样多的勇气。'),
     ('Do the thing you fear, and the death of fear is certain.', 'zh-CN',
-     '去做你害怕的事，恐惧必将消亡。');
+     '去做你害怕的事，恐惧必将消亡。'),
+    ('Fear is only as deep as the mind allows.', 'zh-CN',
+     '恐惧有多深，取决于心允许它有多深。');
