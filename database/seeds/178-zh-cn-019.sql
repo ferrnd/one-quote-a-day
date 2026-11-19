@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The way to get started is to quit talking and begin doing.', 'zh-CN',
      '开始的方法，就是停止空谈，动手去做。'),
     ('Do not wait; the time will never be just right.', 'zh-CN',
-     '不要等待，时机永远不会恰到好处。');
+     '不要等待，时机永远不会恰到好处。'),
+    ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'zh-CN',
+     '知道还不够，我们必须应用；愿意还不够，我们必须行动。');
