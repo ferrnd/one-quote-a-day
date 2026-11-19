@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The struggle itself toward the heights is enough to fill a man''s heart. One must imagine Sisyphus happy.', 'zh-CN',
      '向着高处挣扎本身，就足以充实一个人的心。我们必须想象西西弗斯是幸福的。'),
     ('Sometimes adversity is what you need to face in order to become successful.', 'zh-CN',
-     '有时候，你必须面对逆境，才能取得成功。');
+     '有时候，你必须面对逆境，才能取得成功。'),
+    ('Hard times don''t create heroes. It is during the hard times when the hero within us is revealed.', 'zh-CN',
+     '艰难的时代并不创造英雄，而是在艰难的时代，我们内心的英雄才显现出来。');
