@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Diamonds are nothing more than chunks of coal that stuck to their jobs.', 'zh-CN',
      '钻石不过是坚守岗位的煤块而已。'),
     ('Great things are not done by impulse, but by a series of small things brought together.', 'zh-CN',
-     '伟大的事业不是靠一时冲动完成的，而是由一连串小事汇聚而成。');
+     '伟大的事业不是靠一时冲动完成的，而是由一连串小事汇聚而成。'),
+    ('Genius is one percent inspiration and ninety-nine percent perspiration.', 'zh-CN',
+     '天才是百分之一的灵感加百分之九十九的汗水。');
