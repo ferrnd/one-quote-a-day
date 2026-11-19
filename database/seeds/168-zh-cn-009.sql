@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The darkest hour has only sixty minutes.', 'zh-CN',
      '最黑暗的时刻也只有六十分钟。'),
     ('Never lose hope. Storms make people stronger and never last forever.', 'zh-CN',
-     '永远不要失去希望。风暴让人更坚强，而且永远不会持续到永远。');
+     '永远不要失去希望。风暴让人更坚强，而且永远不会持续到永远。'),
+    ('Hope smiles from the threshold of the year to come, whispering ''it will be happier''.', 'zh-CN',
+     '希望在新一年的门槛上微笑，轻声说：“会更幸福的。”');
