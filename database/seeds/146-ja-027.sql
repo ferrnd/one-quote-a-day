@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have stood on a mountain of no''s for one yes.', 'ja',
      '一つの「イエス」のために、私は山ほどの「ノー」の上に立ってきた。'),
     ('I had to make my own living and my own opportunity. But I made it!', 'ja',
-     '私は自分で生計を立て、自分でチャンスをつくらなければならなかった。そして、やり遂げた！');
+     '私は自分で生計を立て、自分でチャンスをつくらなければならなかった。そして、やり遂げた！'),
+    ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'ja',
+     '私がそこにたどり着いたのは、願ったり望んだりしたからではなく、そのために働いたからだ。');
