@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To live without hope is to cease to live.', 'ko',
      '희망 없이 사는 것은 사는 것을 멈추는 것이다.'),
     ('In all things it is better to hope than to despair.', 'ko',
-     '모든 일에서 절망하는 것보다 희망을 갖는 편이 낫다.');
+     '모든 일에서 절망하는 것보다 희망을 갖는 편이 낫다.'),
+    ('Hope is important because it can make the present moment less difficult to bear.', 'ko',
+     '희망이 중요한 이유는 지금 이 순간을 조금 덜 힘들게 견디게 해 주기 때문이다.');
