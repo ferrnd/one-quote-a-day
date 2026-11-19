@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You must expect great things of yourself before you can do them.', 'ja',
      '偉大なことを成し遂げる前に、まず自分に偉大なことを期待しなければならない。'),
     ('I attribute my success to this: I never gave or took any excuse.', 'ja',
-     '私が成功したのは、決して言い訳をしなかったし、受け入れもしなかったからだ。');
+     '私が成功したのは、決して言い訳をしなかったし、受け入れもしなかったからだ。'),
+    ('Imagination is more important than knowledge.', 'ja',
+     '想像力は知識よりも大切である。');
