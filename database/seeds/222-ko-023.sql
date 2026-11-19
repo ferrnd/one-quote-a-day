@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I attribute my success to this: I never gave or took any excuse.', 'ko',
      '내 성공의 비결은 이것이다. 나는 결코 변명을 하지도 받아들이지도 않았다.'),
     ('Imagination is more important than knowledge.', 'ko',
-     '상상력은 지식보다 중요하다.');
+     '상상력은 지식보다 중요하다.'),
+    ('I have learned over the years that when one''s mind is made up, this diminishes fear.', 'ko',
+     '나는 오랜 세월 동안 배웠다. 마음을 굳게 정하면 두려움이 줄어든다는 것을.');
