@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you can imagine it, you can achieve it.', 'ja',
      '想像できるなら、実現できる。'),
     ('The dreamers are the saviors of the world.', 'ja',
-     '夢見る人こそ、世界の救い主である。');
+     '夢見る人こそ、世界の救い主である。'),
+    ('Dream lofty dreams, and as you dream, so shall you become.', 'ja',
+     '気高い夢を見よ。あなたは夢見たとおりの人になるだろう。');
