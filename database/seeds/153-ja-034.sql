@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the companion of power, and mother of success.', 'ja',
      '希望は力の伴侶であり、成功の母である。'),
     ('Hope is itself a species of happiness.', 'ja',
-     '希望とは、それ自体が一種の幸福である。');
+     '希望とは、それ自体が一種の幸福である。'),
+    ('The sun shines not on us but in us.', 'ja',
+     '太陽は私たちの上ではなく、私たちの中で輝いている。');
