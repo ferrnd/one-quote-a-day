@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Effort only fully releases its reward after a person refuses to quit.', 'zh-CN',
      '只有当一个人拒绝放弃时，努力才会把回报全部交给他。'),
     ('Patience, persistence and perspiration make an unbeatable combination for success.', 'zh-CN',
-     '耐心、坚持和汗水，是成功无可匹敌的组合。');
+     '耐心、坚持和汗水，是成功无可匹敌的组合。'),
+    ('A champion is someone who gets up when he can''t.', 'zh-CN',
+     '冠军就是在站不起来时依然站起来的人。');
