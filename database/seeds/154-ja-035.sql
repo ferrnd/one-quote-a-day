@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You cannot run away from a weakness; you must some time fight it out or perish.', 'ja',
      '弱さから逃げることはできない。いつかそれと戦い抜くか、さもなくば滅びるしかない。'),
     ('Do not go gentle into that good night. Rage, rage against the dying of the light.', 'ja',
-     '穏やかにあの良き夜へと身を委ねるな。怒れ、怒れ、消えゆく光に抗って。');
+     '穏やかにあの良き夜へと身を委ねるな。怒れ、怒れ、消えゆく光に抗って。'),
+    ('Strength doesn''t come from what you can do. It comes from overcoming the things you once thought you couldn''t.', 'ja',
+     '強さは、自分にできることから生まれるのではない。かつてはできないと思っていたことを乗り越えることから生まれるのだ。');
