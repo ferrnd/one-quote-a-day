@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Turn your face to the sun and the shadows fall behind you.', 'zh-CN',
      '面向太阳，阴影就会落在你身后。'),
     ('A man of character finds a special attractiveness in difficulty.', 'zh-CN',
-     '有骨气的人，在困难中发现一种特别的魅力。');
+     '有骨气的人，在困难中发现一种特别的魅力。'),
+    ('Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.', 'zh-CN',
+     '困难是为了激励人，而不是让人气馁。人的精神要在冲突中变得强大。');
