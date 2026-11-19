@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To live without hope is to cease to live.', 'zh-CN',
      '没有希望地活着，就等于停止了生活。'),
     ('In all things it is better to hope than to despair.', 'zh-CN',
-     '无论何事，抱有希望总比陷入绝望要好。');
+     '无论何事，抱有希望总比陷入绝望要好。'),
+    ('Hope is important because it can make the present moment less difficult to bear.', 'zh-CN',
+     '希望之所以重要，是因为它能让当下变得不那么难熬。');
