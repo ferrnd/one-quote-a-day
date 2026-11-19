@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not fear mistakes. There are none.', 'zh-CN',
      '不要害怕犯错，根本就没有错误。'),
     ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'zh-CN',
-     '当你犯了错，你只应该做三件事：承认它，从中学习，不再重复。');
+     '当你犯了错，你只应该做三件事：承认它，从中学习，不再重复。'),
+    ('Failure is a detour, not a dead-end street.', 'zh-CN',
+     '失败是一段弯路，而不是一条死胡同。');
