@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The most common way people give up their power is by thinking they don''t have any.', 'zh-CN',
      '人们放弃自身力量最常见的方式，就是认为自己没有力量。'),
     ('Think like a queen. A queen is not afraid to fail.', 'zh-CN',
-     '像女王一样思考。女王不怕失败。');
+     '像女王一样思考。女王不怕失败。'),
+    ('Find out who you are and do it on purpose.', 'zh-CN',
+     '弄清楚你是谁，然后有意识地去做那个人。');
