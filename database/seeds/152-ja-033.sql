@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'ja',
      '失敗は必ずしも間違いではない。その状況でできる最善だったのかもしれない。本当の間違いは、挑戦をやめることだ。'),
     ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'ja',
-     'ときどき失敗していないなら、それはあまり革新的なことをしていない証拠だ。');
+     'ときどき失敗していないなら、それはあまり革新的なことをしていない証拠だ。'),
+    ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'ja',
+     '失敗はいつでも起こる。練習では毎日起こる。あなたを成長させるのは、それにどう向き合うかだ。');
