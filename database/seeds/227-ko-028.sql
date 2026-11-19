@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s the possibility of having a dream come true that makes life interesting.', 'ko',
      '꿈이 이루어질 수 있다는 가능성이 삶을 흥미롭게 만든다.'),
     ('And, when you want something, all the universe conspires in helping you to achieve it.', 'ko',
-     '그리고 네가 무언가를 간절히 원할 때, 온 우주는 네 소망이 이루어지도록 도와준단다.');
+     '그리고 네가 무언가를 간절히 원할 때, 온 우주는 네 소망이 이루어지도록 도와준단다.'),
+    ('Dream as if you''ll live forever. Live as if you''ll die today.', 'ko',
+     '영원히 살 것처럼 꿈꾸고, 오늘 죽을 것처럼 살아라.');
