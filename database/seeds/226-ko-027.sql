@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fight for the things that you care about, but do it in a way that will lead others to join you.', 'ko',
      '당신이 소중히 여기는 것을 위해 싸워라. 다만 다른 사람들이 함께하고 싶어지는 방식으로.'),
     ('Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves.', 'ko',
-     '삶은 우리 누구에게도 쉽지 않다. 그러나 그게 어떻단 말인가? 우리에게는 끈기가, 무엇보다 자신에 대한 믿음이 있어야 한다.');
+     '삶은 우리 누구에게도 쉽지 않다. 그러나 그게 어떻단 말인가? 우리에게는 끈기가, 무엇보다 자신에 대한 믿음이 있어야 한다.'),
+    ('We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.', 'ko',
+     '우리는 자신이 무언가에 재능을 타고났으며, 그것을 어떤 대가를 치르더라도 이루어야 한다고 믿어야 한다.');
