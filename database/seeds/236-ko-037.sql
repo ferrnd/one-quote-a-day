@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t spend time beating on a wall, hoping to transform it into a door.', 'ko',
      '벽이 문으로 바뀌기를 바라며 벽을 두드리는 데 시간을 쓰지 마라.'),
     ('Begin anywhere.', 'ko',
-     '어디서든 시작하라.');
+     '어디서든 시작하라.'),
+    ('Action is eloquence.', 'ko',
+     '행동이 곧 웅변이다.');
