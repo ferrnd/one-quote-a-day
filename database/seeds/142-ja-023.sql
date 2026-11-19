@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We become what we think about.', 'ja',
      '私たちは、自分が考えているとおりのものになる。'),
     ('If you''re always trying to be normal, you will never know how amazing you can be.', 'ja',
-     'いつも普通であろうとしていたら、自分がどれほどすばらしくなれるか決して知ることはないでしょう。');
+     'いつも普通であろうとしていたら、自分がどれほどすばらしくなれるか決して知ることはないでしょう。'),
+    ('Why, sometimes I''ve believed as many as six impossible things before breakfast.', 'ja',
+     'だって、朝食前に不可能なことを六つも信じたことがあるくらいですもの。');
