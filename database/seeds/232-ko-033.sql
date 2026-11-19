@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t let the fear of losing be greater than the excitement of winning.', 'ko',
      '지는 것에 대한 두려움이 이기는 것에 대한 설렘보다 커지게 두지 마라.'),
     ('We learn from failure, not from success!', 'ko',
-     '우리는 성공이 아니라 실패에서 배운다!');
+     '우리는 성공이 아니라 실패에서 배운다!'),
+    ('You can''t be afraid to fail. It''s the only way you succeed.', 'ko',
+     '실패를 두려워해서는 안 된다. 그것이 성공하는 유일한 방법이다.');
