@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never give in. Never, never, never, never.', 'ja',
      '決して屈するな。決して、決して、決して、決して。'),
     ('Success seems to be connected with action. Successful people keep moving.', 'ja',
-     '成功は行動と結びついているようだ。成功する人は動き続ける。');
+     '成功は行動と結びついているようだ。成功する人は動き続ける。'),
+    ('Every strike brings me closer to the next home run.', 'ja',
+     '空振りするたびに、次のホームランに近づいている。');
