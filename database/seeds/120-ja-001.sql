@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('With ordinary talent and extraordinary perseverance, all things are attainable.', 'ja',
      '平凡な才能と非凡な根気があれば、何でも成し遂げられる。'),
     ('The drops of rain make a hole in the stone, not by violence, but by oft falling.', 'ja',
-     '雨のしずくが石に穴をあけるのは、激しさによってではなく、何度も落ちるからだ。');
+     '雨のしずくが石に穴をあけるのは、激しさによってではなく、何度も落ちるからだ。'),
+    ('Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.', 'ja',
+     '世の中の大切なことの多くは、まったく望みがないように見えても挑戦し続けた人々によって成し遂げられてきた。');
