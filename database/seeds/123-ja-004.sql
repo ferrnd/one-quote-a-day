@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Bravery is the capacity to perform properly even when scared half to death.', 'ja',
      '勇敢さとは、死ぬほど怖いときでも、きちんとやるべきことをやれる力だ。'),
     ('With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble.', 'ja',
-     '勇気があれば、危険を冒すことも、思いやる強さを持つことも、謙虚である知恵を持つこともできる。');
+     '勇気があれば、危険を冒すことも、思いやる強さを持つことも、謙虚である知恵を持つこともできる。'),
+    ('One isn''t necessarily born with courage, but one is born with potential.', 'ja',
+     '人は勇気を持って生まれるとは限らない。だが、可能性を持って生まれてくる。');
