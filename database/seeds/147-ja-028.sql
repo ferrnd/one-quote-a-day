@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.', 'ja',
      '高く手を伸ばせ。星はあなたの中に隠れている。深く夢を見よ。すべての夢は目標に先立つのだから。'),
     ('I dream my painting and I paint my dream.', 'ja',
-     '私は自分の絵を夢見て、自分の夢を描く。');
+     '私は自分の絵を夢見て、自分の夢を描く。'),
+    ('Dreams don''t work unless you do.', 'ja',
+     'あなたが働かなければ、夢は働かない。');
