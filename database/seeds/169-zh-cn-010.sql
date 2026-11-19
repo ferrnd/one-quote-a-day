@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The very least you can do in your life is figure out what you hope for.', 'zh-CN',
      '你一生中至少能做的，就是弄清楚自己希望什么。'),
     ('There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something better tomorrow.', 'zh-CN',
-     '没有哪种药比得上希望，没有哪种激励比得上对明天会更好的期待，也没有哪种补药比它更有力。');
+     '没有哪种药比得上希望，没有哪种激励比得上对明天会更好的期待，也没有哪种补药比它更有力。'),
+    ('Hope is the pillar that holds up the world.', 'zh-CN',
+     '希望是撑起世界的支柱。');
