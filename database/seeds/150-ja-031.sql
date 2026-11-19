@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Efforts and courage are not enough without purpose and direction.', 'ja',
      '努力と勇気だけでは不十分だ。目的と方向がなければならない。'),
     ('The world is changed by your example, not by your opinion.', 'ja',
-     '世界を変えるのは、あなたの意見ではなく、あなたの手本だ。');
+     '世界を変えるのは、あなたの意見ではなく、あなたの手本だ。'),
+    ('We can''t help everyone, but everyone can help someone.', 'ja',
+     'すべての人を助けることはできない。だが、誰もが誰かを助けることはできる。');
