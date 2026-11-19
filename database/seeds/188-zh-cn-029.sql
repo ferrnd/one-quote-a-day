@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I saw the angel in the marble and carved until I set him free.', 'zh-CN',
      '我在大理石中看到了天使，于是不停地雕刻，直到让他获得自由。'),
     ('People with goals succeed because they know where they''re going.', 'zh-CN',
-     '有目标的人之所以成功，是因为他们知道自己要去哪里。');
+     '有目标的人之所以成功，是因为他们知道自己要去哪里。'),
+    ('What you seek is seeking you.', 'zh-CN',
+     '你所寻找的，也在寻找你。');
