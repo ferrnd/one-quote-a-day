@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t be hesitant about who you are.', 'ja',
      '自分が何者であるかに、ためらってはいけない。'),
     ('The most common way people give up their power is by thinking they don''t have any.', 'ja',
-     '人が自分の力を手放す最もよくある方法は、自分には力がないと思い込むことだ。');
+     '人が自分の力を手放す最もよくある方法は、自分には力がないと思い込むことだ。'),
+    ('Think like a queen. A queen is not afraid to fail.', 'ja',
+     '女王のように考えなさい。女王は失敗を恐れない。');
