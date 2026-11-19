@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Gold medals aren''t really made of gold. They''re made of sweat, determination, and a hard-to-find alloy called guts.', 'zh-CN',
      '金牌其实不是金子做的，而是由汗水、决心和一种难得的合金——勇气——铸成的。'),
     ('Age is no barrier. It''s a limitation you put on your mind.', 'zh-CN',
-     '年龄不是障碍，而是你给自己的思想设下的限制。');
+     '年龄不是障碍，而是你给自己的思想设下的限制。'),
+    ('The difference between ordinary and extraordinary is that little extra.', 'zh-CN',
+     '平凡与非凡的区别，就在于那多出来的一点点。');
