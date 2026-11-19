@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You build on failure. You use it as a stepping stone.', 'zh-CN',
      '在失败之上建造，把它当作垫脚石。'),
     ('A man of genius makes no mistakes. His errors are volitional and are the portals of discovery.', 'zh-CN',
-     '天才不会犯错。他的错误都是有意为之，是通往发现的大门。');
+     '天才不会犯错。他的错误都是有意为之，是通往发现的大门。'),
+    ('Giving up is the only sure way to fail.', 'zh-CN',
+     '放弃是唯一注定失败的方法。');
