@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Who looks outside, dreams; who looks inside, awakes.', 'zh-CN',
      '向外看的人在做梦，向内看的人才觉醒。'),
     ('You are never given a wish without also being given the power to make it come true.', 'zh-CN',
-     '你每被赋予一个愿望，也同时被赋予了实现它的力量。');
+     '你每被赋予一个愿望，也同时被赋予了实现它的力量。'),
+    ('The unexamined life is not worth living.', 'zh-CN',
+     '未经审视的人生不值得过。');
