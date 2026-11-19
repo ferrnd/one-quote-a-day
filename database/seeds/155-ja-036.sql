@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Change is the end result of all true learning.', 'ja',
      '変化とは、あらゆる真の学びがもたらす最終的な結果である。'),
     ('Anyone who stops learning is old, whether at twenty or eighty.', 'ja',
-     '学ぶことをやめた者は、二十歳であろうと八十歳であろうと老人である。');
+     '学ぶことをやめた者は、二十歳であろうと八十歳であろうと老人である。'),
+    ('The only real voyage of discovery consists not in seeking new landscapes, but in having new eyes.', 'ja',
+     '本当の発見の旅とは、新しい景色を探すことではなく、新しい目を持つことにある。');
