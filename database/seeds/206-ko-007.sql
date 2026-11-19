@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never confuse a single defeat with a final defeat.', 'ko',
      '한 번의 패배를 최후의 패배로 착각하지 마라.'),
     ('Do not be embarrassed by your failures, learn from them and start again.', 'ko',
-     '실패를 부끄러워하지 마라. 그것에서 배우고 다시 시작하라.');
+     '실패를 부끄러워하지 마라. 그것에서 배우고 다시 시작하라.'),
+    ('Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.', 'ko',
+     '고통 속에서 가장 강한 영혼이 태어났다. 가장 거대한 인격에는 흉터가 새겨져 있다.');
