@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.', 'zh-CN',
      '我们选择在这个十年内登上月球并做其他的事，不是因为它们容易，而是因为它们困难。'),
     ('Opportunities multiply as they are seized.', 'zh-CN',
-     '机会越抓越多。');
+     '机会越抓越多。'),
+    ('You can''t wait for inspiration. You have to go after it with a club.', 'zh-CN',
+     '你不能坐等灵感，你得拿着棍子去追它。');
