@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rock bottom became the solid foundation on which I rebuilt my life.', 'zh-CN',
      '人生的谷底，成了我重建生活的坚实地基。'),
     ('Do not judge me by my success, judge me by how many times I fell down and got back up again.', 'zh-CN',
-     '不要用我的成功来评判我，要看我跌倒了多少次，又重新站起来多少次。');
+     '不要用我的成功来评判我，要看我跌倒了多少次，又重新站起来多少次。'),
+    ('Failure should be our teacher, not our undertaker.', 'zh-CN',
+     '失败应该是我们的老师，而不是我们的送葬人。');
