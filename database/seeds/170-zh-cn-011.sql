@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Think of all the beauty still left around you and be happy.', 'zh-CN',
      '想想你身边仍然留存的一切美好，然后快乐起来。'),
     ('It is often in the darkest skies that we see the brightest stars.', 'zh-CN',
-     '往往在最黑暗的天空中，我们才能看到最明亮的星星。');
+     '往往在最黑暗的天空中，我们才能看到最明亮的星星。'),
+    ('Strength and growth come only through continuous effort and struggle.', 'zh-CN',
+     '力量与成长只能来自持续的努力和奋斗。');
