@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure will never overtake me if my determination to succeed is strong enough.', 'ja',
      '成功への決意が十分に強ければ、失敗が私に追いつくことはない。'),
     ('You may have to fight a battle more than once to win it.', 'ja',
-     '勝つためには、同じ戦いを一度ならず戦わなければならないこともある。');
+     '勝つためには、同じ戦いを一度ならず戦わなければならないこともある。'),
+    ('Failure isn''t fatal, but failure to change might be.', 'ja',
+     '失敗は致命的ではない。だが、変われないことは致命的かもしれない。');
