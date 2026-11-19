@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Lost time is never found again.', 'ko',
      '잃어버린 시간은 결코 다시 찾을 수 없다.'),
     ('Without hard work, nothing grows but weeds.', 'ko',
-     '열심히 일하지 않으면 잡초 말고는 아무것도 자라지 않는다.');
+     '열심히 일하지 않으면 잡초 말고는 아무것도 자라지 않는다.'),
+    ('Success isn''t always about greatness. It''s about consistency.', 'ko',
+     '성공이 늘 위대함에 관한 것은 아니다. 꾸준함에 관한 것이다.');
