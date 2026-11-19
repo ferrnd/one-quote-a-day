@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We must be willing to let go of the life we planned so as to have the life that is waiting for us.', 'ko',
      '우리를 기다리고 있는 삶을 얻으려면, 계획했던 삶을 기꺼이 놓아줄 수 있어야 한다.'),
     ('The privilege of a lifetime is to become who you truly are.', 'ko',
-     '일생의 특권은 진정한 자기 자신이 되는 것이다.');
+     '일생의 특권은 진정한 자기 자신이 되는 것이다.'),
+    ('Knowing your own darkness is the best method for dealing with the darknesses of other people.', 'ko',
+     '자기 자신의 어둠을 아는 것이 다른 사람들의 어둠을 다루는 가장 좋은 방법이다.');
