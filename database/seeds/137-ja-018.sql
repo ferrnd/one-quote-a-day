@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Those things that hurt, instruct.', 'ja',
      '人を傷つけるものは、人を教える。'),
     ('Adversity is like a strong wind. It tears away from us all but the things that cannot be torn, so that we see ourselves as we really are.', 'ja',
-     '逆境は強い風のようなものだ。引きはがせないもの以外のすべてを私たちから引きはがし、ありのままの自分を見せてくれる。');
+     '逆境は強い風のようなものだ。引きはがせないもの以外のすべてを私たちから引きはがし、ありのままの自分を見せてくれる。'),
+    ('What makes the desert beautiful is that somewhere it hides a well.', 'ja',
+     '砂漠が美しいのは、どこかに井戸を隠しているからだよ。');
