@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is resistance to fear, mastery of fear, not absence of fear.', 'zh-CN',
      '勇气是抵抗恐惧、驾驭恐惧，而不是没有恐惧。'),
     ('Life shrinks or expands in proportion to one''s courage.', 'zh-CN',
-     '生命随着一个人的勇气而收缩或扩展。');
+     '生命随着一个人的勇气而收缩或扩展。'),
+    ('It takes courage to grow up and become who you really are.', 'zh-CN',
+     '长大并成为真正的自己，需要勇气。');
