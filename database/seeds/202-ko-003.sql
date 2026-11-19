@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is found in unlikely places.', 'ko',
      '용기는 뜻밖의 곳에서 발견된다.'),
     ('Even the smallest person can change the course of the future.', 'ko',
-     '가장 작은 사람도 미래의 흐름을 바꿀 수 있다.');
+     '가장 작은 사람도 미래의 흐름을 바꿀 수 있다.'),
+    ('All we have to decide is what to do with the time that is given us.', 'ko',
+     '우리가 결정해야 할 것은 주어진 시간으로 무엇을 할지뿐이다.');
