@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Victory is sweetest when you''ve known defeat.', 'zh-CN',
      '尝过失败的人，才知道胜利最甜美。'),
     ('It is a mistake to look too far ahead. Only one link of the chain of destiny can be handled at a time.', 'zh-CN',
-     '看得太远是一种错误。命运之链，一次只能处理一环。');
+     '看得太远是一种错误。命运之链，一次只能处理一环。'),
+    ('Don''t spend time beating on a wall, hoping to transform it into a door.', 'zh-CN',
+     '不要把时间花在敲打一堵墙上，指望它变成一扇门。');
