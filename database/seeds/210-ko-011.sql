@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is often in the darkest skies that we see the brightest stars.', 'ko',
      '가장 어두운 하늘에서 가장 밝은 별을 보게 되는 경우가 많다.'),
     ('Strength and growth come only through continuous effort and struggle.', 'ko',
-     '힘과 성장은 끊임없는 노력과 투쟁을 통해서만 얻어진다.');
+     '힘과 성장은 끊임없는 노력과 투쟁을 통해서만 얻어진다.'),
+    ('Out of your vulnerabilities will come your strength.', 'ko',
+     '당신의 약함에서 당신의 강함이 나올 것이다.');
