@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is not built on success. It''s built on failure. It''s built on frustration.', 'ja',
      '成功は成功の上に築かれるのではない。失敗の上に、挫折の上に築かれるのだ。'),
     ('Winners are not afraid of losing. But losers are. Failure is part of the process of success.', 'ja',
-     '勝者は負けることを恐れない。恐れるのは敗者だ。失敗は成功へのプロセスの一部である。');
+     '勝者は負けることを恐れない。恐れるのは敗者だ。失敗は成功へのプロセスの一部である。'),
+    ('An inventor fails 999 times, and if he succeeds once, he''s in.', 'ja',
+     '発明家は999回失敗しても、一度成功すればそれでいい。');
