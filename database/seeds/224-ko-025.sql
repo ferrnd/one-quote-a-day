@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Set your goals high, and don''t stop till you get there.', 'ko',
      '목표를 높이 세우고, 그곳에 닿을 때까지 멈추지 마라.'),
     ('Desire is the key to motivation, but it''s determination and commitment to an unrelenting pursuit of your goal that will enable you to attain the success you seek.', 'ko',
-     '열망은 동기의 열쇠다. 하지만 당신이 바라는 성공을 이루게 하는 것은 목표를 끈질기게 추구하는 결단과 헌신이다.');
+     '열망은 동기의 열쇠다. 하지만 당신이 바라는 성공을 이루게 하는 것은 목표를 끈질기게 추구하는 결단과 헌신이다.'),
+    ('Obstacles cannot crush me. Every obstacle yields to stern resolve.', 'ko',
+     '장애물은 나를 짓밟을 수 없다. 모든 장애물은 굳은 결의 앞에 굴복한다.');
