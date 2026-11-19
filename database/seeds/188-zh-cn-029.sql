@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.', 'zh-CN',
      '昨天的我很聪明，所以我想改变世界；今天的我很明智，所以我在改变自己。'),
     ('You were born with wings, why prefer to crawl through life?', 'zh-CN',
-     '你生来就有翅膀，为什么宁愿在人生中爬行？');
+     '你生来就有翅膀，为什么宁愿在人生中爬行？'),
+    ('Respond to every call that excites your spirit.', 'zh-CN',
+     '回应每一个让你的灵魂激动的召唤。');
