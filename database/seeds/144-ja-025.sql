@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Endure, and preserve yourselves for better things.', 'ja',
      '耐えよ。そして、より良き日のために自らを守れ。'),
     ('Bear up, my heart; you have endured worse than this.', 'ja',
-     '耐えよ、わが心よ。お前はこれよりもひどいことに耐えてきたではないか。');
+     '耐えよ、わが心よ。お前はこれよりもひどいことに耐えてきたではないか。'),
+    ('This too shall pass.', 'ja',
+     'これもまた過ぎ去る。');
