@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.', 'ko',
      '마음속에서 "너는 그림을 못 그려"라는 목소리가 들린다면, 무슨 일이 있어도 그려라. 그러면 그 목소리는 잠잠해질 것이다.'),
     ('Whatever the mind of man can conceive and believe, it can achieve.', 'ko',
-     '인간의 마음이 생각하고 믿을 수 있는 것은 무엇이든 이룰 수 있다.');
+     '인간의 마음이 생각하고 믿을 수 있는 것은 무엇이든 이룰 수 있다.'),
+    ('The man who has confidence in himself gains the confidence of others.', 'ko',
+     '자신을 믿는 사람은 다른 사람의 신뢰도 얻는다.');
