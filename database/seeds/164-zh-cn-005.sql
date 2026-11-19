@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.', 'zh-CN',
      '活着就不可能不在某件事上失败，除非你活得如此小心翼翼，以至于跟没活过一样。'),
     ('Rock bottom became the solid foundation on which I rebuilt my life.', 'zh-CN',
-     '人生的谷底，成了我重建生活的坚实地基。');
+     '人生的谷底，成了我重建生活的坚实地基。'),
+    ('Do not judge me by my success, judge me by how many times I fell down and got back up again.', 'zh-CN',
+     '不要用我的成功来评判我，要看我跌倒了多少次，又重新站起来多少次。');
