@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Anyone who stops learning is old, whether at twenty or eighty.', 'zh-CN',
      '任何停止学习的人都已经老了，无论是二十岁还是八十岁。'),
     ('The only real voyage of discovery consists not in seeking new landscapes, but in having new eyes.', 'zh-CN',
-     '真正的发现之旅不在于寻找新的风景，而在于拥有新的眼光。');
+     '真正的发现之旅不在于寻找新的风景，而在于拥有新的眼光。'),
+    ('Not until we are lost do we begin to understand ourselves.', 'zh-CN',
+     '直到我们迷失了，才开始真正了解自己。');
