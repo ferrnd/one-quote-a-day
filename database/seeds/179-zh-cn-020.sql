@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To begin, begin.', 'zh-CN',
      '要开始，就开始吧。'),
     ('Pursue what catches your heart, not what catches your eyes.', 'zh-CN',
-     '追求打动你内心的东西，而不是吸引你眼球的东西。');
+     '追求打动你内心的东西，而不是吸引你眼球的东西。'),
+    ('Life is ten percent what happens to you and ninety percent how you respond to it.', 'zh-CN',
+     '生活百分之十取决于发生在你身上的事，百分之九十取决于你如何回应。');
