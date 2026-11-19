@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is not simply the ability to wait; it''s how we behave while we''re waiting.', 'ko',
      '인내란 단지 기다리는 능력이 아니라, 기다리는 동안 어떻게 행동하느냐다.'),
     ('Rome wasn''t built in a day.', 'ko',
-     '로마는 하루아침에 이루어지지 않았다.');
+     '로마는 하루아침에 이루어지지 않았다.'),
+    ('Everything comes gradually and at its appointed hour.', 'ko',
+     '모든 것은 서서히, 정해진 때에 온다.');
