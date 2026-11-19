@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When we give ourselves permission to fail, we, at the same time, give ourselves permission to excel.', 'zh-CN',
      '当我们允许自己失败时，也同时允许了自己出类拔萃。'),
     ('The only real mistake is the one from which we learn nothing.', 'zh-CN',
-     '唯一真正的错误，是我们从中什么也没学到的错误。');
+     '唯一真正的错误，是我们从中什么也没学到的错误。'),
+    ('Just because you fail once doesn''t mean you''re gonna fail at everything.', 'zh-CN',
+     '失败一次，并不代表你会在所有事情上都失败。');
