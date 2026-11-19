@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something better tomorrow.', 'ko',
      '내일은 더 나아지리라는 기대만큼 좋은 약도, 큰 자극도, 강한 활력제도 없다.'),
     ('Hope is the pillar that holds up the world.', 'ko',
-     '희망은 세상을 떠받치는 기둥이다.');
+     '희망은 세상을 떠받치는 기둥이다.'),
+    ('Hope will never be silent.', 'ko',
+     '희망은 결코 침묵하지 않을 것이다.');
