@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hardships make or break people.', 'zh-CN',
      '艰难困苦会成就人，也会摧毁人。'),
     ('Turn your scars into stars.', 'zh-CN',
-     '把你的伤疤化作星光。');
+     '把你的伤疤化作星光。'),
+    ('Cancer can take away all of my physical abilities. It cannot touch my mind, it cannot touch my heart, and it cannot touch my soul.', 'zh-CN',
+     '癌症可以夺走我所有的身体能力，但它碰不到我的头脑，碰不到我的心，也碰不到我的灵魂。');
