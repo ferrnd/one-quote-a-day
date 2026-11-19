@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.', 'ja',
      '空中に楼閣を築いたとしても、その仕事は無駄にはならない。楼閣はそこにあるべきものだ。さあ、その下に土台を築こう。'),
     ('Ideas are easy. Implementation is hard.', 'ja',
-     'アイデアは簡単だ。実行は難しい。');
+     'アイデアは簡単だ。実行は難しい。'),
+    ('Begin, be bold, and venture to be wise.', 'ja',
+     '始めよ、大胆であれ、賢くあろうと挑め。');
