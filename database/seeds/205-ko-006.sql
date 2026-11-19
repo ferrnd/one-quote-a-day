@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes.', 'ko',
      '실패는 가르침을 준다. 진정으로 생각하는 사람은 성공에서만큼이나 실패에서도 많이 배운다.'),
     ('Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.', 'ko',
-     '우리의 가장 큰 약점은 포기하는 데 있다. 성공하는 가장 확실한 방법은 언제나 딱 한 번만 더 시도하는 것이다.');
+     '우리의 가장 큰 약점은 포기하는 데 있다. 성공하는 가장 확실한 방법은 언제나 딱 한 번만 더 시도하는 것이다.'),
+    ('Good people are good because they''ve come to wisdom through failure.', 'ko',
+     '좋은 사람이 좋은 이유는 실패를 통해 지혜에 이르렀기 때문이다.');
