@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nurture your mind with great thoughts, for you will never go any higher than you think.', 'zh-CN',
      '用伟大的思想滋养你的心灵，因为你永远不会比你所想的走得更高。'),
     ('Think big thoughts but relish small pleasures.', 'zh-CN',
-     '思考远大的事，但也要享受细小的乐趣。');
+     '思考远大的事，但也要享受细小的乐趣。'),
+    ('Argue for your limitations, and sure enough they''re yours.', 'zh-CN',
+     '为你的局限辩护，它们就真的会成为你的局限。');
