@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant.', 'ko',
      '역경은 순탄한 환경이었다면 잠들어 있었을 재능을 끌어낸다.'),
     ('The block of granite which was an obstacle in the path of the weak becomes a stepping stone in the path of the strong.', 'ko',
-     '약한 사람의 길에서는 장애물이었던 화강암 덩어리가 강한 사람의 길에서는 디딤돌이 된다.');
+     '약한 사람의 길에서는 장애물이었던 화강암 덩어리가 강한 사람의 길에서는 디딤돌이 된다.'),
+    ('Obstacles are those frightful things you see when you take your eyes off your goal.', 'ko',
+     '장애물이란 목표에서 눈을 뗄 때 보이는 무시무시한 것들이다.');
