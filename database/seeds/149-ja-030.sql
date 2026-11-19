@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Alone we can do so little; together we can do so much.', 'ja',
      '一人でできることはわずかだが、力を合わせれば多くのことができる。'),
     ('The only thing worse than being blind is having sight but no vision.', 'ja',
-     '目が見えないことよりも悪いのは、目が見えるのにビジョンがないことだ。');
+     '目が見えないことよりも悪いのは、目が見えるのにビジョンがないことだ。'),
+    ('No pessimist ever discovered the secret of the stars, or sailed to an uncharted land.', 'ja',
+     '悲観主義者が星の秘密を発見したことも、未知の土地へ船出したこともない。');
