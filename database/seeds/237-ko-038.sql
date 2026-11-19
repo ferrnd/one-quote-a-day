@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Have patience. All things are difficult before they become easy.', 'ko',
      '인내하라. 모든 일은 쉬워지기 전에는 어렵다.'),
     ('Patience is a conquering virtue.', 'ko',
-     '인내는 승리를 가져오는 덕목이다.');
+     '인내는 승리를 가져오는 덕목이다.'),
+    ('Everything comes to him who hustles while he waits.', 'ko',
+     '기다리는 동안에도 부지런히 움직이는 사람에게 모든 것이 찾아온다.');
