@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can be changed by what happens to me. But I refuse to be reduced by it.', 'ja',
      '私は起きたことによって変わるかもしれない。だが、それによって小さくなることは拒む。'),
     ('You may encounter many defeats, but you must not be defeated.', 'ja',
-     '多くの敗北に出会うかもしれない。だが、打ち負かされてはならない。');
+     '多くの敗北に出会うかもしれない。だが、打ち負かされてはならない。'),
+    ('Still, like air, I''ll rise.', 'ja',
+     'それでも、空気のように、私は立ち上がる。');
