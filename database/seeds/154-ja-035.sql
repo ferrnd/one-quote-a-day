@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We are all in the gutter, but some of us are looking at the stars.', 'ja',
      '私たちは皆、どぶの中にいる。だが、その中には星を見上げている者もいる。'),
     ('The darker the night, the brighter the stars, the deeper the grief, the closer is God!', 'ja',
-     '夜が暗ければ暗いほど星は明るく、悲しみが深ければ深いほど神は近い。');
+     '夜が暗ければ暗いほど星は明るく、悲しみが深ければ深いほど神は近い。'),
+    ('Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.', 'ja',
+     '雲は私の人生にふわりと漂ってくる。もはや雨を運ぶためでも嵐を告げるためでもなく、夕焼けの空に彩りを添えるために。');
