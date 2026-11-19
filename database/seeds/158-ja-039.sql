@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Determination gives you the resolve to keep going in spite of the roadblocks that lay before you.', 'ja',
      '決意は、目の前に立ちはだかる障害にもかかわらず、進み続ける覚悟を与えてくれる。'),
     ('They can conquer who believe they can.', 'ja',
-     'できると信じる者は、勝つことができる。');
+     'できると信じる者は、勝つことができる。'),
+    ('There are no limits. There are plateaus, but you must not stay there, you must go beyond them.', 'ja',
+     '限界などない。停滞期はある。だがそこにとどまってはならない。それを越えて行かなければならない。');
