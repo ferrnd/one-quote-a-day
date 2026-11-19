@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'ja',
      '自分の思考がどれほど強い力を持っているかに気づいたら、否定的な考えなど決して抱かないだろう。'),
     ('I am the greatest. I said that even before I knew I was.', 'ja',
-     '俺は最強だ。それが本当だとわかる前から、俺はそう言っていた。');
+     '俺は最強だ。それが本当だとわかる前から、俺はそう言っていた。'),
+    ('Impossible is just a big word thrown around by small men.', 'ja',
+     '「不可能」とは、小さな人間たちが振りかざす大げさな言葉にすぎない。');
