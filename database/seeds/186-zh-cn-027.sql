@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Because it''s there.', 'zh-CN',
      '因为山就在那里。'),
     ('That''s one small step for a man, one giant leap for mankind.', 'zh-CN',
-     '这是一个人的一小步，却是人类的一大步。');
+     '这是一个人的一小步，却是人类的一大步。'),
+    ('Don''t tell me the sky''s the limit when there are footprints on the moon.', 'zh-CN',
+     '月球上都有脚印了，别跟我说天空是极限。');
