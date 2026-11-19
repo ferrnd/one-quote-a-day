@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dripping water hollows out stone, not through force but through persistence.', 'ko',
      '떨어지는 물방울이 돌을 뚫는 것은 힘이 아니라 끈기 때문이다.'),
     ('All human wisdom is summed up in two words: wait and hope.', 'ko',
-     '인간의 모든 지혜는 두 마디로 요약된다. 기다려라, 그리고 희망하라.');
+     '인간의 모든 지혜는 두 마디로 요약된다. 기다려라, 그리고 희망하라.'),
+    ('The key to everything is patience. You get the chicken by hatching the egg, not by smashing it.', 'ko',
+     '모든 것의 열쇠는 인내다. 병아리는 달걀을 깨뜨려서가 아니라 품어서 얻는 것이다.');
