@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dreams come true. Without that possibility, nature would not incite us to have them.', 'zh-CN',
      '梦想会成真。如果没有这种可能，大自然就不会激励我们去拥有梦想。'),
     ('Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.', 'zh-CN',
-     '珍惜你的愿景和梦想，因为它们是你灵魂的孩子，是你最终成就的蓝图。');
+     '珍惜你的愿景和梦想，因为它们是你灵魂的孩子，是你最终成就的蓝图。'),
+    ('The starting point of all achievement is desire.', 'zh-CN',
+     '一切成就的起点是渴望。');
