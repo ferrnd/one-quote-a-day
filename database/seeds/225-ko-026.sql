@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have to believe in yourself when no one else does.', 'ko',
      '아무도 당신을 믿지 않을 때에도 당신은 자신을 믿어야 한다.'),
     ('The more difficult the victory, the greater the happiness in winning.', 'ko',
-     '승리가 어려울수록 이기는 기쁨은 더 크다.');
+     '승리가 어려울수록 이기는 기쁨은 더 크다.'),
+    ('Gold medals aren''t really made of gold. They''re made of sweat, determination, and a hard-to-find alloy called guts.', 'ko',
+     '금메달은 사실 금으로 만들어지지 않는다. 땀과 결단, 그리고 ''배짱''이라는 구하기 힘든 합금으로 만들어진다.');
