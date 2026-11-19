@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no passion to be found playing small.', 'zh-CN',
      '甘于渺小，找不到激情。'),
     ('Courage is like a muscle. We strengthen it by use.', 'zh-CN',
-     '勇气就像肌肉，越用越强。');
+     '勇气就像肌肉，越用越强。'),
+    ('Vulnerability is the birthplace of innovation, creativity and change.', 'zh-CN',
+     '脆弱是创新、创造与改变的发源地。');
