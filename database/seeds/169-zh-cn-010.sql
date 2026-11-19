@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come.', 'zh-CN',
      '希望始于黑暗，那是一种执拗的希望：只要你到场，并努力去做正确的事，黎明就会到来。'),
     ('Let your hopes, not your hurts, shape your future.', 'zh-CN',
-     '让你的希望，而不是你的伤痛，塑造你的未来。');
+     '让你的希望，而不是你的伤痛，塑造你的未来。'),
+    ('Hope is a renewable option: if you run out of it at the end of the day, you get to start over in the morning.', 'zh-CN',
+     '希望是一种可以再生的选择：如果一天结束时用完了，第二天早上可以重新开始。');
