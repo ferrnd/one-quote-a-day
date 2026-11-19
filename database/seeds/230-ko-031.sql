@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are going to doubt something, doubt your limits.', 'ko',
      '무언가를 의심하려거든, 당신의 한계를 의심하라.'),
     ('There is no substitute for hard work.', 'ko',
-     '노력을 대신할 수 있는 것은 없다.');
+     '노력을 대신할 수 있는 것은 없다.'),
+    ('The difference between try and triumph is just a little umph!', 'ko',
+     '''시도''와 ''승리''의 차이는 아주 작은 ''기합'' 하나뿐이다!');
