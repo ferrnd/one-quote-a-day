@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The darker the night, the brighter the stars, the deeper the grief, the closer is God!', 'ko',
      '밤이 어두울수록 별은 더 밝고, 슬픔이 깊을수록 신은 더 가깝다!'),
     ('Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.', 'ko',
-     '구름이 내 삶으로 떠 들어온다. 더 이상 비를 몰고 오거나 폭풍을 예고하려는 것이 아니라, 내 노을 진 하늘에 색을 더하려고.');
+     '구름이 내 삶으로 떠 들어온다. 더 이상 비를 몰고 오거나 폭풍을 예고하려는 것이 아니라, 내 노을 진 하늘에 색을 더하려고.'),
+    ('Character is power.', 'ko',
+     '인격이 곧 힘이다.');
