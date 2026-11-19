@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Change is the law of life. And those who look only to the past or present are certain to miss the future.', 'zh-CN',
      '变化是生活的法则。那些只看过去或现在的人，注定会错过未来。'),
     ('The secret of change is to focus all of your energy not on fighting the old, but on building the new.', 'zh-CN',
-     '改变的秘诀，是把全部精力集中于建设新的，而不是与旧的斗争。');
+     '改变的秘诀，是把全部精力集中于建设新的，而不是与旧的斗争。'),
+    ('What you get by achieving your goals is not as important as what you become by achieving your goals.', 'zh-CN',
+     '你通过实现目标得到的东西，不如你在实现目标的过程中成为什么样的人重要。');
