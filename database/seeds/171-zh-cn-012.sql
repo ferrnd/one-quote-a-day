@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am no bird; and no net ensnares me: I am a free human being with an independent will.', 'zh-CN',
      '我不是鸟，也没有罗网能困住我：我是一个拥有独立意志的自由人。'),
     ('My mission in life is not merely to survive, but to thrive.', 'zh-CN',
-     '我人生的使命不仅是生存，而是要活得精彩。');
+     '我人生的使命不仅是生存，而是要活得精彩。'),
+    ('You can''t be hesitant about who you are.', 'zh-CN',
+     '对于自己是谁，你不能犹豫不决。');
