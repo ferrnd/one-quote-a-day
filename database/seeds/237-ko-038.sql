@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Some people want it to happen, some wish it would happen, others make it happen.', 'ko',
      '어떤 사람은 그 일이 일어나기를 원하고, 어떤 사람은 일어나기를 바라고, 또 어떤 사람은 그 일을 일어나게 만든다.'),
     ('The more I want to get something done, the less I call it work.', 'ko',
-     '무언가를 해내고 싶을수록 나는 그것을 일이라고 부르지 않게 된다.');
+     '무언가를 해내고 싶을수록 나는 그것을 일이라고 부르지 않게 된다.'),
+    ('The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.', 'ko',
+     '비관론자는 바람을 불평하고, 낙관론자는 바람이 바뀌기를 기대하며, 현실주의자는 돛을 조정한다.');
