@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All men dream, but not equally.', 'ko',
      '모든 사람은 꿈을 꾸지만, 똑같이 꾸지는 않는다.'),
     ('Dreams come true. Without that possibility, nature would not incite us to have them.', 'ko',
-     '꿈은 이루어진다. 그런 가능성이 없다면 자연이 우리에게 꿈을 꾸게 하지 않을 것이다.');
+     '꿈은 이루어진다. 그런 가능성이 없다면 자연이 우리에게 꿈을 꾸게 하지 않을 것이다.'),
+    ('Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.', 'ko',
+     '당신의 비전과 꿈을 소중히 여겨라. 그것은 당신 영혼의 자녀이자 궁극적인 성취의 설계도다.');
