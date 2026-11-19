@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Unless someone like you cares a whole awful lot, nothing is going to get better. It''s not.', 'ja',
      'きみのような誰かがものすごく本気で気にかけないかぎり、何もよくはならない。ならないんだ。'),
     ('Tell me, what is it you plan to do with your one wild and precious life?', 'ja',
-     '教えて。たった一度きりの、奔放でかけがえのないあなたの人生で、何をするつもり？');
+     '教えて。たった一度きりの、奔放でかけがえのないあなたの人生で、何をするつもり？'),
+    ('Two roads diverged in a wood, and I, I took the one less traveled by, and that has made all the difference.', 'ja',
+     '森の中で道が二つに分かれていた。そして私は、人があまり通っていない道を選んだ。そのことが、すべてを変えたのだ。');
