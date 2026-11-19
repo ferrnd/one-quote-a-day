@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is our choices that show what we truly are, far more than our abilities.', 'ko',
      '우리가 진정 어떤 사람인지 보여 주는 것은 능력보다 훨씬 더 우리의 선택이란다.'),
     ('Look up at the stars and not down at your feet.', 'ko',
-     '발밑이 아니라 별을 올려다보아라.');
+     '발밑이 아니라 별을 올려다보아라.'),
+    ('However difficult life may seem, there is always something you can do and succeed at.', 'ko',
+     '삶이 아무리 힘들어 보여도, 당신이 할 수 있고 해낼 수 있는 일은 언제나 있다.');
