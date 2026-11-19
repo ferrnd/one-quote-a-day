@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Things do not change; we change.', 'ja',
      '物事は変わらない。私たちが変わるのだ。'),
     ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'ja',
-     '進歩には常に危険が伴う。一塁に足を置いたまま、二塁を盗むことはできない。');
+     '進歩には常に危険が伴う。一塁に足を置いたまま、二塁を盗むことはできない。'),
+    ('The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday''s logic.', 'ja',
+     '激動の時代における最大の危険は、激動そのものではない。昨日の論理で行動することだ。');
