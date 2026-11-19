@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be like the bird who, halting in his flight on limb too slight, feels it give way beneath him, yet sings, knowing he hath wings.', 'ja',
      '細すぎる枝に羽を休め、足もとがしなうのを感じても、自分に翼があると知って歌う鳥のようであれ。'),
     ('While I breathe, I hope.', 'ja',
-     '息をしているかぎり、私は希望を持つ。');
+     '息をしているかぎり、私は希望を持つ。'),
+    ('Every day may not be good, but there''s something good in every day.', 'ja',
+     '毎日が良い日とは限らない。でも、毎日の中に何か良いことはある。');
