@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is contagious. When a brave man takes a stand, the spines of others are often stiffened.', 'ja',
-     '勇気は伝染する。勇敢な人が立ち上がれば、周りの人の背筋もしばしば伸びる。');
+     '勇気は伝染する。勇敢な人が立ち上がれば、周りの人の背筋もしばしば伸びる。'),
+    ('Nothing in life is to be feared, it is only to be understood.', 'ja',
+     '人生において恐れるべきものは何もない。ただ理解すべきものがあるだけだ。');
