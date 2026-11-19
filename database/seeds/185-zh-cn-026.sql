@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Once you learn to quit, it becomes a habit.', 'zh-CN',
      '一旦你学会了放弃，它就会成为一种习惯。'),
     ('Today I will do what others won''t, so tomorrow I can accomplish what others can''t.', 'zh-CN',
-     '今天我做别人不愿做的事，明天我就能成就别人做不到的事。');
+     '今天我做别人不愿做的事，明天我就能成就别人做不到的事。'),
+    ('You can''t put a limit on anything. The more you dream, the farther you get.', 'zh-CN',
+     '任何事都不能设限。你梦想得越多，就走得越远。');
