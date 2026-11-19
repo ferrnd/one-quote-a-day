@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Vision is the art of seeing what is invisible to others.', 'zh-CN',
      '远见是看见别人看不见之物的艺术。'),
     ('When one door of happiness closes, another opens.', 'zh-CN',
-     '当一扇幸福之门关闭时，另一扇就会打开。');
+     '当一扇幸福之门关闭时，另一扇就会打开。'),
+    ('Alone we can do so little; together we can do so much.', 'zh-CN',
+     '独自一人，我们能做的很少；携手合作，我们能做的很多。');
