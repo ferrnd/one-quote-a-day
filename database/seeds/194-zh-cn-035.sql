@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Power is not given to you. You have to take it.', 'zh-CN',
      '权力不是别人给你的，你必须自己去争取。'),
     ('I''m not going to limit myself just because people won''t accept the fact that I can do something else.', 'zh-CN',
-     '我不会仅仅因为别人不接受我能做别的事，就限制自己。');
+     '我不会仅仅因为别人不接受我能做别的事，就限制自己。'),
+    ('Nobody has ever measured, not even poets, how much the heart can hold.', 'zh-CN',
+     '从来没有人测量过，即使是诗人也没有，心究竟能容纳多少。');
