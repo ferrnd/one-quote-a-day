@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t wish it were easier, wish you were better.', 'zh-CN',
      '不要希望事情更容易，要希望自己更优秀。'),
     ('Either you run the day or the day runs you.', 'zh-CN',
-     '要么你驾驭一天，要么一天驾驭你。');
+     '要么你驾驭一天，要么一天驾驭你。'),
+    ('With self-discipline most anything is possible.', 'zh-CN',
+     '有了自律，几乎任何事都有可能。');
