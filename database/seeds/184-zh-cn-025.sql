@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between the impossible and the possible lies in a man''s determination.', 'zh-CN',
      '不可能与可能之间的区别，在于一个人的决心。'),
     ('Set your goals high, and don''t stop till you get there.', 'zh-CN',
-     '把目标定得高一些，不到达绝不停止。');
+     '把目标定得高一些，不到达绝不停止。'),
+    ('Desire is the key to motivation, but it''s determination and commitment to an unrelenting pursuit of your goal that will enable you to attain the success you seek.', 'zh-CN',
+     '渴望是动力的关键，但能让你获得所追求的成功的，是坚定的决心和对目标锲而不舍的投入。');
