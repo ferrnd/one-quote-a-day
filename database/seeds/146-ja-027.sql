@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One never notices what has been done; one can only see what remains to be done.', 'ja',
      '人は、成し遂げたことには気づかない。まだ成し遂げるべきことしか目に入らないのだ。'),
     ('I raise up my voice, not so that I can shout, but so that those without a voice can be heard.', 'ja',
-     '私が声を上げるのは、叫ぶためではありません。声なき人々の声が届くようにするためです。');
+     '私が声を上げるのは、叫ぶためではありません。声なき人々の声が届くようにするためです。'),
+    ('One child, one teacher, one book, one pen can change the world.', 'ja',
+     '一人の子ども、一人の教師、一冊の本、そして一本のペンが、世界を変えられるのです。');
