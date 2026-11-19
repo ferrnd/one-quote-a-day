@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s what you learn after you know it all that counts.', 'ja',
      '大切なのは、すべてを知ったと思った後に何を学ぶかだ。'),
     ('Our business in life is not to get ahead of others, but to get ahead of ourselves.', 'ja',
-     '人生でなすべきことは、他人に先んじることではなく、昨日の自分に先んじることだ。');
+     '人生でなすべきことは、他人に先んじることではなく、昨日の自分に先んじることだ。'),
+    ('To be what we are, and to become what we are capable of becoming, is the only end of life.', 'ja',
+     'ありのままの自分であること、そしてなりうる自分になること。それこそが人生の唯一の目的である。');
