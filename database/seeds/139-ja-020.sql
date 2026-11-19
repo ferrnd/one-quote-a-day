@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you do speaks so loudly that I cannot hear what you say.', 'ja',
      'あなたの行いがあまりに雄弁なので、あなたの言葉が聞こえない。'),
     ('Go confidently in the direction of your dreams. Live the life you have imagined.', 'ja',
-     '夢に向かって自信をもって進め。思い描いたとおりの人生を生きよ。');
+     '夢に向かって自信をもって進め。思い描いたとおりの人生を生きよ。'),
+    ('If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.', 'ja',
+     '空中に楼閣を築いたとしても、その仕事は無駄にはならない。楼閣はそこにあるべきものだ。さあ、その下に土台を築こう。');
