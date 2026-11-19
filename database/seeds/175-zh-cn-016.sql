@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.', 'zh-CN',
      '我这一代人最伟大的发现是，人可以通过改变态度来改变自己的人生。'),
     ('You are never too old to set another goal or to dream a new dream.', 'zh-CN',
-     '设定新的目标、做新的梦想，永远不嫌老。');
+     '设定新的目标、做新的梦想，永远不嫌老。'),
+    ('Act as if what you do makes a difference. It does.', 'zh-CN',
+     '行动起来，就好像你所做的会带来改变。它确实会。');
