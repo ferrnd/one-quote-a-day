@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not that we have a short time to live, but that we waste a lot of it.', 'ja',
      '私たちの生きる時間が短いのではない。私たちがその多くを浪費しているのだ。'),
     ('While we wait for life, life passes.', 'ja',
-     '人生を待っている間に、人生は過ぎ去っていく。');
+     '人生を待っている間に、人生は過ぎ去っていく。'),
+    ('Wherever there is a human being, there is an opportunity for a kindness.', 'ja',
+     '人間がいるところには、どこにでも親切の機会がある。');
