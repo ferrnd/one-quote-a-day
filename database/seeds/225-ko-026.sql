@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing great was ever achieved without enthusiasm.', 'ko',
      '열정 없이 이루어진 위대한 일은 없다.'),
     ('I would rather be ashes than dust!', 'ko',
-     '나는 먼지가 되느니 차라리 재가 되겠다!');
+     '나는 먼지가 되느니 차라리 재가 되겠다!'),
+    ('Determine never to be idle.', 'ko',
+     '결코 게으르지 않겠다고 결심하라.');
