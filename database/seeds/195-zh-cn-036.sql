@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Knowing your own darkness is the best method for dealing with the darknesses of other people.', 'zh-CN',
      '了解你自己的黑暗，是应对他人黑暗的最好方法。'),
     ('There is no coming to consciousness without pain.', 'zh-CN',
-     '没有痛苦，就不会有意识的觉醒。');
+     '没有痛苦，就不会有意识的觉醒。'),
+    ('It''s what you learn after you know it all that counts.', 'zh-CN',
+     '重要的是你在自以为无所不知之后学到的东西。');
