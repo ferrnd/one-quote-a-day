@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Weeping may endure for a night, but joy cometh in the morning.', 'zh-CN',
      '一宿虽然有哭泣，早晨便必欢呼。'),
     ('Grow old along with me! The best is yet to be.', 'zh-CN',
-     '和我一起变老吧！最好的还在后头。');
+     '和我一起变老吧！最好的还在后头。'),
+    ('Isn''t it nice to think that tomorrow is a new day with no mistakes in it yet?', 'zh-CN',
+     '想到明天是新的一天，还没有犯下任何错误，不是很美好吗？');
