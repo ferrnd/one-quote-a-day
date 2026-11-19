@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be brave. Take risks. Nothing can substitute experience.', 'ja',
      '勇敢であれ。危険を冒せ。経験に代わるものはない。'),
     ('He who is brave is free.', 'ja',
-     '勇敢な者は自由である。');
+     '勇敢な者は自由である。'),
+    ('I must not fear. Fear is the mind-killer.', 'ja',
+     '恐れてはならない。恐れは心を殺すものだ。');
