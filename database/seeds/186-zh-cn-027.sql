@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('That''s one small step for a man, one giant leap for mankind.', 'zh-CN',
      '这是一个人的一小步，却是人类的一大步。'),
     ('Don''t tell me the sky''s the limit when there are footprints on the moon.', 'zh-CN',
-     '月球上都有脚印了，别跟我说天空是极限。');
+     '月球上都有脚印了，别跟我说天空是极限。'),
+    ('The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.', 'zh-CN',
+     '地球是人类的摇篮，但人类不可能永远待在摇篮里。');
