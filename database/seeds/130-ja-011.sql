@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Think of all the beauty still left around you and be happy.', 'ja',
      'まだあなたのまわりに残っているすべての美しいものを思い浮かべて、幸せでいなさい。'),
     ('It is often in the darkest skies that we see the brightest stars.', 'ja',
-     '最も暗い空にこそ、最も明るい星が見えることが多い。');
+     '最も暗い空にこそ、最も明るい星が見えることが多い。'),
+    ('Strength and growth come only through continuous effort and struggle.', 'ja',
+     '強さと成長は、絶え間ない努力と苦闘を通してのみ得られる。');
