@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When it is dark enough, you can see the stars.', 'zh-CN',
      '天足够黑的时候，你就能看见星星。'),
     ('Fire is the test of gold; adversity, of strong men.', 'zh-CN',
-     '烈火试真金，逆境试强者。');
+     '烈火试真金，逆境试强者。'),
+    ('Difficulties strengthen the mind, as labor does the body.', 'zh-CN',
+     '困难磨砺心智，正如劳动锻炼身体。');
