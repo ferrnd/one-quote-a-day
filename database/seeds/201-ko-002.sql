@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The road to success is dotted with many tempting parking spaces.', 'ko',
      '성공으로 가는 길에는 유혹적인 주차 공간이 곳곳에 있다.'),
     ('If you fell down yesterday, stand up today.', 'ko',
-     '어제 넘어졌다면, 오늘 일어서라.');
+     '어제 넘어졌다면, 오늘 일어서라.'),
+    ('I will persist until I succeed.', 'ko',
+     '나는 성공할 때까지 계속할 것이다.');
