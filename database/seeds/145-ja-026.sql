@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are better starters than me but I''m a strong finisher.', 'ja',
      'スタートが私よりうまい選手はいる。だが、私はゴール前に強い。'),
     ('Nothing great was ever achieved without enthusiasm.', 'ja',
-     '情熱なくして、偉大なことが成し遂げられたためしはない。');
+     '情熱なくして、偉大なことが成し遂げられたためしはない。'),
+    ('I would rather be ashes than dust!', 'ja',
+     '塵になるより、灰になりたい！');
