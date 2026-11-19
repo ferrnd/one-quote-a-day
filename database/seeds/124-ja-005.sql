@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Defeat is not the worst of failures. Not to have tried is the true failure.', 'ja',
      '敗北は最悪の失敗ではない。挑戦しなかったことこそが本当の失敗だ。'),
     ('Failures are finger posts on the road to achievement.', 'ja',
-     '失敗は、達成への道に立つ道しるべである。');
+     '失敗は、達成への道に立つ道しるべである。'),
+    ('The phoenix must burn to emerge.', 'ja',
+     '不死鳥は、よみがえるために燃えなければならない。');
