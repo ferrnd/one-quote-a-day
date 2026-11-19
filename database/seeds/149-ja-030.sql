@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Write it on your heart that every day is the best day in the year.', 'ja',
      '毎日が一年で最良の日であると、心に書き記しておきなさい。'),
     ('Life can only be understood backwards; but it must be lived forwards.', 'ja',
-     '人生は後ろ向きにしか理解できない。だが、前向きに生きなければならない。');
+     '人生は後ろ向きにしか理解できない。だが、前向きに生きなければならない。'),
+    ('Beginnings are always messy.', 'ja',
+     '始まりはいつも混沌としている。');
