@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Diamonds are nothing more than chunks of coal that stuck to their jobs.', 'ko',
      '다이아몬드는 자기 일을 끝까지 해낸 석탄 덩어리에 지나지 않는다.'),
     ('Great things are not done by impulse, but by a series of small things brought together.', 'ko',
-     '위대한 일은 충동이 아니라 작은 일들이 모여 이루어진다.');
+     '위대한 일은 충동이 아니라 작은 일들이 모여 이루어진다.'),
+    ('Genius is one percent inspiration and ninety-nine percent perspiration.', 'ko',
+     '천재는 1퍼센트의 영감과 99퍼센트의 노력으로 이루어진다.');
