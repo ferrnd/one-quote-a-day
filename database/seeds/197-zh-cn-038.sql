@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The more I want to get something done, the less I call it work.', 'zh-CN',
      '我越想把一件事做成，就越不把它称作工作。'),
     ('The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.', 'zh-CN',
-     '悲观者抱怨风向，乐观者期待风向改变，现实者调整风帆。');
+     '悲观者抱怨风向，乐观者期待风向改变，现实者调整风帆。'),
+    ('Optimism is essential to achievement and it is also the foundation of courage and true progress.', 'zh-CN',
+     '乐观是成就的必需品，也是勇气和真正进步的基础。');
