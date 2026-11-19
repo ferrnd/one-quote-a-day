@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be bold, and mighty forces will come to your aid.', 'ko',
      '대담하라. 그러면 강한 힘이 너를 도우러 올 것이다.'),
     ('There is no passion to be found playing small.', 'ko',
-     '작게 사는 데서는 열정을 찾을 수 없다.');
+     '작게 사는 데서는 열정을 찾을 수 없다.'),
+    ('Courage is like a muscle. We strengthen it by use.', 'ko',
+     '용기는 근육과 같다. 쓸수록 강해진다.');
