@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Even if you''re on the right track, you''ll get run over if you just sit there.', 'ja',
      '正しい線路の上にいても、ただ座っていたらひかれてしまう。'),
     ('An idea not coupled with action will never get any bigger than the brain cell it occupied.', 'ja',
-     '行動と結びつかないアイデアは、それが宿る脳細胞より大きくなることはない。');
+     '行動と結びつかないアイデアは、それが宿る脳細胞より大きくなることはない。'),
+    ('Talk does not cook rice.', 'ja',
+     '口先だけでは米は炊けない。');
