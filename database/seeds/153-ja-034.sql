@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never doubt that a small group of thoughtful, committed citizens can change the world.', 'ja',
      '思慮深く献身的な少数の市民が世界を変えられることを、決して疑ってはならない。'),
     ('Keep your face to the sunshine and you cannot see a shadow.', 'ja',
-     '顔をいつも太陽のほうに向けていれば、影を見ることはない。');
+     '顔をいつも太陽のほうに向けていれば、影を見ることはない。'),
+    ('One day, in retrospect, the years of struggle will strike you as the most beautiful.', 'ja',
+     'いつの日か振り返ったとき、苦闘した歳月こそが最も美しく思えるだろう。');
