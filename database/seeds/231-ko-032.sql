@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Today''s accomplishments were yesterday''s impossibilities.', 'ko',
      '오늘의 성취는 어제의 불가능이었다.'),
     ('Nothing is particularly hard if you divide it into small jobs.', 'ko',
-     '작은 일들로 나누면 특별히 어려운 일은 없다.');
+     '작은 일들로 나누면 특별히 어려운 일은 없다.'),
+    ('Perseverance and spirit have done wonders in all ages.', 'ko',
+     '끈기와 기개는 모든 시대에 기적을 일으켜 왔다.');
