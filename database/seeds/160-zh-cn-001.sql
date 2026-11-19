@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The drops of rain make a hole in the stone, not by violence, but by oft falling.', 'zh-CN',
      '雨滴能在石头上滴出洞来，不是靠猛烈，而是靠不断地落下。'),
     ('Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.', 'zh-CN',
-     '世上大多数重要的事情，都是由那些在看似毫无希望时仍不断尝试的人完成的。');
+     '世上大多数重要的事情，都是由那些在看似毫无希望时仍不断尝试的人完成的。'),
+    ('Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: it is this that in all things distinguishes the strong soul from the weak.', 'zh-CN',
+     '无论遇到多少障碍、挫折与不可能，依然坚定、坚韧、坚持：正是这一点，在任何事情上都把坚强的灵魂与软弱的灵魂区分开来。');
