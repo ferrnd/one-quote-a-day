@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The soul becomes dyed with the color of its thoughts.', 'ko',
      '영혼은 그 생각의 색깔로 물든다.'),
     ('Success is not the key to happiness. Happiness is the key to success.', 'ko',
-     '성공은 행복의 열쇠가 아니다. 행복이 성공의 열쇠다.');
+     '성공은 행복의 열쇠가 아니다. 행복이 성공의 열쇠다.'),
+    ('Patience is the calm acceptance that things can happen in a different order than the one you have in mind.', 'ko',
+     '인내란 일이 내가 생각한 순서와 다른 순서로 일어날 수 있다는 것을 차분히 받아들이는 것이다.');
