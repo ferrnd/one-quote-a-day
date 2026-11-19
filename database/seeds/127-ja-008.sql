@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''ve been absolutely terrified every moment of my life and I''ve never let it keep me from doing a single thing I wanted to do.', 'ja',
      '私は人生のあらゆる瞬間にひどく怯えてきた。それでも、そのせいでやりたいことを一つでも諦めたことはない。'),
     ('Sorrow is how we learn to love. Your heart isn''t breaking. It hurts because it''s getting larger.', 'ja',
-     '悲しみは、愛することを学ぶ道だ。あなたの心は壊れているのではない。大きくなっているから痛むのだ。');
+     '悲しみは、愛することを学ぶ道だ。あなたの心は壊れているのではない。大きくなっているから痛むのだ。'),
+    ('Once you choose hope, anything''s possible.', 'ja',
+     'ひとたび希望を選べば、何だって可能になる。');
