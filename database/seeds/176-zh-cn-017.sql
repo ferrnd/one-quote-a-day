@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Begin at once to live, and count each separate day as a separate life.', 'zh-CN',
      '立刻开始生活，把每一天都当作一次独立的人生。'),
     ('Start where you are. Use what you have. Do what you can.', 'zh-CN',
-     '从你所在的地方开始，用你所拥有的，做你能做的。');
+     '从你所在的地方开始，用你所拥有的，做你能做的。'),
+    ('We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.', 'zh-CN',
+     '我们为蝴蝶的美丽而欣喜，却很少承认它为了这份美丽经历了怎样的蜕变。');
