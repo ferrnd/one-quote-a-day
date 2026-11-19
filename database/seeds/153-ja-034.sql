@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard days are the best because that''s when champions are made.', 'ja',
      'つらい日こそ最高の日だ。チャンピオンがつくられるのは、そういう日なのだから。'),
     ('There is always light, if only we''re brave enough to see it. If only we''re brave enough to be it.', 'ja',
-     '光はいつもそこにある。それを見る勇気さえあれば。それになる勇気さえあれば。');
+     '光はいつもそこにある。それを見る勇気さえあれば。それになる勇気さえあれば。'),
+    ('Hope is a verb with its shirtsleeves rolled up.', 'ja',
+     '希望とは、袖をまくり上げた動詞である。');
