@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The journey of a thousand miles begins with one step.', 'zh-CN',
      '千里之行，始于足下。'),
     ('Action is the foundational key to all success.', 'zh-CN',
-     '行动是一切成功的根本关键。');
+     '行动是一切成功的根本关键。'),
+    ('You don''t have to be great to start, but you have to start to be great.', 'zh-CN',
+     '你不必很厉害才能开始，但你必须开始才能变得很厉害。');
