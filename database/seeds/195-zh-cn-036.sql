@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Practice does not make perfect. Only perfect practice makes perfect.', 'zh-CN',
      '练习不能造就完美，只有完美的练习才能造就完美。'),
     ('Success is where preparation and opportunity meet.', 'zh-CN',
-     '成功就是准备与机会相遇的地方。');
+     '成功就是准备与机会相遇的地方。'),
+    ('Quality means doing it right when no one is looking.', 'zh-CN',
+     '质量就是在没有人看的时候也把事情做好。');
