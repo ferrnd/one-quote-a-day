@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Challenges are what make life interesting and overcoming them is what makes life meaningful.', 'ja',
      '挑戦は人生を面白くし、それを乗り越えることが人生を意味あるものにする。'),
     ('Adversity is the diamond dust Heaven polishes its jewels with.', 'ja',
-     '逆境とは、天がその宝石を磨くためのダイヤモンドの粉である。');
+     '逆境とは、天がその宝石を磨くためのダイヤモンドの粉である。'),
+    ('Storms make trees take deeper roots.', 'ja',
+     '嵐は、木の根をより深く張らせる。');
