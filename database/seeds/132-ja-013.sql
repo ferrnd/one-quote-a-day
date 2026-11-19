@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We are what we repeatedly do. Excellence, then, is not an act, but a habit.', 'ja',
      '私たちは繰り返し行うことの産物である。だから卓越とは行為ではなく、習慣なのだ。'),
     ('Discipline is the bridge between goals and accomplishment.', 'ja',
-     '規律は、目標と達成をつなぐ橋である。');
+     '規律は、目標と達成をつなぐ橋である。'),
+    ('We must all suffer one of two things: the pain of discipline or the pain of regret.', 'ja',
+     '人は皆、二つの痛みのどちらかを味わう。規律の痛みか、後悔の痛みか。');
