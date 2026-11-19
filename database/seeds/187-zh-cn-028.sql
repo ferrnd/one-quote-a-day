@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.', 'zh-CN',
      '珍惜你的愿景和梦想，因为它们是你灵魂的孩子，是你最终成就的蓝图。'),
     ('The starting point of all achievement is desire.', 'zh-CN',
-     '一切成就的起点是渴望。');
+     '一切成就的起点是渴望。'),
+    ('A goal is a dream with a deadline.', 'zh-CN',
+     '目标就是有截止日期的梦想。');
