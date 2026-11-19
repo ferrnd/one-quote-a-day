@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rock bottom became the solid foundation on which I rebuilt my life.', 'ko',
      '바닥은 내가 삶을 다시 세운 단단한 토대가 되었다.'),
     ('Do not judge me by my success, judge me by how many times I fell down and got back up again.', 'ko',
-     '나를 성공으로 판단하지 말고, 몇 번 넘어졌다가 다시 일어섰는지로 판단해 달라.');
+     '나를 성공으로 판단하지 말고, 몇 번 넘어졌다가 다시 일어섰는지로 판단해 달라.'),
+    ('Failure should be our teacher, not our undertaker.', 'ko',
+     '실패는 우리의 스승이 되어야지, 장의사가 되어서는 안 된다.');
