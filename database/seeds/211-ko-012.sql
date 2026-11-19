@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be the heroine of your life, not the victim.', 'ko',
      '당신 인생의 희생자가 아니라 주인공이 되어라.'),
     ('Stand up straight and realize who you are, that you tower over your circumstances.', 'ko',
-     '똑바로 서서 당신이 누구인지 깨달아라. 당신은 당신의 처지보다 훨씬 높이 서 있다는 것을.');
+     '똑바로 서서 당신이 누구인지 깨달아라. 당신은 당신의 처지보다 훨씬 높이 서 있다는 것을.'),
+    ('Never bend your head. Always hold it high. Look the world straight in the eye.', 'ko',
+     '절대 고개를 숙이지 마라. 언제나 고개를 높이 들어라. 세상을 똑바로 바라보아라.');
