@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard work is a prison sentence only if it does not have meaning.', 'zh-CN',
      '只有当辛勤工作没有意义时，它才像坐牢。'),
     ('We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.', 'zh-CN',
-     '我们通过做公正的事成为公正的人，通过做节制的事成为节制的人，通过做勇敢的事成为勇敢的人。');
+     '我们通过做公正的事成为公正的人，通过做节制的事成为节制的人，通过做勇敢的事成为勇敢的人。'),
+    ('Never mistake activity for achievement.', 'zh-CN',
+     '永远不要把忙碌误认为成就。');
