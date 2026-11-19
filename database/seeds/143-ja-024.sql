@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rome wasn''t built in a day.', 'ja',
      'ローマは一日にして成らず。'),
     ('Everything comes gradually and at its appointed hour.', 'ja',
-     'すべては少しずつ、定められた時にやってくる。');
+     'すべては少しずつ、定められた時にやってくる。'),
+    ('Be patient and tough; someday this pain will be useful to you.', 'ja',
+     '忍耐強く、たくましくあれ。いつかこの痛みが役に立つ日が来る。');
