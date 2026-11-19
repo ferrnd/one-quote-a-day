@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('An inventor fails 999 times, and if he succeeds once, he''s in.', 'zh-CN',
      '发明家失败九百九十九次，只要成功一次，他就成功了。'),
     ('Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.', 'zh-CN',
-     '你会发现，最僵硬的树最容易折断，而竹子和柳树却随风弯曲得以存活。');
+     '你会发现，最僵硬的树最容易折断，而竹子和柳树却随风弯曲得以存活。'),
+    ('Don''t fear failure. Not failure, but low aim, is the crime.', 'zh-CN',
+     '不要害怕失败。可耻的不是失败，而是目标太低。');
