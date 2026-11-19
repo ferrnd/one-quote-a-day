@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dedication sees dreams come true.', 'ja',
      '献身があれば、夢はかなう。'),
     ('Rest at the end, not in the middle.', 'ja',
-     '休むのは最後だ。途中ではない。');
+     '休むのは最後だ。途中ではない。'),
+    ('There are no shortcuts to any place worth going.', 'ja',
+     '行く価値のある場所に、近道はない。');
