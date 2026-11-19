@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t wish it were easier, wish you were better.', 'ja',
      'もっと楽ならいいのにと願うな。もっと自分が優れていればと願え。'),
     ('Either you run the day or the day runs you.', 'ja',
-     '一日を動かすか、一日に動かされるか、そのどちらかだ。');
+     '一日を動かすか、一日に動かされるか、そのどちらかだ。'),
+    ('With self-discipline most anything is possible.', 'ja',
+     '自分を律すれば、ほとんど何でも可能になる。');
