@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is where preparation and opportunity meet.', 'ko',
      '성공은 준비와 기회가 만나는 곳이다.'),
     ('Quality means doing it right when no one is looking.', 'ko',
-     '품질이란 아무도 보지 않을 때에도 제대로 하는 것이다.');
+     '품질이란 아무도 보지 않을 때에도 제대로 하는 것이다.'),
+    ('The last three or four reps is what makes the muscle grow.', 'ko',
+     '근육을 자라게 하는 것은 마지막 서너 번의 반복이다.');
