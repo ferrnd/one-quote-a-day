@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only way to make sense out of change is to plunge into it, move with it, and join the dance.', 'ko',
      '변화를 이해하는 유일한 방법은 그 속으로 뛰어들어 함께 움직이며 춤에 합류하는 것이다.'),
     ('Life is like riding a bicycle. To keep your balance you must keep moving.', 'ko',
-     '인생은 자전거를 타는 것과 같다. 균형을 잡으려면 계속 움직여야 한다.');
+     '인생은 자전거를 타는 것과 같다. 균형을 잡으려면 계속 움직여야 한다.'),
+    ('They always say time changes things, but you actually have to change them yourself.', 'ko',
+     '사람들은 늘 시간이 모든 것을 바꾼다고 말하지만, 실제로는 스스로 바꿔야 한다.');
