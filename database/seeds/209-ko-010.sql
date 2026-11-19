@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope will never be silent.', 'ko',
      '희망은 결코 침묵하지 않을 것이다.'),
     ('Weeping may endure for a night, but joy cometh in the morning.', 'ko',
-     '저녁에는 울음이 깃들일지라도 아침에는 기쁨이 오리로다.');
+     '저녁에는 울음이 깃들일지라도 아침에는 기쁨이 오리로다.'),
+    ('Grow old along with me! The best is yet to be.', 'ko',
+     '나와 함께 늙어 가자! 가장 좋은 날은 아직 오지 않았으니.');
