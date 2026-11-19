@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity is the diamond dust Heaven polishes its jewels with.', 'ko',
      '역경은 하늘이 보석을 닦는 데 쓰는 다이아몬드 가루다.'),
     ('Storms make trees take deeper roots.', 'ko',
-     '폭풍은 나무가 더 깊이 뿌리내리게 한다.');
+     '폭풍은 나무가 더 깊이 뿌리내리게 한다.'),
+    ('The way I see it, if you want the rainbow, you gotta put up with the rain.', 'ko',
+     '내 생각엔, 무지개를 원한다면 비를 견뎌야 해.');
