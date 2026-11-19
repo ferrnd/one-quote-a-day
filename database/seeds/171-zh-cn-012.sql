@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength is a matter of the made-up mind.', 'zh-CN',
      '力量来自下定决心的心。'),
     ('I am the master of my fate, I am the captain of my soul.', 'zh-CN',
-     '我是我命运的主宰，我是我灵魂的统帅。');
+     '我是我命运的主宰，我是我灵魂的统帅。'),
+    ('I thank whatever gods may be for my unconquerable soul.', 'zh-CN',
+     '无论有怎样的神明，我都感谢他们赐予我不可征服的灵魂。');
