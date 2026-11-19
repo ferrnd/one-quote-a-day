@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The oak fought the wind and was broken, the willow bent when it must and survived.', 'zh-CN',
      '橡树与风搏斗，结果折断了；柳树在该弯腰时弯腰，于是活了下来。'),
     ('Although the world is full of suffering, it is also full of the overcoming of it.', 'zh-CN',
-     '虽然世界充满了苦难，但也充满了对苦难的战胜。');
+     '虽然世界充满了苦难，但也充满了对苦难的战胜。'),
+    ('Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.', 'zh-CN',
+     '品格无法在安逸与平静中养成。只有经历考验与苦难，灵魂才能变得坚强，雄心才能被激发，成功才能实现。');
