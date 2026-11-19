@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('While we wait for life, life passes.', 'ko',
      '삶을 기다리는 동안 삶은 지나간다.'),
     ('Wherever there is a human being, there is an opportunity for a kindness.', 'ko',
-     '사람이 있는 곳이면 어디에나 친절을 베풀 기회가 있다.');
+     '사람이 있는 곳이면 어디에나 친절을 베풀 기회가 있다.'),
+    ('He suffers more than necessary, who suffers before it is necessary.', 'ko',
+     '필요하기도 전에 괴로워하는 자는 필요 이상으로 괴로워한다.');
