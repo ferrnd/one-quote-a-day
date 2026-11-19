@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t let the fear of losing be greater than the excitement of winning.', 'zh-CN',
      '不要让对失败的恐惧大于对胜利的兴奋。'),
     ('We learn from failure, not from success!', 'zh-CN',
-     '我们从失败中学习，而不是从成功中学习！');
+     '我们从失败中学习，而不是从成功中学习！'),
+    ('You can''t be afraid to fail. It''s the only way you succeed.', 'zh-CN',
+     '你不能害怕失败，那是你成功的唯一途径。');
