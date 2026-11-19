@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All our dreams can come true, if we have the courage to pursue them.', 'ko',
      '그것을 좇을 용기만 있다면, 우리의 모든 꿈은 이루어질 수 있다.'),
     ('First, think. Second, dream. Third, believe. And finally, dare.', 'ko',
-     '첫째, 생각하라. 둘째, 꿈꾸라. 셋째, 믿어라. 그리고 마지막으로, 감행하라.');
+     '첫째, 생각하라. 둘째, 꿈꾸라. 셋째, 믿어라. 그리고 마지막으로, 감행하라.'),
+    ('A dream you dream alone is only a dream. A dream you dream together is reality.', 'ko',
+     '혼자 꾸는 꿈은 그저 꿈일 뿐이지만, 함께 꾸는 꿈은 현실이 된다.');
