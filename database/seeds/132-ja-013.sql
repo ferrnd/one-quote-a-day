@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The price of excellence is discipline. The cost of mediocrity is disappointment.', 'ja',
      '卓越の代償は規律であり、凡庸の代償は失望である。'),
     ('Hard work beats talent when talent doesn''t work hard.', 'ja',
-     '才能ある者が努力しないとき、努力は才能に勝る。');
+     '才能ある者が努力しないとき、努力は才能に勝る。'),
+    ('Small disciplines repeated with consistency every day lead to great achievements gained slowly over time.', 'ja',
+     '毎日欠かさず繰り返される小さな規律が、時間をかけてゆっくりと大きな成果をもたらす。');
