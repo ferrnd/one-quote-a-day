@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only journey is the one within.', 'ko',
      '유일한 여행은 내면으로의 여행이다.'),
     ('I am still learning.', 'ko',
-     '나는 아직도 배우고 있다.');
+     '나는 아직도 배우고 있다.'),
+    ('It is not length of life, but depth of life.', 'ko',
+     '중요한 것은 삶의 길이가 아니라 삶의 깊이다.');
