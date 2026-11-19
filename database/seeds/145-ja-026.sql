@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Determine never to be idle.', 'ja',
      '決して怠けまいと決意せよ。'),
     ('A dream doesn''t become reality through magic; it takes sweat, determination and hard work.', 'ja',
-     '夢は魔法で現実になるのではない。汗と決意と努力が必要なのだ。');
+     '夢は魔法で現実になるのではない。汗と決意と努力が必要なのだ。'),
+    ('There are no secrets to success. It is the result of preparation, hard work, and learning from failure.', 'ja',
+     '成功に秘訣などない。それは準備と努力、そして失敗から学ぶことの結果である。');
