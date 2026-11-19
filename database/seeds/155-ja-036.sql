@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is where preparation and opportunity meet.', 'ja',
      '成功とは、準備と機会が出会う場所である。'),
     ('Quality means doing it right when no one is looking.', 'ja',
-     '品質とは、誰も見ていないときに正しく行うことだ。');
+     '品質とは、誰も見ていないときに正しく行うことだ。'),
+    ('The last three or four reps is what makes the muscle grow.', 'ja',
+     '最後の三、四回こそが、筋肉を成長させる。');
