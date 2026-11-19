@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('An idea not coupled with action will never get any bigger than the brain cell it occupied.', 'ko',
      '행동과 결합되지 않은 아이디어는 그것이 자리한 뇌세포보다 결코 커지지 않는다.'),
     ('Talk does not cook rice.', 'ko',
-     '말로는 밥을 지을 수 없다.');
+     '말로는 밥을 지을 수 없다.'),
+    ('If not now, when?', 'ko',
+     '지금이 아니면 언제인가?');
