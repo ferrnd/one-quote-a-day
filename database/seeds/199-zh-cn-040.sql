@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The purpose of life is to live it, to taste experience to the utmost.', 'zh-CN',
      '生命的意义在于去生活，去尽情品尝人生的经历。'),
     ('The art of being wise is the art of knowing what to overlook.', 'zh-CN',
-     '做一个明智之人的艺术，就是懂得忽略什么的艺术。');
+     '做一个明智之人的艺术，就是懂得忽略什么的艺术。'),
+    ('He who learns but does not think, is lost. He who thinks but does not learn is in great danger.', 'zh-CN',
+     '学而不思则罔，思而不学则殆。');
