@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not until we are lost do we begin to understand ourselves.', 'zh-CN',
      '直到我们迷失了，才开始真正了解自己。'),
     ('Things do not change; we change.', 'zh-CN',
-     '事物没有改变，是我们改变了。');
+     '事物没有改变，是我们改变了。'),
+    ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'zh-CN',
+     '进步总是伴随着风险。你不可能一只脚留在一垒，还能盗上二垒。');
