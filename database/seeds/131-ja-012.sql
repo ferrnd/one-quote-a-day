@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I thank whatever gods may be for my unconquerable soul.', 'ja',
      'いかなる神であれ、私に屈することのない魂を与えてくれたことに感謝する。'),
     ('A hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.', 'ja',
-     '英雄とは、圧倒的な障害があっても粘り強く耐え抜く強さを見いだす、普通の人のことだ。');
+     '英雄とは、圧倒的な障害があっても粘り強く耐え抜く強さを見いだす、普通の人のことだ。'),
+    ('What lies behind us and what lies before us are tiny matters compared to what lies within us.', 'ja',
+     '過去にあるものも未来にあるものも、私たちの内にあるものに比べればささいなことだ。');
