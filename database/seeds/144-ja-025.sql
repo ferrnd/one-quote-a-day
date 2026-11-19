@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let go or be dragged.', 'ja',
      '手放せ。さもなくば引きずられる。'),
     ('Determination is the wake-up call to the human will.', 'ja',
-     '決意とは、人間の意志を呼び覚ます目覚まし時計である。');
+     '決意とは、人間の意志を呼び覚ます目覚まし時計である。'),
+    ('The difference between the impossible and the possible lies in a man''s determination.', 'ja',
+     '不可能と可能の違いは、その人の決意にある。');
