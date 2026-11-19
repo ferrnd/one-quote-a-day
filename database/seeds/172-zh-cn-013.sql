@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The successful warrior is the average man, with laser-like focus.', 'zh-CN',
      '成功的战士就是一个拥有激光般专注力的普通人。'),
     ('I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.', 'zh-CN',
-     '我不怕练过一万种踢法的人，我怕的是把一种踢法练了一万次的人。');
+     '我不怕练过一万种踢法的人，我怕的是把一种踢法练了一万次的人。'),
+    ('Discipline is choosing between what you want now and what you want most.', 'zh-CN',
+     '自律就是在你现在想要的和你最想要的之间做出选择。');
