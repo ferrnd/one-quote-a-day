@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('First we make our habits, then our habits make us.', 'ja',
      '最初に私たちが習慣をつくり、やがて習慣が私たちをつくる。'),
     ('It is the start that stops most people.', 'ja',
-     'たいていの人を止めてしまうのは、始めることそのものだ。');
+     'たいていの人を止めてしまうのは、始めることそのものだ。'),
+    ('Practice isn''t the thing you do once you''re good. It''s the thing you do that makes you good.', 'ja',
+     '練習とは、うまくなってからするものではない。うまくなるためにするものだ。');
