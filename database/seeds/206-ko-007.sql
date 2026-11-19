@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of difficulties grow miracles.', 'ko',
      '어려움 속에서 기적이 자라난다.'),
     ('The gem cannot be polished without friction, nor man perfected without trials.', 'ko',
-     '옥은 갈지 않으면 빛나지 않고, 사람은 시련 없이 완성되지 않는다.');
+     '옥은 갈지 않으면 빛나지 않고, 사람은 시련 없이 완성되지 않는다.'),
+    ('Smooth seas do not make skillful sailors.', 'ko',
+     '잔잔한 바다는 노련한 뱃사람을 만들지 못한다.');
