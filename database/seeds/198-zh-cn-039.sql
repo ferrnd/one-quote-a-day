@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is necessary, and one cannot reap immediately where one has sown.', 'zh-CN',
      '耐心是必要的，你不可能在播种的地方立刻收获。'),
     ('Wisely and slow; they stumble that run fast.', 'zh-CN',
-     '明智而缓慢，跑得快的人会跌倒。');
+     '明智而缓慢，跑得快的人会跌倒。'),
+    ('They also serve who only stand and wait.', 'zh-CN',
+     '那些只是站着等待的人，也是在服务。');
