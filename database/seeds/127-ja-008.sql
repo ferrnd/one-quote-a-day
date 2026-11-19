@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hardships often prepare ordinary people for an extraordinary destiny.', 'ja',
      '苦難はしばしば、平凡な人々を非凡な運命へと備えさせる。'),
     ('Our wounds are often the openings into the best and most beautiful part of us.', 'ja',
-     '私たちの傷は、しばしば自分の中の最も善く美しい部分への入り口となる。');
+     '私たちの傷は、しばしば自分の中の最も善く美しい部分への入り口となる。'),
+    ('Resilience is accepting your new reality, even if it''s less good than the one you had before.', 'ja',
+     'しなやかさとは、新しい現実を受け入れることだ。たとえそれが以前のものより良くなくても。');
