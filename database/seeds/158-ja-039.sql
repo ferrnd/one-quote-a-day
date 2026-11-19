@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In dreams begins responsibility.', 'ja',
      '夢の中から、責任は始まる。'),
     ('Tread softly because you tread on my dreams.', 'ja',
-     'そっと歩いておくれ。きみが踏んでいるのは私の夢なのだから。');
+     'そっと歩いておくれ。きみが踏んでいるのは私の夢なのだから。'),
+    ('All that we see or seem is but a dream within a dream.', 'ja',
+     '私たちが見るもの、私たちに見えるものはすべて、夢の中の夢にすぎない。');
