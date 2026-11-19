@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are never too old to set another goal or to dream a new dream.', 'zh-CN',
      '设定新的目标、做新的梦想，永远不嫌老。'),
     ('Act as if what you do makes a difference. It does.', 'zh-CN',
-     '行动起来，就好像你所做的会带来改变。它确实会。');
+     '行动起来，就好像你所做的会带来改变。它确实会。'),
+    ('What we fear doing most is usually what we most need to do.', 'zh-CN',
+     '我们最害怕做的事，往往正是我们最需要做的事。');
