@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No mud, no lotus.', 'ja',
      '泥なくして、蓮は咲かない。'),
     ('If you want to see the sunshine, you have to weather the storm.', 'ja',
-     '日の光を見たければ、嵐を耐え抜かなければならない。');
+     '日の光を見たければ、嵐を耐え抜かなければならない。'),
+    ('The strongest people find the courage and caring to help others, even if they are going through their own storm.', 'ja',
+     '最も強い人は、自分自身が嵐の中にいても、他人を助ける勇気と思いやりを見いだす。');
