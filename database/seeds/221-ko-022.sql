@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Self-belief and hard work will always earn you success.', 'ko',
      '자신에 대한 믿음과 노력은 언제나 성공을 가져다준다.'),
     ('Too many of us are not living our dreams because we are living our fears.', 'ko',
-     '너무 많은 사람이 꿈을 살지 못하는 것은 두려움을 살고 있기 때문이다.');
+     '너무 많은 사람이 꿈을 살지 못하는 것은 두려움을 살고 있기 때문이다.'),
+    ('Shoot for the moon. Even if you miss, you''ll land among the stars.', 'ko',
+     '달을 향해 쏴라. 빗나가더라도 별들 사이에 떨어질 것이다.');
