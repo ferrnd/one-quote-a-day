@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Expose yourself to your deepest fear; after that, fear has no power.', 'ja',
      '最も深い恐れに身をさらせ。そうすれば、恐れはもう力を持たない。'),
     ('Courage is like love; it must have hope for nourishment.', 'ja',
-     '勇気は愛に似ている。希望という糧がなければならない。');
+     '勇気は愛に似ている。希望という糧がなければならない。'),
+    ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'ja',
+     '肉体的な勇気がこの世にこれほどありふれていて、道徳的な勇気がこれほどまれなのは不思議なことだ。');
