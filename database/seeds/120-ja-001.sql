@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It always seems impossible until it''s done.', 'ja',
      '何事も、成し遂げるまでは不可能に思えるものだ。'),
     ('Nothing in this world can take the place of persistence.', 'ja',
-     'この世に、粘り強さに代わるものはない。');
+     'この世に、粘り強さに代わるものはない。'),
+    ('Victory belongs to the most persevering.', 'ja',
+     '勝利は、最も粘り強い者のものだ。');
