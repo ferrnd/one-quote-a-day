@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.', 'ja',
      '人格は安楽と静けさの中では育たない。試練と苦しみを経験してこそ、魂は鍛えられ、大志は燃え、成功は成し遂げられる。'),
     ('Life doesn''t get easier or more forgiving, we get stronger and more resilient.', 'ja',
-     '人生が楽になったり優しくなったりするわけではない。私たちが強く、しなやかになっていくのだ。');
+     '人生が楽になったり優しくなったりするわけではない。私たちが強く、しなやかになっていくのだ。'),
+    ('Do not pray for an easy life, pray for the strength to endure a difficult one.', 'ja',
+     '楽な人生を祈るな。困難な人生に耐える強さを祈れ。');
