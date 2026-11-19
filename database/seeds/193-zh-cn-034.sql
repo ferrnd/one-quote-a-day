@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.', 'zh-CN',
      '当阳光灿烂时，我什么都能做到；没有太高的山，也没有难以克服的困难。'),
     ('Never doubt that a small group of thoughtful, committed citizens can change the world.', 'zh-CN',
-     '永远不要怀疑，一小群有思想、有担当的公民能够改变世界。');
+     '永远不要怀疑，一小群有思想、有担当的公民能够改变世界。'),
+    ('Keep your face to the sunshine and you cannot see a shadow.', 'zh-CN',
+     '让你的脸一直朝向阳光，你就看不到阴影。');
