@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Stay hungry, stay foolish.', 'ja',
      'ハングリーであれ。愚か者であれ。'),
     ('Your time is limited, so don''t waste it living someone else''s life.', 'ja',
-     'あなたの時間は限られている。だから、他人の人生を生きて無駄にしてはいけない。');
+     'あなたの時間は限られている。だから、他人の人生を生きて無駄にしてはいけない。'),
+    ('If you are working on something exciting that you really care about, you don''t have to be pushed. The vision pulls you.', 'ja',
+     '心から大切に思うわくわくするものに取り組んでいるなら、誰かに背中を押される必要はない。ビジョンがあなたを引っ張ってくれる。');
