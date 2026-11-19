@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.', 'ja',
      '物事が難しいから挑まないのではない。挑まないから難しいのだ。'),
     ('We suffer more often in imagination than in reality.', 'ja',
-     '私たちは現実よりも、想像の中で苦しむことのほうが多い。');
+     '私たちは現実よりも、想像の中で苦しむことのほうが多い。'),
+    ('Mastering others is strength. Mastering yourself is true power.', 'ja',
+     '人に勝つ者は力がある。自分に勝つ者こそ真に強い。');
