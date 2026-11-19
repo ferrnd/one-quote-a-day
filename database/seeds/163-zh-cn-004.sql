@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is like a muscle. We strengthen it by use.', 'zh-CN',
      '勇气就像肌肉，越用越强。'),
     ('Vulnerability is the birthplace of innovation, creativity and change.', 'zh-CN',
-     '脆弱是创新、创造与改变的发源地。');
+     '脆弱是创新、创造与改变的发源地。'),
+    ('Courage starts with showing up and letting ourselves be seen.', 'zh-CN',
+     '勇气始于出现在那里，并让别人看见真实的自己。');
