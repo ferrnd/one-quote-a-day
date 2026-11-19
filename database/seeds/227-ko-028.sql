@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t let anyone rob you of your imagination, your creativity, or your curiosity.', 'ko',
      '누구에게도 당신의 상상력, 창의성, 호기심을 빼앗기지 마라.'),
     ('Never let your memories be greater than your dreams.', 'ko',
-     '추억이 꿈보다 커지게 두지 마라.');
+     '추억이 꿈보다 커지게 두지 마라.'),
+    ('All men dream, but not equally.', 'ko',
+     '모든 사람은 꿈을 꾸지만, 똑같이 꾸지는 않는다.');
