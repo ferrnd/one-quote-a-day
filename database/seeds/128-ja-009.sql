@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the thing with feathers that perches in the soul.', 'ja',
      '希望とは、魂にとまる羽根をもったもの。'),
     ('Everything that is done in the world is done by hope.', 'ja',
-     'この世で成し遂げられることはすべて、希望によって成し遂げられる。');
+     'この世で成し遂げられることはすべて、希望によって成し遂げられる。'),
+    ('Hope is being able to see that there is light despite all of the darkness.', 'ja',
+     '希望とは、どんな暗闇の中にも光があると見えることだ。');
