@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The more I practice, the luckier I get.', 'ko',
      '연습을 하면 할수록 나는 운이 좋아진다.'),
     ('Do not wait to strike till the iron is hot; but make it hot by striking.', 'ko',
-     '쇠가 달궈질 때까지 기다렸다가 치지 마라. 쳐서 달구어라.');
+     '쇠가 달궈질 때까지 기다렸다가 치지 마라. 쳐서 달구어라.'),
+    ('Self-respect is the fruit of discipline; the sense of dignity grows with the ability to say no to oneself.', 'ko',
+     '자존감은 훈련의 열매다. 존엄성은 스스로에게 "아니"라고 말할 수 있는 능력과 함께 자란다.');
