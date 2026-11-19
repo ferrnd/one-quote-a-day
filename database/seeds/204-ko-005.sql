@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Defeat is not the worst of failures. Not to have tried is the true failure.', 'ko',
      '패배는 최악의 실패가 아니다. 시도하지 않은 것이 진짜 실패다.'),
     ('Failures are finger posts on the road to achievement.', 'ko',
-     '실패는 성취로 가는 길 위의 이정표다.');
+     '실패는 성취로 가는 길 위의 이정표다.'),
+    ('The phoenix must burn to emerge.', 'ko',
+     '불사조는 다시 태어나기 위해 불타야 한다.');
