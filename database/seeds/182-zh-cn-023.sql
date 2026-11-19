@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ability is what you''re capable of doing. Motivation determines what you do. Attitude determines how well you do it.', 'zh-CN',
      '能力是你能做什么，动力决定你做什么，态度决定你做得多好。'),
     ('Worry does not empty tomorrow of its sorrow, it empties today of its strength.', 'zh-CN',
-     '忧虑不会清空明天的悲伤，只会耗尽今天的力量。');
+     '忧虑不会清空明天的悲伤，只会耗尽今天的力量。'),
+    ('Man is not worried by real problems so much as by his imagined anxieties about real problems.', 'zh-CN',
+     '让人烦恼的往往不是真实的问题，而是人对真实问题的想象出来的焦虑。');
