@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A man is not finished when he is defeated. He is finished when he quits.', 'zh-CN',
      '一个人被打败时并没有完蛋，放弃时才算完蛋。'),
     ('The human spirit is stronger than anything that can happen to it.', 'zh-CN',
-     '人的精神比任何可能发生在它身上的事都要强大。');
+     '人的精神比任何可能发生在它身上的事都要强大。'),
+    ('Life is not about how fast you run or how high you climb, but how well you bounce.', 'zh-CN',
+     '生活不在于你跑得多快、爬得多高，而在于你反弹得多好。');
