@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'ja',
      '夢の実現を不可能にするものはただ一つ、失敗への恐れである。'),
     ('Failure is not the opposite of success; it''s part of success.', 'ja',
-     '失敗は成功の反対ではない。成功の一部である。');
+     '失敗は成功の反対ではない。成功の一部である。'),
+    ('You build on failure. You use it as a stepping stone.', 'ja',
+     '失敗の上に築くのだ。それを踏み台にするのだ。');
