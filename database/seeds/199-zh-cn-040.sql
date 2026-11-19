@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are never given a wish without also being given the power to make it come true.', 'zh-CN',
      '你每被赋予一个愿望，也同时被赋予了实现它的力量。'),
     ('The unexamined life is not worth living.', 'zh-CN',
-     '未经审视的人生不值得过。');
+     '未经审视的人生不值得过。'),
+    ('The only true wisdom is in knowing you know nothing.', 'zh-CN',
+     '唯一真正的智慧，是知道自己一无所知。');
