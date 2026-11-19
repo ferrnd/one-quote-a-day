@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be not afraid of growing slowly, be afraid only of standing still.', 'ko',
      '천천히 자라는 것을 두려워하지 말고, 멈춰 서는 것만을 두려워하라.'),
     ('The only way to make sense out of change is to plunge into it, move with it, and join the dance.', 'ko',
-     '변화를 이해하는 유일한 방법은 그 속으로 뛰어들어 함께 움직이며 춤에 합류하는 것이다.');
+     '변화를 이해하는 유일한 방법은 그 속으로 뛰어들어 함께 움직이며 춤에 합류하는 것이다.'),
+    ('Life is like riding a bicycle. To keep your balance you must keep moving.', 'ko',
+     '인생은 자전거를 타는 것과 같다. 균형을 잡으려면 계속 움직여야 한다.');
