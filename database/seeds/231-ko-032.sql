@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perseverance and spirit have done wonders in all ages.', 'ko',
      '끈기와 기개는 모든 시대에 기적을 일으켜 왔다.'),
     ('Courage is the price that life exacts for granting peace.', 'ko',
-     '용기는 삶이 평화를 허락하는 대가로 요구하는 값이다.');
+     '용기는 삶이 평화를 허락하는 대가로 요구하는 값이다.'),
+    ('Adventure is worthwhile in itself.', 'ko',
+     '모험은 그 자체로 가치가 있다.');
