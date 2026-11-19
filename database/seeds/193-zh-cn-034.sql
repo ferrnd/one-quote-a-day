@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never doubt that a small group of thoughtful, committed citizens can change the world.', 'zh-CN',
      '永远不要怀疑，一小群有思想、有担当的公民能够改变世界。'),
     ('Keep your face to the sunshine and you cannot see a shadow.', 'zh-CN',
-     '让你的脸一直朝向阳光，你就看不到阴影。');
+     '让你的脸一直朝向阳光，你就看不到阴影。'),
+    ('One day, in retrospect, the years of struggle will strike you as the most beautiful.', 'zh-CN',
+     '有一天回首往事，你会觉得那些奋斗的岁月是最美好的。');
