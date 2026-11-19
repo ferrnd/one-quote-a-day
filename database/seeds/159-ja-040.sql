@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No act of kindness, no matter how small, is ever wasted.', 'ja',
      'どんなに小さくても、親切な行いが無駄になることは決してない。'),
     ('The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.', 'ja',
-     '世界で最も美しく、すばらしいものは、目で見ることも手で触れることもできない。心で感じなければならないのだ。');
+     '世界で最も美しく、すばらしいものは、目で見ることも手で触れることもできない。心で感じなければならないのだ。'),
+    ('What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.', 'ja',
+     '一度味わった喜びを、失うことは決してない。深く愛したものはすべて、私たちの一部になる。');
