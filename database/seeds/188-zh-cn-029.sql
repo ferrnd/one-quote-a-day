@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.', 'zh-CN',
      '也许我们生命中所有的恶龙，都是公主，她们只是在等待看到我们哪怕一次，美丽而勇敢地行动。'),
     ('What would you attempt to do if you knew you would not fail?', 'zh-CN',
-     '如果你知道自己不会失败，你会尝试做什么？');
+     '如果你知道自己不会失败，你会尝试做什么？'),
+    ('I saw the angel in the marble and carved until I set him free.', 'zh-CN',
+     '我在大理石中看到了天使，于是不停地雕刻，直到让他获得自由。');
