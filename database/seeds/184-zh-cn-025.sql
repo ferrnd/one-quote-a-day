@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let everything happen to you: beauty and terror. Just keep going. No feeling is final.', 'zh-CN',
      '让一切都发生在你身上吧：美丽和恐惧。只管继续前行，没有一种感受是最终的。'),
     ('No snowflake ever falls in the wrong place.', 'zh-CN',
-     '没有一片雪花会落错地方。');
+     '没有一片雪花会落错地方。'),
+    ('Let go or be dragged.', 'zh-CN',
+     '放手，否则就会被拖着走。');
