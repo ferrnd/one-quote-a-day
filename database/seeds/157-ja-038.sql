@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Impossible is just a big word thrown around by small men.', 'ja',
      '「不可能」とは、小さな人間たちが振りかざす大げさな言葉にすぎない。'),
     ('It''s the repetition of affirmations that leads to belief.', 'ja',
-     '信念を生むのは、自分への言葉の繰り返しだ。');
+     '信念を生むのは、自分への言葉の繰り返しだ。'),
+    ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'ja',
+     '頭で思い描くことができ、心で信じることができるなら、俺はそれを成し遂げられる。');
