@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dreams don''t work unless you do.', 'zh-CN',
      '你不努力，梦想就不会实现。'),
     ('Keep your dreams alive. Understand to achieve anything requires faith and belief in yourself, vision, hard work, determination, and dedication.', 'zh-CN',
-     '让你的梦想保持鲜活。要明白，实现任何事都需要对自己的信念、愿景、努力、决心和奉献。');
+     '让你的梦想保持鲜活。要明白，实现任何事都需要对自己的信念、愿景、努力、决心和奉献。'),
+    ('If you can imagine it, you can achieve it.', 'zh-CN',
+     '如果你能想象它，你就能实现它。');
