@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you''re not prepared to be wrong, you''ll never come up with anything original.', 'zh-CN',
      '如果你不准备犯错，你就永远无法创造出原创的东西。'),
     ('Experience is simply the name we give our mistakes.', 'zh-CN',
-     '经验不过是我们给自己的错误起的名字。');
+     '经验不过是我们给自己的错误起的名字。'),
+    ('When we give ourselves permission to fail, we, at the same time, give ourselves permission to excel.', 'zh-CN',
+     '当我们允许自己失败时，也同时允许了自己出类拔萃。');
