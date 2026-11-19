@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What I am looking for is not out there, it is in me.', 'ja',
      '私が探しているものは外にあるのではない。私の中にあるのだ。'),
     ('Efforts and courage are not enough without purpose and direction.', 'ja',
-     '努力と勇気だけでは不十分だ。目的と方向がなければならない。');
+     '努力と勇気だけでは不十分だ。目的と方向がなければならない。'),
+    ('The world is changed by your example, not by your opinion.', 'ja',
+     '世界を変えるのは、あなたの意見ではなく、あなたの手本だ。');
