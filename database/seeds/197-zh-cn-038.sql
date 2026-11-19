@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Impossible is just a big word thrown around by small men.', 'zh-CN',
      '“不可能”只是渺小的人随口说出的一个大词。'),
     ('It''s the repetition of affirmations that leads to belief.', 'zh-CN',
-     '正是不断重复的自我肯定，带来了信念。');
+     '正是不断重复的自我肯定，带来了信念。'),
+    ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'zh-CN',
+     '如果我的头脑能构想它，我的心能相信它，那么我就能实现它。');
