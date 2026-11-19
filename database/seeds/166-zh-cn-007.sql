@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is the key to success; each mistake teaches us something.', 'zh-CN',
-     '失败是成功的关键，每一个错误都教会我们一些东西。');
+     '失败是成功的关键，每一个错误都教会我们一些东西。'),
+    ('You always pass failure on your way to success.', 'zh-CN',
+     '在通往成功的路上，你总会经过失败。');
