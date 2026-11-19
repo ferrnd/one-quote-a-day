@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Things do not happen. Things are made to happen.', 'ja',
      '物事は起こるのではない。起こさせるのだ。'),
     ('Eighty percent of success is showing up.', 'ja',
-     '成功の八割は、その場に顔を出すことだ。');
+     '成功の八割は、その場に顔を出すことだ。'),
+    ('You can''t build a reputation on what you are going to do.', 'ja',
+     'これからやるつもりのことで、評判を築くことはできない。');
