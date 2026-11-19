@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Follow your bliss and the universe will open doors where there were only walls.', 'ja',
      '至福に従え。そうすれば宇宙は、壁しかなかった場所に扉を開いてくれる。'),
     ('Without leaps of imagination or dreaming, we lose the excitement of possibilities.', 'ja',
-     '想像の飛躍や夢がなければ、可能性へのときめきを失ってしまう。');
+     '想像の飛躍や夢がなければ、可能性へのときめきを失ってしまう。'),
+    ('Dreaming, after all, is a form of planning.', 'ja',
+     '夢を見ることは、結局のところ、計画の一つの形なのだ。');
