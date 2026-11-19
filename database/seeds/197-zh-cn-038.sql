@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and fortitude conquer all things.', 'zh-CN',
      '耐心和坚毅能征服一切。'),
     ('Have patience. All things are difficult before they become easy.', 'zh-CN',
-     '要有耐心。一切事情在变得容易之前，都是困难的。');
+     '要有耐心。一切事情在变得容易之前，都是困难的。'),
+    ('Patience is a conquering virtue.', 'zh-CN',
+     '耐心是一种能够征服一切的美德。');
