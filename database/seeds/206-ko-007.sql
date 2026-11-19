@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can be changed by what happens to me. But I refuse to be reduced by it.', 'ko',
      '나는 나에게 일어난 일로 변할 수는 있다. 하지만 그것 때문에 작아지기는 거부한다.'),
     ('You may encounter many defeats, but you must not be defeated.', 'ko',
-     '많은 패배를 만날 수는 있지만, 결코 패배당해서는 안 된다.');
+     '많은 패배를 만날 수는 있지만, 결코 패배당해서는 안 된다.'),
+    ('Still, like air, I''ll rise.', 'ko',
+     '그래도, 공기처럼, 나는 일어서리라.');
