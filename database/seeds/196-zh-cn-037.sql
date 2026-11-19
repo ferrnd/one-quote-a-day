@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Action is eloquence.', 'zh-CN',
      '行动就是雄辩。'),
     ('Do not wait for leaders; do it alone, person to person.', 'zh-CN',
-     '不要等待领袖，自己去做，一个人对一个人地去做。');
+     '不要等待领袖，自己去做，一个人对一个人地去做。'),
+    ('Don''t judge each day by the harvest you reap but by the seeds that you plant.', 'zh-CN',
+     '不要用你收获的果实来评判每一天，而要用你播下的种子来评判。');
