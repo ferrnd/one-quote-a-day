@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you can imagine it, you can achieve it.', 'ko',
      '상상할 수 있다면 이룰 수 있다.'),
     ('The dreamers are the saviors of the world.', 'ko',
-     '꿈꾸는 사람들이 세상의 구원자다.');
+     '꿈꾸는 사람들이 세상의 구원자다.'),
+    ('Dream lofty dreams, and as you dream, so shall you become.', 'ko',
+     '높은 꿈을 꾸어라. 꿈꾸는 대로 당신은 그렇게 될 것이다.');
