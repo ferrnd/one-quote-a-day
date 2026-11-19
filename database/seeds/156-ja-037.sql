@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When it is obvious that the goals cannot be reached, don''t adjust the goals, adjust the action steps.', 'ja',
      '目標に届かないことが明らかなときは、目標を変えるのではなく、行動の手順を変えよ。'),
     ('Victory is sweetest when you''ve known defeat.', 'ja',
-     '敗北を知っている者にとって、勝利は最も甘い。');
+     '敗北を知っている者にとって、勝利は最も甘い。'),
+    ('It is a mistake to look too far ahead. Only one link of the chain of destiny can be handled at a time.', 'ja',
+     'あまりに先を見すぎるのは間違いだ。運命の鎖は、一度に一つの輪しか扱えないのだから。');
