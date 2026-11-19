@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Man is not worried by real problems so much as by his imagined anxieties about real problems.', 'ja',
      '人を悩ませるのは現実の問題そのものよりも、現実の問題について想像した不安である。'),
     ('If you think you are beaten, you are.', 'ja',
-     '負けたと思えば、あなたは負けている。');
+     '負けたと思えば、あなたは負けている。'),
+    ('Sooner or later the man who wins is the man who thinks he can.', 'ja',
+     '遅かれ早かれ、勝つのはできると思っている人間だ。');
