@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The time is always right to do what is right.', 'ja',
      '正しいことをするのに、ふさわしくない時などない。'),
     ('A goal properly set is halfway reached.', 'ja',
-     'きちんと立てられた目標は、半ば達成されたも同然だ。');
+     'きちんと立てられた目標は、半ば達成されたも同然だ。'),
+    ('Things do not happen. Things are made to happen.', 'ja',
+     '物事は起こるのではない。起こさせるのだ。');
