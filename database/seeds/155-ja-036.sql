@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In a gentle way, you can shake the world.', 'ja',
      '穏やかなやり方で、世界を揺るがすことができる。'),
     ('Re-examine all you have been told; dismiss what insults your soul.', 'ja',
-     'これまで聞かされてきたことをすべて見直し、自分の魂を侮辱するものは捨て去れ。');
+     'これまで聞かされてきたことをすべて見直し、自分の魂を侮辱するものは捨て去れ。'),
+    ('Change is the end result of all true learning.', 'ja',
+     '変化とは、あらゆる真の学びがもたらす最終的な結果である。');
