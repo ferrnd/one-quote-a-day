@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.', 'ja',
      '失敗から成功を育てよ。落胆と失敗は、成功への最も確かな踏み石である。'),
     ('Mistakes are always forgivable, if one has the courage to admit them.', 'ja',
-     '過ちは、それを認める勇気があれば、いつでも許される。');
+     '過ちは、それを認める勇気があれば、いつでも許される。'),
+    ('Do not fear mistakes. There are none.', 'ja',
+     '間違いを恐れるな。間違いなど存在しない。');
