@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.', 'ja',
      '雲は私の人生にふわりと漂ってくる。もはや雨を運ぶためでも嵐を告げるためでもなく、夕焼けの空に彩りを添えるために。'),
     ('Character is power.', 'ja',
-     '人格こそ力である。');
+     '人格こそ力である。'),
+    ('I am not afraid; I was born to do this.', 'ja',
+     '私は恐れない。私はこれをするために生まれてきたのだから。');
