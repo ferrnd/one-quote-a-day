@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Problems are not stop signs, they are guidelines.', 'ko',
      '문제는 정지 신호가 아니라 길잡이다.'),
     ('Turn your face to the sun and the shadows fall behind you.', 'ko',
-     '얼굴을 해 쪽으로 돌려라. 그러면 그림자는 뒤로 진다.');
+     '얼굴을 해 쪽으로 돌려라. 그러면 그림자는 뒤로 진다.'),
+    ('A man of character finds a special attractiveness in difficulty.', 'ko',
+     '기개 있는 사람은 어려움 속에서 특별한 매력을 발견한다.');
