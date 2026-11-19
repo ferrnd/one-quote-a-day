@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If there is no struggle, there is no progress.', 'ko',
      '투쟁이 없으면 진보도 없다.'),
     ('Be the heroine of your life, not the victim.', 'ko',
-     '당신 인생의 희생자가 아니라 주인공이 되어라.');
+     '당신 인생의 희생자가 아니라 주인공이 되어라.'),
+    ('Stand up straight and realize who you are, that you tower over your circumstances.', 'ko',
+     '똑바로 서서 당신이 누구인지 깨달아라. 당신은 당신의 처지보다 훨씬 높이 서 있다는 것을.');
