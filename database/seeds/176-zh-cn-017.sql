@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Kites rise highest against the wind, not with it.', 'zh-CN',
      '风筝逆风时飞得最高，而不是顺风时。'),
     ('Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant.', 'zh-CN',
-     '逆境能激发出那些在顺境中会一直沉睡的才能。');
+     '逆境能激发出那些在顺境中会一直沉睡的才能。'),
+    ('The block of granite which was an obstacle in the path of the weak becomes a stepping stone in the path of the strong.', 'zh-CN',
+     '在弱者的路上是绊脚石的花岗岩，在强者的路上会变成垫脚石。');
