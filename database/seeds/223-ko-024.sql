@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The key to everything is patience. You get the chicken by hatching the egg, not by smashing it.', 'ko',
      '모든 것의 열쇠는 인내다. 병아리는 달걀을 깨뜨려서가 아니라 품어서 얻는 것이다.'),
     ('Patience and time do more than strength or passion.', 'ko',
-     '인내와 시간은 힘이나 열정보다 더 많은 일을 해낸다.');
+     '인내와 시간은 힘이나 열정보다 더 많은 일을 해낸다.'),
+    ('Our patience will achieve more than our force.', 'ko',
+     '우리의 인내가 우리의 힘보다 더 많은 것을 이룰 것이다.');
