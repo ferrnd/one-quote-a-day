@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The most effective way to do it, is to do it.', 'zh-CN',
      '做一件事最有效的方法，就是去做。'),
     ('Don''t sit down and wait for the opportunities to come. Get up and make them.', 'zh-CN',
-     '不要坐着等机会到来，站起来去创造机会。');
+     '不要坐着等机会到来，站起来去创造机会。'),
+    ('How wonderful it is that nobody need wait a single moment before starting to improve the world.', 'zh-CN',
+     '没有人需要等待片刻就能开始改善这个世界，这是多么美好啊。');
