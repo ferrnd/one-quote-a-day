@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To be great is to be misunderstood.', 'zh-CN',
      '伟大就意味着被误解。'),
     ('Finish each day and be done with it. You have done what you could.', 'zh-CN',
-     '把每一天过完，然后就把它放下。你已经尽力了。');
+     '把每一天过完，然后就把它放下。你已经尽力了。'),
+    ('The years teach much which the days never know.', 'zh-CN',
+     '岁月教给我们的许多东西，是日子永远不知道的。');
