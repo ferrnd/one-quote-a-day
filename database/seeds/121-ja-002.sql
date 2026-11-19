@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Diamonds are nothing more than chunks of coal that stuck to their jobs.', 'ja',
      'ダイヤモンドとは、自分の仕事をやり通した石炭のかたまりにすぎない。'),
     ('Great things are not done by impulse, but by a series of small things brought together.', 'ja',
-     '偉大なことは衝動によってではなく、小さなことの積み重ねによって成し遂げられる。');
+     '偉大なことは衝動によってではなく、小さなことの積み重ねによって成し遂げられる。'),
+    ('Genius is one percent inspiration and ninety-nine percent perspiration.', 'ja',
+     '天才とは、1パーセントのひらめきと99パーセントの努力である。');
