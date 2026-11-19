@@ -13,6 +13,7 @@ const PRECACHE = [
   "./app.js?v=%%BUILD%%",
   "./clock.js?v=%%BUILD%%",
   "./i18n.js?v=%%BUILD%%",
+  "./blobs.js?v=%%BUILD%%",
   "./quotes.wasm?v=%%WASM_HASH%%",
   "./favicon.svg",
   "./manifest.webmanifest",

@@ -29,6 +29,10 @@
   <link rel="manifest" href="manifest.webmanifest">
 </head>
 <body>
+  <div class="blobs" aria-hidden="true">
+    <div class="blobs-items"><span class="blob"></span><span class="blob"></span><span class="blob"></span><span class="blob"></span><span class="blob blob--small"></span></div>
+    <div class="blobs-glass"></div>
+  </div>
   <main>
     <figure class="quote" id="quote" data-state="loading" aria-live="polite" aria-busy="true">
       <blockquote><p id="quote-text"></p></blockquote>
@@ -78,6 +82,11 @@
           <p class="archive-meta" id="pref-motion">Animations</p>
           <div class="choices" role="group" aria-labelledby="pref-motion" data-pref="motion"><button type="button" data-value="on" aria-pressed="false">On</button><button type="button" data-value="off" aria-pressed="false">Off</button></div>
           <p class="setting-note">Off swaps quotes instantly, without sliding.</p>
+        </li>
+        <li>
+          <p class="archive-meta" id="pref-blobs">Background lights</p>
+          <div class="choices" role="group" aria-labelledby="pref-blobs" data-pref="blobs"><button type="button" data-value="on" aria-pressed="false">On</button><button type="button" data-value="off" aria-pressed="false">Off</button></div>
+          <p class="setting-note">Soft lights that drift behind the quote at night.</p>
         </li>
         <li>
           <p class="archive-meta" id="pref-counter">Day counter</p>

@@ -18,6 +18,7 @@ import {
   msUntilNextThemeChange, parseDateKey,
 } from "./clock.js?v=%%BUILD%%";
 import { formatDate, translateDocument, tr } from "./i18n.js?v=%%BUILD%%";
+import "./blobs.js?v=%%BUILD%%";
 
 const WASM_URL = new URL("quotes.wasm?v=%%WASM_HASH%%", import.meta.url);
 const WATCHDOG_MS = 60_000;
@@ -45,7 +46,7 @@ const siteUrl = () => (location.protocol.startsWith("http") ? location.origin + 
 
 const PREFS_KEY = "quotes:prefs";
 const DEFAULT_PREFS = {
-  theme: "auto", size: "m", motion: "on", counter: "show", copy: "author", search: "google", lang: "auto",
+  theme: "auto", size: "m", motion: "on", counter: "show", copy: "author", search: "google", lang: "auto", blobs: "off",
 };
 /** @type {typeof DEFAULT_PREFS} */
 let prefs = loadPrefs();
@@ -68,6 +69,7 @@ function applyPrefs() {
   root.dataset.size = prefs.size;
   root.dataset.motion = prefs.motion;
   root.dataset.counter = prefs.counter;
+  root.dataset.blobs = prefs.blobs;
   applyLanguage();
   layoutCorner();
   for (const group of document.querySelectorAll(".choices[data-pref]")) {
@@ -224,7 +226,8 @@ function entryFor(z) {
 function layoutCorner() {
   const root = document.documentElement;
   const shown = !counterEl.hidden && prefs.counter !== "hide";
-  const hovering = counterEl.matches(":hover, :focus-visible");
+  // the gear never runs from the pointer: while it is hovered, the counter stays short
+  const hovering = counterEl.matches(":hover, :focus-visible") && !settingsButton.matches(":hover");
   const target = hovering ? counterNext : counterLabel;
   const width = shown ? target.getBoundingClientRect().width : 0;
   root.style.setProperty("--counter-w", `${width}px`);
@@ -832,6 +835,7 @@ function wireCountdown() {
   counterEl.addEventListener("focus", start);
   counterEl.addEventListener("mouseleave", stop);
   counterEl.addEventListener("blur", stop);
+  settingsButton.addEventListener("mouseenter", stop);
 }
 
 /* -------------------------------------------------------------- panel -- */
