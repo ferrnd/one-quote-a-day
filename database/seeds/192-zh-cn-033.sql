@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'zh-CN',
      '失败并不总是错误，它可能只是在当时的情况下所能做到的最好。真正的错误是停止尝试。'),
     ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'zh-CN',
-     '如果你不是时不时地失败一下，那就说明你没有做什么很有创新性的事。');
+     '如果你不是时不时地失败一下，那就说明你没有做什么很有创新性的事。'),
+    ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'zh-CN',
+     '失败时时刻刻都在发生，每天训练中都在发生。让你变得更好的，是你如何应对它。');
