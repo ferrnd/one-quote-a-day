@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Opportunities multiply as they are seized.', 'zh-CN',
      '机会越抓越多。'),
     ('You can''t wait for inspiration. You have to go after it with a club.', 'zh-CN',
-     '你不能坐等灵感，你得拿着棍子去追它。');
+     '你不能坐等灵感，你得拿着棍子去追它。'),
+    ('Go for it now. The future is promised to no one.', 'zh-CN',
+     '现在就去做吧，未来不向任何人许诺。');
