@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.', 'ja',
      '何かに失敗せずに生きることは不可能だ。生きなかったのと同じくらい慎重に生きるのでもない限りは。'),
     ('Rock bottom became the solid foundation on which I rebuilt my life.', 'ja',
-     'どん底は、私が人生を建て直すための堅固な土台になった。');
+     'どん底は、私が人生を建て直すための堅固な土台になった。'),
+    ('Do not judge me by my success, judge me by how many times I fell down and got back up again.', 'ja',
+     '私を成功で判断しないでほしい。何度倒れ、何度立ち上がったかで判断してほしい。');
