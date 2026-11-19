@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves.', 'zh-CN',
      '生活对我们任何人都不容易。但那又怎样？我们必须有毅力，最重要的是对自己有信心。'),
     ('We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.', 'zh-CN',
-     '我们必须相信，我们对某件事是有天赋的，而且无论付出什么代价，都必须做成这件事。');
+     '我们必须相信，我们对某件事是有天赋的，而且无论付出什么代价，都必须做成这件事。'),
+    ('One never notices what has been done; one can only see what remains to be done.', 'zh-CN',
+     '人们从不留意已经完成的事情，只能看到还剩下什么要做。');
