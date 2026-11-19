@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Champions aren''t made in the gyms. Champions are made from something they have deep inside them: a desire, a dream, a vision.', 'ja',
      'チャンピオンはジムでつくられるのではない。チャンピオンは、心の奥深くにあるものからつくられる。それは願望であり、夢であり、ビジョンだ。'),
     ('The road to success is always under construction.', 'ja',
-     '成功への道は、いつも工事中だ。');
+     '成功への道は、いつも工事中だ。'),
+    ('Ambition is enthusiasm with a purpose.', 'ja',
+     '大志とは、目的を持った情熱である。');
