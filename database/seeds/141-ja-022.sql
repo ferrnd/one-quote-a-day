@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.', 'ja',
      '成功は、人生で到達した地位よりも、乗り越えてきた障害によって測られるべきだ。'),
     ('Excellence is to do a common thing in an uncommon way.', 'ja',
-     '卓越とは、ありふれたことを、ありふれない方法で行うことだ。');
+     '卓越とは、ありふれたことを、ありふれない方法で行うことだ。'),
+    ('What you think of yourself is much more important than what others think of you.', 'ja',
+     '他人があなたをどう思うかよりも、あなたが自分をどう思うかのほうがはるかに大切だ。');
