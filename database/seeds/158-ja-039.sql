@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only time can heal what reason cannot.', 'ja',
      '理性で癒せないものも、時間なら癒せる。'),
     ('Determination gives you the resolve to keep going in spite of the roadblocks that lay before you.', 'ja',
-     '決意は、目の前に立ちはだかる障害にもかかわらず、進み続ける覚悟を与えてくれる。');
+     '決意は、目の前に立ちはだかる障害にもかかわらず、進み続ける覚悟を与えてくれる。'),
+    ('They can conquer who believe they can.', 'ja',
+     'できると信じる者は、勝つことができる。');
