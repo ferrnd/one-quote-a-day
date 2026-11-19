@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Feel the fear and do it anyway.', 'ko',
      '두려움을 느껴라. 그리고 어쨌든 해라.'),
     ('Be bold, and mighty forces will come to your aid.', 'ko',
-     '대담하라. 그러면 강한 힘이 너를 도우러 올 것이다.');
+     '대담하라. 그러면 강한 힘이 너를 도우러 올 것이다.'),
+    ('There is no passion to be found playing small.', 'ko',
+     '작게 사는 데서는 열정을 찾을 수 없다.');
