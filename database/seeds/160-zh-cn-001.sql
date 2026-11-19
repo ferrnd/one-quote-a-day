@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rivers know this: there is no hurry. We shall get there some day.', 'zh-CN',
      '河流懂得这个道理：不必着急，总有一天我们会到达。'),
     ('Perseverance is not a long race; it is many short races one after the other.', 'zh-CN',
-     '坚持不是一场长跑，而是一场接一场的短跑。');
+     '坚持不是一场长跑，而是一场接一场的短跑。'),
+    ('A river cuts through rock not because of its power, but because of its persistence.', 'zh-CN',
+     '河水能穿透岩石，不是因为它的力量，而是因为它的坚持。');
