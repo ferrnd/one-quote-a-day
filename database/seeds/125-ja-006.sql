@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Experience is simply the name we give our mistakes.', 'ja',
      '経験とは、私たちが自分の過ちにつける名前にすぎない。'),
     ('When we give ourselves permission to fail, we, at the same time, give ourselves permission to excel.', 'ja',
-     '失敗することを自分に許したとき、同時に、秀でることも自分に許しているのだ。');
+     '失敗することを自分に許したとき、同時に、秀でることも自分に許しているのだ。'),
+    ('The only real mistake is the one from which we learn nothing.', 'ja',
+     '本当の間違いとは、そこから何も学ばなかった間違いだけだ。');
