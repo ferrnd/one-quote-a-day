@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.', 'ja',
      '昨日の私は賢かったので、世界を変えようとした。今日の私は賢明なので、自分自身を変えている。'),
     ('You were born with wings, why prefer to crawl through life?', 'ja',
-     'あなたは翼を持って生まれてきた。なぜ這って生きることを選ぶのか。');
+     'あなたは翼を持って生まれてきた。なぜ這って生きることを選ぶのか。'),
+    ('Respond to every call that excites your spirit.', 'ja',
+     'あなたの魂を躍らせる呼び声には、すべて応えなさい。');
