@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We can''t help everyone, but everyone can help someone.', 'ja',
      'すべての人を助けることはできない。だが、誰もが誰かを助けることはできる。'),
     ('Each person must live their life as a model for others.', 'ja',
-     '人は皆、他人の手本となるような人生を生きなければならない。');
+     '人は皆、他人の手本となるような人生を生きなければならない。'),
+    ('If you don''t like the road you''re walking, start paving another one.', 'ja',
+     '今歩いている道が気に入らないなら、別の道を敷き始めなさい。');
