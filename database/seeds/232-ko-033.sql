@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Mistakes are always forgivable, if one has the courage to admit them.', 'ko',
      '실수를 인정할 용기만 있다면 실수는 언제나 용서받을 수 있다.'),
     ('Do not fear mistakes. There are none.', 'ko',
-     '실수를 두려워하지 마라. 실수란 없다.');
+     '실수를 두려워하지 마라. 실수란 없다.'),
+    ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'ko',
+     '실수를 했을 때 해야 할 일은 딱 세 가지다. 인정하고, 배우고, 반복하지 않는 것.');
