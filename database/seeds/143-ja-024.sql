@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the companion of wisdom.', 'ja',
      '忍耐は知恵の伴侶である。'),
     ('He that can have patience can have what he will.', 'ja',
-     '忍耐できる者は、望むものを手にできる。');
+     '忍耐できる者は、望むものを手にできる。'),
+    ('Have patience with all things, but first of all with yourself.', 'ja',
+     'あらゆることに忍耐強くありなさい。だが何よりもまず、自分自身に対して。');
