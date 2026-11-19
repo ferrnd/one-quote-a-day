@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Discipline equals freedom.', 'ko',
      '규율은 곧 자유다.'),
     ('Concentrate all your thoughts upon the work at hand. The sun''s rays do not burn until brought to a focus.', 'ko',
-     '모든 생각을 지금 하는 일에 집중하라. 햇빛도 한곳에 모이기 전까지는 불을 일으키지 못한다.');
+     '모든 생각을 지금 하는 일에 집중하라. 햇빛도 한곳에 모이기 전까지는 불을 일으키지 못한다.'),
+    ('Well done is better than well said.', 'ko',
+     '잘 말하는 것보다 잘 행하는 것이 낫다.');
