@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength does not come from winning. Your struggles develop your strengths.', 'ja',
      '強さは勝つことから生まれるのではない。苦闘があなたの強さを育てるのだ。'),
     ('Strength is a matter of the made-up mind.', 'ja',
-     '強さとは、心を決めることである。');
+     '強さとは、心を決めることである。'),
+    ('I am the master of my fate, I am the captain of my soul.', 'ja',
+     '私は我が運命の主であり、我が魂の指揮官である。');
