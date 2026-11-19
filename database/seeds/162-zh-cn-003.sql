@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is grace under pressure.', 'zh-CN',
      '勇气就是压力之下的优雅。'),
     ('He who is not courageous enough to take risks will accomplish nothing in life.', 'zh-CN',
-     '没有勇气冒险的人，一生将一事无成。');
+     '没有勇气冒险的人，一生将一事无成。'),
+    ('Only those who will risk going too far can possibly find out how far one can go.', 'zh-CN',
+     '只有敢于冒险走得太远的人，才可能知道一个人能走多远。');
