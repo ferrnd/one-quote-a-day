@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the support of weakness; impatience the ruin of strength.', 'zh-CN',
      '耐心是弱者的支撑，急躁是强者的毁灭。'),
     ('Endurance is patience concentrated.', 'zh-CN',
-     '坚忍是凝聚起来的耐心。');
+     '坚忍是凝聚起来的耐心。'),
+    ('Patience and diligence, like faith, remove mountains.', 'zh-CN',
+     '耐心和勤奋，就像信念一样，能够移山。');
