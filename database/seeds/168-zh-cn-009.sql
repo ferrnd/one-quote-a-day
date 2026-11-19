@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never lose hope. Storms make people stronger and never last forever.', 'zh-CN',
      '永远不要失去希望。风暴让人更坚强，而且永远不会持续到永远。'),
     ('Hope smiles from the threshold of the year to come, whispering ''it will be happier''.', 'zh-CN',
-     '希望在新一年的门槛上微笑，轻声说：“会更幸福的。”');
+     '希望在新一年的门槛上微笑，轻声说：“会更幸福的。”'),
+    ('To live without hope is to cease to live.', 'zh-CN',
+     '没有希望地活着，就等于停止了生活。');
