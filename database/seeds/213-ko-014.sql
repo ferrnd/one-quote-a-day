@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The will to win is important, but the will to prepare is vital.', 'ko',
      '이기려는 의지는 중요하지만, 준비하려는 의지는 필수적이다.'),
     ('I never dreamed about success. I worked for it.', 'ko',
-     '나는 성공을 꿈꾼 적이 없다. 그것을 위해 일했을 뿐이다.');
+     '나는 성공을 꿈꾼 적이 없다. 그것을 위해 일했을 뿐이다.'),
+    ('Nothing will work unless you do.', 'ko',
+     '당신이 움직이지 않으면 아무것도 되지 않는다.');
