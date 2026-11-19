@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Where there is no struggle, there is no strength.', 'ko',
      '투쟁이 없는 곳에는 힘도 없다.'),
     ('Turn your wounds into wisdom.', 'ko',
-     '당신의 상처를 지혜로 바꾸어라.');
+     '당신의 상처를 지혜로 바꾸어라.'),
+    ('When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.', 'ko',
+     '모든 것이 당신에게 불리하게 돌아가는 것 같을 때, 비행기는 바람을 등지고가 아니라 바람을 안고 이륙한다는 것을 기억하라.');
