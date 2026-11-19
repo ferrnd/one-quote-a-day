@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Stars can''t shine without darkness.', 'zh-CN',
      '没有黑暗，星星就无法闪耀。'),
     ('The wound is the place where the Light enters you.', 'zh-CN',
-     '伤口是光进入你内心的地方。');
+     '伤口是光进入你内心的地方。'),
+    ('When it is dark enough, you can see the stars.', 'zh-CN',
+     '天足够黑的时候，你就能看见星星。');
