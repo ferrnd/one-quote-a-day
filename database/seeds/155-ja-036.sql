@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not until we are lost do we begin to understand ourselves.', 'ja',
      '道に迷って初めて、私たちは自分自身を理解し始める。'),
     ('Things do not change; we change.', 'ja',
-     '物事は変わらない。私たちが変わるのだ。');
+     '物事は変わらない。私たちが変わるのだ。'),
+    ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'ja',
+     '進歩には常に危険が伴う。一塁に足を置いたまま、二塁を盗むことはできない。');
