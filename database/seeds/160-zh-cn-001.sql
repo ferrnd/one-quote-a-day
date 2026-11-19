@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Energy and persistence conquer all things.', 'zh-CN',
      '精力与坚持，能征服一切。'),
     ('Rivers know this: there is no hurry. We shall get there some day.', 'zh-CN',
-     '河流懂得这个道理：不必着急，总有一天我们会到达。');
+     '河流懂得这个道理：不必着急，总有一天我们会到达。'),
+    ('Perseverance is not a long race; it is many short races one after the other.', 'zh-CN',
+     '坚持不是一场长跑，而是一场接一场的短跑。');
