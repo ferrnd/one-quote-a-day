@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Discipline is the bridge between goals and accomplishment.', 'ko',
      '자기 훈련은 목표와 성취를 잇는 다리다.'),
     ('We must all suffer one of two things: the pain of discipline or the pain of regret.', 'ko',
-     '우리는 모두 두 가지 고통 중 하나를 겪어야 한다. 훈련의 고통 아니면 후회의 고통.');
+     '우리는 모두 두 가지 고통 중 하나를 겪어야 한다. 훈련의 고통 아니면 후회의 고통.'),
+    ('Motivation is what gets you started. Habit is what keeps you going.', 'ko',
+     '동기는 시작하게 만들고, 습관은 계속하게 만든다.');
