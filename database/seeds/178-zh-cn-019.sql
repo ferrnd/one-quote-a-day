@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What seems to us as bitter trials are often blessings in disguise.', 'zh-CN',
      '那些在我们看来是苦涩的考验，往往是伪装起来的祝福。'),
     ('Great spirits have always encountered violent opposition from mediocre minds.', 'zh-CN',
-     '伟大的心灵总是遭到平庸之辈的激烈反对。');
+     '伟大的心灵总是遭到平庸之辈的激烈反对。'),
+    ('The pain passes, but the beauty remains.', 'zh-CN',
+     '痛苦会过去，美会留下。');
