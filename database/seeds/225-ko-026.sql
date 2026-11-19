@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our greatest fear should not be of failure but of succeeding at things in life that don''t really matter.', 'ko',
      '우리가 가장 두려워해야 할 것은 실패가 아니라, 인생에서 정말로 중요하지 않은 일에 성공하는 것이다.'),
     ('Stay hungry, stay foolish.', 'ko',
-     '계속 갈망하라, 계속 우직하라.');
+     '계속 갈망하라, 계속 우직하라.'),
+    ('Your time is limited, so don''t waste it living someone else''s life.', 'ko',
+     '당신의 시간은 한정되어 있다. 그러니 다른 사람의 삶을 사느라 낭비하지 마라.');
