@@ -3,22 +3,26 @@
  *
  * Network first, cache as a fallback, so the quote of the day still appears
  * offline but a fresh deploy is never hidden behind a stale cache.
+ *
+ * Only this site's own files go through here. Google Fonts are left to the
+ * browser: the Content-Security-Policy (connect-src 'self') forbids the worker
+ * from fetching them, and its offline fallback would answer a stylesheet
+ * request with index.html, which broke the fonts.
  */
 
-const CACHE = "quotes-6bc88365cc4a";
+const CACHE = "quotes-321dd97b72d8";
 const PRECACHE = [
   "./",
   "./index.html",
-  "./styles.css?v=6bc88365cc4a",
-  "./app.js?v=6bc88365cc4a",
-  "./clock.js?v=6bc88365cc4a",
-  "./i18n.js?v=6bc88365cc4a",
-  "./blobs.js?v=6bc88365cc4a",
+  "./styles.css?v=321dd97b72d8",
+  "./app.js?v=321dd97b72d8",
+  "./clock.js?v=321dd97b72d8",
+  "./i18n.js?v=321dd97b72d8",
+  "./blobs.js?v=321dd97b72d8",
   "./quotes.wasm?v=cad39908b738",
   "./favicon.svg",
   "./manifest.webmanifest",
 ];
-const FONT_HOSTS = new Set(["fonts.googleapis.com", "fonts.gstatic.com"]);
 
 self.addEventListener("install", (event) => {
   event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(PRECACHE)).then(() => self.skipWaiting()));
@@ -36,17 +40,18 @@ self.addEventListener("fetch", (event) => {
   const { request } = event;
   if (request.method !== "GET") return;
   const url = new URL(request.url);
-  if (url.origin !== self.location.origin && !FONT_HOSTS.has(url.hostname)) return;
+  if (url.origin !== self.location.origin) return;
 
   event.respondWith(
     fetch(request)
       .then((response) => {
-        if (response.ok || response.type === "opaque") {
+        if (response.ok) {
           const copy = response.clone();
           caches.open(CACHE).then((cache) => cache.put(request, copy));
         }
         return response;
       })
-      .catch(() => caches.match(request).then((hit) => hit ?? caches.match("./index.html"))),
+      // offline: the cached copy, and the page itself only for page loads, never for a script or stylesheet
+      .catch(() => caches.match(request).then((hit) => hit ?? (request.mode === "navigate" ? caches.match("./index.html") : Response.error()))),
   );
 });
