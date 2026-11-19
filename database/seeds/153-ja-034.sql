@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hardships make or break people.', 'ja',
      '苦難は人をつくりもすれば、壊しもする。'),
     ('Turn your scars into stars.', 'ja',
-     '傷を星に変えなさい。');
+     '傷を星に変えなさい。'),
+    ('Cancer can take away all of my physical abilities. It cannot touch my mind, it cannot touch my heart, and it cannot touch my soul.', 'ja',
+     'がんは私の身体の能力をすべて奪うかもしれない。だが、私の心にも、私の魂にも、指一本触れることはできない。');
