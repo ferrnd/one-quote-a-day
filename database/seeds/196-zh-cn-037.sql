@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of adversity comes opportunity.', 'zh-CN',
      '逆境中孕育着机遇。'),
     ('Adversity has ever been considered the state in which a man most easily becomes acquainted with himself.', 'zh-CN',
-     '逆境一向被认为是一个人最容易认识自己的境况。');
+     '逆境一向被认为是一个人最容易认识自己的境况。'),
+    ('Bad times have a scientific value. These are occasions a good learner would not miss.', 'zh-CN',
+     '艰难的时期有科学价值，这是一个善于学习的人不会错过的机会。');
