@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not afraid; I was born to do this.', 'ja',
      '私は恐れない。私はこれをするために生まれてきたのだから。'),
     ('Self-control is strength. Right thought is mastery. Calmness is power.', 'ja',
-     '自制は強さである。正しい思考は熟達である。落ち着きは力である。');
+     '自制は強さである。正しい思考は熟達である。落ち着きは力である。'),
+    ('The greatest weapon against stress is our ability to choose one thought over another.', 'ja',
+     'ストレスに対する最大の武器は、ある考えではなく別の考えを選ぶことのできる力だ。');
