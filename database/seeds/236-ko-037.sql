@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Begin anywhere.', 'ko',
      '어디서든 시작하라.'),
     ('Action is eloquence.', 'ko',
-     '행동이 곧 웅변이다.');
+     '행동이 곧 웅변이다.'),
+    ('Do not wait for leaders; do it alone, person to person.', 'ko',
+     '지도자를 기다리지 마십시오. 혼자서, 한 사람 한 사람에게 하십시오.');
