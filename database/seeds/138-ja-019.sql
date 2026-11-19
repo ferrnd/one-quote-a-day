@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The way to get started is to quit talking and begin doing.', 'ja',
      '始めるための方法は、話すのをやめて、やり始めることだ。'),
     ('Do not wait; the time will never be just right.', 'ja',
-     '待つな。ちょうどいい時など永遠に来ない。');
+     '待つな。ちょうどいい時など永遠に来ない。'),
+    ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'ja',
+     '知るだけでは不十分だ。応用しなければならない。意志だけでは不十分だ。実行しなければならない。');
