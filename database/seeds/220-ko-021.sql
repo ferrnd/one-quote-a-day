@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The most difficult thing is the decision to act, the rest is merely tenacity.', 'ko',
      '가장 어려운 것은 행동하겠다는 결심이다. 나머지는 끈기의 문제일 뿐이다.'),
     ('The most effective way to do it, is to do it.', 'ko',
-     '그것을 하는 가장 효과적인 방법은 그것을 하는 것이다.');
+     '그것을 하는 가장 효과적인 방법은 그것을 하는 것이다.'),
+    ('Don''t sit down and wait for the opportunities to come. Get up and make them.', 'ko',
+     '앉아서 기회가 오기를 기다리지 마라. 일어나서 기회를 만들어라.');
