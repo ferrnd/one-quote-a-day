@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Challenges are what make life interesting and overcoming them is what makes life meaningful.', 'zh-CN',
      '挑战让人生变得有趣，而战胜挑战让人生变得有意义。'),
     ('Adversity is the diamond dust Heaven polishes its jewels with.', 'zh-CN',
-     '逆境是上天用来打磨珠宝的钻石粉。');
+     '逆境是上天用来打磨珠宝的钻石粉。'),
+    ('Storms make trees take deeper roots.', 'zh-CN',
+     '风暴让树木扎下更深的根。');
