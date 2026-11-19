@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you spend too much time thinking about a thing, you''ll never get it done.', 'ko',
      '한 가지 일을 너무 오래 생각하면 결코 그것을 해내지 못한다.'),
     ('What you do speaks so loudly that I cannot hear what you say.', 'ko',
-     '당신의 행동이 너무 크게 말하고 있어서 당신이 하는 말이 들리지 않는다.');
+     '당신의 행동이 너무 크게 말하고 있어서 당신이 하는 말이 들리지 않는다.'),
+    ('Go confidently in the direction of your dreams. Live the life you have imagined.', 'ko',
+     '꿈을 향해 자신 있게 나아가라. 상상해 온 삶을 살아라.');
