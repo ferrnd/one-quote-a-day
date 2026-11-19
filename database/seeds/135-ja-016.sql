@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail.', 'ja',
      '私は道が導くところへは行かない。道のないところへ行き、そこに足跡を残すのだ。'),
     ('Becoming is better than being.', 'ja',
-     '完成していることより、成長していくことのほうがいい。');
+     '完成していることより、成長していくことのほうがいい。'),
+    ('Not everything that is faced can be changed, but nothing can be changed until it is faced.', 'ja',
+     '向き合ったものすべてが変えられるわけではない。だが、向き合わないかぎり何一つ変えられない。');
