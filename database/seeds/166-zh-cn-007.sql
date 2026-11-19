@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The human capacity for burden is like bamboo: far more flexible than you''d ever believe at first glance.', 'zh-CN',
      '人承受重担的能力就像竹子，远比你乍看之下以为的更有韧性。'),
     ('I can be changed by what happens to me. But I refuse to be reduced by it.', 'zh-CN',
-     '我可以被发生在我身上的事改变，但我拒绝被它贬低。');
+     '我可以被发生在我身上的事改变，但我拒绝被它贬低。'),
+    ('You may encounter many defeats, but you must not be defeated.', 'zh-CN',
+     '你可能会遭遇许多失败，但你绝不能被打败。');
