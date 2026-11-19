@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Difficulties are things that show a person what they are.', 'ja',
      '困難とは、人に自分が何者であるかを示すものだ。'),
     ('No tree becomes rooted and sturdy unless many a wind assails it.', 'ja',
-     '多くの風にさらされなければ、どんな木もしっかりと根を張り、たくましくはならない。');
+     '多くの風にさらされなければ、どんな木もしっかりと根を張り、たくましくはならない。'),
+    ('It is a rough road that leads to the heights of greatness.', 'ja',
+     '偉大さの高みへと続くのは、険しい道である。');
