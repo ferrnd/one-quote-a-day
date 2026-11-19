@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One isn''t necessarily born with courage, but one is born with potential.', 'ja',
      '人は勇気を持って生まれるとは限らない。だが、可能性を持って生まれてくる。'),
     ('Courage is the most important of all the virtues because without courage, you can''t practice any other virtue consistently.', 'ja',
-     '勇気はあらゆる美徳の中で最も大切だ。勇気がなければ、ほかのどんな美徳も貫くことはできないのだから。');
+     '勇気はあらゆる美徳の中で最も大切だ。勇気がなければ、ほかのどんな美徳も貫くことはできないのだから。'),
+    ('Freedom lies in being bold.', 'ja',
+     '自由は、大胆であることの中にある。');
