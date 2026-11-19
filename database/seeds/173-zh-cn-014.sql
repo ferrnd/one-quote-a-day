@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wait to strike till the iron is hot; but make it hot by striking.', 'zh-CN',
      '不要等到铁烧热了才打，要在打的过程中让它变热。'),
     ('Self-respect is the fruit of discipline; the sense of dignity grows with the ability to say no to oneself.', 'zh-CN',
-     '自尊是自律的果实；尊严感随着对自己说“不”的能力一同成长。');
+     '自尊是自律的果实；尊严感随着对自己说“不”的能力一同成长。'),
+    ('What you do every day matters more than what you do once in a while.', 'zh-CN',
+     '你每天做的事，比你偶尔做的事更重要。');
