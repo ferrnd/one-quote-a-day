@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Slow and steady wins the race.', 'ja',
      'ゆっくり着実な者が競走に勝つ。'),
     ('With time and patience the mulberry leaf becomes a silk gown.', 'ja',
-     '時と忍耐があれば、桑の葉も絹のドレスになる。');
+     '時と忍耐があれば、桑の葉も絹のドレスになる。'),
+    ('Patience attracts happiness; it brings near that which is far.', 'ja',
+     '忍耐は幸福を引き寄せ、遠くにあるものを近くへ運ぶ。');
