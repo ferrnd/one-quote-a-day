@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the hard jobs first. The easy jobs will take care of themselves.', 'ko',
      '어려운 일부터 하라. 쉬운 일은 저절로 해결된다.'),
     ('It is better to offer no excuse than a bad one.', 'ko',
-     '형편없는 변명을 하느니 아무 변명도 하지 않는 편이 낫다.');
+     '형편없는 변명을 하느니 아무 변명도 하지 않는 편이 낫다.'),
+    ('Hard work is a prison sentence only if it does not have meaning.', 'ko',
+     '고된 일이 징역형이 되는 것은 그 일에 의미가 없을 때뿐이다.');
