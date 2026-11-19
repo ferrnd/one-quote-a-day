@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is our choices that show what we truly are, far more than our abilities.', 'ja',
      '自分が本当は何者かを示すのは、能力よりも、自分の選択なのじゃよ。'),
     ('Look up at the stars and not down at your feet.', 'ja',
-     '足もとではなく、星を見上げなさい。');
+     '足もとではなく、星を見上げなさい。'),
+    ('However difficult life may seem, there is always something you can do and succeed at.', 'ja',
+     '人生がどんなに困難に思えても、できること、そして成功できることは必ずある。');
