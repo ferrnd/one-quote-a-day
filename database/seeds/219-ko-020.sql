@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never put off till tomorrow what you can do today.', 'ko',
      '오늘 할 수 있는 일을 내일로 미루지 마라.'),
     ('Do the difficult things while they are easy and do the great things while they are small.', 'ko',
-     '어려운 일은 쉬울 때 하고, 큰일은 작을 때 하라.');
+     '어려운 일은 쉬울 때 하고, 큰일은 작을 때 하라.'),
+    ('Well begun is half done.', 'ko',
+     '시작이 반이다.');
