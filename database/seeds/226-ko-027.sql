@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t connect the dots looking forward; you can only connect them looking backwards.', 'ko',
-     '앞을 내다보며 점들을 이을 수는 없다. 뒤돌아볼 때에만 이을 수 있다.');
+     '앞을 내다보며 점들을 이을 수는 없다. 뒤돌아볼 때에만 이을 수 있다.'),
+    ('Sometimes life hits you in the head with a brick. Don''t lose faith.', 'ko',
+     '때로 인생은 벽돌로 머리를 내리친다. 그래도 믿음을 잃지 마라.');
