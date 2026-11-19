@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing in this world can take the place of persistence.', 'zh-CN',
      '世上没有任何东西能取代坚持。'),
     ('Victory belongs to the most persevering.', 'zh-CN',
-     '胜利属于最坚持不懈的人。');
+     '胜利属于最坚持不懈的人。'),
+    ('With ordinary talent and extraordinary perseverance, all things are attainable.', 'zh-CN',
+     '有平凡的天赋和非凡的毅力，一切都可以实现。');
