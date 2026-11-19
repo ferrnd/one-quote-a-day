@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One may walk over the highest mountain one step at a time.', 'ko',
      '가장 높은 산도 한 걸음씩이면 넘을 수 있다.'),
     ('Diamonds are nothing more than chunks of coal that stuck to their jobs.', 'ko',
-     '다이아몬드는 자기 일을 끝까지 해낸 석탄 덩어리에 지나지 않는다.');
+     '다이아몬드는 자기 일을 끝까지 해낸 석탄 덩어리에 지나지 않는다.'),
+    ('Great things are not done by impulse, but by a series of small things brought together.', 'ko',
+     '위대한 일은 충동이 아니라 작은 일들이 모여 이루어진다.');
