@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A positive attitude can really make dreams come true.', 'zh-CN',
      '积极的态度真的能让梦想成真。'),
     ('Optimism is a happiness magnet.', 'zh-CN',
-     '乐观是幸福的磁石。');
+     '乐观是幸福的磁石。'),
+    ('Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.', 'zh-CN',
+     '限制只存在于我们的头脑中。但如果我们发挥想象力，我们的可能性将是无限的。');
