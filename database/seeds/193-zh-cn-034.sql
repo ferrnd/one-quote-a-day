@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best way to cheer yourself up is to try to cheer somebody else up.', 'zh-CN',
      '让自己振作起来的最好方法，就是努力让别人振作起来。'),
     ('When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.', 'zh-CN',
-     '当阳光灿烂时，我什么都能做到；没有太高的山，也没有难以克服的困难。');
+     '当阳光灿烂时，我什么都能做到；没有太高的山，也没有难以克服的困难。'),
+    ('Never doubt that a small group of thoughtful, committed citizens can change the world.', 'zh-CN',
+     '永远不要怀疑，一小群有思想、有担当的公民能够改变世界。');
