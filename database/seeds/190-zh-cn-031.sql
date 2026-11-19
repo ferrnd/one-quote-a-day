@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It ain''t over till it''s over.', 'zh-CN',
      '不到最后，就不算结束。'),
     ('We will either find a way, or make one.', 'zh-CN',
-     '我们要么找到一条路，要么开辟一条路。');
+     '我们要么找到一条路，要么开辟一条路。'),
+    ('The secret of success is constancy to purpose.', 'zh-CN',
+     '成功的秘诀在于对目标的始终如一。');
