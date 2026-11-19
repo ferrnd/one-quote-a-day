@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the key to paradise.', 'ja',
      '忍耐は天国への鍵である。'),
     ('Be patient toward all that is unsolved in your heart.', 'ja',
-     'あなたの心の中でまだ解決していないすべてのことに対して、忍耐強くありなさい。');
+     'あなたの心の中でまだ解決していないすべてのことに対して、忍耐強くありなさい。'),
+    ('No great thing is created suddenly.', 'ja',
+     '偉大なものは、突然には生まれない。');
