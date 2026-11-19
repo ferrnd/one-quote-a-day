@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never put off till tomorrow what you can do today.', 'zh-CN',
      '今日事，今日毕。'),
     ('Do the difficult things while they are easy and do the great things while they are small.', 'zh-CN',
-     '图难于其易，为大于其细。');
+     '图难于其易，为大于其细。'),
+    ('Well begun is half done.', 'zh-CN',
+     '好的开始是成功的一半。');
