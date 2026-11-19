@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without hard work, nothing grows but weeds.', 'zh-CN',
      '没有辛勤的劳动，除了杂草什么也长不出来。'),
     ('Success isn''t always about greatness. It''s about consistency.', 'zh-CN',
-     '成功并不总是关乎伟大，而是关乎坚持。');
+     '成功并不总是关乎伟大，而是关乎坚持。'),
+    ('Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.', 'zh-CN',
+     '成功不是偶然。它是努力、坚持、学习、钻研、牺牲，最重要的是，热爱你所做的事。');
