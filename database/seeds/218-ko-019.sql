@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is a rough road that leads to the heights of greatness.', 'ko',
      '위대함의 정상으로 이끄는 것은 험한 길이다.'),
     ('Difficult roads often lead to beautiful destinations.', 'ko',
-     '힘든 길은 종종 아름다운 목적지로 이어진다.');
+     '힘든 길은 종종 아름다운 목적지로 이어진다.'),
+    ('In the midst of chaos, there is also opportunity.', 'ko',
+     '혼란 속에도 기회는 있다.');
