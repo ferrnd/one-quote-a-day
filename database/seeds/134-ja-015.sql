@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Practice isn''t the thing you do once you''re good. It''s the thing you do that makes you good.', 'ja',
      '練習とは、うまくなってからするものではない。うまくなるためにするものだ。'),
     ('Do something today that your future self will thank you for.', 'ja',
-     '未来の自分が感謝してくれることを、今日何か一つやろう。');
+     '未来の自分が感謝してくれることを、今日何か一つやろう。'),
+    ('Focus on being productive instead of busy.', 'ja',
+     '忙しくするのではなく、成果を出すことに集中せよ。');
