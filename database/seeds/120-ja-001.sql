@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.', 'ja',
      '成功する人とそうでない人の違いは、力や知識の不足ではなく、意志の不足にある。'),
     ('Success is the sum of small efforts, repeated day in and day out.', 'ja',
-     '成功とは、日々繰り返される小さな努力の積み重ねである。');
+     '成功とは、日々繰り返される小さな努力の積み重ねである。'),
+    ('It always seems impossible until it''s done.', 'ja',
+     '何事も、成し遂げるまでは不可能に思えるものだ。');
