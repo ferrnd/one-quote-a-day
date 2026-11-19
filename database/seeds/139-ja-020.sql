@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream big and dare to fail.', 'ja',
      '大きな夢を見て、失敗を恐れず挑め。'),
     ('Never mistake motion for action.', 'ja',
-     '動いていることを、行動していることと決して取り違えるな。');
+     '動いていることを、行動していることと決して取り違えるな。'),
+    ('Don''t let yesterday take up too much of today.', 'ja',
+     '昨日に、今日の時間をとられすぎてはいけない。');
