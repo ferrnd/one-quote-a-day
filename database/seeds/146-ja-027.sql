@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'ja',
      '私がそこにたどり着いたのは、願ったり望んだりしたからではなく、そのために働いたからだ。'),
     ('Fight for the things that you care about, but do it in a way that will lead others to join you.', 'ja',
-     '大切に思うもののために闘いなさい。ただし、ほかの人も加わりたくなるようなやり方で。');
+     '大切に思うもののために闘いなさい。ただし、ほかの人も加わりたくなるようなやり方で。'),
+    ('Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves.', 'ja',
+     '人生は誰にとっても楽ではない。でも、それが何だというのだろう。私たちには忍耐が必要であり、何よりも自分自身への自信が必要だ。');
