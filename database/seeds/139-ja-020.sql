@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Begin, be bold, and venture to be wise.', 'ja',
      '始めよ、大胆であれ、賢くあろうと挑め。'),
     ('Dream big and dare to fail.', 'ja',
-     '大きな夢を見て、失敗を恐れず挑め。');
+     '大きな夢を見て、失敗を恐れず挑め。'),
+    ('Never mistake motion for action.', 'ja',
+     '動いていることを、行動していることと決して取り違えるな。');
