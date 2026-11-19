@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Write it on your heart that every day is the best day in the year.', 'ko',
      '매일이 한 해 중 최고의 날이라고 마음에 새겨라.'),
     ('Life can only be understood backwards; but it must be lived forwards.', 'ko',
-     '인생은 뒤돌아볼 때만 이해할 수 있지만, 앞을 향해 살아가야 한다.');
+     '인생은 뒤돌아볼 때만 이해할 수 있지만, 앞을 향해 살아가야 한다.'),
+    ('Beginnings are always messy.', 'ko',
+     '시작은 언제나 엉망이다.');
