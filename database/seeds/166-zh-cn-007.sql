@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not pray for an easy life, pray for the strength to endure a difficult one.', 'zh-CN',
      '不要祈求安逸的人生，要祈求能承受艰难人生的力量。'),
     ('The human capacity for burden is like bamboo: far more flexible than you''d ever believe at first glance.', 'zh-CN',
-     '人承受重担的能力就像竹子，远比你乍看之下以为的更有韧性。');
+     '人承受重担的能力就像竹子，远比你乍看之下以为的更有韧性。'),
+    ('I can be changed by what happens to me. But I refuse to be reduced by it.', 'zh-CN',
+     '我可以被发生在我身上的事改变，但我拒绝被它贬低。');
