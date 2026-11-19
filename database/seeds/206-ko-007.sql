@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.', 'ko',
      '모든 것이 당신에게 불리하게 돌아가는 것 같을 때, 비행기는 바람을 등지고가 아니라 바람을 안고 이륙한다는 것을 기억하라.'),
     ('Out of difficulties grow miracles.', 'ko',
-     '어려움 속에서 기적이 자라난다.');
+     '어려움 속에서 기적이 자라난다.'),
+    ('The gem cannot be polished without friction, nor man perfected without trials.', 'ko',
+     '옥은 갈지 않으면 빛나지 않고, 사람은 시련 없이 완성되지 않는다.');
