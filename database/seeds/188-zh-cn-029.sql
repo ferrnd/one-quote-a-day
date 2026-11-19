@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('These pains you feel are messengers. Listen to them.', 'zh-CN',
      '你感受到的这些痛苦是信使，倾听它们吧。'),
     ('Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.', 'zh-CN',
-     '自由是人生中唯一值得追求的目标，而它是通过不去在意我们无法控制的事物而获得的。');
+     '自由是人生中唯一值得追求的目标，而它是通过不去在意我们无法控制的事物而获得的。'),
+    ('Don''t explain your philosophy. Embody it.', 'zh-CN',
+     '不要解释你的哲学，去体现它。');
