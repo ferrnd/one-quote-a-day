@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fortune and love favor the brave.', 'zh-CN',
      '命运和爱情都眷顾勇者。'),
     ('Expose yourself to your deepest fear; after that, fear has no power.', 'zh-CN',
-     '让自己直面最深的恐惧，之后，恐惧便再无力量。');
+     '让自己直面最深的恐惧，之后，恐惧便再无力量。'),
+    ('Courage is like love; it must have hope for nourishment.', 'zh-CN',
+     '勇气就像爱情，必须以希望为养料。');
