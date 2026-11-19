@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I will persist until I succeed.', 'zh-CN',
      '我会坚持下去，直到成功。'),
     ('One may walk over the highest mountain one step at a time.', 'zh-CN',
-     '再高的山，一步一步也能翻越。');
+     '再高的山，一步一步也能翻越。'),
+    ('Diamonds are nothing more than chunks of coal that stuck to their jobs.', 'zh-CN',
+     '钻石不过是坚守岗位的煤块而已。');
