@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is a detour, not a dead-end street.', 'ko',
      '실패는 우회로일 뿐 막다른 길이 아니다.'),
     ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'ko',
-     '실패가 언제나 실수인 것은 아니다. 그 상황에서 할 수 있는 최선이었을 수도 있다. 진짜 실수는 시도를 멈추는 것이다.');
+     '실패가 언제나 실수인 것은 아니다. 그 상황에서 할 수 있는 최선이었을 수도 있다. 진짜 실수는 시도를 멈추는 것이다.'),
+    ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'ko',
+     '가끔씩 실패하지 않는다면, 그것은 별로 혁신적인 일을 하고 있지 않다는 신호다.');
