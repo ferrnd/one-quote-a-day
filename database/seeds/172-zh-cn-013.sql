@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Discipline is choosing between what you want now and what you want most.', 'zh-CN',
      '自律就是在你现在想要的和你最想要的之间做出选择。'),
     ('No man is free who is not master of himself.', 'zh-CN',
-     '不能主宰自己的人，就不是自由的人。');
+     '不能主宰自己的人，就不是自由的人。'),
+    ('First say to yourself what you would be; and then do what you have to do.', 'zh-CN',
+     '先对自己说你想成为什么样的人，然后去做你必须做的事。');
