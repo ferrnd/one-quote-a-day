@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Once you replace negative thoughts with positive ones, you''ll start having positive results.', 'zh-CN',
      '一旦你用积极的想法取代消极的想法，你就会开始得到积极的结果。'),
     ('When you change the way you look at things, the things you look at change.', 'zh-CN',
-     '当你改变看待事物的方式，你所看的事物也会随之改变。');
+     '当你改变看待事物的方式，你所看的事物也会随之改变。'),
+    ('Happiness is not something ready made. It comes from your own actions.', 'zh-CN',
+     '幸福不是现成的东西，它来自你自己的行动。');
