@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dost thou love life? Then do not squander time, for that is the stuff life is made of.', 'ja',
      'あなたは人生を愛しているか。それなら時間を浪費してはならない。時間こそ人生をつくる材料なのだから。'),
     ('I don''t stop when I''m tired. I stop when I''m done.', 'ja',
-     '疲れたときにやめるのではない。やり終えたときにやめるのだ。');
+     '疲れたときにやめるのではない。やり終えたときにやめるのだ。'),
+    ('The only easy day was yesterday.', 'ja',
+     '楽だった日は、昨日だけだ。');
