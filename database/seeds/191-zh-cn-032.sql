@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t give up. Don''t ever give up.', 'zh-CN',
      '不要放弃，永远不要放弃。'),
     ('Many people have gone further than they thought they could because someone else thought they could.', 'zh-CN',
-     '许多人走得比他们自己想象的更远，因为有别人相信他们能做到。');
+     '许多人走得比他们自己想象的更远，因为有别人相信他们能做到。'),
+    ('You can''t climb the ladder of success with your hands in your pockets.', 'zh-CN',
+     '手插在口袋里，你是爬不上成功的阶梯的。');
