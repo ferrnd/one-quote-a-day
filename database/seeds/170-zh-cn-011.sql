@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In spite of everything I still believe that people are really good at heart.', 'zh-CN',
      '尽管发生了这一切，我仍然相信人的内心本质是善良的。'),
     ('Think of all the beauty still left around you and be happy.', 'zh-CN',
-     '想想你身边仍然留存的一切美好，然后快乐起来。');
+     '想想你身边仍然留存的一切美好，然后快乐起来。'),
+    ('It is often in the darkest skies that we see the brightest stars.', 'zh-CN',
+     '往往在最黑暗的天空中，我们才能看到最明亮的星星。');
