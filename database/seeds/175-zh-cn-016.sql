@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everyone thinks of changing the world, but no one thinks of changing himself.', 'zh-CN',
      '每个人都想改变世界，却没有人想改变自己。'),
     ('To improve is to change; to be perfect is to change often.', 'zh-CN',
-     '改进就是改变；要做到完美，就要经常改变。');
+     '改进就是改变；要做到完美，就要经常改变。'),
+    ('Growth begins when we begin to accept our own weakness.', 'zh-CN',
+     '当我们开始接受自己的弱点时，成长就开始了。');
