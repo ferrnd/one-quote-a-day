@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('However difficult life may seem, there is always something you can do and succeed at.', 'zh-CN',
      '无论生活看起来多么艰难，总有你能做并且能做成的事。'),
     ('I have no special talents. I am only passionately curious.', 'zh-CN',
-     '我没有什么特殊的才能，我只是怀有强烈的好奇心。');
+     '我没有什么特殊的才能，我只是怀有强烈的好奇心。'),
+    ('Try not to become a man of success, but rather try to become a man of value.', 'zh-CN',
+     '不要努力成为一个成功的人，而要努力成为一个有价值的人。');
