@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the confrontation between the stream and the rock, the stream always wins, not through strength but by perseverance.', 'ko',
      '시냇물과 바위가 맞서면 언제나 시냇물이 이긴다. 힘이 아니라 끈기로.'),
     ('Endurance is not just the ability to bear a hard thing, but to turn it into glory.', 'ko',
-     '인내란 힘든 일을 견디는 능력일 뿐 아니라, 그것을 영광으로 바꾸는 능력이다.');
+     '인내란 힘든 일을 견디는 능력일 뿐 아니라, 그것을 영광으로 바꾸는 능력이다.'),
+    ('Perseverance, secret of all triumphs.', 'ko',
+     '끈기, 모든 승리의 비결.');
