@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no greater agony than bearing an untold story inside you.', 'ko',
      '말하지 못한 이야기를 가슴속에 품고 사는 것보다 더 큰 고통은 없다.'),
     ('We realize the importance of our voices only when we are silenced.', 'ko',
-     '우리는 침묵을 강요당할 때에야 비로소 우리 목소리의 소중함을 깨닫는다.');
+     '우리는 침묵을 강요당할 때에야 비로소 우리 목소리의 소중함을 깨닫는다.'),
+    ('Success is not how high you have climbed, but how you make a positive difference to the world.', 'ko',
+     '성공은 얼마나 높이 올랐느냐가 아니라, 세상에 얼마나 긍정적인 변화를 가져오느냐다.');
