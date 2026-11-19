@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In three words I can sum up everything I''ve learned about life: it goes on.', 'zh-CN',
      '关于人生，我学到的一切可以总结为四个字：生活继续。'),
     ('Vitality shows in not only the ability to persist but the ability to start over.', 'zh-CN',
-     '生命力不仅体现在坚持的能力上，也体现在重新开始的能力上。');
+     '生命力不仅体现在坚持的能力上，也体现在重新开始的能力上。'),
+    ('But man is not made for defeat. A man can be destroyed but not defeated.', 'zh-CN',
+     '但人不是为失败而生的。一个人可以被毁灭，但不能被打败。');
