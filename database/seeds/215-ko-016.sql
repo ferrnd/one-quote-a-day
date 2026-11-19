@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can''t change the direction of the wind, but I can adjust my sails to always reach my destination.', 'ko',
      '나는 바람의 방향을 바꿀 수 없지만, 돛을 조정하여 언제나 목적지에 닿을 수 있다.'),
     ('We cannot become what we want by remaining what we are.', 'ko',
-     '지금의 모습에 머물러서는 원하는 모습이 될 수 없다.');
+     '지금의 모습에 머물러서는 원하는 모습이 될 수 없다.'),
+    ('Little by little, a little becomes a lot.', 'ko',
+     '조금씩, 조금이 많아진다.');
