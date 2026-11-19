@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I would rather be ashes than dust!', 'zh-CN',
      '我宁愿化为灰烬，也不愿成为尘土！'),
     ('Determine never to be idle.', 'zh-CN',
-     '下定决心，永不懈怠。');
+     '下定决心，永不懈怠。'),
+    ('A dream doesn''t become reality through magic; it takes sweat, determination and hard work.', 'zh-CN',
+     '梦想不会靠魔法变成现实，它需要汗水、决心和辛勤的努力。');
