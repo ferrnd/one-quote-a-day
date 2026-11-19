@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between the impossible and the possible lies in a man''s determination.', 'ja',
      '不可能と可能の違いは、その人の決意にある。'),
     ('Set your goals high, and don''t stop till you get there.', 'ja',
-     '目標は高く掲げ、たどり着くまで止まるな。');
+     '目標は高く掲げ、たどり着くまで止まるな。'),
+    ('Desire is the key to motivation, but it''s determination and commitment to an unrelenting pursuit of your goal that will enable you to attain the success you seek.', 'ja',
+     '欲求はやる気の鍵だ。だが、求める成功を手にさせてくれるのは、目標をひたむきに追い続ける決意と献身である。');
