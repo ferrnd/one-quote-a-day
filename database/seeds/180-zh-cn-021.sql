@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Doubt kills more dreams than failure ever will.', 'zh-CN',
      '怀疑扼杀的梦想，比失败扼杀的还要多。'),
     ('Don''t be pushed around by the fears in your mind. Be led by the dreams in your heart.', 'zh-CN',
-     '不要被头脑中的恐惧摆布，要让内心的梦想引领你。');
+     '不要被头脑中的恐惧摆布，要让内心的梦想引领你。'),
+    ('Put your heart, mind, and soul into even your smallest acts. This is the secret of success.', 'zh-CN',
+     '哪怕是最微小的举动，也要倾注你的心、思想和灵魂。这就是成功的秘诀。');
