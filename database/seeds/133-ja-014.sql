@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Champions keep playing until they get it right.', 'ja',
      'チャンピオンは、うまくいくまでプレーし続ける。'),
     ('I hated every minute of training, but I said, don''t quit. Suffer now and live the rest of your life as a champion.', 'ja',
-     '練習は一分一秒が嫌でたまらなかった。でも自分に言い聞かせた。やめるな。今苦しんで、残りの人生をチャンピオンとして生きるんだ、と。');
+     '練習は一分一秒が嫌でたまらなかった。でも自分に言い聞かせた。やめるな。今苦しんで、残りの人生をチャンピオンとして生きるんだ、と。'),
+    ('The fight is won or lost far away from witnesses, behind the lines, in the gym, and out there on the road, long before I dance under those lights.', 'ja',
+     '戦いの勝敗は、証人のいない遠い場所で決まる。前線の後ろで、ジムで、そして道の上で。私がライトの下で踊るずっと前に。');
