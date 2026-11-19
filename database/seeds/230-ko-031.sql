@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best revenge is massive success.', 'ko',
      '최고의 복수는 엄청난 성공이다.'),
     ('Grief can be the garden of compassion.', 'ko',
-     '슬픔은 연민의 정원이 될 수 있다.');
+     '슬픔은 연민의 정원이 될 수 있다.'),
+    ('Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it.', 'ko',
+     '계속 나아가라. 그러면 아마도 가장 예상하지 못한 순간에 무언가를 우연히 발견하게 될 것이다.');
