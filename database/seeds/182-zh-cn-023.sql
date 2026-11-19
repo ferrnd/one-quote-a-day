@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Believe in yourself! Have faith in your abilities!', 'zh-CN',
      '相信你自己！对你的能力要有信心！'),
     ('You must expect great things of yourself before you can do them.', 'zh-CN',
-     '在你能做成伟大的事之前，你必须先对自己抱有伟大的期望。');
+     '在你能做成伟大的事之前，你必须先对自己抱有伟大的期望。'),
+    ('I attribute my success to this: I never gave or took any excuse.', 'zh-CN',
+     '我把我的成功归因于此：我从不找借口，也从不接受借口。');
