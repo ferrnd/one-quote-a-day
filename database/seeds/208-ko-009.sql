@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.', 'ko',
      '인생은 언제나 좋은 패를 쥐는 것이 아니라, 때로는 나쁜 패를 잘 쓰는 것이다.'),
     ('Hope is the thing with feathers that perches in the soul.', 'ko',
-     '희망은 영혼 위에 내려앉은 깃털 달린 것.');
+     '희망은 영혼 위에 내려앉은 깃털 달린 것.'),
+    ('Everything that is done in the world is done by hope.', 'ko',
+     '세상에서 이루어지는 모든 일은 희망으로 이루어진다.');
