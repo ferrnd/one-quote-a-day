@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What would you attempt to do if you knew you would not fail?', 'ko',
      '절대 실패하지 않는다는 것을 안다면, 당신은 무엇을 시도하겠는가?'),
     ('I saw the angel in the marble and carved until I set him free.', 'ko',
-     '나는 대리석 속에서 천사를 보았고, 그를 풀어 줄 때까지 조각했다.');
+     '나는 대리석 속에서 천사를 보았고, 그를 풀어 줄 때까지 조각했다.'),
+    ('People with goals succeed because they know where they''re going.', 'ko',
+     '목표가 있는 사람이 성공하는 것은 자신이 어디로 가는지 알기 때문이다.');
