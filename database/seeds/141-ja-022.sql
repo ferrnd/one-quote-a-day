@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only limit to our realization of tomorrow will be our doubts of today.', 'ja',
      '明日の実現を妨げる唯一の限界は、今日の私たちの疑いである。'),
     ('Perpetual optimism is a force multiplier.', 'ja',
-     '絶え間ない楽観主義は、力を何倍にも増幅させる。');
+     '絶え間ない楽観主義は、力を何倍にも増幅させる。'),
+    ('If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.', 'ja',
+     '心の中で「お前には絵が描けない」という声が聞こえたら、なんとしても描きなさい。そうすればその声は黙るだろう。');
