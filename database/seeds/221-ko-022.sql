@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Happiness is not something ready made. It comes from your own actions.', 'ko',
      '행복은 이미 만들어진 것이 아니다. 그것은 당신 자신의 행동에서 나온다.'),
     ('Self-belief and hard work will always earn you success.', 'ko',
-     '자신에 대한 믿음과 노력은 언제나 성공을 가져다준다.');
+     '자신에 대한 믿음과 노력은 언제나 성공을 가져다준다.'),
+    ('Too many of us are not living our dreams because we are living our fears.', 'ko',
+     '너무 많은 사람이 꿈을 살지 못하는 것은 두려움을 살고 있기 때문이다.');
