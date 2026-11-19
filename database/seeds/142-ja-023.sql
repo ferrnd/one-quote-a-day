@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sooner or later the man who wins is the man who thinks he can.', 'ja',
      '遅かれ早かれ、勝つのはできると思っている人間だ。'),
     ('We become what we think about.', 'ja',
-     '私たちは、自分が考えているとおりのものになる。');
+     '私たちは、自分が考えているとおりのものになる。'),
+    ('If you''re always trying to be normal, you will never know how amazing you can be.', 'ja',
+     'いつも普通であろうとしていたら、自分がどれほどすばらしくなれるか決して知ることはないでしょう。');
