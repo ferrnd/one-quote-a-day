@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The future depends on what you do today.', 'ko',
      '미래는 오늘 당신이 무엇을 하느냐에 달려 있다.'),
     ('Never put off till tomorrow what you can do today.', 'ko',
-     '오늘 할 수 있는 일을 내일로 미루지 마라.');
+     '오늘 할 수 있는 일을 내일로 미루지 마라.'),
+    ('Do the difficult things while they are easy and do the great things while they are small.', 'ko',
+     '어려운 일은 쉬울 때 하고, 큰일은 작을 때 하라.');
