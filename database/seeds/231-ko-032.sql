@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Expose yourself to your deepest fear; after that, fear has no power.', 'ko',
      '가장 깊은 두려움에 자신을 드러내라. 그러면 두려움은 더 이상 힘을 쓰지 못한다.'),
     ('Courage is like love; it must have hope for nourishment.', 'ko',
-     '용기는 사랑과 같다. 희망이라는 양분이 있어야 한다.');
+     '용기는 사랑과 같다. 희망이라는 양분이 있어야 한다.'),
+    ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'ko',
+     '육체적 용기는 세상에 그토록 흔한데 도덕적 용기는 그토록 드물다는 것이 신기하다.');
