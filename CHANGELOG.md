@@ -4,6 +4,21 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [2.1.0] - 2026-11-18
+
+### Added
+
+- Background lights: at night, soft white blobs drift behind the quote under
+  frosted glass. Off by default; turn them on in Settings (all seven
+  languages). They keep their size under browser zoom and stop when
+  animations are off or the system asks for reduced motion.
+
+### Fixed
+
+- The settings gear no longer jumps away from the pointer: the hidden
+  countdown and the day counter's hit area overlapped it, widening the counter
+  and pushing the gear aside.
+
 ## [2.0.0] - 2026-11-18
 
 ### Changed
