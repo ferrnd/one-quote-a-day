@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'zh-CN',
      '当你不勇敢时，你能做的最勇敢的事，就是宣称勇气，并照此行动。'),
     ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'zh-CN',
-     '勇气就是去做你害怕做的事。不害怕，就谈不上勇气。');
+     '勇气就是去做你害怕做的事。不害怕，就谈不上勇气。'),
+    ('Fortune and love favor the brave.', 'zh-CN',
+     '命运和爱情都眷顾勇者。');
