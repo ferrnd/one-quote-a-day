@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The tougher the battle, the sweeter the victory.', 'ja',
      '戦いが厳しいほど、勝利は甘い。'),
     ('Sweet are the uses of adversity.', 'ja',
-     '逆境の効用は甘美なものだ。');
+     '逆境の効用は甘美なものだ。'),
+    ('Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.', 'ja',
+     'あらゆる逆境、あらゆる失敗、あらゆる心の痛みは、それと同等かそれ以上の恩恵の種を宿している。');
