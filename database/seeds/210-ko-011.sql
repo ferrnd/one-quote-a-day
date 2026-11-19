@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The impediment to action advances action. What stands in the way becomes the way.', 'ko',
      '행동을 가로막는 것이 행동을 앞으로 나아가게 한다. 길을 막는 것이 길이 된다.'),
     ('If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.', 'ko',
-     '외부의 무언가 때문에 괴롭다면, 그 고통은 그것 자체 때문이 아니라 그것에 대한 당신의 판단 때문이다. 그리고 그 판단은 언제든 거둘 수 있다.');
+     '외부의 무언가 때문에 괴롭다면, 그 고통은 그것 자체 때문이 아니라 그것에 대한 당신의 판단 때문이다. 그리고 그 판단은 언제든 거둘 수 있다.'),
+    ('Waste no more time arguing about what a good man should be. Be one.', 'ko',
+     '좋은 사람이 어떠해야 하는지 논쟁하며 더는 시간을 낭비하지 마라. 좋은 사람이 되어라.');
