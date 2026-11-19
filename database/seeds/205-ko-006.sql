@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Winners are not afraid of losing. But losers are. Failure is part of the process of success.', 'ko',
      '승자는 지는 것을 두려워하지 않는다. 두려워하는 것은 패자다. 실패는 성공으로 가는 과정의 일부다.'),
     ('An inventor fails 999 times, and if he succeeds once, he''s in.', 'ko',
-     '발명가는 999번 실패해도 한 번 성공하면 그것으로 된다.');
+     '발명가는 999번 실패해도 한 번 성공하면 그것으로 된다.'),
+    ('Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.', 'ko',
+     '가장 뻣뻣한 나무가 가장 쉽게 부러지고, 대나무나 버드나무는 바람에 몸을 굽혀 살아남는다는 것을 보라.');
