@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success isn''t about how much money you make; it''s about the difference you make in people''s lives.', 'zh-CN',
      '成功不在于你赚了多少钱，而在于你给人们的生活带来了多大的改变。'),
     ('There is no greater agony than bearing an untold story inside you.', 'zh-CN',
-     '没有什么痛苦比心中藏着一个未曾讲述的故事更大。');
+     '没有什么痛苦比心中藏着一个未曾讲述的故事更大。'),
+    ('We realize the importance of our voices only when we are silenced.', 'zh-CN',
+     '只有当我们被迫沉默时，我们才意识到自己声音的重要性。');
