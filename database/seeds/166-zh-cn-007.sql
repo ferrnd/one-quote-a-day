@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can be changed by what happens to me. But I refuse to be reduced by it.', 'zh-CN',
      '我可以被发生在我身上的事改变，但我拒绝被它贬低。'),
     ('You may encounter many defeats, but you must not be defeated.', 'zh-CN',
-     '你可能会遭遇许多失败，但你绝不能被打败。');
+     '你可能会遭遇许多失败，但你绝不能被打败。'),
+    ('Still, like air, I''ll rise.', 'zh-CN',
+     '然而，像空气一样，我依然会升起。');
