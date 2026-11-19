@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Finish each day and be done with it. You have done what you could.', 'ja',
      '一日一日をきちんと終えて、そこで区切りをつけなさい。あなたはできることをやったのだから。'),
     ('The years teach much which the days never know.', 'ja',
-     '歳月は、日々が決して知らない多くのことを教えてくれる。');
+     '歳月は、日々が決して知らない多くのことを教えてくれる。'),
+    ('Write it on your heart that every day is the best day in the year.', 'ja',
+     '毎日が一年で最良の日であると、心に書き記しておきなさい。');
