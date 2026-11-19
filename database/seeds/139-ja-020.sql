@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('An idea not coupled with action will never get any bigger than the brain cell it occupied.', 'ja',
      '行動と結びつかないアイデアは、それが宿る脳細胞より大きくなることはない。'),
     ('Talk does not cook rice.', 'ja',
-     '口先だけでは米は炊けない。');
+     '口先だけでは米は炊けない。'),
+    ('If not now, when?', 'ja',
+     '今でなければ、いつやるのか。');
