@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Continuous effort, not strength or intelligence, is the key to unlocking our potential.', 'ja',
      '私たちの可能性を開く鍵は、力でも知性でもなく、絶え間ない努力である。'),
     ('Ambition is the path to success. Persistence is the vehicle you arrive in.', 'ja',
-     '大志は成功への道であり、粘り強さはそこへたどり着く乗り物である。');
+     '大志は成功への道であり、粘り強さはそこへたどり着く乗り物である。'),
+    ('The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.', 'ja',
+     '成功する人とそうでない人の違いは、力や知識の不足ではなく、意志の不足にある。');
