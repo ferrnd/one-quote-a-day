@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only place where success comes before work is in the dictionary.', 'ja',
      '仕事より先に成功が来るのは、辞書の中だけだ。'),
     ('Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.', 'ja',
-     '才能は食卓塩よりも安い。才能のある人と成功する人を分けるのは、膨大な努力だ。');
+     '才能は食卓塩よりも安い。才能のある人と成功する人を分けるのは、膨大な努力だ。'),
+    ('Amateurs sit and wait for inspiration, the rest of us just get up and go to work.', 'ja',
+     '素人は座ってひらめきを待つ。それ以外の私たちは、ただ起きて仕事に取りかかる。');
