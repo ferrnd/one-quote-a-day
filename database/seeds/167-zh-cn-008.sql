@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The wound is the place where the Light enters you.', 'zh-CN',
      '伤口是光进入你内心的地方。'),
     ('When it is dark enough, you can see the stars.', 'zh-CN',
-     '天足够黑的时候，你就能看见星星。');
+     '天足够黑的时候，你就能看见星星。'),
+    ('Fire is the test of gold; adversity, of strong men.', 'zh-CN',
+     '烈火试真金，逆境试强者。');
