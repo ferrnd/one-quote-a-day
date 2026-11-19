@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I had to make my own living and my own opportunity. But I made it!', 'ja',
      '私は自分で生計を立て、自分でチャンスをつくらなければならなかった。そして、やり遂げた！'),
     ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'ja',
-     '私がそこにたどり着いたのは、願ったり望んだりしたからではなく、そのために働いたからだ。');
+     '私がそこにたどり着いたのは、願ったり望んだりしたからではなく、そのために働いたからだ。'),
+    ('Fight for the things that you care about, but do it in a way that will lead others to join you.', 'ja',
+     '大切に思うもののために闘いなさい。ただし、ほかの人も加わりたくなるようなやり方で。');
