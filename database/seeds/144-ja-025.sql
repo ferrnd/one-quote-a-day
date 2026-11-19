@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Wise to resolve, and patient to perform.', 'ja',
      '決断するには賢く、実行するには忍耐強く。'),
     ('I am extraordinarily patient, provided I get my own way in the end.', 'ja',
-     '私は並外れて忍耐強い。最後に自分の思いどおりになるならば。');
+     '私は並外れて忍耐強い。最後に自分の思いどおりになるならば。'),
+    ('If you are patient in one moment of anger, you will escape a hundred days of sorrow.', 'ja',
+     '一時の怒りを忍べば、百日の悲しみを免れる。');
