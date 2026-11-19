@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is also a form of action.', 'ko',
      '인내 또한 행동의 한 형태다.'),
     ('Slow and steady wins the race.', 'ko',
-     '느리지만 꾸준한 자가 경주에서 이긴다.');
+     '느리지만 꾸준한 자가 경주에서 이긴다.'),
+    ('With time and patience the mulberry leaf becomes a silk gown.', 'ko',
+     '시간과 인내가 있으면 뽕잎도 비단옷이 된다.');
