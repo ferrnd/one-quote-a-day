@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our greatest glory is not in never falling, but in rising every time we fall.', 'ja',
      '最大の栄光は一度も倒れないことではなく、倒れるたびに起き上がることにある。'),
     ('Energy and persistence conquer all things.', 'ja',
-     '気力と粘り強さは、すべてを征服する。');
+     '気力と粘り強さは、すべてを征服する。'),
+    ('Rivers know this: there is no hurry. We shall get there some day.', 'ja',
+     '川は知っている。急ぐことはない。いつかはたどり着くのだと。');
