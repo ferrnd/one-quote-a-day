@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Prosperity is not without many fears and distastes; and adversity is not without comforts and hopes.', 'ko',
      '번영에도 두려움과 싫은 일이 많고, 역경에도 위안과 희망이 있다.'),
     ('Adversity is the first path to truth.', 'ko',
-     '역경은 진리로 가는 첫 번째 길이다.');
+     '역경은 진리로 가는 첫 번째 길이다.'),
+    ('Kites rise highest against the wind, not with it.', 'ko',
+     '연은 바람을 등지고가 아니라 바람을 안고 가장 높이 오른다.');
