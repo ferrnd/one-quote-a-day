@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s the possibility of having a dream come true that makes life interesting.', 'zh-CN',
      '正是梦想成真的可能性，让生活变得有趣。'),
     ('And, when you want something, all the universe conspires in helping you to achieve it.', 'zh-CN',
-     '当你真心渴望某样东西时，整个宇宙都会联合起来帮助你完成。');
+     '当你真心渴望某样东西时，整个宇宙都会联合起来帮助你完成。'),
+    ('Dream as if you''ll live forever. Live as if you''ll die today.', 'zh-CN',
+     '梦想时就像你会永远活着，生活时就像你今天就会死去。');
