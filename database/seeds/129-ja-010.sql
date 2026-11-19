@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What oxygen is to the lungs, such is hope to the meaning of life.', 'ja',
      '肺にとっての酸素と同じものが、人生の意味にとっての希望である。'),
     ('The very least you can do in your life is figure out what you hope for.', 'ja',
-     '人生でできるせめてものことは、自分が何を望んでいるのかを見つけることだ。');
+     '人生でできるせめてものことは、自分が何を望んでいるのかを見つけることだ。'),
+    ('There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something better tomorrow.', 'ja',
+     '明日はもっと良くなるという期待ほど、効く薬も、大きな励みも、強い活力剤もない。');
