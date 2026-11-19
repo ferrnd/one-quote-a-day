@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('However difficult life may seem, there is always something you can do and succeed at.', 'ko',
      '삶이 아무리 힘들어 보여도, 당신이 할 수 있고 해낼 수 있는 일은 언제나 있다.'),
     ('I have no special talents. I am only passionately curious.', 'ko',
-     '나에게는 특별한 재능이 없다. 다만 열렬한 호기심이 있을 뿐이다.');
+     '나에게는 특별한 재능이 없다. 다만 열렬한 호기심이 있을 뿐이다.'),
+    ('Try not to become a man of success, but rather try to become a man of value.', 'ko',
+     '성공한 사람이 되려 하지 말고, 가치 있는 사람이 되려고 하라.');
