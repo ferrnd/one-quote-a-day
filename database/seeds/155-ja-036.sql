@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday''s logic.', 'ja',
      '激動の時代における最大の危険は、激動そのものではない。昨日の論理で行動することだ。'),
     ('We must be willing to let go of the life we planned so as to have the life that is waiting for us.', 'ja',
-     '私たちを待っている人生を手に入れるためには、計画していた人生を手放す覚悟がなければならない。');
+     '私たちを待っている人生を手に入れるためには、計画していた人生を手放す覚悟がなければならない。'),
+    ('The privilege of a lifetime is to become who you truly are.', 'ja',
+     '生涯で得られる特権とは、本当の自分になることである。');
