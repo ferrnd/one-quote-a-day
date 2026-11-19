@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Respond to every call that excites your spirit.', 'zh-CN',
      '回应每一个让你的灵魂激动的召唤。'),
     ('If you are irritated by every rub, how will your mirror be polished?', 'zh-CN',
-     '如果每一次摩擦都让你恼怒，你的镜子又怎能被擦亮？');
+     '如果每一次摩擦都让你恼怒，你的镜子又怎能被擦亮？'),
+    ('These pains you feel are messengers. Listen to them.', 'zh-CN',
+     '你感受到的这些痛苦是信使，倾听它们吧。');
