@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Of all the virtues we can learn, no trait is more useful, more essential for survival, and more likely to improve the quality of life than the ability to transform adversity into an enjoyable challenge.', 'ko',
      '우리가 배울 수 있는 모든 덕목 가운데 역경을 즐거운 도전으로 바꾸는 능력보다 더 유용하고, 생존에 더 필수적이며, 삶의 질을 더 높여 주는 것은 없다.'),
     ('If there is no struggle, there is no progress.', 'ko',
-     '투쟁이 없으면 진보도 없다.');
+     '투쟁이 없으면 진보도 없다.'),
+    ('Be the heroine of your life, not the victim.', 'ko',
+     '당신 인생의 희생자가 아니라 주인공이 되어라.');
