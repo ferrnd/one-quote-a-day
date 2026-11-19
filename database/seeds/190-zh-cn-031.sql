@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard work without talent is a shame, but talent without hard work is a tragedy.', 'zh-CN',
      '没有天赋的努力令人遗憾，但没有努力的天赋是一场悲剧。'),
     ('It ain''t over till it''s over.', 'zh-CN',
-     '不到最后，就不算结束。');
+     '不到最后，就不算结束。'),
+    ('We will either find a way, or make one.', 'zh-CN',
+     '我们要么找到一条路，要么开辟一条路。');
