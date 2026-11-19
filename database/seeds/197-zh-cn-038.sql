@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Have patience. All things are difficult before they become easy.', 'zh-CN',
      '要有耐心。一切事情在变得容易之前，都是困难的。'),
     ('Patience is a conquering virtue.', 'zh-CN',
-     '耐心是一种能够征服一切的美德。');
+     '耐心是一种能够征服一切的美德。'),
+    ('Everything comes to him who hustles while he waits.', 'zh-CN',
+     '一切都会来到那个在等待中依然奋力奔忙的人身边。');
