@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'ko',
      '용기란 두려운 일을 하는 것이다. 두렵지 않다면 용기도 있을 수 없다.'),
     ('Fortune and love favor the brave.', 'ko',
-     '행운과 사랑은 용감한 자의 편이다.');
+     '행운과 사랑은 용감한 자의 편이다.'),
+    ('Expose yourself to your deepest fear; after that, fear has no power.', 'ko',
+     '가장 깊은 두려움에 자신을 드러내라. 그러면 두려움은 더 이상 힘을 쓰지 못한다.');
