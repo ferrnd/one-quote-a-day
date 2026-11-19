@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is patience with the lamp lit.', 'ja',
      '希望とは、灯をともしたままの忍耐である。'),
     ('I am prepared for the worst, but hope for the best.', 'ja',
-     '最悪に備え、最善を望む。');
+     '最悪に備え、最善を望む。'),
+    ('We need never be hopeless because we can never be irreparably broken.', 'ja',
+     '私たちが絶望する必要はない。決して取り返しのつかないほど壊れてしまうことはないのだから。');
