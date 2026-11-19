@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Mighty oaks from little acorns grow.', 'ko',
      '거대한 참나무도 작은 도토리에서 자란다.'),
     ('It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.', 'ko',
-     '일이 어려워서 감히 하지 못하는 것이 아니라, 감히 하지 않기 때문에 어려운 것이다.');
+     '일이 어려워서 감히 하지 못하는 것이 아니라, 감히 하지 않기 때문에 어려운 것이다.'),
+    ('We suffer more often in imagination than in reality.', 'ko',
+     '우리는 현실보다 상상 속에서 더 자주 고통받는다.');
