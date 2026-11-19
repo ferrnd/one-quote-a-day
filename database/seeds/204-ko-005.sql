@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the power to let go of the familiar.', 'ko',
      '용기는 익숙한 것을 놓아 보내는 힘이다.'),
     ('I have not failed. I''ve just found 10,000 ways that won''t work.', 'ko',
-     '나는 실패하지 않았다. 효과가 없는 방법 1만 가지를 찾았을 뿐이다.');
+     '나는 실패하지 않았다. 효과가 없는 방법 1만 가지를 찾았을 뿐이다.'),
+    ('Failure is simply the opportunity to begin again, this time more intelligently.', 'ko',
+     '실패는 이번에는 더 현명하게 다시 시작할 수 있는 기회일 뿐이다.');
