@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The human spirit is stronger than anything that can happen to it.', 'zh-CN',
      '人的精神比任何可能发生在它身上的事都要强大。'),
     ('Life is not about how fast you run or how high you climb, but how well you bounce.', 'zh-CN',
-     '生活不在于你跑得多快、爬得多高，而在于你反弹得多好。');
+     '生活不在于你跑得多快、爬得多高，而在于你反弹得多好。'),
+    ('No mud, no lotus.', 'zh-CN',
+     '没有淤泥，就没有莲花。');
