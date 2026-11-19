@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have not failed. I''ve just found 10,000 ways that won''t work.', 'zh-CN',
      '我没有失败，我只是发现了一万种行不通的方法。'),
     ('Failure is simply the opportunity to begin again, this time more intelligently.', 'zh-CN',
-     '失败只是一个重新开始的机会，而这一次会更加明智。');
+     '失败只是一个重新开始的机会，而这一次会更加明智。'),
+    ('Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.', 'zh-CN',
+     '试过，失败过。没关系。再试一次，再失败一次，失败得更好一些。');
