@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do something wonderful, people may imitate it.', 'zh-CN',
      '做一件美好的事，人们也许会效仿。'),
     ('The time is always right to do what is right.', 'zh-CN',
-     '做正确的事，任何时候都是正确的时机。');
+     '做正确的事，任何时候都是正确的时机。'),
+    ('A goal properly set is halfway reached.', 'zh-CN',
+     '一个设定恰当的目标，已经实现了一半。');
