@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard work without talent is a shame, but talent without hard work is a tragedy.', 'ja',
      '才能のない努力は残念なことだが、努力のない才能は悲劇である。'),
     ('It ain''t over till it''s over.', 'ja',
-     '終わるまでは、終わりじゃない。');
+     '終わるまでは、終わりじゃない。'),
+    ('We will either find a way, or make one.', 'ja',
+     '道を見つけるか、さもなくば道をつくる。');
