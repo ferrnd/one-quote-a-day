@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Now is no time to think of what you do not have. Think of what you can do with what there is.', 'ko',
      '지금은 가지지 않은 것을 생각할 때가 아니다. 있는 것으로 무엇을 할 수 있을지 생각하라.'),
     ('The obstacle is the path.', 'ko',
-     '장애물이 곧 길이다.');
+     '장애물이 곧 길이다.'),
+    ('The journey of a thousand miles begins with one step.', 'ko',
+     '천 리 길도 한 걸음부터 시작된다.');
