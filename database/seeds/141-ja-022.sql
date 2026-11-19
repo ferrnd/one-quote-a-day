@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you don''t like something, change it. If you can''t change it, change your attitude.', 'ja',
      '気に入らないことがあれば変えなさい。変えられないなら、自分の態度を変えなさい。'),
     ('People often say that motivation doesn''t last. Well, neither does bathing. That''s why we recommend it daily.', 'ja',
-     'やる気は長続きしないとよく言われる。だが入浴だって長続きしない。だから毎日することを勧めるのだ。');
+     'やる気は長続きしないとよく言われる。だが入浴だって長続きしない。だから毎日することを勧めるのだ。'),
+    ('Your attitude, not your aptitude, will determine your altitude.', 'ja',
+     'あなたの高さを決めるのは、適性ではなく姿勢である。');
