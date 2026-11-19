@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'ko',
      '실수를 했을 때 해야 할 일은 딱 세 가지다. 인정하고, 배우고, 반복하지 않는 것.'),
     ('Failure is a detour, not a dead-end street.', 'ko',
-     '실패는 우회로일 뿐 막다른 길이 아니다.');
+     '실패는 우회로일 뿐 막다른 길이 아니다.'),
+    ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'ko',
+     '실패가 언제나 실수인 것은 아니다. 그 상황에서 할 수 있는 최선이었을 수도 있다. 진짜 실수는 시도를 멈추는 것이다.');
