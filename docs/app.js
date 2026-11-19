@@ -16,11 +16,11 @@
 import {
   dateKey, formatCountdown, isNight, localDateParts, msUntilNextLocalMidnight,
   msUntilNextThemeChange, parseDateKey,
-} from "./clock.js?v=4ef6c346cd90";
-import { formatDate, translateDocument, tr } from "./i18n.js?v=4ef6c346cd90";
-import "./blobs.js?v=4ef6c346cd90";
+} from "./clock.js?v=763885810630";
+import { formatDate, translateDocument, tr } from "./i18n.js?v=763885810630";
+import "./blobs.js?v=763885810630";
 
-const WASM_URL = new URL("quotes.wasm?v=2ac3d5e57c85", import.meta.url);
+const WASM_URL = new URL("quotes.wasm?v=cad39908b738", import.meta.url);
 const WATCHDOG_MS = 60_000;
 const FALLBACK = { text: "Fall seven times, stand up eight.", author: "Japanese Proverb" };
 
@@ -695,11 +695,27 @@ function wireSearch() {
 const CARD = 1080;
 
 /** @param {CanvasRenderingContext2D} ctx @param {string} text @param {number} max */
+/** Japanese and Chinese have no spaces between words: break on words the browser finds instead. */
+const NO_SPACES = /^(ja|zh)/;
+/** Closing punctuation that must never start a line (kinsoku). */
+const CLOSERS = /^[、。，．！？：；）」』】〉》”’…]+$/u;
+
+function tokens(text, lang) {
+  if (!NO_SPACES.test(lang) || typeof Intl.Segmenter !== "function") return { parts: text.split(/\s+/), glue: " " };
+  const parts = [];
+  for (const { segment } of new Intl.Segmenter(lang, { granularity: "word" }).segment(text)) {
+    if (parts.length && CLOSERS.test(segment)) parts[parts.length - 1] += segment;
+    else parts.push(segment);
+  }
+  return { parts, glue: "" };
+}
+
 function wrap(ctx, text, max) {
   const lines = [];
   let line = "";
-  for (const word of text.split(/\s+/)) {
-    const next = line ? `${line} ${word}` : word;
+  const { parts, glue } = tokens(text, state.lang);
+  for (const word of parts) {
+    const next = line ? `${line}${glue}${word}` : word;
     if (line && ctx.measureText(next).width > max) {
       lines.push(line);
       line = word;
@@ -716,7 +732,9 @@ async function renderCard() {
   const css = getComputedStyle(document.documentElement);
   const ink = css.getPropertyValue("--ink").trim() || "#000";
   const paper = css.getPropertyValue("--paper").trim() || "#fff";
-  const family = '"Cormorant Garamond", Garamond, serif';
+  const family = '"Cormorant Garamond", "Noto Serif JP", "Noto Serif SC", "Noto Serif KR", Garamond, serif';
+  // CJK scripts have no italic; a slanted fallback looks broken, so they stay upright
+  const slant = NO_SPACES.test(state.lang) || state.lang.startsWith("ko") ? "normal" : "italic";
   await Promise.all([
     document.fonts.load(`italic 400 64px ${family}`),
     document.fonts.load(`500 26px ${family}`),
@@ -740,7 +758,7 @@ async function renderCard() {
   let size = 78;
   let lines;
   do {
-    ctx.font = `italic 400 ${size}px ${family}`;
+    ctx.font = `${slant} 400 ${size}px ${family}`;
     lines = wrap(ctx, text, max);
     size -= 2;
   } while (lines.length * size * 1.22 > CARD * 0.52 && size > 34);
