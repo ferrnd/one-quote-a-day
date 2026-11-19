@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t climb the ladder of success with your hands in your pockets.', 'ja',
      'ポケットに手を入れたままでは、成功のはしごは登れない。'),
     ('Today''s accomplishments were yesterday''s impossibilities.', 'ja',
-     '今日の成果は、昨日の不可能だった。');
+     '今日の成果は、昨日の不可能だった。'),
+    ('Nothing is particularly hard if you divide it into small jobs.', 'ja',
+     '小さな仕事に分ければ、特別に難しいことなど何もない。');
