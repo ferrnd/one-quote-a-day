@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing in this world can take the place of persistence.', 'ko',
      '이 세상 어떤 것도 끈기를 대신할 수 없다.'),
     ('Victory belongs to the most persevering.', 'ko',
-     '승리는 가장 끈질긴 자의 것이다.');
+     '승리는 가장 끈질긴 자의 것이다.'),
+    ('With ordinary talent and extraordinary perseverance, all things are attainable.', 'ko',
+     '평범한 재능과 비범한 끈기가 있다면 무엇이든 이룰 수 있다.');
