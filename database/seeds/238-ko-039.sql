@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In dreams begins responsibility.', 'ko',
      '꿈에서 책임이 시작된다.'),
     ('Tread softly because you tread on my dreams.', 'ko',
-     '사뿐히 밟아 주오. 그대가 밟는 것은 나의 꿈이니.');
+     '사뿐히 밟아 주오. 그대가 밟는 것은 나의 꿈이니.'),
+    ('All that we see or seem is but a dream within a dream.', 'ko',
+     '우리가 보는 것, 우리가 그렇게 보이는 것은 모두 꿈속의 꿈일 뿐이다.');
