@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of difficulties grow miracles.', 'zh-CN',
      '奇迹从困难中生长。'),
     ('The gem cannot be polished without friction, nor man perfected without trials.', 'zh-CN',
-     '玉不琢，不成器；人不经磨难，不成材。');
+     '玉不琢，不成器；人不经磨难，不成材。'),
+    ('Smooth seas do not make skillful sailors.', 'zh-CN',
+     '平静的海面造就不了熟练的水手。');
