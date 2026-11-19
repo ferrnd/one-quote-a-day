@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure should be our teacher, not our undertaker.', 'ja',
      '失敗は私たちの教師であるべきで、葬儀屋であってはならない。'),
     ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'ja',
-     '夢の実現を不可能にするものはただ一つ、失敗への恐れである。');
+     '夢の実現を不可能にするものはただ一つ、失敗への恐れである。'),
+    ('Failure is not the opposite of success; it''s part of success.', 'ja',
+     '失敗は成功の反対ではない。成功の一部である。');
