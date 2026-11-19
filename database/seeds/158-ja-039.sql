@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('They can conquer who believe they can.', 'ja',
      'できると信じる者は、勝つことができる。'),
     ('There are no limits. There are plateaus, but you must not stay there, you must go beyond them.', 'ja',
-     '限界などない。停滞期はある。だがそこにとどまってはならない。それを越えて行かなければならない。');
+     '限界などない。停滞期はある。だがそこにとどまってはならない。それを越えて行かなければならない。'),
+    ('A goal is not always meant to be reached, it often serves simply as something to aim at.', 'ja',
+     '目標は必ずしも達成されるためにあるのではない。それはしばしば、ただ狙いを定めるための的になる。');
