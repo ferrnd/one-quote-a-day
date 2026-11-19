@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Follow your bliss and the universe will open doors where there were only walls.', 'ko',
      '당신의 기쁨을 따르라. 그러면 우주는 벽만 있던 곳에 문을 열어 줄 것이다.'),
     ('Without leaps of imagination or dreaming, we lose the excitement of possibilities.', 'ko',
-     '상상의 도약이나 꿈이 없다면 우리는 가능성이 주는 설렘을 잃는다.');
+     '상상의 도약이나 꿈이 없다면 우리는 가능성이 주는 설렘을 잃는다.'),
+    ('Dreaming, after all, is a form of planning.', 'ko',
+     '결국 꿈꾸는 것은 계획의 한 형태다.');
