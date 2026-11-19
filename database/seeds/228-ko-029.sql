@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dreaming, after all, is a form of planning.', 'ko',
      '결국 꿈꾸는 것은 계획의 한 형태다.'),
     ('You''re off to great places! Today is your day! Your mountain is waiting, so get on your way!', 'ko',
-     '넌 멋진 곳으로 떠나는 거야! 오늘은 너의 날이야! 너의 산이 기다리고 있으니, 어서 길을 나서렴!');
+     '넌 멋진 곳으로 떠나는 거야! 오늘은 너의 날이야! 너의 산이 기다리고 있으니, 어서 길을 나서렴!'),
+    ('You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.', 'ko',
+     '네 머릿속에는 두뇌가 있고, 네 신발 속에는 발이 있어. 너는 네가 고르는 어느 방향으로든 나아갈 수 있어.');
