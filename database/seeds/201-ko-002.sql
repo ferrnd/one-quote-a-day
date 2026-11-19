@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A champion is someone who gets up when he can''t.', 'ko',
      '챔피언이란 일어설 수 없을 때 일어서는 사람이다.'),
     ('Never give in. Never, never, never, never.', 'ko',
-     '절대 굴복하지 마라. 절대, 절대, 절대, 절대로.');
+     '절대 굴복하지 마라. 절대, 절대, 절대, 절대로.'),
+    ('Success seems to be connected with action. Successful people keep moving.', 'ko',
+     '성공은 행동과 이어져 있는 듯하다. 성공하는 사람은 계속 움직인다.');
