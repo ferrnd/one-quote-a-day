@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only those who dare to fail greatly can ever achieve greatly.', 'zh-CN',
      '只有敢于经历巨大失败的人，才能取得巨大的成就。'),
     ('Failure is the condiment that gives success its flavor.', 'zh-CN',
-     '失败是让成功更有滋味的调料。');
+     '失败是让成功更有滋味的调料。'),
+    ('It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.', 'zh-CN',
+     '活着就不可能不在某件事上失败，除非你活得如此小心翼翼，以至于跟没活过一样。');
