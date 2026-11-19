@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Too many of us are not living our dreams because we are living our fears.', 'zh-CN',
      '太多人没有活出自己的梦想，因为他们活在自己的恐惧里。'),
     ('Shoot for the moon. Even if you miss, you''ll land among the stars.', 'zh-CN',
-     '瞄准月亮。即使错过，你也会落在群星之间。');
+     '瞄准月亮。即使错过，你也会落在群星之间。'),
+    ('It''s not what you look at that matters, it''s what you see.', 'zh-CN',
+     '重要的不是你在看什么，而是你看见了什么。');
