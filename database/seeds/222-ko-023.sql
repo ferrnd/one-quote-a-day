@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you think you are beaten, you are.', 'ko',
      '졌다고 생각하면, 당신은 진 것이다.'),
     ('Sooner or later the man who wins is the man who thinks he can.', 'ko',
-     '머지않아 이기는 사람은 할 수 있다고 생각하는 사람이다.');
+     '머지않아 이기는 사람은 할 수 있다고 생각하는 사람이다.'),
+    ('We become what we think about.', 'ko',
+     '우리는 우리가 생각하는 대로 된다.');
