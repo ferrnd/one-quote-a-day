@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A woman is like a tea bag; you can''t tell how strong she is until you put her in hot water.', 'ko',
      '여자는 티백과 같다. 뜨거운 물에 넣어 보기 전에는 얼마나 진한지 알 수 없다.'),
     ('Strength is the product of struggle. You must do what others don''t to achieve what others won''t.', 'ko',
-     '힘은 투쟁의 산물이다. 남들이 이루지 못할 것을 이루려면 남들이 하지 않는 일을 해야 한다.');
+     '힘은 투쟁의 산물이다. 남들이 이루지 못할 것을 이루려면 남들이 하지 않는 일을 해야 한다.'),
+    ('The strongest of all warriors are these two: time and patience.', 'ko',
+     '모든 전사 중에서 가장 강한 것은 이 둘, 시간과 인내다.');
