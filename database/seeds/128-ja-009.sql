@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a waking dream.', 'ja',
      '希望とは、目覚めている夢である。'),
     ('While there''s life, there''s hope.', 'ja',
-     '命あるかぎり、希望はある。');
+     '命あるかぎり、希望はある。'),
+    ('There is some good in this world, and it''s worth fighting for.', 'ja',
+     'この世界にはまだ善いものがある。それは戦って守る価値がある。');
