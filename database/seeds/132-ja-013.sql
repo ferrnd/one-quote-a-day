@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Self-discipline is the magic power that makes you virtually unstoppable.', 'ja',
      '自己規律は、あなたをほとんど止められない存在にする魔法の力だ。'),
     ('The price of excellence is discipline. The cost of mediocrity is disappointment.', 'ja',
-     '卓越の代償は規律であり、凡庸の代償は失望である。');
+     '卓越の代償は規律であり、凡庸の代償は失望である。'),
+    ('Hard work beats talent when talent doesn''t work hard.', 'ja',
+     '才能ある者が努力しないとき、努力は才能に勝る。');
