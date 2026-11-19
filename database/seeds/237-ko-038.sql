@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.', 'ko',
      '마음은 그 자체로 하나의 세계여서, 그 안에서 지옥을 천국으로, 천국을 지옥으로 만들 수 있다.'),
     ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'ko',
-     '자신의 생각이 얼마나 강력한지 깨닫는다면, 결코 부정적인 생각을 하지 않을 것이다.');
+     '자신의 생각이 얼마나 강력한지 깨닫는다면, 결코 부정적인 생각을 하지 않을 것이다.'),
+    ('I am the greatest. I said that even before I knew I was.', 'ko',
+     '나는 최고다. 그것이 사실이라는 걸 알기도 전부터 나는 그렇게 말했다.');
