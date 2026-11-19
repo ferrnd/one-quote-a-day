@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('These pains you feel are messengers. Listen to them.', 'ja',
      'あなたが感じているその痛みは、使者である。その声に耳を傾けよ。'),
     ('Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.', 'ja',
-     '自由こそ、人生で唯一価値ある目標である。それは、自分の力の及ばないことを気にかけないことによって得られる。');
+     '自由こそ、人生で唯一価値ある目標である。それは、自分の力の及ばないことを気にかけないことによって得られる。'),
+    ('Don''t explain your philosophy. Embody it.', 'ja',
+     '自分の哲学を説明するな。それを体現せよ。');
