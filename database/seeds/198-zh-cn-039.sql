@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Champions aren''t made in the gyms. Champions are made from something they have deep inside them: a desire, a dream, a vision.', 'zh-CN',
      '冠军不是在健身房里造就的。冠军来自他们内心深处的东西：一种渴望、一个梦想、一个愿景。'),
     ('The road to success is always under construction.', 'zh-CN',
-     '通往成功的路永远在施工中。');
+     '通往成功的路永远在施工中。'),
+    ('Ambition is enthusiasm with a purpose.', 'zh-CN',
+     '雄心是有目标的热情。');
