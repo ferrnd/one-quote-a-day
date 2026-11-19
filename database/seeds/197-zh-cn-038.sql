@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the calm acceptance that things can happen in a different order than the one you have in mind.', 'zh-CN',
      '耐心就是平静地接受，事情可能会以不同于你所设想的顺序发生。'),
     ('Patience and fortitude conquer all things.', 'zh-CN',
-     '耐心和坚毅能征服一切。');
+     '耐心和坚毅能征服一切。'),
+    ('Have patience. All things are difficult before they become easy.', 'zh-CN',
+     '要有耐心。一切事情在变得容易之前，都是困难的。');
