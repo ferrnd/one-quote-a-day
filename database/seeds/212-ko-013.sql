@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We are what we repeatedly do. Excellence, then, is not an act, but a habit.', 'ko',
      '우리는 우리가 반복하는 행동의 결과다. 그러므로 탁월함은 행위가 아니라 습관이다.'),
     ('Discipline is the bridge between goals and accomplishment.', 'ko',
-     '자기 훈련은 목표와 성취를 잇는 다리다.');
+     '자기 훈련은 목표와 성취를 잇는 다리다.'),
+    ('We must all suffer one of two things: the pain of discipline or the pain of regret.', 'ko',
+     '우리는 모두 두 가지 고통 중 하나를 겪어야 한다. 훈련의 고통 아니면 후회의 고통.');
