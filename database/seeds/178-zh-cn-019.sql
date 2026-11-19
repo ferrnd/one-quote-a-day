@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Now is no time to think of what you do not have. Think of what you can do with what there is.', 'zh-CN',
      '现在不是想你没有什么的时候，想想你能用现有的东西做些什么。'),
     ('The obstacle is the path.', 'zh-CN',
-     '障碍就是道路。');
+     '障碍就是道路。'),
+    ('The journey of a thousand miles begins with one step.', 'zh-CN',
+     '千里之行，始于足下。');
