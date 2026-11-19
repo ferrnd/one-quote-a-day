@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If not now, when?', 'zh-CN',
      '此时不做，更待何时？'),
     ('To begin, begin.', 'zh-CN',
-     '要开始，就开始吧。');
+     '要开始，就开始吧。'),
+    ('Pursue what catches your heart, not what catches your eyes.', 'zh-CN',
+     '追求打动你内心的东西，而不是吸引你眼球的东西。');
