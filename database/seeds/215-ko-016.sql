@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What we fear doing most is usually what we most need to do.', 'ko',
      '우리가 가장 하기 두려워하는 일이 대개 우리가 가장 해야 하는 일이다.'),
     ('A comfort zone is a beautiful place, but nothing ever grows there.', 'ko',
-     '안전지대는 아름다운 곳이지만, 그곳에서는 아무것도 자라지 않는다.');
+     '안전지대는 아름다운 곳이지만, 그곳에서는 아무것도 자라지 않는다.'),
+    ('I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail.', 'ko',
+     '나는 길이 이끄는 곳으로 가지 않겠다. 길이 없는 곳으로 가서 발자취를 남기겠다.');
