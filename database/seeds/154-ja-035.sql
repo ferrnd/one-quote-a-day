@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not go gentle into that good night. Rage, rage against the dying of the light.', 'ja',
      '穏やかにあの良き夜へと身を委ねるな。怒れ、怒れ、消えゆく光に抗って。'),
     ('Strength doesn''t come from what you can do. It comes from overcoming the things you once thought you couldn''t.', 'ja',
-     '強さは、自分にできることから生まれるのではない。かつてはできないと思っていたことを乗り越えることから生まれるのだ。');
+     '強さは、自分にできることから生まれるのではない。かつてはできないと思っていたことを乗り越えることから生まれるのだ。'),
+    ('Excellence is not a skill. It is an attitude.', 'ja',
+     '卓越は技術ではない。姿勢である。');
