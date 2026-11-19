@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Believe you can and you''re halfway there.', 'ja',
      'できると信じれば、もう半分は達成したようなものだ。'),
     ('Our life is what our thoughts make it.', 'ja',
-     '私たちの人生は、私たちの思考がつくるものである。');
+     '私たちの人生は、私たちの思考がつくるものである。'),
+    ('The happiness of your life depends upon the quality of your thoughts.', 'ja',
+     '人生の幸福は、思考の質にかかっている。');
