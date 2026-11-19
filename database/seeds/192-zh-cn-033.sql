@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We learn from failure, not from success!', 'zh-CN',
      '我们从失败中学习，而不是从成功中学习！'),
     ('You can''t be afraid to fail. It''s the only way you succeed.', 'zh-CN',
-     '你不能害怕失败，那是你成功的唯一途径。');
+     '你不能害怕失败，那是你成功的唯一途径。'),
+    ('A man is not finished when he is defeated. He is finished when he quits.', 'zh-CN',
+     '一个人被打败时并没有完蛋，放弃时才算完蛋。');
