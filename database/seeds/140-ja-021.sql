@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is in your moments of decision that your destiny is shaped.', 'ja',
      '運命が形づくられるのは、決断の瞬間である。'),
     ('Setting goals is the first step in turning the invisible into the visible.', 'ja',
-     '目標を立てることは、見えないものを見えるものに変える第一歩だ。');
+     '目標を立てることは、見えないものを見えるものに変える第一歩だ。'),
+    ('Opportunities don''t happen. You create them.', 'ja',
+     'チャンスは起こるものではない。自分でつくり出すものだ。');
