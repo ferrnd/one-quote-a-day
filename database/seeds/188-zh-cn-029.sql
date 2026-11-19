@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('People with goals succeed because they know where they''re going.', 'zh-CN',
      '有目标的人之所以成功，是因为他们知道自己要去哪里。'),
     ('What you seek is seeking you.', 'zh-CN',
-     '你所寻找的，也在寻找你。');
+     '你所寻找的，也在寻找你。'),
+    ('Don''t grieve. Anything you lose comes round in another form.', 'zh-CN',
+     '不要悲伤。你失去的任何东西，都会以另一种形式回来。');
