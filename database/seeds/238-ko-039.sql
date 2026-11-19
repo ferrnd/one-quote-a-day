@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ambition is enthusiasm with a purpose.', 'ko',
      '야망이란 목적을 가진 열정이다.'),
     ('Dreams are illustrations from the book your soul is writing about you.', 'ko',
-     '꿈은 당신의 영혼이 당신에 대해 쓰고 있는 책의 삽화다.');
+     '꿈은 당신의 영혼이 당신에 대해 쓰고 있는 책의 삽화다.'),
+    ('Dream no small dreams for they have no power to move the hearts of men.', 'ko',
+     '작은 꿈은 꾸지 마라. 작은 꿈에는 사람의 마음을 움직일 힘이 없으니.');
