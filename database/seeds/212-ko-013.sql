@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The price of excellence is discipline. The cost of mediocrity is disappointment.', 'ko',
      '탁월함의 대가는 훈련이고, 평범함의 대가는 실망이다.'),
     ('Hard work beats talent when talent doesn''t work hard.', 'ko',
-     '재능이 노력하지 않을 때, 노력은 재능을 이긴다.');
+     '재능이 노력하지 않을 때, 노력은 재능을 이긴다.'),
+    ('Small disciplines repeated with consistency every day lead to great achievements gained slowly over time.', 'ko',
+     '매일 꾸준히 반복하는 작은 훈련이 시간이 흐르며 천천히 위대한 성취로 이어진다.');
