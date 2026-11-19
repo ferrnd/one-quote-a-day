@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Good people are good because they''ve come to wisdom through failure.', 'zh-CN',
      '好人之所以好，是因为他们经由失败获得了智慧。'),
     ('The greatest mistake you can make in life is to be continually fearing you will make one.', 'zh-CN',
-     '人生中你可能犯的最大错误，就是不断担心自己会犯错。');
+     '人生中你可能犯的最大错误，就是不断担心自己会犯错。'),
+    ('If you''re not prepared to be wrong, you''ll never come up with anything original.', 'zh-CN',
+     '如果你不准备犯错，你就永远无法创造出原创的东西。');
