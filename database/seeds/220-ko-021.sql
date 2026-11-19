@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.', 'ko',
      '우리는 이 10년 안에 달에 가기로, 그리고 다른 일들을 하기로 선택했다. 그것이 쉬워서가 아니라 어렵기 때문이다.'),
     ('Opportunities multiply as they are seized.', 'ko',
-     '기회는 붙잡을수록 늘어난다.');
+     '기회는 붙잡을수록 늘어난다.'),
+    ('You can''t wait for inspiration. You have to go after it with a club.', 'ko',
+     '영감을 기다릴 수는 없다. 몽둥이를 들고 쫓아가야 한다.');
