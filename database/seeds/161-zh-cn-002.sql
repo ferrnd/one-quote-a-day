@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The road to success is dotted with many tempting parking spaces.', 'zh-CN',
      '通往成功的路上，点缀着许多诱人的停车位。'),
     ('If you fell down yesterday, stand up today.', 'zh-CN',
-     '如果你昨天跌倒了，今天就站起来。');
+     '如果你昨天跌倒了，今天就站起来。'),
+    ('I will persist until I succeed.', 'zh-CN',
+     '我会坚持下去，直到成功。');
