@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you''re supposed to do when you don''t like a thing is change it.', 'zh-CN',
      '当你不喜欢一件事的时候，你应该做的就是改变它。'),
     ('Be brave. Take risks. Nothing can substitute experience.', 'zh-CN',
-     '勇敢一点，去冒险。没有什么能替代经验。');
+     '勇敢一点，去冒险。没有什么能替代经验。'),
+    ('He who is brave is free.', 'zh-CN',
+     '勇敢的人是自由的。');
