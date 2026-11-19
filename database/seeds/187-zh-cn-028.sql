@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Some people dream of success, while other people get up every morning and make it happen.', 'zh-CN',
      '有些人梦想成功，而另一些人每天早上起床让它成为现实。'),
     ('I have a dream.', 'zh-CN',
-     '我有一个梦想。');
+     '我有一个梦想。'),
+    ('What is now proved was once only imagined.', 'zh-CN',
+     '今天被证实的东西，曾经只是想象。');
