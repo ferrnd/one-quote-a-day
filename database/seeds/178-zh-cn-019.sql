@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The obstacle is the path.', 'zh-CN',
      '障碍就是道路。'),
     ('The journey of a thousand miles begins with one step.', 'zh-CN',
-     '千里之行，始于足下。');
+     '千里之行，始于足下。'),
+    ('Action is the foundational key to all success.', 'zh-CN',
+     '行动是一切成功的根本关键。');
