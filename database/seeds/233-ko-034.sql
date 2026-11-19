@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is always light, if only we''re brave enough to see it. If only we''re brave enough to be it.', 'ko',
      '빛은 언제나 있다. 우리가 그것을 볼 만큼 용감하기만 하다면. 우리가 그 빛이 될 만큼 용감하기만 하다면.'),
     ('Hope is a verb with its shirtsleeves rolled up.', 'ko',
-     '희망은 소매를 걷어붙인 동사다.');
+     '희망은 소매를 걷어붙인 동사다.'),
+    ('To hope is to give yourself to the future.', 'ko',
+     '희망한다는 것은 자신을 미래에 내어 주는 것이다.');
