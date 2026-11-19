@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''m going to use all my tools, my God-given ability, and make the best life I can with it.', 'ko',
      '나는 내가 가진 모든 도구, 신이 주신 능력을 다 써서 그것으로 최고의 삶을 만들 것이다.'),
     ('Champions aren''t made in the gyms. Champions are made from something they have deep inside them: a desire, a dream, a vision.', 'ko',
-     '챔피언은 체육관에서 만들어지지 않는다. 챔피언은 그들 내면 깊숙이 있는 것, 즉 열망과 꿈과 비전에서 만들어진다.');
+     '챔피언은 체육관에서 만들어지지 않는다. 챔피언은 그들 내면 깊숙이 있는 것, 즉 열망과 꿈과 비전에서 만들어진다.'),
+    ('The road to success is always under construction.', 'ko',
+     '성공으로 가는 길은 언제나 공사 중이다.');
