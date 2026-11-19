@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Lost time is never found again.', 'ja',
      '失われた時間は、二度と見つからない。'),
     ('Without hard work, nothing grows but weeds.', 'ja',
-     '努力がなければ、雑草のほかは何も育たない。');
+     '努力がなければ、雑草のほかは何も育たない。'),
+    ('Success isn''t always about greatness. It''s about consistency.', 'ja',
+     '成功とは、いつも偉大さのことではない。継続のことだ。');
