@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is necessary, and one cannot reap immediately where one has sown.', 'ko',
      '인내가 필요하다. 씨를 뿌린 곳에서 바로 거둘 수는 없다.'),
     ('Wisely and slow; they stumble that run fast.', 'ko',
-     '지혜롭게, 그리고 천천히. 빨리 달리는 자는 넘어진다.');
+     '지혜롭게, 그리고 천천히. 빨리 달리는 자는 넘어진다.'),
+    ('They also serve who only stand and wait.', 'ko',
+     '그저 서서 기다리는 자들도 섬기는 것이다.');
