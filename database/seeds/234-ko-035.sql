@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not let your fire go out, spark by irreplaceable spark.', 'ko',
      '대체할 수 없는 불꽃 하나하나를 잃어 가며 당신의 불이 꺼지게 하지 마라.'),
     ('We are all in the gutter, but some of us are looking at the stars.', 'ko',
-     '우리는 모두 시궁창에 있지만, 그중 몇몇은 별을 바라보고 있다.');
+     '우리는 모두 시궁창에 있지만, 그중 몇몇은 별을 바라보고 있다.'),
+    ('The darker the night, the brighter the stars, the deeper the grief, the closer is God!', 'ko',
+     '밤이 어두울수록 별은 더 밝고, 슬픔이 깊을수록 신은 더 가깝다!');
