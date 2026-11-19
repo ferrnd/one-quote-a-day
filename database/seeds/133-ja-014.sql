@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rest at the end, not in the middle.', 'ja',
      '休むのは最後だ。途中ではない。'),
     ('There are no shortcuts to any place worth going.', 'ja',
-     '行く価値のある場所に、近道はない。');
+     '行く価値のある場所に、近道はない。'),
+    ('The only place where success comes before work is in the dictionary.', 'ja',
+     '仕事より先に成功が来るのは、辞書の中だけだ。');
