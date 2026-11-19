@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only in the darkness can you see the stars.', 'ja',
      '暗闇の中でこそ、星は見える。'),
     ('Even the darkest night will end and the sun will rise.', 'ja',
-     'どんなに暗い夜もいつかは終わり、太陽は昇る。');
+     'どんなに暗い夜もいつかは終わり、太陽は昇る。'),
+    ('Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.', 'ja',
+     '楽観とは、達成へと導く信念である。希望と自信がなければ、何事も成し遂げられない。');
