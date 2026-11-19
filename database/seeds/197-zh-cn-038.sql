@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Optimism is essential to achievement and it is also the foundation of courage and true progress.', 'zh-CN',
      '乐观是成就的必需品，也是勇气和真正进步的基础。'),
     ('You are what you believe yourself to be.', 'zh-CN',
-     '你相信自己是什么样的人，你就是什么样的人。');
+     '你相信自己是什么样的人，你就是什么样的人。'),
+    ('Believe and act as if it were impossible to fail.', 'zh-CN',
+     '相信并且行动，就好像不可能失败一样。');
