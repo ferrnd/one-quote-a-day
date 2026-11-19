@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'zh-CN',
      '重要的不是你打得多狠，而是你能承受多狠的打击并继续前进。'),
     ('A good half of the art of living is resilience.', 'zh-CN',
-     '生活的艺术，有一大半在于韧性。');
+     '生活的艺术，有一大半在于韧性。'),
+    ('Nothing is impossible. The word itself says ''I''m possible''!', 'zh-CN',
+     '没有什么是不可能的。Impossible（不可能）这个词本身就在说“I''m possible（我能行）”！');
