@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When we give ourselves permission to fail, we, at the same time, give ourselves permission to excel.', 'ja',
      '失敗することを自分に許したとき、同時に、秀でることも自分に許しているのだ。'),
     ('The only real mistake is the one from which we learn nothing.', 'ja',
-     '本当の間違いとは、そこから何も学ばなかった間違いだけだ。');
+     '本当の間違いとは、そこから何も学ばなかった間違いだけだ。'),
+    ('Just because you fail once doesn''t mean you''re gonna fail at everything.', 'ja',
+     '一度失敗したからといって、すべてに失敗するわけじゃない。');
