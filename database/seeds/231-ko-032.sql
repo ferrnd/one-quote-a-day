@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fortune and love favor the brave.', 'ko',
      '행운과 사랑은 용감한 자의 편이다.'),
     ('Expose yourself to your deepest fear; after that, fear has no power.', 'ko',
-     '가장 깊은 두려움에 자신을 드러내라. 그러면 두려움은 더 이상 힘을 쓰지 못한다.');
+     '가장 깊은 두려움에 자신을 드러내라. 그러면 두려움은 더 이상 힘을 쓰지 못한다.'),
+    ('Courage is like love; it must have hope for nourishment.', 'ko',
+     '용기는 사랑과 같다. 희망이라는 양분이 있어야 한다.');
