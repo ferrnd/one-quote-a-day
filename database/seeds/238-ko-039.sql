@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All that we see or seem is but a dream within a dream.', 'ko',
      '우리가 보는 것, 우리가 그렇게 보이는 것은 모두 꿈속의 꿈일 뿐이다.'),
     ('Don''t give up on your dreams, or your dreams will give up on you.', 'ko',
-     '꿈을 포기하지 마라. 그렇지 않으면 꿈이 당신을 포기할 것이다.');
+     '꿈을 포기하지 마라. 그렇지 않으면 꿈이 당신을 포기할 것이다.'),
+    ('There is nothing like a dream to create the future.', 'ko',
+     '미래를 창조하는 데 꿈만 한 것은 없다.');
