@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing in life is to be feared, it is only to be understood.', 'ja',
      '人生において恐れるべきものは何もない。ただ理解すべきものがあるだけだ。'),
     ('Bravery is the capacity to perform properly even when scared half to death.', 'ja',
-     '勇敢さとは、死ぬほど怖いときでも、きちんとやるべきことをやれる力だ。');
+     '勇敢さとは、死ぬほど怖いときでも、きちんとやるべきことをやれる力だ。'),
+    ('With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble.', 'ja',
+     '勇気があれば、危険を冒すことも、思いやる強さを持つことも、謙虚である知恵を持つこともできる。');
