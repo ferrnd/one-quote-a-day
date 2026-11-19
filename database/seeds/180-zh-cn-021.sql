@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Doing the best at this moment puts you in the best place for the next moment.', 'zh-CN',
      '在这一刻做到最好，就能让你在下一刻处于最好的位置。'),
     ('The future starts today, not tomorrow.', 'zh-CN',
-     '未来从今天开始，而不是明天。');
+     '未来从今天开始，而不是明天。'),
+    ('Whether you think you can, or you think you can''t, you''re right.', 'zh-CN',
+     '无论你认为自己行还是不行，你都是对的。');
