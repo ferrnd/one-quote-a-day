@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We suffer more often in imagination than in reality.', 'ja',
      '私たちは現実よりも、想像の中で苦しむことのほうが多い。'),
     ('Mastering others is strength. Mastering yourself is true power.', 'ja',
-     '人に勝つ者は力がある。自分に勝つ者こそ真に強い。');
+     '人に勝つ者は力がある。自分に勝つ者こそ真に強い。'),
+    ('Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who conquers himself.', 'ja',
+     '戦場で百万の敵に勝つよりも、ただ一つの自己に勝つ者こそ、最上の勝利者である。');
