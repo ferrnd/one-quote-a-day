@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('First say to yourself what you would be; and then do what you have to do.', 'zh-CN',
      '先对自己说你想成为什么样的人，然后去做你必须做的事。'),
     ('Self-discipline is the magic power that makes you virtually unstoppable.', 'zh-CN',
-     '自律是一种神奇的力量，能让你几乎势不可挡。');
+     '自律是一种神奇的力量，能让你几乎势不可挡。'),
+    ('The price of excellence is discipline. The cost of mediocrity is disappointment.', 'zh-CN',
+     '卓越的代价是自律，平庸的代价是失望。');
