@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The more I want to get something done, the less I call it work.', 'ja',
      '何かを成し遂げたいと思えば思うほど、私はそれを仕事とは呼ばなくなる。'),
     ('The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.', 'ja',
-     '悲観主義者は風に文句を言い、楽観主義者は風向きが変わるのを期待し、現実主義者は帆を調整する。');
+     '悲観主義者は風に文句を言い、楽観主義者は風向きが変わるのを期待し、現実主義者は帆を調整する。'),
+    ('Optimism is essential to achievement and it is also the foundation of courage and true progress.', 'ja',
+     '楽観主義は達成に欠かせない。それは勇気と真の進歩の土台でもある。');
