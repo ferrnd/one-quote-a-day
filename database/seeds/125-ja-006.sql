@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Just because you fail once doesn''t mean you''re gonna fail at everything.', 'ja',
      '一度失敗したからといって、すべてに失敗するわけじゃない。'),
     ('I''d rather be a failure at something I love than a success at something I hate.', 'ja',
-     '嫌いなことで成功するより、好きなことで失敗するほうがいい。');
+     '嫌いなことで成功するより、好きなことで失敗するほうがいい。'),
+    ('There is no failure except in no longer trying.', 'ja',
+     '挑戦をやめること以外に、失敗はない。');
