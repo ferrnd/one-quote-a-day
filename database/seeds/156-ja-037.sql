@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity has ever been considered the state in which a man most easily becomes acquainted with himself.', 'ja',
      '逆境は常に、人が最もたやすく自分自身を知ることのできる状態だとされてきた。'),
     ('Bad times have a scientific value. These are occasions a good learner would not miss.', 'ja',
-     '悪い時期には科学的な価値がある。よく学ぶ者なら見逃さない機会なのだ。');
+     '悪い時期には科学的な価値がある。よく学ぶ者なら見逃さない機会なのだ。'),
+    ('Every wall is a door.', 'ja',
+     'すべての壁は扉である。');
