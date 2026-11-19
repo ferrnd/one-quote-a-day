@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not all those who wander are lost.', 'ja',
      'さまよう者がみな、道に迷っているわけではない。'),
     ('I took a deep breath and listened to the old brag of my heart: I am, I am, I am.', 'ja',
-     '私は深く息を吸い、昔から変わらない心臓の誇らしげな声に耳を澄ませた。私はいる、私はいる、私はいる。');
+     '私は深く息を吸い、昔から変わらない心臓の誇らしげな声に耳を澄ませた。私はいる、私はいる、私はいる。'),
+    ('Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.', 'ja',
+     '私たちの人生に現れる竜はみな、私たちがたった一度でも美しく勇敢にふるまうのを待っている王女なのかもしれない。');
