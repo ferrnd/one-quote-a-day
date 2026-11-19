@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Some people dream of success, while other people get up every morning and make it happen.', 'ko',
      '어떤 사람은 성공을 꿈꾸고, 어떤 사람은 매일 아침 일어나 그것을 이루어 낸다.'),
     ('I have a dream.', 'ko',
-     '나에게는 꿈이 있습니다.');
+     '나에게는 꿈이 있습니다.'),
+    ('What is now proved was once only imagined.', 'ko',
+     '지금 증명된 것도 한때는 상상에 불과했다.');
