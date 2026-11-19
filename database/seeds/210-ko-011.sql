@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We suffer more often in imagination than in reality.', 'ko',
      '우리는 현실보다 상상 속에서 더 자주 고통받는다.'),
     ('Mastering others is strength. Mastering yourself is true power.', 'ko',
-     '남을 이기는 자는 힘이 있고, 자신을 이기는 자는 진정 강하다.');
+     '남을 이기는 자는 힘이 있고, 자신을 이기는 자는 진정 강하다.'),
+    ('Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who conquers himself.', 'ko',
+     '전쟁터에서 백만 대군을 이기는 것보다 자기 자신을 이기는 자가 가장 고귀한 승리자다.');
