@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To improve is to change; to be perfect is to change often.', 'ko',
      '나아진다는 것은 변한다는 것이고, 완벽해진다는 것은 자주 변한다는 것이다.'),
     ('Growth begins when we begin to accept our own weakness.', 'ko',
-     '성장은 자신의 약함을 받아들이기 시작할 때 시작된다.');
+     '성장은 자신의 약함을 받아들이기 시작할 때 시작된다.'),
+    ('The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.', 'ko',
+     '우리 세대의 가장 위대한 발견은 인간이 태도를 바꿈으로써 삶을 바꿀 수 있다는 것이다.');
