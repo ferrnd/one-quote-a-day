@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A comfort zone is a beautiful place, but nothing ever grows there.', 'ja',
      '居心地のいい場所は美しい。だが、そこでは何も育たない。'),
     ('I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail.', 'ja',
-     '私は道が導くところへは行かない。道のないところへ行き、そこに足跡を残すのだ。');
+     '私は道が導くところへは行かない。道のないところへ行き、そこに足跡を残すのだ。'),
+    ('Becoming is better than being.', 'ja',
+     '完成していることより、成長していくことのほうがいい。');
