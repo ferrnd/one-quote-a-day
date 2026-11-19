@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is fear holding on a minute longer.', 'zh-CN',
      '勇气就是恐惧再多坚持一分钟。'),
     ('Failure is not falling down but refusing to get up.', 'zh-CN',
-     '失败不是跌倒，而是拒绝站起来。');
+     '失败不是跌倒，而是拒绝站起来。'),
+    ('The successful man will profit from his mistakes and try again in a different way.', 'zh-CN',
+     '成功的人会从错误中获益，并以不同的方式再试一次。');
