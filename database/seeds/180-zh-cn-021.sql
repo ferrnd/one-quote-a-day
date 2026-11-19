@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Believe you can and you''re halfway there.', 'zh-CN',
      '相信你能做到，你就已经成功了一半。'),
     ('Our life is what our thoughts make it.', 'zh-CN',
-     '我们的生活是由我们的思想塑造的。');
+     '我们的生活是由我们的思想塑造的。'),
+    ('The happiness of your life depends upon the quality of your thoughts.', 'zh-CN',
+     '你一生的幸福取决于你思想的质量。');
