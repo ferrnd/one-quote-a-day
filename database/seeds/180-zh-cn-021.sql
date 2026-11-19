@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Setting goals is the first step in turning the invisible into the visible.', 'zh-CN',
      '设定目标，是把看不见的东西变成看得见的第一步。'),
     ('Opportunities don''t happen. You create them.', 'zh-CN',
-     '机会不会自己出现，是你创造了机会。');
+     '机会不会自己出现，是你创造了机会。'),
+    ('Doubt kills more dreams than failure ever will.', 'zh-CN',
+     '怀疑扼杀的梦想，比失败扼杀的还要多。');
