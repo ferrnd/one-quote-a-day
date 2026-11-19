@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not all those who wander are lost.', 'ko',
      '방황하는 이가 모두 길을 잃은 것은 아니다.'),
     ('I took a deep breath and listened to the old brag of my heart: I am, I am, I am.', 'ko',
-     '나는 숨을 깊이 들이쉬고, 내 심장이 늘 해 오던 자랑에 귀를 기울였다. 나는 있다, 나는 있다, 나는 있다.');
+     '나는 숨을 깊이 들이쉬고, 내 심장이 늘 해 오던 자랑에 귀를 기울였다. 나는 있다, 나는 있다, 나는 있다.'),
+    ('Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.', 'ko',
+     '어쩌면 우리 삶의 모든 용은, 우리가 단 한 번이라도 아름답고 용감하게 행동하는 모습을 보기만 기다리는 공주일지도 모른다.');
