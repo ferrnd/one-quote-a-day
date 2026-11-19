@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Look up at the stars and not down at your feet.', 'ja',
      '足もとではなく、星を見上げなさい。'),
     ('However difficult life may seem, there is always something you can do and succeed at.', 'ja',
-     '人生がどんなに困難に思えても、できること、そして成功できることは必ずある。');
+     '人生がどんなに困難に思えても、できること、そして成功できることは必ずある。'),
+    ('I have no special talents. I am only passionately curious.', 'ja',
+     '私には特別な才能などない。ただ、熱烈な好奇心があるだけだ。');
