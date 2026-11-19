@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have stood on a mountain of no''s for one yes.', 'ko',
      '단 한 번의 ''예''를 위해 나는 산더미 같은 ''아니요'' 위에 서 있었다.'),
     ('I had to make my own living and my own opportunity. But I made it!', 'ko',
-     '나는 스스로 생계를 꾸리고 스스로 기회를 만들어야 했다. 하지만 나는 해냈다!');
+     '나는 스스로 생계를 꾸리고 스스로 기회를 만들어야 했다. 하지만 나는 해냈다!'),
+    ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'ko',
+     '내가 그 자리에 오른 것은 바라거나 소망해서가 아니라, 그것을 위해 일했기 때문이다.');
