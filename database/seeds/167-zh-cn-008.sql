@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything can be taken from a man but one thing: the last of the human freedoms, to choose one''s attitude in any given set of circumstances.', 'zh-CN',
      '人的一切都可以被夺走，唯独一样不能：那就是人类最后的自由，在任何境遇中选择自己态度的自由。'),
     ('The bamboo that bends is stronger than the oak that resists.', 'zh-CN',
-     '会弯曲的竹子，比抗拒的橡树更强韧。');
+     '会弯曲的竹子，比抗拒的橡树更强韧。'),
+    ('Hardships often prepare ordinary people for an extraordinary destiny.', 'zh-CN',
+     '苦难常常让平凡的人为非凡的命运做好准备。');
