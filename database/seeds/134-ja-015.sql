@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only way to make sense out of change is to plunge into it, move with it, and join the dance.', 'ja',
      '変化を理解する唯一の方法は、その中に飛び込み、共に動き、踊りの輪に加わることだ。'),
     ('Life is like riding a bicycle. To keep your balance you must keep moving.', 'ja',
-     '人生は自転車に乗るようなものだ。バランスを保つには、走り続けなければならない。');
+     '人生は自転車に乗るようなものだ。バランスを保つには、走り続けなければならない。'),
+    ('They always say time changes things, but you actually have to change them yourself.', 'ja',
+     '時間が物事を変えるとよく言うけれど、実際には自分で変えなければならない。');
