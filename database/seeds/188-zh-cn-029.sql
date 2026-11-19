@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I took a deep breath and listened to the old brag of my heart: I am, I am, I am.', 'zh-CN',
      '我深吸一口气，倾听我的心那古老的自夸：我在，我在，我在。'),
     ('Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.', 'zh-CN',
-     '也许我们生命中所有的恶龙，都是公主，她们只是在等待看到我们哪怕一次，美丽而勇敢地行动。');
+     '也许我们生命中所有的恶龙，都是公主，她们只是在等待看到我们哪怕一次，美丽而勇敢地行动。'),
+    ('What would you attempt to do if you knew you would not fail?', 'zh-CN',
+     '如果你知道自己不会失败，你会尝试做什么？');
