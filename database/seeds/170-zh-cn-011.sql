@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Mastering others is strength. Mastering yourself is true power.', 'zh-CN',
      '胜人者有力，自胜者强。'),
     ('Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who conquers himself.', 'zh-CN',
-     '在战场上战胜千千万万人，不如战胜自己，战胜自己才是最高贵的胜利者。');
+     '在战场上战胜千千万万人，不如战胜自己，战胜自己才是最高贵的胜利者。'),
+    ('Strength lies in differences, not in similarities.', 'zh-CN',
+     '力量在于差异，而不在于相同。');
