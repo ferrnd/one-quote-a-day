@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without hard work, nothing grows but weeds.', 'ja',
      '努力がなければ、雑草のほかは何も育たない。'),
     ('Success isn''t always about greatness. It''s about consistency.', 'ja',
-     '成功とは、いつも偉大さのことではない。継続のことだ。');
+     '成功とは、いつも偉大さのことではない。継続のことだ。'),
+    ('Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.', 'ja',
+     '成功は偶然ではない。努力、忍耐、学び、研究、犠牲、そして何よりも、自分のしていることへの愛だ。');
