@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no greater agony than bearing an untold story inside you.', 'zh-CN',
      '没有什么痛苦比心中藏着一个未曾讲述的故事更大。'),
     ('We realize the importance of our voices only when we are silenced.', 'zh-CN',
-     '只有当我们被迫沉默时，我们才意识到自己声音的重要性。');
+     '只有当我们被迫沉默时，我们才意识到自己声音的重要性。'),
+    ('Success is not how high you have climbed, but how you make a positive difference to the world.', 'zh-CN',
+     '成功不在于你爬得多高，而在于你如何为世界带来积极的改变。');
