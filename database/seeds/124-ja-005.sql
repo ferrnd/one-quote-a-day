@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is not simply one of the virtues, but the form of every virtue at the testing point.', 'ja',
      '勇気は単なる美徳の一つではない。試練のときに現れる、あらゆる美徳の姿である。'),
     ('Courage, dear heart.', 'ja',
-     '勇気を出して、愛しい人よ。');
+     '勇気を出して、愛しい人よ。'),
+    ('Courage is the power to let go of the familiar.', 'ja',
+     '勇気とは、慣れ親しんだものを手放す力である。');
