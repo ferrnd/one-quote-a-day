@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only real voyage of discovery consists not in seeking new landscapes, but in having new eyes.', 'ja',
      '本当の発見の旅とは、新しい景色を探すことではなく、新しい目を持つことにある。'),
     ('Not until we are lost do we begin to understand ourselves.', 'ja',
-     '道に迷って初めて、私たちは自分自身を理解し始める。');
+     '道に迷って初めて、私たちは自分自身を理解し始める。'),
+    ('Things do not change; we change.', 'ja',
+     '物事は変わらない。私たちが変わるのだ。');
