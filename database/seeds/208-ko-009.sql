@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The darkest hour has only sixty minutes.', 'ko',
      '가장 어두운 시간도 60분뿐이다.'),
     ('Never lose hope. Storms make people stronger and never last forever.', 'ko',
-     '희망을 잃지 마라. 폭풍은 사람을 더 강하게 만들고, 영원히 계속되지 않는다.');
+     '희망을 잃지 마라. 폭풍은 사람을 더 강하게 만들고, 영원히 계속되지 않는다.'),
+    ('Hope smiles from the threshold of the year to come, whispering ''it will be happier''.', 'ko',
+     '희망은 다가오는 해의 문턱에서 미소 지으며 "더 행복해질 거야"라고 속삭인다.');
