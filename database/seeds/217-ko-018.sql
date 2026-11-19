@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life isn''t about waiting for the storm to pass. It''s about learning to dance in the rain.', 'ko',
      '인생은 폭풍이 지나가기를 기다리는 것이 아니라, 빗속에서 춤추는 법을 배우는 것이다.'),
     ('Adversity reveals genius, prosperity conceals it.', 'ko',
-     '역경은 재능을 드러내고, 번영은 그것을 감춘다.');
+     '역경은 재능을 드러내고, 번영은 그것을 감춘다.'),
+    ('When the going gets tough, the tough get going.', 'ko',
+     '상황이 힘들어지면 강한 사람이 나선다.');
