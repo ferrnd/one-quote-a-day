@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t judge each day by the harvest you reap but by the seeds that you plant.', 'ja',
      '一日一日を、刈り取った収穫で判断するのではなく、蒔いた種で判断しなさい。'),
     ('Do something wonderful, people may imitate it.', 'ja',
-     '何かすばらしいことをしなさい。人々はそれをまねするかもしれない。');
+     '何かすばらしいことをしなさい。人々はそれをまねするかもしれない。'),
+    ('The time is always right to do what is right.', 'ja',
+     '正しいことをするのに、ふさわしくない時などない。');
