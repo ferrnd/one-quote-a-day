@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The will to win is important, but the will to prepare is vital.', 'zh-CN',
      '求胜的意志很重要，但准备的意志至关重要。'),
     ('I never dreamed about success. I worked for it.', 'zh-CN',
-     '我从未梦想过成功，我是为它而努力的。');
+     '我从未梦想过成功，我是为它而努力的。'),
+    ('Nothing will work unless you do.', 'zh-CN',
+     '你不动手，什么都不会成功。');
