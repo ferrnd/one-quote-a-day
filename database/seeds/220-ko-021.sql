@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Doubt kills more dreams than failure ever will.', 'ko',
      '의심은 실패보다 훨씬 더 많은 꿈을 죽인다.'),
     ('Don''t be pushed around by the fears in your mind. Be led by the dreams in your heart.', 'ko',
-     '머릿속의 두려움에 휘둘리지 마라. 마음속의 꿈에 이끌려라.');
+     '머릿속의 두려움에 휘둘리지 마라. 마음속의 꿈에 이끌려라.'),
+    ('Put your heart, mind, and soul into even your smallest acts. This is the secret of success.', 'ko',
+     '가장 작은 행동에도 마음과 정신과 영혼을 쏟아라. 이것이 성공의 비결이다.');
