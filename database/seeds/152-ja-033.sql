@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Screw your courage to the sticking-place, and we''ll not fail.', 'ja',
      '勇気を振り絞って、しっかりと持ちこたえなさい。そうすれば失敗はしない。'),
     ('Courage is fear holding on a minute longer.', 'ja',
-     '勇気とは、恐れがあと一分長く踏みとどまることだ。');
+     '勇気とは、恐れがあと一分長く踏みとどまることだ。'),
+    ('Failure is not falling down but refusing to get up.', 'ja',
+     '失敗とは倒れることではなく、起き上がるのを拒むことだ。');
