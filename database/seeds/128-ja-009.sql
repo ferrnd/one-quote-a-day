@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We must accept finite disappointment, but never lose infinite hope.', 'ja',
      '有限の失望は受け入れなければならない。だが、無限の希望を決して失ってはならない。'),
     ('Only in the darkness can you see the stars.', 'ja',
-     '暗闇の中でこそ、星は見える。');
+     '暗闇の中でこそ、星は見える。'),
+    ('Even the darkest night will end and the sun will rise.', 'ja',
+     'どんなに暗い夜もいつかは終わり、太陽は昇る。');
