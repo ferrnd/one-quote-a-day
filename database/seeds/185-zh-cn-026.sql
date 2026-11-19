@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our greatest fear should not be of failure but of succeeding at things in life that don''t really matter.', 'zh-CN',
      '我们最应该害怕的不是失败，而是在人生中那些并不真正重要的事情上获得成功。'),
     ('Stay hungry, stay foolish.', 'zh-CN',
-     '求知若饥，虚心若愚。');
+     '求知若饥，虚心若愚。'),
+    ('Your time is limited, so don''t waste it living someone else''s life.', 'zh-CN',
+     '你的时间有限，所以不要浪费在过别人的生活上。');
