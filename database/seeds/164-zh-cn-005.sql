@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is the condiment that gives success its flavor.', 'zh-CN',
      '失败是让成功更有滋味的调料。'),
     ('It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.', 'zh-CN',
-     '活着就不可能不在某件事上失败，除非你活得如此小心翼翼，以至于跟没活过一样。');
+     '活着就不可能不在某件事上失败，除非你活得如此小心翼翼，以至于跟没活过一样。'),
+    ('Rock bottom became the solid foundation on which I rebuilt my life.', 'zh-CN',
+     '人生的谷底，成了我重建生活的坚实地基。');
