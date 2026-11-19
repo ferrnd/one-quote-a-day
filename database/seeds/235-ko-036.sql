@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Knowing your own darkness is the best method for dealing with the darknesses of other people.', 'ko',
      '자기 자신의 어둠을 아는 것이 다른 사람들의 어둠을 다루는 가장 좋은 방법이다.'),
     ('There is no coming to consciousness without pain.', 'ko',
-     '고통 없이 의식에 이르는 일은 없다.');
+     '고통 없이 의식에 이르는 일은 없다.'),
+    ('It''s what you learn after you know it all that counts.', 'ko',
+     '중요한 것은 모든 것을 안다고 생각한 뒤에 무엇을 배우느냐다.');
