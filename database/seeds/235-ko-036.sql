@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The last three or four reps is what makes the muscle grow.', 'ko',
      '근육을 자라게 하는 것은 마지막 서너 번의 반복이다.'),
     ('Self-discipline begins with the mastery of your thoughts.', 'ko',
-     '자기 훈련은 자기 생각을 다스리는 데서 시작된다.');
+     '자기 훈련은 자기 생각을 다스리는 데서 시작된다.'),
+    ('Dost thou love life? Then do not squander time, for that is the stuff life is made of.', 'ko',
+     '그대는 삶을 사랑하는가? 그렇다면 시간을 낭비하지 마라. 시간이야말로 삶을 이루는 재료이니.');
