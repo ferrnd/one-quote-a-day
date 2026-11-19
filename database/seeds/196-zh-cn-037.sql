@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the long run, we shape our lives, and we shape ourselves.', 'zh-CN',
      '从长远来看，我们塑造自己的生活，也塑造我们自己。'),
     ('Out of adversity comes opportunity.', 'zh-CN',
-     '逆境中孕育着机遇。');
+     '逆境中孕育着机遇。'),
+    ('Adversity has ever been considered the state in which a man most easily becomes acquainted with himself.', 'zh-CN',
+     '逆境一向被认为是一个人最容易认识自己的境况。');
