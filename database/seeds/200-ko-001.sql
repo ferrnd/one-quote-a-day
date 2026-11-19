@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'ko',
      '많은 사람들이 끈기로써, 실패할 운명처럼 보였던 일에서 성공을 거둔다.'),
     ('Continuous effort, not strength or intelligence, is the key to unlocking our potential.', 'ko',
-     '우리의 잠재력을 여는 열쇠는 힘이나 지능이 아니라 꾸준한 노력이다.');
+     '우리의 잠재력을 여는 열쇠는 힘이나 지능이 아니라 꾸준한 노력이다.'),
+    ('Ambition is the path to success. Persistence is the vehicle you arrive in.', 'ko',
+     '야망은 성공으로 가는 길이고, 끈기는 그곳에 데려다주는 수레다.');
