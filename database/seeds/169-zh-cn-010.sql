@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the pillar that holds up the world.', 'zh-CN',
      '希望是撑起世界的支柱。'),
     ('Hope will never be silent.', 'zh-CN',
-     '希望永远不会沉默。');
+     '希望永远不会沉默。'),
+    ('Weeping may endure for a night, but joy cometh in the morning.', 'zh-CN',
+     '一宿虽然有哭泣，早晨便必欢呼。');
