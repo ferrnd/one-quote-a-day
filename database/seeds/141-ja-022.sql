@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not a product of my circumstances. I am a product of my decisions.', 'ja',
      '私は境遇の産物ではない。私は自分の決断の産物である。'),
     ('Confidence comes not from always being right but from not fearing to be wrong.', 'ja',
-     '自信は、いつも正しくあることからではなく、間違うことを恐れないことから生まれる。');
+     '自信は、いつも正しくあることからではなく、間違うことを恐れないことから生まれる。'),
+    ('If you want to lift yourself up, lift up someone else.', 'ja',
+     '自分を高めたいなら、誰かを高めなさい。');
