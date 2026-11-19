@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are irritated by every rub, how will your mirror be polished?', 'ja',
      'こすられるたびに苛立っていたら、どうして鏡が磨かれるだろうか。'),
     ('These pains you feel are messengers. Listen to them.', 'ja',
-     'あなたが感じているその痛みは、使者である。その声に耳を傾けよ。');
+     'あなたが感じているその痛みは、使者である。その声に耳を傾けよ。'),
+    ('Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.', 'ja',
+     '自由こそ、人生で唯一価値ある目標である。それは、自分の力の及ばないことを気にかけないことによって得られる。');
