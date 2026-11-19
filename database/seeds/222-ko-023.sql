@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Optimism is the one quality more associated with success and happiness than any other.', 'ko',
      '낙관주의는 다른 어떤 자질보다 성공과 행복에 밀접하게 연결된 자질이다.'),
     ('Believe in yourself! Have faith in your abilities!', 'ko',
-     '자신을 믿어라! 당신의 능력을 믿어라!');
+     '자신을 믿어라! 당신의 능력을 믿어라!'),
+    ('You must expect great things of yourself before you can do them.', 'ko',
+     '위대한 일을 해내기 전에 먼저 자신에게 위대한 일을 기대해야 한다.');
