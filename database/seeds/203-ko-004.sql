@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t be afraid to give up the good to go for the great.', 'ko',
      '위대한 것을 향해 가기 위해 좋은 것을 포기하는 것을 두려워하지 마라.'),
     ('To dare is to lose one''s footing momentarily. Not to dare is to lose oneself.', 'ko',
-     '감히 도전하는 것은 잠시 발판을 잃는 것이다. 도전하지 않는 것은 자기 자신을 잃는 것이다.');
+     '감히 도전하는 것은 잠시 발판을 잃는 것이다. 도전하지 않는 것은 자기 자신을 잃는 것이다.'),
+    ('It is not the mountain we conquer, but ourselves.', 'ko',
+     '우리가 정복하는 것은 산이 아니라 우리 자신이다.');
