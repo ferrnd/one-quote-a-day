@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Discipline is the bridge between goals and accomplishment.', 'ja',
      '規律は、目標と達成をつなぐ橋である。'),
     ('We must all suffer one of two things: the pain of discipline or the pain of regret.', 'ja',
-     '人は皆、二つの痛みのどちらかを味わう。規律の痛みか、後悔の痛みか。');
+     '人は皆、二つの痛みのどちらかを味わう。規律の痛みか、後悔の痛みか。'),
+    ('Motivation is what gets you started. Habit is what keeps you going.', 'ja',
+     'やる気は始めるきっかけをくれる。習慣は続ける力をくれる。');
