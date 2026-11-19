@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Difficult roads often lead to beautiful destinations.', 'ja',
      '困難な道は、しばしば美しい目的地へと続いている。'),
     ('In the midst of chaos, there is also opportunity.', 'ja',
-     '混乱の中にも、好機はある。');
+     '混乱の中にも、好機はある。'),
+    ('What seems to us as bitter trials are often blessings in disguise.', 'ja',
+     'つらい試練に思えるものが、しばしば姿を変えた祝福なのだ。');
