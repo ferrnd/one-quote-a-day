@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greatest test of courage on earth is to bear defeat without losing heart.', 'zh-CN',
      '世上对勇气最大的考验，是承受失败而不丧失信心。'),
     ('Of all the virtues we can learn, no trait is more useful, more essential for survival, and more likely to improve the quality of life than the ability to transform adversity into an enjoyable challenge.', 'zh-CN',
-     '在我们能学到的所有美德中，没有哪种品质比把逆境转化为愉快挑战的能力更有用、更关乎生存、更能提升生活的质量。');
+     '在我们能学到的所有美德中，没有哪种品质比把逆境转化为愉快挑战的能力更有用、更关乎生存、更能提升生活的质量。'),
+    ('If there is no struggle, there is no progress.', 'zh-CN',
+     '没有斗争，就没有进步。');
