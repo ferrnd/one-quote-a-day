@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Go for it now. The future is promised to no one.', 'zh-CN',
      '现在就去做吧，未来不向任何人许诺。'),
     ('Doing the best at this moment puts you in the best place for the next moment.', 'zh-CN',
-     '在这一刻做到最好，就能让你在下一刻处于最好的位置。');
+     '在这一刻做到最好，就能让你在下一刻处于最好的位置。'),
+    ('The future starts today, not tomorrow.', 'zh-CN',
+     '未来从今天开始，而不是明天。');
