@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You see things; and you say ''Why?'' But I dream things that never were; and I say ''Why not?''', 'ko',
      '당신은 사물을 보고 "왜?"라고 묻는다. 하지만 나는 결코 존재한 적 없는 것을 꿈꾸며 "왜 안 돼?"라고 묻는다.'),
     ('Hitch your wagon to a star.', 'ko',
-     '당신의 마차를 별에 매어라.');
+     '당신의 마차를 별에 매어라.'),
+    ('If one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.', 'ko',
+     '자신의 꿈을 향해 자신 있게 나아간다면, 평소에는 생각지도 못한 성공을 만나게 될 것이다.');
