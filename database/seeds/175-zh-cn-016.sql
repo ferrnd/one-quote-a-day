@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The beautiful thing about learning is that no one can take it away from you.', 'zh-CN',
      '学习最美好的地方在于，没有人能把它从你身上夺走。'),
     ('Education is the most powerful weapon which you can use to change the world.', 'zh-CN',
-     '教育是你可以用来改变世界的最强大的武器。');
+     '教育是你可以用来改变世界的最强大的武器。'),
+    ('He who is not every day conquering some fear has not learned the secret of life.', 'zh-CN',
+     '一个人如果不是每天都在征服某种恐惧，就还没有学会生活的秘诀。');
