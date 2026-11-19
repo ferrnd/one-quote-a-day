@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.', 'ja',
      '成功は偶然ではない。努力、忍耐、学び、研究、犠牲、そして何よりも、自分のしていることへの愛だ。'),
     ('The will to win is important, but the will to prepare is vital.', 'ja',
-     '勝とうとする意志は大切だ。だが、準備しようとする意志は不可欠だ。');
+     '勝とうとする意志は大切だ。だが、準備しようとする意志は不可欠だ。'),
+    ('I never dreamed about success. I worked for it.', 'ja',
+     '私は成功を夢見たことはない。そのために働いたのだ。');
