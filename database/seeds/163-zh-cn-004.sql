@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be bold, and mighty forces will come to your aid.', 'zh-CN',
      '勇敢起来，强大的力量就会来帮助你。'),
     ('There is no passion to be found playing small.', 'zh-CN',
-     '甘于渺小，找不到激情。');
+     '甘于渺小，找不到激情。'),
+    ('Courage is like a muscle. We strengthen it by use.', 'zh-CN',
+     '勇气就像肌肉，越用越强。');
