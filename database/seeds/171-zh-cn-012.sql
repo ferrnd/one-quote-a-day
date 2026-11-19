@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be the heroine of your life, not the victim.', 'zh-CN',
      '做你人生的女主角，而不是受害者。'),
     ('Stand up straight and realize who you are, that you tower over your circumstances.', 'zh-CN',
-     '挺直身子，认清你是谁，你远比你的处境更高大。');
+     '挺直身子，认清你是谁，你远比你的处境更高大。'),
+    ('Never bend your head. Always hold it high. Look the world straight in the eye.', 'zh-CN',
+     '永远不要低头。永远把头抬高，直视这个世界。');
