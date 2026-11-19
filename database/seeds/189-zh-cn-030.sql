@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you want to go fast, go alone. If you want to go far, go together.', 'zh-CN',
      '如果你想走得快，就一个人走；如果你想走得远，就一起走。'),
     ('Be not afraid.', 'zh-CN',
-     '不要害怕。');
+     '不要害怕。'),
+    ('I am not afraid of tomorrow, for I have seen yesterday and I love today.', 'zh-CN',
+     '我不害怕明天，因为我见过昨天，而且我热爱今天。');
