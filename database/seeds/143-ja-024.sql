@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nature does not hurry, yet everything is accomplished.', 'ja',
      '自然は急がない。それでもすべては成し遂げられる。'),
     ('Trees that are slow to grow bear the best fruit.', 'ja',
-     'ゆっくり育つ木ほど、良い実をつける。');
+     'ゆっくり育つ木ほど、良い実をつける。'),
+    ('Genius is eternal patience.', 'ja',
+     '天才とは、永遠の忍耐である。');
