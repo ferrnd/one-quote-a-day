@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Accept challenges so that you may feel the exhilaration of victory.', 'zh-CN',
      '接受挑战，你才能感受到胜利的喜悦。'),
     ('When it is obvious that the goals cannot be reached, don''t adjust the goals, adjust the action steps.', 'zh-CN',
-     '当目标显然无法达到时，不要调整目标，而要调整行动的步骤。');
+     '当目标显然无法达到时，不要调整目标，而要调整行动的步骤。'),
+    ('Victory is sweetest when you''ve known defeat.', 'zh-CN',
+     '尝过失败的人，才知道胜利最甜美。');
