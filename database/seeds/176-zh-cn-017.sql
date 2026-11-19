@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Obstacles are those frightful things you see when you take your eyes off your goal.', 'zh-CN',
      '障碍就是当你的目光离开目标时，看到的那些可怕的东西。'),
     ('Obstacles don''t have to stop you. If you run into a wall, don''t turn around and give up. Figure out how to climb it, go through it, or work around it.', 'zh-CN',
-     '障碍不一定会让你停下来。如果你撞上一堵墙，不要转身放弃，想办法爬过去、穿过去，或者绕过去。');
+     '障碍不一定会让你停下来。如果你撞上一堵墙，不要转身放弃，想办法爬过去、穿过去，或者绕过去。'),
+    ('Problems are not stop signs, they are guidelines.', 'zh-CN',
+     '问题不是停止标志，而是指引方向的路标。');
