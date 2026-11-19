@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have to believe in yourself when no one else does.', 'ja',
      '誰も信じてくれないときこそ、自分を信じなければならない。'),
     ('The more difficult the victory, the greater the happiness in winning.', 'ja',
-     '勝利が困難であるほど、勝ったときの喜びは大きい。');
+     '勝利が困難であるほど、勝ったときの喜びは大きい。'),
+    ('Gold medals aren''t really made of gold. They''re made of sweat, determination, and a hard-to-find alloy called guts.', 'ja',
+     '金メダルは本当は金でできているのではない。汗と決意と、なかなか見つからない「根性」という合金でできているのだ。');
