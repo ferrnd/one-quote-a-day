@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Change is the end result of all true learning.', 'zh-CN',
      '改变是一切真正学习的最终结果。'),
     ('Anyone who stops learning is old, whether at twenty or eighty.', 'zh-CN',
-     '任何停止学习的人都已经老了，无论是二十岁还是八十岁。');
+     '任何停止学习的人都已经老了，无论是二十岁还是八十岁。'),
+    ('The only real voyage of discovery consists not in seeking new landscapes, but in having new eyes.', 'zh-CN',
+     '真正的发现之旅不在于寻找新的风景，而在于拥有新的眼光。');
