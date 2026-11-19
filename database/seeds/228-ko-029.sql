@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You''re off to great places! Today is your day! Your mountain is waiting, so get on your way!', 'ko',
      '넌 멋진 곳으로 떠나는 거야! 오늘은 너의 날이야! 너의 산이 기다리고 있으니, 어서 길을 나서렴!'),
     ('You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.', 'ko',
-     '네 머릿속에는 두뇌가 있고, 네 신발 속에는 발이 있어. 너는 네가 고르는 어느 방향으로든 나아갈 수 있어.');
+     '네 머릿속에는 두뇌가 있고, 네 신발 속에는 발이 있어. 너는 네가 고르는 어느 방향으로든 나아갈 수 있어.'),
+    ('Unless someone like you cares a whole awful lot, nothing is going to get better. It''s not.', 'ko',
+     '너 같은 누군가가 정말 진심으로 아끼지 않는 한, 아무것도 나아지지 않을 거야. 절대로.');
