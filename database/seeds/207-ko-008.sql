@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''ve been absolutely terrified every moment of my life and I''ve never let it keep me from doing a single thing I wanted to do.', 'ko',
      '나는 평생 매 순간 몹시 두려웠지만, 그 때문에 하고 싶은 일을 단 한 가지도 포기한 적이 없다.'),
     ('Sorrow is how we learn to love. Your heart isn''t breaking. It hurts because it''s getting larger.', 'ko',
-     '슬픔은 우리가 사랑을 배우는 방식이다. 당신의 마음은 부서지는 것이 아니다. 커지고 있기 때문에 아픈 것이다.');
+     '슬픔은 우리가 사랑을 배우는 방식이다. 당신의 마음은 부서지는 것이 아니다. 커지고 있기 때문에 아픈 것이다.'),
+    ('Once you choose hope, anything''s possible.', 'ko',
+     '희망을 선택하는 순간, 무엇이든 가능해진다.');
