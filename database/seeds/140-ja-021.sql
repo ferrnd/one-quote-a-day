@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t be pushed around by the fears in your mind. Be led by the dreams in your heart.', 'ja',
      '頭の中の恐れに振り回されるな。心の中の夢に導かれよ。'),
     ('Put your heart, mind, and soul into even your smallest acts. This is the secret of success.', 'ja',
-     'どんなに小さな行いにも、心と頭と魂を込めなさい。それが成功の秘訣だ。');
+     'どんなに小さな行いにも、心と頭と魂を込めなさい。それが成功の秘訣だ。'),
+    ('You can''t cross the sea merely by standing and staring at the water.', 'ja',
+     'ただ立って水を見つめているだけでは、海を渡ることはできない。');
