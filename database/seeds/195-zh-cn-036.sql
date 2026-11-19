@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Re-examine all you have been told; dismiss what insults your soul.', 'zh-CN',
      '重新审视你被告知的一切，摒弃那些侮辱你灵魂的东西。'),
     ('Change is the end result of all true learning.', 'zh-CN',
-     '改变是一切真正学习的最终结果。');
+     '改变是一切真正学习的最终结果。'),
+    ('Anyone who stops learning is old, whether at twenty or eighty.', 'zh-CN',
+     '任何停止学习的人都已经老了，无论是二十岁还是八十岁。');
