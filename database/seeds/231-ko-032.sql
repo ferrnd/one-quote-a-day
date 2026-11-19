@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I must not fear. Fear is the mind-killer.', 'ko',
      '나는 두려워해서는 안 된다. 두려움은 정신을 죽이는 것이다.'),
     ('Courage is the main quality of leadership.', 'ko',
-     '용기는 리더십의 가장 중요한 자질이다.');
+     '용기는 리더십의 가장 중요한 자질이다.'),
+    ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'ko',
+     '용감하지 않을 때 할 수 있는 가장 용감한 일은 용기를 내겠다고 선언하고 그에 맞게 행동하는 것이다.');
