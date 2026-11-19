@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not that we have a short time to live, but that we waste a lot of it.', 'zh-CN',
      '不是我们的生命太短，而是我们浪费了太多。'),
     ('While we wait for life, life passes.', 'zh-CN',
-     '当我们等待生活时，生活就过去了。');
+     '当我们等待生活时，生活就过去了。'),
+    ('Wherever there is a human being, there is an opportunity for a kindness.', 'zh-CN',
+     '哪里有人，哪里就有行善的机会。');
