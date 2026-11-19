@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He that can have patience can have what he will.', 'ko',
      '인내할 수 있는 사람은 원하는 것을 얻을 수 있다.'),
     ('Have patience with all things, but first of all with yourself.', 'ko',
-     '모든 일에 인내하라. 그러나 무엇보다 먼저 자기 자신에게 인내하라.');
+     '모든 일에 인내하라. 그러나 무엇보다 먼저 자기 자신에게 인내하라.'),
+    ('One moment of patience may ward off great disaster. One moment of impatience may ruin a whole life.', 'ko',
+     '한순간의 인내가 큰 재앙을 막고, 한순간의 조급함이 일생을 망칠 수 있다.');
