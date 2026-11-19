@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.', 'ko',
      '성공은 우연이 아니다. 그것은 노력, 끈기, 배움, 공부, 희생, 그리고 무엇보다 자신이 하는 일에 대한 사랑이다.'),
     ('The will to win is important, but the will to prepare is vital.', 'ko',
-     '이기려는 의지는 중요하지만, 준비하려는 의지는 필수적이다.');
+     '이기려는 의지는 중요하지만, 준비하려는 의지는 필수적이다.'),
+    ('I never dreamed about success. I worked for it.', 'ko',
+     '나는 성공을 꿈꾼 적이 없다. 그것을 위해 일했을 뿐이다.');
