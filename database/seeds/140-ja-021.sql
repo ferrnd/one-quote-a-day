@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Opportunities don''t happen. You create them.', 'ja',
      'チャンスは起こるものではない。自分でつくり出すものだ。'),
     ('Doubt kills more dreams than failure ever will.', 'ja',
-     '疑いは、失敗よりもはるかに多くの夢を殺す。');
+     '疑いは、失敗よりもはるかに多くの夢を殺す。'),
+    ('Don''t be pushed around by the fears in your mind. Be led by the dreams in your heart.', 'ja',
+     '頭の中の恐れに振り回されるな。心の中の夢に導かれよ。');
