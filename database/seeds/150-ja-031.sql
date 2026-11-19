@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Each person must live their life as a model for others.', 'ja',
      '人は皆、他人の手本となるような人生を生きなければならない。'),
     ('If you don''t like the road you''re walking, start paving another one.', 'ja',
-     '今歩いている道が気に入らないなら、別の道を敷き始めなさい。');
+     '今歩いている道が気に入らないなら、別の道を敷き始めなさい。'),
+    ('You get in life what you have the courage to ask for.', 'ja',
+     '人生で得られるのは、求める勇気を持ったものだけだ。');
