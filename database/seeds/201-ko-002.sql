@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What we hope ever to do with ease, we must learn first to do with diligence.', 'ko',
      '언젠가 쉽게 해내고 싶은 일은 먼저 부지런히 하는 법부터 배워야 한다.'),
     ('In the confrontation between the stream and the rock, the stream always wins, not through strength but by perseverance.', 'ko',
-     '시냇물과 바위가 맞서면 언제나 시냇물이 이긴다. 힘이 아니라 끈기로.');
+     '시냇물과 바위가 맞서면 언제나 시냇물이 이긴다. 힘이 아니라 끈기로.'),
+    ('Endurance is not just the ability to bear a hard thing, but to turn it into glory.', 'ko',
+     '인내란 힘든 일을 견디는 능력일 뿐 아니라, 그것을 영광으로 바꾸는 능력이다.');
