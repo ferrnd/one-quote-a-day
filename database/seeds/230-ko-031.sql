@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The world is changed by your example, not by your opinion.', 'ko',
      '세상을 바꾸는 것은 당신의 의견이 아니라 당신의 본보기다.'),
     ('We can''t help everyone, but everyone can help someone.', 'ko',
-     '우리가 모든 사람을 도울 수는 없지만, 모든 사람은 누군가를 도울 수 있다.');
+     '우리가 모든 사람을 도울 수는 없지만, 모든 사람은 누군가를 도울 수 있다.'),
+    ('Each person must live their life as a model for others.', 'ko',
+     '사람은 저마다 다른 이들의 본보기가 되도록 자신의 삶을 살아야 한다.');
