@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of every crisis comes the chance to be reborn.', 'ja',
      'あらゆる危機から、生まれ変わるチャンスが生まれる。'),
     ('Nothing is permanent in this wicked world, not even our troubles.', 'ja',
-     'この意地悪な世界に永遠のものなどない。私たちの悩みでさえも。');
+     'この意地悪な世界に永遠のものなどない。私たちの悩みでさえも。'),
+    ('Hardships make or break people.', 'ja',
+     '苦難は人をつくりもすれば、壊しもする。');
