@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The block of granite which was an obstacle in the path of the weak becomes a stepping stone in the path of the strong.', 'ko',
      '약한 사람의 길에서는 장애물이었던 화강암 덩어리가 강한 사람의 길에서는 디딤돌이 된다.'),
     ('Obstacles are those frightful things you see when you take your eyes off your goal.', 'ko',
-     '장애물이란 목표에서 눈을 뗄 때 보이는 무시무시한 것들이다.');
+     '장애물이란 목표에서 눈을 뗄 때 보이는 무시무시한 것들이다.'),
+    ('Obstacles don''t have to stop you. If you run into a wall, don''t turn around and give up. Figure out how to climb it, go through it, or work around it.', 'ko',
+     '장애물이 당신을 멈추게 할 필요는 없다. 벽에 부딪히면 돌아서서 포기하지 마라. 어떻게 오를지, 뚫고 나갈지, 돌아갈지를 생각하라.');
