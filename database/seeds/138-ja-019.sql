@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the midst of chaos, there is also opportunity.', 'ja',
      '混乱の中にも、好機はある。'),
     ('What seems to us as bitter trials are often blessings in disguise.', 'ja',
-     'つらい試練に思えるものが、しばしば姿を変えた祝福なのだ。');
+     'つらい試練に思えるものが、しばしば姿を変えた祝福なのだ。'),
+    ('Great spirits have always encountered violent opposition from mediocre minds.', 'ja',
+     '偉大な精神は、常に凡庸な人々からの激しい反対に遭ってきた。');
