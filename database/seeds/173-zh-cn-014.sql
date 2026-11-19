@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t count the days, make the days count.', 'zh-CN',
      '不要数着日子过，要让每一天都有意义。'),
     ('Dedication sees dreams come true.', 'zh-CN',
-     '奉献让梦想成真。');
+     '奉献让梦想成真。'),
+    ('Rest at the end, not in the middle.', 'zh-CN',
+     '休息要在终点，而不是在半途。');
