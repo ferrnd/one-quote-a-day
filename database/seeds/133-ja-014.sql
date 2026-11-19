@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Self-respect is the fruit of discipline; the sense of dignity grows with the ability to say no to oneself.', 'ja',
      '自尊心は規律の実りである。尊厳の感覚は、自分に「いいえ」と言える力とともに育つ。'),
     ('What you do every day matters more than what you do once in a while.', 'ja',
-     '毎日していることは、たまにすることよりも大切だ。');
+     '毎日していることは、たまにすることよりも大切だ。'),
+    ('Discipline equals freedom.', 'ja',
+     '規律は自由に等しい。');
