@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be bold, and mighty forces will come to your aid.', 'ja',
      '大胆であれ。そうすれば大きな力が助けに来てくれる。'),
     ('There is no passion to be found playing small.', 'ja',
-     '小さくまとまっていても、情熱は見つからない。');
+     '小さくまとまっていても、情熱は見つからない。'),
+    ('Courage is like a muscle. We strengthen it by use.', 'ja',
+     '勇気は筋肉のようなもの。使うことで鍛えられる。');
