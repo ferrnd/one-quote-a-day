@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let everything happen to you: beauty and terror. Just keep going. No feeling is final.', 'ko',
      '모든 것이 너에게 일어나게 하라. 아름다움도 두려움도. 그저 계속 나아가라. 어떤 감정도 마지막이 아니다.'),
     ('No snowflake ever falls in the wrong place.', 'ko',
-     '어떤 눈송이도 잘못된 곳에 떨어지지 않는다.');
+     '어떤 눈송이도 잘못된 곳에 떨어지지 않는다.'),
+    ('Let go or be dragged.', 'ko',
+     '놓아라, 그렇지 않으면 끌려간다.');
