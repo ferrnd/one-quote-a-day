@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not all of us can do great things. But we can do small things with great love.', 'zh-CN',
      '我们不能都做伟大的事，但我们可以怀着伟大的爱去做小事。'),
     ('Though she be but little, she is fierce.', 'zh-CN',
-     '她虽然娇小，却很凶猛。');
+     '她虽然娇小，却很凶猛。'),
+    ('You cannot run away from a weakness; you must some time fight it out or perish.', 'zh-CN',
+     '你无法逃避弱点，迟早你必须与它战斗到底，否则就会灭亡。');
