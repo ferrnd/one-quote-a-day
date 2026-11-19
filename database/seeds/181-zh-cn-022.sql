@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s not what you look at that matters, it''s what you see.', 'zh-CN',
      '重要的不是你在看什么，而是你看见了什么。'),
     ('I am not a product of my circumstances. I am a product of my decisions.', 'zh-CN',
-     '我不是环境的产物，我是我的决定的产物。');
+     '我不是环境的产物，我是我的决定的产物。'),
+    ('Confidence comes not from always being right but from not fearing to be wrong.', 'zh-CN',
+     '自信不是来自永远正确，而是来自不怕犯错。');
