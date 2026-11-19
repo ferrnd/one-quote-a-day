@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('However difficult life may seem, there is always something you can do and succeed at.', 'ja',
      '人生がどんなに困難に思えても、できること、そして成功できることは必ずある。'),
     ('I have no special talents. I am only passionately curious.', 'ja',
-     '私には特別な才能などない。ただ、熱烈な好奇心があるだけだ。');
+     '私には特別な才能などない。ただ、熱烈な好奇心があるだけだ。'),
+    ('Try not to become a man of success, but rather try to become a man of value.', 'ja',
+     '成功者になろうとするのではなく、価値ある人間になろうとしなさい。');
