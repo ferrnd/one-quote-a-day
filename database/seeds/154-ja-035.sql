@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the hard jobs first. The easy jobs will take care of themselves.', 'ja',
      '難しい仕事から先にやりなさい。易しい仕事は自然に片づく。'),
     ('It is better to offer no excuse than a bad one.', 'ja',
-     '下手な言い訳をするくらいなら、何も言い訳しないほうがいい。');
+     '下手な言い訳をするくらいなら、何も言い訳しないほうがいい。'),
+    ('Hard work is a prison sentence only if it does not have meaning.', 'ja',
+     '努力が懲役刑になるのは、そこに意味がないときだけだ。');
