@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The harder the conflict, the more glorious the triumph.', 'ja',
      '戦いが厳しいほど、勝利はいっそう輝かしい。'),
     ('Persistence guarantees that results are inevitable.', 'ja',
-     '粘り強さがあれば、結果は必ずついてくる。');
+     '粘り強さがあれば、結果は必ずついてくる。'),
+    ('Courage doesn''t always roar. Sometimes courage is the quiet voice at the end of the day saying, I will try again tomorrow.', 'ja',
+     '勇気はいつも雄たけびを上げるわけではない。ときに勇気とは、一日の終わりに「明日もう一度やってみよう」とつぶやく静かな声なのだ。');
