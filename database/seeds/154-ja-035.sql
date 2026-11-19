@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wish to be anything but what you are, and try to be that perfectly.', 'ja',
      '今の自分以外の何者にもなろうとせず、今の自分を完璧に生きようとしなさい。'),
     ('No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.', 'ja',
-     '私たちを救うのは自分自身だけだ。誰にもできないし、誰もしてはならない。私たち自身がその道を歩まねばならない。');
+     '私たちを救うのは自分自身だけだ。誰にもできないし、誰もしてはならない。私たち自身がその道を歩まねばならない。'),
+    ('Power is not given to you. You have to take it.', 'ja',
+     '力は与えられるものではない。自分でつかみ取るものだ。');
