@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have stood on a mountain of no''s for one yes.', 'zh-CN',
      '为了一个“是”，我曾站在堆积如山的“不”之上。'),
     ('I had to make my own living and my own opportunity. But I made it!', 'zh-CN',
-     '我必须自己谋生，自己创造机会。但我做到了！');
+     '我必须自己谋生，自己创造机会。但我做到了！'),
+    ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'zh-CN',
+     '我能走到那一步，不是靠期盼或希望，而是靠努力工作。');
