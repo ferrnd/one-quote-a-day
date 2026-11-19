@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The most common way people give up their power is by thinking they don''t have any.', 'ja',
      '人が自分の力を手放す最もよくある方法は、自分には力がないと思い込むことだ。'),
     ('Think like a queen. A queen is not afraid to fail.', 'ja',
-     '女王のように考えなさい。女王は失敗を恐れない。');
+     '女王のように考えなさい。女王は失敗を恐れない。'),
+    ('Find out who you are and do it on purpose.', 'ja',
+     '自分が何者かを見つけ、それを意志をもって生きなさい。');
