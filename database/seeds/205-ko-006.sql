@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only real mistake is the one from which we learn nothing.', 'ko',
      '진짜 실수는 그로부터 아무것도 배우지 못한 실수뿐이다.'),
     ('Just because you fail once doesn''t mean you''re gonna fail at everything.', 'ko',
-     '한 번 실패했다고 해서 모든 일에 실패하는 건 아니다.');
+     '한 번 실패했다고 해서 모든 일에 실패하는 건 아니다.'),
+    ('I''d rather be a failure at something I love than a success at something I hate.', 'ko',
+     '싫어하는 일에서 성공하느니 사랑하는 일에서 실패하는 편이 낫다.');
