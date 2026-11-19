@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The oak sleeps in the acorn.', 'ko',
      '참나무는 도토리 속에서 잠들어 있다.'),
     ('With the new day comes new strength and new thoughts.', 'ko',
-     '새로운 날과 함께 새로운 힘과 새로운 생각이 찾아온다.');
+     '새로운 날과 함께 새로운 힘과 새로운 생각이 찾아온다.'),
+    ('Our strength grows out of our weaknesses.', 'ko',
+     '우리의 강함은 우리의 약함에서 자라난다.');
