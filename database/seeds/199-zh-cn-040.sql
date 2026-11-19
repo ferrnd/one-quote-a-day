@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.', 'zh-CN',
      '世界上最好、最美的东西是看不见也摸不着的，它们必须用心去感受。'),
     ('What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.', 'zh-CN',
-     '我们曾经享受过的，永远不会失去。我们深爱的一切，都会成为我们的一部分。');
+     '我们曾经享受过的，永远不会失去。我们深爱的一切，都会成为我们的一部分。'),
+    ('Happiness is not a goal; it is a by-product.', 'zh-CN',
+     '幸福不是目标，而是副产品。');
