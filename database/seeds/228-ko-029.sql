@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.', 'ko',
      '네 머릿속에는 두뇌가 있고, 네 신발 속에는 발이 있어. 너는 네가 고르는 어느 방향으로든 나아갈 수 있어.'),
     ('Unless someone like you cares a whole awful lot, nothing is going to get better. It''s not.', 'ko',
-     '너 같은 누군가가 정말 진심으로 아끼지 않는 한, 아무것도 나아지지 않을 거야. 절대로.');
+     '너 같은 누군가가 정말 진심으로 아끼지 않는 한, 아무것도 나아지지 않을 거야. 절대로.'),
+    ('Tell me, what is it you plan to do with your one wild and precious life?', 'ko',
+     '말해 보라, 단 한 번뿐인 거칠고도 소중한 당신의 삶으로 무엇을 할 계획인가?');
