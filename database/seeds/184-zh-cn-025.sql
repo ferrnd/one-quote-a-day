@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am extraordinarily patient, provided I get my own way in the end.', 'zh-CN',
      '我非常有耐心，只要最后能如我所愿。'),
     ('If you are patient in one moment of anger, you will escape a hundred days of sorrow.', 'zh-CN',
-     '忍一时之气，免百日之忧。');
+     '忍一时之气，免百日之忧。'),
+    ('Patience is the support of weakness; impatience the ruin of strength.', 'zh-CN',
+     '耐心是弱者的支撑，急躁是强者的毁灭。');
