@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To hope is to give yourself to the future.', 'ja',
      '希望を持つことは、自分を未来に捧げることだ。'),
     ('Hope is not a lottery ticket you can sit on the sofa and clutch, feeling lucky. It is an axe you break down doors with in an emergency.', 'ja',
-     '希望とは、ソファに座って握りしめ、幸運を感じるための宝くじではない。非常時に扉を打ち破るための斧なのだ。');
+     '希望とは、ソファに座って握りしめ、幸運を感じるための宝くじではない。非常時に扉を打ち破るための斧なのだ。'),
+    ('Let us be of good cheer, remembering that the misfortunes hardest to bear are those which never come.', 'ja',
+     '元気を出そう。最も耐えがたい不幸とは、決して訪れない不幸なのだから。');
