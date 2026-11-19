@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One moment of patience may ward off great disaster. One moment of impatience may ruin a whole life.', 'ja',
      '一瞬の忍耐が大きな災いを防ぎ、一瞬の短気が一生を台無しにする。'),
     ('Patience is not simply the ability to wait; it''s how we behave while we''re waiting.', 'ja',
-     '忍耐とは、ただ待つ力のことではない。待っている間にどうふるまうかのことだ。');
+     '忍耐とは、ただ待つ力のことではない。待っている間にどうふるまうかのことだ。'),
+    ('Rome wasn''t built in a day.', 'ja',
+     'ローマは一日にして成らず。');
