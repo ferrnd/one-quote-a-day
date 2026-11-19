@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who is not every day conquering some fear has not learned the secret of life.', 'ja',
      '毎日何かの恐れを克服していない者は、人生の秘訣をまだ学んでいない。'),
     ('Life begins at the end of your comfort zone.', 'ja',
-     '人生は、居心地のいい場所の終わりから始まる。');
+     '人生は、居心地のいい場所の終わりから始まる。'),
+    ('I can''t change the direction of the wind, but I can adjust my sails to always reach my destination.', 'ja',
+     '風向きを変えることはできない。だが、帆を調整して必ず目的地にたどり着くことはできる。');
