@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Turn your scars into stars.', 'ko',
      '당신의 흉터를 별로 바꾸어라.'),
     ('Cancer can take away all of my physical abilities. It cannot touch my mind, it cannot touch my heart, and it cannot touch my soul.', 'ko',
-     '암은 내 모든 신체 능력을 빼앗아 갈 수 있다. 하지만 내 정신도, 내 마음도, 내 영혼도 건드릴 수 없다.');
+     '암은 내 모든 신체 능력을 빼앗아 갈 수 있다. 하지만 내 정신도, 내 마음도, 내 영혼도 건드릴 수 없다.'),
+    ('Be water, my friend.', 'ko',
+     '물이 되어라, 친구여.');
