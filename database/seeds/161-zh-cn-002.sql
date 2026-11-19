@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Endurance is not just the ability to bear a hard thing, but to turn it into glory.', 'zh-CN',
      '忍耐不仅是承受艰难的能力，更是把艰难化为荣耀的能力。'),
     ('Perseverance, secret of all triumphs.', 'zh-CN',
-     '坚持，是一切胜利的秘诀。');
+     '坚持，是一切胜利的秘诀。'),
+    ('The road to success is dotted with many tempting parking spaces.', 'zh-CN',
+     '通往成功的路上，点缀着许多诱人的停车位。');
