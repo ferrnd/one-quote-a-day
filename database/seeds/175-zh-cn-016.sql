@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Education is the most powerful weapon which you can use to change the world.', 'zh-CN',
      '教育是你可以用来改变世界的最强大的武器。'),
     ('He who is not every day conquering some fear has not learned the secret of life.', 'zh-CN',
-     '一个人如果不是每天都在征服某种恐惧，就还没有学会生活的秘诀。');
+     '一个人如果不是每天都在征服某种恐惧，就还没有学会生活的秘诀。'),
+    ('Life begins at the end of your comfort zone.', 'zh-CN',
+     '生活始于你舒适区的尽头。');
