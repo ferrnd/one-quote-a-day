@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is the start that stops most people.', 'ko',
      '대부분의 사람을 멈추게 하는 것은 바로 시작이다.'),
     ('Practice isn''t the thing you do once you''re good. It''s the thing you do that makes you good.', 'ko',
-     '연습은 잘하게 된 다음에 하는 것이 아니라, 잘하게 만들어 주는 것이다.');
+     '연습은 잘하게 된 다음에 하는 것이 아니라, 잘하게 만들어 주는 것이다.'),
+    ('Do something today that your future self will thank you for.', 'ko',
+     '미래의 당신이 고마워할 일을 오늘 하나 하라.');
