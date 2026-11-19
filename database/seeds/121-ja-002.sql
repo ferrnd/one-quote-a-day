@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Paralyze resistance with persistence.', 'ja',
      '粘り強さで抵抗をくじけ。'),
     ('Effort only fully releases its reward after a person refuses to quit.', 'ja',
-     '努力は、人がやめることを拒んだときに初めて、その報いをすべて与えてくれる。');
+     '努力は、人がやめることを拒んだときに初めて、その報いをすべて与えてくれる。'),
+    ('Patience, persistence and perspiration make an unbeatable combination for success.', 'ja',
+     '忍耐、粘り強さ、そして汗。これこそが成功への無敵の組み合わせだ。');
