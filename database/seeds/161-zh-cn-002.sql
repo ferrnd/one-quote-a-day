@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Water is fluid, soft, and yielding. But water will wear away rock, which is rigid and cannot yield.', 'zh-CN',
      '水是流动的、柔软的、顺从的。但水能磨穿坚硬而不肯屈服的岩石。'),
     ('Paralyze resistance with persistence.', 'zh-CN',
-     '用坚持瓦解阻力。');
+     '用坚持瓦解阻力。'),
+    ('Effort only fully releases its reward after a person refuses to quit.', 'zh-CN',
+     '只有当一个人拒绝放弃时，努力才会把回报全部交给他。');
