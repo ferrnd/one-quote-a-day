@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Progress is impossible without change, and those who cannot change their minds cannot change anything.', 'zh-CN',
      '没有改变就不可能进步，那些无法改变自己想法的人，什么也改变不了。'),
     ('Change is the law of life. And those who look only to the past or present are certain to miss the future.', 'zh-CN',
-     '变化是生活的法则。那些只看过去或现在的人，注定会错过未来。');
+     '变化是生活的法则。那些只看过去或现在的人，注定会错过未来。'),
+    ('The secret of change is to focus all of your energy not on fighting the old, but on building the new.', 'zh-CN',
+     '改变的秘诀，是把全部精力集中于建设新的，而不是与旧的斗争。');
