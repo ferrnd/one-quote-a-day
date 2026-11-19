@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is liking yourself, liking what you do, and liking how you do it.', 'ko',
      '성공이란 자신을 좋아하고, 자신이 하는 일을 좋아하고, 그 일을 하는 방식을 좋아하는 것이다.'),
     ('The soul becomes dyed with the color of its thoughts.', 'ko',
-     '영혼은 그 생각의 색깔로 물든다.');
+     '영혼은 그 생각의 색깔로 물든다.'),
+    ('Success is not the key to happiness. Happiness is the key to success.', 'ko',
+     '성공은 행복의 열쇠가 아니다. 행복이 성공의 열쇠다.');
