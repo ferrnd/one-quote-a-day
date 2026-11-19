@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greatest test of courage on earth is to bear defeat without losing heart.', 'ko',
      '이 세상에서 용기를 가장 크게 시험하는 것은 낙심하지 않고 패배를 견디는 것이다.'),
     ('Of all the virtues we can learn, no trait is more useful, more essential for survival, and more likely to improve the quality of life than the ability to transform adversity into an enjoyable challenge.', 'ko',
-     '우리가 배울 수 있는 모든 덕목 가운데 역경을 즐거운 도전으로 바꾸는 능력보다 더 유용하고, 생존에 더 필수적이며, 삶의 질을 더 높여 주는 것은 없다.');
+     '우리가 배울 수 있는 모든 덕목 가운데 역경을 즐거운 도전으로 바꾸는 능력보다 더 유용하고, 생존에 더 필수적이며, 삶의 질을 더 높여 주는 것은 없다.'),
+    ('If there is no struggle, there is no progress.', 'ko',
+     '투쟁이 없으면 진보도 없다.');
