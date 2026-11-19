@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our greatest fear should not be of failure but of succeeding at things in life that don''t really matter.', 'ja',
      '私たちが最も恐れるべきなのは失敗ではなく、人生で本当は大切でないことに成功してしまうことだ。'),
     ('Stay hungry, stay foolish.', 'ja',
-     'ハングリーであれ。愚か者であれ。');
+     'ハングリーであれ。愚か者であれ。'),
+    ('Your time is limited, so don''t waste it living someone else''s life.', 'ja',
+     'あなたの時間は限られている。だから、他人の人生を生きて無駄にしてはいけない。');
