@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who has a why to live can bear almost any how.', 'ko',
      '살아야 할 이유를 가진 사람은 거의 어떤 삶의 방식도 견딜 수 있다.'),
     ('When we are no longer able to change a situation, we are challenged to change ourselves.', 'ko',
-     '더 이상 상황을 바꿀 수 없을 때, 우리는 스스로를 바꾸라는 도전을 받는다.');
+     '더 이상 상황을 바꿀 수 없을 때, 우리는 스스로를 바꾸라는 도전을 받는다.'),
+    ('Everything can be taken from a man but one thing: the last of the human freedoms, to choose one''s attitude in any given set of circumstances.', 'ko',
+     '인간에게서 모든 것을 빼앗을 수 있지만 단 하나는 빼앗을 수 없다. 어떤 상황에서도 자신의 태도를 선택할 수 있는, 인간의 마지막 자유다.');
