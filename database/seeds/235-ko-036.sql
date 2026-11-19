@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dost thou love life? Then do not squander time, for that is the stuff life is made of.', 'ko',
      '그대는 삶을 사랑하는가? 그렇다면 시간을 낭비하지 마라. 시간이야말로 삶을 이루는 재료이니.'),
     ('I don''t stop when I''m tired. I stop when I''m done.', 'ko',
-     '나는 지쳤을 때 멈추지 않는다. 다 끝냈을 때 멈춘다.');
+     '나는 지쳤을 때 멈추지 않는다. 다 끝냈을 때 멈춘다.'),
+    ('The only easy day was yesterday.', 'ko',
+     '쉬웠던 날은 어제뿐이었다.');
