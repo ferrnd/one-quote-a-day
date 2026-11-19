@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is not a lottery ticket you can sit on the sofa and clutch, feeling lucky. It is an axe you break down doors with in an emergency.', 'ko',
      '희망은 소파에 앉아 움켜쥐고 운이 좋다고 느끼는 복권이 아니다. 비상시에 문을 부수는 도끼다.'),
     ('Let us be of good cheer, remembering that the misfortunes hardest to bear are those which never come.', 'ko',
-     '기운을 내자. 가장 견디기 힘든 불행은 결코 오지 않는 불행이라는 것을 기억하면서.');
+     '기운을 내자. 가장 견디기 힘든 불행은 결코 오지 않는 불행이라는 것을 기억하면서.'),
+    ('The best way to cheer yourself up is to try to cheer somebody else up.', 'ko',
+     '자신을 기운 나게 하는 가장 좋은 방법은 다른 누군가를 기운 나게 해 주려고 애쓰는 것이다.');
