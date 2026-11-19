@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are never too old to set another goal or to dream a new dream.', 'ko',
      '또 다른 목표를 세우거나 새로운 꿈을 꾸기에 너무 늦은 나이란 없다.'),
     ('Act as if what you do makes a difference. It does.', 'ko',
-     '당신이 하는 일이 변화를 만든다고 생각하고 행동하라. 실제로 그렇다.');
+     '당신이 하는 일이 변화를 만든다고 생각하고 행동하라. 실제로 그렇다.'),
+    ('What we fear doing most is usually what we most need to do.', 'ko',
+     '우리가 가장 하기 두려워하는 일이 대개 우리가 가장 해야 하는 일이다.');
