@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The secret of success is constancy to purpose.', 'zh-CN',
      '成功的秘诀在于对目标的始终如一。'),
     ('Persist and persevere, and you will find most things that are attainable, possible.', 'zh-CN',
-     '坚持不懈，你会发现大多数能达到的事情都是可能的。');
+     '坚持不懈，你会发现大多数能达到的事情都是可能的。'),
+    ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'zh-CN',
+     '大多数人恰恰在即将成功时放弃，在离终点线只有一码的地方停了下来。');
