@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A man is not old until regrets take the place of dreams.', 'zh-CN',
      '直到遗憾取代了梦想，一个人才算老了。'),
     ('In dreams begins responsibility.', 'zh-CN',
-     '责任始于梦中。');
+     '责任始于梦中。'),
+    ('Tread softly because you tread on my dreams.', 'zh-CN',
+     '请轻轻地踩，因为你踩着的是我的梦。');
