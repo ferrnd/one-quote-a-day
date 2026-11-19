@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is a rough road that leads to the heights of greatness.', 'ja',
      '偉大さの高みへと続くのは、険しい道である。'),
     ('Difficult roads often lead to beautiful destinations.', 'ja',
-     '困難な道は、しばしば美しい目的地へと続いている。');
+     '困難な道は、しばしば美しい目的地へと続いている。'),
+    ('In the midst of chaos, there is also opportunity.', 'ja',
+     '混乱の中にも、好機はある。');
