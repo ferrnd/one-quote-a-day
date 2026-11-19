@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He that can have patience can have what he will.', 'zh-CN',
      '能够忍耐的人，就能得到他想要的。'),
     ('Have patience with all things, but first of all with yourself.', 'zh-CN',
-     '对一切事物都要有耐心，但首先要对自己有耐心。');
+     '对一切事物都要有耐心，但首先要对自己有耐心。'),
+    ('One moment of patience may ward off great disaster. One moment of impatience may ruin a whole life.', 'zh-CN',
+     '一时的忍耐可以避免大祸，一时的急躁可能毁掉一生。');
