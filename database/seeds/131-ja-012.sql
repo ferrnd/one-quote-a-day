@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.', 'ja',
      '英雄とは、圧倒的な障害があっても粘り強く耐え抜く強さを見いだす、普通の人のことだ。'),
     ('What lies behind us and what lies before us are tiny matters compared to what lies within us.', 'ja',
-     '過去にあるものも未来にあるものも、私たちの内にあるものに比べればささいなことだ。');
+     '過去にあるものも未来にあるものも、私たちの内にあるものに比べればささいなことだ。'),
+    ('The greatest test of courage on earth is to bear defeat without losing heart.', 'ja',
+     'この世で最も勇気を試されるのは、心をくじかれることなく敗北に耐えることだ。');
