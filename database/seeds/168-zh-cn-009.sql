@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep your eyes on the stars, and your feet on the ground.', 'zh-CN',
      '眼望星空，脚踏实地。'),
     ('Hope is a waking dream.', 'zh-CN',
-     '希望是醒着的梦。');
+     '希望是醒着的梦。'),
+    ('While there''s life, there''s hope.', 'zh-CN',
+     '只要有生命，就有希望。');
