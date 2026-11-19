@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s failure that gives you the proper perspective on success.', 'ja',
      '成功を正しく見る目を与えてくれるのは、失敗だ。'),
     ('Success is how high you bounce when you hit bottom.', 'ja',
-     '成功とは、どん底に落ちたときにどれだけ高く跳ね返るかである。');
+     '成功とは、どん底に落ちたときにどれだけ高く跳ね返るかである。'),
+    ('Don''t let the fear of losing be greater than the excitement of winning.', 'ja',
+     '負ける恐怖を、勝つわくわくよりも大きくしてはいけない。');
