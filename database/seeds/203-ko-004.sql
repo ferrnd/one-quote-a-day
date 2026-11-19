@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the most important of all the virtues because without courage, you can''t practice any other virtue consistently.', 'ko',
      '용기는 모든 덕목 중에서 가장 중요하다. 용기 없이는 어떤 덕목도 꾸준히 실천할 수 없기 때문이다.'),
     ('Freedom lies in being bold.', 'ko',
-     '자유는 대담함 속에 있다.');
+     '자유는 대담함 속에 있다.'),
+    ('The only thing we have to fear is fear itself.', 'ko',
+     '우리가 두려워해야 할 유일한 것은 두려움 그 자체다.');
