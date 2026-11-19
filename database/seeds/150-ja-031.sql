@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no substitute for hard work.', 'ja',
      '努力に代わるものはない。'),
     ('The difference between try and triumph is just a little umph!', 'ja',
-     '「挑戦（トライ）」と「勝利（トライアンフ）」の違いは、ほんの少しの「気合い」だけだ。');
+     '「挑戦（トライ）」と「勝利（トライアンフ）」の違いは、ほんの少しの「気合い」だけだ。'),
+    ('Perseverance is failing nineteen times and succeeding the twentieth.', 'ja',
+     '根気とは、十九回失敗して二十回目に成功することだ。');
