@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity has ever been considered the state in which a man most easily becomes acquainted with himself.', 'zh-CN',
      '逆境一向被认为是一个人最容易认识自己的境况。'),
     ('Bad times have a scientific value. These are occasions a good learner would not miss.', 'zh-CN',
-     '艰难的时期有科学价值，这是一个善于学习的人不会错过的机会。');
+     '艰难的时期有科学价值，这是一个善于学习的人不会错过的机会。'),
+    ('Every wall is a door.', 'zh-CN',
+     '每一堵墙都是一扇门。');
