@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'zh-CN',
      '只有一样东西会让梦想无法实现，那就是对失败的恐惧。'),
     ('Failure is not the opposite of success; it''s part of success.', 'zh-CN',
-     '失败不是成功的反面，而是成功的一部分。');
+     '失败不是成功的反面，而是成功的一部分。'),
+    ('You build on failure. You use it as a stepping stone.', 'zh-CN',
+     '在失败之上建造，把它当作垫脚石。');
