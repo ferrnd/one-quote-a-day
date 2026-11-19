@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a good thing, maybe the best of things, and no good thing ever dies.', 'ja',
      '希望は良いものだ。たぶん最高のものだ。そして良いものは決して滅びない。'),
     ('The darkest hour has only sixty minutes.', 'ja',
-     '最も暗い時間も、六十分しかない。');
+     '最も暗い時間も、六十分しかない。'),
+    ('Never lose hope. Storms make people stronger and never last forever.', 'ja',
+     '希望を失ってはいけない。嵐は人を強くし、そして永遠に続くことはない。');
