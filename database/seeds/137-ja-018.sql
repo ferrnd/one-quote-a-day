@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Mountains cannot be surmounted except by winding paths.', 'ja',
      '山は、曲がりくねった道を通らなければ越えられない。'),
     ('Pain is inevitable. Suffering is optional.', 'ja',
-     '痛みは避けられない。苦しみは自分しだいだ。');
+     '痛みは避けられない。苦しみは自分しだいだ。'),
+    ('Problems are only opportunities in work clothes.', 'ja',
+     '問題とは、作業着を着たチャンスにすぎない。');
