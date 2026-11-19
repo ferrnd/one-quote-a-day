@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You just can''t beat the person who never gives up.', 'ko',
      '결코 포기하지 않는 사람은 도저히 이길 수 없다.'),
     ('Don''t watch the clock; do what it does. Keep going.', 'ko',
-     '시계를 보지 마라. 시계처럼 하라. 계속 나아가라.');
+     '시계를 보지 마라. 시계처럼 하라. 계속 나아가라.'),
+    ('What we hope ever to do with ease, we must learn first to do with diligence.', 'ko',
+     '언젠가 쉽게 해내고 싶은 일은 먼저 부지런히 하는 법부터 배워야 한다.');
