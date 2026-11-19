@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s not what you look at that matters, it''s what you see.', 'ko',
      '중요한 것은 무엇을 보느냐가 아니라 무엇이 보이느냐다.'),
     ('I am not a product of my circumstances. I am a product of my decisions.', 'ko',
-     '나는 내 환경의 산물이 아니다. 나는 내 결정의 산물이다.');
+     '나는 내 환경의 산물이 아니다. 나는 내 결정의 산물이다.'),
+    ('Confidence comes not from always being right but from not fearing to be wrong.', 'ko',
+     '자신감은 언제나 옳은 데서가 아니라 틀리는 것을 두려워하지 않는 데서 나온다.');
