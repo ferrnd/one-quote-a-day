@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perseverance, secret of all triumphs.', 'zh-CN',
      '坚持，是一切胜利的秘诀。'),
     ('The road to success is dotted with many tempting parking spaces.', 'zh-CN',
-     '通往成功的路上，点缀着许多诱人的停车位。');
+     '通往成功的路上，点缀着许多诱人的停车位。'),
+    ('If you fell down yesterday, stand up today.', 'zh-CN',
+     '如果你昨天跌倒了，今天就站起来。');
