@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is simply the opportunity to begin again, this time more intelligently.', 'ja',
      '失敗とは、より賢くもう一度始めるための機会にすぎない。'),
     ('Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.', 'ja',
-     '挑戦した。失敗した。かまわない。また挑戦しろ。また失敗しろ。もっとうまく失敗しろ。');
+     '挑戦した。失敗した。かまわない。また挑戦しろ。また失敗しろ。もっとうまく失敗しろ。'),
+    ('I''ve failed over and over and over again in my life. And that is why I succeed.', 'ja',
+     '私は人生で何度も何度も失敗してきた。だからこそ成功できるのだ。');
