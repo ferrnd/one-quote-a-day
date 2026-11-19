@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Loss is nothing else but change, and change is Nature''s delight.', 'zh-CN',
      '失去不过是变化，而变化是大自然的乐趣。'),
     ('Dwell on the beauty of life. Watch the stars, and see yourself running with them.', 'zh-CN',
-     '沉浸于生命之美。仰望星辰，想象自己与它们一同奔跑。');
+     '沉浸于生命之美。仰望星辰，想象自己与它们一同奔跑。'),
+    ('When you arise in the morning, think of what a precious privilege it is to be alive.', 'zh-CN',
+     '早晨起床时，想一想活着是多么宝贵的特权。');
