@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Make each day your masterpiece.', 'ko',
      '하루하루를 당신의 걸작으로 만들어라.'),
     ('Be quick, but don''t hurry.', 'ko',
-     '빠르게 하되, 서두르지는 마라.');
+     '빠르게 하되, 서두르지는 마라.'),
+    ('Be not afraid of growing slowly, be afraid only of standing still.', 'ko',
+     '천천히 자라는 것을 두려워하지 말고, 멈춰 서는 것만을 두려워하라.');
