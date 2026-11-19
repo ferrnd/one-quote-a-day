@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a verb with its shirtsleeves rolled up.', 'ko',
      '희망은 소매를 걷어붙인 동사다.'),
     ('To hope is to give yourself to the future.', 'ko',
-     '희망한다는 것은 자신을 미래에 내어 주는 것이다.');
+     '희망한다는 것은 자신을 미래에 내어 주는 것이다.'),
+    ('Hope is not a lottery ticket you can sit on the sofa and clutch, feeling lucky. It is an axe you break down doors with in an emergency.', 'ko',
+     '희망은 소파에 앉아 움켜쥐고 운이 좋다고 느끼는 복권이 아니다. 비상시에 문을 부수는 도끼다.');
