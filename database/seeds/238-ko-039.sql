@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is nothing like a dream to create the future.', 'ko',
      '미래를 창조하는 데 꿈만 한 것은 없다.'),
     ('The power of imagination makes us infinite.', 'ko',
-     '상상력의 힘이 우리를 무한하게 만든다.');
+     '상상력의 힘이 우리를 무한하게 만든다.'),
+    ('You see things; and you say ''Why?'' But I dream things that never were; and I say ''Why not?''', 'ko',
+     '당신은 사물을 보고 "왜?"라고 묻는다. 하지만 나는 결코 존재한 적 없는 것을 꿈꾸며 "왜 안 돼?"라고 묻는다.');
