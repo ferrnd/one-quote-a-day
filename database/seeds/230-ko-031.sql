@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no substitute for hard work.', 'ko',
      '노력을 대신할 수 있는 것은 없다.'),
     ('The difference between try and triumph is just a little umph!', 'ko',
-     '''시도''와 ''승리''의 차이는 아주 작은 ''기합'' 하나뿐이다!');
+     '''시도''와 ''승리''의 차이는 아주 작은 ''기합'' 하나뿐이다!'),
+    ('Perseverance is failing nineteen times and succeeding the twentieth.', 'ko',
+     '끈기란 열아홉 번 실패하고 스무 번째에 성공하는 것이다.');
