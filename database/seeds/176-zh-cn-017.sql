@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The block of granite which was an obstacle in the path of the weak becomes a stepping stone in the path of the strong.', 'zh-CN',
      '在弱者的路上是绊脚石的花岗岩，在强者的路上会变成垫脚石。'),
     ('Obstacles are those frightful things you see when you take your eyes off your goal.', 'zh-CN',
-     '障碍就是当你的目光离开目标时，看到的那些可怕的东西。');
+     '障碍就是当你的目光离开目标时，看到的那些可怕的东西。'),
+    ('Obstacles don''t have to stop you. If you run into a wall, don''t turn around and give up. Figure out how to climb it, go through it, or work around it.', 'zh-CN',
+     '障碍不一定会让你停下来。如果你撞上一堵墙，不要转身放弃，想办法爬过去、穿过去，或者绕过去。');
