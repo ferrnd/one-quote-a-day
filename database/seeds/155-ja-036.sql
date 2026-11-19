@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I don''t stop when I''m tired. I stop when I''m done.', 'ja',
      '疲れたときにやめるのではない。やり終えたときにやめるのだ。'),
     ('The only easy day was yesterday.', 'ja',
-     '楽だった日は、昨日だけだ。');
+     '楽だった日は、昨日だけだ。'),
+    ('In a gentle way, you can shake the world.', 'ja',
+     '穏やかなやり方で、世界を揺るがすことができる。');
