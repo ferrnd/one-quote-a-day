@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only real voyage of discovery consists not in seeking new landscapes, but in having new eyes.', 'zh-CN',
      '真正的发现之旅不在于寻找新的风景，而在于拥有新的眼光。'),
     ('Not until we are lost do we begin to understand ourselves.', 'zh-CN',
-     '直到我们迷失了，才开始真正了解自己。');
+     '直到我们迷失了，才开始真正了解自己。'),
+    ('Things do not change; we change.', 'zh-CN',
+     '事物没有改变，是我们改变了。');
