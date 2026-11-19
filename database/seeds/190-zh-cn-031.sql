@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Each person must live their life as a model for others.', 'zh-CN',
      '每个人都必须把自己的人生活成他人的榜样。'),
     ('If you don''t like the road you''re walking, start paving another one.', 'zh-CN',
-     '如果你不喜欢你正在走的路，就开始铺另一条路吧。');
+     '如果你不喜欢你正在走的路，就开始铺另一条路吧。'),
+    ('You get in life what you have the courage to ask for.', 'zh-CN',
+     '在生活中，你能得到的，是你有勇气去争取的东西。');
