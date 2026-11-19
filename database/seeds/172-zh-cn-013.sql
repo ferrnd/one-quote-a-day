@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When they go low, we go high.', 'zh-CN',
      '他们往下作践，我们往高处走。'),
     ('Ability may get you to the top, but it takes character to keep you there.', 'zh-CN',
-     '能力也许能让你登上顶峰，但要留在那里，需要的是品格。');
+     '能力也许能让你登上顶峰，但要留在那里，需要的是品格。'),
+    ('When there is no enemy within, the enemies outside cannot hurt you.', 'zh-CN',
+     '只要内心没有敌人，外面的敌人就伤害不了你。');
