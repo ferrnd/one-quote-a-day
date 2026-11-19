@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Victory belongs to the most persevering.', 'zh-CN',
      '胜利属于最坚持不懈的人。'),
     ('With ordinary talent and extraordinary perseverance, all things are attainable.', 'zh-CN',
-     '有平凡的天赋和非凡的毅力，一切都可以实现。');
+     '有平凡的天赋和非凡的毅力，一切都可以实现。'),
+    ('The drops of rain make a hole in the stone, not by violence, but by oft falling.', 'zh-CN',
+     '雨滴能在石头上滴出洞来，不是靠猛烈，而是靠不断地落下。');
