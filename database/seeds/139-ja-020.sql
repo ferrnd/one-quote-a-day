@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If not now, when?', 'ja',
      '今でなければ、いつやるのか。'),
     ('To begin, begin.', 'ja',
-     '始めるには、始めることだ。');
+     '始めるには、始めることだ。'),
+    ('Pursue what catches your heart, not what catches your eyes.', 'ja',
+     '目を引くものではなく、心をつかむものを追いかけなさい。');
