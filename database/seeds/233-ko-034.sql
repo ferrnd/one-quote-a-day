@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of every crisis comes the chance to be reborn.', 'ko',
      '모든 위기에서 다시 태어날 기회가 생겨난다.'),
     ('Nothing is permanent in this wicked world, not even our troubles.', 'ko',
-     '이 고약한 세상에 영원한 것은 없다. 우리의 고민조차도.');
+     '이 고약한 세상에 영원한 것은 없다. 우리의 고민조차도.'),
+    ('Hardships make or break people.', 'ko',
+     '고난은 사람을 만들기도 하고 무너뜨리기도 한다.');
