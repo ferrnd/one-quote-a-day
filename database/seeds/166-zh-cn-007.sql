@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life doesn''t get easier or more forgiving, we get stronger and more resilient.', 'zh-CN',
      '生活不会变得更容易、更宽容，是我们变得更坚强、更有韧性。'),
     ('Do not pray for an easy life, pray for the strength to endure a difficult one.', 'zh-CN',
-     '不要祈求安逸的人生，要祈求能承受艰难人生的力量。');
+     '不要祈求安逸的人生，要祈求能承受艰难人生的力量。'),
+    ('The human capacity for burden is like bamboo: far more flexible than you''d ever believe at first glance.', 'zh-CN',
+     '人承受重担的能力就像竹子，远比你乍看之下以为的更有韧性。');
