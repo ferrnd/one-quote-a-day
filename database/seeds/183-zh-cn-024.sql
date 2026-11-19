@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Genius is eternal patience.', 'zh-CN',
      '天才就是永恒的耐心。'),
     ('Patience is the companion of wisdom.', 'zh-CN',
-     '耐心是智慧的伴侣。');
+     '耐心是智慧的伴侣。'),
+    ('He that can have patience can have what he will.', 'zh-CN',
+     '能够忍耐的人，就能得到他想要的。');
