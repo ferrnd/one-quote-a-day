@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We need never be hopeless because we can never be irreparably broken.', 'zh-CN',
      '我们永远不必绝望，因为我们永远不会破碎到无法修补。'),
     ('We will grieve not, rather find strength in what remains behind.', 'zh-CN',
-     '我们不会悲伤，而要从留下的一切中寻找力量。');
+     '我们不会悲伤，而要从留下的一切中寻找力量。'),
+    ('Be like the bird who, halting in his flight on limb too slight, feels it give way beneath him, yet sings, knowing he hath wings.', 'zh-CN',
+     '要像那只鸟，飞行中停在太细的枝头，感觉到枝条在脚下弯折，却依然歌唱，因为它知道自己有翅膀。');
