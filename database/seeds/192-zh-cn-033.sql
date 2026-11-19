@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'zh-CN',
      '当你犯了错，你只应该做三件事：承认它，从中学习，不再重复。'),
     ('Failure is a detour, not a dead-end street.', 'zh-CN',
-     '失败是一段弯路，而不是一条死胡同。');
+     '失败是一段弯路，而不是一条死胡同。'),
+    ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'zh-CN',
+     '失败并不总是错误，它可能只是在当时的情况下所能做到的最好。真正的错误是停止尝试。');
