@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no such thing as ruining your life. Life''s a pretty resilient thing, it turns out.', 'ja',
-     '人生を台無しにするなんてことはない。人生というのは、案外しぶといものなのだ。');
+     '人生を台無しにするなんてことはない。人生というのは、案外しぶといものなのだ。'),
+    ('Resilience is knowing that you are the only one that has the power and the responsibility to pick yourself up.', 'ja',
+     '立ち直る力とは、自分を立ち上がらせる力と責任を持っているのは自分だけだと知ることだ。');
