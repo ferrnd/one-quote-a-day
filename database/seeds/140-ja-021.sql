@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Put your heart, mind, and soul into even your smallest acts. This is the secret of success.', 'ja',
      'どんなに小さな行いにも、心と頭と魂を込めなさい。それが成功の秘訣だ。'),
     ('You can''t cross the sea merely by standing and staring at the water.', 'ja',
-     'ただ立って水を見つめているだけでは、海を渡ることはできない。');
+     'ただ立って水を見つめているだけでは、海を渡ることはできない。'),
+    ('The most difficult thing is the decision to act, the rest is merely tenacity.', 'ja',
+     '最も難しいのは行動すると決めることだ。あとは粘り強さの問題にすぎない。');
