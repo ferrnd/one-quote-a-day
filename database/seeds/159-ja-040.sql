@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best way to make your dreams come true is to wake up.', 'ja',
      '夢をかなえる最良の方法は、目を覚ますことだ。'),
     ('Who looks outside, dreams; who looks inside, awakes.', 'ja',
-     '外を見る者は夢を見、内を見る者は目覚める。');
+     '外を見る者は夢を見、内を見る者は目覚める。'),
+    ('You are never given a wish without also being given the power to make it come true.', 'ja',
+     '願いが与えられるときには、必ずそれをかなえる力も一緒に与えられている。');
