@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.', 'zh-CN',
      '英雄是一个普通人，他在难以逾越的障碍面前，依然找到了坚持与忍耐的力量。'),
     ('What lies behind us and what lies before us are tiny matters compared to what lies within us.', 'zh-CN',
-     '与我们内心所拥有的相比，身后的过去和面前的未来都是微不足道的小事。');
+     '与我们内心所拥有的相比，身后的过去和面前的未来都是微不足道的小事。'),
+    ('The greatest test of courage on earth is to bear defeat without losing heart.', 'zh-CN',
+     '世上对勇气最大的考验，是承受失败而不丧失信心。');
