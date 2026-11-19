@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is some good in this world, and it''s worth fighting for.', 'ko',
      '이 세상에는 아직 좋은 것이 있고, 그것은 싸워서 지킬 가치가 있다.'),
     ('Hope is a good thing, maybe the best of things, and no good thing ever dies.', 'ko',
-     '희망은 좋은 것이다. 어쩌면 가장 좋은 것일지도 모른다. 그리고 좋은 것은 결코 죽지 않는다.');
+     '희망은 좋은 것이다. 어쩌면 가장 좋은 것일지도 모른다. 그리고 좋은 것은 결코 죽지 않는다.'),
+    ('The darkest hour has only sixty minutes.', 'ko',
+     '가장 어두운 시간도 60분뿐이다.');
