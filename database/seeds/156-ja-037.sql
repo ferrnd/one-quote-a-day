@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wait for leaders; do it alone, person to person.', 'ja',
      '指導者を待ってはいけません。一人で、一人ひとりに向き合ってやりなさい。'),
     ('Don''t judge each day by the harvest you reap but by the seeds that you plant.', 'ja',
-     '一日一日を、刈り取った収穫で判断するのではなく、蒔いた種で判断しなさい。');
+     '一日一日を、刈り取った収穫で判断するのではなく、蒔いた種で判断しなさい。'),
+    ('Do something wonderful, people may imitate it.', 'ja',
+     '何かすばらしいことをしなさい。人々はそれをまねするかもしれない。');
