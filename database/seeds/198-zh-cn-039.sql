@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('They can conquer who believe they can.', 'zh-CN',
      '相信自己能够胜利的人，就能胜利。'),
     ('There are no limits. There are plateaus, but you must not stay there, you must go beyond them.', 'zh-CN',
-     '没有极限。会有停滞期，但你不能停留在那里，你必须超越它们。');
+     '没有极限。会有停滞期，但你不能停留在那里，你必须超越它们。'),
+    ('A goal is not always meant to be reached, it often serves simply as something to aim at.', 'zh-CN',
+     '目标并不总是为了达到，它往往只是一个用来瞄准的方向。');
