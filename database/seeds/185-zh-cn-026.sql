@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Age is no barrier. It''s a limitation you put on your mind.', 'zh-CN',
      '年龄不是障碍，而是你给自己的思想设下的限制。'),
     ('The difference between ordinary and extraordinary is that little extra.', 'zh-CN',
-     '平凡与非凡的区别，就在于那多出来的一点点。');
+     '平凡与非凡的区别，就在于那多出来的一点点。'),
+    ('Winning isn''t everything, but wanting to win is.', 'zh-CN',
+     '胜利不是一切，但渴望胜利是一切。');
