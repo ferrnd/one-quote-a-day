@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Argue for your limitations, and sure enough they''re yours.', 'ja',
      '自分の限界を主張すれば、それは確かにあなたのものになる。'),
     ('Success is liking yourself, liking what you do, and liking how you do it.', 'ja',
-     '成功とは、自分を好きになり、自分のしていることを好きになり、そのやり方を好きになることだ。');
+     '成功とは、自分を好きになり、自分のしていることを好きになり、そのやり方を好きになることだ。'),
+    ('The soul becomes dyed with the color of its thoughts.', 'ja',
+     '魂は、その思考の色に染まっていく。');
