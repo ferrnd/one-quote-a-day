@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are patient in one moment of anger, you will escape a hundred days of sorrow.', 'ko',
      '한때의 분노를 참으면 백 일의 근심을 면한다.'),
     ('Patience is the support of weakness; impatience the ruin of strength.', 'ko',
-     '인내는 약함을 지탱해 주고, 조급함은 강함을 무너뜨린다.');
+     '인내는 약함을 지탱해 주고, 조급함은 강함을 무너뜨린다.'),
+    ('Endurance is patience concentrated.', 'ko',
+     '끈기란 응축된 인내다.');
