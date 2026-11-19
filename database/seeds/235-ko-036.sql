@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In a gentle way, you can shake the world.', 'ko',
      '부드러운 방식으로도 세상을 뒤흔들 수 있다.'),
     ('Re-examine all you have been told; dismiss what insults your soul.', 'ko',
-     '지금까지 들어 온 모든 것을 다시 검토하고, 당신의 영혼을 모욕하는 것은 버려라.');
+     '지금까지 들어 온 모든 것을 다시 검토하고, 당신의 영혼을 모욕하는 것은 버려라.'),
+    ('Change is the end result of all true learning.', 'ko',
+     '변화는 모든 진정한 배움의 최종 결과다.');
