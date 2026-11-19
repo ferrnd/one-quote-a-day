@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not the critic who counts.', 'zh-CN',
      '重要的不是那些批评的人。'),
     ('The credit belongs to the man who is actually in the arena.', 'zh-CN',
-     '荣誉属于真正站在竞技场上的人。');
+     '荣誉属于真正站在竞技场上的人。'),
+    ('Fear has two meanings: forget everything and run, or face everything and rise.', 'zh-CN',
+     '恐惧有两种含义：忘掉一切然后逃跑，或者面对一切然后崛起。');
