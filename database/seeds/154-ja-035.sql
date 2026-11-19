@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Power is not given to you. You have to take it.', 'ja',
      '力は与えられるものではない。自分でつかみ取るものだ。'),
     ('I''m not going to limit myself just because people won''t accept the fact that I can do something else.', 'ja',
-     '私がほかのこともできるという事実を人々が受け入れないからといって、自分に限界を設けるつもりはない。');
+     '私がほかのこともできるという事実を人々が受け入れないからといって、自分に限界を設けるつもりはない。'),
+    ('Nobody has ever measured, not even poets, how much the heart can hold.', 'ja',
+     '心がどれほど多くを抱えられるか、詩人でさえ、誰も測ったことはない。');
