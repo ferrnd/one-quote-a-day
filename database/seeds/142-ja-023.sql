@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you think you are beaten, you are.', 'ja',
      '負けたと思えば、あなたは負けている。'),
     ('Sooner or later the man who wins is the man who thinks he can.', 'ja',
-     '遅かれ早かれ、勝つのはできると思っている人間だ。');
+     '遅かれ早かれ、勝つのはできると思っている人間だ。'),
+    ('We become what we think about.', 'ja',
+     '私たちは、自分が考えているとおりのものになる。');
