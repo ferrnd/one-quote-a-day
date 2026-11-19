@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When there is no enemy within, the enemies outside cannot hurt you.', 'ko',
      '안에 적이 없으면 밖의 적은 당신을 해칠 수 없다.'),
     ('Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.', 'ko',
-     '우리의 가장 깊은 두려움은 우리가 부족하다는 것이 아니다. 우리의 가장 깊은 두려움은 우리가 헤아릴 수 없을 만큼 강하다는 것이다.');
+     '우리의 가장 깊은 두려움은 우리가 부족하다는 것이 아니다. 우리의 가장 깊은 두려움은 우리가 헤아릴 수 없을 만큼 강하다는 것이다.'),
+    ('Trust thyself: every heart vibrates to that iron string.', 'ko',
+     '너 자신을 믿어라. 모든 마음은 그 강철 현에 맞추어 떨린다.');
