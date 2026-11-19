@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard work beats talent when talent doesn''t work hard.', 'zh-CN',
      '当天才不努力时，努力就会打败天才。'),
     ('Small disciplines repeated with consistency every day lead to great achievements gained slowly over time.', 'zh-CN',
-     '每天坚持重复的小小自律，会随着时间慢慢带来巨大的成就。');
+     '每天坚持重复的小小自律，会随着时间慢慢带来巨大的成就。'),
+    ('You will never change your life until you change something you do daily.', 'zh-CN',
+     '除非你改变每天都在做的某件事，否则你永远无法改变你的人生。');
