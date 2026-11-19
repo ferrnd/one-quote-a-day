@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is not how high you have climbed, but how you make a positive difference to the world.', 'ko',
      '성공은 얼마나 높이 올랐느냐가 아니라, 세상에 얼마나 긍정적인 변화를 가져오느냐다.'),
     ('The best revenge is massive success.', 'ko',
-     '최고의 복수는 엄청난 성공이다.');
+     '최고의 복수는 엄청난 성공이다.'),
+    ('Grief can be the garden of compassion.', 'ko',
+     '슬픔은 연민의 정원이 될 수 있다.');
