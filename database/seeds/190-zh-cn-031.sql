@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are going to doubt something, doubt your limits.', 'zh-CN',
      '如果你要怀疑什么，就怀疑你的极限吧。'),
     ('There is no substitute for hard work.', 'zh-CN',
-     '努力是无可替代的。');
+     '努力是无可替代的。'),
+    ('The difference between try and triumph is just a little umph!', 'zh-CN',
+     '“尝试”与“胜利”之间的区别，只在于多一点点“劲儿”！');
