@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Mistakes are always forgivable, if one has the courage to admit them.', 'zh-CN',
      '只要有勇气承认，错误总是可以被原谅的。'),
     ('Do not fear mistakes. There are none.', 'zh-CN',
-     '不要害怕犯错，根本就没有错误。');
+     '不要害怕犯错，根本就没有错误。'),
+    ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'zh-CN',
+     '当你犯了错，你只应该做三件事：承认它，从中学习，不再重复。');
