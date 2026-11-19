@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who is not courageous enough to take risks will accomplish nothing in life.', 'ja',
      '危険を冒す勇気のない者は、人生で何も成し遂げられない。'),
     ('Only those who will risk going too far can possibly find out how far one can go.', 'ja',
-     '行きすぎる危険を冒す者だけが、人がどこまで行けるかを知ることができる。');
+     '行きすぎる危険を冒す者だけが、人がどこまで行けるかを知ることができる。'),
+    ('Fortune favors the bold.', 'ja',
+     '幸運は勇者に味方する。');
