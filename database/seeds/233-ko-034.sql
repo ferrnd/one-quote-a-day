@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never doubt that a small group of thoughtful, committed citizens can change the world.', 'ko',
      '사려 깊고 헌신적인 소수의 시민이 세상을 바꿀 수 있다는 것을 결코 의심하지 마라.'),
     ('Keep your face to the sunshine and you cannot see a shadow.', 'ko',
-     '얼굴을 언제나 햇빛 쪽으로 향하라. 그러면 그림자를 볼 수 없다.');
+     '얼굴을 언제나 햇빛 쪽으로 향하라. 그러면 그림자를 볼 수 없다.'),
+    ('One day, in retrospect, the years of struggle will strike you as the most beautiful.', 'ko',
+     '언젠가 돌아보면, 투쟁했던 그 세월이 가장 아름다웠다고 느껴질 것이다.');
