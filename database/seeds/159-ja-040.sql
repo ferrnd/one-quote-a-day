@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be kind, for everyone you meet is fighting a hard battle.', 'ja',
      '親切であれ。あなたが出会う人は皆、つらい戦いを戦っているのだから。'),
     ('No act of kindness, no matter how small, is ever wasted.', 'ja',
-     'どんなに小さくても、親切な行いが無駄になることは決してない。');
+     'どんなに小さくても、親切な行いが無駄になることは決してない。'),
+    ('The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.', 'ja',
+     '世界で最も美しく、すばらしいものは、目で見ることも手で触れることもできない。心で感じなければならないのだ。');
