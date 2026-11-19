@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In three words I can sum up everything I''ve learned about life: it goes on.', 'ko',
      '인생에 대해 배운 모든 것을 나는 한마디로 요약할 수 있다. 삶은 계속된다.'),
     ('Vitality shows in not only the ability to persist but the ability to start over.', 'ko',
-     '생명력은 버티는 능력뿐 아니라 다시 시작하는 능력에서도 드러난다.');
+     '생명력은 버티는 능력뿐 아니라 다시 시작하는 능력에서도 드러난다.'),
+    ('But man is not made for defeat. A man can be destroyed but not defeated.', 'ko',
+     '하지만 인간은 패배하도록 만들어지지 않았다. 인간은 파멸할 수는 있어도 패배하지는 않는다.');
