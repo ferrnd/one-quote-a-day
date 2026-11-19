@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you can imagine it, you can achieve it.', 'zh-CN',
      '如果你能想象它，你就能实现它。'),
     ('The dreamers are the saviors of the world.', 'zh-CN',
-     '梦想家是世界的救星。');
+     '梦想家是世界的救星。'),
+    ('Dream lofty dreams, and as you dream, so shall you become.', 'zh-CN',
+     '怀抱崇高的梦想，你梦想成为什么，就会成为什么。');
