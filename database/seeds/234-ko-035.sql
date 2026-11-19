@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You cannot run away from a weakness; you must some time fight it out or perish.', 'ko',
      '약점으로부터 도망칠 수는 없다. 언젠가는 그것과 끝까지 싸우거나 아니면 무너지게 된다.'),
     ('Do not go gentle into that good night. Rage, rage against the dying of the light.', 'ko',
-     '저 좋은 밤으로 순순히 들어가지 마라. 분노하라, 꺼져 가는 빛에 맞서 분노하라.');
+     '저 좋은 밤으로 순순히 들어가지 마라. 분노하라, 꺼져 가는 빛에 맞서 분노하라.'),
+    ('Strength doesn''t come from what you can do. It comes from overcoming the things you once thought you couldn''t.', 'ko',
+     '힘은 당신이 할 수 있는 일에서 나오지 않는다. 한때 할 수 없다고 생각했던 일을 이겨 내는 데서 나온다.');
