@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not that we have a short time to live, but that we waste a lot of it.', 'ko',
      '우리에게 주어진 시간이 짧은 것이 아니라, 우리가 그중 많은 부분을 낭비하는 것이다.'),
     ('While we wait for life, life passes.', 'ko',
-     '삶을 기다리는 동안 삶은 지나간다.');
+     '삶을 기다리는 동안 삶은 지나간다.'),
+    ('Wherever there is a human being, there is an opportunity for a kindness.', 'ko',
+     '사람이 있는 곳이면 어디에나 친절을 베풀 기회가 있다.');
