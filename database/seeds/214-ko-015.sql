@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.', 'ko',
      '그리고 마침내 그날이 왔다. 꽃봉오리 속에 꼭 닫혀 있는 위험이 꽃을 피우는 위험보다 더 고통스러워진 날이.'),
     ('I am always doing that which I cannot do, in order that I may learn how to do it.', 'ko',
-     '나는 늘 내가 할 수 없는 일을 한다. 그것을 하는 법을 배우기 위해서.');
+     '나는 늘 내가 할 수 없는 일을 한다. 그것을 하는 법을 배우기 위해서.'),
+    ('Unless you try to do something beyond what you have already mastered, you will never grow.', 'ko',
+     '이미 익힌 것을 넘어서는 무언가에 도전하지 않는 한 결코 성장할 수 없다.');
