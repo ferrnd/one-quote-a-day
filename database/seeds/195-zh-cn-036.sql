@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I don''t stop when I''m tired. I stop when I''m done.', 'zh-CN',
      '我不是累了才停下，而是做完了才停下。'),
     ('The only easy day was yesterday.', 'zh-CN',
-     '唯一轻松的日子是昨天。');
+     '唯一轻松的日子是昨天。'),
+    ('In a gentle way, you can shake the world.', 'zh-CN',
+     '以温和的方式，你也可以撼动世界。');
