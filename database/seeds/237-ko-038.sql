@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Think big thoughts but relish small pleasures.', 'ko',
      '큰 생각을 품되, 작은 즐거움을 음미하라.'),
     ('Argue for your limitations, and sure enough they''re yours.', 'ko',
-     '자신의 한계를 옹호하면, 틀림없이 그것은 당신의 한계가 된다.');
+     '자신의 한계를 옹호하면, 틀림없이 그것은 당신의 한계가 된다.'),
+    ('Success is liking yourself, liking what you do, and liking how you do it.', 'ko',
+     '성공이란 자신을 좋아하고, 자신이 하는 일을 좋아하고, 그 일을 하는 방식을 좋아하는 것이다.');
