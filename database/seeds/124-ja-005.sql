@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A man of genius makes no mistakes. His errors are volitional and are the portals of discovery.', 'ja',
      '天才は間違いを犯さない。その誤りは意図されたものであり、発見への入り口なのだ。'),
     ('Giving up is the only sure way to fail.', 'ja',
-     'あきらめることだけが、確実に失敗する唯一の方法だ。');
+     'あきらめることだけが、確実に失敗する唯一の方法だ。'),
+    ('Every failure is a step to success.', 'ja',
+     'すべての失敗は、成功への一歩である。');
