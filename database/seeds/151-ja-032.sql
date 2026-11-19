@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the price that life exacts for granting peace.', 'ja',
      '勇気とは、人生が安らぎを与える代わりに求める代償である。'),
     ('Adventure is worthwhile in itself.', 'ja',
-     '冒険は、それ自体に価値がある。');
+     '冒険は、それ自体に価値がある。'),
+    ('Courage is a love affair with the unknown.', 'ja',
+     '勇気とは、未知なるものとの恋愛である。');
