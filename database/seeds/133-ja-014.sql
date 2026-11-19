@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t count the days, make the days count.', 'ja',
      '日々を数えるな。日々を意味あるものにせよ。'),
     ('Dedication sees dreams come true.', 'ja',
-     '献身があれば、夢はかなう。');
+     '献身があれば、夢はかなう。'),
+    ('Rest at the end, not in the middle.', 'ja',
+     '休むのは最後だ。途中ではない。');
