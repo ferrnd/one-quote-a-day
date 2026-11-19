@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day.', 'ja',
      '帽子をしっかり押さえて。希望をしっかり持って。そして時計のねじを巻こう。明日はまた新しい日なのだから。'),
     ('There are far, far better things ahead than any we leave behind.', 'ja',
-     'この先には、後に残してきたどんなものよりも、はるかにすばらしいものが待っている。');
+     'この先には、後に残してきたどんなものよりも、はるかにすばらしいものが待っている。'),
+    ('In spite of everything I still believe that people are really good at heart.', 'ja',
+     'それでもなお、私は人間の本性は善だと信じている。');
