@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.', 'ko',
      '누군가에게 깊이 사랑받으면 힘이 생기고, 누군가를 깊이 사랑하면 용기가 생긴다.'),
     ('Courage is grace under pressure.', 'ko',
-     '용기란 압박 속에서도 잃지 않는 품위다.');
+     '용기란 압박 속에서도 잃지 않는 품위다.'),
+    ('He who is not courageous enough to take risks will accomplish nothing in life.', 'ko',
+     '위험을 감수할 용기가 없는 사람은 인생에서 아무것도 이루지 못한다.');
