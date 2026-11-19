@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Today I will do what others won''t, so tomorrow I can accomplish what others can''t.', 'ja',
      '今日、他人がやらないことをやる。だから明日、他人にできないことを成し遂げられる。'),
     ('You can''t put a limit on anything. The more you dream, the farther you get.', 'ja',
-     '何事にも限界を設けてはいけない。夢を見れば見るほど、遠くまで行ける。');
+     '何事にも限界を設けてはいけない。夢を見れば見るほど、遠くまで行ける。'),
+    ('There are better starters than me but I''m a strong finisher.', 'ja',
+     'スタートが私よりうまい選手はいる。だが、私はゴール前に強い。');
