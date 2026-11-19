@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The bamboo that bends is stronger than the oak that resists.', 'ko',
      '휘어지는 대나무가 버티는 참나무보다 강하다.'),
     ('Hardships often prepare ordinary people for an extraordinary destiny.', 'ko',
-     '고난은 종종 평범한 사람을 비범한 운명에 대비시킨다.');
+     '고난은 종종 평범한 사람을 비범한 운명에 대비시킨다.'),
+    ('Our wounds are often the openings into the best and most beautiful part of us.', 'ko',
+     '우리의 상처는 종종 우리 안의 가장 선하고 아름다운 부분으로 들어가는 입구가 된다.');
