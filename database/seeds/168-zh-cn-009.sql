@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('But man is not made for defeat. A man can be destroyed but not defeated.', 'zh-CN',
      '但人不是为失败而生的。一个人可以被毁灭，但不能被打败。'),
     ('Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.', 'zh-CN',
-     '人生并不总是要握有一手好牌，有时是要把一手烂牌打好。');
+     '人生并不总是要握有一手好牌，有时是要把一手烂牌打好。'),
+    ('Hope is the thing with feathers that perches in the soul.', 'zh-CN',
+     '希望是长着羽毛的东西，栖息在灵魂里。');
