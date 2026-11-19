@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t tell me the sky''s the limit when there are footprints on the moon.', 'ja',
      '月に足跡があるのに、空が限界だなんて言わないでくれ。'),
     ('The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.', 'ja',
-     '地球は人類のゆりかごである。だが、人類はいつまでもゆりかごにとどまってはいられない。');
+     '地球は人類のゆりかごである。だが、人類はいつまでもゆりかごにとどまってはいられない。'),
+    ('Exploration is really the essence of the human spirit.', 'ja',
+     '探検こそ、まさに人間の精神の本質である。');
