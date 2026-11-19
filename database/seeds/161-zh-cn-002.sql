@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never give in. Never, never, never, never.', 'zh-CN',
      '永不屈服。永不，永不，永不，永不。'),
     ('Success seems to be connected with action. Successful people keep moving.', 'zh-CN',
-     '成功似乎总与行动相连。成功的人一直在前进。');
+     '成功似乎总与行动相连。成功的人一直在前进。'),
+    ('Every strike brings me closer to the next home run.', 'zh-CN',
+     '每一次挥空，都让我离下一个本垒打更近。');
