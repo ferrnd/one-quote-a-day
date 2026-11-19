@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Eighty percent of success is showing up.', 'ja',
      '成功の八割は、その場に顔を出すことだ。'),
     ('You can''t build a reputation on what you are going to do.', 'ja',
-     'これからやるつもりのことで、評判を築くことはできない。');
+     'これからやるつもりのことで、評判を築くことはできない。'),
+    ('You may delay, but time will not.', 'ja',
+     'あなたは先延ばしにできても、時間は待ってくれない。');
