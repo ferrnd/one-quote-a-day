@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'ko',
      '가끔씩 실패하지 않는다면, 그것은 별로 혁신적인 일을 하고 있지 않다는 신호다.'),
     ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'ko',
-     '실패는 늘 일어난다. 연습에서는 매일 일어난다. 당신을 더 낫게 만드는 것은 그것에 어떻게 반응하느냐다.');
+     '실패는 늘 일어난다. 연습에서는 매일 일어난다. 당신을 더 낫게 만드는 것은 그것에 어떻게 반응하느냐다.'),
+    ('There are no mistakes or failures, only lessons.', 'ko',
+     '실수도 실패도 없다. 오직 교훈만 있을 뿐이다.');
