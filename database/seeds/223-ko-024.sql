@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One moment of patience may ward off great disaster. One moment of impatience may ruin a whole life.', 'ko',
      '한순간의 인내가 큰 재앙을 막고, 한순간의 조급함이 일생을 망칠 수 있다.'),
     ('Patience is not simply the ability to wait; it''s how we behave while we''re waiting.', 'ko',
-     '인내란 단지 기다리는 능력이 아니라, 기다리는 동안 어떻게 행동하느냐다.');
+     '인내란 단지 기다리는 능력이 아니라, 기다리는 동안 어떻게 행동하느냐다.'),
+    ('Rome wasn''t built in a day.', 'ko',
+     '로마는 하루아침에 이루어지지 않았다.');
