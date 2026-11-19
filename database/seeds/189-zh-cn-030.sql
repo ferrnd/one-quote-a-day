@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Alone we can do so little; together we can do so much.', 'zh-CN',
      '独自一人，我们能做的很少；携手合作，我们能做的很多。'),
     ('The only thing worse than being blind is having sight but no vision.', 'zh-CN',
-     '唯一比失明更糟糕的，是有视力却没有远见。');
+     '唯一比失明更糟糕的，是有视力却没有远见。'),
+    ('No pessimist ever discovered the secret of the stars, or sailed to an uncharted land.', 'zh-CN',
+     '没有一个悲观主义者发现过星星的秘密，或驶向过未知的土地。');
