@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Great things are not done by impulse, but by a series of small things brought together.', 'ja',
      '偉大なことは衝動によってではなく、小さなことの積み重ねによって成し遂げられる。'),
     ('Genius is one percent inspiration and ninety-nine percent perspiration.', 'ja',
-     '天才とは、1パーセントのひらめきと99パーセントの努力である。');
+     '天才とは、1パーセントのひらめきと99パーセントの努力である。'),
+    ('The harder the conflict, the more glorious the triumph.', 'ja',
+     '戦いが厳しいほど、勝利はいっそう輝かしい。');
