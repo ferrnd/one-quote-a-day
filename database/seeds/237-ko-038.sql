@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Impossible is just a big word thrown around by small men.', 'ko',
      '불가능이란 소인배들이 함부로 내뱉는 거창한 단어일 뿐이다.'),
     ('It''s the repetition of affirmations that leads to belief.', 'ko',
-     '믿음으로 이끄는 것은 자기 확신의 반복이다.');
+     '믿음으로 이끄는 것은 자기 확신의 반복이다.'),
+    ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'ko',
+     '내 머리가 그것을 생각할 수 있고 내 마음이 그것을 믿을 수 있다면, 나는 그것을 이룰 수 있다.');
