@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When we are no longer able to change a situation, we are challenged to change ourselves.', 'ja',
      '状況を変えることができなくなったとき、私たちは自分自身を変えるよう求められている。'),
     ('Everything can be taken from a man but one thing: the last of the human freedoms, to choose one''s attitude in any given set of circumstances.', 'ja',
-     '人間からはすべてを奪うことができる。ただ一つを除いて。それは人間の最後の自由、どんな状況においても自分の態度を選ぶ自由である。');
+     '人間からはすべてを奪うことができる。ただ一つを除いて。それは人間の最後の自由、どんな状況においても自分の態度を選ぶ自由である。'),
+    ('The bamboo that bends is stronger than the oak that resists.', 'ja',
+     'しなる竹は、逆らう樫よりも強い。');
