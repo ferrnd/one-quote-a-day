@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Beware the fury of a patient man.', 'ja',
      '忍耐強い人の怒りに用心せよ。'),
     ('Patience is the key to paradise.', 'ja',
-     '忍耐は天国への鍵である。');
+     '忍耐は天国への鍵である。'),
+    ('Be patient toward all that is unsolved in your heart.', 'ja',
+     'あなたの心の中でまだ解決していないすべてのことに対して、忍耐強くありなさい。');
