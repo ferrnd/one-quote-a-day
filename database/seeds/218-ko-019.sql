@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No tree becomes rooted and sturdy unless many a wind assails it.', 'ko',
      '수많은 바람을 맞지 않고는 어떤 나무도 뿌리를 깊이 내리고 튼튼해지지 않는다.'),
     ('It is a rough road that leads to the heights of greatness.', 'ko',
-     '위대함의 정상으로 이끄는 것은 험한 길이다.');
+     '위대함의 정상으로 이끄는 것은 험한 길이다.'),
+    ('Difficult roads often lead to beautiful destinations.', 'ko',
+     '힘든 길은 종종 아름다운 목적지로 이어진다.');
