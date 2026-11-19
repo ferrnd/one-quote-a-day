@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble.', 'ko',
      '용기가 있으면 위험을 무릅쓸 수 있고, 연민할 수 있는 힘과 겸손할 수 있는 지혜를 갖게 된다.'),
     ('One isn''t necessarily born with courage, but one is born with potential.', 'ko',
-     '사람은 꼭 용기를 가지고 태어나는 것은 아니지만, 잠재력은 가지고 태어난다.');
+     '사람은 꼭 용기를 가지고 태어나는 것은 아니지만, 잠재력은 가지고 태어난다.'),
+    ('Courage is the most important of all the virtues because without courage, you can''t practice any other virtue consistently.', 'ko',
+     '용기는 모든 덕목 중에서 가장 중요하다. 용기 없이는 어떤 덕목도 꾸준히 실천할 수 없기 때문이다.');
