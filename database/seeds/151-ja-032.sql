@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you''re supposed to do when you don''t like a thing is change it.', 'ja',
      '気に入らないことがあるなら、するべきことはそれを変えることだ。'),
     ('Be brave. Take risks. Nothing can substitute experience.', 'ja',
-     '勇敢であれ。危険を冒せ。経験に代わるものはない。');
+     '勇敢であれ。危険を冒せ。経験に代わるものはない。'),
+    ('He who is brave is free.', 'ja',
+     '勇敢な者は自由である。');
