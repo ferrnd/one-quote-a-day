@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not a product of my circumstances. I am a product of my decisions.', 'zh-CN',
      '我不是环境的产物，我是我的决定的产物。'),
     ('Confidence comes not from always being right but from not fearing to be wrong.', 'zh-CN',
-     '自信不是来自永远正确，而是来自不怕犯错。');
+     '自信不是来自永远正确，而是来自不怕犯错。'),
+    ('If you want to lift yourself up, lift up someone else.', 'zh-CN',
+     '如果你想提升自己，就去提升别人。');
