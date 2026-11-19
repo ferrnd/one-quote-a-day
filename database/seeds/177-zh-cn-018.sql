@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sometimes adversity is what you need to face in order to become successful.', 'zh-CN',
      '有时候，你必须面对逆境，才能取得成功。'),
     ('Hard times don''t create heroes. It is during the hard times when the hero within us is revealed.', 'zh-CN',
-     '艰难的时代并不创造英雄，而是在艰难的时代，我们内心的英雄才显现出来。');
+     '艰难的时代并不创造英雄，而是在艰难的时代，我们内心的英雄才显现出来。'),
+    ('Mountains cannot be surmounted except by winding paths.', 'zh-CN',
+     '翻越高山，只能走蜿蜒的小路。');
