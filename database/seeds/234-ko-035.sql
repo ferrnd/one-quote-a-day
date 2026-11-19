@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Power is not given to you. You have to take it.', 'ko',
      '힘은 주어지는 것이 아니다. 스스로 쟁취해야 한다.'),
     ('I''m not going to limit myself just because people won''t accept the fact that I can do something else.', 'ko',
-     '내가 다른 일도 할 수 있다는 사실을 사람들이 받아들이지 않는다고 해서 스스로를 제한하지는 않을 것이다.');
+     '내가 다른 일도 할 수 있다는 사실을 사람들이 받아들이지 않는다고 해서 스스로를 제한하지는 않을 것이다.'),
+    ('Nobody has ever measured, not even poets, how much the heart can hold.', 'ko',
+     '마음이 얼마나 많은 것을 담을 수 있는지, 시인들조차 누구도 재어 본 적이 없다.');
