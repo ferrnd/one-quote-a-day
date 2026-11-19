@@ -64,6 +64,7 @@ class MainActivity : ComponentActivity() {
         }
         LifecycleResumeEffect(Unit) {
             state.tick()
+            IconSwitcher.update(applicationContext)
             onPauseOrDispose { }
         }
         LaunchedEffect(openToday.value) { if (openToday.value > 0) state.goToday() }

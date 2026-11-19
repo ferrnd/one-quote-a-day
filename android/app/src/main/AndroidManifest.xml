@@ -17,14 +17,39 @@
             android:name=".MainActivity"
             android:exported="true"
             android:launchMode="singleTask"
-            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden|uiMode|density|locale|layoutDirection">
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden|uiMode|density|locale|layoutDirection" />
+
+        <!-- Two launcher entries for the same screen: the icon follows the theme
+             (white with black quotes by day, black with white quotes at night).
+             IconSwitcher enables exactly one of them. -->
+        <activity-alias
+            android:name=".IconDay"
+            android:targetActivity=".MainActivity"
+            android:icon="@mipmap/ic_launcher"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:enabled="true"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
+        </activity-alias>
+
+        <activity-alias
+            android:name=".IconNight"
+            android:targetActivity=".MainActivity"
+            android:icon="@mipmap/ic_launcher_night"
+            android:roundIcon="@mipmap/ic_launcher_night_round"
+            android:enabled="false"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity-alias>
 
         <receiver android:name=".DailyReceiver" android:exported="false" />
+        <receiver android:name=".IconReceiver" android:exported="false" />
 
         <receiver android:name=".RescheduleReceiver" android:exported="true">
             <intent-filter>

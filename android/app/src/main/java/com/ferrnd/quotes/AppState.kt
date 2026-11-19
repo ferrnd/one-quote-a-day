@@ -49,6 +49,7 @@ class AppState(private val context: Context, val catalog: Catalog) {
         prefs.save(settings)
         if (key == "notify" || key == "notifyAt") Notifier.reschedule(context)
         if (key == "lang") Notifier.ensureChannel(context, lang)
+        if (key == "theme") IconSwitcher.update(context)
     }
 
     fun goTo(day: Int, direction: Slide) {

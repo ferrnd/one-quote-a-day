@@ -130,5 +130,6 @@ class DailyReceiver : BroadcastReceiver() {
 class RescheduleReceiver : BroadcastReceiver() {
     override fun onReceive(context: Context, intent: Intent) {
         Notifier.reschedule(context.applicationContext)
+        IconSwitcher.update(context.applicationContext)
     }
 }
