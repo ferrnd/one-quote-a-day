@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Unless you try to do something beyond what you have already mastered, you will never grow.', 'zh-CN',
      '除非你尝试去做超出你已掌握范围的事情，否则你永远不会成长。'),
     ('We know what we are, but know not what we may be.', 'zh-CN',
-     '我们知道自己是什么，却不知道自己可能成为什么。');
+     '我们知道自己是什么，却不知道自己可能成为什么。'),
+    ('Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.', 'zh-CN',
+     '我们的疑虑是叛徒，它让我们因为害怕尝试，而失去本可以赢得的美好。');
