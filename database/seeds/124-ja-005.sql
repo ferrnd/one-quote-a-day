@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage, dear heart.', 'ja',
      '勇気を出して、愛しい人よ。'),
     ('Courage is the power to let go of the familiar.', 'ja',
-     '勇気とは、慣れ親しんだものを手放す力である。');
+     '勇気とは、慣れ親しんだものを手放す力である。'),
+    ('I have not failed. I''ve just found 10,000 ways that won''t work.', 'ja',
+     '私は失敗したことがない。うまくいかない方法を一万通り見つけただけだ。');
