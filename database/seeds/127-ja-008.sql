@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Resilience is accepting your new reality, even if it''s less good than the one you had before.', 'ja',
      'しなやかさとは、新しい現実を受け入れることだ。たとえそれが以前のものより良くなくても。'),
     ('Man never made any material as resilient as the human spirit.', 'ja',
-     '人間は、人の精神ほどしなやかな素材を作り出したことがない。');
+     '人間は、人の精神ほどしなやかな素材を作り出したことがない。'),
+    ('Grief and resilience live together.', 'ja',
+     '悲しみとしなやかな強さは、共に生きている。');
