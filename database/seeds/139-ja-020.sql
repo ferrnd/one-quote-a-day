@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Go confidently in the direction of your dreams. Live the life you have imagined.', 'ja',
      '夢に向かって自信をもって進め。思い描いたとおりの人生を生きよ。'),
     ('If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.', 'ja',
-     '空中に楼閣を築いたとしても、その仕事は無駄にはならない。楼閣はそこにあるべきものだ。さあ、その下に土台を築こう。');
+     '空中に楼閣を築いたとしても、その仕事は無駄にはならない。楼閣はそこにあるべきものだ。さあ、その下に土台を築こう。'),
+    ('Ideas are easy. Implementation is hard.', 'ja',
+     'アイデアは簡単だ。実行は難しい。');
