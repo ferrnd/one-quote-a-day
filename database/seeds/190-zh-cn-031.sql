@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you don''t like the road you''re walking, start paving another one.', 'zh-CN',
      '如果你不喜欢你正在走的路，就开始铺另一条路吧。'),
     ('You get in life what you have the courage to ask for.', 'zh-CN',
-     '在生活中，你能得到的，是你有勇气去争取的东西。');
+     '在生活中，你能得到的，是你有勇气去争取的东西。'),
+    ('Success isn''t about how much money you make; it''s about the difference you make in people''s lives.', 'zh-CN',
+     '成功不在于你赚了多少钱，而在于你给人们的生活带来了多大的改变。');
