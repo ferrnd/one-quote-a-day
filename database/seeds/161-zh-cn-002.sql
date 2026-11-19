@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Genius is one percent inspiration and ninety-nine percent perspiration.', 'zh-CN',
      '天才是百分之一的灵感加百分之九十九的汗水。'),
     ('The harder the conflict, the more glorious the triumph.', 'zh-CN',
-     '冲突越艰难，胜利越辉煌。');
+     '冲突越艰难，胜利越辉煌。'),
+    ('Persistence guarantees that results are inevitable.', 'zh-CN',
+     '只要坚持，结果必然到来。');
