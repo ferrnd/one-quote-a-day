@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dreams are illustrations from the book your soul is writing about you.', 'ja',
      '夢とは、あなたの魂があなたについて書いている本の挿絵である。'),
     ('Dream no small dreams for they have no power to move the hearts of men.', 'ja',
-     '小さな夢を見るな。小さな夢には人の心を動かす力がないのだから。');
+     '小さな夢を見るな。小さな夢には人の心を動かす力がないのだから。'),
+    ('A man is not old until regrets take the place of dreams.', 'ja',
+     '後悔が夢に取って代わるまで、人は老いない。');
