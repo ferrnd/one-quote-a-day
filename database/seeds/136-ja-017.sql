@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Real change, enduring change, happens one step at a time.', 'ja',
      '本当の変化、長く続く変化は、一歩ずつ起こるものだ。'),
     ('I was taught that the way of progress was neither swift nor easy.', 'ja',
-     '進歩の道は速くも楽でもないと、私は教えられた。');
+     '進歩の道は速くも楽でもないと、私は教えられた。'),
+    ('Adversity causes some men to break; others to break records.', 'ja',
+     '逆境は、ある者をくじけさせ、ある者に記録を破らせる。');
