@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Bad times have a scientific value. These are occasions a good learner would not miss.', 'zh-CN',
      '艰难的时期有科学价值，这是一个善于学习的人不会错过的机会。'),
     ('Every wall is a door.', 'zh-CN',
-     '每一堵墙都是一扇门。');
+     '每一堵墙都是一扇门。'),
+    ('Pain and suffering are always inevitable for a large intelligence and a deep heart.', 'zh-CN',
+     '对于一个拥有伟大智慧和深沉心灵的人来说，痛苦和苦难总是不可避免的。');
