@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Becoming is better than being.', 'zh-CN',
      '成为，胜过存在。'),
     ('Not everything that is faced can be changed, but nothing can be changed until it is faced.', 'zh-CN',
-     '并非所有面对的事情都能改变，但不去面对，就什么也改变不了。');
+     '并非所有面对的事情都能改变，但不去面对，就什么也改变不了。'),
+    ('Your present circumstances don''t determine where you can go; they merely determine where you start.', 'zh-CN',
+     '你现在的处境，并不决定你能走多远，只决定你从哪里出发。');
