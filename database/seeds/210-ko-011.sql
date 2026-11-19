@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('However long the night, the dawn will break.', 'ko',
      '밤이 아무리 길어도 새벽은 온다.'),
     ('Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day.', 'ko',
-     '모자를 꼭 붙잡아. 희망을 꼭 붙잡아. 그리고 시계태엽을 감아. 내일은 또 다른 날이니까.');
+     '모자를 꼭 붙잡아. 희망을 꼭 붙잡아. 그리고 시계태엽을 감아. 내일은 또 다른 날이니까.'),
+    ('There are far, far better things ahead than any we leave behind.', 'ko',
+     '앞에는 우리가 뒤에 남기고 온 어떤 것보다도 훨씬, 훨씬 더 좋은 것들이 있다.');
