@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not judge me by my success, judge me by how many times I fell down and got back up again.', 'zh-CN',
      '不要用我的成功来评判我，要看我跌倒了多少次，又重新站起来多少次。'),
     ('Failure should be our teacher, not our undertaker.', 'zh-CN',
-     '失败应该是我们的老师，而不是我们的送葬人。');
+     '失败应该是我们的老师，而不是我们的送葬人。'),
+    ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'zh-CN',
+     '只有一样东西会让梦想无法实现，那就是对失败的恐惧。');
