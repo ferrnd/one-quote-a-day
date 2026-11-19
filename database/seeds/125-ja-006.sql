@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure isn''t fatal, but failure to change might be.', 'ja',
      '失敗は致命的ではない。だが、変われないことは致命的かもしれない。'),
     ('If you learn from defeat, you haven''t really lost.', 'ja',
-     '敗北から学ぶなら、本当に負けたことにはならない。');
+     '敗北から学ぶなら、本当に負けたことにはならない。'),
+    ('The master has failed more times than the beginner has even tried.', 'ja',
+     '達人は、初心者が挑戦した回数よりも多く失敗している。');
