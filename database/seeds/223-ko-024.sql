@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and time do more than strength or passion.', 'ko',
      '인내와 시간은 힘이나 열정보다 더 많은 일을 해낸다.'),
     ('Our patience will achieve more than our force.', 'ko',
-     '우리의 인내가 우리의 힘보다 더 많은 것을 이룰 것이다.');
+     '우리의 인내가 우리의 힘보다 더 많은 것을 이룰 것이다.'),
+    ('How poor are they that have not patience! What wound did ever heal but by degrees?', 'ko',
+     '인내심이 없는 자들은 얼마나 가련한가! 조금씩 낫지 않은 상처가 어디 있었던가?');
