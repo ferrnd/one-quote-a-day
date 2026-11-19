@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'ko',
      '얼마나 세게 치느냐가 중요한 게 아니다. 얼마나 세게 맞고도 계속 앞으로 나아갈 수 있느냐가 중요하다.'),
     ('A good half of the art of living is resilience.', 'ko',
-     '삶의 기술 중 족히 절반은 회복력이다.');
+     '삶의 기술 중 족히 절반은 회복력이다.'),
+    ('Nothing is impossible. The word itself says ''I''m possible''!', 'ko',
+     '불가능한 것은 없다. Impossible(불가능)이라는 단어 자체가 "I''m possible(나는 할 수 있다)"이라고 말하고 있으니까!');
