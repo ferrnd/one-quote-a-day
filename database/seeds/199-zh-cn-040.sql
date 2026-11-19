@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dwell on the beauty of life. Watch the stars, and see yourself running with them.', 'zh-CN',
      '沉浸于生命之美。仰望星辰，想象自己与它们一同奔跑。'),
     ('When you arise in the morning, think of what a precious privilege it is to be alive.', 'zh-CN',
-     '早晨起床时，想一想活着是多么宝贵的特权。');
+     '早晨起床时，想一想活着是多么宝贵的特权。'),
+    ('It is not that we have a short time to live, but that we waste a lot of it.', 'zh-CN',
+     '不是我们的生命太短，而是我们浪费了太多。');
