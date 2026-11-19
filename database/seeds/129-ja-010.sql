@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope will never be silent.', 'ja',
      '希望は決して黙らない。'),
     ('Weeping may endure for a night, but joy cometh in the morning.', 'ja',
-     '夜は涙のうちに過ぎても、朝には喜びが訪れる。');
+     '夜は涙のうちに過ぎても、朝には喜びが訪れる。'),
+    ('Grow old along with me! The best is yet to be.', 'ja',
+     '私と共に年をとろう。最良の時はこれから来るのだから。');
