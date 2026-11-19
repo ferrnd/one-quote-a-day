@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t count the days, make the days count.', 'ko',
      '날짜를 세지 말고, 하루하루를 의미 있게 만들어라.'),
     ('Dedication sees dreams come true.', 'ko',
-     '헌신은 꿈을 이루어 준다.');
+     '헌신은 꿈을 이루어 준다.'),
+    ('Rest at the end, not in the middle.', 'ko',
+     '쉬는 것은 끝에서 하라. 중간에서가 아니라.');
