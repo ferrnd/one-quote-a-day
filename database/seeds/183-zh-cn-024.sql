@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the companion of wisdom.', 'zh-CN',
      '耐心是智慧的伴侣。'),
     ('He that can have patience can have what he will.', 'zh-CN',
-     '能够忍耐的人，就能得到他想要的。');
+     '能够忍耐的人，就能得到他想要的。'),
+    ('Have patience with all things, but first of all with yourself.', 'zh-CN',
+     '对一切事物都要有耐心，但首先要对自己有耐心。');
