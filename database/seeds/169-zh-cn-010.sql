@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grow old along with me! The best is yet to be.', 'zh-CN',
      '和我一起变老吧！最好的还在后头。'),
     ('Isn''t it nice to think that tomorrow is a new day with no mistakes in it yet?', 'zh-CN',
-     '想到明天是新的一天，还没有犯下任何错误，不是很美好吗？');
+     '想到明天是新的一天，还没有犯下任何错误，不是很美好吗？'),
+    ('After all, tomorrow is another day.', 'zh-CN',
+     '毕竟，明天又是新的一天。');
