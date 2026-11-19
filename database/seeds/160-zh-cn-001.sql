@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('With ordinary talent and extraordinary perseverance, all things are attainable.', 'zh-CN',
      '有平凡的天赋和非凡的毅力，一切都可以实现。'),
     ('The drops of rain make a hole in the stone, not by violence, but by oft falling.', 'zh-CN',
-     '雨滴能在石头上滴出洞来，不是靠猛烈，而是靠不断地落下。');
+     '雨滴能在石头上滴出洞来，不是靠猛烈，而是靠不断地落下。'),
+    ('Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.', 'zh-CN',
+     '世上大多数重要的事情，都是由那些在看似毫无希望时仍不断尝试的人完成的。');
