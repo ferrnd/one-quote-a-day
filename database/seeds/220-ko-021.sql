@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t sit down and wait for the opportunities to come. Get up and make them.', 'ko',
      '앉아서 기회가 오기를 기다리지 마라. 일어나서 기회를 만들어라.'),
     ('How wonderful it is that nobody need wait a single moment before starting to improve the world.', 'ko',
-     '세상을 더 낫게 만드는 일을 시작하기 위해 누구도 단 한순간도 기다릴 필요가 없다니 얼마나 멋진 일인가.');
+     '세상을 더 낫게 만드는 일을 시작하기 위해 누구도 단 한순간도 기다릴 필요가 없다니 얼마나 멋진 일인가.'),
+    ('One person can make a difference, and everyone should try.', 'ko',
+     '한 사람이 변화를 만들 수 있다. 그리고 모두가 시도해야 한다.');
