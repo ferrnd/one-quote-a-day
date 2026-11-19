@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Real change, enduring change, happens one step at a time.', 'zh-CN',
      '真正的改变、持久的改变，是一步一步发生的。'),
     ('I was taught that the way of progress was neither swift nor easy.', 'zh-CN',
-     '我被教导说，进步之路既不迅速，也不轻松。');
+     '我被教导说，进步之路既不迅速，也不轻松。'),
+    ('Adversity causes some men to break; others to break records.', 'zh-CN',
+     '逆境让一些人崩溃，却让另一些人打破纪录。');
