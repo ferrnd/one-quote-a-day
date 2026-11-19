@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not everything that is faced can be changed, but nothing can be changed until it is faced.', 'zh-CN',
      '并非所有面对的事情都能改变，但不去面对，就什么也改变不了。'),
     ('Your present circumstances don''t determine where you can go; they merely determine where you start.', 'zh-CN',
-     '你现在的处境，并不决定你能走多远，只决定你从哪里出发。');
+     '你现在的处境，并不决定你能走多远，只决定你从哪里出发。'),
+    ('One day you will wake up and there won''t be any more time to do the things you''ve always wanted. Do it now.', 'zh-CN',
+     '总有一天你醒来时，会发现再也没有时间去做那些你一直想做的事了。现在就去做吧。');
