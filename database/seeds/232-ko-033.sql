@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life is not about how fast you run or how high you climb, but how well you bounce.', 'ko',
      '인생은 얼마나 빨리 달리느냐, 얼마나 높이 오르느냐가 아니라 얼마나 잘 튀어 오르느냐에 관한 것이다.'),
     ('No mud, no lotus.', 'ko',
-     '진흙이 없으면 연꽃도 없다.');
+     '진흙이 없으면 연꽃도 없다.'),
+    ('If you want to see the sunshine, you have to weather the storm.', 'ko',
+     '햇빛을 보고 싶다면 폭풍을 견뎌 내야 한다.');
