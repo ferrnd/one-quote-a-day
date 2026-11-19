@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t give up. Don''t ever give up.', 'ja',
      'あきらめるな。決してあきらめるな。'),
     ('Many people have gone further than they thought they could because someone else thought they could.', 'ja',
-     '多くの人が、自分で思っていた以上に遠くまで行けた。誰かが、その人ならできると思ってくれたからだ。');
+     '多くの人が、自分で思っていた以上に遠くまで行けた。誰かが、その人ならできると思ってくれたからだ。'),
+    ('You can''t climb the ladder of success with your hands in your pockets.', 'ja',
+     'ポケットに手を入れたままでは、成功のはしごは登れない。');
