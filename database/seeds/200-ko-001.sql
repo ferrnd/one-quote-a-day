@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A river cuts through rock not because of its power, but because of its persistence.', 'ko',
      '강물이 바위를 뚫는 것은 힘이 세서가 아니라 멈추지 않고 흐르기 때문이다.'),
     ('Many of life''s failures are people who did not realize how close they were to success when they gave up.', 'ko',
-     '인생에서 실패한 사람들 중 많은 이들은 포기하는 순간 자신이 성공에 얼마나 가까이 있었는지 몰랐던 사람들이다.');
+     '인생에서 실패한 사람들 중 많은 이들은 포기하는 순간 자신이 성공에 얼마나 가까이 있었는지 몰랐던 사람들이다.'),
+    ('I am a slow walker, but I never walk back.', 'ko',
+     '나는 느리게 걷지만, 결코 뒤로 걷지는 않는다.');
