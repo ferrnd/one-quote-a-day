@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Waste no more time arguing about what a good man should be. Be one.', 'ja',
      '善い人間とはどうあるべきかを論じて、これ以上時間を無駄にするな。善い人間であれ。'),
     ('Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.', 'ja',
-     '波が絶えず打ち寄せる岬のようであれ。岬は揺るがずに立ち、周りの水の怒りを鎮める。');
+     '波が絶えず打ち寄せる岬のようであれ。岬は揺るがずに立ち、周りの水の怒りを鎮める。'),
+    ('Mighty oaks from little acorns grow.', 'ja',
+     '大きな樫の木も、小さなどんぐりから育つ。');
