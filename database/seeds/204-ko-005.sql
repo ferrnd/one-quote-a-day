@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is not the opposite of success; it''s part of success.', 'ko',
      '실패는 성공의 반대가 아니라 성공의 일부다.'),
     ('You build on failure. You use it as a stepping stone.', 'ko',
-     '실패 위에 쌓아 올려라. 그것을 디딤돌로 삼아라.');
+     '실패 위에 쌓아 올려라. 그것을 디딤돌로 삼아라.'),
+    ('A man of genius makes no mistakes. His errors are volitional and are the portals of discovery.', 'ko',
+     '천재는 실수를 하지 않는다. 그의 오류는 의도된 것이며 발견으로 가는 문이다.');
