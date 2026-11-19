@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Beginnings are always messy.', 'zh-CN',
      '开头总是一团糟。'),
     ('Vision is the art of seeing what is invisible to others.', 'zh-CN',
-     '远见是看见别人看不见之物的艺术。');
+     '远见是看见别人看不见之物的艺术。'),
+    ('When one door of happiness closes, another opens.', 'zh-CN',
+     '当一扇幸福之门关闭时，另一扇就会打开。');
