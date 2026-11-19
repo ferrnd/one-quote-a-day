@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We will either find a way, or make one.', 'ko',
      '우리는 길을 찾거나, 아니면 길을 만들 것이다.'),
     ('The secret of success is constancy to purpose.', 'ko',
-     '성공의 비결은 목표를 향한 한결같음에 있다.');
+     '성공의 비결은 목표를 향한 한결같음에 있다.'),
+    ('Persist and persevere, and you will find most things that are attainable, possible.', 'ko',
+     '버티고 견뎌라. 그러면 손에 닿을 만한 대부분의 일이 가능하다는 것을 알게 될 것이다.');
