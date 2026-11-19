@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the end, everything will be okay. If it''s not okay, it''s not yet the end.', 'ko',
      '결국에는 모든 것이 괜찮아질 것이다. 괜찮지 않다면, 아직 끝이 아닌 것이다.'),
     ('Hope is the companion of power, and mother of success.', 'ko',
-     '희망은 힘의 동반자이자 성공의 어머니다.');
+     '희망은 힘의 동반자이자 성공의 어머니다.'),
+    ('Hope is itself a species of happiness.', 'ko',
+     '희망은 그 자체로 일종의 행복이다.');
