@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The pain passes, but the beauty remains.', 'ko',
      '고통은 지나가지만, 아름다움은 남는다.'),
     ('Things turn out best for the people who make the best of the way things turn out.', 'ko',
-     '일이 가장 잘 풀리는 것은 일이 풀린 방식을 최대한 활용하는 사람들에게서다.');
+     '일이 가장 잘 풀리는 것은 일이 풀린 방식을 최대한 활용하는 사람들에게서다.'),
+    ('Now is no time to think of what you do not have. Think of what you can do with what there is.', 'ko',
+     '지금은 가지지 않은 것을 생각할 때가 아니다. 있는 것으로 무엇을 할 수 있을지 생각하라.');
