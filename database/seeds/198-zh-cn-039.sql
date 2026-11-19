@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('They also serve who only stand and wait.', 'zh-CN',
      '那些只是站着等待的人，也是在服务。'),
     ('Only time can heal what reason cannot.', 'zh-CN',
-     '理智无法治愈的，唯有时间能够治愈。');
+     '理智无法治愈的，唯有时间能够治愈。'),
+    ('Determination gives you the resolve to keep going in spite of the roadblocks that lay before you.', 'zh-CN',
+     '决心给你继续前进的毅力，无论前方有多少路障。');
