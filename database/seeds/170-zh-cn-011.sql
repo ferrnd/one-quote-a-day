@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.', 'zh-CN',
      '要像海岬一样，任凭海浪不断拍击，它依然屹立不动，平息周围海水的狂怒。'),
     ('Mighty oaks from little acorns grow.', 'zh-CN',
-     '参天的橡树，长自小小的橡子。');
+     '参天的橡树，长自小小的橡子。'),
+    ('It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.', 'zh-CN',
+     '不是因为事情困难我们才不敢去做，而是因为我们不敢去做，事情才变得困难。');
