@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Wherever there is a human being, there is an opportunity for a kindness.', 'zh-CN',
      '哪里有人，哪里就有行善的机会。'),
     ('He suffers more than necessary, who suffers before it is necessary.', 'zh-CN',
-     '在必要之前就受苦的人，所受的苦比必要的更多。');
+     '在必要之前就受苦的人，所受的苦比必要的更多。'),
+    ('Ignorance is the cause of fear.', 'zh-CN',
+     '无知是恐惧的根源。');
