@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure should be our teacher, not our undertaker.', 'ko',
      '실패는 우리의 스승이 되어야지, 장의사가 되어서는 안 된다.'),
     ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'ko',
-     '꿈을 이룰 수 없게 만드는 것은 단 하나, 실패에 대한 두려움이다.');
+     '꿈을 이룰 수 없게 만드는 것은 단 하나, 실패에 대한 두려움이다.'),
+    ('Failure is not the opposite of success; it''s part of success.', 'ko',
+     '실패는 성공의 반대가 아니라 성공의 일부다.');
