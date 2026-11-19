@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no failure except in no longer trying.', 'zh-CN',
      '除了不再尝试，就没有失败。'),
     ('Failure will never overtake me if my determination to succeed is strong enough.', 'zh-CN',
-     '只要我对成功的决心足够坚定，失败就永远追不上我。');
+     '只要我对成功的决心足够坚定，失败就永远追不上我。'),
+    ('You may have to fight a battle more than once to win it.', 'zh-CN',
+     '你可能要把同一场仗打不止一次，才能赢得它。');
