@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the hard jobs first. The easy jobs will take care of themselves.', 'zh-CN',
      '先做困难的工作，容易的工作自然会解决。'),
     ('It is better to offer no excuse than a bad one.', 'zh-CN',
-     '与其找一个糟糕的借口，不如什么借口都不找。');
+     '与其找一个糟糕的借口，不如什么借口都不找。'),
+    ('Hard work is a prison sentence only if it does not have meaning.', 'zh-CN',
+     '只有当辛勤工作没有意义时，它才像坐牢。');
