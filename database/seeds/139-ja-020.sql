@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t let yesterday take up too much of today.', 'ja',
      '昨日に、今日の時間をとられすぎてはいけない。'),
     ('Even if you''re on the right track, you''ll get run over if you just sit there.', 'ja',
-     '正しい線路の上にいても、ただ座っていたらひかれてしまう。');
+     '正しい線路の上にいても、ただ座っていたらひかれてしまう。'),
+    ('An idea not coupled with action will never get any bigger than the brain cell it occupied.', 'ja',
+     '行動と結びつかないアイデアは、それが宿る脳細胞より大きくなることはない。');
