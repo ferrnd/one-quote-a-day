@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything that is done in the world is done by hope.', 'zh-CN',
      '世上所成就的一切，都是靠希望成就的。'),
     ('Hope is being able to see that there is light despite all of the darkness.', 'zh-CN',
-     '希望就是在一片黑暗中，依然能看见光。');
+     '希望就是在一片黑暗中，依然能看见光。'),
+    ('We must accept finite disappointment, but never lose infinite hope.', 'zh-CN',
+     '我们必须接受有限的失望，但永远不要失去无限的希望。');
