@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best revenge is massive success.', 'ja',
      '最高の復讐は、大成功することだ。'),
     ('Grief can be the garden of compassion.', 'ja',
-     '悲しみは、思いやりの庭になりうる。');
+     '悲しみは、思いやりの庭になりうる。'),
+    ('Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it.', 'ja',
+     '進み続けなさい。そうすれば、思いもよらないときに、きっと何かに出会うだろう。');
