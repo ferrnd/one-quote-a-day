@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'ja',
      '多くの人は粘り強さによって、確実に失敗すると思われたところから成功をつかみ取る。'),
     ('Continuous effort, not strength or intelligence, is the key to unlocking our potential.', 'ja',
-     '私たちの可能性を開く鍵は、力でも知性でもなく、絶え間ない努力である。');
+     '私たちの可能性を開く鍵は、力でも知性でもなく、絶え間ない努力である。'),
+    ('Ambition is the path to success. Persistence is the vehicle you arrive in.', 'ja',
+     '大志は成功への道であり、粘り強さはそこへたどり着く乗り物である。');
