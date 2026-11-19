@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life can only be understood backwards; but it must be lived forwards.', 'ja',
      '人生は後ろ向きにしか理解できない。だが、前向きに生きなければならない。'),
     ('Beginnings are always messy.', 'ja',
-     '始まりはいつも混沌としている。');
+     '始まりはいつも混沌としている。'),
+    ('Vision is the art of seeing what is invisible to others.', 'ja',
+     'ビジョンとは、他人には見えないものを見る技術である。');
