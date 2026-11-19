@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the thing you fear, and the death of fear is certain.', 'ja',
      '恐れていることをやりなさい。そうすれば恐れは必ず消える。'),
     ('Fear is only as deep as the mind allows.', 'ja',
-     '恐れは、心が許すぶんだけ深くなる。');
+     '恐れは、心が許すぶんだけ深くなる。'),
+    ('Everything you''ve ever wanted is on the other side of fear.', 'ja',
+     'あなたが望んできたものはすべて、恐れの向こう側にある。');
