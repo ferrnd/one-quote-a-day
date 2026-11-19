@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It always seems impossible until it''s done.', 'zh-CN',
      '事情在完成之前，总是看起来不可能。'),
     ('Nothing in this world can take the place of persistence.', 'zh-CN',
-     '世上没有任何东西能取代坚持。');
+     '世上没有任何东西能取代坚持。'),
+    ('Victory belongs to the most persevering.', 'zh-CN',
+     '胜利属于最坚持不懈的人。');
