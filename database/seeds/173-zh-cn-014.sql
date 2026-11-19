@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The fight is won or lost far away from witnesses, behind the lines, in the gym, and out there on the road, long before I dance under those lights.', 'zh-CN',
      '比赛的胜负早在没有观众的地方就决定了：在幕后，在健身房，在路上，远在我于聚光灯下起舞之前。'),
     ('Don''t count the days, make the days count.', 'zh-CN',
-     '不要数着日子过，要让每一天都有意义。');
+     '不要数着日子过，要让每一天都有意义。'),
+    ('Dedication sees dreams come true.', 'zh-CN',
+     '奉献让梦想成真。');
