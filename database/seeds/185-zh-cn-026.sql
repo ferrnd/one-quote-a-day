@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Winning isn''t everything, but wanting to win is.', 'zh-CN',
      '胜利不是一切，但渴望胜利是一切。'),
     ('Perfection is not attainable, but if we chase perfection we can catch excellence.', 'zh-CN',
-     '完美无法企及，但如果我们追求完美，就能抓住卓越。');
+     '完美无法企及，但如果我们追求完美，就能抓住卓越。'),
+    ('Once you learn to quit, it becomes a habit.', 'zh-CN',
+     '一旦你学会了放弃，它就会成为一种习惯。');
