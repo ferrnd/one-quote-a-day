@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Things do not happen. Things are made to happen.', 'zh-CN',
      '事情不会自己发生，事情是靠人促成的。'),
     ('Eighty percent of success is showing up.', 'zh-CN',
-     '成功的百分之八十在于露面。');
+     '成功的百分之八十在于露面。'),
+    ('You can''t build a reputation on what you are going to do.', 'zh-CN',
+     '你无法靠你打算要做的事情来建立名声。');
