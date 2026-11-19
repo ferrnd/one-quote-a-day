@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('While we wait for life, life passes.', 'ja',
      '人生を待っている間に、人生は過ぎ去っていく。'),
     ('Wherever there is a human being, there is an opportunity for a kindness.', 'ja',
-     '人間がいるところには、どこにでも親切の機会がある。');
+     '人間がいるところには、どこにでも親切の機会がある。'),
+    ('He suffers more than necessary, who suffers before it is necessary.', 'ja',
+     '必要になる前に苦しむ者は、必要以上に苦しむ。');
