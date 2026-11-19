@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Even the smallest person can change the course of the future.', 'ja',
      'どんなに小さな者でも、未来の流れを変えることができる。'),
     ('All we have to decide is what to do with the time that is given us.', 'ja',
-     '私たちが決めるべきなのは、与えられた時間をどう使うかということだけだ。');
+     '私たちが決めるべきなのは、与えられた時間をどう使うかということだけだ。'),
+    ('It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.', 'ja',
+     '敵に立ち向かうには大きな勇気がいる。だが友に立ち向かうにも、同じだけの勇気がいる。');
