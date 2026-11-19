@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The time is always right to do what is right.', 'ko',
      '옳은 일을 하기에 적절하지 않은 때는 없다.'),
     ('A goal properly set is halfway reached.', 'ko',
-     '제대로 세운 목표는 이미 절반은 이룬 것이다.');
+     '제대로 세운 목표는 이미 절반은 이룬 것이다.'),
+    ('Things do not happen. Things are made to happen.', 'ko',
+     '일은 저절로 일어나지 않는다. 일은 일어나게 만드는 것이다.');
