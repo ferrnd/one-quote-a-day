@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is not falling down but refusing to get up.', 'zh-CN',
      '失败不是跌倒，而是拒绝站起来。'),
     ('The successful man will profit from his mistakes and try again in a different way.', 'zh-CN',
-     '成功的人会从错误中获益，并以不同的方式再试一次。');
+     '成功的人会从错误中获益，并以不同的方式再试一次。'),
+    ('Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.', 'zh-CN',
+     '从失败中发展出成功。沮丧和失败是通往成功最可靠的两块垫脚石。');
