@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Beware the fury of a patient man.', 'zh-CN',
      '当心一个有耐心的人发怒。'),
     ('Patience is the key to paradise.', 'zh-CN',
-     '耐心是通往天堂的钥匙。');
+     '耐心是通往天堂的钥匙。'),
+    ('Be patient toward all that is unsolved in your heart.', 'zh-CN',
+     '对你心中所有尚未解决的事情，都要有耐心。');
