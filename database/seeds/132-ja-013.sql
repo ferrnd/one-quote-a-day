@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When there is no enemy within, the enemies outside cannot hurt you.', 'ja',
      '内に敵がいなければ、外の敵はあなたを傷つけられない。'),
     ('Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.', 'ja',
-     '私たちの最も深い恐れは、自分が不十分であることではない。計り知れないほど力があることなのだ。');
+     '私たちの最も深い恐れは、自分が不十分であることではない。計り知れないほど力があることなのだ。'),
+    ('Trust thyself: every heart vibrates to that iron string.', 'ja',
+     '自分を信じよ。すべての心は、その鉄の弦に共鳴して震える。');
