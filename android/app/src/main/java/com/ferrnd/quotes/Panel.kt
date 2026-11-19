@@ -285,6 +285,6 @@ private fun CreditsTab(state: AppState) {
     row("Typeset in", state.t("Cormorant Garamond, by Christian Thalmann"))
     row("Engine", state.t("Native Android, in Kotlin and Jetpack Compose"))
     row("Words", state.t("Every quote belongs to its author"))
-    row("Source", "github.com/ferrnd/quotes", "https://github.com/ferrnd/quotes")
+    row("Source", "github.com/ferrnd/one-quote-a-day", "https://github.com/ferrnd/one-quote-a-day")
     Note(state.t("© 2026 · Since Day 1"))
 }
