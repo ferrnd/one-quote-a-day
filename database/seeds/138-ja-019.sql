@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The obstacle is the path.', 'ja',
      '障害こそが道である。'),
     ('The journey of a thousand miles begins with one step.', 'ja',
-     '千里の道も一歩から。');
+     '千里の道も一歩から。'),
+    ('Action is the foundational key to all success.', 'ja',
+     '行動こそ、あらゆる成功の基本となる鍵である。');
