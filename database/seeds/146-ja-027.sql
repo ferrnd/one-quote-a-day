@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When the whole world is silent, even one voice becomes powerful.', 'ja',
      '世界中が沈黙しているとき、たった一つの声も力強いものになる。'),
     ('Because it''s there.', 'ja',
-     'そこに山があるからだ。');
+     'そこに山があるからだ。'),
+    ('That''s one small step for a man, one giant leap for mankind.', 'ja',
+     'これは一人の人間にとっては小さな一歩だが、人類にとっては偉大な飛躍である。');
