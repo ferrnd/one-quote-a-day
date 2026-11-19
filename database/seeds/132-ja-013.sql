@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is nothing more than a few simple disciplines, practiced every day.', 'ja',
      '成功とは、毎日実践されるいくつかの簡単な規律にすぎない。'),
     ('Don''t wish it were easier, wish you were better.', 'ja',
-     'もっと楽ならいいのにと願うな。もっと自分が優れていればと願え。');
+     'もっと楽ならいいのにと願うな。もっと自分が優れていればと願え。'),
+    ('Either you run the day or the day runs you.', 'ja',
+     '一日を動かすか、一日に動かされるか、そのどちらかだ。');
