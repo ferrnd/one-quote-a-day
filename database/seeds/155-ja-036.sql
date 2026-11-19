@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Practice does not make perfect. Only perfect practice makes perfect.', 'ja',
      '練習は完璧をつくらない。完璧な練習だけが完璧をつくる。'),
     ('Success is where preparation and opportunity meet.', 'ja',
-     '成功とは、準備と機会が出会う場所である。');
+     '成功とは、準備と機会が出会う場所である。'),
+    ('Quality means doing it right when no one is looking.', 'ja',
+     '品質とは、誰も見ていないときに正しく行うことだ。');
