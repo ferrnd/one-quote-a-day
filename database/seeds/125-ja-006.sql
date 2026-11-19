@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''d rather be a failure at something I love than a success at something I hate.', 'ja',
      '嫌いなことで成功するより、好きなことで失敗するほうがいい。'),
     ('There is no failure except in no longer trying.', 'ja',
-     '挑戦をやめること以外に、失敗はない。');
+     '挑戦をやめること以外に、失敗はない。'),
+    ('Failure will never overtake me if my determination to succeed is strong enough.', 'ja',
+     '成功への決意が十分に強ければ、失敗が私に追いつくことはない。');
