@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Today I will do what others won''t, so tomorrow I can accomplish what others can''t.', 'zh-CN',
      '今天我做别人不愿做的事，明天我就能成就别人做不到的事。'),
     ('You can''t put a limit on anything. The more you dream, the farther you get.', 'zh-CN',
-     '任何事都不能设限。你梦想得越多，就走得越远。');
+     '任何事都不能设限。你梦想得越多，就走得越远。'),
+    ('There are better starters than me but I''m a strong finisher.', 'zh-CN',
+     '起跑比我好的人有的是，但我是个后程强劲的人。');
