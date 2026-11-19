@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What is to give light must endure burning.', 'ko',
      '빛을 내려는 것은 타는 것을 견뎌야 한다.'),
     ('It''s not what happens to you, but how you react to it that matters.', 'ko',
-     '중요한 것은 당신에게 무슨 일이 일어나느냐가 아니라 그것에 어떻게 반응하느냐다.');
+     '중요한 것은 당신에게 무슨 일이 일어나느냐가 아니라 그것에 어떻게 반응하느냐다.'),
+    ('Begin at once to live, and count each separate day as a separate life.', 'ko',
+     '당장 살기 시작하라. 그리고 하루하루를 각각 하나의 삶으로 여겨라.');
