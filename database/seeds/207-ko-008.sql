@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When it is dark enough, you can see the stars.', 'ko',
      '충분히 어두워지면 별을 볼 수 있다.'),
     ('Fire is the test of gold; adversity, of strong men.', 'ko',
-     '불은 금을 시험하고, 역경은 강한 사람을 시험한다.');
+     '불은 금을 시험하고, 역경은 강한 사람을 시험한다.'),
+    ('Difficulties strengthen the mind, as labor does the body.', 'ko',
+     '노동이 몸을 단련하듯, 어려움은 마음을 단련한다.');
