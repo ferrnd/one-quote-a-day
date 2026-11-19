@@ -16,9 +16,9 @@
 import {
   dateKey, formatCountdown, isNight, localDateParts, msUntilNextLocalMidnight,
   msUntilNextThemeChange, parseDateKey,
-} from "./clock.js?v=60b24d23667d";
-import { formatDate, translateDocument, tr } from "./i18n.js?v=60b24d23667d";
-import "./blobs.js?v=60b24d23667d";
+} from "./clock.js?v=6bc88365cc4a";
+import { formatDate, translateDocument, tr } from "./i18n.js?v=6bc88365cc4a";
+import "./blobs.js?v=6bc88365cc4a";
 
 const WASM_URL = new URL("quotes.wasm?v=cad39908b738", import.meta.url);
 const WATCHDOG_MS = 60_000;
@@ -180,6 +180,24 @@ function resolveLanguage(available) {
   return available[0] ?? "en";
 }
 
+/*
+ * Japanese, Chinese and Korean need a serif with their glyphs. Each Noto Serif
+ * stylesheet is ~300 KB of @font-face rules, so it is fetched only when that
+ * language is shown, never alongside Cormorant for everyone else.
+ */
+const SCRIPT_FONTS = { ja: "Noto+Serif+JP", zh: "Noto+Serif+SC", ko: "Noto+Serif+KR" };
+
+/** @param {string} lang */
+function loadScriptFont(lang) {
+  const family = SCRIPT_FONTS[lang.split("-")[0]];
+  if (!family || document.getElementById(`font-${family}`)) return;
+  const link = document.createElement("link");
+  link.id = `font-${family}`;
+  link.rel = "stylesheet";
+  link.href = `https://fonts.googleapis.com/css2?family=${family}:wght@400;500;700&display=swap`;
+  document.head.append(link);
+}
+
 /** Switch every string on the page, and the quote itself, to the chosen language. */
 function applyLanguage() {
   const available = state.engine ? state.engine.locales : ["en"];
@@ -188,6 +206,7 @@ function applyLanguage() {
   state.lang = lang;
   state.locale = Math.max(0, available.indexOf(lang));
   document.documentElement.lang = lang;
+  loadScriptFont(lang);
   translateDocument(lang);
   // the panel title is copied from the selected tab, so refresh it too
   const selected = /** @type {HTMLElement | null} */ (panelEl.querySelector('.rail-tab[aria-selected="true"]'));
