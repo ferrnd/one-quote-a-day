@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You were born with wings, why prefer to crawl through life?', 'ko',
      '당신은 날개를 달고 태어났는데, 왜 삶을 기어서 가려 하는가?'),
     ('Respond to every call that excites your spirit.', 'ko',
-     '당신의 영혼을 설레게 하는 모든 부름에 응답하라.');
+     '당신의 영혼을 설레게 하는 모든 부름에 응답하라.'),
+    ('If you are irritated by every rub, how will your mirror be polished?', 'ko',
+     '문질러질 때마다 짜증을 낸다면, 어떻게 당신의 거울이 닦이겠는가?');
