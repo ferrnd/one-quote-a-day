@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard times don''t create heroes. It is during the hard times when the hero within us is revealed.', 'zh-CN',
      '艰难的时代并不创造英雄，而是在艰难的时代，我们内心的英雄才显现出来。'),
     ('Mountains cannot be surmounted except by winding paths.', 'zh-CN',
-     '翻越高山，只能走蜿蜒的小路。');
+     '翻越高山，只能走蜿蜒的小路。'),
+    ('Pain is inevitable. Suffering is optional.', 'zh-CN',
+     '痛苦不可避免，而受苦是可以选择的。');
