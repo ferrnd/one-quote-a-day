@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream big and dare to fail.', 'zh-CN',
      '梦想要远大，要敢于失败。'),
     ('Never mistake motion for action.', 'zh-CN',
-     '永远不要把忙碌误认为行动。');
+     '永远不要把忙碌误认为行动。'),
+    ('Don''t let yesterday take up too much of today.', 'zh-CN',
+     '不要让昨天占用太多今天。');
