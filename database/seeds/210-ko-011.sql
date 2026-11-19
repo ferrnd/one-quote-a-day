@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In spite of everything I still believe that people are really good at heart.', 'ko',
      '그 모든 일에도 불구하고 나는 여전히 사람들의 마음속은 정말로 선하다고 믿는다.'),
     ('Think of all the beauty still left around you and be happy.', 'ko',
-     '아직 당신 곁에 남아 있는 모든 아름다움을 생각하며 행복해져라.');
+     '아직 당신 곁에 남아 있는 모든 아름다움을 생각하며 행복해져라.'),
+    ('It is often in the darkest skies that we see the brightest stars.', 'ko',
+     '가장 어두운 하늘에서 가장 밝은 별을 보게 되는 경우가 많다.');
