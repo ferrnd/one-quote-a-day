@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the confrontation between the stream and the rock, the stream always wins, not through strength but by perseverance.', 'ja',
      '川の流れと岩とのぶつかり合いでは、いつも流れが勝つ。力によってではなく、粘り強さによって。'),
     ('Endurance is not just the ability to bear a hard thing, but to turn it into glory.', 'ja',
-     '忍耐とは、つらいことに耐える力だけではない。それを栄光に変える力でもある。');
+     '忍耐とは、つらいことに耐える力だけではない。それを栄光に変える力でもある。'),
+    ('Perseverance, secret of all triumphs.', 'ja',
+     '根気こそ、あらゆる勝利の秘訣である。');
