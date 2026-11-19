@@ -4,6 +4,18 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [2.2.0] - 2026-11-19
+
+### Added
+
+- Japanese, Simplified Chinese and Korean: 1,000 hand-made translations each,
+  every author's name written the way those readers know it, the Day 1
+  dedication and the whole interface, on the site and in the Android app. Ten
+  languages in all.
+- CJK typography: Noto Serif JP, SC and KR behind Cormorant Garamond, upright
+  text instead of a fake italic, strict line breaking, and a share card that
+  breaks lines between words in scripts without spaces.
+
 ## [2.1.0] - 2026-11-18
 
 ### Added
