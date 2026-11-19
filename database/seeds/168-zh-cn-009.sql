@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope smiles from the threshold of the year to come, whispering ''it will be happier''.', 'zh-CN',
      '希望在新一年的门槛上微笑，轻声说：“会更幸福的。”'),
     ('To live without hope is to cease to live.', 'zh-CN',
-     '没有希望地活着，就等于停止了生活。');
+     '没有希望地活着，就等于停止了生活。'),
+    ('In all things it is better to hope than to despair.', 'zh-CN',
+     '无论何事，抱有希望总比陷入绝望要好。');
