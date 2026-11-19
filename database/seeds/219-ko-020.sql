@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Go confidently in the direction of your dreams. Live the life you have imagined.', 'ko',
      '꿈을 향해 자신 있게 나아가라. 상상해 온 삶을 살아라.'),
     ('If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.', 'ko',
-     '공중에 성을 쌓았다고 해서 그 노력이 헛된 것은 아니다. 성은 원래 거기 있어야 한다. 이제 그 아래에 기초를 놓아라.');
+     '공중에 성을 쌓았다고 해서 그 노력이 헛된 것은 아니다. 성은 원래 거기 있어야 한다. 이제 그 아래에 기초를 놓아라.'),
+    ('Ideas are easy. Implementation is hard.', 'ko',
+     '아이디어는 쉽다. 실행은 어렵다.');
