@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is resistance to fear, mastery of fear, not absence of fear.', 'ja',
      '勇気とは恐れに抵抗し、恐れを制することであって、恐れがないことではない。'),
     ('Life shrinks or expands in proportion to one''s courage.', 'ja',
-     '人生は、その人の勇気に比例して縮みもすれば広がりもする。');
+     '人生は、その人の勇気に比例して縮みもすれば広がりもする。'),
+    ('It takes courage to grow up and become who you really are.', 'ja',
+     '大人になり、本当の自分になるには勇気がいる。');
