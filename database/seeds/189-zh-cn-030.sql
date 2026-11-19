@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Once you make a decision, the universe conspires to make it happen.', 'zh-CN',
      '一旦你做出决定，整个宇宙都会协力让它实现。'),
     ('To be great is to be misunderstood.', 'zh-CN',
-     '伟大就意味着被误解。');
+     '伟大就意味着被误解。'),
+    ('Finish each day and be done with it. You have done what you could.', 'zh-CN',
+     '把每一天过完，然后就把它放下。你已经尽力了。');
