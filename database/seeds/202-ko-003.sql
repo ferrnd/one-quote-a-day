@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fortune favors the bold.', 'ko',
      '행운은 용감한 자의 편이다.'),
     ('Courage is found in unlikely places.', 'ko',
-     '용기는 뜻밖의 곳에서 발견된다.');
+     '용기는 뜻밖의 곳에서 발견된다.'),
+    ('Even the smallest person can change the course of the future.', 'ko',
+     '가장 작은 사람도 미래의 흐름을 바꿀 수 있다.');
