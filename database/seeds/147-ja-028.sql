@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The starting point of all achievement is desire.', 'ja',
      'あらゆる達成の出発点は、願望である。'),
     ('A goal is a dream with a deadline.', 'ja',
-     '目標とは、締め切りのある夢である。');
+     '目標とは、締め切りのある夢である。'),
+    ('It''s the possibility of having a dream come true that makes life interesting.', 'ja',
+     '夢がかなうかもしれないという可能性こそが、人生を面白くするのだ。');
