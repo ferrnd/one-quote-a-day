@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Act as if what you do makes a difference. It does.', 'zh-CN',
      '行动起来，就好像你所做的会带来改变。它确实会。'),
     ('What we fear doing most is usually what we most need to do.', 'zh-CN',
-     '我们最害怕做的事，往往正是我们最需要做的事。');
+     '我们最害怕做的事，往往正是我们最需要做的事。'),
+    ('A comfort zone is a beautiful place, but nothing ever grows there.', 'zh-CN',
+     '舒适区是个美丽的地方，但那里什么也长不出来。');
