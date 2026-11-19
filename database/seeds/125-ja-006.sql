@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can accept failure, everyone fails at something. But I can''t accept not trying.', 'ja',
      '失敗は受け入れられる。誰だって何かに失敗する。だが、挑戦しないことは受け入れられない。'),
     ('Success is not built on success. It''s built on failure. It''s built on frustration.', 'ja',
-     '成功は成功の上に築かれるのではない。失敗の上に、挫折の上に築かれるのだ。');
+     '成功は成功の上に築かれるのではない。失敗の上に、挫折の上に築かれるのだ。'),
+    ('Winners are not afraid of losing. But losers are. Failure is part of the process of success.', 'ja',
+     '勝者は負けることを恐れない。恐れるのは敗者だ。失敗は成功へのプロセスの一部である。');
