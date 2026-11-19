@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do something today that your future self will thank you for.', 'zh-CN',
      '今天做一件未来的你会感谢你的事。'),
     ('Focus on being productive instead of busy.', 'zh-CN',
-     '专注于高效，而不是忙碌。');
+     '专注于高效，而不是忙碌。'),
+    ('Discipline is remembering what you want.', 'zh-CN',
+     '自律就是记住你想要什么。');
