@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Well done is better than well said.', 'ja',
      'うまく言うより、うまく行うほうがいい。'),
     ('Lost time is never found again.', 'ja',
-     '失われた時間は、二度と見つからない。');
+     '失われた時間は、二度と見つからない。'),
+    ('Without hard work, nothing grows but weeds.', 'ja',
+     '努力がなければ、雑草のほかは何も育たない。');
