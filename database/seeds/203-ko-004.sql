@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no passion to be found playing small.', 'ko',
      '작게 사는 데서는 열정을 찾을 수 없다.'),
     ('Courage is like a muscle. We strengthen it by use.', 'ko',
-     '용기는 근육과 같다. 쓸수록 강해진다.');
+     '용기는 근육과 같다. 쓸수록 강해진다.'),
+    ('Vulnerability is the birthplace of innovation, creativity and change.', 'ko',
+     '취약함은 혁신과 창의성과 변화가 태어나는 곳이다.');
