@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When you change the way you look at things, the things you look at change.', 'ja',
      '物事の見方を変えれば、見ている物事そのものが変わる。'),
     ('Happiness is not something ready made. It comes from your own actions.', 'ja',
-     '幸せは既製品ではない。それはあなた自身の行動から生まれる。');
+     '幸せは既製品ではない。それはあなた自身の行動から生まれる。'),
+    ('Self-belief and hard work will always earn you success.', 'ja',
+     '自分を信じる心と努力は、必ず成功をもたらす。');
