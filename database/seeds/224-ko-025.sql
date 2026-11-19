@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.', 'ko',
      '이루는 데 시간이 걸린다는 이유로 꿈을 포기하지 마라. 시간은 어차피 흘러간다.'),
     ('Let everything happen to you: beauty and terror. Just keep going. No feeling is final.', 'ko',
-     '모든 것이 너에게 일어나게 하라. 아름다움도 두려움도. 그저 계속 나아가라. 어떤 감정도 마지막이 아니다.');
+     '모든 것이 너에게 일어나게 하라. 아름다움도 두려움도. 그저 계속 나아가라. 어떤 감정도 마지막이 아니다.'),
+    ('No snowflake ever falls in the wrong place.', 'ko',
+     '어떤 눈송이도 잘못된 곳에 떨어지지 않는다.');
