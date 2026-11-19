@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''ve failed over and over and over again in my life. And that is why I succeed.', 'ja',
      '私は人生で何度も何度も失敗してきた。だからこそ成功できるのだ。'),
     ('Only those who dare to fail greatly can ever achieve greatly.', 'ja',
-     '大きく失敗する勇気のある者だけが、大きなことを成し遂げられる。');
+     '大きく失敗する勇気のある者だけが、大きなことを成し遂げられる。'),
+    ('Failure is the condiment that gives success its flavor.', 'ja',
+     '失敗は、成功に味わいを添える調味料だ。');
