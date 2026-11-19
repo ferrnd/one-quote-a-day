@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'zh-CN',
      '大多数人恰恰在即将成功时放弃，在离终点线只有一码的地方停了下来。'),
     ('If you are going to doubt something, doubt your limits.', 'zh-CN',
-     '如果你要怀疑什么，就怀疑你的极限吧。');
+     '如果你要怀疑什么，就怀疑你的极限吧。'),
+    ('There is no substitute for hard work.', 'zh-CN',
+     '努力是无可替代的。');
