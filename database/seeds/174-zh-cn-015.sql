@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be not afraid of growing slowly, be afraid only of standing still.', 'zh-CN',
      '不怕慢，只怕站。'),
     ('The only way to make sense out of change is to plunge into it, move with it, and join the dance.', 'zh-CN',
-     '理解变化的唯一方法，就是投身其中，随它而动，加入这场舞蹈。');
+     '理解变化的唯一方法，就是投身其中，随它而动，加入这场舞蹈。'),
+    ('Life is like riding a bicycle. To keep your balance you must keep moving.', 'zh-CN',
+     '人生就像骑自行车，要保持平衡，就必须不断前进。');
