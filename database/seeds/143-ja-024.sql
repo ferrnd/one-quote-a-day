@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A handful of patience is worth more than a bushel of brains.', 'ja',
      '一握りの忍耐は、一升の知恵に勝る。'),
     ('Patience is also a form of action.', 'ja',
-     '忍耐もまた、行動の一つの形である。');
+     '忍耐もまた、行動の一つの形である。'),
+    ('Slow and steady wins the race.', 'ja',
+     'ゆっくり着実な者が競走に勝つ。');
