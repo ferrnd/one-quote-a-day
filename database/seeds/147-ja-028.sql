@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.', 'ja',
      'あなたのビジョンと夢を大切にしなさい。それは魂の子どもであり、最終的な達成の設計図なのだから。'),
     ('The starting point of all achievement is desire.', 'ja',
-     'あらゆる達成の出発点は、願望である。');
+     'あらゆる達成の出発点は、願望である。'),
+    ('A goal is a dream with a deadline.', 'ja',
+     '目標とは、締め切りのある夢である。');
