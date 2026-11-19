@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Loss is nothing else but change, and change is Nature''s delight.', 'ko',
      '상실은 변화일 뿐이고, 변화는 자연의 기쁨이다.'),
     ('Dwell on the beauty of life. Watch the stars, and see yourself running with them.', 'ko',
-     '삶의 아름다움을 생각하라. 별들을 바라보고, 그들과 함께 달리는 자신을 그려 보라.');
+     '삶의 아름다움을 생각하라. 별들을 바라보고, 그들과 함께 달리는 자신을 그려 보라.'),
+    ('When you arise in the morning, think of what a precious privilege it is to be alive.', 'ko',
+     '아침에 일어나면 살아 있다는 것이 얼마나 귀한 특권인지 생각하라.');
