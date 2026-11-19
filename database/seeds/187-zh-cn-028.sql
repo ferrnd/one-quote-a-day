@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The starting point of all achievement is desire.', 'zh-CN',
      '一切成就的起点是渴望。'),
     ('A goal is a dream with a deadline.', 'zh-CN',
-     '目标就是有截止日期的梦想。');
+     '目标就是有截止日期的梦想。'),
+    ('It''s the possibility of having a dream come true that makes life interesting.', 'zh-CN',
+     '正是梦想成真的可能性，让生活变得有趣。');
