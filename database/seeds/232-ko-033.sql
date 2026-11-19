@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A man is not finished when he is defeated. He is finished when he quits.', 'ko',
      '사람은 패배했을 때 끝나는 것이 아니다. 포기했을 때 끝나는 것이다.'),
     ('The human spirit is stronger than anything that can happen to it.', 'ko',
-     '인간의 정신은 그것에 일어날 수 있는 그 어떤 일보다 강하다.');
+     '인간의 정신은 그것에 일어날 수 있는 그 어떤 일보다 강하다.'),
+    ('Life is not about how fast you run or how high you climb, but how well you bounce.', 'ko',
+     '인생은 얼마나 빨리 달리느냐, 얼마나 높이 오르느냐가 아니라 얼마나 잘 튀어 오르느냐에 관한 것이다.');
