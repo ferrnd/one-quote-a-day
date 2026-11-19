@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You get in life what you have the courage to ask for.', 'ja',
      '人生で得られるのは、求める勇気を持ったものだけだ。'),
     ('Success isn''t about how much money you make; it''s about the difference you make in people''s lives.', 'ja',
-     '成功とは、どれだけお金を稼ぐかではない。人々の人生にどれだけ違いをもたらすかだ。');
+     '成功とは、どれだけお金を稼ぐかではない。人々の人生にどれだけ違いをもたらすかだ。'),
+    ('There is no greater agony than bearing an untold story inside you.', 'ja',
+     '語られない物語を胸に抱えていることほどの苦しみはない。');
