@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the ladder on which all the other virtues mount.', 'ko',
      '용기는 다른 모든 덕목이 올라가는 사다리다.'),
     ('Courage is not simply one of the virtues, but the form of every virtue at the testing point.', 'ko',
-     '용기는 단지 여러 덕목 중 하나가 아니라, 시험의 순간에 드러나는 모든 덕목의 모습이다.');
+     '용기는 단지 여러 덕목 중 하나가 아니라, 시험의 순간에 드러나는 모든 덕목의 모습이다.'),
+    ('Courage, dear heart.', 'ko',
+     '용기를 내렴, 사랑하는 이여.');
