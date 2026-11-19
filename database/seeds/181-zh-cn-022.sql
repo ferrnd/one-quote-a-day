@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Whatever the mind of man can conceive and believe, it can achieve.', 'zh-CN',
      '人的头脑能够构想并相信的，就一定能够实现。'),
     ('The man who has confidence in himself gains the confidence of others.', 'zh-CN',
-     '对自己有信心的人，也会赢得别人的信任。');
+     '对自己有信心的人，也会赢得别人的信任。'),
+    ('Once you replace negative thoughts with positive ones, you''ll start having positive results.', 'zh-CN',
+     '一旦你用积极的想法取代消极的想法，你就会开始得到积极的结果。');
