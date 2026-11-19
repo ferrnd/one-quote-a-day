@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Opportunities multiply as they are seized.', 'ja',
      'チャンスは、つかむほどに増えていく。'),
     ('You can''t wait for inspiration. You have to go after it with a club.', 'ja',
-     'ひらめきを待っていてはいけない。棍棒を持って追いかけなければならない。');
+     'ひらめきを待っていてはいけない。棍棒を持って追いかけなければならない。'),
+    ('Go for it now. The future is promised to no one.', 'ja',
+     '今やりなさい。未来は誰にも約束されていない。');
