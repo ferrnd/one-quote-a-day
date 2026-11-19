@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.', 'zh-CN',
      '成功不是偶然。它是努力、坚持、学习、钻研、牺牲，最重要的是，热爱你所做的事。'),
     ('The will to win is important, but the will to prepare is vital.', 'zh-CN',
-     '求胜的意志很重要，但准备的意志至关重要。');
+     '求胜的意志很重要，但准备的意志至关重要。'),
+    ('I never dreamed about success. I worked for it.', 'zh-CN',
+     '我从未梦想过成功，我是为它而努力的。');
