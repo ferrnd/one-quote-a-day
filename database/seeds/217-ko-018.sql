@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Problems are only opportunities in work clothes.', 'ko',
      '문제란 작업복을 입은 기회일 뿐이다.'),
     ('Calamity is the test of integrity.', 'ko',
-     '재난은 정직함을 시험한다.');
+     '재난은 정직함을 시험한다.'),
+    ('Prosperity makes friends, adversity tries them.', 'ko',
+     '번영은 친구를 만들고, 역경은 친구를 시험한다.');
