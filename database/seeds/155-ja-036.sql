@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('The harder you work, the harder it is to surrender.', 'ja',
-     '努力すればするほど、降参するのは難しくなる。');
+     '努力すればするほど、降参するのは難しくなる。'),
+    ('Practice does not make perfect. Only perfect practice makes perfect.', 'ja',
+     '練習は完璧をつくらない。完璧な練習だけが完璧をつくる。');
