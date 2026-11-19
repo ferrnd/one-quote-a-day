@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Worry does not empty tomorrow of its sorrow, it empties today of its strength.', 'ko',
      '걱정은 내일의 슬픔을 비워 주지 않는다. 오늘의 힘을 비워 버릴 뿐이다.'),
     ('Man is not worried by real problems so much as by his imagined anxieties about real problems.', 'ko',
-     '사람을 괴롭히는 것은 실제 문제라기보다 실제 문제에 대해 상상한 불안이다.');
+     '사람을 괴롭히는 것은 실제 문제라기보다 실제 문제에 대해 상상한 불안이다.'),
+    ('If you think you are beaten, you are.', 'ko',
+     '졌다고 생각하면, 당신은 진 것이다.');
