@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing in this world can take the place of persistence.', 'ja',
      'この世に、粘り強さに代わるものはない。'),
     ('Victory belongs to the most persevering.', 'ja',
-     '勝利は、最も粘り強い者のものだ。');
+     '勝利は、最も粘り強い者のものだ。'),
+    ('With ordinary talent and extraordinary perseverance, all things are attainable.', 'ja',
+     '平凡な才能と非凡な根気があれば、何でも成し遂げられる。');
