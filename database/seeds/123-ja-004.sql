@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Freedom lies in being bold.', 'ja',
      '自由は、大胆であることの中にある。'),
     ('The only thing we have to fear is fear itself.', 'ja',
-     '私たちが恐れるべき唯一のものは、恐れそのものである。');
+     '私たちが恐れるべき唯一のものは、恐れそのものである。'),
+    ('Courage is knowing what not to fear.', 'ja',
+     '勇気とは、何を恐れるべきでないかを知ることだ。');
