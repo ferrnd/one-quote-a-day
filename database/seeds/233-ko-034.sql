@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When life knocks you down, try to land on your back. Because if you can look up, you can get up.', 'ko',
      '인생이 당신을 쓰러뜨리면 등으로 떨어지도록 하라. 위를 올려다볼 수 있다면 일어설 수 있으니까.'),
     ('Out of every crisis comes the chance to be reborn.', 'ko',
-     '모든 위기에서 다시 태어날 기회가 생겨난다.');
+     '모든 위기에서 다시 태어날 기회가 생겨난다.'),
+    ('Nothing is permanent in this wicked world, not even our troubles.', 'ko',
+     '이 고약한 세상에 영원한 것은 없다. 우리의 고민조차도.');
