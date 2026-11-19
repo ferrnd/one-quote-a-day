@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When I let go of what I am, I become what I might be.', 'ko',
      '지금의 나를 내려놓을 때, 나는 될 수 있는 내가 된다.'),
     ('I can''t go back to yesterday because I was a different person then.', 'ko',
-     '나는 어제로 돌아갈 수 없어. 그때의 나는 다른 사람이었으니까.');
+     '나는 어제로 돌아갈 수 없어. 그때의 나는 다른 사람이었으니까.'),
+    ('Real change, enduring change, happens one step at a time.', 'ko',
+     '진정한 변화, 오래 지속되는 변화는 한 걸음씩 일어난다.');
