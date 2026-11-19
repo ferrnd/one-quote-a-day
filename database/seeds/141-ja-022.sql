@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you think of yourself is much more important than what others think of you.', 'ja',
      '他人があなたをどう思うかよりも、あなたが自分をどう思うかのほうがはるかに大切だ。'),
     ('A man is but the product of his thoughts. What he thinks, he becomes.', 'ja',
-     '人は思考の産物にすぎない。人は思ったとおりの人間になる。');
+     '人は思考の産物にすぎない。人は思ったとおりの人間になる。'),
+    ('If you don''t like something, change it. If you can''t change it, change your attitude.', 'ja',
+     '気に入らないことがあれば変えなさい。変えられないなら、自分の態度を変えなさい。');
