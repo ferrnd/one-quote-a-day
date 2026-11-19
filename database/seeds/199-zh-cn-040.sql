@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who learns but does not think, is lost. He who thinks but does not learn is in great danger.', 'zh-CN',
      '学而不思则罔，思而不学则殆。'),
     ('The best revenge is not to be like your enemy.', 'zh-CN',
-     '最好的报复，是不要变得像你的敌人一样。');
+     '最好的报复，是不要变得像你的敌人一样。'),
+    ('Loss is nothing else but change, and change is Nature''s delight.', 'zh-CN',
+     '失去不过是变化，而变化是大自然的乐趣。');
