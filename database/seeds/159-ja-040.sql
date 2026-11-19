@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are never given a wish without also being given the power to make it come true.', 'ja',
      '願いが与えられるときには、必ずそれをかなえる力も一緒に与えられている。'),
     ('The unexamined life is not worth living.', 'ja',
-     '吟味されない人生は、生きるに値しない。');
+     '吟味されない人生は、生きるに値しない。'),
+    ('The only true wisdom is in knowing you know nothing.', 'ja',
+     '唯一の真の知恵とは、自分が何も知らないと知ることである。');
