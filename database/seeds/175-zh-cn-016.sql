@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Growth begins when we begin to accept our own weakness.', 'zh-CN',
      '当我们开始接受自己的弱点时，成长就开始了。'),
     ('The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.', 'zh-CN',
-     '我这一代人最伟大的发现是，人可以通过改变态度来改变自己的人生。');
+     '我这一代人最伟大的发现是，人可以通过改变态度来改变自己的人生。'),
+    ('You are never too old to set another goal or to dream a new dream.', 'zh-CN',
+     '设定新的目标、做新的梦想，永远不嫌老。');
