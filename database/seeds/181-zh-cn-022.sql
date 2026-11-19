@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.', 'zh-CN',
      '如果你内心有个声音说你不会画画，那就无论如何都要去画，那个声音自然会沉默。'),
     ('Whatever the mind of man can conceive and believe, it can achieve.', 'zh-CN',
-     '人的头脑能够构想并相信的，就一定能够实现。');
+     '人的头脑能够构想并相信的，就一定能够实现。'),
+    ('The man who has confidence in himself gains the confidence of others.', 'zh-CN',
+     '对自己有信心的人，也会赢得别人的信任。');
