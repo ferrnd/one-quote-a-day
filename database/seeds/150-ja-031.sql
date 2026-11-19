@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no greater agony than bearing an untold story inside you.', 'ja',
      '語られない物語を胸に抱えていることほどの苦しみはない。'),
     ('We realize the importance of our voices only when we are silenced.', 'ja',
-     '私たちは、沈黙させられたときに初めて、自分の声の大切さに気づく。');
+     '私たちは、沈黙させられたときに初めて、自分の声の大切さに気づく。'),
+    ('Success is not how high you have climbed, but how you make a positive difference to the world.', 'ja',
+     '成功とは、どれだけ高く登ったかではなく、世界にどれだけ良い違いをもたらしたかである。');
