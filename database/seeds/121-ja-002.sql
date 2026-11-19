@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success seems to be connected with action. Successful people keep moving.', 'ja',
      '成功は行動と結びついているようだ。成功する人は動き続ける。'),
     ('Every strike brings me closer to the next home run.', 'ja',
-     '空振りするたびに、次のホームランに近づいている。');
+     '空振りするたびに、次のホームランに近づいている。'),
+    ('You just can''t beat the person who never gives up.', 'ja',
+     '決してあきらめない人には、どうしても勝てない。');
