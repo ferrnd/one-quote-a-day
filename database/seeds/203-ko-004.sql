@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not the mountain we conquer, but ourselves.', 'ko',
      '우리가 정복하는 것은 산이 아니라 우리 자신이다.'),
     ('Leap, and the net will appear.', 'ko',
-     '뛰어라. 그러면 그물이 나타날 것이다.');
+     '뛰어라. 그러면 그물이 나타날 것이다.'),
+    ('Security is mostly a superstition. Life is either a daring adventure or nothing.', 'ko',
+     '안전이란 대개 미신이다. 인생은 대담한 모험이거나, 아무것도 아니다.');
