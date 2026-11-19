@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be the heroine of your life, not the victim.', 'ja',
      '自分の人生の犠牲者ではなく、ヒロインになりなさい。'),
     ('Stand up straight and realize who you are, that you tower over your circumstances.', 'ja',
-     '背筋を伸ばして、自分が何者かを知りなさい。あなたは自分の境遇よりもはるかに大きいのだと。');
+     '背筋を伸ばして、自分が何者かを知りなさい。あなたは自分の境遇よりもはるかに大きいのだと。'),
+    ('Never bend your head. Always hold it high. Look the world straight in the eye.', 'ja',
+     '決してうつむかないで。いつも顔を上げて。世界をまっすぐ見つめるのよ。');
