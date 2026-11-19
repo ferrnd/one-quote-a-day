@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'zh-CN',
      '凭借坚持，许多人从看似注定失败的境地中赢得了成功。'),
     ('Continuous effort, not strength or intelligence, is the key to unlocking our potential.', 'zh-CN',
-     '开启我们潜能的钥匙，不是力量，也不是智慧，而是持续的努力。');
+     '开启我们潜能的钥匙，不是力量，也不是智慧，而是持续的努力。'),
+    ('Ambition is the path to success. Persistence is the vehicle you arrive in.', 'zh-CN',
+     '雄心是通往成功的道路，坚持是载你抵达的车辆。');
