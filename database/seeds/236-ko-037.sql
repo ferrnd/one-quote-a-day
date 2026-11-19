@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wait for leaders; do it alone, person to person.', 'ko',
      '지도자를 기다리지 마십시오. 혼자서, 한 사람 한 사람에게 하십시오.'),
     ('Don''t judge each day by the harvest you reap but by the seeds that you plant.', 'ko',
-     '하루하루를 거둔 수확으로 판단하지 말고, 뿌린 씨앗으로 판단하라.');
+     '하루하루를 거둔 수확으로 판단하지 말고, 뿌린 씨앗으로 판단하라.'),
+    ('Do something wonderful, people may imitate it.', 'ko',
+     '멋진 일을 하라. 사람들이 그것을 따라 할지도 모른다.');
