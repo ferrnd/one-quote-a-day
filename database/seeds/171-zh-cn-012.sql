@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('With the new day comes new strength and new thoughts.', 'zh-CN',
      '新的一天带来新的力量和新的想法。'),
     ('Our strength grows out of our weaknesses.', 'zh-CN',
-     '我们的力量源于我们的弱点。');
+     '我们的力量源于我们的弱点。'),
+    ('Fortitude is the guard and support of the other virtues.', 'zh-CN',
+     '坚忍是其他美德的守卫和支柱。');
