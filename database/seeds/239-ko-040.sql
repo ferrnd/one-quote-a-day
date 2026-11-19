@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Go as far as you can see; when you get there, you''ll be able to see farther.', 'ko',
      '볼 수 있는 곳까지 가라. 그곳에 닿으면 더 멀리 볼 수 있을 것이다.'),
     ('The best way to make your dreams come true is to wake up.', 'ko',
-     '꿈을 이루는 가장 좋은 방법은 잠에서 깨어나는 것이다.');
+     '꿈을 이루는 가장 좋은 방법은 잠에서 깨어나는 것이다.'),
+    ('Who looks outside, dreams; who looks inside, awakes.', 'ko',
+     '밖을 보는 자는 꿈꾸고, 안을 보는 자는 깨어난다.');
