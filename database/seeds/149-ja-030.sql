@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Beginnings are always messy.', 'ja',
      '始まりはいつも混沌としている。'),
     ('Vision is the art of seeing what is invisible to others.', 'ja',
-     'ビジョンとは、他人には見えないものを見る技術である。');
+     'ビジョンとは、他人には見えないものを見る技術である。'),
+    ('When one door of happiness closes, another opens.', 'ja',
+     '幸せの扉が一つ閉じれば、別の扉が開く。');
