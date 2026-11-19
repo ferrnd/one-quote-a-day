@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is some good in this world, and it''s worth fighting for.', 'ja',
      'この世界にはまだ善いものがある。それは戦って守る価値がある。'),
     ('Hope is a good thing, maybe the best of things, and no good thing ever dies.', 'ja',
-     '希望は良いものだ。たぶん最高のものだ。そして良いものは決して滅びない。');
+     '希望は良いものだ。たぶん最高のものだ。そして良いものは決して滅びない。'),
+    ('The darkest hour has only sixty minutes.', 'ja',
+     '最も暗い時間も、六十分しかない。');
