@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Put your heart, mind, and soul into even your smallest acts. This is the secret of success.', 'zh-CN',
      '哪怕是最微小的举动，也要倾注你的心、思想和灵魂。这就是成功的秘诀。'),
     ('You can''t cross the sea merely by standing and staring at the water.', 'zh-CN',
-     '光是站着凝视海水，你是无法渡过大海的。');
+     '光是站着凝视海水，你是无法渡过大海的。'),
+    ('The most difficult thing is the decision to act, the rest is merely tenacity.', 'zh-CN',
+     '最困难的是下定决心去行动，剩下的只是坚持。');
