@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.', 'zh-CN',
      '试过，失败过。没关系。再试一次，再失败一次，失败得更好一些。'),
     ('I''ve failed over and over and over again in my life. And that is why I succeed.', 'zh-CN',
-     '我一生中失败了一次又一次，这正是我成功的原因。');
+     '我一生中失败了一次又一次，这正是我成功的原因。'),
+    ('Only those who dare to fail greatly can ever achieve greatly.', 'zh-CN',
+     '只有敢于经历巨大失败的人，才能取得巨大的成就。');
