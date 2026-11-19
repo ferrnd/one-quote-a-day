@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('First say to yourself what you would be; and then do what you have to do.', 'ja',
      'まず自分がどうなりたいかを自分に言い聞かせ、それから為すべきことを為せ。'),
     ('Self-discipline is the magic power that makes you virtually unstoppable.', 'ja',
-     '自己規律は、あなたをほとんど止められない存在にする魔法の力だ。');
+     '自己規律は、あなたをほとんど止められない存在にする魔法の力だ。'),
+    ('The price of excellence is discipline. The cost of mediocrity is disappointment.', 'ja',
+     '卓越の代償は規律であり、凡庸の代償は失望である。');
