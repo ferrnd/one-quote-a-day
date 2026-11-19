@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is not how high you have climbed, but how you make a positive difference to the world.', 'ja',
      '成功とは、どれだけ高く登ったかではなく、世界にどれだけ良い違いをもたらしたかである。'),
     ('The best revenge is massive success.', 'ja',
-     '最高の復讐は、大成功することだ。');
+     '最高の復讐は、大成功することだ。'),
+    ('Grief can be the garden of compassion.', 'ja',
+     '悲しみは、思いやりの庭になりうる。');
