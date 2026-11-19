@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The secret of change is to focus all of your energy not on fighting the old, but on building the new.', 'ko',
      '변화의 비결은 모든 에너지를 낡은 것과 싸우는 데가 아니라 새것을 세우는 데 쏟는 것이다.'),
     ('What you get by achieving your goals is not as important as what you become by achieving your goals.', 'ko',
-     '목표를 이루어서 얻는 것은, 목표를 이루면서 당신이 어떤 사람이 되느냐만큼 중요하지 않다.');
+     '목표를 이루어서 얻는 것은, 목표를 이루면서 당신이 어떤 사람이 되느냐만큼 중요하지 않다.'),
+    ('Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don''t belong.', 'ko',
+     '성장은 아프다. 변화도 아프다. 하지만 당신이 속하지 않은 곳에 갇혀 있는 것만큼 아픈 것은 없다.');
