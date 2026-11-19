@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perseverance, secret of all triumphs.', 'ja',
      '根気こそ、あらゆる勝利の秘訣である。'),
     ('The road to success is dotted with many tempting parking spaces.', 'ja',
-     '成功への道には、誘惑的な駐車場がいくつも点在している。');
+     '成功への道には、誘惑的な駐車場がいくつも点在している。'),
+    ('If you fell down yesterday, stand up today.', 'ja',
+     '昨日転んだのなら、今日立ち上がればいい。');
