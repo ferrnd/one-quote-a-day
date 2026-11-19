@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our wounds are often the openings into the best and most beautiful part of us.', 'ko',
      '우리의 상처는 종종 우리 안의 가장 선하고 아름다운 부분으로 들어가는 입구가 된다.'),
     ('Resilience is accepting your new reality, even if it''s less good than the one you had before.', 'ko',
-     '회복력이란 새로운 현실을 받아들이는 것이다. 비록 그것이 이전만큼 좋지 않더라도.');
+     '회복력이란 새로운 현실을 받아들이는 것이다. 비록 그것이 이전만큼 좋지 않더라도.'),
+    ('Man never made any material as resilient as the human spirit.', 'ko',
+     '인간은 인간의 정신만큼 회복력 있는 재료를 만들어 낸 적이 없다.');
