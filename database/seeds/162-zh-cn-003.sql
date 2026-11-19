@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life shrinks or expands in proportion to one''s courage.', 'zh-CN',
      '生命随着一个人的勇气而收缩或扩展。'),
     ('It takes courage to grow up and become who you really are.', 'zh-CN',
-     '长大并成为真正的自己，需要勇气。');
+     '长大并成为真正的自己，需要勇气。'),
+    ('Courage is rightly esteemed the first of human qualities because it is the quality which guarantees all others.', 'zh-CN',
+     '勇气被公认为人类首要的品质，这是理所当然的，因为它是保障其他一切品质的品质。');
