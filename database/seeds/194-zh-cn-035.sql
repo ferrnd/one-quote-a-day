@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The darker the night, the brighter the stars, the deeper the grief, the closer is God!', 'zh-CN',
      '夜越黑，星越亮；悲伤越深，上帝越近！'),
     ('Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.', 'zh-CN',
-     '云朵飘进我的生命，不再带来雨水或预示风暴，而是为我的夕阳天空增添色彩。');
+     '云朵飘进我的生命，不再带来雨水或预示风暴，而是为我的夕阳天空增添色彩。'),
+    ('Character is power.', 'zh-CN',
+     '品格就是力量。');
