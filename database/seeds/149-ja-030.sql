@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only journey is the one within.', 'ja',
      '唯一の旅とは、自分の内側への旅である。'),
     ('I am still learning.', 'ja',
-     '私はまだ学んでいる。');
+     '私はまだ学んでいる。'),
+    ('It is not length of life, but depth of life.', 'ja',
+     '大切なのは人生の長さではなく、人生の深さだ。');
