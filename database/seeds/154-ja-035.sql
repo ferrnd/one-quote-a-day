@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nobody has ever measured, not even poets, how much the heart can hold.', 'ja',
      '心がどれほど多くを抱えられるか、詩人でさえ、誰も測ったことはない。'),
     ('Not all of us can do great things. But we can do small things with great love.', 'ja',
-     '私たちは皆が偉大なことをできるわけではありません。でも、小さなことを大きな愛をもって行うことはできます。');
+     '私たちは皆が偉大なことをできるわけではありません。でも、小さなことを大きな愛をもって行うことはできます。'),
+    ('Though she be but little, she is fierce.', 'ja',
+     'あの子は小さいけれど、気性は激しい。');
