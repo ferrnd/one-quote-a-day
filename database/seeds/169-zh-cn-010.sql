@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am prepared for the worst, but hope for the best.', 'zh-CN',
      '我为最坏的情况做好准备，但抱着最好的希望。'),
     ('We need never be hopeless because we can never be irreparably broken.', 'zh-CN',
-     '我们永远不必绝望，因为我们永远不会破碎到无法修补。');
+     '我们永远不必绝望，因为我们永远不会破碎到无法修补。'),
+    ('We will grieve not, rather find strength in what remains behind.', 'zh-CN',
+     '我们不会悲伤，而要从留下的一切中寻找力量。');
