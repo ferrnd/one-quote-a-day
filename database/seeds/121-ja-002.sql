@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Genius is one percent inspiration and ninety-nine percent perspiration.', 'ja',
      '天才とは、1パーセントのひらめきと99パーセントの努力である。'),
     ('The harder the conflict, the more glorious the triumph.', 'ja',
-     '戦いが厳しいほど、勝利はいっそう輝かしい。');
+     '戦いが厳しいほど、勝利はいっそう輝かしい。'),
+    ('Persistence guarantees that results are inevitable.', 'ja',
+     '粘り強さがあれば、結果は必ずついてくる。');
