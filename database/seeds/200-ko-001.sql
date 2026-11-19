@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('With ordinary talent and extraordinary perseverance, all things are attainable.', 'ko',
      '평범한 재능과 비범한 끈기가 있다면 무엇이든 이룰 수 있다.'),
     ('The drops of rain make a hole in the stone, not by violence, but by oft falling.', 'ko',
-     '빗방울이 돌에 구멍을 내는 것은 세차게 떨어져서가 아니라 자주 떨어지기 때문이다.');
+     '빗방울이 돌에 구멍을 내는 것은 세차게 떨어져서가 아니라 자주 떨어지기 때문이다.'),
+    ('Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.', 'ko',
+     '세상의 중요한 일들 대부분은 전혀 희망이 없어 보일 때에도 계속 시도한 사람들이 이루어 냈다.');
