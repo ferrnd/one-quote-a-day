@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('And, when you want something, all the universe conspires in helping you to achieve it.', 'ja',
      'そして、何かを望むとき、宇宙全体がその実現を助けるために協力してくれるのだ。'),
     ('Dream as if you''ll live forever. Live as if you''ll die today.', 'ja',
-     '永遠に生きるかのように夢を見よ。今日死ぬかのように生きよ。');
+     '永遠に生きるかのように夢を見よ。今日死ぬかのように生きよ。'),
+    ('The biggest adventure you can take is to live the life of your dreams.', 'ja',
+     'あなたにできる最大の冒険は、夢見た人生を生きることだ。');
