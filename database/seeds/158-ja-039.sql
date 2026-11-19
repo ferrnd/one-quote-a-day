@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is nothing like a dream to create the future.', 'ja',
      '未来を創り出すのに、夢に勝るものはない。'),
     ('The power of imagination makes us infinite.', 'ja',
-     '想像力が、私たちを無限にする。');
+     '想像力が、私たちを無限にする。'),
+    ('You see things; and you say ''Why?'' But I dream things that never were; and I say ''Why not?''', 'ja',
+     'あなたは物事を見て、「なぜ？」と言う。だが私は、かつてなかったものを夢見て、「なぜいけない？」と言うのだ。');
