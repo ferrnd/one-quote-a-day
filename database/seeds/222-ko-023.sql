@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ability is what you''re capable of doing. Motivation determines what you do. Attitude determines how well you do it.', 'ko',
      '능력은 당신이 할 수 있는 것이다. 동기는 당신이 무엇을 할지 결정한다. 태도는 그것을 얼마나 잘할지 결정한다.'),
     ('Worry does not empty tomorrow of its sorrow, it empties today of its strength.', 'ko',
-     '걱정은 내일의 슬픔을 비워 주지 않는다. 오늘의 힘을 비워 버릴 뿐이다.');
+     '걱정은 내일의 슬픔을 비워 주지 않는다. 오늘의 힘을 비워 버릴 뿐이다.'),
+    ('Man is not worried by real problems so much as by his imagined anxieties about real problems.', 'ko',
+     '사람을 괴롭히는 것은 실제 문제라기보다 실제 문제에 대해 상상한 불안이다.');
