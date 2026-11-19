@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the pillar that holds up the world.', 'ko',
      '희망은 세상을 떠받치는 기둥이다.'),
     ('Hope will never be silent.', 'ko',
-     '희망은 결코 침묵하지 않을 것이다.');
+     '희망은 결코 침묵하지 않을 것이다.'),
+    ('Weeping may endure for a night, but joy cometh in the morning.', 'ko',
+     '저녁에는 울음이 깃들일지라도 아침에는 기쁨이 오리로다.');
