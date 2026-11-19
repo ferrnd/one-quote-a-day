@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am still learning.', 'zh-CN',
      '我仍在学习。'),
     ('It is not length of life, but depth of life.', 'zh-CN',
-     '重要的不是生命的长度，而是生命的深度。');
+     '重要的不是生命的长度，而是生命的深度。'),
+    ('Once you make a decision, the universe conspires to make it happen.', 'zh-CN',
+     '一旦你做出决定，整个宇宙都会协力让它实现。');
