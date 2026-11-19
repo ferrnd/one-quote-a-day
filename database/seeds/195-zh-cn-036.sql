@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The last three or four reps is what makes the muscle grow.', 'zh-CN',
      '最后那三四次重复，才是让肌肉生长的关键。'),
     ('Self-discipline begins with the mastery of your thoughts.', 'zh-CN',
-     '自律始于掌控自己的思想。');
+     '自律始于掌控自己的思想。'),
+    ('Dost thou love life? Then do not squander time, for that is the stuff life is made of.', 'zh-CN',
+     '你热爱生命吗？那就别浪费时间，因为时间是构成生命的材料。');
