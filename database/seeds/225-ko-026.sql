@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Determine never to be idle.', 'ko',
      '결코 게으르지 않겠다고 결심하라.'),
     ('A dream doesn''t become reality through magic; it takes sweat, determination and hard work.', 'ko',
-     '꿈은 마법으로 현실이 되지 않는다. 땀과 결단과 노력이 필요하다.');
+     '꿈은 마법으로 현실이 되지 않는다. 땀과 결단과 노력이 필요하다.'),
+    ('There are no secrets to success. It is the result of preparation, hard work, and learning from failure.', 'ko',
+     '성공에 비밀은 없다. 그것은 준비와 노력, 그리고 실패에서 배운 것의 결과다.');
