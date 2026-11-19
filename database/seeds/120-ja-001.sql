@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A river cuts through rock not because of its power, but because of its persistence.', 'ja',
      '川が岩を削るのは力が強いからではなく、絶え間なく流れ続けるからだ。'),
     ('Many of life''s failures are people who did not realize how close they were to success when they gave up.', 'ja',
-     '人生に失敗した人の多くは、あきらめたとき、成功にどれほど近づいていたかに気づかなかった人たちだ。');
+     '人生に失敗した人の多くは、あきらめたとき、成功にどれほど近づいていたかに気づかなかった人たちだ。'),
+    ('I am a slow walker, but I never walk back.', 'ja',
+     '私は歩くのは遅いが、決して後戻りはしない。');
