@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Great things are not done by impulse, but by a series of small things brought together.', 'ko',
      '위대한 일은 충동이 아니라 작은 일들이 모여 이루어진다.'),
     ('Genius is one percent inspiration and ninety-nine percent perspiration.', 'ko',
-     '천재는 1퍼센트의 영감과 99퍼센트의 노력으로 이루어진다.');
+     '천재는 1퍼센트의 영감과 99퍼센트의 노력으로 이루어진다.'),
+    ('The harder the conflict, the more glorious the triumph.', 'ko',
+     '싸움이 힘들수록 승리는 더 영광스럽다.');
