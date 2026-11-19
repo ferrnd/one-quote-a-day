@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no secrets to success. It is the result of preparation, hard work, and learning from failure.', 'ko',
      '성공에 비밀은 없다. 그것은 준비와 노력, 그리고 실패에서 배운 것의 결과다.'),
     ('Our greatest fear should not be of failure but of succeeding at things in life that don''t really matter.', 'ko',
-     '우리가 가장 두려워해야 할 것은 실패가 아니라, 인생에서 정말로 중요하지 않은 일에 성공하는 것이다.');
+     '우리가 가장 두려워해야 할 것은 실패가 아니라, 인생에서 정말로 중요하지 않은 일에 성공하는 것이다.'),
+    ('Stay hungry, stay foolish.', 'ko',
+     '계속 갈망하라, 계속 우직하라.');
