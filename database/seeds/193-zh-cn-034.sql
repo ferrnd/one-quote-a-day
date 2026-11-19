@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be water, my friend.', 'zh-CN',
      '像水一样吧，我的朋友。'),
     ('Hard days are the best because that''s when champions are made.', 'zh-CN',
-     '艰难的日子是最好的日子，因为冠军就是在那时造就的。');
+     '艰难的日子是最好的日子，因为冠军就是在那时造就的。'),
+    ('There is always light, if only we''re brave enough to see it. If only we''re brave enough to be it.', 'zh-CN',
+     '光一直都在，只要我们有足够的勇气去看见它，只要我们有足够的勇气去成为它。');
