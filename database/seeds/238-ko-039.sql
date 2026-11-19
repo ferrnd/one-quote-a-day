@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Champions aren''t made in the gyms. Champions are made from something they have deep inside them: a desire, a dream, a vision.', 'ko',
      '챔피언은 체육관에서 만들어지지 않는다. 챔피언은 그들 내면 깊숙이 있는 것, 즉 열망과 꿈과 비전에서 만들어진다.'),
     ('The road to success is always under construction.', 'ko',
-     '성공으로 가는 길은 언제나 공사 중이다.');
+     '성공으로 가는 길은 언제나 공사 중이다.'),
+    ('Ambition is enthusiasm with a purpose.', 'ko',
+     '야망이란 목적을 가진 열정이다.');
