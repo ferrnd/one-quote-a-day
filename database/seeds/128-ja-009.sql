@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.', 'ja',
      '人生とは、いつも良い手札を持つことではない。ときには、悪い手札をうまく使うことなのだ。'),
     ('Hope is the thing with feathers that perches in the soul.', 'ja',
-     '希望とは、魂にとまる羽根をもったもの。');
+     '希望とは、魂にとまる羽根をもったもの。'),
+    ('Everything that is done in the world is done by hope.', 'ja',
+     'この世で成し遂げられることはすべて、希望によって成し遂げられる。');
