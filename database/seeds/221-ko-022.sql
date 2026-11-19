@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A man is but the product of his thoughts. What he thinks, he becomes.', 'ko',
      '인간은 생각의 산물일 뿐이다. 생각하는 대로 그 사람이 된다.'),
     ('If you don''t like something, change it. If you can''t change it, change your attitude.', 'ko',
-     '무언가가 마음에 들지 않으면 바꿔라. 바꿀 수 없다면 태도를 바꿔라.');
+     '무언가가 마음에 들지 않으면 바꿔라. 바꿀 수 없다면 태도를 바꿔라.'),
+    ('People often say that motivation doesn''t last. Well, neither does bathing. That''s why we recommend it daily.', 'ko',
+     '사람들은 흔히 동기 부여가 오래가지 않는다고 말한다. 목욕도 마찬가지다. 그래서 매일 하라고 권하는 것이다.');
