@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who is brave is free.', 'ko',
      '용감한 사람은 자유롭다.'),
     ('I must not fear. Fear is the mind-killer.', 'ko',
-     '나는 두려워해서는 안 된다. 두려움은 정신을 죽이는 것이다.');
+     '나는 두려워해서는 안 된다. 두려움은 정신을 죽이는 것이다.'),
+    ('Courage is the main quality of leadership.', 'ko',
+     '용기는 리더십의 가장 중요한 자질이다.');
