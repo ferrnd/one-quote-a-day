@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('These pains you feel are messengers. Listen to them.', 'ko',
      '당신이 느끼는 이 고통은 전령이다. 그 소리에 귀 기울여라.'),
     ('Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.', 'ko',
-     '자유는 인생에서 유일하게 가치 있는 목표다. 그것은 우리가 통제할 수 없는 것에 마음을 쓰지 않음으로써 얻어진다.');
+     '자유는 인생에서 유일하게 가치 있는 목표다. 그것은 우리가 통제할 수 없는 것에 마음을 쓰지 않음으로써 얻어진다.'),
+    ('Don''t explain your philosophy. Embody it.', 'ko',
+     '당신의 철학을 설명하지 말고, 그것을 몸소 보여라.');
