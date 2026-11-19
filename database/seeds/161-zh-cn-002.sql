@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every strike brings me closer to the next home run.', 'zh-CN',
      '每一次挥空，都让我离下一个本垒打更近。'),
     ('You just can''t beat the person who never gives up.', 'zh-CN',
-     '你永远打不败一个从不放弃的人。');
+     '你永远打不败一个从不放弃的人。'),
+    ('Don''t watch the clock; do what it does. Keep going.', 'zh-CN',
+     '别盯着时钟看；像它一样，继续前进。');
