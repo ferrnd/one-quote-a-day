@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Man never made any material as resilient as the human spirit.', 'ja',
      '人間は、人の精神ほどしなやかな素材を作り出したことがない。'),
     ('Grief and resilience live together.', 'ja',
-     '悲しみとしなやかな強さは、共に生きている。');
+     '悲しみとしなやかな強さは、共に生きている。'),
+    ('It''s not whether you get knocked down; it''s whether you get up.', 'ja',
+     '大事なのは倒されるかどうかではない。立ち上がるかどうかだ。');
