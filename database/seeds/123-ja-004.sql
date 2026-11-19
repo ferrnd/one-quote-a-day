@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Vulnerability is the birthplace of innovation, creativity and change.', 'ja',
      '弱さをさらけ出すことは、革新と創造と変化の生まれる場所だ。'),
     ('Courage starts with showing up and letting ourselves be seen.', 'ja',
-     '勇気は、その場に姿を現し、ありのままの自分を見せることから始まる。');
+     '勇気は、その場に姿を現し、ありのままの自分を見せることから始まる。'),
+    ('Don''t be afraid to give up the good to go for the great.', 'ja',
+     '偉大なものを目指すためなら、良いものを手放すことを恐れてはいけない。');
