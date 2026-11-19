@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no mistakes or failures, only lessons.', 'ja',
      '間違いも失敗もない。あるのは教訓だけだ。'),
     ('I have learned more from my mistakes than from my successes.', 'ja',
-     '私は成功からよりも、失敗から多くを学んできた。');
+     '私は成功からよりも、失敗から多くを学んできた。'),
+    ('It''s failure that gives you the proper perspective on success.', 'ja',
+     '成功を正しく見る目を与えてくれるのは、失敗だ。');
