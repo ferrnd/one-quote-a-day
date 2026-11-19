@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The harder the conflict, the more glorious the triumph.', 'ko',
      '싸움이 힘들수록 승리는 더 영광스럽다.'),
     ('Persistence guarantees that results are inevitable.', 'ko',
-     '끈기가 있으면 결과는 반드시 따라온다.');
+     '끈기가 있으면 결과는 반드시 따라온다.'),
+    ('Courage doesn''t always roar. Sometimes courage is the quiet voice at the end of the day saying, I will try again tomorrow.', 'ko',
+     '용기가 언제나 포효하는 것은 아니다. 때로 용기는 하루가 끝날 무렵 "내일 다시 해 볼 거야"라고 말하는 조용한 목소리다.');
