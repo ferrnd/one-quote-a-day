@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('They always say time changes things, but you actually have to change them yourself.', 'zh-CN',
      '人们总说时间会改变一切，但实际上你得自己去改变。'),
     ('Progress is impossible without change, and those who cannot change their minds cannot change anything.', 'zh-CN',
-     '没有改变就不可能进步，那些无法改变自己想法的人，什么也改变不了。');
+     '没有改变就不可能进步，那些无法改变自己想法的人，什么也改变不了。'),
+    ('Change is the law of life. And those who look only to the past or present are certain to miss the future.', 'zh-CN',
+     '变化是生活的法则。那些只看过去或现在的人，注定会错过未来。');
