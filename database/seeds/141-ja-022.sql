@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Self-belief and hard work will always earn you success.', 'ja',
      '自分を信じる心と努力は、必ず成功をもたらす。'),
     ('Too many of us are not living our dreams because we are living our fears.', 'ja',
-     '多くの人が夢を生きていないのは、恐れを生きているからだ。');
+     '多くの人が夢を生きていないのは、恐れを生きているからだ。'),
+    ('Shoot for the moon. Even if you miss, you''ll land among the stars.', 'ja',
+     '月を目指せ。たとえ外れても、星々の間に着地できる。');
