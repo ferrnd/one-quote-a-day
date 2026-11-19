@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The years teach much which the days never know.', 'zh-CN',
      '岁月教给我们的许多东西，是日子永远不知道的。'),
     ('Write it on your heart that every day is the best day in the year.', 'zh-CN',
-     '把这句话写在你心上：每一天都是一年中最好的一天。');
+     '把这句话写在你心上：每一天都是一年中最好的一天。'),
+    ('Life can only be understood backwards; but it must be lived forwards.', 'zh-CN',
+     '人生只能向后理解，但必须向前生活。');
