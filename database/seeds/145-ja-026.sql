@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Gold medals aren''t really made of gold. They''re made of sweat, determination, and a hard-to-find alloy called guts.', 'ja',
      '金メダルは本当は金でできているのではない。汗と決意と、なかなか見つからない「根性」という合金でできているのだ。'),
     ('Age is no barrier. It''s a limitation you put on your mind.', 'ja',
-     '年齢は壁ではない。自分の心に課した制限にすぎない。');
+     '年齢は壁ではない。自分の心に課した制限にすぎない。'),
+    ('The difference between ordinary and extraordinary is that little extra.', 'ja',
+     '普通と非凡の違いは、そのわずかな「プラスアルファ」にある。');
