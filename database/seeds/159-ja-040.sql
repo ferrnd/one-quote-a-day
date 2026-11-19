@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only true wisdom is in knowing you know nothing.', 'ja',
      '唯一の真の知恵とは、自分が何も知らないと知ることである。'),
     ('Be kind, for everyone you meet is fighting a hard battle.', 'ja',
-     '親切であれ。あなたが出会う人は皆、つらい戦いを戦っているのだから。');
+     '親切であれ。あなたが出会う人は皆、つらい戦いを戦っているのだから。'),
+    ('No act of kindness, no matter how small, is ever wasted.', 'ja',
+     'どんなに小さくても、親切な行いが無駄になることは決してない。');
