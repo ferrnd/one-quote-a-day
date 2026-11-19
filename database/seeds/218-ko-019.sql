@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The way to get started is to quit talking and begin doing.', 'ko',
      '시작하는 방법은 말을 멈추고 행동을 시작하는 것이다.'),
     ('Do not wait; the time will never be just right.', 'ko',
-     '기다리지 마라. 딱 맞는 때는 결코 오지 않는다.');
+     '기다리지 마라. 딱 맞는 때는 결코 오지 않는다.'),
+    ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'ko',
+     '아는 것만으로는 부족하다. 적용해야 한다. 원하는 것만으로는 부족하다. 행해야 한다.');
