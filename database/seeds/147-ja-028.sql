@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never let your memories be greater than your dreams.', 'ja',
      '思い出を、夢より大きくしてはいけない。'),
     ('All men dream, but not equally.', 'ja',
-     'すべての人は夢を見る。だが、同じようにではない。');
+     'すべての人は夢を見る。だが、同じようにではない。'),
+    ('Dreams come true. Without that possibility, nature would not incite us to have them.', 'ja',
+     '夢はかなう。その可能性がなければ、自然が私たちに夢を見させるはずがない。');
