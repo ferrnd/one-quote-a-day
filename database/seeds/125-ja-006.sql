@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Good people are good because they''ve come to wisdom through failure.', 'ja',
      '善い人が善いのは、失敗を通して知恵にたどり着いたからだ。'),
     ('The greatest mistake you can make in life is to be continually fearing you will make one.', 'ja',
-     '人生で犯しうる最大の間違いは、間違いを犯すことを絶えず恐れることだ。');
+     '人生で犯しうる最大の間違いは、間違いを犯すことを絶えず恐れることだ。'),
+    ('If you''re not prepared to be wrong, you''ll never come up with anything original.', 'ja',
+     '間違える覚悟がなければ、独創的なものは何も生み出せない。');
