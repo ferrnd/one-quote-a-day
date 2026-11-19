@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you want to go fast, go alone. If you want to go far, go together.', 'ja',
      '早く行きたいなら、一人で行け。遠くまで行きたいなら、みんなで行け。'),
     ('Be not afraid.', 'ja',
-     '恐れることはない。');
+     '恐れることはない。'),
+    ('I am not afraid of tomorrow, for I have seen yesterday and I love today.', 'ja',
+     '私は明日を恐れない。昨日を見てきたし、今日を愛しているから。');
