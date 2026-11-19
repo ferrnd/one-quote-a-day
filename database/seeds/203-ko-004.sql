@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Vulnerability is the birthplace of innovation, creativity and change.', 'ko',
      '취약함은 혁신과 창의성과 변화가 태어나는 곳이다.'),
     ('Courage starts with showing up and letting ourselves be seen.', 'ko',
-     '용기는 그 자리에 나서서 있는 그대로의 나를 보여 주는 데서 시작된다.');
+     '용기는 그 자리에 나서서 있는 그대로의 나를 보여 주는 데서 시작된다.'),
+    ('Don''t be afraid to give up the good to go for the great.', 'ko',
+     '위대한 것을 향해 가기 위해 좋은 것을 포기하는 것을 두려워하지 마라.');
