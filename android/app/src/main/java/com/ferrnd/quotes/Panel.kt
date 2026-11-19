@@ -167,8 +167,8 @@ private fun LanguageTab(state: AppState) {
                     .padding(horizontal = 14.dp, vertical = 11.dp),
                 verticalAlignment = Alignment.CenterVertically,
             ) {
-                Body(name, Modifier.weight(1f), size = 19.sp)
-                if (on) Body("✓", size = 19.sp)
+                Body(name, Modifier.weight(1f), size = 20.sp)
+                if (on) Body("✓", size = 20.sp)
             }
         }
     }
@@ -180,7 +180,7 @@ private fun LanguageTab(state: AppState) {
 @Composable
 private fun Section(state: AppState, title: String, text: String) {
     Meta(state.t(title))
-    Body(state.t(text), Modifier.padding(top = 6.dp), size = 17.sp)
+    Body(state.t(text), Modifier.padding(top = 6.dp), size = 18.sp)
     Gap()
 }
 
@@ -214,7 +214,7 @@ private fun ShareTab(state: AppState) {
     val fileName = "${(label ?: "quote").lowercase().replace(' ', '-')}.png"
     fun card() = Share.renderCard(context, entry, label, palette, state.lang)
 
-    Body(state.t("Send the quote on screen, as a picture or as text, with a link to the site."), size = 17.sp)
+    Body(state.t("Send the quote on screen, as a picture or as text, with a link to the site."), size = 18.sp)
     Gap(16.dp)
     FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
         Pill(state.t("Share image")) {
@@ -241,7 +241,7 @@ private fun ShareTab(state: AppState) {
 private fun FavoritesTab(state: AppState, onShow: (Int) -> Unit) {
     val context = LocalContext.current
     if (state.favorites.isEmpty()) {
-        Body(state.t("No favorites yet."), size = 19.sp, italic = true)
+        Body(state.t("No favorites yet."), size = 20.sp, italic = true)
         Note(state.t("Long-press the quote to save it here. Do it again to remove it."))
         return
     }
@@ -249,7 +249,7 @@ private fun FavoritesTab(state: AppState, onShow: (Int) -> Unit) {
         val entry = state.entry(day)
         val n = state.catalog.dayNumber(day)
         Meta(if (n >= 1) "${state.dayLabel(day)} · ${formatDate(day, state.lang)}" else formatDate(day, state.lang))
-        Body("“${entry.text}”", Modifier.padding(top = 6.dp), italic = true, size = 19.sp)
+        Body("“${entry.text}”", Modifier.padding(top = 6.dp), italic = true, size = 20.sp)
         entry.author?.let { Meta(it, Modifier.padding(top = 6.dp)) }
         FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp), modifier = Modifier.padding(top = 10.dp)) {
             Pill(state.t("Show")) { onShow(day) }
@@ -278,7 +278,7 @@ private fun CreditsTab(state: AppState) {
     @Composable
     fun row(label: String, value: String, url: String? = null) {
         Meta(state.t(label))
-        Body(value, Modifier.padding(top = 4.dp).let { if (url != null) it.clickable { Share.open(context, url) } else it }, size = 18.sp)
+        Body(value, Modifier.padding(top = 4.dp).let { if (url != null) it.clickable { Share.open(context, url) } else it }, size = 19.sp)
         Gap(18.dp)
     }
     row("Made by", "ferrnd", "https://github.com/ferrnd")

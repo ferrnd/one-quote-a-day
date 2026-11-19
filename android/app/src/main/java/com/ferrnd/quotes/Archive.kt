@@ -65,7 +65,7 @@ fun Archive(state: AppState) {
                     ) {
                         val n = state.catalog.dayNumber(day)
                         Meta(if (n >= 1) "${state.dayLabel(day)} · ${formatDate(day, state.lang)}" else formatDate(day, state.lang))
-                        Body("“${entry.text}”", Modifier.padding(top = 6.dp), italic = true, size = 19.sp)
+                        Body("“${entry.text}”", Modifier.padding(top = 6.dp), italic = true, size = 20.sp)
                         entry.author?.let { Meta(it, Modifier.padding(top = 6.dp)) }
                     }
                 }

@@ -143,7 +143,7 @@ private fun QuoteBlock(state: AppState, day: Int) {
     // the site's clamp(): grows a little on wider screens
     val width = LocalConfiguration.current.screenWidthDp
     val scale = (width / 375f).coerceIn(1f, 1.7f)
-    val base = when (state.settings.size) { "s" -> 23f; "l" -> 31f; else -> 27f }
+    val base = when (state.settings.size) { "s" -> 24f; "l" -> 32f; else -> 28f }
 
     BoxWithConstraints(Modifier.fillMaxWidth(), contentAlignment = Alignment.Center) {
         Column(
@@ -161,7 +161,7 @@ private fun QuoteBlock(state: AppState, day: Int) {
                 style = TextStyle(
                     fontFamily = fonts.serif,
                     fontStyle = FontStyle.Italic,
-                    fontWeight = FontWeight.Normal,
+                    fontWeight = FontWeight.Medium,
                     fontSize = (base * scale).sp,
                     lineHeight = 1.22.em,
                     letterSpacing = 0.002.em,
@@ -193,12 +193,12 @@ private fun QuoteBlock(state: AppState, day: Int) {
                     textAlign = TextAlign.Center,
                     style = TextStyle(
                         fontFamily = fonts.serif,
-                        fontWeight = FontWeight.Medium,
-                        fontSize = (12.5f * scale).sp,
-                        letterSpacing = 0.32.em,
+                        fontWeight = FontWeight.SemiBold,
+                        fontSize = (13.5f * scale).sp,
+                        letterSpacing = 0.28.em,
                     ),
                     modifier = Modifier
-                        .padding(start = (12.5f * scale * 0.32f).dp) // the trailing letter space, so it stays centred
+                        .padding(start = (13.5f * scale * 0.28f).dp) // the trailing letter space, so it stays centred
                         .combinedClickable(
                             interactionSource = remember { MutableInteractionSource() },
                             indication = null,
@@ -229,7 +229,7 @@ private fun Corner(state: AppState, modifier: Modifier) {
             contentDescription = state.t("Settings"),
             tint = palette.ink,
             modifier = Modifier
-                .alpha(0.4f)
+                .alpha(0.5f)
                 .combinedClickable(
                     interactionSource = remember { MutableInteractionSource() },
                     indication = null,
@@ -252,7 +252,7 @@ private fun Corner(state: AppState, modifier: Modifier) {
                     fontFeatureSettings = "lnum",
                 ),
                 modifier = Modifier
-                    .alpha(0.4f)
+                    .alpha(0.5f)
                     .combinedClickable(
                         interactionSource = remember { MutableInteractionSource() },
                         indication = null,
@@ -286,7 +286,7 @@ private fun Toast(state: AppState, modifier: Modifier) {
                 fontSize = 15.sp,
                 letterSpacing = 0.16.em,
             ),
-            modifier = Modifier.alpha(0.4f),
+            modifier = Modifier.alpha(0.55f),
         )
     }
 }
