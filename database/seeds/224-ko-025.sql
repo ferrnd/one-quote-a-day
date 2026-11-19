@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am extraordinarily patient, provided I get my own way in the end.', 'ko',
      '나는 대단히 인내심이 많다. 결국 내 뜻대로만 된다면.'),
     ('If you are patient in one moment of anger, you will escape a hundred days of sorrow.', 'ko',
-     '한때의 분노를 참으면 백 일의 근심을 면한다.');
+     '한때의 분노를 참으면 백 일의 근심을 면한다.'),
+    ('Patience is the support of weakness; impatience the ruin of strength.', 'ko',
+     '인내는 약함을 지탱해 주고, 조급함은 강함을 무너뜨린다.');
