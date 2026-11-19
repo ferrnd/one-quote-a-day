@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nobody can make you feel inferior without your consent.', 'ko',
      '당신의 동의 없이는 누구도 당신에게 열등감을 느끼게 할 수 없다.'),
     ('You have power over your mind, not outside events. Realize this, and you will find strength.', 'ko',
-     '당신이 다스릴 수 있는 것은 외부의 사건이 아니라 당신의 마음이다. 이것을 깨달으면 힘을 찾게 될 것이다.');
+     '당신이 다스릴 수 있는 것은 외부의 사건이 아니라 당신의 마음이다. 이것을 깨달으면 힘을 찾게 될 것이다.'),
+    ('The impediment to action advances action. What stands in the way becomes the way.', 'ko',
+     '행동을 가로막는 것이 행동을 앞으로 나아가게 한다. 길을 막는 것이 길이 된다.');
