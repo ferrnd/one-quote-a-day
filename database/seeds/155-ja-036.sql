@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The privilege of a lifetime is to become who you truly are.', 'ja',
      '生涯で得られる特権とは、本当の自分になることである。'),
     ('Knowing your own darkness is the best method for dealing with the darknesses of other people.', 'ja',
-     '自分自身の闇を知ることは、他人の闇と向き合うための最良の方法である。');
+     '自分自身の闇を知ることは、他人の闇と向き合うための最良の方法である。'),
+    ('There is no coming to consciousness without pain.', 'ja',
+     '痛みなくして、意識に目覚めることはない。');
