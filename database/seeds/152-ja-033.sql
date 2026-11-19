@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'ja',
      'ときどき失敗していないなら、それはあまり革新的なことをしていない証拠だ。'),
     ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'ja',
-     '失敗はいつでも起こる。練習では毎日起こる。あなたを成長させるのは、それにどう向き合うかだ。');
+     '失敗はいつでも起こる。練習では毎日起こる。あなたを成長させるのは、それにどう向き合うかだ。'),
+    ('There are no mistakes or failures, only lessons.', 'ja',
+     '間違いも失敗もない。あるのは教訓だけだ。');
