@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is nothing stronger in the world than gentleness.', 'ko',
      '세상에 부드러움보다 강한 것은 없다.'),
     ('Nothing is so strong as gentleness, nothing so gentle as real strength.', 'ko',
-     '부드러움만큼 강한 것은 없고, 진정한 강함만큼 부드러운 것은 없다.');
+     '부드러움만큼 강한 것은 없고, 진정한 강함만큼 부드러운 것은 없다.'),
+    ('The oak sleeps in the acorn.', 'ko',
+     '참나무는 도토리 속에서 잠들어 있다.');
