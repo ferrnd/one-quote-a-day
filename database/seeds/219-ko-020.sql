@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To begin, begin.', 'ko',
      '시작하려면, 시작하라.'),
     ('Pursue what catches your heart, not what catches your eyes.', 'ko',
-     '눈을 사로잡는 것이 아니라 마음을 사로잡는 것을 좇아라.');
+     '눈을 사로잡는 것이 아니라 마음을 사로잡는 것을 좇아라.'),
+    ('Life is ten percent what happens to you and ninety percent how you respond to it.', 'ko',
+     '인생은 10퍼센트가 당신에게 일어나는 일이고, 90퍼센트가 그것에 어떻게 대응하느냐다.');
