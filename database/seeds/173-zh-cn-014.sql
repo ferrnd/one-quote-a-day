@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no shortcuts to any place worth going.', 'zh-CN',
      '通往任何值得去的地方，都没有捷径。'),
     ('The only place where success comes before work is in the dictionary.', 'zh-CN',
-     '只有在字典里，“成功”才排在“工作”前面。');
+     '只有在字典里，“成功”才排在“工作”前面。'),
+    ('Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.', 'zh-CN',
+     '天赋比食盐还廉价。区分有天赋的人和成功的人的，是大量的努力。');
