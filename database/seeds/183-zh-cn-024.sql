@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is also a form of action.', 'zh-CN',
      '耐心也是一种行动。'),
     ('Slow and steady wins the race.', 'zh-CN',
-     '慢而稳者赢得比赛。');
+     '慢而稳者赢得比赛。'),
+    ('With time and patience the mulberry leaf becomes a silk gown.', 'zh-CN',
+     '有了时间和耐心，桑叶也能变成丝绸长袍。');
