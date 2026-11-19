@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Whatever the mind of man can conceive and believe, it can achieve.', 'ja',
      '人の心が思い描き、信じることができるものは、何でも実現できる。'),
     ('The man who has confidence in himself gains the confidence of others.', 'ja',
-     '自分を信じる人は、他人の信頼も得る。');
+     '自分を信じる人は、他人の信頼も得る。'),
+    ('Once you replace negative thoughts with positive ones, you''ll start having positive results.', 'ja',
+     '否定的な考えを肯定的な考えに置き換えれば、肯定的な結果が出始める。');
