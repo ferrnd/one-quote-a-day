@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The opposite of courage in our society is not cowardice, it is conformity.', 'ko',
      '우리 사회에서 용기의 반대는 비겁함이 아니라 순응이다.'),
     ('Cowards die many times before their deaths; the valiant never taste of death but once.', 'ko',
-     '겁쟁이는 죽기 전에 여러 번 죽지만, 용감한 자는 단 한 번만 죽음을 맛본다.');
+     '겁쟁이는 죽기 전에 여러 번 죽지만, 용감한 자는 단 한 번만 죽음을 맛본다.'),
+    ('Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.', 'ko',
+     '위대함을 두려워하지 마라. 어떤 이는 위대하게 태어나고, 어떤 이는 위대함을 성취하며, 어떤 이는 위대함을 떠안게 된다.');
