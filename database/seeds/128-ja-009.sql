@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep your eyes on the stars, and your feet on the ground.', 'ja',
      '目は星に向け、足は地につけておきなさい。'),
     ('Hope is a waking dream.', 'ja',
-     '希望とは、目覚めている夢である。');
+     '希望とは、目覚めている夢である。'),
+    ('While there''s life, there''s hope.', 'ja',
+     '命あるかぎり、希望はある。');
