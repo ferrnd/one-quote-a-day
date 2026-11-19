@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you don''t like something, change it. If you can''t change it, change your attitude.', 'zh-CN',
      '如果你不喜欢某件事，就去改变它；如果你无法改变它，就改变你的态度。'),
     ('People often say that motivation doesn''t last. Well, neither does bathing. That''s why we recommend it daily.', 'zh-CN',
-     '人们常说动力不会持久。洗澡也不会持久，所以我们建议每天都洗。');
+     '人们常说动力不会持久。洗澡也不会持久，所以我们建议每天都洗。'),
+    ('Your attitude, not your aptitude, will determine your altitude.', 'zh-CN',
+     '决定你高度的，是你的态度，而不是你的天资。');
