@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you get by achieving your goals is not as important as what you become by achieving your goals.', 'zh-CN',
      '你通过实现目标得到的东西，不如你在实现目标的过程中成为什么样的人重要。'),
     ('Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don''t belong.', 'zh-CN',
-     '成长是痛苦的，改变是痛苦的，但没有什么比困在不属于你的地方更痛苦。');
+     '成长是痛苦的，改变是痛苦的，但没有什么比困在不属于你的地方更痛苦。'),
+    ('And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.', 'zh-CN',
+     '终于有一天，紧紧裹在花苞里的风险，比绽放所需承担的风险更令人痛苦。');
