@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('While we wait for life, life passes.', 'zh-CN',
      '当我们等待生活时，生活就过去了。'),
     ('Wherever there is a human being, there is an opportunity for a kindness.', 'zh-CN',
-     '哪里有人，哪里就有行善的机会。');
+     '哪里有人，哪里就有行善的机会。'),
+    ('He suffers more than necessary, who suffers before it is necessary.', 'zh-CN',
+     '在必要之前就受苦的人，所受的苦比必要的更多。');
