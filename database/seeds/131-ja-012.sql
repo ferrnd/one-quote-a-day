@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never bend your head. Always hold it high. Look the world straight in the eye.', 'ja',
      '決してうつむかないで。いつも顔を上げて。世界をまっすぐ見つめるのよ。'),
     ('There is nothing stronger in the world than gentleness.', 'ja',
-     'この世に、優しさより強いものはない。');
+     'この世に、優しさより強いものはない。'),
+    ('Nothing is so strong as gentleness, nothing so gentle as real strength.', 'ja',
+     '優しさほど強いものはなく、本当の強さほど優しいものはない。');
