@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Think of all the beauty still left around you and be happy.', 'ko',
      '아직 당신 곁에 남아 있는 모든 아름다움을 생각하며 행복해져라.'),
     ('It is often in the darkest skies that we see the brightest stars.', 'ko',
-     '가장 어두운 하늘에서 가장 밝은 별을 보게 되는 경우가 많다.');
+     '가장 어두운 하늘에서 가장 밝은 별을 보게 되는 경우가 많다.'),
+    ('Strength and growth come only through continuous effort and struggle.', 'ko',
+     '힘과 성장은 끊임없는 노력과 투쟁을 통해서만 얻어진다.');
