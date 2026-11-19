@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity is the first path to truth.', 'ja',
      '逆境は、真実へ至る最初の道である。'),
     ('Kites rise highest against the wind, not with it.', 'ja',
-     '凧が最も高く上がるのは、追い風ではなく向かい風のときだ。');
+     '凧が最も高く上がるのは、追い風ではなく向かい風のときだ。'),
+    ('Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant.', 'ja',
+     '逆境は、順境ならば眠ったままだったであろう才能を引き出す。');
