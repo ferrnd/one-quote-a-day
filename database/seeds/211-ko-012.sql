@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am no bird; and no net ensnares me: I am a free human being with an independent will.', 'ko',
      '나는 새가 아니다. 어떤 그물도 나를 옭아매지 못한다. 나는 독립된 의지를 지닌 자유로운 인간이다.'),
     ('My mission in life is not merely to survive, but to thrive.', 'ko',
-     '내 삶의 사명은 단지 살아남는 것이 아니라 활짝 피어나는 것이다.');
+     '내 삶의 사명은 단지 살아남는 것이 아니라 활짝 피어나는 것이다.'),
+    ('You can''t be hesitant about who you are.', 'ko',
+     '자신이 누구인지에 대해 망설여서는 안 된다.');
