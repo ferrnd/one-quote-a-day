@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Inaction breeds doubt and fear. Action breeds confidence and courage.', 'ja',
      '行動しなければ疑いと恐れが生まれる。行動すれば自信と勇気が生まれる。'),
     ('Courage is being scared to death, but saddling up anyway.', 'ja',
-     '勇気とは、死ぬほど怖くても、それでも鞍にまたがることだ。');
+     '勇気とは、死ぬほど怖くても、それでも鞍にまたがることだ。'),
+    ('I am not afraid of storms, for I am learning how to sail my ship.', 'ja',
+     '嵐は怖くない。私は自分の船の操り方を学んでいるのだから。');
