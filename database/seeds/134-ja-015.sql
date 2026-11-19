@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don''t belong.', 'ja',
      '成長は痛い。変化も痛い。だが、自分の居場所ではないところに留まり続けることほど痛いものはない。'),
     ('And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.', 'ja',
-     'そしてついにその日が来た。つぼみのまま固く閉じていることの危険が、花開くことの危険よりも苦しくなった日が。');
+     'そしてついにその日が来た。つぼみのまま固く閉じていることの危険が、花開くことの危険よりも苦しくなった日が。'),
+    ('I am always doing that which I cannot do, in order that I may learn how to do it.', 'ja',
+     '私はいつも、できないことをしている。それができるようになる方法を学ぶために。');
