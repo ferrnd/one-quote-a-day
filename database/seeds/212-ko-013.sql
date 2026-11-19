@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Trust thyself: every heart vibrates to that iron string.', 'ko',
      '너 자신을 믿어라. 모든 마음은 그 강철 현에 맞추어 떨린다.'),
     ('You are the one that possesses the keys to your being. You carry the passport to your own happiness.', 'ko',
-     '당신 존재의 열쇠를 가진 사람은 바로 당신이다. 당신의 행복으로 가는 여권도 당신이 지니고 있다.');
+     '당신 존재의 열쇠를 가진 사람은 바로 당신이다. 당신의 행복으로 가는 여권도 당신이 지니고 있다.'),
+    ('We are what we repeatedly do. Excellence, then, is not an act, but a habit.', 'ko',
+     '우리는 우리가 반복하는 행동의 결과다. 그러므로 탁월함은 행위가 아니라 습관이다.');
