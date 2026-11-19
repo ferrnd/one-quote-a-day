@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t watch the clock; do what it does. Keep going.', 'ja',
      '時計を見つめるな。時計と同じことをせよ。進み続けるのだ。'),
     ('What we hope ever to do with ease, we must learn first to do with diligence.', 'ja',
-     'いつか楽にできるようになりたいことは、まず懸命にやることから学ばなければならない。');
+     'いつか楽にできるようになりたいことは、まず懸命にやることから学ばなければならない。'),
+    ('In the confrontation between the stream and the rock, the stream always wins, not through strength but by perseverance.', 'ja',
+     '川の流れと岩とのぶつかり合いでは、いつも流れが勝つ。力によってではなく、粘り強さによって。');
