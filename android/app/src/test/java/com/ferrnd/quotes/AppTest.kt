@@ -155,6 +155,13 @@ class AppTest {
         val night = java.time.LocalDate.of(2026, 11, 18).atTime(22, 30).atZone(zone)
         val day = java.time.LocalDate.of(2026, 11, 18).atTime(10, 0).atZone(zone)
 
+        // the rule's activity is on screen; switching the alias now would close it
+        IconSwitcher.foreground = true
+        Prefs(app).save(Settings(theme = "dark"))
+        IconSwitcher.update(app, day)
+        assertEquals("no icon change while the app is visible", false, IconSwitcher.showingNight(app))
+        IconSwitcher.foreground = false
+
         fun iconAt(theme: String, now: java.time.ZonedDateTime): Boolean {
             Prefs(app).save(Settings(theme = theme))
             IconSwitcher.update(app, now)

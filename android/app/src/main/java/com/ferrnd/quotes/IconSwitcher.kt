@@ -29,10 +29,17 @@ object IconSwitcher {
         context.packageManager.getComponentEnabledSetting(ComponentName(context, NIGHT)) ==
             PackageManager.COMPONENT_ENABLED_STATE_ENABLED
 
-    /** Show the icon the theme calls for now, then arm the next swap. */
+    /**
+     * True while the app is on screen. Disabling the launcher alias that opened
+     * the running task makes Android close it, so while the app is visible the
+     * icon waits: MainActivity.onStop() applies it as soon as the user leaves.
+     */
+    @Volatile var foreground = false
+
+    /** Show the icon the theme calls for now (unless the app is on screen), then arm the next swap. */
     fun update(context: Context, now: ZonedDateTime = ZonedDateTime.now()) {
         val theme = Prefs(context).load().theme
-        apply(context, isNight(theme, now.toLocalTime()))
+        if (!foreground) apply(context, isNight(theme, now.toLocalTime()))
         schedule(context, theme, now)
     }
 

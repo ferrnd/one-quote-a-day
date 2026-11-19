@@ -46,6 +46,18 @@ class MainActivity : ComponentActivity() {
         }
     }
 
+    override fun onStart() {
+        super.onStart()
+        IconSwitcher.foreground = true
+    }
+
+    override fun onStop() {
+        super.onStop()
+        IconSwitcher.foreground = false
+        // the user left: now the launcher icon can follow the theme without closing the app
+        if (!isChangingConfigurations) IconSwitcher.update(applicationContext)
+    }
+
     override fun onNewIntent(intent: Intent) {
         super.onNewIntent(intent)
         if (intent.getBooleanExtra(EXTRA_TODAY, false)) openToday.value++
