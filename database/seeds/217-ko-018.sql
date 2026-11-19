@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no education like adversity.', 'ko',
      '역경만 한 교육은 없다.'),
     ('Those things that hurt, instruct.', 'ko',
-     '아프게 하는 것들이 가르쳐 준다.');
+     '아프게 하는 것들이 가르쳐 준다.'),
+    ('Adversity is like a strong wind. It tears away from us all but the things that cannot be torn, so that we see ourselves as we really are.', 'ko',
+     '역경은 강한 바람과 같다. 찢겨 나갈 수 없는 것 말고는 모든 것을 우리에게서 찢어 내어, 우리가 진짜 어떤 사람인지 보게 한다.');
