@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You get in life what you have the courage to ask for.', 'zh-CN',
      '在生活中，你能得到的，是你有勇气去争取的东西。'),
     ('Success isn''t about how much money you make; it''s about the difference you make in people''s lives.', 'zh-CN',
-     '成功不在于你赚了多少钱，而在于你给人们的生活带来了多大的改变。');
+     '成功不在于你赚了多少钱，而在于你给人们的生活带来了多大的改变。'),
+    ('There is no greater agony than bearing an untold story inside you.', 'zh-CN',
+     '没有什么痛苦比心中藏着一个未曾讲述的故事更大。');
