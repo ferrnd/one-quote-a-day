@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday''s logic.', 'ko',
      '격동의 시기에 가장 큰 위험은 격동 그 자체가 아니라 어제의 논리로 행동하는 것이다.'),
     ('We must be willing to let go of the life we planned so as to have the life that is waiting for us.', 'ko',
-     '우리를 기다리고 있는 삶을 얻으려면, 계획했던 삶을 기꺼이 놓아줄 수 있어야 한다.');
+     '우리를 기다리고 있는 삶을 얻으려면, 계획했던 삶을 기꺼이 놓아줄 수 있어야 한다.'),
+    ('The privilege of a lifetime is to become who you truly are.', 'ko',
+     '일생의 특권은 진정한 자기 자신이 되는 것이다.');
