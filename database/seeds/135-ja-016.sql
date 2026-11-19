@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Change your thoughts and you change your world.', 'ja',
      '考え方を変えれば、世界が変わる。'),
     ('You cannot change your destination overnight, but you can change your direction overnight.', 'ja',
-     '行き先を一晩で変えることはできない。だが、方向なら一晩で変えられる。');
+     '行き先を一晩で変えることはできない。だが、方向なら一晩で変えられる。'),
+    ('Everyone thinks of changing the world, but no one thinks of changing himself.', 'ja',
+     '誰もが世界を変えようと考えるが、誰も自分自身を変えようとは考えない。');
