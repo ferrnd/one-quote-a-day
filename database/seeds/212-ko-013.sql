@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Either you run the day or the day runs you.', 'ko',
      '하루를 이끌든지, 하루에 끌려가든지 둘 중 하나다.'),
     ('With self-discipline most anything is possible.', 'ko',
-     '자기 절제가 있으면 거의 무엇이든 가능하다.');
+     '자기 절제가 있으면 거의 무엇이든 가능하다.'),
+    ('The successful warrior is the average man, with laser-like focus.', 'ko',
+     '성공하는 전사는 레이저처럼 집중하는 평범한 사람이다.');
