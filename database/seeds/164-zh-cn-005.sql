@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Defeat is not the worst of failures. Not to have tried is the true failure.', 'zh-CN',
      '失败并不是最糟糕的结局，从未尝试才是真正的失败。'),
     ('Failures are finger posts on the road to achievement.', 'zh-CN',
-     '失败是通往成就之路上的路标。');
+     '失败是通往成就之路上的路标。'),
+    ('The phoenix must burn to emerge.', 'zh-CN',
+     '凤凰必须燃烧，才能重生。');
