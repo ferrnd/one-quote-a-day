@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure will never overtake me if my determination to succeed is strong enough.', 'ko',
      '성공하려는 결심이 충분히 강하다면 실패는 결코 나를 따라잡지 못한다.'),
     ('You may have to fight a battle more than once to win it.', 'ko',
-     '싸움에서 이기기 위해 같은 싸움을 한 번 넘게 치러야 할 때도 있다.');
+     '싸움에서 이기기 위해 같은 싸움을 한 번 넘게 치러야 할 때도 있다.'),
+    ('Failure isn''t fatal, but failure to change might be.', 'ko',
+     '실패는 치명적이지 않다. 하지만 변하지 못하는 것은 치명적일 수 있다.');
