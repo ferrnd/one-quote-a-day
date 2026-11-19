@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Happiness is not something ready made. It comes from your own actions.', 'ja',
      '幸せは既製品ではない。それはあなた自身の行動から生まれる。'),
     ('Self-belief and hard work will always earn you success.', 'ja',
-     '自分を信じる心と努力は、必ず成功をもたらす。');
+     '自分を信じる心と努力は、必ず成功をもたらす。'),
+    ('Too many of us are not living our dreams because we are living our fears.', 'ja',
+     '多くの人が夢を生きていないのは、恐れを生きているからだ。');
