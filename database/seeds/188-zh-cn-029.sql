@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you seek is seeking you.', 'zh-CN',
      '你所寻找的，也在寻找你。'),
     ('Don''t grieve. Anything you lose comes round in another form.', 'zh-CN',
-     '不要悲伤。你失去的任何东西，都会以另一种形式回来。');
+     '不要悲伤。你失去的任何东西，都会以另一种形式回来。'),
+    ('Set your life on fire. Seek those who fan your flames.', 'zh-CN',
+     '点燃你的生命，去寻找那些为你的火焰扇风的人。');
