@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What is to give light must endure burning.', 'ja',
      '光を放つものは、燃えることに耐えなければならない。'),
     ('It''s not what happens to you, but how you react to it that matters.', 'ja',
-     '大切なのは何が起こるかではなく、それにどう反応するかだ。');
+     '大切なのは何が起こるかではなく、それにどう反応するかだ。'),
+    ('Begin at once to live, and count each separate day as a separate life.', 'ja',
+     '今すぐ生き始めよ。そして一日一日を、それぞれ一つの人生として数えよ。');
