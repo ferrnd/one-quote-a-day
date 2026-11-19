@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Amateurs sit and wait for inspiration, the rest of us just get up and go to work.', 'ko',
      '아마추어는 앉아서 영감을 기다리고, 나머지 우리는 그냥 일어나 일하러 간다.'),
     ('The more I practice, the luckier I get.', 'ko',
-     '연습을 하면 할수록 나는 운이 좋아진다.');
+     '연습을 하면 할수록 나는 운이 좋아진다.'),
+    ('Do not wait to strike till the iron is hot; but make it hot by striking.', 'ko',
+     '쇠가 달궈질 때까지 기다렸다가 치지 마라. 쳐서 달구어라.');
