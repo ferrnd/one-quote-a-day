@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A dream doesn''t become reality through magic; it takes sweat, determination and hard work.', 'ja',
      '夢は魔法で現実になるのではない。汗と決意と努力が必要なのだ。'),
     ('There are no secrets to success. It is the result of preparation, hard work, and learning from failure.', 'ja',
-     '成功に秘訣などない。それは準備と努力、そして失敗から学ぶことの結果である。');
+     '成功に秘訣などない。それは準備と努力、そして失敗から学ぶことの結果である。'),
+    ('Our greatest fear should not be of failure but of succeeding at things in life that don''t really matter.', 'ja',
+     '私たちが最も恐れるべきなのは失敗ではなく、人生で本当は大切でないことに成功してしまうことだ。');
