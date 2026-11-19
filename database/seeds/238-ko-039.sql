@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The road to success is always under construction.', 'ko',
      '성공으로 가는 길은 언제나 공사 중이다.'),
     ('Ambition is enthusiasm with a purpose.', 'ko',
-     '야망이란 목적을 가진 열정이다.');
+     '야망이란 목적을 가진 열정이다.'),
+    ('Dreams are illustrations from the book your soul is writing about you.', 'ko',
+     '꿈은 당신의 영혼이 당신에 대해 쓰고 있는 책의 삽화다.');
