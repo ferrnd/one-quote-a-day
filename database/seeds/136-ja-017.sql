@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant.', 'ja',
      '逆境は、順境ならば眠ったままだったであろう才能を引き出す。'),
     ('The block of granite which was an obstacle in the path of the weak becomes a stepping stone in the path of the strong.', 'ja',
-     '弱い者の道では障害物だった花崗岩の塊も、強い者の道では踏み石となる。');
+     '弱い者の道では障害物だった花崗岩の塊も、強い者の道では踏み石となる。'),
+    ('Obstacles are those frightful things you see when you take your eyes off your goal.', 'ja',
+     '障害とは、目標から目を離したときに見える恐ろしいもののことだ。');
