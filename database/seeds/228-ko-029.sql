@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Unless someone like you cares a whole awful lot, nothing is going to get better. It''s not.', 'ko',
      '너 같은 누군가가 정말 진심으로 아끼지 않는 한, 아무것도 나아지지 않을 거야. 절대로.'),
     ('Tell me, what is it you plan to do with your one wild and precious life?', 'ko',
-     '말해 보라, 단 한 번뿐인 거칠고도 소중한 당신의 삶으로 무엇을 할 계획인가?');
+     '말해 보라, 단 한 번뿐인 거칠고도 소중한 당신의 삶으로 무엇을 할 계획인가?'),
+    ('Two roads diverged in a wood, and I, I took the one less traveled by, and that has made all the difference.', 'ko',
+     '숲속에 두 갈래 길이 나 있었고, 나는 사람들이 덜 지나간 길을 택했다. 그리고 그것이 모든 것을 바꾸어 놓았다.');
