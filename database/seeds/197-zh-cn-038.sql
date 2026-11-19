@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'zh-CN',
      '如果我的头脑能构想它，我的心能相信它，那么我就能实现它。'),
     ('Confidence is contagious. So is lack of confidence.', 'zh-CN',
-     '自信会传染，缺乏自信也会传染。');
+     '自信会传染，缺乏自信也会传染。'),
+    ('Nurture your mind with great thoughts, for you will never go any higher than you think.', 'zh-CN',
+     '用伟大的思想滋养你的心灵，因为你永远不会比你所想的走得更高。');
