@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is often in the darkest skies that we see the brightest stars.', 'ja',
      '最も暗い空にこそ、最も明るい星が見えることが多い。'),
     ('Strength and growth come only through continuous effort and struggle.', 'ja',
-     '強さと成長は、絶え間ない努力と苦闘を通してのみ得られる。');
+     '強さと成長は、絶え間ない努力と苦闘を通してのみ得られる。'),
+    ('Out of your vulnerabilities will come your strength.', 'ja',
+     'あなたの弱さから、あなたの強さが生まれる。');
