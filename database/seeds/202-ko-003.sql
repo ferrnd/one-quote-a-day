@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life shrinks or expands in proportion to one''s courage.', 'ko',
      '삶은 그 사람의 용기에 비례하여 줄어들기도 하고 넓어지기도 한다.'),
     ('It takes courage to grow up and become who you really are.', 'ko',
-     '어른이 되어 진정한 자신이 되려면 용기가 필요하다.');
+     '어른이 되어 진정한 자신이 되려면 용기가 필요하다.'),
+    ('Courage is rightly esteemed the first of human qualities because it is the quality which guarantees all others.', 'ko',
+     '용기가 인간의 자질 가운데 으뜸으로 여겨지는 것은 마땅하다. 다른 모든 자질을 지켜 주는 자질이기 때문이다.');
