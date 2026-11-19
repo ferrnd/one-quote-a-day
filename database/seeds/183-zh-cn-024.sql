@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A handful of patience is worth more than a bushel of brains.', 'zh-CN',
      '一把耐心胜过一斗聪明。'),
     ('Patience is also a form of action.', 'zh-CN',
-     '耐心也是一种行动。');
+     '耐心也是一种行动。'),
+    ('Slow and steady wins the race.', 'zh-CN',
+     '慢而稳者赢得比赛。');
