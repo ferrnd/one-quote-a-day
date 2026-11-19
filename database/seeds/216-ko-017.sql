@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Real change, enduring change, happens one step at a time.', 'ko',
      '진정한 변화, 오래 지속되는 변화는 한 걸음씩 일어난다.'),
     ('I was taught that the way of progress was neither swift nor easy.', 'ko',
-     '나는 진보의 길이 빠르지도 쉽지도 않다고 배웠다.');
+     '나는 진보의 길이 빠르지도 쉽지도 않다고 배웠다.'),
+    ('Adversity causes some men to break; others to break records.', 'ko',
+     '역경은 어떤 사람은 무너뜨리고, 어떤 사람은 기록을 깨게 만든다.');
