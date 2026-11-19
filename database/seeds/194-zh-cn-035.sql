@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.', 'zh-CN',
      '云朵飘进我的生命，不再带来雨水或预示风暴，而是为我的夕阳天空增添色彩。'),
     ('Character is power.', 'zh-CN',
-     '品格就是力量。');
+     '品格就是力量。'),
+    ('I am not afraid; I was born to do this.', 'zh-CN',
+     '我不害怕，我生来就是为了做这件事。');
