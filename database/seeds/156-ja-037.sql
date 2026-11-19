@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Bad times have a scientific value. These are occasions a good learner would not miss.', 'ja',
      '悪い時期には科学的な価値がある。よく学ぶ者なら見逃さない機会なのだ。'),
     ('Every wall is a door.', 'ja',
-     'すべての壁は扉である。');
+     'すべての壁は扉である。'),
+    ('Pain and suffering are always inevitable for a large intelligence and a deep heart.', 'ja',
+     '大きな知性と深い心を持つ者にとって、痛みと苦しみは常に避けられない。');
