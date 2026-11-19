@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing is permanent in this wicked world, not even our troubles.', 'ko',
      '이 고약한 세상에 영원한 것은 없다. 우리의 고민조차도.'),
     ('Hardships make or break people.', 'ko',
-     '고난은 사람을 만들기도 하고 무너뜨리기도 한다.');
+     '고난은 사람을 만들기도 하고 무너뜨리기도 한다.'),
+    ('Turn your scars into stars.', 'ko',
+     '당신의 흉터를 별로 바꾸어라.');
