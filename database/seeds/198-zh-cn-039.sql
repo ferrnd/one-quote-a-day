@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ambition is enthusiasm with a purpose.', 'zh-CN',
      '雄心是有目标的热情。'),
     ('Dreams are illustrations from the book your soul is writing about you.', 'zh-CN',
-     '梦是你的灵魂为你撰写的那本书里的插图。');
+     '梦是你的灵魂为你撰写的那本书里的插图。'),
+    ('Dream no small dreams for they have no power to move the hearts of men.', 'zh-CN',
+     '不要做渺小的梦，因为它们没有打动人心的力量。');
