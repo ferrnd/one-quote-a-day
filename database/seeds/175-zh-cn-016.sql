@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life begins at the end of your comfort zone.', 'zh-CN',
      '生活始于你舒适区的尽头。'),
     ('I can''t change the direction of the wind, but I can adjust my sails to always reach my destination.', 'zh-CN',
-     '我无法改变风向，但我可以调整风帆，始终抵达我的目的地。');
+     '我无法改变风向，但我可以调整风帆，始终抵达我的目的地。'),
+    ('We cannot become what we want by remaining what we are.', 'zh-CN',
+     '保持现在的样子，我们就无法成为想成为的人。');
