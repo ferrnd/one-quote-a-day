@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'ko',
      '용감하지 않을 때 할 수 있는 가장 용감한 일은 용기를 내겠다고 선언하고 그에 맞게 행동하는 것이다.'),
     ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'ko',
-     '용기란 두려운 일을 하는 것이다. 두렵지 않다면 용기도 있을 수 없다.');
+     '용기란 두려운 일을 하는 것이다. 두렵지 않다면 용기도 있을 수 없다.'),
+    ('Fortune and love favor the brave.', 'ko',
+     '행운과 사랑은 용감한 자의 편이다.');
