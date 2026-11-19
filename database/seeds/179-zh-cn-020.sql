@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Talk does not cook rice.', 'zh-CN',
      '空谈煮不熟米饭。'),
     ('If not now, when?', 'zh-CN',
-     '此时不做，更待何时？');
+     '此时不做，更待何时？'),
+    ('To begin, begin.', 'zh-CN',
+     '要开始，就开始吧。');
