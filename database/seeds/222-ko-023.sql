@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You must expect great things of yourself before you can do them.', 'ko',
      '위대한 일을 해내기 전에 먼저 자신에게 위대한 일을 기대해야 한다.'),
     ('I attribute my success to this: I never gave or took any excuse.', 'ko',
-     '내 성공의 비결은 이것이다. 나는 결코 변명을 하지도 받아들이지도 않았다.');
+     '내 성공의 비결은 이것이다. 나는 결코 변명을 하지도 받아들이지도 않았다.'),
+    ('Imagination is more important than knowledge.', 'ko',
+     '상상력은 지식보다 중요하다.');
