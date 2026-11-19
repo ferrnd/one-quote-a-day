@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dedication sees dreams come true.', 'zh-CN',
      '奉献让梦想成真。'),
     ('Rest at the end, not in the middle.', 'zh-CN',
-     '休息要在终点，而不是在半途。');
+     '休息要在终点，而不是在半途。'),
+    ('There are no shortcuts to any place worth going.', 'zh-CN',
+     '通往任何值得去的地方，都没有捷径。');
