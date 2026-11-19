@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the art of hoping.', 'ja',
      '忍耐とは、希望する技術である。'),
     ('A handful of patience is worth more than a bushel of brains.', 'ja',
-     '一握りの忍耐は、一升の知恵に勝る。');
+     '一握りの忍耐は、一升の知恵に勝る。'),
+    ('Patience is also a form of action.', 'ja',
+     '忍耐もまた、行動の一つの形である。');
