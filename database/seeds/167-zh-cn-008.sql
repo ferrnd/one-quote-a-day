@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The bamboo that bends is stronger than the oak that resists.', 'zh-CN',
      '会弯曲的竹子，比抗拒的橡树更强韧。'),
     ('Hardships often prepare ordinary people for an extraordinary destiny.', 'zh-CN',
-     '苦难常常让平凡的人为非凡的命运做好准备。');
+     '苦难常常让平凡的人为非凡的命运做好准备。'),
+    ('Our wounds are often the openings into the best and most beautiful part of us.', 'zh-CN',
+     '我们的伤口，往往是通向我们内心最美好部分的入口。');
