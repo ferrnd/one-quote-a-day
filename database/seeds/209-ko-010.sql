@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Isn''t it nice to think that tomorrow is a new day with no mistakes in it yet?', 'ko',
      '내일은 아직 아무 실수도 하지 않은 새로운 날이라고 생각하면 멋지지 않니?'),
     ('After all, tomorrow is another day.', 'ko',
-     '어쨌든 내일은 또 다른 날이니까.');
+     '어쨌든 내일은 또 다른 날이니까.'),
+    ('Hope is patience with the lamp lit.', 'ko',
+     '희망이란 등불을 켜 둔 채 기다리는 인내다.');
