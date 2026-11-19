@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Things turn out best for the people who make the best of the way things turn out.', 'zh-CN',
      '事情最好的结果，属于那些能把事情的结果做到最好的人。'),
     ('Now is no time to think of what you do not have. Think of what you can do with what there is.', 'zh-CN',
-     '现在不是想你没有什么的时候，想想你能用现有的东西做些什么。');
+     '现在不是想你没有什么的时候，想想你能用现有的东西做些什么。'),
+    ('The obstacle is the path.', 'zh-CN',
+     '障碍就是道路。');
