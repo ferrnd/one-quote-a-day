@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'ko',
      '육체적 용기는 세상에 그토록 흔한데 도덕적 용기는 그토록 드물다는 것이 신기하다.'),
     ('The opposite of courage in our society is not cowardice, it is conformity.', 'ko',
-     '우리 사회에서 용기의 반대는 비겁함이 아니라 순응이다.');
+     '우리 사회에서 용기의 반대는 비겁함이 아니라 순응이다.'),
+    ('Cowards die many times before their deaths; the valiant never taste of death but once.', 'ko',
+     '겁쟁이는 죽기 전에 여러 번 죽지만, 용감한 자는 단 한 번만 죽음을 맛본다.');
