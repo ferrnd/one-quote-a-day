@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Mastering others is strength. Mastering yourself is true power.', 'ko',
      '남을 이기는 자는 힘이 있고, 자신을 이기는 자는 진정 강하다.'),
     ('Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who conquers himself.', 'ko',
-     '전쟁터에서 백만 대군을 이기는 것보다 자기 자신을 이기는 자가 가장 고귀한 승리자다.');
+     '전쟁터에서 백만 대군을 이기는 것보다 자기 자신을 이기는 자가 가장 고귀한 승리자다.'),
+    ('Strength lies in differences, not in similarities.', 'ko',
+     '힘은 같음이 아니라 다름에 있다.');
