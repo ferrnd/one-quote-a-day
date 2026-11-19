@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am always doing that which I cannot do, in order that I may learn how to do it.', 'zh-CN',
      '我总是在做我做不到的事，为的是学会怎么去做。'),
     ('Unless you try to do something beyond what you have already mastered, you will never grow.', 'zh-CN',
-     '除非你尝试去做超出你已掌握范围的事情，否则你永远不会成长。');
+     '除非你尝试去做超出你已掌握范围的事情，否则你永远不会成长。'),
+    ('We know what we are, but know not what we may be.', 'zh-CN',
+     '我们知道自己是什么，却不知道自己可能成为什么。');
