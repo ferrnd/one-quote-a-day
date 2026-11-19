@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.', 'ja',
      'あらゆる逆境、あらゆる失敗、あらゆる心の痛みは、それと同等かそれ以上の恩恵の種を宿している。'),
     ('The greater the difficulty, the more glory in surmounting it.', 'ja',
-     '困難が大きいほど、それを乗り越える栄光も大きい。');
+     '困難が大きいほど、それを乗り越える栄光も大きい。'),
+    ('Difficulties are things that show a person what they are.', 'ja',
+     '困難とは、人に自分が何者であるかを示すものだ。');
