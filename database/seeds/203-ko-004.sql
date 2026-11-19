@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Security is mostly a superstition. Life is either a daring adventure or nothing.', 'ko',
      '안전이란 대개 미신이다. 인생은 대담한 모험이거나, 아무것도 아니다.'),
     ('What would life be if we had no courage to attempt anything?', 'ko',
-     '무엇이든 시도해 볼 용기가 없다면 인생은 어떻게 될까?');
+     '무엇이든 시도해 볼 용기가 없다면 인생은 어떻게 될까?'),
+    ('Far better is it to dare mighty things, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy much nor suffer much.', 'ko',
+     '비록 실패로 얼룩지더라도 큰일에 도전하여 영광스러운 승리를 거두는 편이, 크게 즐기지도 크게 괴로워하지도 않는 가련한 영혼들과 나란히 서는 것보다 훨씬 낫다.');
