@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who has a why to live can bear almost any how.', 'zh-CN',
      '知道为何而活的人，几乎能忍受任何一种生活。'),
     ('When we are no longer able to change a situation, we are challenged to change ourselves.', 'zh-CN',
-     '当我们无法再改变处境时，我们就面临着改变自己的挑战。');
+     '当我们无法再改变处境时，我们就面临着改变自己的挑战。'),
+    ('Everything can be taken from a man but one thing: the last of the human freedoms, to choose one''s attitude in any given set of circumstances.', 'zh-CN',
+     '人的一切都可以被夺走，唯独一样不能：那就是人类最后的自由，在任何境遇中选择自己态度的自由。');
