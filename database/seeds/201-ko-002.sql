@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Effort only fully releases its reward after a person refuses to quit.', 'ko',
      '노력은 사람이 그만두기를 거부할 때 비로소 그 보상을 온전히 내어 준다.'),
     ('Patience, persistence and perspiration make an unbeatable combination for success.', 'ko',
-     '인내, 끈기, 그리고 땀은 성공을 위한 무적의 조합이다.');
+     '인내, 끈기, 그리고 땀은 성공을 위한 무적의 조합이다.'),
+    ('A champion is someone who gets up when he can''t.', 'ko',
+     '챔피언이란 일어설 수 없을 때 일어서는 사람이다.');
