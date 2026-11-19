@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Finish each day and be done with it. You have done what you could.', 'zh-CN',
      '把每一天过完，然后就把它放下。你已经尽力了。'),
     ('The years teach much which the days never know.', 'zh-CN',
-     '岁月教给我们的许多东西，是日子永远不知道的。');
+     '岁月教给我们的许多东西，是日子永远不知道的。'),
+    ('Write it on your heart that every day is the best day in the year.', 'zh-CN',
+     '把这句话写在你心上：每一天都是一年中最好的一天。');
