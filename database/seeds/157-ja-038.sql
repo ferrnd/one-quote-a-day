@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nurture your mind with great thoughts, for you will never go any higher than you think.', 'ja',
      '偉大な思想で心を養え。人は自分が考える以上に高くは昇れないのだから。'),
     ('Think big thoughts but relish small pleasures.', 'ja',
-     '大きなことを考えよ。だが、小さな喜びを味わえ。');
+     '大きなことを考えよ。だが、小さな喜びを味わえ。'),
+    ('Argue for your limitations, and sure enough they''re yours.', 'ja',
+     '自分の限界を主張すれば、それは確かにあなたのものになる。');
