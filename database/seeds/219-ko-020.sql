@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Even if you''re on the right track, you''ll get run over if you just sit there.', 'ko',
      '올바른 선로 위에 있더라도 가만히 앉아 있으면 치이고 만다.'),
     ('An idea not coupled with action will never get any bigger than the brain cell it occupied.', 'ko',
-     '행동과 결합되지 않은 아이디어는 그것이 자리한 뇌세포보다 결코 커지지 않는다.');
+     '행동과 결합되지 않은 아이디어는 그것이 자리한 뇌세포보다 결코 커지지 않는다.'),
+    ('Talk does not cook rice.', 'ko',
+     '말로는 밥을 지을 수 없다.');
