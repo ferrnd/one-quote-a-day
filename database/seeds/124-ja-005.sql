@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Giving up is the only sure way to fail.', 'ja',
      'あきらめることだけが、確実に失敗する唯一の方法だ。'),
     ('Every failure is a step to success.', 'ja',
-     'すべての失敗は、成功への一歩である。');
+     'すべての失敗は、成功への一歩である。'),
+    ('Defeat is not the worst of failures. Not to have tried is the true failure.', 'ja',
+     '敗北は最悪の失敗ではない。挑戦しなかったことこそが本当の失敗だ。');
