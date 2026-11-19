@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.', 'ko',
      '살아남는 종은 가장 강한 종도, 가장 똑똑한 종도 아니다. 변화에 가장 잘 반응하는 종이다.'),
     ('When I let go of what I am, I become what I might be.', 'ko',
-     '지금의 나를 내려놓을 때, 나는 될 수 있는 내가 된다.');
+     '지금의 나를 내려놓을 때, 나는 될 수 있는 내가 된다.'),
+    ('I can''t go back to yesterday because I was a different person then.', 'ko',
+     '나는 어제로 돌아갈 수 없어. 그때의 나는 다른 사람이었으니까.');
