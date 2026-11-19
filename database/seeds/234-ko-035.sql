@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Character is power.', 'ko',
      '인격이 곧 힘이다.'),
     ('I am not afraid; I was born to do this.', 'ko',
-     '나는 두렵지 않다. 나는 이 일을 하려고 태어났다.');
+     '나는 두렵지 않다. 나는 이 일을 하려고 태어났다.'),
+    ('Self-control is strength. Right thought is mastery. Calmness is power.', 'ko',
+     '자제력은 강함이다. 올바른 생각은 통달이다. 침착함은 힘이다.');
