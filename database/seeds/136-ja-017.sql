@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Problems are not stop signs, they are guidelines.', 'ja',
      '問題は止まれの標識ではなく、道しるべである。'),
     ('Turn your face to the sun and the shadows fall behind you.', 'ja',
-     '顔を太陽に向けなさい。そうすれば影はあなたの後ろにできる。');
+     '顔を太陽に向けなさい。そうすれば影はあなたの後ろにできる。'),
+    ('A man of character finds a special attractiveness in difficulty.', 'ja',
+     '気骨のある人は、困難の中に特別な魅力を見いだす。');
