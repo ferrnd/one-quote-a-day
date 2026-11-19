@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.', 'ja',
      'いちばん硬い木ほど折れやすく、竹や柳は風に身をしならせて生き延びることに気づきなさい。'),
     ('Don''t fear failure. Not failure, but low aim, is the crime.', 'ja',
-     '失敗を恐れるな。罪なのは失敗ではなく、低い目標だ。');
+     '失敗を恐れるな。罪なのは失敗ではなく、低い目標だ。'),
+    ('Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes.', 'ja',
+     '失敗は教えてくれる。本当に考える人は、成功からと同じくらい失敗からも多くを学ぶ。');
