@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.', 'zh-CN',
      '悲观者在每个机会中看到困难，乐观者在每个困难中看到机会。'),
     ('Challenges are what make life interesting and overcoming them is what makes life meaningful.', 'zh-CN',
-     '挑战让人生变得有趣，而战胜挑战让人生变得有意义。');
+     '挑战让人生变得有趣，而战胜挑战让人生变得有意义。'),
+    ('Adversity is the diamond dust Heaven polishes its jewels with.', 'zh-CN',
+     '逆境是上天用来打磨珠宝的钻石粉。');
