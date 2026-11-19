@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t be pushed around by the fears in your mind. Be led by the dreams in your heart.', 'ko',
      '머릿속의 두려움에 휘둘리지 마라. 마음속의 꿈에 이끌려라.'),
     ('Put your heart, mind, and soul into even your smallest acts. This is the secret of success.', 'ko',
-     '가장 작은 행동에도 마음과 정신과 영혼을 쏟아라. 이것이 성공의 비결이다.');
+     '가장 작은 행동에도 마음과 정신과 영혼을 쏟아라. 이것이 성공의 비결이다.'),
+    ('You can''t cross the sea merely by standing and staring at the water.', 'ko',
+     '그저 서서 물을 바라보는 것만으로는 바다를 건널 수 없다.');
