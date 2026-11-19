@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The purpose of life is to live it, to taste experience to the utmost.', 'ja',
      '人生の目的は、それを生きること、経験を心ゆくまで味わうことだ。'),
     ('The art of being wise is the art of knowing what to overlook.', 'ja',
-     '賢くある技術とは、何を見逃すべきかを知る技術である。');
+     '賢くある技術とは、何を見逃すべきかを知る技術である。'),
+    ('He who learns but does not think, is lost. He who thinks but does not learn is in great danger.', 'ja',
+     '学びて思わざれば則ち罔し。思いて学ばざれば則ち殆し。');
