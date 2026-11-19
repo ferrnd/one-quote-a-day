@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Isn''t it nice to think that tomorrow is a new day with no mistakes in it yet?', 'ja',
      '明日はまだ何の失敗もしていない新しい日だと思うと、すてきじゃない？'),
     ('After all, tomorrow is another day.', 'ja',
-     '結局、明日は明日の風が吹くのだから。');
+     '結局、明日は明日の風が吹くのだから。'),
+    ('Hope is patience with the lamp lit.', 'ja',
+     '希望とは、灯をともしたままの忍耐である。');
