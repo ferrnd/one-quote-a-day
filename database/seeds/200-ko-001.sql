@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Great works are performed not by strength but by perseverance.', 'ko',
      '위대한 일은 힘이 아니라 인내로 이루어진다.'),
     ('Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.', 'ko',
-     '인내와 끈기에는 마법 같은 힘이 있어서, 그 앞에서는 어려움이 사라지고 장애물이 자취를 감춘다.');
+     '인내와 끈기에는 마법 같은 힘이 있어서, 그 앞에서는 어려움이 사라지고 장애물이 자취를 감춘다.'),
+    ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'ko',
+     '많은 사람들이 끈기로써, 실패할 운명처럼 보였던 일에서 성공을 거둔다.');
