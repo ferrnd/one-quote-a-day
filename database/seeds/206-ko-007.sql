@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is unimportant. It takes courage to make a fool of yourself.', 'ko',
      '실패는 중요하지 않다. 스스로 바보가 되는 데는 용기가 필요하다.'),
     ('What is defeat? Nothing but education; nothing but the first step to something better.', 'ko',
-     '패배란 무엇인가? 교육일 뿐이다. 더 나은 것을 향한 첫걸음일 뿐이다.');
+     '패배란 무엇인가? 교육일 뿐이다. 더 나은 것을 향한 첫걸음일 뿐이다.'),
+    ('Never confuse a single defeat with a final defeat.', 'ko',
+     '한 번의 패배를 최후의 패배로 착각하지 마라.');
