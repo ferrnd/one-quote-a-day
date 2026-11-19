@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not be embarrassed by your failures, learn from them and start again.', 'zh-CN',
      '不要为你的失败感到难堪，从中学习，然后重新开始。'),
     ('Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.', 'zh-CN',
-     '最坚强的灵魂诞生于苦难，最伟大的品格都烙着伤疤。');
+     '最坚强的灵魂诞生于苦难，最伟大的品格都烙着伤疤。'),
+    ('The oak fought the wind and was broken, the willow bent when it must and survived.', 'zh-CN',
+     '橡树与风搏斗，结果折断了；柳树在该弯腰时弯腰，于是活了下来。');
