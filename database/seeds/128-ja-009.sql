@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Vitality shows in not only the ability to persist but the ability to start over.', 'ja',
      '生命力は、粘り続ける力だけでなく、やり直す力にも表れる。'),
     ('But man is not made for defeat. A man can be destroyed but not defeated.', 'ja',
-     'だが人間は、負けるようにはできていない。人は破壊されることはあっても、打ち負かされることはない。');
+     'だが人間は、負けるようにはできていない。人は破壊されることはあっても、打ち負かされることはない。'),
+    ('Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.', 'ja',
+     '人生とは、いつも良い手札を持つことではない。ときには、悪い手札をうまく使うことなのだ。');
