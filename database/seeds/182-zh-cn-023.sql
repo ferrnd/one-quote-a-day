@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Look up at the stars and not down at your feet.', 'zh-CN',
      '仰望星空，不要低头看脚下。'),
     ('However difficult life may seem, there is always something you can do and succeed at.', 'zh-CN',
-     '无论生活看起来多么艰难，总有你能做并且能做成的事。');
+     '无论生活看起来多么艰难，总有你能做并且能做成的事。'),
+    ('I have no special talents. I am only passionately curious.', 'zh-CN',
+     '我没有什么特殊的才能，我只是怀有强烈的好奇心。');
