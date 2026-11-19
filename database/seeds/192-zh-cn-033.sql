@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no mistakes or failures, only lessons.', 'zh-CN',
      '没有错误，也没有失败，只有教训。'),
     ('I have learned more from my mistakes than from my successes.', 'zh-CN',
-     '我从错误中学到的，比从成功中学到的更多。');
+     '我从错误中学到的，比从成功中学到的更多。'),
+    ('It''s failure that gives you the proper perspective on success.', 'zh-CN',
+     '是失败让你对成功有了正确的看法。');
