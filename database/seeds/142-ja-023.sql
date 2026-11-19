@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Imagination is more important than knowledge.', 'ja',
      '想像力は知識よりも大切である。'),
     ('I have learned over the years that when one''s mind is made up, this diminishes fear.', 'ja',
-     '長年かけて学んだことがある。心が決まれば、恐れは小さくなるのだ。');
+     '長年かけて学んだことがある。心が決まれば、恐れは小さくなるのだ。'),
+    ('You must do the things you think you cannot do.', 'ja',
+     '自分にはできないと思うことを、やらなければならない。');
