@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No great thing is created suddenly.', 'zh-CN',
      '伟大的事物不是突然创造出来的。'),
     ('Perhaps someday it will be pleasant to remember even this.', 'zh-CN',
-     '也许有一天，就连回想起这些也会是愉快的。');
+     '也许有一天，就连回想起这些也会是愉快的。'),
+    ('Endure, and preserve yourselves for better things.', 'zh-CN',
+     '忍耐吧，为了更美好的事物保全自己。');
