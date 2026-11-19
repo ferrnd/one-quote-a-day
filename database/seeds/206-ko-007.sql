@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You may encounter many defeats, but you must not be defeated.', 'ko',
      '많은 패배를 만날 수는 있지만, 결코 패배당해서는 안 된다.'),
     ('Still, like air, I''ll rise.', 'ko',
-     '그래도, 공기처럼, 나는 일어서리라.');
+     '그래도, 공기처럼, 나는 일어서리라.'),
+    ('She stood in the storm, and when the wind did not blow her way, she adjusted her sails.', 'ko',
+     '그녀는 폭풍 속에 서 있었고, 바람이 원하는 대로 불지 않자 돛을 조정했다.');
