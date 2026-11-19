@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nobody has ever measured, not even poets, how much the heart can hold.', 'zh-CN',
      '从来没有人测量过，即使是诗人也没有，心究竟能容纳多少。'),
     ('Not all of us can do great things. But we can do small things with great love.', 'zh-CN',
-     '我们不能都做伟大的事，但我们可以怀着伟大的爱去做小事。');
+     '我们不能都做伟大的事，但我们可以怀着伟大的爱去做小事。'),
+    ('Though she be but little, she is fierce.', 'zh-CN',
+     '她虽然娇小，却很凶猛。');
