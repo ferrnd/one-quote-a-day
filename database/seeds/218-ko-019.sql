@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greater the difficulty, the more glory in surmounting it.', 'ko',
      '어려움이 클수록 그것을 이겨 내는 영광도 크다.'),
     ('Difficulties are things that show a person what they are.', 'ko',
-     '어려움은 사람에게 그가 어떤 사람인지 보여 준다.');
+     '어려움은 사람에게 그가 어떤 사람인지 보여 준다.'),
+    ('No tree becomes rooted and sturdy unless many a wind assails it.', 'ko',
+     '수많은 바람을 맞지 않고는 어떤 나무도 뿌리를 깊이 내리고 튼튼해지지 않는다.');
