@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You must do the things you think you cannot do.', 'ko',
      '당신은 할 수 없다고 생각하는 일을 해야 한다.'),
     ('Clear thinking requires courage rather than intelligence.', 'ko',
-     '명료한 사고에는 지성보다 용기가 필요하다.');
+     '명료한 사고에는 지성보다 용기가 필요하다.'),
+    ('It''s not the load that breaks you down, it''s the way you carry it.', 'ko',
+     '당신을 무너뜨리는 것은 짐이 아니라 그것을 지는 방식이다.');
