@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything comes gradually and at its appointed hour.', 'ja',
      'すべては少しずつ、定められた時にやってくる。'),
     ('Be patient and tough; someday this pain will be useful to you.', 'ja',
-     '忍耐強く、たくましくあれ。いつかこの痛みが役に立つ日が来る。');
+     '忍耐強く、たくましくあれ。いつかこの痛みが役に立つ日が来る。'),
+    ('Dripping water hollows out stone, not through force but through persistence.', 'ja',
+     'したたる水は石をうがつ。力によってではなく、絶え間なさによって。');
