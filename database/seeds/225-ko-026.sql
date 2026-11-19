@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I would rather be ashes than dust!', 'ko',
      '나는 먼지가 되느니 차라리 재가 되겠다!'),
     ('Determine never to be idle.', 'ko',
-     '결코 게으르지 않겠다고 결심하라.');
+     '결코 게으르지 않겠다고 결심하라.'),
+    ('A dream doesn''t become reality through magic; it takes sweat, determination and hard work.', 'ko',
+     '꿈은 마법으로 현실이 되지 않는다. 땀과 결단과 노력이 필요하다.');
