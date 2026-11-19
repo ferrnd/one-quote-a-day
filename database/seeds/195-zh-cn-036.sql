@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dost thou love life? Then do not squander time, for that is the stuff life is made of.', 'zh-CN',
      '你热爱生命吗？那就别浪费时间，因为时间是构成生命的材料。'),
     ('I don''t stop when I''m tired. I stop when I''m done.', 'zh-CN',
-     '我不是累了才停下，而是做完了才停下。');
+     '我不是累了才停下，而是做完了才停下。'),
+    ('The only easy day was yesterday.', 'zh-CN',
+     '唯一轻松的日子是昨天。');
