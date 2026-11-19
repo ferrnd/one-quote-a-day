@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greatest weapon against stress is our ability to choose one thought over another.', 'ja',
      'ストレスに対する最大の武器は、ある考えではなく別の考えを選ぶことのできる力だ。'),
     ('Do not wish to be anything but what you are, and try to be that perfectly.', 'ja',
-     '今の自分以外の何者にもなろうとせず、今の自分を完璧に生きようとしなさい。');
+     '今の自分以外の何者にもなろうとせず、今の自分を完璧に生きようとしなさい。'),
+    ('No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.', 'ja',
+     '私たちを救うのは自分自身だけだ。誰にもできないし、誰もしてはならない。私たち自身がその道を歩まねばならない。');
