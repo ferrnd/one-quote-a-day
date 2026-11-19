@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All men dream, but not equally.', 'ja',
      'すべての人は夢を見る。だが、同じようにではない。'),
     ('Dreams come true. Without that possibility, nature would not incite us to have them.', 'ja',
-     '夢はかなう。その可能性がなければ、自然が私たちに夢を見させるはずがない。');
+     '夢はかなう。その可能性がなければ、自然が私たちに夢を見させるはずがない。'),
+    ('Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.', 'ja',
+     'あなたのビジョンと夢を大切にしなさい。それは魂の子どもであり、最終的な達成の設計図なのだから。');
