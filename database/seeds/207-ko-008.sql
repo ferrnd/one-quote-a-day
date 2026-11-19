@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Although no one can go back and make a brand new start, anyone can start from now and make a brand new ending.', 'ko',
      '누구도 과거로 돌아가 완전히 새로 시작할 수는 없지만, 누구나 지금부터 시작해 완전히 새로운 결말을 만들 수는 있다.'),
     ('I''ve been absolutely terrified every moment of my life and I''ve never let it keep me from doing a single thing I wanted to do.', 'ko',
-     '나는 평생 매 순간 몹시 두려웠지만, 그 때문에 하고 싶은 일을 단 한 가지도 포기한 적이 없다.');
+     '나는 평생 매 순간 몹시 두려웠지만, 그 때문에 하고 싶은 일을 단 한 가지도 포기한 적이 없다.'),
+    ('Sorrow is how we learn to love. Your heart isn''t breaking. It hurts because it''s getting larger.', 'ko',
+     '슬픔은 우리가 사랑을 배우는 방식이다. 당신의 마음은 부서지는 것이 아니다. 커지고 있기 때문에 아픈 것이다.');
