@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Difficult roads often lead to beautiful destinations.', 'ko',
      '힘든 길은 종종 아름다운 목적지로 이어진다.'),
     ('In the midst of chaos, there is also opportunity.', 'ko',
-     '혼란 속에도 기회는 있다.');
+     '혼란 속에도 기회는 있다.'),
+    ('What seems to us as bitter trials are often blessings in disguise.', 'ko',
+     '우리에게 쓰라린 시련처럼 보이는 것이 종종 변장한 축복이다.');
