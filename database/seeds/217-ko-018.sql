@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Storms make trees take deeper roots.', 'ko',
      '폭풍은 나무가 더 깊이 뿌리내리게 한다.'),
     ('The way I see it, if you want the rainbow, you gotta put up with the rain.', 'ko',
-     '내 생각엔, 무지개를 원한다면 비를 견뎌야 해.');
+     '내 생각엔, 무지개를 원한다면 비를 견뎌야 해.'),
+    ('Life isn''t about waiting for the storm to pass. It''s about learning to dance in the rain.', 'ko',
+     '인생은 폭풍이 지나가기를 기다리는 것이 아니라, 빗속에서 춤추는 법을 배우는 것이다.');
