@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Energy and persistence conquer all things.', 'ja',
      '気力と粘り強さは、すべてを征服する。'),
     ('Rivers know this: there is no hurry. We shall get there some day.', 'ja',
-     '川は知っている。急ぐことはない。いつかはたどり着くのだと。');
+     '川は知っている。急ぐことはない。いつかはたどり着くのだと。'),
+    ('Perseverance is not a long race; it is many short races one after the other.', 'ja',
+     '根気とは一つの長い競走ではない。短い競走を次々と走り続けることだ。');
