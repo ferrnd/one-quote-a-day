@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not let your fire go out, spark by irreplaceable spark.', 'zh-CN',
      '不要让你的火焰熄灭，一个又一个无可替代的火花。'),
     ('We are all in the gutter, but some of us are looking at the stars.', 'zh-CN',
-     '我们都身处阴沟，但仍有人仰望星空。');
+     '我们都身处阴沟，但仍有人仰望星空。'),
+    ('The darker the night, the brighter the stars, the deeper the grief, the closer is God!', 'zh-CN',
+     '夜越黑，星越亮；悲伤越深，上帝越近！');
