@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perfection is not attainable, but if we chase perfection we can catch excellence.', 'ko',
      '완벽함은 이룰 수 없지만, 완벽함을 좇다 보면 탁월함을 붙잡을 수 있다.'),
     ('Once you learn to quit, it becomes a habit.', 'ko',
-     '한 번 포기하는 법을 배우면 그것은 습관이 된다.');
+     '한 번 포기하는 법을 배우면 그것은 습관이 된다.'),
+    ('Today I will do what others won''t, so tomorrow I can accomplish what others can''t.', 'ko',
+     '오늘 나는 남들이 하지 않을 일을 한다. 그래서 내일 남들이 할 수 없는 일을 이룰 수 있다.');
