@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the midst of chaos, there is also opportunity.', 'zh-CN',
      '乱中亦有机。'),
     ('What seems to us as bitter trials are often blessings in disguise.', 'zh-CN',
-     '那些在我们看来是苦涩的考验，往往是伪装起来的祝福。');
+     '那些在我们看来是苦涩的考验，往往是伪装起来的祝福。'),
+    ('Great spirits have always encountered violent opposition from mediocre minds.', 'zh-CN',
+     '伟大的心灵总是遭到平庸之辈的激烈反对。');
