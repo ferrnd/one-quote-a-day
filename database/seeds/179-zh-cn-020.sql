@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Even if you''re on the right track, you''ll get run over if you just sit there.', 'zh-CN',
      '即使你走在正确的轨道上，如果只是坐在那里，也会被碾过。'),
     ('An idea not coupled with action will never get any bigger than the brain cell it occupied.', 'zh-CN',
-     '一个不与行动结合的想法，永远不会比它所占据的那个脑细胞更大。');
+     '一个不与行动结合的想法，永远不会比它所占据的那个脑细胞更大。'),
+    ('Talk does not cook rice.', 'zh-CN',
+     '空谈煮不熟米饭。');
