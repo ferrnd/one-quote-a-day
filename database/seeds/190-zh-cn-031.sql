@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grief can be the garden of compassion.', 'zh-CN',
      '悲伤可以成为慈悲的花园。'),
     ('Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it.', 'zh-CN',
-     '继续前进，你很可能会在最意想不到的时候偶然发现什么。');
+     '继续前进，你很可能会在最意想不到的时候偶然发现什么。'),
+    ('Hard work without talent is a shame, but talent without hard work is a tragedy.', 'zh-CN',
+     '没有天赋的努力令人遗憾，但没有努力的天赋是一场悲剧。');
