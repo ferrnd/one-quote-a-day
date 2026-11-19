@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let everything happen to you: beauty and terror. Just keep going. No feeling is final.', 'ja',
      'すべてを身に受けなさい。美しさも恐ろしさも。ただ進み続けなさい。どんな感情も最後ではない。'),
     ('No snowflake ever falls in the wrong place.', 'ja',
-     '雪のひとひらも、間違った場所には落ちない。');
+     '雪のひとひらも、間違った場所には落ちない。'),
+    ('Let go or be dragged.', 'ja',
+     '手放せ。さもなくば引きずられる。');
