@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never mistake motion for action.', 'zh-CN',
      '永远不要把忙碌误认为行动。'),
     ('Don''t let yesterday take up too much of today.', 'zh-CN',
-     '不要让昨天占用太多今天。');
+     '不要让昨天占用太多今天。'),
+    ('Even if you''re on the right track, you''ll get run over if you just sit there.', 'zh-CN',
+     '即使你走在正确的轨道上，如果只是坐在那里，也会被碾过。');
