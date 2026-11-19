@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'zh-CN',
      '奇怪的是，世上身体上的勇气如此常见，而道德上的勇气却如此罕见。'),
     ('The opposite of courage in our society is not cowardice, it is conformity.', 'zh-CN',
-     '在我们的社会中，勇气的反面不是懦弱，而是随波逐流。');
+     '在我们的社会中，勇气的反面不是懦弱，而是随波逐流。'),
+    ('Cowards die many times before their deaths; the valiant never taste of death but once.', 'zh-CN',
+     '懦夫在死之前已经死过多次，勇士一生只尝一次死亡的滋味。');
