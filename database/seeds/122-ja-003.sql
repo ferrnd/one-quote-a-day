@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything you''ve ever wanted is on the other side of fear.', 'ja',
      'あなたが望んできたものはすべて、恐れの向こう側にある。'),
     ('Inaction breeds doubt and fear. Action breeds confidence and courage.', 'ja',
-     '行動しなければ疑いと恐れが生まれる。行動すれば自信と勇気が生まれる。');
+     '行動しなければ疑いと恐れが生まれる。行動すれば自信と勇気が生まれる。'),
+    ('Courage is being scared to death, but saddling up anyway.', 'ja',
+     '勇気とは、死ぬほど怖くても、それでも鞍にまたがることだ。');
