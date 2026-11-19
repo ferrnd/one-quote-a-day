@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Self-control is strength. Right thought is mastery. Calmness is power.', 'ja',
      '自制は強さである。正しい思考は熟達である。落ち着きは力である。'),
     ('The greatest weapon against stress is our ability to choose one thought over another.', 'ja',
-     'ストレスに対する最大の武器は、ある考えではなく別の考えを選ぶことのできる力だ。');
+     'ストレスに対する最大の武器は、ある考えではなく別の考えを選ぶことのできる力だ。'),
+    ('Do not wish to be anything but what you are, and try to be that perfectly.', 'ja',
+     '今の自分以外の何者にもなろうとせず、今の自分を完璧に生きようとしなさい。');
