@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t wish it were easier, wish you were better.', 'ko',
      '일이 더 쉬워지기를 바라지 말고, 당신이 더 나아지기를 바라라.'),
     ('Either you run the day or the day runs you.', 'ko',
-     '하루를 이끌든지, 하루에 끌려가든지 둘 중 하나다.');
+     '하루를 이끌든지, 하루에 끌려가든지 둘 중 하나다.'),
+    ('With self-discipline most anything is possible.', 'ko',
+     '자기 절제가 있으면 거의 무엇이든 가능하다.');
