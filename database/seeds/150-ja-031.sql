@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It ain''t over till it''s over.', 'ja',
      '終わるまでは、終わりじゃない。'),
     ('We will either find a way, or make one.', 'ja',
-     '道を見つけるか、さもなくば道をつくる。');
+     '道を見つけるか、さもなくば道をつくる。'),
+    ('The secret of success is constancy to purpose.', 'ja',
+     '成功の秘訣は、目的を貫くことにある。');
