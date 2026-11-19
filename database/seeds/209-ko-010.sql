@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('While I breathe, I hope.', 'ko',
      '숨 쉬는 동안 나는 희망한다.'),
     ('Every day may not be good, but there''s something good in every day.', 'ko',
-     '매일이 좋은 날일 수는 없지만, 매일에는 좋은 무언가가 있다.');
+     '매일이 좋은 날일 수는 없지만, 매일에는 좋은 무언가가 있다.'),
+    ('In the depth of winter, I finally learned that within me there lay an invincible summer.', 'ko',
+     '한겨울 속에서 나는 마침내 알게 되었다. 내 안에 결코 꺾이지 않는 여름이 있다는 것을.');
