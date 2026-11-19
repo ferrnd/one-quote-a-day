@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best revenge is massive success.', 'zh-CN',
      '最好的报复是巨大的成功。'),
     ('Grief can be the garden of compassion.', 'zh-CN',
-     '悲伤可以成为慈悲的花园。');
+     '悲伤可以成为慈悲的花园。'),
+    ('Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it.', 'zh-CN',
+     '继续前进，你很可能会在最意想不到的时候偶然发现什么。');
