@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adventure is worthwhile in itself.', 'zh-CN',
      '冒险本身就是值得的。'),
     ('Courage is a love affair with the unknown.', 'zh-CN',
-     '勇气是与未知的一场恋爱。');
+     '勇气是与未知的一场恋爱。'),
+    ('What you''re supposed to do when you don''t like a thing is change it.', 'zh-CN',
+     '当你不喜欢一件事的时候，你应该做的就是改变它。');
