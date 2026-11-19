@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fortitude is the guard and support of the other virtues.', 'zh-CN',
      '坚忍是其他美德的守卫和支柱。'),
     ('I am no bird; and no net ensnares me: I am a free human being with an independent will.', 'zh-CN',
-     '我不是鸟，也没有罗网能困住我：我是一个拥有独立意志的自由人。');
+     '我不是鸟，也没有罗网能困住我：我是一个拥有独立意志的自由人。'),
+    ('My mission in life is not merely to survive, but to thrive.', 'zh-CN',
+     '我人生的使命不仅是生存，而是要活得精彩。');
