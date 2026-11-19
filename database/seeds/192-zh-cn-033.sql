@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life is not about how fast you run or how high you climb, but how well you bounce.', 'zh-CN',
      '生活不在于你跑得多快、爬得多高，而在于你反弹得多好。'),
     ('No mud, no lotus.', 'zh-CN',
-     '没有淤泥，就没有莲花。');
+     '没有淤泥，就没有莲花。'),
+    ('If you want to see the sunshine, you have to weather the storm.', 'zh-CN',
+     '如果你想看到阳光，就必须经受住风暴。');
