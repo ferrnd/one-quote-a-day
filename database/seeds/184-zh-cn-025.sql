@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are patient in one moment of anger, you will escape a hundred days of sorrow.', 'zh-CN',
      '忍一时之气，免百日之忧。'),
     ('Patience is the support of weakness; impatience the ruin of strength.', 'zh-CN',
-     '耐心是弱者的支撑，急躁是强者的毁灭。');
+     '耐心是弱者的支撑，急躁是强者的毁灭。'),
+    ('Endurance is patience concentrated.', 'zh-CN',
+     '坚忍是凝聚起来的耐心。');
