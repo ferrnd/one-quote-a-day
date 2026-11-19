@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The secret of change is to focus all of your energy not on fighting the old, but on building the new.', 'zh-CN',
      '改变的秘诀，是把全部精力集中于建设新的，而不是与旧的斗争。'),
     ('What you get by achieving your goals is not as important as what you become by achieving your goals.', 'zh-CN',
-     '你通过实现目标得到的东西，不如你在实现目标的过程中成为什么样的人重要。');
+     '你通过实现目标得到的东西，不如你在实现目标的过程中成为什么样的人重要。'),
+    ('Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don''t belong.', 'zh-CN',
+     '成长是痛苦的，改变是痛苦的，但没有什么比困在不属于你的地方更痛苦。');
