@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rest at the end, not in the middle.', 'zh-CN',
      '休息要在终点，而不是在半途。'),
     ('There are no shortcuts to any place worth going.', 'zh-CN',
-     '通往任何值得去的地方，都没有捷径。');
+     '通往任何值得去的地方，都没有捷径。'),
+    ('The only place where success comes before work is in the dictionary.', 'zh-CN',
+     '只有在字典里，“成功”才排在“工作”前面。');
