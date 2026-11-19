@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every day is a new day.', 'ja',
      '毎日が新しい一日だ。'),
     ('The only journey is the one within.', 'ja',
-     '唯一の旅とは、自分の内側への旅である。');
+     '唯一の旅とは、自分の内側への旅である。'),
+    ('I am still learning.', 'ja',
+     '私はまだ学んでいる。');
