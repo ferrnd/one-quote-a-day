@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep your face to the sunshine and you cannot see a shadow.', 'ko',
      '얼굴을 언제나 햇빛 쪽으로 향하라. 그러면 그림자를 볼 수 없다.'),
     ('One day, in retrospect, the years of struggle will strike you as the most beautiful.', 'ko',
-     '언젠가 돌아보면, 투쟁했던 그 세월이 가장 아름다웠다고 느껴질 것이다.');
+     '언젠가 돌아보면, 투쟁했던 그 세월이 가장 아름다웠다고 느껴질 것이다.'),
+    ('In the end, everything will be okay. If it''s not okay, it''s not yet the end.', 'ko',
+     '결국에는 모든 것이 괜찮아질 것이다. 괜찮지 않다면, 아직 끝이 아닌 것이다.');
