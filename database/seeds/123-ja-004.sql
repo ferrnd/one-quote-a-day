@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble.', 'ja',
      '勇気があれば、危険を冒すことも、思いやる強さを持つことも、謙虚である知恵を持つこともできる。'),
     ('One isn''t necessarily born with courage, but one is born with potential.', 'ja',
-     '人は勇気を持って生まれるとは限らない。だが、可能性を持って生まれてくる。');
+     '人は勇気を持って生まれるとは限らない。だが、可能性を持って生まれてくる。'),
+    ('Courage is the most important of all the virtues because without courage, you can''t practice any other virtue consistently.', 'ja',
+     '勇気はあらゆる美徳の中で最も大切だ。勇気がなければ、ほかのどんな美徳も貫くことはできないのだから。');
