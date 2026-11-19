@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are the one that possesses the keys to your being. You carry the passport to your own happiness.', 'zh-CN',
      '你自己掌握着通往自我的钥匙，你自己携带着通往幸福的护照。'),
     ('We are what we repeatedly do. Excellence, then, is not an act, but a habit.', 'zh-CN',
-     '我们是由自己反复做的事情塑造而成的。因此，卓越不是一种行为，而是一种习惯。');
+     '我们是由自己反复做的事情塑造而成的。因此，卓越不是一种行为，而是一种习惯。'),
+    ('Discipline is the bridge between goals and accomplishment.', 'zh-CN',
+     '自律是连接目标与成就的桥梁。');
