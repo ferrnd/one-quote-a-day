@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We know what we are, but know not what we may be.', 'ko',
      '우리는 우리가 무엇인지는 알지만, 무엇이 될 수 있는지는 모른다.'),
     ('Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.', 'ko',
-     '의심은 배신자다. 시도를 두려워하게 하여, 얻을 수 있었던 좋은 것을 잃게 만든다.');
+     '의심은 배신자다. 시도를 두려워하게 하여, 얻을 수 있었던 좋은 것을 잃게 만든다.'),
+    ('If we did all the things we are capable of, we would literally astound ourselves.', 'ko',
+     '우리가 할 수 있는 모든 일을 한다면, 우리는 말 그대로 스스로에게 깜짝 놀랄 것이다.');
