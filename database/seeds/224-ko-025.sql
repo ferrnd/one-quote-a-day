@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No snowflake ever falls in the wrong place.', 'ko',
      '어떤 눈송이도 잘못된 곳에 떨어지지 않는다.'),
     ('Let go or be dragged.', 'ko',
-     '놓아라, 그렇지 않으면 끌려간다.');
+     '놓아라, 그렇지 않으면 끌려간다.'),
+    ('Determination is the wake-up call to the human will.', 'ko',
+     '결단은 인간의 의지를 깨우는 기상 신호다.');
