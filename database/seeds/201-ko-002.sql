@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I will persist until I succeed.', 'ko',
      '나는 성공할 때까지 계속할 것이다.'),
     ('One may walk over the highest mountain one step at a time.', 'ko',
-     '가장 높은 산도 한 걸음씩이면 넘을 수 있다.');
+     '가장 높은 산도 한 걸음씩이면 넘을 수 있다.'),
+    ('Diamonds are nothing more than chunks of coal that stuck to their jobs.', 'ko',
+     '다이아몬드는 자기 일을 끝까지 해낸 석탄 덩어리에 지나지 않는다.');
