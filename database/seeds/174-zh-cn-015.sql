@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.', 'zh-CN',
      '终于有一天，紧紧裹在花苞里的风险，比绽放所需承担的风险更令人痛苦。'),
     ('I am always doing that which I cannot do, in order that I may learn how to do it.', 'zh-CN',
-     '我总是在做我做不到的事，为的是学会怎么去做。');
+     '我总是在做我做不到的事，为的是学会怎么去做。'),
+    ('Unless you try to do something beyond what you have already mastered, you will never grow.', 'zh-CN',
+     '除非你尝试去做超出你已掌握范围的事情，否则你永远不会成长。');
