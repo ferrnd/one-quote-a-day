@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'zh-CN',
      '如果你不是时不时地失败一下，那就说明你没有做什么很有创新性的事。'),
     ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'zh-CN',
-     '失败时时刻刻都在发生，每天训练中都在发生。让你变得更好的，是你如何应对它。');
+     '失败时时刻刻都在发生，每天训练中都在发生。让你变得更好的，是你如何应对它。'),
+    ('There are no mistakes or failures, only lessons.', 'zh-CN',
+     '没有错误，也没有失败，只有教训。');
