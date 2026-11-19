@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Talk does not cook rice.', 'ja',
      '口先だけでは米は炊けない。'),
     ('If not now, when?', 'ja',
-     '今でなければ、いつやるのか。');
+     '今でなければ、いつやるのか。'),
+    ('To begin, begin.', 'ja',
+     '始めるには、始めることだ。');
