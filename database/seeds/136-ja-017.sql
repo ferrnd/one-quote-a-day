@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Obstacles are those frightful things you see when you take your eyes off your goal.', 'ja',
      '障害とは、目標から目を離したときに見える恐ろしいもののことだ。'),
     ('Obstacles don''t have to stop you. If you run into a wall, don''t turn around and give up. Figure out how to climb it, go through it, or work around it.', 'ja',
-     '障害に止められる必要はない。壁にぶつかったら、引き返してあきらめるな。どうやって登るか、突き抜けるか、回り込むかを考えろ。');
+     '障害に止められる必要はない。壁にぶつかったら、引き返してあきらめるな。どうやって登るか、突き抜けるか、回り込むかを考えろ。'),
+    ('Problems are not stop signs, they are guidelines.', 'ja',
+     '問題は止まれの標識ではなく、道しるべである。');
