@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I dream my painting and I paint my dream.', 'ja',
      '私は自分の絵を夢見て、自分の夢を描く。'),
     ('Dreams don''t work unless you do.', 'ja',
-     'あなたが働かなければ、夢は働かない。');
+     'あなたが働かなければ、夢は働かない。'),
+    ('Keep your dreams alive. Understand to achieve anything requires faith and belief in yourself, vision, hard work, determination, and dedication.', 'ja',
+     '夢を生かし続けなさい。何かを成し遂げるには、自分への信念、ビジョン、努力、決意、そして献身が必要だと理解しなさい。');
