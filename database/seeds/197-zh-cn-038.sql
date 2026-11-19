@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is not the key to happiness. Happiness is the key to success.', 'zh-CN',
      '成功不是幸福的钥匙，幸福才是成功的钥匙。'),
     ('Patience is the calm acceptance that things can happen in a different order than the one you have in mind.', 'zh-CN',
-     '耐心就是平静地接受，事情可能会以不同于你所设想的顺序发生。');
+     '耐心就是平静地接受，事情可能会以不同于你所设想的顺序发生。'),
+    ('Patience and fortitude conquer all things.', 'zh-CN',
+     '耐心和坚毅能征服一切。');
