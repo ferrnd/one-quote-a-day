@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are far, far better things ahead than any we leave behind.', 'zh-CN',
      '前方还有远比我们留在身后的任何东西都更美好的事物。'),
     ('In spite of everything I still believe that people are really good at heart.', 'zh-CN',
-     '尽管发生了这一切，我仍然相信人的内心本质是善良的。');
+     '尽管发生了这一切，我仍然相信人的内心本质是善良的。'),
+    ('Think of all the beauty still left around you and be happy.', 'zh-CN',
+     '想想你身边仍然留存的一切美好，然后快乐起来。');
