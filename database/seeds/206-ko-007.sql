@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.', 'ko',
      '고통 속에서 가장 강한 영혼이 태어났다. 가장 거대한 인격에는 흉터가 새겨져 있다.'),
     ('The oak fought the wind and was broken, the willow bent when it must and survived.', 'ko',
-     '참나무는 바람과 싸우다 부러졌고, 버드나무는 굽혀야 할 때 굽혀서 살아남았다.');
+     '참나무는 바람과 싸우다 부러졌고, 버드나무는 굽혀야 할 때 굽혀서 살아남았다.'),
+    ('Although the world is full of suffering, it is also full of the overcoming of it.', 'ko',
+     '세상은 고통으로 가득하지만, 그것을 이겨 내는 일로도 가득하다.');
