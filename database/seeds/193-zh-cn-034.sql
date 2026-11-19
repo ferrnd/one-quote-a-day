@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Once you face your fear, nothing is ever as hard as you think.', 'zh-CN',
      '一旦你直面恐惧，就没有什么事像你想象的那么难了。'),
     ('When life knocks you down, try to land on your back. Because if you can look up, you can get up.', 'zh-CN',
-     '当生活把你击倒时，尽量仰面倒下。因为只要你能抬头看，你就能站起来。');
+     '当生活把你击倒时，尽量仰面倒下。因为只要你能抬头看，你就能站起来。'),
+    ('Out of every crisis comes the chance to be reborn.', 'zh-CN',
+     '每一次危机都带来重生的机会。');
