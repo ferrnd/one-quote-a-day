@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our life is what our thoughts make it.', 'ja',
      '私たちの人生は、私たちの思考がつくるものである。'),
     ('The happiness of your life depends upon the quality of your thoughts.', 'ja',
-     '人生の幸福は、思考の質にかかっている。');
+     '人生の幸福は、思考の質にかかっている。'),
+    ('Very little is needed to make a happy life; it is all within yourself, in your way of thinking.', 'ja',
+     '幸せな人生を送るのに必要なものはごくわずかだ。それはすべてあなた自身の中に、あなたの考え方の中にある。');
