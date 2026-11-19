@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have learned over the years that when one''s mind is made up, this diminishes fear.', 'ja',
      '長年かけて学んだことがある。心が決まれば、恐れは小さくなるのだ。'),
     ('You must do the things you think you cannot do.', 'ja',
-     '自分にはできないと思うことを、やらなければならない。');
+     '自分にはできないと思うことを、やらなければならない。'),
+    ('Clear thinking requires courage rather than intelligence.', 'ja',
+     '明晰に考えるには、知性よりも勇気が必要だ。');
