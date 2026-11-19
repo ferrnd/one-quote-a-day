@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A man is but the product of his thoughts. What he thinks, he becomes.', 'ja',
      '人は思考の産物にすぎない。人は思ったとおりの人間になる。'),
     ('If you don''t like something, change it. If you can''t change it, change your attitude.', 'ja',
-     '気に入らないことがあれば変えなさい。変えられないなら、自分の態度を変えなさい。');
+     '気に入らないことがあれば変えなさい。変えられないなら、自分の態度を変えなさい。'),
+    ('People often say that motivation doesn''t last. Well, neither does bathing. That''s why we recommend it daily.', 'ja',
+     'やる気は長続きしないとよく言われる。だが入浴だって長続きしない。だから毎日することを勧めるのだ。');
