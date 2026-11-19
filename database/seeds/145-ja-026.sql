@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Your time is limited, so don''t waste it living someone else''s life.', 'ja',
      'あなたの時間は限られている。だから、他人の人生を生きて無駄にしてはいけない。'),
     ('If you are working on something exciting that you really care about, you don''t have to be pushed. The vision pulls you.', 'ja',
-     '心から大切に思うわくわくするものに取り組んでいるなら、誰かに背中を押される必要はない。ビジョンがあなたを引っ張ってくれる。');
+     '心から大切に思うわくわくするものに取り組んでいるなら、誰かに背中を押される必要はない。ビジョンがあなたを引っ張ってくれる。'),
+    ('The only way to do great work is to love what you do.', 'ja',
+     '偉大な仕事をする唯一の方法は、自分のしていることを愛することだ。');
