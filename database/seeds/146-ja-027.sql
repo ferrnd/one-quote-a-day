@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Pain is temporary. Quitting lasts forever.', 'ja',
      '痛みは一時的なものだ。だが、あきらめれば、それは永遠に残る。'),
     ('I have stood on a mountain of no''s for one yes.', 'ja',
-     '一つの「イエス」のために、私は山ほどの「ノー」の上に立ってきた。');
+     '一つの「イエス」のために、私は山ほどの「ノー」の上に立ってきた。'),
+    ('I had to make my own living and my own opportunity. But I made it!', 'ja',
+     '私は自分で生計を立て、自分でチャンスをつくらなければならなかった。そして、やり遂げた！');
