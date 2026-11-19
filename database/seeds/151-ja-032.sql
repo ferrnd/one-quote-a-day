@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The opposite of courage in our society is not cowardice, it is conformity.', 'ja',
      '私たちの社会において勇気の反対は臆病ではなく、同調である。'),
     ('Cowards die many times before their deaths; the valiant never taste of death but once.', 'ja',
-     '臆病者は死ぬまでに何度も死ぬ。勇者は一度しか死を味わわない。');
+     '臆病者は死ぬまでに何度も死ぬ。勇者は一度しか死を味わわない。'),
+    ('Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.', 'ja',
+     '偉大さを恐れるな。ある者は生まれながらに偉大であり、ある者は努力して偉大さを得、ある者は偉大さを押しつけられるのだ。');
