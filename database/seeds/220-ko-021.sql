@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Setting goals is the first step in turning the invisible into the visible.', 'ko',
      '목표를 세우는 것은 보이지 않는 것을 보이게 만드는 첫걸음이다.'),
     ('Opportunities don''t happen. You create them.', 'ko',
-     '기회는 일어나는 것이 아니다. 당신이 만드는 것이다.');
+     '기회는 일어나는 것이 아니다. 당신이 만드는 것이다.'),
+    ('Doubt kills more dreams than failure ever will.', 'ko',
+     '의심은 실패보다 훨씬 더 많은 꿈을 죽인다.');
