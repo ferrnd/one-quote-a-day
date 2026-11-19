@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t let anyone rob you of your imagination, your creativity, or your curiosity.', 'ja',
      '誰にも、あなたの想像力や創造性や好奇心を奪わせてはいけない。'),
     ('Never let your memories be greater than your dreams.', 'ja',
-     '思い出を、夢より大きくしてはいけない。');
+     '思い出を、夢より大きくしてはいけない。'),
+    ('All men dream, but not equally.', 'ja',
+     'すべての人は夢を見る。だが、同じようにではない。');
