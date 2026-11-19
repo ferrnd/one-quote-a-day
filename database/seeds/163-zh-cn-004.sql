@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is knowing what not to fear.', 'zh-CN',
      '勇气就是知道什么不必恐惧。'),
     ('Feel the fear and do it anyway.', 'zh-CN',
-     '感受恐惧，然后照做不误。');
+     '感受恐惧，然后照做不误。'),
+    ('Be bold, and mighty forces will come to your aid.', 'zh-CN',
+     '勇敢起来，强大的力量就会来帮助你。');
