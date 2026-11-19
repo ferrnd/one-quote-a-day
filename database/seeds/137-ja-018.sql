@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.', 'ja',
      '悲観主義者はあらゆる好機の中に困難を見る。楽観主義者はあらゆる困難の中に好機を見る。'),
     ('Challenges are what make life interesting and overcoming them is what makes life meaningful.', 'ja',
-     '挑戦は人生を面白くし、それを乗り越えることが人生を意味あるものにする。');
+     '挑戦は人生を面白くし、それを乗り越えることが人生を意味あるものにする。'),
+    ('Adversity is the diamond dust Heaven polishes its jewels with.', 'ja',
+     '逆境とは、天がその宝石を磨くためのダイヤモンドの粉である。');
