@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only journey is the one within.', 'zh-CN',
      '唯一的旅程，是向内的旅程。'),
     ('I am still learning.', 'zh-CN',
-     '我仍在学习。');
+     '我仍在学习。'),
+    ('It is not length of life, but depth of life.', 'zh-CN',
+     '重要的不是生命的长度，而是生命的深度。');
