@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the thing with feathers that perches in the soul.', 'zh-CN',
      '希望是长着羽毛的东西，栖息在灵魂里。'),
     ('Everything that is done in the world is done by hope.', 'zh-CN',
-     '世上所成就的一切，都是靠希望成就的。');
+     '世上所成就的一切，都是靠希望成就的。'),
+    ('Hope is being able to see that there is light despite all of the darkness.', 'zh-CN',
+     '希望就是在一片黑暗中，依然能看见光。');
