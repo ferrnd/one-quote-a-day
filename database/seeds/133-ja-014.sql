@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wait to strike till the iron is hot; but make it hot by striking.', 'ja',
      '鉄が熱くなるまで打つのを待つな。打つことで熱くせよ。'),
     ('Self-respect is the fruit of discipline; the sense of dignity grows with the ability to say no to oneself.', 'ja',
-     '自尊心は規律の実りである。尊厳の感覚は、自分に「いいえ」と言える力とともに育つ。');
+     '自尊心は規律の実りである。尊厳の感覚は、自分に「いいえ」と言える力とともに育つ。'),
+    ('What you do every day matters more than what you do once in a while.', 'ja',
+     '毎日していることは、たまにすることよりも大切だ。');
