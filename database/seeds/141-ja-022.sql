@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Shoot for the moon. Even if you miss, you''ll land among the stars.', 'ja',
      '月を目指せ。たとえ外れても、星々の間に着地できる。'),
     ('It''s not what you look at that matters, it''s what you see.', 'ja',
-     '大切なのは何を見るかではなく、何が見えるかだ。');
+     '大切なのは何を見るかではなく、何が見えるかだ。'),
+    ('I am not a product of my circumstances. I am a product of my decisions.', 'ja',
+     '私は境遇の産物ではない。私は自分の決断の産物である。');
