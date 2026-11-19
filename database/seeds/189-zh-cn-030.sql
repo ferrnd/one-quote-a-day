@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If a man knows not to which port he sails, no wind is favorable.', 'zh-CN',
      '如果一个人不知道要驶向哪个港口，那么任何风都不是顺风。'),
     ('Luck is what happens when preparation meets opportunity.', 'zh-CN',
-     '运气就是准备遇上了机会。');
+     '运气就是准备遇上了机会。'),
+    ('Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.', 'zh-CN',
+     '昨天是历史，明天是谜，今天是上天的礼物，所以我们称它为“现在”。');
