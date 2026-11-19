@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing great was ever achieved without enthusiasm.', 'zh-CN',
      '没有热情，就不可能成就任何伟大的事业。'),
     ('I would rather be ashes than dust!', 'zh-CN',
-     '我宁愿化为灰烬，也不愿成为尘土！');
+     '我宁愿化为灰烬，也不愿成为尘土！'),
+    ('Determine never to be idle.', 'zh-CN',
+     '下定决心，永不懈怠。');
