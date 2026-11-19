@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.', 'ko',
      '우리의 가장 깊은 두려움은 우리가 부족하다는 것이 아니다. 우리의 가장 깊은 두려움은 우리가 헤아릴 수 없을 만큼 강하다는 것이다.'),
     ('Trust thyself: every heart vibrates to that iron string.', 'ko',
-     '너 자신을 믿어라. 모든 마음은 그 강철 현에 맞추어 떨린다.');
+     '너 자신을 믿어라. 모든 마음은 그 강철 현에 맞추어 떨린다.'),
+    ('You are the one that possesses the keys to your being. You carry the passport to your own happiness.', 'ko',
+     '당신 존재의 열쇠를 가진 사람은 바로 당신이다. 당신의 행복으로 가는 여권도 당신이 지니고 있다.');
