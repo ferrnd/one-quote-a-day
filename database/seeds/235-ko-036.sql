@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Things do not change; we change.', 'ko',
      '사물은 변하지 않는다. 우리가 변한다.'),
     ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'ko',
-     '진보에는 언제나 위험이 따른다. 1루에 발을 둔 채로 2루를 훔칠 수는 없다.');
+     '진보에는 언제나 위험이 따른다. 1루에 발을 둔 채로 2루를 훔칠 수는 없다.'),
+    ('The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday''s logic.', 'ko',
+     '격동의 시기에 가장 큰 위험은 격동 그 자체가 아니라 어제의 논리로 행동하는 것이다.');
