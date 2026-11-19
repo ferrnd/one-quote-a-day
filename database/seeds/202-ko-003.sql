@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the thing you fear, and the death of fear is certain.', 'ko',
      '두려워하는 일을 하라. 그러면 두려움은 반드시 사라진다.'),
     ('Fear is only as deep as the mind allows.', 'ko',
-     '두려움은 마음이 허락하는 만큼만 깊어진다.');
+     '두려움은 마음이 허락하는 만큼만 깊어진다.'),
+    ('Everything you''ve ever wanted is on the other side of fear.', 'ko',
+     '당신이 원했던 모든 것은 두려움의 반대편에 있다.');
