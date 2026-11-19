@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''m going to use all my tools, my God-given ability, and make the best life I can with it.', 'ja',
      '俺は持てる道具のすべてを、神から与えられた才能を使って、それで最高の人生をつくるつもりだ。'),
     ('Champions aren''t made in the gyms. Champions are made from something they have deep inside them: a desire, a dream, a vision.', 'ja',
-     'チャンピオンはジムでつくられるのではない。チャンピオンは、心の奥深くにあるものからつくられる。それは願望であり、夢であり、ビジョンだ。');
+     'チャンピオンはジムでつくられるのではない。チャンピオンは、心の奥深くにあるものからつくられる。それは願望であり、夢であり、ビジョンだ。'),
+    ('The road to success is always under construction.', 'ja',
+     '成功への道は、いつも工事中だ。');
