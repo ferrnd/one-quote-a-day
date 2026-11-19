@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Tough times never last, but tough people do.', 'ja',
      '苦しい時代は長くは続かない。だが、強い人は続いていく。'),
     ('Where there is no struggle, there is no strength.', 'ja',
-     '苦闘のないところに、強さはない。');
+     '苦闘のないところに、強さはない。'),
+    ('Turn your wounds into wisdom.', 'ja',
+     '傷を知恵に変えなさい。');
