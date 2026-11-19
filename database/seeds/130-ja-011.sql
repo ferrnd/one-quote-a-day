@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Mastering others is strength. Mastering yourself is true power.', 'ja',
      '人に勝つ者は力がある。自分に勝つ者こそ真に強い。'),
     ('Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who conquers himself.', 'ja',
-     '戦場で百万の敵に勝つよりも、ただ一つの自己に勝つ者こそ、最上の勝利者である。');
+     '戦場で百万の敵に勝つよりも、ただ一つの自己に勝つ者こそ、最上の勝利者である。'),
+    ('Strength lies in differences, not in similarities.', 'ja',
+     '強さは共通点の中ではなく、違いの中にある。');
