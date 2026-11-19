@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is power. Patience is not an absence of action; rather it is timing.', 'zh-CN',
      '耐心就是力量。耐心不是不行动，而是把握时机。'),
     ('Wise to resolve, and patient to perform.', 'zh-CN',
-     '决断要明智，执行要耐心。');
+     '决断要明智，执行要耐心。'),
+    ('I am extraordinarily patient, provided I get my own way in the end.', 'zh-CN',
+     '我非常有耐心，只要最后能如我所愿。');
