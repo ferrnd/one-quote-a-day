@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.', 'zh-CN',
      '能够生存下来的物种，不是最强大的，也不是最聪明的，而是最能适应变化的。'),
     ('When I let go of what I am, I become what I might be.', 'zh-CN',
-     '当我放下我所是，我便成为我所能是。');
+     '当我放下我所是，我便成为我所能是。'),
+    ('I can''t go back to yesterday because I was a different person then.', 'zh-CN',
+     '我回不到昨天了，因为那时的我是另一个人。');
