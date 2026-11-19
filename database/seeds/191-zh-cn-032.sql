@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing is particularly hard if you divide it into small jobs.', 'zh-CN',
      '如果把事情分成一个个小任务，就没有什么特别难的。'),
     ('Perseverance and spirit have done wonders in all ages.', 'zh-CN',
-     '毅力和精神在任何时代都创造过奇迹。');
+     '毅力和精神在任何时代都创造过奇迹。'),
+    ('Courage is the price that life exacts for granting peace.', 'zh-CN',
+     '勇气是生活赐予安宁时所索取的代价。');
