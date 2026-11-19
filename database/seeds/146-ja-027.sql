@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.', 'ja',
      '私たちは、自分に何かの才能が与えられていると信じなければならない。そしてそれを、どんな犠牲を払ってでも成し遂げなければならないと。'),
     ('One never notices what has been done; one can only see what remains to be done.', 'ja',
-     '人は、成し遂げたことには気づかない。まだ成し遂げるべきことしか目に入らないのだ。');
+     '人は、成し遂げたことには気づかない。まだ成し遂げるべきことしか目に入らないのだ。'),
+    ('I raise up my voice, not so that I can shout, but so that those without a voice can be heard.', 'ja',
+     '私が声を上げるのは、叫ぶためではありません。声なき人々の声が届くようにするためです。');
