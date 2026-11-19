@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''m going to use all my tools, my God-given ability, and make the best life I can with it.', 'zh-CN',
      '我要用上我所有的工具、上天赋予我的能力，用它们创造我能创造的最好的人生。'),
     ('Champions aren''t made in the gyms. Champions are made from something they have deep inside them: a desire, a dream, a vision.', 'zh-CN',
-     '冠军不是在健身房里造就的。冠军来自他们内心深处的东西：一种渴望、一个梦想、一个愿景。');
+     '冠军不是在健身房里造就的。冠军来自他们内心深处的东西：一种渴望、一个梦想、一个愿景。'),
+    ('The road to success is always under construction.', 'zh-CN',
+     '通往成功的路永远在施工中。');
