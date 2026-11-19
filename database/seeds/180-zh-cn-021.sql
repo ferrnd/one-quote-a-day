@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Opportunities don''t happen. You create them.', 'zh-CN',
      '机会不会自己出现，是你创造了机会。'),
     ('Doubt kills more dreams than failure ever will.', 'zh-CN',
-     '怀疑扼杀的梦想，比失败扼杀的还要多。');
+     '怀疑扼杀的梦想，比失败扼杀的还要多。'),
+    ('Don''t be pushed around by the fears in your mind. Be led by the dreams in your heart.', 'zh-CN',
+     '不要被头脑中的恐惧摆布，要让内心的梦想引领你。');
