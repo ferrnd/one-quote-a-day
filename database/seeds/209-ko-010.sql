@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the only thing stronger than fear.', 'ko',
      '희망은 두려움보다 강한 유일한 것이다.'),
     ('Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.', 'ko',
-     '가장 어두운 때에도 행복은 찾을 수 있다. 불을 켜는 것만 잊지 않는다면.');
+     '가장 어두운 때에도 행복은 찾을 수 있다. 불을 켜는 것만 잊지 않는다면.'),
+    ('Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come.', 'ko',
+     '희망은 어둠 속에서 시작된다. 그 자리에 나서서 옳은 일을 하려고 애쓰면 새벽이 올 것이라는 고집스러운 희망 말이다.');
