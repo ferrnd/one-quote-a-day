@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Pain is temporary. Quitting lasts forever.', 'zh-CN',
      '痛苦是暂时的，放弃却是永远的。'),
     ('I have stood on a mountain of no''s for one yes.', 'zh-CN',
-     '为了一个“是”，我曾站在堆积如山的“不”之上。');
+     '为了一个“是”，我曾站在堆积如山的“不”之上。'),
+    ('I had to make my own living and my own opportunity. But I made it!', 'zh-CN',
+     '我必须自己谋生，自己创造机会。但我做到了！');
