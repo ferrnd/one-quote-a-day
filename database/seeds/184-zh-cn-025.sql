@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Set your goals high, and don''t stop till you get there.', 'zh-CN',
      '把目标定得高一些，不到达绝不停止。'),
     ('Desire is the key to motivation, but it''s determination and commitment to an unrelenting pursuit of your goal that will enable you to attain the success you seek.', 'zh-CN',
-     '渴望是动力的关键，但能让你获得所追求的成功的，是坚定的决心和对目标锲而不舍的投入。');
+     '渴望是动力的关键，但能让你获得所追求的成功的，是坚定的决心和对目标锲而不舍的投入。'),
+    ('Obstacles cannot crush me. Every obstacle yields to stern resolve.', 'zh-CN',
+     '障碍无法压垮我。每一个障碍都会屈服于坚定的决心。');
