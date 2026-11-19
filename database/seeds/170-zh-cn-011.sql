@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength and growth come only through continuous effort and struggle.', 'zh-CN',
      '力量与成长只能来自持续的努力和奋斗。'),
     ('Out of your vulnerabilities will come your strength.', 'zh-CN',
-     '你的力量将来自你的脆弱。');
+     '你的力量将来自你的脆弱。'),
+    ('A woman is like a tea bag; you can''t tell how strong she is until you put her in hot water.', 'zh-CN',
+     '女人就像茶包，不放进热水里，你永远不知道她有多浓。');
