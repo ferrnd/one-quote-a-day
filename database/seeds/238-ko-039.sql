@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('They also serve who only stand and wait.', 'ko',
      '그저 서서 기다리는 자들도 섬기는 것이다.'),
     ('Only time can heal what reason cannot.', 'ko',
-     '이성이 치유하지 못하는 것도 시간은 치유할 수 있다.');
+     '이성이 치유하지 못하는 것도 시간은 치유할 수 있다.'),
+    ('Determination gives you the resolve to keep going in spite of the roadblocks that lay before you.', 'ko',
+     '결단은 앞에 놓인 장애물에도 불구하고 계속 나아갈 의지를 준다.');
