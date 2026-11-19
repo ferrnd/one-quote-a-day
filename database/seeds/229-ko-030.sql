@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When one door of happiness closes, another opens.', 'ko',
      '행복의 문 하나가 닫히면 다른 문이 열린다.'),
     ('Alone we can do so little; together we can do so much.', 'ko',
-     '혼자서는 아주 작은 일밖에 할 수 없지만, 함께라면 아주 많은 일을 할 수 있다.');
+     '혼자서는 아주 작은 일밖에 할 수 없지만, 함께라면 아주 많은 일을 할 수 있다.'),
+    ('The only thing worse than being blind is having sight but no vision.', 'ko',
+     '앞을 보지 못하는 것보다 더 나쁜 것은 볼 수 있지만 비전이 없는 것이다.');
