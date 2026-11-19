@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.', 'ja',
      '生き残るのは最も強い種でも、最も賢い種でもない。変化に最もよく適応する種である。'),
     ('When I let go of what I am, I become what I might be.', 'ja',
-     '今の自分を手放したとき、なりうる自分になれる。');
+     '今の自分を手放したとき、なりうる自分になれる。'),
+    ('I can''t go back to yesterday because I was a different person then.', 'ja',
+     '昨日には戻れないわ。だってあのときの私は別人だったんだもの。');
