@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('My mission in life is not merely to survive, but to thrive.', 'ja',
      '私の人生の使命は、ただ生き延びることではなく、豊かに生きることだ。'),
     ('You can''t be hesitant about who you are.', 'ja',
-     '自分が何者であるかに、ためらってはいけない。');
+     '自分が何者であるかに、ためらってはいけない。'),
+    ('The most common way people give up their power is by thinking they don''t have any.', 'ja',
+     '人が自分の力を手放す最もよくある方法は、自分には力がないと思い込むことだ。');
