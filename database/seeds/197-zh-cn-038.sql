@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'zh-CN',
      '如果你意识到你的思想有多么强大，你就永远不会有消极的念头。'),
     ('I am the greatest. I said that even before I knew I was.', 'zh-CN',
-     '我是最伟大的。在我知道自己是最伟大的之前，我就这么说了。');
+     '我是最伟大的。在我知道自己是最伟大的之前，我就这么说了。'),
+    ('Impossible is just a big word thrown around by small men.', 'zh-CN',
+     '“不可能”只是渺小的人随口说出的一个大词。');
