@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength is a matter of the made-up mind.', 'ja',
      '強さとは、心を決めることである。'),
     ('I am the master of my fate, I am the captain of my soul.', 'ja',
-     '私は我が運命の主であり、我が魂の指揮官である。');
+     '私は我が運命の主であり、我が魂の指揮官である。'),
+    ('I thank whatever gods may be for my unconquerable soul.', 'ja',
+     'いかなる神であれ、私に屈することのない魂を与えてくれたことに感謝する。');
