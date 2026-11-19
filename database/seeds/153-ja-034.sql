@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is always light, if only we''re brave enough to see it. If only we''re brave enough to be it.', 'ja',
      '光はいつもそこにある。それを見る勇気さえあれば。それになる勇気さえあれば。'),
     ('Hope is a verb with its shirtsleeves rolled up.', 'ja',
-     '希望とは、袖をまくり上げた動詞である。');
+     '希望とは、袖をまくり上げた動詞である。'),
+    ('To hope is to give yourself to the future.', 'ja',
+     '希望を持つことは、自分を未来に捧げることだ。');
