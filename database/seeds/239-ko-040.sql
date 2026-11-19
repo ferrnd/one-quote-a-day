@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The art of being wise is the art of knowing what to overlook.', 'ko',
      '지혜로워지는 기술은 무엇을 못 본 척할지 아는 기술이다.'),
     ('He who learns but does not think, is lost. He who thinks but does not learn is in great danger.', 'ko',
-     '배우기만 하고 생각하지 않으면 어둡고, 생각하기만 하고 배우지 않으면 위태롭다.');
+     '배우기만 하고 생각하지 않으면 어둡고, 생각하기만 하고 배우지 않으면 위태롭다.'),
+    ('The best revenge is not to be like your enemy.', 'ko',
+     '최고의 복수는 당신의 적처럼 되지 않는 것이다.');
