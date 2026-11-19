@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'ja',
      '間違いをしたときにすべきことは三つしかない。認めること、学ぶこと、繰り返さないことだ。'),
     ('Failure is a detour, not a dead-end street.', 'ja',
-     '失敗は回り道であって、行き止まりではない。');
+     '失敗は回り道であって、行き止まりではない。'),
+    ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'ja',
+     '失敗は必ずしも間違いではない。その状況でできる最善だったのかもしれない。本当の間違いは、挑戦をやめることだ。');
