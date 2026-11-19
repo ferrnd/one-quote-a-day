@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Go as far as you can see; when you get there, you''ll be able to see farther.', 'zh-CN',
      '走到你能看到的最远处，到了那里，你就能看得更远。'),
     ('The best way to make your dreams come true is to wake up.', 'zh-CN',
-     '实现梦想最好的方法，就是醒来。');
+     '实现梦想最好的方法，就是醒来。'),
+    ('Who looks outside, dreams; who looks inside, awakes.', 'zh-CN',
+     '向外看的人在做梦，向内看的人才觉醒。');
