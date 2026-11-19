@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.', 'zh-CN',
      '从失败中发展出成功。沮丧和失败是通往成功最可靠的两块垫脚石。'),
     ('Mistakes are always forgivable, if one has the courage to admit them.', 'zh-CN',
-     '只要有勇气承认，错误总是可以被原谅的。');
+     '只要有勇气承认，错误总是可以被原谅的。'),
+    ('Do not fear mistakes. There are none.', 'zh-CN',
+     '不要害怕犯错，根本就没有错误。');
