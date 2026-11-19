@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The fight is won or lost far away from witnesses, behind the lines, in the gym, and out there on the road, long before I dance under those lights.', 'ko',
      '싸움의 승패는 증인들로부터 멀리 떨어진 곳, 무대 뒤와 체육관과 길 위에서, 내가 조명 아래에서 춤추기 훨씬 전에 결정된다.'),
     ('Don''t count the days, make the days count.', 'ko',
-     '날짜를 세지 말고, 하루하루를 의미 있게 만들어라.');
+     '날짜를 세지 말고, 하루하루를 의미 있게 만들어라.'),
+    ('Dedication sees dreams come true.', 'ko',
+     '헌신은 꿈을 이루어 준다.');
