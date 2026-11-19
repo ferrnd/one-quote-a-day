@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Vulnerability is the birthplace of innovation, creativity and change.', 'zh-CN',
      '脆弱是创新、创造与改变的发源地。'),
     ('Courage starts with showing up and letting ourselves be seen.', 'zh-CN',
-     '勇气始于出现在那里，并让别人看见真实的自己。');
+     '勇气始于出现在那里，并让别人看见真实的自己。'),
+    ('Don''t be afraid to give up the good to go for the great.', 'zh-CN',
+     '不要害怕放弃好的，去追求更好的。');
