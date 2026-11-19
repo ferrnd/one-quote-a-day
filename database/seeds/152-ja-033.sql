@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We learn from failure, not from success!', 'ja',
      '私たちは成功からではなく、失敗から学ぶのだ！'),
     ('You can''t be afraid to fail. It''s the only way you succeed.', 'ja',
-     '失敗を恐れてはいけない。それが成功する唯一の方法なのだから。');
+     '失敗を恐れてはいけない。それが成功する唯一の方法なのだから。'),
+    ('A man is not finished when he is defeated. He is finished when he quits.', 'ja',
+     '人は負けたときに終わるのではない。やめたときに終わるのだ。');
