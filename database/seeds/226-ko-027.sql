@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'ko',
      '내가 그 자리에 오른 것은 바라거나 소망해서가 아니라, 그것을 위해 일했기 때문이다.'),
     ('Fight for the things that you care about, but do it in a way that will lead others to join you.', 'ko',
-     '당신이 소중히 여기는 것을 위해 싸워라. 다만 다른 사람들이 함께하고 싶어지는 방식으로.');
+     '당신이 소중히 여기는 것을 위해 싸워라. 다만 다른 사람들이 함께하고 싶어지는 방식으로.'),
+    ('Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves.', 'ko',
+     '삶은 우리 누구에게도 쉽지 않다. 그러나 그게 어떻단 말인가? 우리에게는 끈기가, 무엇보다 자신에 대한 믿음이 있어야 한다.');
