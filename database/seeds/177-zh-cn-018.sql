@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The way I see it, if you want the rainbow, you gotta put up with the rain.', 'zh-CN',
      '在我看来，如果你想要彩虹，就得忍受雨水。'),
     ('Life isn''t about waiting for the storm to pass. It''s about learning to dance in the rain.', 'zh-CN',
-     '生活不是等待暴风雨过去，而是学会在雨中起舞。');
+     '生活不是等待暴风雨过去，而是学会在雨中起舞。'),
+    ('Adversity reveals genius, prosperity conceals it.', 'zh-CN',
+     '逆境显露天才，顺境掩盖天才。');
