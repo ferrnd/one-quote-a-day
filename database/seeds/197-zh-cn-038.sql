@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is liking yourself, liking what you do, and liking how you do it.', 'zh-CN',
      '成功就是喜欢你自己，喜欢你所做的事，并喜欢你做事的方式。'),
     ('The soul becomes dyed with the color of its thoughts.', 'zh-CN',
-     '灵魂会被它的思想染上颜色。');
+     '灵魂会被它的思想染上颜色。'),
+    ('Success is not the key to happiness. Happiness is the key to success.', 'zh-CN',
+     '成功不是幸福的钥匙，幸福才是成功的钥匙。');
