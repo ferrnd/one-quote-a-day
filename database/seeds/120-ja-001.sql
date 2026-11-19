@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It does not matter how slowly you go as long as you do not stop.', 'ja',
      '止まりさえしなければ、どれだけゆっくり進んでもかまわない。'),
     ('Fall seven times, stand up eight.', 'ja',
-     '七転び八起き。');
+     '七転び八起き。'),
+    ('Our greatest glory is not in never falling, but in rising every time we fall.', 'ja',
+     '最大の栄光は一度も倒れないことではなく、倒れるたびに起き上がることにある。');
