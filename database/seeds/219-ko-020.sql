@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.', 'ko',
      '공중에 성을 쌓았다고 해서 그 노력이 헛된 것은 아니다. 성은 원래 거기 있어야 한다. 이제 그 아래에 기초를 놓아라.'),
     ('Ideas are easy. Implementation is hard.', 'ko',
-     '아이디어는 쉽다. 실행은 어렵다.');
+     '아이디어는 쉽다. 실행은 어렵다.'),
+    ('Begin, be bold, and venture to be wise.', 'ko',
+     '시작하라, 대담하라, 그리고 지혜로워지기를 감행하라.');
