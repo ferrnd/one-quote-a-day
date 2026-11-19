@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.', 'ja',
      '昨日は歴史、明日は謎、今日は神からの贈り物。だから今日は「プレゼント」と呼ばれるのだ。'),
     ('If you want to go fast, go alone. If you want to go far, go together.', 'ja',
-     '早く行きたいなら、一人で行け。遠くまで行きたいなら、みんなで行け。');
+     '早く行きたいなら、一人で行け。遠くまで行きたいなら、みんなで行け。'),
+    ('Be not afraid.', 'ja',
+     '恐れることはない。');
