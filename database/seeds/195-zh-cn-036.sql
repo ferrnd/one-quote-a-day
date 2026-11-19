@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'zh-CN',
      '进步总是伴随着风险。你不可能一只脚留在一垒，还能盗上二垒。'),
     ('The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday''s logic.', 'zh-CN',
-     '动荡时期最大的危险不是动荡本身，而是用昨天的逻辑去行动。');
+     '动荡时期最大的危险不是动荡本身，而是用昨天的逻辑去行动。'),
+    ('We must be willing to let go of the life we planned so as to have the life that is waiting for us.', 'zh-CN',
+     '我们必须愿意放下计划中的生活，才能拥有等待着我们的生活。');
