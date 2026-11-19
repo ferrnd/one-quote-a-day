@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Pain and suffering are always inevitable for a large intelligence and a deep heart.', 'zh-CN',
      '对于一个拥有伟大智慧和深沉心灵的人来说，痛苦和苦难总是不可避免的。'),
     ('Long is the way and hard, that out of hell leads up to light.', 'zh-CN',
-     '从地狱通往光明的道路，漫长而艰难。');
+     '从地狱通往光明的道路，漫长而艰难。'),
+    ('Accept challenges so that you may feel the exhilaration of victory.', 'zh-CN',
+     '接受挑战，你才能感受到胜利的喜悦。');
