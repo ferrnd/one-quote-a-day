@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What I am looking for is not out there, it is in me.', 'zh-CN',
      '我所寻找的不在外面，而在我自己心中。'),
     ('Efforts and courage are not enough without purpose and direction.', 'zh-CN',
-     '没有目标和方向，光有努力和勇气是不够的。');
+     '没有目标和方向，光有努力和勇气是不够的。'),
+    ('The world is changed by your example, not by your opinion.', 'zh-CN',
+     '改变世界的是你的榜样，而不是你的意见。');
