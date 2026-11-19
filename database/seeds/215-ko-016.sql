@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A year from now you may wish you had started today.', 'ko',
      '1년 뒤, 오늘 시작했더라면 하고 바라게 될지도 모른다.'),
     ('Change your thoughts and you change your world.', 'ko',
-     '생각을 바꾸면 세상이 바뀐다.');
+     '생각을 바꾸면 세상이 바뀐다.'),
+    ('You cannot change your destination overnight, but you can change your direction overnight.', 'ko',
+     '하룻밤 사이에 목적지를 바꿀 수는 없지만, 방향은 하룻밤 사이에 바꿀 수 있다.');
