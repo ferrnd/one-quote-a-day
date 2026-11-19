@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything comes gradually and at its appointed hour.', 'ko',
      '모든 것은 서서히, 정해진 때에 온다.'),
     ('Be patient and tough; someday this pain will be useful to you.', 'ko',
-     '인내하고 강해져라. 언젠가 이 고통이 너에게 쓸모가 있을 것이다.');
+     '인내하고 강해져라. 언젠가 이 고통이 너에게 쓸모가 있을 것이다.'),
+    ('Dripping water hollows out stone, not through force but through persistence.', 'ko',
+     '떨어지는 물방울이 돌을 뚫는 것은 힘이 아니라 끈기 때문이다.');
