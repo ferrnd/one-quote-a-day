@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A hero is no braver than an ordinary man, but he is brave five minutes longer.', 'ja',
      '英雄は普通の人より勇敢なのではない。ただ五分長く勇敢なのだ。'),
     ('The struggle itself toward the heights is enough to fill a man''s heart. One must imagine Sisyphus happy.', 'ja',
-     '頂上を目指す闘いそのものが、人の心を満たすのに十分なのだ。シーシュポスは幸福だと思わねばならない。');
+     '頂上を目指す闘いそのものが、人の心を満たすのに十分なのだ。シーシュポスは幸福だと思わねばならない。'),
+    ('Sometimes adversity is what you need to face in order to become successful.', 'ja',
+     'ときには、成功するために逆境に立ち向かう必要がある。');
