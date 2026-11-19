@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no shortcuts to any place worth going.', 'ja',
      '行く価値のある場所に、近道はない。'),
     ('The only place where success comes before work is in the dictionary.', 'ja',
-     '仕事より先に成功が来るのは、辞書の中だけだ。');
+     '仕事より先に成功が来るのは、辞書の中だけだ。'),
+    ('Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.', 'ja',
+     '才能は食卓塩よりも安い。才能のある人と成功する人を分けるのは、膨大な努力だ。');
