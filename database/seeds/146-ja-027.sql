@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('First, think. Second, dream. Third, believe. And finally, dare.', 'ja',
      'まず考えよ。次に夢見よ。そして信じよ。最後に、挑め。'),
     ('A dream you dream alone is only a dream. A dream you dream together is reality.', 'ja',
-     '一人で見る夢はただの夢。みんなで見る夢は現実になる。');
+     '一人で見る夢はただの夢。みんなで見る夢は現実になる。'),
+    ('Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.', 'ja',
+     '夢をしっかりと抱きしめなさい。夢が死ねば、人生は翼の折れた、飛べない鳥になってしまうから。');
