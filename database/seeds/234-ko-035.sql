@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not afraid; I was born to do this.', 'ko',
      '나는 두렵지 않다. 나는 이 일을 하려고 태어났다.'),
     ('Self-control is strength. Right thought is mastery. Calmness is power.', 'ko',
-     '자제력은 강함이다. 올바른 생각은 통달이다. 침착함은 힘이다.');
+     '자제력은 강함이다. 올바른 생각은 통달이다. 침착함은 힘이다.'),
+    ('The greatest weapon against stress is our ability to choose one thought over another.', 'ko',
+     '스트레스에 맞서는 가장 큰 무기는 하나의 생각 대신 다른 생각을 선택할 수 있는 능력이다.');
