@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We suffer more often in imagination than in reality.', 'zh-CN',
      '我们在想象中受的苦，往往多于在现实中受的苦。'),
     ('Mastering others is strength. Mastering yourself is true power.', 'zh-CN',
-     '胜人者有力，自胜者强。');
+     '胜人者有力，自胜者强。'),
+    ('Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who conquers himself.', 'zh-CN',
+     '在战场上战胜千千万万人，不如战胜自己，战胜自己才是最高贵的胜利者。');
