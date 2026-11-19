@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t be hesitant about who you are.', 'ko',
      '자신이 누구인지에 대해 망설여서는 안 된다.'),
     ('The most common way people give up their power is by thinking they don''t have any.', 'ko',
-     '사람들이 자신의 힘을 포기하는 가장 흔한 방법은 자신에게 힘이 없다고 생각하는 것이다.');
+     '사람들이 자신의 힘을 포기하는 가장 흔한 방법은 자신에게 힘이 없다고 생각하는 것이다.'),
+    ('Think like a queen. A queen is not afraid to fail.', 'ko',
+     '여왕처럼 생각하라. 여왕은 실패를 두려워하지 않는다.');
