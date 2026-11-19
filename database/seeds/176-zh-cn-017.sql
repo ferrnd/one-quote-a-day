@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When I let go of what I am, I become what I might be.', 'zh-CN',
      '当我放下我所是，我便成为我所能是。'),
     ('I can''t go back to yesterday because I was a different person then.', 'zh-CN',
-     '我回不到昨天了，因为那时的我是另一个人。');
+     '我回不到昨天了，因为那时的我是另一个人。'),
+    ('Real change, enduring change, happens one step at a time.', 'zh-CN',
+     '真正的改变、持久的改变，是一步一步发生的。');
