@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is not falling down but refusing to get up.', 'ko',
      '실패란 넘어지는 것이 아니라 일어서기를 거부하는 것이다.'),
     ('The successful man will profit from his mistakes and try again in a different way.', 'ko',
-     '성공하는 사람은 실수에서 이익을 얻고 다른 방식으로 다시 시도한다.');
+     '성공하는 사람은 실수에서 이익을 얻고 다른 방식으로 다시 시도한다.'),
+    ('Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.', 'ko',
+     '실패로부터 성공을 키워라. 낙담과 실패는 성공으로 가는 가장 확실한 두 디딤돌이다.');
