@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fall seven times, stand up eight.', 'ja',
      '七転び八起き。'),
     ('Our greatest glory is not in never falling, but in rising every time we fall.', 'ja',
-     '最大の栄光は一度も倒れないことではなく、倒れるたびに起き上がることにある。');
+     '最大の栄光は一度も倒れないことではなく、倒れるたびに起き上がることにある。'),
+    ('Energy and persistence conquer all things.', 'ja',
+     '気力と粘り強さは、すべてを征服する。');
