@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('With the new day comes new strength and new thoughts.', 'ko',
      '새로운 날과 함께 새로운 힘과 새로운 생각이 찾아온다.'),
     ('Our strength grows out of our weaknesses.', 'ko',
-     '우리의 강함은 우리의 약함에서 자라난다.');
+     '우리의 강함은 우리의 약함에서 자라난다.'),
+    ('Fortitude is the guard and support of the other virtues.', 'ko',
+     '굳센 의지는 다른 덕목들의 수호자이자 버팀목이다.');
