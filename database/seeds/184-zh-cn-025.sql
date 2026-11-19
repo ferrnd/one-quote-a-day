@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perhaps someday it will be pleasant to remember even this.', 'zh-CN',
      '也许有一天，就连回想起这些也会是愉快的。'),
     ('Endure, and preserve yourselves for better things.', 'zh-CN',
-     '忍耐吧，为了更美好的事物保全自己。');
+     '忍耐吧，为了更美好的事物保全自己。'),
+    ('Bear up, my heart; you have endured worse than this.', 'zh-CN',
+     '忍住吧，我的心；你曾忍受过比这更糟的事。');
