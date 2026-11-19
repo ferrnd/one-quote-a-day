@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you think you are beaten, you are.', 'zh-CN',
      '如果你认为自己被打败了，那你就是被打败了。'),
     ('Sooner or later the man who wins is the man who thinks he can.', 'zh-CN',
-     '迟早有一天，赢的是那个认为自己能赢的人。');
+     '迟早有一天，赢的是那个认为自己能赢的人。'),
+    ('We become what we think about.', 'zh-CN',
+     '我们会成为我们所想的样子。');
