@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Wise to resolve, and patient to perform.', 'zh-CN',
      '决断要明智，执行要耐心。'),
     ('I am extraordinarily patient, provided I get my own way in the end.', 'zh-CN',
-     '我非常有耐心，只要最后能如我所愿。');
+     '我非常有耐心，只要最后能如我所愿。'),
+    ('If you are patient in one moment of anger, you will escape a hundred days of sorrow.', 'zh-CN',
+     '忍一时之气，免百日之忧。');
