@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Some people dream of success, while other people get up every morning and make it happen.', 'ja',
      '成功を夢見るだけの人もいれば、毎朝起きてそれを実現させる人もいる。'),
     ('I have a dream.', 'ja',
-     '私には夢がある。');
+     '私には夢がある。'),
+    ('What is now proved was once only imagined.', 'ja',
+     '今は証明されていることも、かつては想像されただけのものだった。');
