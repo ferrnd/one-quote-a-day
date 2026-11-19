@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You miss 100% of the shots you don''t take.', 'ko',
      '던지지 않은 슛은 100퍼센트 빗나간다.'),
     ('Inspiration exists, but it has to find you working.', 'ko',
-     '영감은 존재한다. 하지만 그것은 당신이 일하고 있을 때 찾아와야 한다.');
+     '영감은 존재한다. 하지만 그것은 당신이 일하고 있을 때 찾아와야 한다.'),
+    ('Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world.', 'ko',
+     '행동 없는 비전은 꿈일 뿐이다. 비전 없는 행동은 시간만 보낼 뿐이다. 행동이 따르는 비전은 세상을 바꿀 수 있다.');
