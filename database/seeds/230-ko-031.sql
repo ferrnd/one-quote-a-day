@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You get in life what you have the courage to ask for.', 'ko',
      '인생에서 얻는 것은 당신이 요청할 용기를 낸 만큼이다.'),
     ('Success isn''t about how much money you make; it''s about the difference you make in people''s lives.', 'ko',
-     '성공은 얼마나 많은 돈을 버느냐가 아니라, 사람들의 삶에 얼마나 많은 변화를 가져오느냐에 관한 것이다.');
+     '성공은 얼마나 많은 돈을 버느냐가 아니라, 사람들의 삶에 얼마나 많은 변화를 가져오느냐에 관한 것이다.'),
+    ('There is no greater agony than bearing an untold story inside you.', 'ko',
+     '말하지 못한 이야기를 가슴속에 품고 사는 것보다 더 큰 고통은 없다.');
