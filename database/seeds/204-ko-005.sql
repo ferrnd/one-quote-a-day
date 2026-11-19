@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is the condiment that gives success its flavor.', 'ko',
      '실패는 성공에 맛을 더해 주는 양념이다.'),
     ('It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.', 'ko',
-     '무언가에 실패하지 않고 사는 것은 불가능하다. 차라리 살지 않은 것과 다름없을 만큼 조심스럽게 살지 않는 한은.');
+     '무언가에 실패하지 않고 사는 것은 불가능하다. 차라리 살지 않은 것과 다름없을 만큼 조심스럽게 살지 않는 한은.'),
+    ('Rock bottom became the solid foundation on which I rebuilt my life.', 'ko',
+     '바닥은 내가 삶을 다시 세운 단단한 토대가 되었다.');
