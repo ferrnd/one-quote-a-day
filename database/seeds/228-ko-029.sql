@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Tell me, what is it you plan to do with your one wild and precious life?', 'ko',
      '말해 보라, 단 한 번뿐인 거칠고도 소중한 당신의 삶으로 무엇을 할 계획인가?'),
     ('Two roads diverged in a wood, and I, I took the one less traveled by, and that has made all the difference.', 'ko',
-     '숲속에 두 갈래 길이 나 있었고, 나는 사람들이 덜 지나간 길을 택했다. 그리고 그것이 모든 것을 바꾸어 놓았다.');
+     '숲속에 두 갈래 길이 나 있었고, 나는 사람들이 덜 지나간 길을 택했다. 그리고 그것이 모든 것을 바꾸어 놓았다.'),
+    ('Not all those who wander are lost.', 'ko',
+     '방황하는 이가 모두 길을 잃은 것은 아니다.');
