@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Amateurs sit and wait for inspiration, the rest of us just get up and go to work.', 'ja',
      '素人は座ってひらめきを待つ。それ以外の私たちは、ただ起きて仕事に取りかかる。'),
     ('The more I practice, the luckier I get.', 'ja',
-     '練習すればするほど、私は運が良くなる。');
+     '練習すればするほど、私は運が良くなる。'),
+    ('Do not wait to strike till the iron is hot; but make it hot by striking.', 'ja',
+     '鉄が熱くなるまで打つのを待つな。打つことで熱くせよ。');
