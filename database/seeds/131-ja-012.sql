@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fortitude is the guard and support of the other virtues.', 'ja',
      '不屈の精神は、ほかの美徳を守り支えるものである。'),
     ('I am no bird; and no net ensnares me: I am a free human being with an independent will.', 'ja',
-     '私は鳥ではない。どんな網も私を捕らえはしない。私は独立した意志を持つ自由な人間だ。');
+     '私は鳥ではない。どんな網も私を捕らえはしない。私は独立した意志を持つ自由な人間だ。'),
+    ('My mission in life is not merely to survive, but to thrive.', 'ja',
+     '私の人生の使命は、ただ生き延びることではなく、豊かに生きることだ。');
