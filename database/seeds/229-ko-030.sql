@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life can only be understood backwards; but it must be lived forwards.', 'ko',
      '인생은 뒤돌아볼 때만 이해할 수 있지만, 앞을 향해 살아가야 한다.'),
     ('Beginnings are always messy.', 'ko',
-     '시작은 언제나 엉망이다.');
+     '시작은 언제나 엉망이다.'),
+    ('Vision is the art of seeing what is invisible to others.', 'ko',
+     '비전이란 남들에게 보이지 않는 것을 보는 기술이다.');
