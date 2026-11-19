@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perhaps someday it will be pleasant to remember even this.', 'ja',
      'いつの日か、このことさえも楽しく思い出せるだろう。'),
     ('Endure, and preserve yourselves for better things.', 'ja',
-     '耐えよ。そして、より良き日のために自らを守れ。');
+     '耐えよ。そして、より良き日のために自らを守れ。'),
+    ('Bear up, my heart; you have endured worse than this.', 'ja',
+     '耐えよ、わが心よ。お前はこれよりもひどいことに耐えてきたではないか。');
