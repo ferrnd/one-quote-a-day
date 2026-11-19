@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One day, in retrospect, the years of struggle will strike you as the most beautiful.', 'zh-CN',
      '有一天回首往事，你会觉得那些奋斗的岁月是最美好的。'),
     ('In the end, everything will be okay. If it''s not okay, it''s not yet the end.', 'zh-CN',
-     '最后一切都会好起来的。如果还没好，说明还没到最后。');
+     '最后一切都会好起来的。如果还没好，说明还没到最后。'),
+    ('Hope is the companion of power, and mother of success.', 'zh-CN',
+     '希望是力量的伴侣，也是成功之母。');
