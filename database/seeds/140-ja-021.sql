@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Doing the best at this moment puts you in the best place for the next moment.', 'ja',
      'この瞬間に最善を尽くせば、次の瞬間に最善の場所にいられる。'),
     ('The future starts today, not tomorrow.', 'ja',
-     '未来は明日ではなく、今日始まる。');
+     '未来は明日ではなく、今日始まる。'),
+    ('Whether you think you can, or you think you can''t, you''re right.', 'ja',
+     'できると思ってもできないと思っても、どちらも正しい。');
