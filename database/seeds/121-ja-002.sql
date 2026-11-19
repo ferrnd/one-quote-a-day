@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience, persistence and perspiration make an unbeatable combination for success.', 'ja',
      '忍耐、粘り強さ、そして汗。これこそが成功への無敵の組み合わせだ。'),
     ('A champion is someone who gets up when he can''t.', 'ja',
-     'チャンピオンとは、もう立てないときに立ち上がる者のことだ。');
+     'チャンピオンとは、もう立てないときに立ち上がる者のことだ。'),
+    ('Never give in. Never, never, never, never.', 'ja',
+     '決して屈するな。決して、決して、決して、決して。');
