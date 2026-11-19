@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Tough times never last, but tough people do.', 'ko',
      '힘든 시기는 오래가지 않지만, 강한 사람은 오래간다.'),
     ('Where there is no struggle, there is no strength.', 'ko',
-     '투쟁이 없는 곳에는 힘도 없다.');
+     '투쟁이 없는 곳에는 힘도 없다.'),
+    ('Turn your wounds into wisdom.', 'ko',
+     '당신의 상처를 지혜로 바꾸어라.');
