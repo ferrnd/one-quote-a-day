@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I dwell in possibility.', 'ja',
      '私は可能性の中に住んでいる。'),
     ('It is our choices that show what we truly are, far more than our abilities.', 'ja',
-     '自分が本当は何者かを示すのは、能力よりも、自分の選択なのじゃよ。');
+     '自分が本当は何者かを示すのは、能力よりも、自分の選択なのじゃよ。'),
+    ('Look up at the stars and not down at your feet.', 'ja',
+     '足もとではなく、星を見上げなさい。');
