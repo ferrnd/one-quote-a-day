@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no coming to consciousness without pain.', 'ko',
      '고통 없이 의식에 이르는 일은 없다.'),
     ('It''s what you learn after you know it all that counts.', 'ko',
-     '중요한 것은 모든 것을 안다고 생각한 뒤에 무엇을 배우느냐다.');
+     '중요한 것은 모든 것을 안다고 생각한 뒤에 무엇을 배우느냐다.'),
+    ('Our business in life is not to get ahead of others, but to get ahead of ourselves.', 'ko',
+     '인생에서 우리가 할 일은 남보다 앞서는 것이 아니라 어제의 나보다 앞서는 것이다.');
