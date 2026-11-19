@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope smiles from the threshold of the year to come, whispering ''it will be happier''.', 'ja',
      '希望は来たる年の入り口から微笑み、「もっと幸せになるよ」とささやく。'),
     ('To live without hope is to cease to live.', 'ja',
-     '希望なしに生きることは、生きることをやめることだ。');
+     '希望なしに生きることは、生きることをやめることだ。'),
+    ('In all things it is better to hope than to despair.', 'ja',
+     '何事においても、絶望するより希望を持つほうがいい。');
