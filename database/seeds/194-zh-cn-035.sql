@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wish to be anything but what you are, and try to be that perfectly.', 'zh-CN',
      '除了你本来的样子，不要希望成为任何别的样子，并努力把它做到完美。'),
     ('No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.', 'zh-CN',
-     '除了我们自己，没有人能拯救我们。没有人能，也没有人可以。我们必须自己走这条路。');
+     '除了我们自己，没有人能拯救我们。没有人能，也没有人可以。我们必须自己走这条路。'),
+    ('Power is not given to you. You have to take it.', 'zh-CN',
+     '权力不是别人给你的，你必须自己去争取。');
