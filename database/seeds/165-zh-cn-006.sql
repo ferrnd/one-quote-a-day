@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You may have to fight a battle more than once to win it.', 'zh-CN',
      '你可能要把同一场仗打不止一次，才能赢得它。'),
     ('Failure isn''t fatal, but failure to change might be.', 'zh-CN',
-     '失败不是致命的，但不肯改变可能是。');
+     '失败不是致命的，但不肯改变可能是。'),
+    ('If you learn from defeat, you haven''t really lost.', 'zh-CN',
+     '如果你从失败中学到了东西，你就没有真正输掉。');
