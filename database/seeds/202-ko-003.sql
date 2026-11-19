@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only those who will risk going too far can possibly find out how far one can go.', 'ko',
      '너무 멀리 갈 위험을 무릅쓰는 사람만이 인간이 얼마나 멀리 갈 수 있는지 알 수 있다.'),
     ('Fortune favors the bold.', 'ko',
-     '행운은 용감한 자의 편이다.');
+     '행운은 용감한 자의 편이다.'),
+    ('Courage is found in unlikely places.', 'ko',
+     '용기는 뜻밖의 곳에서 발견된다.');
