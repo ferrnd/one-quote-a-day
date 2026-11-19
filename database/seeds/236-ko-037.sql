@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A goal properly set is halfway reached.', 'ko',
      '제대로 세운 목표는 이미 절반은 이룬 것이다.'),
     ('Things do not happen. Things are made to happen.', 'ko',
-     '일은 저절로 일어나지 않는다. 일은 일어나게 만드는 것이다.');
+     '일은 저절로 일어나지 않는다. 일은 일어나게 만드는 것이다.'),
+    ('Eighty percent of success is showing up.', 'ko',
+     '성공의 80퍼센트는 그 자리에 나타나는 것이다.');
