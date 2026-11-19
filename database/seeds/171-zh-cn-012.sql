@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength does not come from winning. Your struggles develop your strengths.', 'zh-CN',
      '力量并非来自胜利。是你的挣扎造就了你的力量。'),
     ('Strength is a matter of the made-up mind.', 'zh-CN',
-     '力量来自下定决心的心。');
+     '力量来自下定决心的心。'),
+    ('I am the master of my fate, I am the captain of my soul.', 'zh-CN',
+     '我是我命运的主宰，我是我灵魂的统帅。');
