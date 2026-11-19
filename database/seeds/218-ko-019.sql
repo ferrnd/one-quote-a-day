@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Action is the foundational key to all success.', 'ko',
      '행동은 모든 성공의 근본적인 열쇠다.'),
     ('You don''t have to be great to start, but you have to start to be great.', 'ko',
-     '시작하기 위해 대단할 필요는 없지만, 대단해지기 위해서는 시작해야 한다.');
+     '시작하기 위해 대단할 필요는 없지만, 대단해지기 위해서는 시작해야 한다.'),
+    ('The way to get started is to quit talking and begin doing.', 'ko',
+     '시작하는 방법은 말을 멈추고 행동을 시작하는 것이다.');
