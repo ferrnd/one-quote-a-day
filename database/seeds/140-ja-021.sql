@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The future starts today, not tomorrow.', 'ja',
      '未来は明日ではなく、今日始まる。'),
     ('Whether you think you can, or you think you can''t, you''re right.', 'ja',
-     'できると思ってもできないと思っても、どちらも正しい。');
+     'できると思ってもできないと思っても、どちらも正しい。'),
+    ('Believe you can and you''re halfway there.', 'ja',
+     'できると信じれば、もう半分は達成したようなものだ。');
