@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you''re always trying to be normal, you will never know how amazing you can be.', 'ja',
      'いつも普通であろうとしていたら、自分がどれほどすばらしくなれるか決して知ることはないでしょう。'),
     ('Why, sometimes I''ve believed as many as six impossible things before breakfast.', 'ja',
-     'だって、朝食前に不可能なことを六つも信じたことがあるくらいですもの。');
+     'だって、朝食前に不可能なことを六つも信じたことがあるくらいですもの。'),
+    ('The worst enemy to creativity is self-doubt.', 'ja',
+     '創造性の最大の敵は、自分への疑いである。');
