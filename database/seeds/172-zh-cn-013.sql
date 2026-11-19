@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Discipline is the bridge between goals and accomplishment.', 'zh-CN',
      '自律是连接目标与成就的桥梁。'),
     ('We must all suffer one of two things: the pain of discipline or the pain of regret.', 'zh-CN',
-     '我们都必须承受两种痛苦之一：自律的痛苦，或者后悔的痛苦。');
+     '我们都必须承受两种痛苦之一：自律的痛苦，或者后悔的痛苦。'),
+    ('Motivation is what gets you started. Habit is what keeps you going.', 'zh-CN',
+     '动力让你开始，习惯让你坚持。');
