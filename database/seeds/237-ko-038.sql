@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.', 'ko',
      '비관론자는 바람을 불평하고, 낙관론자는 바람이 바뀌기를 기대하며, 현실주의자는 돛을 조정한다.'),
     ('Optimism is essential to achievement and it is also the foundation of courage and true progress.', 'ko',
-     '낙관주의는 성취에 필수적이며, 용기와 진정한 진보의 토대이기도 하다.');
+     '낙관주의는 성취에 필수적이며, 용기와 진정한 진보의 토대이기도 하다.'),
+    ('You are what you believe yourself to be.', 'ko',
+     '당신은 스스로 믿는 그대로의 사람이다.');
