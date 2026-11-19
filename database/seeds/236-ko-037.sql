@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the long run, we shape our lives, and we shape ourselves.', 'ko',
      '결국 우리는 우리의 삶을 만들고, 우리 자신을 만든다.'),
     ('Out of adversity comes opportunity.', 'ko',
-     '역경에서 기회가 나온다.');
+     '역경에서 기회가 나온다.'),
+    ('Adversity has ever been considered the state in which a man most easily becomes acquainted with himself.', 'ko',
+     '역경은 언제나 사람이 자기 자신을 가장 쉽게 알게 되는 상태로 여겨져 왔다.');
