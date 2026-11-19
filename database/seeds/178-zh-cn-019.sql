@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The tougher the battle, the sweeter the victory.', 'zh-CN',
      '战斗越艰难，胜利越甜美。'),
     ('Sweet are the uses of adversity.', 'zh-CN',
-     '逆境的用处是甜美的。');
+     '逆境的用处是甜美的。'),
+    ('Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.', 'zh-CN',
+     '每一次逆境、每一次失败、每一次心痛，都带着同等或更大益处的种子。');
