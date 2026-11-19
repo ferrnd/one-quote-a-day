@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In spite of everything I still believe that people are really good at heart.', 'ja',
      'それでもなお、私は人間の本性は善だと信じている。'),
     ('Think of all the beauty still left around you and be happy.', 'ja',
-     'まだあなたのまわりに残っているすべての美しいものを思い浮かべて、幸せでいなさい。');
+     'まだあなたのまわりに残っているすべての美しいものを思い浮かべて、幸せでいなさい。'),
+    ('It is often in the darkest skies that we see the brightest stars.', 'ja',
+     '最も暗い空にこそ、最も明るい星が見えることが多い。');
