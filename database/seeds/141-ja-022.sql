@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.', 'ja',
      '心の中で「お前には絵が描けない」という声が聞こえたら、なんとしても描きなさい。そうすればその声は黙るだろう。'),
     ('Whatever the mind of man can conceive and believe, it can achieve.', 'ja',
-     '人の心が思い描き、信じることができるものは、何でも実現できる。');
+     '人の心が思い描き、信じることができるものは、何でも実現できる。'),
+    ('The man who has confidence in himself gains the confidence of others.', 'ja',
+     '自分を信じる人は、他人の信頼も得る。');
