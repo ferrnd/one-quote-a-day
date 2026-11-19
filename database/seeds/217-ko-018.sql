@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sometimes adversity is what you need to face in order to become successful.', 'ko',
      '때로는 성공하기 위해 역경과 마주해야 한다.'),
     ('Hard times don''t create heroes. It is during the hard times when the hero within us is revealed.', 'ko',
-     '힘든 시기가 영웅을 만드는 것이 아니다. 힘든 시기에 우리 안의 영웅이 드러나는 것이다.');
+     '힘든 시기가 영웅을 만드는 것이 아니다. 힘든 시기에 우리 안의 영웅이 드러나는 것이다.'),
+    ('Mountains cannot be surmounted except by winding paths.', 'ko',
+     '산은 굽이진 길을 통해서만 넘을 수 있다.');
