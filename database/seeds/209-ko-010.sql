@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The very least you can do in your life is figure out what you hope for.', 'ko',
      '인생에서 최소한 할 수 있는 일은 자신이 무엇을 바라는지 알아내는 것이다.'),
     ('There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something better tomorrow.', 'ko',
-     '내일은 더 나아지리라는 기대만큼 좋은 약도, 큰 자극도, 강한 활력제도 없다.');
+     '내일은 더 나아지리라는 기대만큼 좋은 약도, 큰 자극도, 강한 활력제도 없다.'),
+    ('Hope is the pillar that holds up the world.', 'ko',
+     '희망은 세상을 떠받치는 기둥이다.');
