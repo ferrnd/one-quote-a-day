@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grow old along with me! The best is yet to be.', 'ja',
      '私と共に年をとろう。最良の時はこれから来るのだから。'),
     ('Isn''t it nice to think that tomorrow is a new day with no mistakes in it yet?', 'ja',
-     '明日はまだ何の失敗もしていない新しい日だと思うと、すてきじゃない？');
+     '明日はまだ何の失敗もしていない新しい日だと思うと、すてきじゃない？'),
+    ('After all, tomorrow is another day.', 'ja',
+     '結局、明日は明日の風が吹くのだから。');
