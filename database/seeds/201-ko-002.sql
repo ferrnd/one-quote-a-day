@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience, persistence and perspiration make an unbeatable combination for success.', 'ko',
      '인내, 끈기, 그리고 땀은 성공을 위한 무적의 조합이다.'),
     ('A champion is someone who gets up when he can''t.', 'ko',
-     '챔피언이란 일어설 수 없을 때 일어서는 사람이다.');
+     '챔피언이란 일어설 수 없을 때 일어서는 사람이다.'),
+    ('Never give in. Never, never, never, never.', 'ko',
+     '절대 굴복하지 마라. 절대, 절대, 절대, 절대로.');
