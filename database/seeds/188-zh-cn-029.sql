@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.', 'zh-CN',
      '你的脑袋里有头脑，你的鞋子里有双脚。你可以把自己引向任何你选择的方向。'),
     ('Unless someone like you cares a whole awful lot, nothing is going to get better. It''s not.', 'zh-CN',
-     '除非有像你这样的人真心实意地在乎，否则什么都不会变好。不会的。');
+     '除非有像你这样的人真心实意地在乎，否则什么都不会变好。不会的。'),
+    ('Tell me, what is it you plan to do with your one wild and precious life?', 'zh-CN',
+     '告诉我，你打算怎样度过你这狂野而珍贵的一生？');
