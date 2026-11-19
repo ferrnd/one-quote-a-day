@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'ja',
      '勇敢になれないときにできる最も勇敢なことは、勇気を口にし、それにふさわしく行動することだ。'),
     ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'ja',
-     '勇気とは、怖いと思うことをやることだ。怖くなければ、勇気もありえない。');
+     '勇気とは、怖いと思うことをやることだ。怖くなければ、勇気もありえない。'),
+    ('Fortune and love favor the brave.', 'ja',
+     '幸運と愛は、勇者に味方する。');
