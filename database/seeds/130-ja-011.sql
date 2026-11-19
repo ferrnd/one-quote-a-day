@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.', 'ja',
      '外のことに悩まされるなら、その苦しみは物事そのものではなく、あなたの見方から来ている。そしてその見方は、いつでも取り消すことができる。'),
     ('Waste no more time arguing about what a good man should be. Be one.', 'ja',
-     '善い人間とはどうあるべきかを論じて、これ以上時間を無駄にするな。善い人間であれ。');
+     '善い人間とはどうあるべきかを論じて、これ以上時間を無駄にするな。善い人間であれ。'),
+    ('Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.', 'ja',
+     '波が絶えず打ち寄せる岬のようであれ。岬は揺るがずに立ち、周りの水の怒りを鎮める。');
