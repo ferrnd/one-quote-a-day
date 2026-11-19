@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Never confuse a single defeat with a final defeat.', 'ja',
      '一度の敗北を、最後の敗北と混同してはならない。'),
     ('Do not be embarrassed by your failures, learn from them and start again.', 'ja',
-     '失敗を恥じることはない。そこから学び、また始めればいい。');
+     '失敗を恥じることはない。そこから学び、また始めればいい。'),
+    ('Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.', 'ja',
+     '苦しみの中から最も強い魂が生まれた。最も偉大な人格には、傷跡が刻まれている。');
