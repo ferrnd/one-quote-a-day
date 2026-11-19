@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is how high you bounce when you hit bottom.', 'zh-CN',
      '成功就是你跌到谷底时能反弹多高。'),
     ('Don''t let the fear of losing be greater than the excitement of winning.', 'zh-CN',
-     '不要让对失败的恐惧大于对胜利的兴奋。');
+     '不要让对失败的恐惧大于对胜利的兴奋。'),
+    ('We learn from failure, not from success!', 'zh-CN',
+     '我们从失败中学习，而不是从成功中学习！');
