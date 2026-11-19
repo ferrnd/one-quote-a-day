@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not judge me by my success, judge me by how many times I fell down and got back up again.', 'ja',
      '私を成功で判断しないでほしい。何度倒れ、何度立ち上がったかで判断してほしい。'),
     ('Failure should be our teacher, not our undertaker.', 'ja',
-     '失敗は私たちの教師であるべきで、葬儀屋であってはならない。');
+     '失敗は私たちの教師であるべきで、葬儀屋であってはならない。'),
+    ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'ja',
+     '夢の実現を不可能にするものはただ一つ、失敗への恐れである。');
