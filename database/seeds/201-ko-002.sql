@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Genius is one percent inspiration and ninety-nine percent perspiration.', 'ko',
      '천재는 1퍼센트의 영감과 99퍼센트의 노력으로 이루어진다.'),
     ('The harder the conflict, the more glorious the triumph.', 'ko',
-     '싸움이 힘들수록 승리는 더 영광스럽다.');
+     '싸움이 힘들수록 승리는 더 영광스럽다.'),
+    ('Persistence guarantees that results are inevitable.', 'ko',
+     '끈기가 있으면 결과는 반드시 따라온다.');
