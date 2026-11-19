@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes.', 'zh-CN',
      '失败是有教益的。真正会思考的人，从失败中学到的和从成功中学到的一样多。'),
     ('Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.', 'zh-CN',
-     '我们最大的弱点在于放弃。最确定的成功之道，永远是再试一次。');
+     '我们最大的弱点在于放弃。最确定的成功之道，永远是再试一次。'),
+    ('Good people are good because they''ve come to wisdom through failure.', 'zh-CN',
+     '好人之所以好，是因为他们经由失败获得了智慧。');
