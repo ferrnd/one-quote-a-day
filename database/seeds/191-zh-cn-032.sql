@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t climb the ladder of success with your hands in your pockets.', 'zh-CN',
      '手插在口袋里，你是爬不上成功的阶梯的。'),
     ('Today''s accomplishments were yesterday''s impossibilities.', 'zh-CN',
-     '今天的成就，是昨天的不可能。');
+     '今天的成就，是昨天的不可能。'),
+    ('Nothing is particularly hard if you divide it into small jobs.', 'zh-CN',
+     '如果把事情分成一个个小任务，就没有什么特别难的。');
