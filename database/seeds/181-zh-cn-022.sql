@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perpetual optimism is a force multiplier.', 'zh-CN',
      '永远的乐观是力量的倍增器。'),
     ('If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.', 'zh-CN',
-     '如果你内心有个声音说你不会画画，那就无论如何都要去画，那个声音自然会沉默。');
+     '如果你内心有个声音说你不会画画，那就无论如何都要去画，那个声音自然会沉默。'),
+    ('Whatever the mind of man can conceive and believe, it can achieve.', 'zh-CN',
+     '人的头脑能够构想并相信的，就一定能够实现。');
