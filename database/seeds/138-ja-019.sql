@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The pain passes, but the beauty remains.', 'ja',
      '痛みは過ぎ去るが、美は残る。'),
     ('Things turn out best for the people who make the best of the way things turn out.', 'ja',
-     '物事が最もうまくいくのは、起きたことを最大限に生かす人のところだ。');
+     '物事が最もうまくいくのは、起きたことを最大限に生かす人のところだ。'),
+    ('Now is no time to think of what you do not have. Think of what you can do with what there is.', 'ja',
+     '今は持っていないもののことを考えるときではない。今あるもので何ができるかを考えるときだ。');
