@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I thank whatever gods may be for my unconquerable soul.', 'ko',
      '어떤 신들이 있든, 나에게 정복당하지 않는 영혼을 주신 것에 감사한다.'),
     ('A hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.', 'ko',
-     '영웅이란 압도적인 장애물에도 불구하고 버티고 견딜 힘을 찾아내는 평범한 사람이다.');
+     '영웅이란 압도적인 장애물에도 불구하고 버티고 견딜 힘을 찾아내는 평범한 사람이다.'),
+    ('What lies behind us and what lies before us are tiny matters compared to what lies within us.', 'ko',
+     '우리 뒤에 있는 것과 우리 앞에 있는 것은 우리 안에 있는 것에 비하면 아주 작은 문제다.');
