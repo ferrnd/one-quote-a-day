@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When you arise in the morning, think of what a precious privilege it is to be alive.', 'zh-CN',
      '早晨起床时，想一想活着是多么宝贵的特权。'),
     ('It is not that we have a short time to live, but that we waste a lot of it.', 'zh-CN',
-     '不是我们的生命太短，而是我们浪费了太多。');
+     '不是我们的生命太短，而是我们浪费了太多。'),
+    ('While we wait for life, life passes.', 'zh-CN',
+     '当我们等待生活时，生活就过去了。');
