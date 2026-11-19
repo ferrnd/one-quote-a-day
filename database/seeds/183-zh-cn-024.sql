@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One moment of patience may ward off great disaster. One moment of impatience may ruin a whole life.', 'zh-CN',
      '一时的忍耐可以避免大祸，一时的急躁可能毁掉一生。'),
     ('Patience is not simply the ability to wait; it''s how we behave while we''re waiting.', 'zh-CN',
-     '耐心不仅仅是等待的能力，更是我们在等待时如何表现。');
+     '耐心不仅仅是等待的能力，更是我们在等待时如何表现。'),
+    ('Rome wasn''t built in a day.', 'zh-CN',
+     '罗马不是一天建成的。');
