@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the best you can until you know better. Then when you know better, do better.', 'ko',
      '더 잘 알게 될 때까지는 최선을 다하라. 그리고 더 잘 알게 되면 더 잘하라.'),
     ('The beautiful thing about learning is that no one can take it away from you.', 'ko',
-     '배움의 아름다운 점은 아무도 그것을 당신에게서 빼앗아 갈 수 없다는 것이다.');
+     '배움의 아름다운 점은 아무도 그것을 당신에게서 빼앗아 갈 수 없다는 것이다.'),
+    ('Education is the most powerful weapon which you can use to change the world.', 'ko',
+     '교육은 세상을 바꾸는 데 쓸 수 있는 가장 강력한 무기다.');
