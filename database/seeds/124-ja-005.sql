@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only those who dare to fail greatly can ever achieve greatly.', 'ja',
      '大きく失敗する勇気のある者だけが、大きなことを成し遂げられる。'),
     ('Failure is the condiment that gives success its flavor.', 'ja',
-     '失敗は、成功に味わいを添える調味料だ。');
+     '失敗は、成功に味わいを添える調味料だ。'),
+    ('It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.', 'ja',
+     '何かに失敗せずに生きることは不可能だ。生きなかったのと同じくらい慎重に生きるのでもない限りは。');
