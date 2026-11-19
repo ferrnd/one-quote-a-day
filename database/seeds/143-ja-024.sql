@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is not simply the ability to wait; it''s how we behave while we''re waiting.', 'ja',
      '忍耐とは、ただ待つ力のことではない。待っている間にどうふるまうかのことだ。'),
     ('Rome wasn''t built in a day.', 'ja',
-     'ローマは一日にして成らず。');
+     'ローマは一日にして成らず。'),
+    ('Everything comes gradually and at its appointed hour.', 'ja',
+     'すべては少しずつ、定められた時にやってくる。');
