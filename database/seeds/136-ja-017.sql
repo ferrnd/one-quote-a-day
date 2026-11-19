@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can''t go back to yesterday because I was a different person then.', 'ja',
      '昨日には戻れないわ。だってあのときの私は別人だったんだもの。'),
     ('Real change, enduring change, happens one step at a time.', 'ja',
-     '本当の変化、長く続く変化は、一歩ずつ起こるものだ。');
+     '本当の変化、長く続く変化は、一歩ずつ起こるものだ。'),
+    ('I was taught that the way of progress was neither swift nor easy.', 'ja',
+     '進歩の道は速くも楽でもないと、私は教えられた。');
