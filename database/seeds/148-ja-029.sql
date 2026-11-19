@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('To accomplish great things we must not only act, but also dream; not only plan, but also believe.', 'ja',
-     '偉大なことを成し遂げるには、行動するだけでなく夢を見なければならない。計画するだけでなく信じなければならない。');
+     '偉大なことを成し遂げるには、行動するだけでなく夢を見なければならない。計画するだけでなく信じなければならない。'),
+    ('Follow your bliss and the universe will open doors where there were only walls.', 'ja',
+     '至福に従え。そうすれば宇宙は、壁しかなかった場所に扉を開いてくれる。');
