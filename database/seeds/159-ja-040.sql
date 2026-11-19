@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.', 'ja',
      '一度味わった喜びを、失うことは決してない。深く愛したものはすべて、私たちの一部になる。'),
     ('Happiness is not a goal; it is a by-product.', 'ja',
-     '幸福は目標ではない。副産物である。');
+     '幸福は目標ではない。副産物である。'),
+    ('The purpose of life is to live it, to taste experience to the utmost.', 'ja',
+     '人生の目的は、それを生きること、経験を心ゆくまで味わうことだ。');
