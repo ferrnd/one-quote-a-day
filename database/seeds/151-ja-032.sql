@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Today''s accomplishments were yesterday''s impossibilities.', 'ja',
      '今日の成果は、昨日の不可能だった。'),
     ('Nothing is particularly hard if you divide it into small jobs.', 'ja',
-     '小さな仕事に分ければ、特別に難しいことなど何もない。');
+     '小さな仕事に分ければ、特別に難しいことなど何もない。'),
+    ('Perseverance and spirit have done wonders in all ages.', 'ja',
+     '忍耐と気概は、いつの時代にも奇跡を起こしてきた。');
