@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t wait for inspiration. You have to go after it with a club.', 'ja',
      'ひらめきを待っていてはいけない。棍棒を持って追いかけなければならない。'),
     ('Go for it now. The future is promised to no one.', 'ja',
-     '今やりなさい。未来は誰にも約束されていない。');
+     '今やりなさい。未来は誰にも約束されていない。'),
+    ('Doing the best at this moment puts you in the best place for the next moment.', 'ja',
+     'この瞬間に最善を尽くせば、次の瞬間に最善の場所にいられる。');
