@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not be embarrassed by your failures, learn from them and start again.', 'ko',
      '실패를 부끄러워하지 마라. 그것에서 배우고 다시 시작하라.'),
     ('Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.', 'ko',
-     '고통 속에서 가장 강한 영혼이 태어났다. 가장 거대한 인격에는 흉터가 새겨져 있다.');
+     '고통 속에서 가장 강한 영혼이 태어났다. 가장 거대한 인격에는 흉터가 새겨져 있다.'),
+    ('The oak fought the wind and was broken, the willow bent when it must and survived.', 'ko',
+     '참나무는 바람과 싸우다 부러졌고, 버드나무는 굽혀야 할 때 굽혀서 살아남았다.');
