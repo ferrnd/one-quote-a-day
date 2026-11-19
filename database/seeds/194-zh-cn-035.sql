@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not afraid; I was born to do this.', 'zh-CN',
      '我不害怕，我生来就是为了做这件事。'),
     ('Self-control is strength. Right thought is mastery. Calmness is power.', 'zh-CN',
-     '自制是力量，正确的思想是掌控，平静是能量。');
+     '自制是力量，正确的思想是掌控，平静是能量。'),
+    ('The greatest weapon against stress is our ability to choose one thought over another.', 'zh-CN',
+     '对抗压力最好的武器，是我们选择这个想法而不是那个想法的能力。');
