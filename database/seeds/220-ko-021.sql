@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('How wonderful it is that nobody need wait a single moment before starting to improve the world.', 'ko',
      '세상을 더 낫게 만드는 일을 시작하기 위해 누구도 단 한순간도 기다릴 필요가 없다니 얼마나 멋진 일인가.'),
     ('One person can make a difference, and everyone should try.', 'ko',
-     '한 사람이 변화를 만들 수 있다. 그리고 모두가 시도해야 한다.');
+     '한 사람이 변화를 만들 수 있다. 그리고 모두가 시도해야 한다.'),
+    ('We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.', 'ko',
+     '우리는 이 10년 안에 달에 가기로, 그리고 다른 일들을 하기로 선택했다. 그것이 쉬워서가 아니라 어렵기 때문이다.');
