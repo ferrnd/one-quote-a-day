@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard work is a prison sentence only if it does not have meaning.', 'ja',
      '努力が懲役刑になるのは、そこに意味がないときだけだ。'),
     ('We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.', 'ja',
-     '私たちは正しい行いをすることで正しい人になり、節度ある行いをすることで節度ある人になり、勇敢な行いをすることで勇敢な人になる。');
+     '私たちは正しい行いをすることで正しい人になり、節度ある行いをすることで節度ある人になり、勇敢な行いをすることで勇敢な人になる。'),
+    ('Never mistake activity for achievement.', 'ja',
+     '活動していることを、達成したことと決して取り違えるな。');
