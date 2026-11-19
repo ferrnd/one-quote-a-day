@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('While I breathe, I hope.', 'zh-CN',
      '只要我还在呼吸，我就怀有希望。'),
     ('Every day may not be good, but there''s something good in every day.', 'zh-CN',
-     '也许不是每一天都美好，但每一天都有美好的东西。');
+     '也许不是每一天都美好，但每一天都有美好的东西。'),
+    ('In the depth of winter, I finally learned that within me there lay an invincible summer.', 'zh-CN',
+     '在隆冬时节，我终于明白，我的心中有一个不可战胜的夏天。');
