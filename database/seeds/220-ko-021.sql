@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t wait for inspiration. You have to go after it with a club.', 'ko',
      '영감을 기다릴 수는 없다. 몽둥이를 들고 쫓아가야 한다.'),
     ('Go for it now. The future is promised to no one.', 'ko',
-     '지금 하라. 미래는 누구에게도 약속되어 있지 않다.');
+     '지금 하라. 미래는 누구에게도 약속되어 있지 않다.'),
+    ('Doing the best at this moment puts you in the best place for the next moment.', 'ko',
+     '이 순간 최선을 다하면 다음 순간 최선의 자리에 있게 된다.');
