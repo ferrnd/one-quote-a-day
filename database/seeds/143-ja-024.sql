@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our patience will achieve more than our force.', 'ja',
      '私たちの忍耐は、力よりも多くを成し遂げるだろう。'),
     ('How poor are they that have not patience! What wound did ever heal but by degrees?', 'ja',
-     '忍耐を持たぬ者のなんと貧しいことか。少しずつでなく癒えた傷などあっただろうか。');
+     '忍耐を持たぬ者のなんと貧しいことか。少しずつでなく癒えた傷などあっただろうか。'),
+    ('Patience is the art of hoping.', 'ja',
+     '忍耐とは、希望する技術である。');
