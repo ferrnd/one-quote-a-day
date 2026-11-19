@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Confidence comes not from always being right but from not fearing to be wrong.', 'ja',
      '自信は、いつも正しくあることからではなく、間違うことを恐れないことから生まれる。'),
     ('If you want to lift yourself up, lift up someone else.', 'ja',
-     '自分を高めたいなら、誰かを高めなさい。');
+     '自分を高めたいなら、誰かを高めなさい。'),
+    ('Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.', 'ja',
+     '成功は、人生で到達した地位よりも、乗り越えてきた障害によって測られるべきだ。');
