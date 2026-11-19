@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is not the opposite of success; it''s part of success.', 'zh-CN',
      '失败不是成功的反面，而是成功的一部分。'),
     ('You build on failure. You use it as a stepping stone.', 'zh-CN',
-     '在失败之上建造，把它当作垫脚石。');
+     '在失败之上建造，把它当作垫脚石。'),
+    ('A man of genius makes no mistakes. His errors are volitional and are the portals of discovery.', 'zh-CN',
+     '天才不会犯错。他的错误都是有意为之，是通往发现的大门。');
