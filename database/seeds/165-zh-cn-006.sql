@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.', 'zh-CN',
      '我们最大的弱点在于放弃。最确定的成功之道，永远是再试一次。'),
     ('Good people are good because they''ve come to wisdom through failure.', 'zh-CN',
-     '好人之所以好，是因为他们经由失败获得了智慧。');
+     '好人之所以好，是因为他们经由失败获得了智慧。'),
+    ('The greatest mistake you can make in life is to be continually fearing you will make one.', 'zh-CN',
+     '人生中你可能犯的最大错误，就是不断担心自己会犯错。');
