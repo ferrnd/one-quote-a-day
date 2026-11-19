@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am extraordinarily patient, provided I get my own way in the end.', 'ja',
      '私は並外れて忍耐強い。最後に自分の思いどおりになるならば。'),
     ('If you are patient in one moment of anger, you will escape a hundred days of sorrow.', 'ja',
-     '一時の怒りを忍べば、百日の悲しみを免れる。');
+     '一時の怒りを忍べば、百日の悲しみを免れる。'),
+    ('Patience is the support of weakness; impatience the ruin of strength.', 'ja',
+     '忍耐は弱さの支えとなり、短気は強さを滅ぼす。');
