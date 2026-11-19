@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ability may get you to the top, but it takes character to keep you there.', 'ko',
      '능력은 당신을 정상에 올려놓을 수 있지만, 그곳에 머물게 하는 것은 인격이다.'),
     ('When there is no enemy within, the enemies outside cannot hurt you.', 'ko',
-     '안에 적이 없으면 밖의 적은 당신을 해칠 수 없다.');
+     '안에 적이 없으면 밖의 적은 당신을 해칠 수 없다.'),
+    ('Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.', 'ko',
+     '우리의 가장 깊은 두려움은 우리가 부족하다는 것이 아니다. 우리의 가장 깊은 두려움은 우리가 헤아릴 수 없을 만큼 강하다는 것이다.');
