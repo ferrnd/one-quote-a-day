@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The dreamers are the saviors of the world.', 'zh-CN',
      '梦想家是世界的救星。'),
     ('Dream lofty dreams, and as you dream, so shall you become.', 'zh-CN',
-     '怀抱崇高的梦想，你梦想成为什么，就会成为什么。');
+     '怀抱崇高的梦想，你梦想成为什么，就会成为什么。'),
+    ('Some people dream of success, while other people get up every morning and make it happen.', 'zh-CN',
+     '有些人梦想成功，而另一些人每天早上起床让它成为现实。');
