@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You build on failure. You use it as a stepping stone.', 'ko',
      '실패 위에 쌓아 올려라. 그것을 디딤돌로 삼아라.'),
     ('A man of genius makes no mistakes. His errors are volitional and are the portals of discovery.', 'ko',
-     '천재는 실수를 하지 않는다. 그의 오류는 의도된 것이며 발견으로 가는 문이다.');
+     '천재는 실수를 하지 않는다. 그의 오류는 의도된 것이며 발견으로 가는 문이다.'),
+    ('Giving up is the only sure way to fail.', 'ko',
+     '포기하는 것만이 확실하게 실패하는 유일한 방법이다.');
