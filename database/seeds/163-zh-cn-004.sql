@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage starts with showing up and letting ourselves be seen.', 'zh-CN',
      '勇气始于出现在那里，并让别人看见真实的自己。'),
     ('Don''t be afraid to give up the good to go for the great.', 'zh-CN',
-     '不要害怕放弃好的，去追求更好的。');
+     '不要害怕放弃好的，去追求更好的。'),
+    ('To dare is to lose one''s footing momentarily. Not to dare is to lose oneself.', 'zh-CN',
+     '敢于冒险，是暂时失去立足点；不敢冒险，是失去自我。');
