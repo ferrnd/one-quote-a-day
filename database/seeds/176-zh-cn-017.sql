@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s not what happens to you, but how you react to it that matters.', 'zh-CN',
      '重要的不是发生了什么，而是你如何应对。'),
     ('Begin at once to live, and count each separate day as a separate life.', 'zh-CN',
-     '立刻开始生活，把每一天都当作一次独立的人生。');
+     '立刻开始生活，把每一天都当作一次独立的人生。'),
+    ('Start where you are. Use what you have. Do what you can.', 'zh-CN',
+     '从你所在的地方开始，用你所拥有的，做你能做的。');
