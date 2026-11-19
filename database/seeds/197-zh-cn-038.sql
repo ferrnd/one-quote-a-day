@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Some people want it to happen, some wish it would happen, others make it happen.', 'zh-CN',
      '有些人想让它发生，有些人希望它会发生，还有些人让它发生。'),
     ('The more I want to get something done, the less I call it work.', 'zh-CN',
-     '我越想把一件事做成，就越不把它称作工作。');
+     '我越想把一件事做成，就越不把它称作工作。'),
+    ('The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.', 'zh-CN',
+     '悲观者抱怨风向，乐观者期待风向改变，现实者调整风帆。');
