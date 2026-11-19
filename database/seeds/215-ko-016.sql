@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Your present circumstances don''t determine where you can go; they merely determine where you start.', 'ko',
      '지금의 처지가 당신이 갈 수 있는 곳을 정하지는 않는다. 다만 어디서 출발할지를 정할 뿐이다.'),
     ('One day you will wake up and there won''t be any more time to do the things you''ve always wanted. Do it now.', 'ko',
-     '언젠가 잠에서 깨어 보면 늘 하고 싶던 일을 할 시간이 더는 남아 있지 않을 것이다. 지금 하라.');
+     '언젠가 잠에서 깨어 보면 늘 하고 싶던 일을 할 시간이 더는 남아 있지 않을 것이다. 지금 하라.'),
+    ('Do the best you can until you know better. Then when you know better, do better.', 'ko',
+     '더 잘 알게 될 때까지는 최선을 다하라. 그리고 더 잘 알게 되면 더 잘하라.');
