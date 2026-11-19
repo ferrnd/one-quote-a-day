@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the thing with feathers that perches in the soul.', 'ko',
      '희망은 영혼 위에 내려앉은 깃털 달린 것.'),
     ('Everything that is done in the world is done by hope.', 'ko',
-     '세상에서 이루어지는 모든 일은 희망으로 이루어진다.');
+     '세상에서 이루어지는 모든 일은 희망으로 이루어진다.'),
+    ('Hope is being able to see that there is light despite all of the darkness.', 'ko',
+     '희망이란 온갖 어둠 속에서도 빛이 있음을 볼 수 있는 것이다.');
