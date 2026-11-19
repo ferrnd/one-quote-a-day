@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Leap, and the net will appear.', 'ja',
      '跳べ。そうすれば網は現れる。'),
     ('Security is mostly a superstition. Life is either a daring adventure or nothing.', 'ja',
-     '安全とはたいてい迷信にすぎない。人生とは大胆な冒険か、さもなくば無である。');
+     '安全とはたいてい迷信にすぎない。人生とは大胆な冒険か、さもなくば無である。'),
+    ('What would life be if we had no courage to attempt anything?', 'ja',
+     '何かを試みる勇気がなかったら、人生はどうなってしまうだろう。');
