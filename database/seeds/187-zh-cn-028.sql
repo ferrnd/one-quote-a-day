@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The biggest adventure you can take is to live the life of your dreams.', 'zh-CN',
      '你能进行的最大冒险，就是过上你梦想的生活。'),
     ('Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.', 'zh-CN',
-     '向高处伸手，因为星星就藏在你心中；深深地做梦，因为每个梦想都先于目标。');
+     '向高处伸手，因为星星就藏在你心中；深深地做梦，因为每个梦想都先于目标。'),
+    ('I dream my painting and I paint my dream.', 'zh-CN',
+     '我梦见我的画，然后画出我的梦。');
