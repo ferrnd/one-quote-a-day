@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No tree becomes rooted and sturdy unless many a wind assails it.', 'ja',
      '多くの風にさらされなければ、どんな木もしっかりと根を張り、たくましくはならない。'),
     ('It is a rough road that leads to the heights of greatness.', 'ja',
-     '偉大さの高みへと続くのは、険しい道である。');
+     '偉大さの高みへと続くのは、険しい道である。'),
+    ('Difficult roads often lead to beautiful destinations.', 'ja',
+     '困難な道は、しばしば美しい目的地へと続いている。');
