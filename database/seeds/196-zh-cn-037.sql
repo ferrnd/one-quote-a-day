@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A goal properly set is halfway reached.', 'zh-CN',
      '一个设定恰当的目标，已经实现了一半。'),
     ('Things do not happen. Things are made to happen.', 'zh-CN',
-     '事情不会自己发生，事情是靠人促成的。');
+     '事情不会自己发生，事情是靠人促成的。'),
+    ('Eighty percent of success is showing up.', 'zh-CN',
+     '成功的百分之八十在于露面。');
