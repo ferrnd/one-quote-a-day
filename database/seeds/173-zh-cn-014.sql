@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you do every day matters more than what you do once in a while.', 'zh-CN',
      '你每天做的事，比你偶尔做的事更重要。'),
     ('Discipline equals freedom.', 'zh-CN',
-     '自律即自由。');
+     '自律即自由。'),
+    ('Concentrate all your thoughts upon the work at hand. The sun''s rays do not burn until brought to a focus.', 'zh-CN',
+     '把你所有的心思都集中在手头的工作上。阳光只有聚焦才能燃烧。');
