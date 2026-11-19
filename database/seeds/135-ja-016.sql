@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Act as if what you do makes a difference. It does.', 'ja',
      '自分の行いが違いを生むかのように行動しなさい。実際、生むのだから。'),
     ('What we fear doing most is usually what we most need to do.', 'ja',
-     '私たちが最もしたくないと恐れることこそ、たいてい最もする必要のあることだ。');
+     '私たちが最もしたくないと恐れることこそ、たいてい最もする必要のあることだ。'),
+    ('A comfort zone is a beautiful place, but nothing ever grows there.', 'ja',
+     '居心地のいい場所は美しい。だが、そこでは何も育たない。');
