@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Shoot for the moon. Even if you miss, you''ll land among the stars.', 'zh-CN',
      '瞄准月亮。即使错过，你也会落在群星之间。'),
     ('It''s not what you look at that matters, it''s what you see.', 'zh-CN',
-     '重要的不是你在看什么，而是你看见了什么。');
+     '重要的不是你在看什么，而是你看见了什么。'),
+    ('I am not a product of my circumstances. I am a product of my decisions.', 'zh-CN',
+     '我不是环境的产物，我是我的决定的产物。');
