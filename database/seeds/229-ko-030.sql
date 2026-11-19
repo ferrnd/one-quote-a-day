@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Luck is what happens when preparation meets opportunity.', 'ko',
      '행운이란 준비가 기회를 만날 때 일어나는 것이다.'),
     ('Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.', 'ko',
-     '어제는 역사이고, 내일은 미스터리이며, 오늘은 신의 선물이다. 그래서 우리는 오늘을 ''선물(present)''이라고 부른다.');
+     '어제는 역사이고, 내일은 미스터리이며, 오늘은 신의 선물이다. 그래서 우리는 오늘을 ''선물(present)''이라고 부른다.'),
+    ('If you want to go fast, go alone. If you want to go far, go together.', 'ko',
+     '빨리 가려면 혼자 가고, 멀리 가려면 함께 가라.');
