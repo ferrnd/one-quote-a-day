@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.', 'zh-CN',
      '我们曾经享受过的，永远不会失去。我们深爱的一切，都会成为我们的一部分。'),
     ('Happiness is not a goal; it is a by-product.', 'zh-CN',
-     '幸福不是目标，而是副产品。');
+     '幸福不是目标，而是副产品。'),
+    ('The purpose of life is to live it, to taste experience to the utmost.', 'zh-CN',
+     '生命的意义在于去生活，去尽情品尝人生的经历。');
