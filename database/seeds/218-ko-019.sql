@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The journey of a thousand miles begins with one step.', 'ko',
      '천 리 길도 한 걸음부터 시작된다.'),
     ('Action is the foundational key to all success.', 'ko',
-     '행동은 모든 성공의 근본적인 열쇠다.');
+     '행동은 모든 성공의 근본적인 열쇠다.'),
+    ('You don''t have to be great to start, but you have to start to be great.', 'ko',
+     '시작하기 위해 대단할 필요는 없지만, 대단해지기 위해서는 시작해야 한다.');
