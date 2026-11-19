@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is nothing more than a few simple disciplines, practiced every day.', 'ko',
      '성공이란 매일 실천하는 몇 가지 간단한 규율에 지나지 않는다.'),
     ('Don''t wish it were easier, wish you were better.', 'ko',
-     '일이 더 쉬워지기를 바라지 말고, 당신이 더 나아지기를 바라라.');
+     '일이 더 쉬워지기를 바라지 말고, 당신이 더 나아지기를 바라라.'),
+    ('Either you run the day or the day runs you.', 'ko',
+     '하루를 이끌든지, 하루에 끌려가든지 둘 중 하나다.');
