@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Resilience is knowing that you are the only one that has the power and the responsibility to pick yourself up.', 'ko',
      '회복력이란 스스로를 일으켜 세울 힘과 책임이 오직 자신에게만 있다는 것을 아는 것이다.'),
     ('Once you face your fear, nothing is ever as hard as you think.', 'ko',
-     '일단 두려움과 마주하면, 어떤 일도 생각만큼 어렵지 않다.');
+     '일단 두려움과 마주하면, 어떤 일도 생각만큼 어렵지 않다.'),
+    ('When life knocks you down, try to land on your back. Because if you can look up, you can get up.', 'ko',
+     '인생이 당신을 쓰러뜨리면 등으로 떨어지도록 하라. 위를 올려다볼 수 있다면 일어설 수 있으니까.');
