@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Security is mostly a superstition. Life is either a daring adventure or nothing.', 'zh-CN',
      '安全感多半是一种迷信。生活要么是一场大胆的冒险，要么什么都不是。'),
     ('What would life be if we had no courage to attempt anything?', 'zh-CN',
-     '如果我们没有勇气去尝试任何事，生活会是什么样子？');
+     '如果我们没有勇气去尝试任何事，生活会是什么样子？'),
+    ('Far better is it to dare mighty things, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy much nor suffer much.', 'zh-CN',
+     '敢于做大事、赢得辉煌的胜利，即使其间夹杂着失败，也远远胜过与那些既不怎么享受也不怎么受苦的可怜灵魂为伍。');
