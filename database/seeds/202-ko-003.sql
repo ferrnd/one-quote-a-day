@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All we have to decide is what to do with the time that is given us.', 'ko',
      '우리가 결정해야 할 것은 주어진 시간으로 무엇을 할지뿐이다.'),
     ('It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.', 'ko',
-     '적에게 맞서는 데는 큰 용기가 필요하지만, 친구에게 맞서는 데도 그만큼의 용기가 필요하다.');
+     '적에게 맞서는 데는 큰 용기가 필요하지만, 친구에게 맞서는 데도 그만큼의 용기가 필요하다.'),
+    ('Do the thing you fear, and the death of fear is certain.', 'ko',
+     '두려워하는 일을 하라. 그러면 두려움은 반드시 사라진다.');
