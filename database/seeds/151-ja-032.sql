@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adventure is worthwhile in itself.', 'ja',
      '冒険は、それ自体に価値がある。'),
     ('Courage is a love affair with the unknown.', 'ja',
-     '勇気とは、未知なるものとの恋愛である。');
+     '勇気とは、未知なるものとの恋愛である。'),
+    ('What you''re supposed to do when you don''t like a thing is change it.', 'ja',
+     '気に入らないことがあるなら、するべきことはそれを変えることだ。');
