@@ -1,0 +1,5 @@
+-- seed 150 :: ja translations 751-775
+
+INSERT INTO translation_intake (original, locale, body) VALUES
+    ('We can do anything we want to if we stick to it long enough.', 'ja',
+     '十分に長く粘り続ければ、私たちは望むことを何でも成し遂げられる。');
