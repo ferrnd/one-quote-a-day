@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We become what we think about.', 'zh-CN',
      '我们会成为我们所想的样子。'),
     ('If you''re always trying to be normal, you will never know how amazing you can be.', 'zh-CN',
-     '如果你总是努力做一个普通人，你就永远不会知道自己能有多了不起。');
+     '如果你总是努力做一个普通人，你就永远不会知道自己能有多了不起。'),
+    ('Why, sometimes I''ve believed as many as six impossible things before breakfast.', 'zh-CN',
+     '嗯，有时候我早餐前就能相信六件不可能的事呢。');
