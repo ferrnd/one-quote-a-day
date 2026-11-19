@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Tread softly because you tread on my dreams.', 'zh-CN',
      '请轻轻地踩，因为你踩着的是我的梦。'),
     ('All that we see or seem is but a dream within a dream.', 'zh-CN',
-     '我们所见或所似的一切，不过是梦中之梦。');
+     '我们所见或所似的一切，不过是梦中之梦。'),
+    ('Don''t give up on your dreams, or your dreams will give up on you.', 'zh-CN',
+     '不要放弃你的梦想，否则你的梦想也会放弃你。');
