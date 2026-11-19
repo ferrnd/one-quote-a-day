@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Have patience with all things, but first of all with yourself.', 'ko',
      '모든 일에 인내하라. 그러나 무엇보다 먼저 자기 자신에게 인내하라.'),
     ('One moment of patience may ward off great disaster. One moment of impatience may ruin a whole life.', 'ko',
-     '한순간의 인내가 큰 재앙을 막고, 한순간의 조급함이 일생을 망칠 수 있다.');
+     '한순간의 인내가 큰 재앙을 막고, 한순간의 조급함이 일생을 망칠 수 있다.'),
+    ('Patience is not simply the ability to wait; it''s how we behave while we''re waiting.', 'ko',
+     '인내란 단지 기다리는 능력이 아니라, 기다리는 동안 어떻게 행동하느냐다.');
