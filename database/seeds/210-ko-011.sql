@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are far, far better things ahead than any we leave behind.', 'ko',
      '앞에는 우리가 뒤에 남기고 온 어떤 것보다도 훨씬, 훨씬 더 좋은 것들이 있다.'),
     ('In spite of everything I still believe that people are really good at heart.', 'ko',
-     '그 모든 일에도 불구하고 나는 여전히 사람들의 마음속은 정말로 선하다고 믿는다.');
+     '그 모든 일에도 불구하고 나는 여전히 사람들의 마음속은 정말로 선하다고 믿는다.'),
+    ('Think of all the beauty still left around you and be happy.', 'ko',
+     '아직 당신 곁에 남아 있는 모든 아름다움을 생각하며 행복해져라.');
