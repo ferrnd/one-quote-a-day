@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fire is the test of gold; adversity, of strong men.', 'ja',
      '火は金を試し、逆境は強い人間を試す。'),
     ('Difficulties strengthen the mind, as labor does the body.', 'ja',
-     '労働が体を鍛えるように、困難は心を鍛える。');
+     '労働が体を鍛えるように、困難は心を鍛える。'),
+    ('Although no one can go back and make a brand new start, anyone can start from now and make a brand new ending.', 'ja',
+     '誰も過去に戻ってまったく新しいスタートを切ることはできないが、誰でも今から始めて、まったく新しい結末をつくることはできる。');
