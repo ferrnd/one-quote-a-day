@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is the start that stops most people.', 'ja',
      'たいていの人を止めてしまうのは、始めることそのものだ。'),
     ('Practice isn''t the thing you do once you''re good. It''s the thing you do that makes you good.', 'ja',
-     '練習とは、うまくなってからするものではない。うまくなるためにするものだ。');
+     '練習とは、うまくなってからするものではない。うまくなるためにするものだ。'),
+    ('Do something today that your future self will thank you for.', 'ja',
+     '未来の自分が感謝してくれることを、今日何か一つやろう。');
