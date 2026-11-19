@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the companion of power, and mother of success.', 'zh-CN',
      '希望是力量的伴侣，也是成功之母。'),
     ('Hope is itself a species of happiness.', 'zh-CN',
-     '希望本身就是一种幸福。');
+     '希望本身就是一种幸福。'),
+    ('The sun shines not on us but in us.', 'zh-CN',
+     '阳光不是照在我们身上，而是照在我们心里。');
