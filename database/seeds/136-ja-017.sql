@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When I let go of what I am, I become what I might be.', 'ja',
      '今の自分を手放したとき、なりうる自分になれる。'),
     ('I can''t go back to yesterday because I was a different person then.', 'ja',
-     '昨日には戻れないわ。だってあのときの私は別人だったんだもの。');
+     '昨日には戻れないわ。だってあのときの私は別人だったんだもの。'),
+    ('Real change, enduring change, happens one step at a time.', 'ja',
+     '本当の変化、長く続く変化は、一歩ずつ起こるものだ。');
