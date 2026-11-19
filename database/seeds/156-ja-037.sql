@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Victory is sweetest when you''ve known defeat.', 'ja',
      '敗北を知っている者にとって、勝利は最も甘い。'),
     ('It is a mistake to look too far ahead. Only one link of the chain of destiny can be handled at a time.', 'ja',
-     'あまりに先を見すぎるのは間違いだ。運命の鎖は、一度に一つの輪しか扱えないのだから。');
+     'あまりに先を見すぎるのは間違いだ。運命の鎖は、一度に一つの輪しか扱えないのだから。'),
+    ('Don''t spend time beating on a wall, hoping to transform it into a door.', 'ja',
+     '壁を扉に変えようと願って、叩き続けることに時間を費やしてはいけない。');
