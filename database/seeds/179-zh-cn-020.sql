@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ideas are easy. Implementation is hard.', 'zh-CN',
      '想法容易，执行很难。'),
     ('Begin, be bold, and venture to be wise.', 'zh-CN',
-     '开始吧，勇敢些，敢于变得明智。');
+     '开始吧，勇敢些，敢于变得明智。'),
+    ('Dream big and dare to fail.', 'zh-CN',
+     '梦想要远大，要敢于失败。');
