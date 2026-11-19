@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It ain''t over till it''s over.', 'ko',
      '끝날 때까지 끝난 게 아니다.'),
     ('We will either find a way, or make one.', 'ko',
-     '우리는 길을 찾거나, 아니면 길을 만들 것이다.');
+     '우리는 길을 찾거나, 아니면 길을 만들 것이다.'),
+    ('The secret of success is constancy to purpose.', 'ko',
+     '성공의 비결은 목표를 향한 한결같음에 있다.');
