@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s not the load that breaks you down, it''s the way you carry it.', 'ko',
      '당신을 무너뜨리는 것은 짐이 아니라 그것을 지는 방식이다.'),
     ('Ability is what you''re capable of doing. Motivation determines what you do. Attitude determines how well you do it.', 'ko',
-     '능력은 당신이 할 수 있는 것이다. 동기는 당신이 무엇을 할지 결정한다. 태도는 그것을 얼마나 잘할지 결정한다.');
+     '능력은 당신이 할 수 있는 것이다. 동기는 당신이 무엇을 할지 결정한다. 태도는 그것을 얼마나 잘할지 결정한다.'),
+    ('Worry does not empty tomorrow of its sorrow, it empties today of its strength.', 'ko',
+     '걱정은 내일의 슬픔을 비워 주지 않는다. 오늘의 힘을 비워 버릴 뿐이다.');
