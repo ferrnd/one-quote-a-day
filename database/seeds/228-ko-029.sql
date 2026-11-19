@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.', 'ko',
      '어제의 나는 영리했기에 세상을 바꾸고 싶었다. 오늘의 나는 지혜롭기에 나 자신을 바꾸고 있다.'),
     ('You were born with wings, why prefer to crawl through life?', 'ko',
-     '당신은 날개를 달고 태어났는데, 왜 삶을 기어서 가려 하는가?');
+     '당신은 날개를 달고 태어났는데, 왜 삶을 기어서 가려 하는가?'),
+    ('Respond to every call that excites your spirit.', 'ko',
+     '당신의 영혼을 설레게 하는 모든 부름에 응답하라.');
