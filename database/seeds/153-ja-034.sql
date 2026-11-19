@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be water, my friend.', 'ja',
      '水になれ、友よ。'),
     ('Hard days are the best because that''s when champions are made.', 'ja',
-     'つらい日こそ最高の日だ。チャンピオンがつくられるのは、そういう日なのだから。');
+     'つらい日こそ最高の日だ。チャンピオンがつくられるのは、そういう日なのだから。'),
+    ('There is always light, if only we''re brave enough to see it. If only we''re brave enough to be it.', 'ja',
+     '光はいつもそこにある。それを見る勇気さえあれば。それになる勇気さえあれば。');
