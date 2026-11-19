@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Difficulties are things that show a person what they are.', 'ko',
      '어려움은 사람에게 그가 어떤 사람인지 보여 준다.'),
     ('No tree becomes rooted and sturdy unless many a wind assails it.', 'ko',
-     '수많은 바람을 맞지 않고는 어떤 나무도 뿌리를 깊이 내리고 튼튼해지지 않는다.');
+     '수많은 바람을 맞지 않고는 어떤 나무도 뿌리를 깊이 내리고 튼튼해지지 않는다.'),
+    ('It is a rough road that leads to the heights of greatness.', 'ko',
+     '위대함의 정상으로 이끄는 것은 험한 길이다.');
