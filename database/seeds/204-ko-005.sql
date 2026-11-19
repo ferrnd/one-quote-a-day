@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not judge me by my success, judge me by how many times I fell down and got back up again.', 'ko',
      '나를 성공으로 판단하지 말고, 몇 번 넘어졌다가 다시 일어섰는지로 판단해 달라.'),
     ('Failure should be our teacher, not our undertaker.', 'ko',
-     '실패는 우리의 스승이 되어야지, 장의사가 되어서는 안 된다.');
+     '실패는 우리의 스승이 되어야지, 장의사가 되어서는 안 된다.'),
+    ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'ko',
+     '꿈을 이룰 수 없게 만드는 것은 단 하나, 실패에 대한 두려움이다.');
