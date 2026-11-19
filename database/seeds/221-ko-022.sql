@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Shoot for the moon. Even if you miss, you''ll land among the stars.', 'ko',
      '달을 향해 쏴라. 빗나가더라도 별들 사이에 떨어질 것이다.'),
     ('It''s not what you look at that matters, it''s what you see.', 'ko',
-     '중요한 것은 무엇을 보느냐가 아니라 무엇이 보이느냐다.');
+     '중요한 것은 무엇을 보느냐가 아니라 무엇이 보이느냐다.'),
+    ('I am not a product of my circumstances. I am a product of my decisions.', 'ko',
+     '나는 내 환경의 산물이 아니다. 나는 내 결정의 산물이다.');
