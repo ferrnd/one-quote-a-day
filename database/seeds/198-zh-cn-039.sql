@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You see things; and you say ''Why?'' But I dream things that never were; and I say ''Why not?''', 'zh-CN',
      '你看到事物，然后问：“为什么？”而我梦想着从未存在过的事物，然后问：“为什么不？”'),
     ('Hitch your wagon to a star.', 'zh-CN',
-     '把你的马车拴在星星上。');
+     '把你的马车拴在星星上。'),
+    ('If one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.', 'zh-CN',
+     '如果一个人自信地朝着梦想的方向前进，他就会遇到平常意想不到的成功。');
