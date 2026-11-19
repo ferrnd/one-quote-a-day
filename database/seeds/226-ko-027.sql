@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One child, one teacher, one book, one pen can change the world.', 'ko',
      '한 명의 아이, 한 명의 선생님, 한 권의 책, 한 자루의 펜이 세상을 바꿀 수 있다.'),
     ('When the whole world is silent, even one voice becomes powerful.', 'ko',
-     '온 세상이 침묵할 때는 단 하나의 목소리도 강력해진다.');
+     '온 세상이 침묵할 때는 단 하나의 목소리도 강력해진다.'),
+    ('Because it''s there.', 'ko',
+     '산이 거기 있기 때문이다.');
