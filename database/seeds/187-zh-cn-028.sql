@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.', 'zh-CN',
      '向高处伸手，因为星星就藏在你心中；深深地做梦，因为每个梦想都先于目标。'),
     ('I dream my painting and I paint my dream.', 'zh-CN',
-     '我梦见我的画，然后画出我的梦。');
+     '我梦见我的画，然后画出我的梦。'),
+    ('Dreams don''t work unless you do.', 'zh-CN',
+     '你不努力，梦想就不会实现。');
