@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Two roads diverged in a wood, and I, I took the one less traveled by, and that has made all the difference.', 'ja',
      '森の中で道が二つに分かれていた。そして私は、人があまり通っていない道を選んだ。そのことが、すべてを変えたのだ。'),
     ('Not all those who wander are lost.', 'ja',
-     'さまよう者がみな、道に迷っているわけではない。');
+     'さまよう者がみな、道に迷っているわけではない。'),
+    ('I took a deep breath and listened to the old brag of my heart: I am, I am, I am.', 'ja',
+     '私は深く息を吸い、昔から変わらない心臓の誇らしげな声に耳を澄ませた。私はいる、私はいる、私はいる。');
