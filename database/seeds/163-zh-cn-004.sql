@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the most important of all the virtues because without courage, you can''t practice any other virtue consistently.', 'zh-CN',
      '勇气是所有美德中最重要的，因为没有勇气，你就无法始终如一地践行任何其他美德。'),
     ('Freedom lies in being bold.', 'zh-CN',
-     '自由在于勇敢。');
+     '自由在于勇敢。'),
+    ('The only thing we have to fear is fear itself.', 'zh-CN',
+     '我们唯一需要恐惧的，是恐惧本身。');
