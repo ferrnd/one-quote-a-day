@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without continual growth and progress, such words as improvement, achievement, and success have no meaning.', 'ja',
      '絶え間ない成長と進歩がなければ、改善、達成、成功といった言葉には何の意味もない。'),
     ('What is to give light must endure burning.', 'ja',
-     '光を放つものは、燃えることに耐えなければならない。');
+     '光を放つものは、燃えることに耐えなければならない。'),
+    ('It''s not what happens to you, but how you react to it that matters.', 'ja',
+     '大切なのは何が起こるかではなく、それにどう反応するかだ。');
