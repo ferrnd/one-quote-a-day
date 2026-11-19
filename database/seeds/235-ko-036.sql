@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not until we are lost do we begin to understand ourselves.', 'ko',
      '길을 잃고 나서야 비로소 우리는 자신을 이해하기 시작한다.'),
     ('Things do not change; we change.', 'ko',
-     '사물은 변하지 않는다. 우리가 변한다.');
+     '사물은 변하지 않는다. 우리가 변한다.'),
+    ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'ko',
+     '진보에는 언제나 위험이 따른다. 1루에 발을 둔 채로 2루를 훔칠 수는 없다.');
