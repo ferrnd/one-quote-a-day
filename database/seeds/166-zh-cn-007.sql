@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You may encounter many defeats, but you must not be defeated.', 'zh-CN',
      '你可能会遭遇许多失败，但你绝不能被打败。'),
     ('Still, like air, I''ll rise.', 'zh-CN',
-     '然而，像空气一样，我依然会升起。');
+     '然而，像空气一样，我依然会升起。'),
+    ('She stood in the storm, and when the wind did not blow her way, she adjusted her sails.', 'zh-CN',
+     '她站在风暴中，当风不朝她的方向吹时，她就调整了风帆。');
