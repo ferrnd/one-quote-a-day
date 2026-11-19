@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.', 'ja',
      '心はそれ自体が一つの世界であり、その中で地獄を天国に、天国を地獄に変えることができる。'),
     ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'ja',
-     '自分の思考がどれほど強い力を持っているかに気づいたら、否定的な考えなど決して抱かないだろう。');
+     '自分の思考がどれほど強い力を持っているかに気づいたら、否定的な考えなど決して抱かないだろう。'),
+    ('I am the greatest. I said that even before I knew I was.', 'ja',
+     '俺は最強だ。それが本当だとわかる前から、俺はそう言っていた。');
