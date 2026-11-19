@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We must all suffer one of two things: the pain of discipline or the pain of regret.', 'ko',
      '우리는 모두 두 가지 고통 중 하나를 겪어야 한다. 훈련의 고통 아니면 후회의 고통.'),
     ('Motivation is what gets you started. Habit is what keeps you going.', 'ko',
-     '동기는 시작하게 만들고, 습관은 계속하게 만든다.');
+     '동기는 시작하게 만들고, 습관은 계속하게 만든다.'),
+    ('Success is nothing more than a few simple disciplines, practiced every day.', 'ko',
+     '성공이란 매일 실천하는 몇 가지 간단한 규율에 지나지 않는다.');
