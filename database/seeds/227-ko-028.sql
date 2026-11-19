@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Aim for the moon. If you miss, you may hit a star.', 'ko',
      '달을 겨냥하라. 빗나가더라도 별을 맞힐 수 있을 것이다.'),
     ('Nothing happens unless first we dream.', 'ko',
-     '먼저 꿈꾸지 않으면 아무 일도 일어나지 않는다.');
+     '먼저 꿈꾸지 않으면 아무 일도 일어나지 않는다.'),
+    ('Those who dream by day are cognizant of many things which escape those who dream only by night.', 'ko',
+     '낮에 꿈꾸는 사람은 밤에만 꿈꾸는 사람이 놓치는 많은 것을 알아차린다.');
