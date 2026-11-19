@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The privilege of a lifetime is to become who you truly are.', 'zh-CN',
      '一生最大的荣幸，是成为真正的自己。'),
     ('Knowing your own darkness is the best method for dealing with the darknesses of other people.', 'zh-CN',
-     '了解你自己的黑暗，是应对他人黑暗的最好方法。');
+     '了解你自己的黑暗，是应对他人黑暗的最好方法。'),
+    ('There is no coming to consciousness without pain.', 'zh-CN',
+     '没有痛苦，就不会有意识的觉醒。');
