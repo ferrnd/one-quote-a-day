@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When something is important enough, you do it even if the odds are not in your favor.', 'zh-CN',
      '当一件事足够重要时，即使胜算不在你这边，你也要去做。'),
     ('Always bear in mind that your own resolution to succeed is more important than any other.', 'zh-CN',
-     '始终记住，你自己追求成功的决心比任何其他东西都重要。');
+     '始终记住，你自己追求成功的决心比任何其他东西都重要。'),
+    ('Pain is temporary. Quitting lasts forever.', 'zh-CN',
+     '痛苦是暂时的，放弃却是永远的。');
