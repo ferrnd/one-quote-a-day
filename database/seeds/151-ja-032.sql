@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who is brave is free.', 'ja',
      '勇敢な者は自由である。'),
     ('I must not fear. Fear is the mind-killer.', 'ja',
-     '恐れてはならない。恐れは心を殺すものだ。');
+     '恐れてはならない。恐れは心を殺すものだ。'),
+    ('Courage is the main quality of leadership.', 'ja',
+     '勇気は、リーダーシップの最も大切な資質である。');
