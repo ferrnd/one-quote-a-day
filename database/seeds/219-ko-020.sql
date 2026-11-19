@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Inspiration exists, but it has to find you working.', 'ko',
      '영감은 존재한다. 하지만 그것은 당신이 일하고 있을 때 찾아와야 한다.'),
     ('Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world.', 'ko',
-     '행동 없는 비전은 꿈일 뿐이다. 비전 없는 행동은 시간만 보낼 뿐이다. 행동이 따르는 비전은 세상을 바꿀 수 있다.');
+     '행동 없는 비전은 꿈일 뿐이다. 비전 없는 행동은 시간만 보낼 뿐이다. 행동이 따르는 비전은 세상을 바꿀 수 있다.'),
+    ('The future depends on what you do today.', 'ko',
+     '미래는 오늘 당신이 무엇을 하느냐에 달려 있다.');
