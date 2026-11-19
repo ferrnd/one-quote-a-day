@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greater the difficulty, the more glory in surmounting it.', 'ja',
      '困難が大きいほど、それを乗り越える栄光も大きい。'),
     ('Difficulties are things that show a person what they are.', 'ja',
-     '困難とは、人に自分が何者であるかを示すものだ。');
+     '困難とは、人に自分が何者であるかを示すものだ。'),
+    ('No tree becomes rooted and sturdy unless many a wind assails it.', 'ja',
+     '多くの風にさらされなければ、どんな木もしっかりと根を張り、たくましくはならない。');
