@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Things turn out best for the people who make the best of the way things turn out.', 'ja',
      '物事が最もうまくいくのは、起きたことを最大限に生かす人のところだ。'),
     ('Now is no time to think of what you do not have. Think of what you can do with what there is.', 'ja',
-     '今は持っていないもののことを考えるときではない。今あるもので何ができるかを考えるときだ。');
+     '今は持っていないもののことを考えるときではない。今あるもので何ができるかを考えるときだ。'),
+    ('The obstacle is the path.', 'ja',
+     '障害こそが道である。');
