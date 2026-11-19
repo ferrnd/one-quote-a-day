@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is not simply one of the virtues, but the form of every virtue at the testing point.', 'ko',
      '용기는 단지 여러 덕목 중 하나가 아니라, 시험의 순간에 드러나는 모든 덕목의 모습이다.'),
     ('Courage, dear heart.', 'ko',
-     '용기를 내렴, 사랑하는 이여.');
+     '용기를 내렴, 사랑하는 이여.'),
+    ('Courage is the power to let go of the familiar.', 'ko',
+     '용기는 익숙한 것을 놓아 보내는 힘이다.');
