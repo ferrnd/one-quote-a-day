@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope will never be silent.', 'zh-CN',
      '希望永远不会沉默。'),
     ('Weeping may endure for a night, but joy cometh in the morning.', 'zh-CN',
-     '一宿虽然有哭泣，早晨便必欢呼。');
+     '一宿虽然有哭泣，早晨便必欢呼。'),
+    ('Grow old along with me! The best is yet to be.', 'zh-CN',
+     '和我一起变老吧！最好的还在后头。');
