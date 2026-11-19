@@ -47,6 +47,34 @@ import androidx.compose.ui.window.DialogWindowProvider
 import androidx.compose.ui.platform.LocalView
 import androidx.compose.runtime.SideEffect
 import kotlinx.coroutines.launch
+import android.graphics.BlurMaskFilter
+import android.os.Build
+import androidx.compose.ui.graphics.Color
+import android.graphics.Paint
+import androidx.compose.ui.draw.drawBehind
+import androidx.compose.ui.graphics.drawscope.drawIntoCanvas
+import androidx.compose.ui.graphics.nativeCanvas
+
+/**
+ * On black, depth is a faint white glow instead of a shadow, like the site's
+ * night --card-shadow: a wide halo around the card and a softer one below it.
+ */
+private fun Modifier.glow(): Modifier = drawBehind {
+    val radius = 22.dp.toPx()
+    fun halo(blur: Float, spread: Float, dy: Float, alpha: Int) {
+        val paint = Paint(Paint.ANTI_ALIAS_FLAG).apply {
+            color = android.graphics.Color.argb(alpha, 255, 255, 255)
+            maskFilter = BlurMaskFilter(blur, BlurMaskFilter.Blur.NORMAL)
+        }
+        drawIntoCanvas {
+            it.nativeCanvas.drawRoundRect(-spread, -spread + dy, size.width + spread, size.height + spread + dy,
+                radius + spread, radius + spread, paint)
+        }
+    }
+    halo(blur = 48.dp.toPx(), spread = -8.dp.toPx(), dy = 0f, alpha = 46)
+    halo(blur = 96.dp.toPx(), spread = -32.dp.toPx(), dy = 40.dp.toPx(), alpha = 36)
+    halo(blur = 18.dp.toPx(), spread = 0f, dy = 0f, alpha = 22)
+}
 
 /** Closes a sheet with its exit animation first. */
 class SheetScope(val close: () -> Unit)
@@ -93,7 +121,15 @@ fun Sheet(onDismiss: () -> Unit, content: @Composable SheetScope.() -> Unit) {
                         scaleX = 0.98f + 0.02f * progress.value
                         scaleY = scaleX
                     }
-                    .shadow(if (palette.night) 0.dp else 28.dp, RoundedCornerShape(22.dp), clip = false)
+                    .then(
+                        when {
+                            !palette.night -> Modifier.shadow(28.dp, RoundedCornerShape(22.dp), clip = false)
+                            // blurred drawing needs hardware support for mask filters (Android 9+)
+                            Build.VERSION.SDK_INT >= 28 -> Modifier.glow()
+                            else -> Modifier.shadow(28.dp, RoundedCornerShape(22.dp), clip = false,
+                                ambientColor = Color.White, spotColor = Color.White)
+                        },
+                    )
                     .clip(RoundedCornerShape(22.dp))
                     .background(palette.paper)
                     .clickable(remember { MutableInteractionSource() }, indication = null) { },
@@ -135,14 +171,14 @@ fun Meta(text: String, modifier: Modifier = Modifier) {
     Text(
         text.uppercase(),
         color = palette.ink,
-        modifier = modifier.alpha(0.5f),
-        style = TextStyle(fontFamily = LocalFonts.current.serif, fontWeight = FontWeight.Bold, fontSize = 12.5.sp,
+        modifier = modifier.alpha(0.62f),
+        style = TextStyle(fontFamily = LocalFonts.current.serif, fontWeight = FontWeight.Bold, fontSize = 13.5.sp,
             letterSpacing = 0.16.em, fontFeatureSettings = "lnum"),
     )
 }
 
 @Composable
-fun Body(text: String, modifier: Modifier = Modifier, italic: Boolean = false, size: TextUnit = 18.sp, alpha: Float = 1f) {
+fun Body(text: String, modifier: Modifier = Modifier, italic: Boolean = false, size: TextUnit = 19.sp, alpha: Float = 1f) {
     Text(
         text,
         color = LocalPalette.current.ink,
@@ -150,6 +186,7 @@ fun Body(text: String, modifier: Modifier = Modifier, italic: Boolean = false, s
         style = TextStyle(
             fontFamily = LocalFonts.current.serif,
             fontStyle = if (italic) FontStyle.Italic else FontStyle.Normal,
+            fontWeight = FontWeight.Medium,
             fontSize = size,
             lineHeight = 1.3.em,
         ),
@@ -157,7 +194,7 @@ fun Body(text: String, modifier: Modifier = Modifier, italic: Boolean = false, s
 }
 
 @Composable
-fun Note(text: String, modifier: Modifier = Modifier) = Body(text, modifier.padding(top = 6.dp), size = 15.sp, alpha = 0.6f)
+fun Note(text: String, modifier: Modifier = Modifier) = Body(text, modifier.padding(top = 6.dp), size = 16.5.sp, alpha = 0.75f)
 
 /** A pill button; filled when selected. */
 @Composable
@@ -166,7 +203,7 @@ fun Pill(label: String, selected: Boolean = false, onClick: () -> Unit) {
     Text(
         label,
         color = if (selected) palette.paper else palette.ink,
-        style = TextStyle(fontFamily = LocalFonts.current.serif, fontWeight = FontWeight.SemiBold, fontSize = 16.sp),
+        style = TextStyle(fontFamily = LocalFonts.current.serif, fontWeight = FontWeight.SemiBold, fontSize = 17.sp),
         modifier = Modifier
             .clip(RoundedCornerShape(50))
             .background(if (selected) palette.ink else palette.ink.copy(alpha = 0.06f))
