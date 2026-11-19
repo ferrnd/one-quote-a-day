@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A goal properly set is halfway reached.', 'ja',
      'きちんと立てられた目標は、半ば達成されたも同然だ。'),
     ('Things do not happen. Things are made to happen.', 'ja',
-     '物事は起こるのではない。起こさせるのだ。');
+     '物事は起こるのではない。起こさせるのだ。'),
+    ('Eighty percent of success is showing up.', 'ja',
+     '成功の八割は、その場に顔を出すことだ。');
