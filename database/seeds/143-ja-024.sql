@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be patient and tough; someday this pain will be useful to you.', 'ja',
      '忍耐強く、たくましくあれ。いつかこの痛みが役に立つ日が来る。'),
     ('Dripping water hollows out stone, not through force but through persistence.', 'ja',
-     'したたる水は石をうがつ。力によってではなく、絶え間なさによって。');
+     'したたる水は石をうがつ。力によってではなく、絶え間なさによって。'),
+    ('All human wisdom is summed up in two words: wait and hope.', 'ja',
+     '人間の知恵はすべて、二つの言葉に要約される。待て、そして希望せよ。');
