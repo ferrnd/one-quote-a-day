@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'ja',
      '肉体的な勇気がこの世にこれほどありふれていて、道徳的な勇気がこれほどまれなのは不思議なことだ。'),
     ('The opposite of courage in our society is not cowardice, it is conformity.', 'ja',
-     '私たちの社会において勇気の反対は臆病ではなく、同調である。');
+     '私たちの社会において勇気の反対は臆病ではなく、同調である。'),
+    ('Cowards die many times before their deaths; the valiant never taste of death but once.', 'ja',
+     '臆病者は死ぬまでに何度も死ぬ。勇者は一度しか死を味わわない。');
