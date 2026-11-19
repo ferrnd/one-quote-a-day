@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is a rough road that leads to the heights of greatness.', 'zh-CN',
      '通往伟大之巅的，是一条崎岖的路。'),
     ('Difficult roads often lead to beautiful destinations.', 'zh-CN',
-     '艰难的道路往往通向美丽的目的地。');
+     '艰难的道路往往通向美丽的目的地。'),
+    ('In the midst of chaos, there is also opportunity.', 'zh-CN',
+     '乱中亦有机。');
