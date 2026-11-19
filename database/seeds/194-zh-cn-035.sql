@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Though she be but little, she is fierce.', 'zh-CN',
      '她虽然娇小，却很凶猛。'),
     ('You cannot run away from a weakness; you must some time fight it out or perish.', 'zh-CN',
-     '你无法逃避弱点，迟早你必须与它战斗到底，否则就会灭亡。');
+     '你无法逃避弱点，迟早你必须与它战斗到底，否则就会灭亡。'),
+    ('Do not go gentle into that good night. Rage, rage against the dying of the light.', 'zh-CN',
+     '不要温和地走进那个良夜。怒斥，怒斥光明的消逝。');
