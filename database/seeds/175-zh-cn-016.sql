@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A comfort zone is a beautiful place, but nothing ever grows there.', 'zh-CN',
      '舒适区是个美丽的地方，但那里什么也长不出来。'),
     ('I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail.', 'zh-CN',
-     '我不会沿着路径走向它通往的地方，我要去没有路的地方，并留下一条足迹。');
+     '我不会沿着路径走向它通往的地方，我要去没有路的地方，并留下一条足迹。'),
+    ('Becoming is better than being.', 'zh-CN',
+     '成为，胜过存在。');
