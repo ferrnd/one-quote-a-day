@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Leap, and the net will appear.', 'ko',
      '뛰어라. 그러면 그물이 나타날 것이다.'),
     ('Security is mostly a superstition. Life is either a daring adventure or nothing.', 'ko',
-     '안전이란 대개 미신이다. 인생은 대담한 모험이거나, 아무것도 아니다.');
+     '안전이란 대개 미신이다. 인생은 대담한 모험이거나, 아무것도 아니다.'),
+    ('What would life be if we had no courage to attempt anything?', 'ko',
+     '무엇이든 시도해 볼 용기가 없다면 인생은 어떻게 될까?');
