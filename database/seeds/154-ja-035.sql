@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''m not going to limit myself just because people won''t accept the fact that I can do something else.', 'ja',
      '私がほかのこともできるという事実を人々が受け入れないからといって、自分に限界を設けるつもりはない。'),
     ('Nobody has ever measured, not even poets, how much the heart can hold.', 'ja',
-     '心がどれほど多くを抱えられるか、詩人でさえ、誰も測ったことはない。');
+     '心がどれほど多くを抱えられるか、詩人でさえ、誰も測ったことはない。'),
+    ('Not all of us can do great things. But we can do small things with great love.', 'ja',
+     '私たちは皆が偉大なことをできるわけではありません。でも、小さなことを大きな愛をもって行うことはできます。');
