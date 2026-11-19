@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything you''ve ever wanted is on the other side of fear.', 'ko',
      '당신이 원했던 모든 것은 두려움의 반대편에 있다.'),
     ('Inaction breeds doubt and fear. Action breeds confidence and courage.', 'ko',
-     '행동하지 않으면 의심과 두려움이 자라고, 행동하면 자신감과 용기가 자란다.');
+     '행동하지 않으면 의심과 두려움이 자라고, 행동하면 자신감과 용기가 자란다.'),
+    ('Courage is being scared to death, but saddling up anyway.', 'ko',
+     '용기란 죽을 만큼 무서워도 결국 말에 안장을 얹는 것이다.');
