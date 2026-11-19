@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life isn''t about waiting for the storm to pass. It''s about learning to dance in the rain.', 'ja',
      '人生とは嵐が過ぎ去るのを待つことではない。雨の中で踊ることを学ぶことだ。'),
     ('Adversity reveals genius, prosperity conceals it.', 'ja',
-     '逆境は才能を明らかにし、順境はそれを隠す。');
+     '逆境は才能を明らかにし、順境はそれを隠す。'),
+    ('When the going gets tough, the tough get going.', 'ja',
+     '状況が厳しくなると、強い者が動き出す。');
