@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The time is always right to do what is right.', 'zh-CN',
      '做正确的事，任何时候都是正确的时机。'),
     ('A goal properly set is halfway reached.', 'zh-CN',
-     '一个设定恰当的目标，已经实现了一半。');
+     '一个设定恰当的目标，已经实现了一半。'),
+    ('Things do not happen. Things are made to happen.', 'zh-CN',
+     '事情不会自己发生，事情是靠人促成的。');
