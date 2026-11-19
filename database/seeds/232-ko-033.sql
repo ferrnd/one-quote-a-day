@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure happens all the time. It happens every day in practice. What makes you better is how you react to it.', 'ko',
      '실패는 늘 일어난다. 연습에서는 매일 일어난다. 당신을 더 낫게 만드는 것은 그것에 어떻게 반응하느냐다.'),
     ('There are no mistakes or failures, only lessons.', 'ko',
-     '실수도 실패도 없다. 오직 교훈만 있을 뿐이다.');
+     '실수도 실패도 없다. 오직 교훈만 있을 뿐이다.'),
+    ('I have learned more from my mistakes than from my successes.', 'ko',
+     '나는 성공보다 실수에서 더 많이 배웠다.');
