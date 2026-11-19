@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Man is not worried by real problems so much as by his imagined anxieties about real problems.', 'zh-CN',
      '让人烦恼的往往不是真实的问题，而是人对真实问题的想象出来的焦虑。'),
     ('If you think you are beaten, you are.', 'zh-CN',
-     '如果你认为自己被打败了，那你就是被打败了。');
+     '如果你认为自己被打败了，那你就是被打败了。'),
+    ('Sooner or later the man who wins is the man who thinks he can.', 'zh-CN',
+     '迟早有一天，赢的是那个认为自己能赢的人。');
