@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Aim for the moon. If you miss, you may hit a star.', 'ja',
      '月を目指せ。外れても、星に当たるかもしれない。'),
     ('Nothing happens unless first we dream.', 'ja',
-     'まず夢を見なければ、何も起こらない。');
+     'まず夢を見なければ、何も起こらない。'),
+    ('Those who dream by day are cognizant of many things which escape those who dream only by night.', 'ja',
+     '昼に夢を見る者は、夜にしか夢を見ない者が見逃す多くのことに気づいている。');
