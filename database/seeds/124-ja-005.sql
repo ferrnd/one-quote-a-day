@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.', 'ja',
      '挑戦した。失敗した。かまわない。また挑戦しろ。また失敗しろ。もっとうまく失敗しろ。'),
     ('I''ve failed over and over and over again in my life. And that is why I succeed.', 'ja',
-     '私は人生で何度も何度も失敗してきた。だからこそ成功できるのだ。');
+     '私は人生で何度も何度も失敗してきた。だからこそ成功できるのだ。'),
+    ('Only those who dare to fail greatly can ever achieve greatly.', 'ja',
+     '大きく失敗する勇気のある者だけが、大きなことを成し遂げられる。');
