@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Bear up, my heart; you have endured worse than this.', 'ja',
      '耐えよ、わが心よ。お前はこれよりもひどいことに耐えてきたではないか。'),
     ('This too shall pass.', 'ja',
-     'これもまた過ぎ去る。');
+     'これもまた過ぎ去る。'),
+    ('Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.', 'ja',
+     '実現に時間がかかるからといって、夢を決してあきらめてはいけない。どうせ時間は過ぎていくのだから。');
