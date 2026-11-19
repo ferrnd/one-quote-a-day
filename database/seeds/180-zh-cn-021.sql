@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('How wonderful it is that nobody need wait a single moment before starting to improve the world.', 'zh-CN',
      '没有人需要等待片刻就能开始改善这个世界，这是多么美好啊。'),
     ('One person can make a difference, and everyone should try.', 'zh-CN',
-     '一个人就能带来改变，每个人都应该尝试。');
+     '一个人就能带来改变，每个人都应该尝试。'),
+    ('We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.', 'zh-CN',
+     '我们选择在这个十年内登上月球并做其他的事，不是因为它们容易，而是因为它们困难。');
