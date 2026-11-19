@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength and growth come only through continuous effort and struggle.', 'ja',
      '強さと成長は、絶え間ない努力と苦闘を通してのみ得られる。'),
     ('Out of your vulnerabilities will come your strength.', 'ja',
-     'あなたの弱さから、あなたの強さが生まれる。');
+     'あなたの弱さから、あなたの強さが生まれる。'),
+    ('A woman is like a tea bag; you can''t tell how strong she is until you put her in hot water.', 'ja',
+     '女性はティーバッグのようなもの。熱いお湯に入れてみるまで、どれほど強いかはわからない。');
