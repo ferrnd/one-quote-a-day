@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no shortcuts to any place worth going.', 'ko',
      '가 볼 가치가 있는 곳으로 가는 지름길은 없다.'),
     ('The only place where success comes before work is in the dictionary.', 'ko',
-     '성공이 노력보다 먼저 오는 곳은 사전뿐이다.');
+     '성공이 노력보다 먼저 오는 곳은 사전뿐이다.'),
+    ('Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.', 'ko',
+     '재능은 식탁 위 소금보다 싸다. 재능 있는 사람과 성공한 사람을 가르는 것은 엄청난 노력이다.');
