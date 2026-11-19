@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Clear thinking requires courage rather than intelligence.', 'ja',
      '明晰に考えるには、知性よりも勇気が必要だ。'),
     ('It''s not the load that breaks you down, it''s the way you carry it.', 'ja',
-     '人を押しつぶすのは荷物の重さではなく、その運び方だ。');
+     '人を押しつぶすのは荷物の重さではなく、その運び方だ。'),
+    ('Ability is what you''re capable of doing. Motivation determines what you do. Attitude determines how well you do it.', 'ja',
+     '能力とは、できることだ。やる気は、何をするかを決める。姿勢は、それをどれだけうまくやるかを決める。');
