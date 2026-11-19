@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only in the darkness can you see the stars.', 'zh-CN',
      '唯有在黑暗中，你才能看见星星。'),
     ('Even the darkest night will end and the sun will rise.', 'zh-CN',
-     '即使是最黑暗的夜晚也会结束，太阳终将升起。');
+     '即使是最黑暗的夜晚也会结束，太阳终将升起。'),
+    ('Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.', 'zh-CN',
+     '乐观是通向成就的信念。没有希望和信心，什么也做不成。');
