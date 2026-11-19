@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is a love affair with the unknown.', 'ja',
      '勇気とは、未知なるものとの恋愛である。'),
     ('What you''re supposed to do when you don''t like a thing is change it.', 'ja',
-     '気に入らないことがあるなら、するべきことはそれを変えることだ。');
+     '気に入らないことがあるなら、するべきことはそれを変えることだ。'),
+    ('Be brave. Take risks. Nothing can substitute experience.', 'ja',
+     '勇敢であれ。危険を冒せ。経験に代わるものはない。');
