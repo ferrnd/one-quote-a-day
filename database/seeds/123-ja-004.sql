@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Far better is it to dare mighty things, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy much nor suffer much.', 'ja',
      'たとえ失敗にまみれても、大きなことに挑み、輝かしい勝利を得るほうがはるかにいい。大して喜びも苦しみも味わわない哀れな魂たちと肩を並べるよりは。'),
     ('It is not the critic who counts.', 'ja',
-     '大切なのは批評家ではない。');
+     '大切なのは批評家ではない。'),
+    ('The credit belongs to the man who is actually in the arena.', 'ja',
+     '称賛に値するのは、実際に闘技場に立っている者である。');
