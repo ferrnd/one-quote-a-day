@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you get by achieving your goals is not as important as what you become by achieving your goals.', 'ko',
      '목표를 이루어서 얻는 것은, 목표를 이루면서 당신이 어떤 사람이 되느냐만큼 중요하지 않다.'),
     ('Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don''t belong.', 'ko',
-     '성장은 아프다. 변화도 아프다. 하지만 당신이 속하지 않은 곳에 갇혀 있는 것만큼 아픈 것은 없다.');
+     '성장은 아프다. 변화도 아프다. 하지만 당신이 속하지 않은 곳에 갇혀 있는 것만큼 아픈 것은 없다.'),
+    ('And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.', 'ko',
+     '그리고 마침내 그날이 왔다. 꽃봉오리 속에 꼭 닫혀 있는 위험이 꽃을 피우는 위험보다 더 고통스러워진 날이.');
