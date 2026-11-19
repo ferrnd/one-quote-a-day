@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Clear thinking requires courage rather than intelligence.', 'zh-CN',
      '清晰的思考需要的是勇气，而不是智力。'),
     ('It''s not the load that breaks you down, it''s the way you carry it.', 'zh-CN',
-     '压垮你的不是重担，而是你背负它的方式。');
+     '压垮你的不是重担，而是你背负它的方式。'),
+    ('Ability is what you''re capable of doing. Motivation determines what you do. Attitude determines how well you do it.', 'zh-CN',
+     '能力是你能做什么，动力决定你做什么，态度决定你做得多好。');
