@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.', 'ko',
      '우리를 구원하는 것은 우리 자신뿐이다. 누구도 할 수 없고, 누구도 해서는 안 된다. 우리 스스로 그 길을 걸어야 한다.'),
     ('Power is not given to you. You have to take it.', 'ko',
-     '힘은 주어지는 것이 아니다. 스스로 쟁취해야 한다.');
+     '힘은 주어지는 것이 아니다. 스스로 쟁취해야 한다.'),
+    ('I''m not going to limit myself just because people won''t accept the fact that I can do something else.', 'ko',
+     '내가 다른 일도 할 수 있다는 사실을 사람들이 받아들이지 않는다고 해서 스스로를 제한하지는 않을 것이다.');
