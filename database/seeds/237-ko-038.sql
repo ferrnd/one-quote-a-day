@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s the repetition of affirmations that leads to belief.', 'ko',
      '믿음으로 이끄는 것은 자기 확신의 반복이다.'),
     ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'ko',
-     '내 머리가 그것을 생각할 수 있고 내 마음이 그것을 믿을 수 있다면, 나는 그것을 이룰 수 있다.');
+     '내 머리가 그것을 생각할 수 있고 내 마음이 그것을 믿을 수 있다면, 나는 그것을 이룰 수 있다.'),
+    ('Confidence is contagious. So is lack of confidence.', 'ko',
+     '자신감은 전염된다. 자신감의 부족도 마찬가지다.');
