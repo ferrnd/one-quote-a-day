@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Age is no barrier. It''s a limitation you put on your mind.', 'ko',
      '나이는 장벽이 아니다. 당신이 스스로의 마음에 씌운 한계일 뿐이다.'),
     ('The difference between ordinary and extraordinary is that little extra.', 'ko',
-     '평범함과 비범함의 차이는 바로 그 작은 ''더''에 있다.');
+     '평범함과 비범함의 차이는 바로 그 작은 ''더''에 있다.'),
+    ('Winning isn''t everything, but wanting to win is.', 'ko',
+     '이기는 것이 전부는 아니다. 하지만 이기고 싶어 하는 마음은 전부다.');
