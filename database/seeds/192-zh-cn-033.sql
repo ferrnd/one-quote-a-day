@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The successful man will profit from his mistakes and try again in a different way.', 'zh-CN',
      '成功的人会从错误中获益，并以不同的方式再试一次。'),
     ('Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.', 'zh-CN',
-     '从失败中发展出成功。沮丧和失败是通往成功最可靠的两块垫脚石。');
+     '从失败中发展出成功。沮丧和失败是通往成功最可靠的两块垫脚石。'),
+    ('Mistakes are always forgivable, if one has the courage to admit them.', 'zh-CN',
+     '只要有勇气承认，错误总是可以被原谅的。');
