@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Once you learn to quit, it becomes a habit.', 'ko',
      '한 번 포기하는 법을 배우면 그것은 습관이 된다.'),
     ('Today I will do what others won''t, so tomorrow I can accomplish what others can''t.', 'ko',
-     '오늘 나는 남들이 하지 않을 일을 한다. 그래서 내일 남들이 할 수 없는 일을 이룰 수 있다.');
+     '오늘 나는 남들이 하지 않을 일을 한다. 그래서 내일 남들이 할 수 없는 일을 이룰 수 있다.'),
+    ('You can''t put a limit on anything. The more you dream, the farther you get.', 'ko',
+     '무엇에도 한계를 둘 수 없다. 꿈을 꿀수록 더 멀리 간다.');
