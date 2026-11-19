@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I took a deep breath and listened to the old brag of my heart: I am, I am, I am.', 'ko',
      '나는 숨을 깊이 들이쉬고, 내 심장이 늘 해 오던 자랑에 귀를 기울였다. 나는 있다, 나는 있다, 나는 있다.'),
     ('Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.', 'ko',
-     '어쩌면 우리 삶의 모든 용은, 우리가 단 한 번이라도 아름답고 용감하게 행동하는 모습을 보기만 기다리는 공주일지도 모른다.');
+     '어쩌면 우리 삶의 모든 용은, 우리가 단 한 번이라도 아름답고 용감하게 행동하는 모습을 보기만 기다리는 공주일지도 모른다.'),
+    ('What would you attempt to do if you knew you would not fail?', 'ko',
+     '절대 실패하지 않는다는 것을 안다면, 당신은 무엇을 시도하겠는가?');
