@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The key to everything is patience. You get the chicken by hatching the egg, not by smashing it.', 'ja',
      'すべての鍵は忍耐だ。鶏を得るには、卵を割るのではなく、かえすのだ。'),
     ('Patience and time do more than strength or passion.', 'ja',
-     '忍耐と時間は、力や激情よりも多くのことを成し遂げる。');
+     '忍耐と時間は、力や激情よりも多くのことを成し遂げる。'),
+    ('Our patience will achieve more than our force.', 'ja',
+     '私たちの忍耐は、力よりも多くを成し遂げるだろう。');
