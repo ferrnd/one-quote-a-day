@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The power of imagination makes us infinite.', 'zh-CN',
      '想象力让我们变得无限。'),
     ('You see things; and you say ''Why?'' But I dream things that never were; and I say ''Why not?''', 'zh-CN',
-     '你看到事物，然后问：“为什么？”而我梦想着从未存在过的事物，然后问：“为什么不？”');
+     '你看到事物，然后问：“为什么？”而我梦想着从未存在过的事物，然后问：“为什么不？”'),
+    ('Hitch your wagon to a star.', 'zh-CN',
+     '把你的马车拴在星星上。');
