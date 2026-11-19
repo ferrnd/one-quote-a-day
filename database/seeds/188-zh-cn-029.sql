@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t grieve. Anything you lose comes round in another form.', 'zh-CN',
      '不要悲伤。你失去的任何东西，都会以另一种形式回来。'),
     ('Set your life on fire. Seek those who fan your flames.', 'zh-CN',
-     '点燃你的生命，去寻找那些为你的火焰扇风的人。');
+     '点燃你的生命，去寻找那些为你的火焰扇风的人。'),
+    ('Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.', 'zh-CN',
+     '昨天的我很聪明，所以我想改变世界；今天的我很明智，所以我在改变自己。');
