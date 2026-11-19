@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.', 'ko',
      '구름이 내 삶으로 떠 들어온다. 더 이상 비를 몰고 오거나 폭풍을 예고하려는 것이 아니라, 내 노을 진 하늘에 색을 더하려고.'),
     ('Character is power.', 'ko',
-     '인격이 곧 힘이다.');
+     '인격이 곧 힘이다.'),
+    ('I am not afraid; I was born to do this.', 'ko',
+     '나는 두렵지 않다. 나는 이 일을 하려고 태어났다.');
