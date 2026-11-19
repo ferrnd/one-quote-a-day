@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you fell down yesterday, stand up today.', 'zh-CN',
      '如果你昨天跌倒了，今天就站起来。'),
     ('I will persist until I succeed.', 'zh-CN',
-     '我会坚持下去，直到成功。');
+     '我会坚持下去，直到成功。'),
+    ('One may walk over the highest mountain one step at a time.', 'zh-CN',
+     '再高的山，一步一步也能翻越。');
