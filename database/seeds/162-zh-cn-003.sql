@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Inaction breeds doubt and fear. Action breeds confidence and courage.', 'zh-CN',
      '不行动滋生怀疑与恐惧，行动孕育自信与勇气。'),
     ('Courage is being scared to death, but saddling up anyway.', 'zh-CN',
-     '勇气就是怕得要死，却依然跨上马鞍。');
+     '勇气就是怕得要死，却依然跨上马鞍。'),
+    ('I am not afraid of storms, for I am learning how to sail my ship.', 'zh-CN',
+     '我不怕暴风雨，因为我正在学习如何驾驶我的船。');
