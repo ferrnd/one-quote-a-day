@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Why, sometimes I''ve believed as many as six impossible things before breakfast.', 'ko',
      '글쎄, 나는 아침 먹기 전에 불가능한 일을 여섯 가지나 믿은 적도 있단다.'),
     ('The worst enemy to creativity is self-doubt.', 'ko',
-     '창의성의 가장 큰 적은 자기 의심이다.');
+     '창의성의 가장 큰 적은 자기 의심이다.'),
+    ('I dwell in possibility.', 'ko',
+     '나는 가능성 속에 산다.');
