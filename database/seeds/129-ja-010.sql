@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a renewable option: if you run out of it at the end of the day, you get to start over in the morning.', 'ja',
      '希望は何度でも新しくできる選択肢だ。一日の終わりに使い果たしても、朝になればまた始められる。'),
     ('What oxygen is to the lungs, such is hope to the meaning of life.', 'ja',
-     '肺にとっての酸素と同じものが、人生の意味にとっての希望である。');
+     '肺にとっての酸素と同じものが、人生の意味にとっての希望である。'),
+    ('The very least you can do in your life is figure out what you hope for.', 'ja',
+     '人生でできるせめてものことは、自分が何を望んでいるのかを見つけることだ。');
