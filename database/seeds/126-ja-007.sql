@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of difficulties grow miracles.', 'ja',
      '困難の中から奇跡は育つ。'),
     ('The gem cannot be polished without friction, nor man perfected without trials.', 'ja',
-     '玉は磨かざれば光なく、人は試練なくして完成せず。');
+     '玉は磨かざれば光なく、人は試練なくして完成せず。'),
+    ('Smooth seas do not make skillful sailors.', 'ja',
+     '穏やかな海は、腕のいい船乗りを育てない。');
