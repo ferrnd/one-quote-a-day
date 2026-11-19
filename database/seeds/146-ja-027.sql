@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fight for the things that you care about, but do it in a way that will lead others to join you.', 'ja',
      '大切に思うもののために闘いなさい。ただし、ほかの人も加わりたくなるようなやり方で。'),
     ('Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves.', 'ja',
-     '人生は誰にとっても楽ではない。でも、それが何だというのだろう。私たちには忍耐が必要であり、何よりも自分自身への自信が必要だ。');
+     '人生は誰にとっても楽ではない。でも、それが何だというのだろう。私たちには忍耐が必要であり、何よりも自分自身への自信が必要だ。'),
+    ('We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.', 'ja',
+     '私たちは、自分に何かの才能が与えられていると信じなければならない。そしてそれを、どんな犠牲を払ってでも成し遂げなければならないと。');
