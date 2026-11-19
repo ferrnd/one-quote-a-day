@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.', 'ja',
      '疑いは裏切り者だ。挑戦を恐れさせ、手に入れられたはずの善きものを失わせる。'),
     ('If we did all the things we are capable of, we would literally astound ourselves.', 'ja',
-     'もし自分にできることをすべてやったら、私たちは文字どおり自分自身に驚くだろう。');
+     'もし自分にできることをすべてやったら、私たちは文字どおり自分自身に驚くだろう。'),
+    ('The best time to plant a tree was 20 years ago. The second best time is now.', 'ja',
+     '木を植えるのに最適な時期は20年前だった。次に最適な時期は今だ。');
