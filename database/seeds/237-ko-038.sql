@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the calm acceptance that things can happen in a different order than the one you have in mind.', 'ko',
      '인내란 일이 내가 생각한 순서와 다른 순서로 일어날 수 있다는 것을 차분히 받아들이는 것이다.'),
     ('Patience and fortitude conquer all things.', 'ko',
-     '인내와 불굴의 의지는 모든 것을 이겨 낸다.');
+     '인내와 불굴의 의지는 모든 것을 이겨 낸다.'),
+    ('Have patience. All things are difficult before they become easy.', 'ko',
+     '인내하라. 모든 일은 쉬워지기 전에는 어렵다.');
