@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The world breaks everyone and afterward many are strong at the broken places.', 'ja',
      '世界は誰をも打ち砕く。そしてその後、多くの者はその砕かれた場所で強くなる。'),
     ('What does not kill me makes me stronger.', 'ja',
-     '私を殺さないものは、私をより強くする。');
+     '私を殺さないものは、私をより強くする。'),
+    ('He who has a why to live can bear almost any how.', 'ja',
+     '生きる理由を持つ者は、ほとんどどんな生き方にも耐えられる。');
