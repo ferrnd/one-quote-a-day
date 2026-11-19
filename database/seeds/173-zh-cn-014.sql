@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Well done is better than well said.', 'zh-CN',
      '做得好胜过说得好。'),
     ('Lost time is never found again.', 'zh-CN',
-     '失去的时间再也找不回来。');
+     '失去的时间再也找不回来。'),
+    ('Without hard work, nothing grows but weeds.', 'zh-CN',
+     '没有辛勤的劳动，除了杂草什么也长不出来。');
