@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Who looks outside, dreams; who looks inside, awakes.', 'ja',
      '外を見る者は夢を見、内を見る者は目覚める。'),
     ('You are never given a wish without also being given the power to make it come true.', 'ja',
-     '願いが与えられるときには、必ずそれをかなえる力も一緒に与えられている。');
+     '願いが与えられるときには、必ずそれをかなえる力も一緒に与えられている。'),
+    ('The unexamined life is not worth living.', 'ja',
+     '吟味されない人生は、生きるに値しない。');
