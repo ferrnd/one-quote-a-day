@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The most difficult thing is the decision to act, the rest is merely tenacity.', 'zh-CN',
      '最困难的是下定决心去行动，剩下的只是坚持。'),
     ('The most effective way to do it, is to do it.', 'zh-CN',
-     '做一件事最有效的方法，就是去做。');
+     '做一件事最有效的方法，就是去做。'),
+    ('Don''t sit down and wait for the opportunities to come. Get up and make them.', 'zh-CN',
+     '不要坐着等机会到来，站起来去创造机会。');
