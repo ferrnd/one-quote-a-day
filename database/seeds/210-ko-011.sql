@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength and growth come only through continuous effort and struggle.', 'ko',
      '힘과 성장은 끊임없는 노력과 투쟁을 통해서만 얻어진다.'),
     ('Out of your vulnerabilities will come your strength.', 'ko',
-     '당신의 약함에서 당신의 강함이 나올 것이다.');
+     '당신의 약함에서 당신의 강함이 나올 것이다.'),
+    ('A woman is like a tea bag; you can''t tell how strong she is until you put her in hot water.', 'ko',
+     '여자는 티백과 같다. 뜨거운 물에 넣어 보기 전에는 얼마나 진한지 알 수 없다.');
