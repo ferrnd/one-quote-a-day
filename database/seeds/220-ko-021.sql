@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Doing the best at this moment puts you in the best place for the next moment.', 'ko',
      '이 순간 최선을 다하면 다음 순간 최선의 자리에 있게 된다.'),
     ('The future starts today, not tomorrow.', 'ko',
-     '미래는 내일이 아니라 오늘 시작된다.');
+     '미래는 내일이 아니라 오늘 시작된다.'),
+    ('Whether you think you can, or you think you can''t, you''re right.', 'ko',
+     '할 수 있다고 생각하든 할 수 없다고 생각하든, 당신이 옳다.');
