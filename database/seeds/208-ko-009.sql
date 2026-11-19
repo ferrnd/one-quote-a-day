@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only in the darkness can you see the stars.', 'ko',
      '어둠 속에서만 별을 볼 수 있다.'),
     ('Even the darkest night will end and the sun will rise.', 'ko',
-     '가장 어두운 밤도 끝나고 해는 떠오를 것이다.');
+     '가장 어두운 밤도 끝나고 해는 떠오를 것이다.'),
+    ('Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.', 'ko',
+     '낙관주의는 성취로 이끄는 믿음이다. 희망과 자신감 없이는 아무것도 이룰 수 없다.');
