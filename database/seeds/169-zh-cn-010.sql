@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be like the bird who, halting in his flight on limb too slight, feels it give way beneath him, yet sings, knowing he hath wings.', 'zh-CN',
      '要像那只鸟，飞行中停在太细的枝头，感觉到枝条在脚下弯折，却依然歌唱，因为它知道自己有翅膀。'),
     ('While I breathe, I hope.', 'zh-CN',
-     '只要我还在呼吸，我就怀有希望。');
+     '只要我还在呼吸，我就怀有希望。'),
+    ('Every day may not be good, but there''s something good in every day.', 'zh-CN',
+     '也许不是每一天都美好，但每一天都有美好的东西。');
