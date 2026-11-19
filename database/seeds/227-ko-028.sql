@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have a dream.', 'ko',
      '나에게는 꿈이 있습니다.'),
     ('What is now proved was once only imagined.', 'ko',
-     '지금 증명된 것도 한때는 상상에 불과했다.');
+     '지금 증명된 것도 한때는 상상에 불과했다.'),
+    ('Aim for the moon. If you miss, you may hit a star.', 'ko',
+     '달을 겨냥하라. 빗나가더라도 별을 맞힐 수 있을 것이다.');
