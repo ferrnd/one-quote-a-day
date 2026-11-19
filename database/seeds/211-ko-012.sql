@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am the master of my fate, I am the captain of my soul.', 'ko',
      '나는 내 운명의 주인이요, 내 영혼의 선장이다.'),
     ('I thank whatever gods may be for my unconquerable soul.', 'ko',
-     '어떤 신들이 있든, 나에게 정복당하지 않는 영혼을 주신 것에 감사한다.');
+     '어떤 신들이 있든, 나에게 정복당하지 않는 영혼을 주신 것에 감사한다.'),
+    ('A hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.', 'ko',
+     '영웅이란 압도적인 장애물에도 불구하고 버티고 견딜 힘을 찾아내는 평범한 사람이다.');
