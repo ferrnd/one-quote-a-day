@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s not what happens to you, but how you react to it that matters.', 'ja',
      '大切なのは何が起こるかではなく、それにどう反応するかだ。'),
     ('Begin at once to live, and count each separate day as a separate life.', 'ja',
-     '今すぐ生き始めよ。そして一日一日を、それぞれ一つの人生として数えよ。');
+     '今すぐ生き始めよ。そして一日一日を、それぞれ一つの人生として数えよ。'),
+    ('Start where you are. Use what you have. Do what you can.', 'ja',
+     '今いる場所から始めよ。持っているものを使え。できることをせよ。');
