@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One never notices what has been done; one can only see what remains to be done.', 'zh-CN',
      '人们从不留意已经完成的事情，只能看到还剩下什么要做。'),
     ('I raise up my voice, not so that I can shout, but so that those without a voice can be heard.', 'zh-CN',
-     '我提高声音，不是为了呐喊，而是为了让那些没有声音的人被听见。');
+     '我提高声音，不是为了呐喊，而是为了让那些没有声音的人被听见。'),
+    ('One child, one teacher, one book, one pen can change the world.', 'zh-CN',
+     '一个孩子、一位老师、一本书、一支笔，就能改变世界。');
