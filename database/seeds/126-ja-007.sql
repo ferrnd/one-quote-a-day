@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Turn your wounds into wisdom.', 'ja',
      '傷を知恵に変えなさい。'),
     ('When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.', 'ja',
-     'すべてが自分に逆らっているように思えるときは、思い出してほしい。飛行機は追い風ではなく、向かい風に向かって離陸するのだ。');
+     'すべてが自分に逆らっているように思えるときは、思い出してほしい。飛行機は追い風ではなく、向かい風に向かって離陸するのだ。'),
+    ('Out of difficulties grow miracles.', 'ja',
+     '困難の中から奇跡は育つ。');
