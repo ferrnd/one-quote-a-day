@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Worry does not empty tomorrow of its sorrow, it empties today of its strength.', 'ja',
      '心配は明日の悲しみを取り除いてはくれない。今日の力を奪うだけだ。'),
     ('Man is not worried by real problems so much as by his imagined anxieties about real problems.', 'ja',
-     '人を悩ませるのは現実の問題そのものよりも、現実の問題について想像した不安である。');
+     '人を悩ませるのは現実の問題そのものよりも、現実の問題について想像した不安である。'),
+    ('If you think you are beaten, you are.', 'ja',
+     '負けたと思えば、あなたは負けている。');
