@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Even the smallest person can change the course of the future.', 'zh-CN',
      '即使是最渺小的人，也能改变未来的方向。'),
     ('All we have to decide is what to do with the time that is given us.', 'zh-CN',
-     '我们唯一要决定的，是如何利用被赋予的时间。');
+     '我们唯一要决定的，是如何利用被赋予的时间。'),
+    ('It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.', 'zh-CN',
+     '面对敌人需要极大的勇气，而面对朋友也需要同样多的勇气。');
