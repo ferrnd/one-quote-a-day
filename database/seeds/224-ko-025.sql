@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let go or be dragged.', 'ko',
      '놓아라, 그렇지 않으면 끌려간다.'),
     ('Determination is the wake-up call to the human will.', 'ko',
-     '결단은 인간의 의지를 깨우는 기상 신호다.');
+     '결단은 인간의 의지를 깨우는 기상 신호다.'),
+    ('The difference between the impossible and the possible lies in a man''s determination.', 'ko',
+     '불가능과 가능의 차이는 사람의 결단에 있다.');
