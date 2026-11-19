@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not afraid of tomorrow, for I have seen yesterday and I love today.', 'zh-CN',
      '我不害怕明天，因为我见过昨天，而且我热爱今天。'),
     ('Every day is a new day.', 'zh-CN',
-     '每一天都是新的一天。');
+     '每一天都是新的一天。'),
+    ('The only journey is the one within.', 'zh-CN',
+     '唯一的旅程，是向内的旅程。');
