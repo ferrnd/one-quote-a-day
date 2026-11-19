@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adopt the pace of nature: her secret is patience.', 'ko',
      '자연의 속도를 따르라. 자연의 비결은 인내다.'),
     ('Nature does not hurry, yet everything is accomplished.', 'ko',
-     '자연은 서두르지 않지만, 모든 것이 이루어진다.');
+     '자연은 서두르지 않지만, 모든 것이 이루어진다.'),
+    ('Trees that are slow to grow bear the best fruit.', 'ko',
+     '느리게 자라는 나무가 가장 좋은 열매를 맺는다.');
