@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Always bear in mind that your own resolution to succeed is more important than any other.', 'ja',
      '成功しようという自分自身の決意が、ほかの何よりも大切であることを常に心に留めておきなさい。'),
     ('Pain is temporary. Quitting lasts forever.', 'ja',
-     '痛みは一時的なものだ。だが、あきらめれば、それは永遠に残る。');
+     '痛みは一時的なものだ。だが、あきらめれば、それは永遠に残る。'),
+    ('I have stood on a mountain of no''s for one yes.', 'ja',
+     '一つの「イエス」のために、私は山ほどの「ノー」の上に立ってきた。');
