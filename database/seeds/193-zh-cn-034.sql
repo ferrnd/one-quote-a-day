@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When life knocks you down, try to land on your back. Because if you can look up, you can get up.', 'zh-CN',
      '当生活把你击倒时，尽量仰面倒下。因为只要你能抬头看，你就能站起来。'),
     ('Out of every crisis comes the chance to be reborn.', 'zh-CN',
-     '每一次危机都带来重生的机会。');
+     '每一次危机都带来重生的机会。'),
+    ('Nothing is permanent in this wicked world, not even our troubles.', 'zh-CN',
+     '在这个邪恶的世界里，没有什么是永恒的，连我们的烦恼也不是。');
