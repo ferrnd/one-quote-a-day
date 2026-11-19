@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am prepared for the worst, but hope for the best.', 'ja',
      '最悪に備え、最善を望む。'),
     ('We need never be hopeless because we can never be irreparably broken.', 'ja',
-     '私たちが絶望する必要はない。決して取り返しのつかないほど壊れてしまうことはないのだから。');
+     '私たちが絶望する必要はない。決して取り返しのつかないほど壊れてしまうことはないのだから。'),
+    ('We will grieve not, rather find strength in what remains behind.', 'ja',
+     '嘆くまい。むしろ、後に残されたものの中に力を見いだそう。');
