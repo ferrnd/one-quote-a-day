@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our strength grows out of our weaknesses.', 'ko',
      '우리의 강함은 우리의 약함에서 자라난다.'),
     ('Fortitude is the guard and support of the other virtues.', 'ko',
-     '굳센 의지는 다른 덕목들의 수호자이자 버팀목이다.');
+     '굳센 의지는 다른 덕목들의 수호자이자 버팀목이다.'),
+    ('I am no bird; and no net ensnares me: I am a free human being with an independent will.', 'ko',
+     '나는 새가 아니다. 어떤 그물도 나를 옭아매지 못한다. 나는 독립된 의지를 지닌 자유로운 인간이다.');
