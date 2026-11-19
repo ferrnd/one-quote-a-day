@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is the sum of small efforts, repeated day in and day out.', 'ja',
      '成功とは、日々繰り返される小さな努力の積み重ねである。'),
     ('It always seems impossible until it''s done.', 'ja',
-     '何事も、成し遂げるまでは不可能に思えるものだ。');
+     '何事も、成し遂げるまでは不可能に思えるものだ。'),
+    ('Nothing in this world can take the place of persistence.', 'ja',
+     'この世に、粘り強さに代わるものはない。');
