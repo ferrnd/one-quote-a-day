@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The impediment to action advances action. What stands in the way becomes the way.', 'ja',
      '行動を妨げるものが、行動を前に進める。道をふさぐものが、道となるのだ。'),
     ('If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.', 'ja',
-     '外のことに悩まされるなら、その苦しみは物事そのものではなく、あなたの見方から来ている。そしてその見方は、いつでも取り消すことができる。');
+     '外のことに悩まされるなら、その苦しみは物事そのものではなく、あなたの見方から来ている。そしてその見方は、いつでも取り消すことができる。'),
+    ('Waste no more time arguing about what a good man should be. Be one.', 'ja',
+     '善い人間とはどうあるべきかを論じて、これ以上時間を無駄にするな。善い人間であれ。');
