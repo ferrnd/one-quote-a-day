@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.', 'ja',
      '私たちの最大の弱点は、あきらめることにある。成功するための最も確実な方法は、常にもう一度だけ試してみることだ。'),
     ('Good people are good because they''ve come to wisdom through failure.', 'ja',
-     '善い人が善いのは、失敗を通して知恵にたどり着いたからだ。');
+     '善い人が善いのは、失敗を通して知恵にたどり着いたからだ。'),
+    ('The greatest mistake you can make in life is to be continually fearing you will make one.', 'ja',
+     '人生で犯しうる最大の間違いは、間違いを犯すことを絶えず恐れることだ。');
