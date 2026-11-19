@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What would life be if we had no courage to attempt anything?', 'zh-CN',
      '如果我们没有勇气去尝试任何事，生活会是什么样子？'),
     ('Far better is it to dare mighty things, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy much nor suffer much.', 'zh-CN',
-     '敢于做大事、赢得辉煌的胜利，即使其间夹杂着失败，也远远胜过与那些既不怎么享受也不怎么受苦的可怜灵魂为伍。');
+     '敢于做大事、赢得辉煌的胜利，即使其间夹杂着失败，也远远胜过与那些既不怎么享受也不怎么受苦的可怜灵魂为伍。'),
+    ('It is not the critic who counts.', 'zh-CN',
+     '重要的不是那些批评的人。');
