@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.', 'ja',
      '地球は人類のゆりかごである。だが、人類はいつまでもゆりかごにとどまってはいられない。'),
     ('Exploration is really the essence of the human spirit.', 'ja',
-     '探検こそ、まさに人間の精神の本質である。');
+     '探検こそ、まさに人間の精神の本質である。'),
+    ('Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.', 'ja',
+     '勝つ軍は、まず勝ってから戦いを求め、負ける軍は、まず戦ってから勝ちを求める。');
