@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is like love; it must have hope for nourishment.', 'ko',
      '용기는 사랑과 같다. 희망이라는 양분이 있어야 한다.'),
     ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'ko',
-     '육체적 용기는 세상에 그토록 흔한데 도덕적 용기는 그토록 드물다는 것이 신기하다.');
+     '육체적 용기는 세상에 그토록 흔한데 도덕적 용기는 그토록 드물다는 것이 신기하다.'),
+    ('The opposite of courage in our society is not cowardice, it is conformity.', 'ko',
+     '우리 사회에서 용기의 반대는 비겁함이 아니라 순응이다.');
