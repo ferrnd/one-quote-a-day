@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Unless you try to do something beyond what you have already mastered, you will never grow.', 'ja',
      'すでに身につけたことを超える何かに挑まないかぎり、人は決して成長しない。'),
     ('We know what we are, but know not what we may be.', 'ja',
-     '我々は自分が何者であるかを知っている。だが、何者になりうるかは知らない。');
+     '我々は自分が何者であるかを知っている。だが、何者になりうるかは知らない。'),
+    ('Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.', 'ja',
+     '疑いは裏切り者だ。挑戦を恐れさせ、手に入れられたはずの善きものを失わせる。');
