@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is necessary, and one cannot reap immediately where one has sown.', 'ja',
      '忍耐が必要だ。種を蒔いたところで、すぐに刈り取ることはできない。'),
     ('Wisely and slow; they stumble that run fast.', 'ja',
-     '賢く、ゆっくりと。速く走る者はつまずく。');
+     '賢く、ゆっくりと。速く走る者はつまずく。'),
+    ('They also serve who only stand and wait.', 'ja',
+     'ただ立って待つ者もまた、仕えているのだ。');
