@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We become what we think about.', 'ko',
      '우리는 우리가 생각하는 대로 된다.'),
     ('If you''re always trying to be normal, you will never know how amazing you can be.', 'ko',
-     '늘 평범해지려고만 한다면, 자신이 얼마나 놀라운 사람이 될 수 있는지 결코 알 수 없을 것이다.');
+     '늘 평범해지려고만 한다면, 자신이 얼마나 놀라운 사람이 될 수 있는지 결코 알 수 없을 것이다.'),
+    ('Why, sometimes I''ve believed as many as six impossible things before breakfast.', 'ko',
+     '글쎄, 나는 아침 먹기 전에 불가능한 일을 여섯 가지나 믿은 적도 있단다.');
