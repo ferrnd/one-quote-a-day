@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Stars can''t shine without darkness.', 'ko',
      '어둠이 없으면 별은 빛날 수 없다.'),
     ('The wound is the place where the Light enters you.', 'ko',
-     '상처는 빛이 당신 안으로 들어오는 자리다.');
+     '상처는 빛이 당신 안으로 들어오는 자리다.'),
+    ('When it is dark enough, you can see the stars.', 'ko',
+     '충분히 어두워지면 별을 볼 수 있다.');
