@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing in life is to be feared, it is only to be understood.', 'ko',
      '인생에서 두려워할 것은 아무것도 없다. 오직 이해해야 할 것이 있을 뿐이다.'),
     ('Bravery is the capacity to perform properly even when scared half to death.', 'ko',
-     '용감함이란 죽을 만큼 무서울 때에도 제대로 해낼 수 있는 능력이다.');
+     '용감함이란 죽을 만큼 무서울 때에도 제대로 해낼 수 있는 능력이다.'),
+    ('With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble.', 'ko',
+     '용기가 있으면 위험을 무릅쓸 수 있고, 연민할 수 있는 힘과 겸손할 수 있는 지혜를 갖게 된다.');
