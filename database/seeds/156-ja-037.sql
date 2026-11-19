@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Begin anywhere.', 'ja',
      'どこからでもいいから始めなさい。'),
     ('Action is eloquence.', 'ja',
-     '行動こそ雄弁である。');
+     '行動こそ雄弁である。'),
+    ('Do not wait for leaders; do it alone, person to person.', 'ja',
+     '指導者を待ってはいけません。一人で、一人ひとりに向き合ってやりなさい。');
