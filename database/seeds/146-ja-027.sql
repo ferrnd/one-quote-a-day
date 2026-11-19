@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Exploration is really the essence of the human spirit.', 'ja',
      '探検こそ、まさに人間の精神の本質である。'),
     ('Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.', 'ja',
-     '勝つ軍は、まず勝ってから戦いを求め、負ける軍は、まず戦ってから勝ちを求める。');
+     '勝つ軍は、まず勝ってから戦いを求め、負ける軍は、まず戦ってから勝ちを求める。'),
+    ('All our dreams can come true, if we have the courage to pursue them.', 'ja',
+     '追い求める勇気があれば、すべての夢はかなう。');
