@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Have patience with all things, but first of all with yourself.', 'zh-CN',
      '对一切事物都要有耐心，但首先要对自己有耐心。'),
     ('One moment of patience may ward off great disaster. One moment of impatience may ruin a whole life.', 'zh-CN',
-     '一时的忍耐可以避免大祸，一时的急躁可能毁掉一生。');
+     '一时的忍耐可以避免大祸，一时的急躁可能毁掉一生。'),
+    ('Patience is not simply the ability to wait; it''s how we behave while we''re waiting.', 'zh-CN',
+     '耐心不仅仅是等待的能力，更是我们在等待时如何表现。');
