@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('After all, tomorrow is another day.', 'ja',
      '結局、明日は明日の風が吹くのだから。'),
     ('Hope is patience with the lamp lit.', 'ja',
-     '希望とは、灯をともしたままの忍耐である。');
+     '希望とは、灯をともしたままの忍耐である。'),
+    ('I am prepared for the worst, but hope for the best.', 'ja',
+     '最悪に備え、最善を望む。');
