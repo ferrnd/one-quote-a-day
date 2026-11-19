@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world.', 'zh-CN',
      '没有行动的愿景只是梦想，没有愿景的行动只是消磨时间，有行动的愿景能改变世界。'),
     ('The future depends on what you do today.', 'zh-CN',
-     '未来取决于你今天做什么。');
+     '未来取决于你今天做什么。'),
+    ('Never put off till tomorrow what you can do today.', 'zh-CN',
+     '今日事，今日毕。');
