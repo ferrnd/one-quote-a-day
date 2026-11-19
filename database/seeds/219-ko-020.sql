@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Talk does not cook rice.', 'ko',
      '말로는 밥을 지을 수 없다.'),
     ('If not now, when?', 'ko',
-     '지금이 아니면 언제인가?');
+     '지금이 아니면 언제인가?'),
+    ('To begin, begin.', 'ko',
+     '시작하려면, 시작하라.');
