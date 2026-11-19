@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('After all, tomorrow is another day.', 'ko',
      '어쨌든 내일은 또 다른 날이니까.'),
     ('Hope is patience with the lamp lit.', 'ko',
-     '희망이란 등불을 켜 둔 채 기다리는 인내다.');
+     '희망이란 등불을 켜 둔 채 기다리는 인내다.'),
+    ('I am prepared for the worst, but hope for the best.', 'ko',
+     '나는 최악에 대비하되 최선을 바란다.');
