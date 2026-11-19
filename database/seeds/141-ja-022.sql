@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perpetual optimism is a force multiplier.', 'ja',
      '絶え間ない楽観主義は、力を何倍にも増幅させる。'),
     ('If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.', 'ja',
-     '心の中で「お前には絵が描けない」という声が聞こえたら、なんとしても描きなさい。そうすればその声は黙るだろう。');
+     '心の中で「お前には絵が描けない」という声が聞こえたら、なんとしても描きなさい。そうすればその声は黙るだろう。'),
+    ('Whatever the mind of man can conceive and believe, it can achieve.', 'ja',
+     '人の心が思い描き、信じることができるものは、何でも実現できる。');
