@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you learn from defeat, you haven''t really lost.', 'ja',
      '敗北から学ぶなら、本当に負けたことにはならない。'),
     ('The master has failed more times than the beginner has even tried.', 'ja',
-     '達人は、初心者が挑戦した回数よりも多く失敗している。');
+     '達人は、初心者が挑戦した回数よりも多く失敗している。'),
+    ('It''s fine to celebrate success but it is more important to heed the lessons of failure.', 'ja',
+     '成功を祝うのはいい。だが、失敗の教訓に耳を傾けることのほうが大切だ。');
