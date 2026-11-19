@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All that we see or seem is but a dream within a dream.', 'zh-CN',
      '我们所见或所似的一切，不过是梦中之梦。'),
     ('Don''t give up on your dreams, or your dreams will give up on you.', 'zh-CN',
-     '不要放弃你的梦想，否则你的梦想也会放弃你。');
+     '不要放弃你的梦想，否则你的梦想也会放弃你。'),
+    ('There is nothing like a dream to create the future.', 'zh-CN',
+     '没有什么能像梦想那样创造未来。');
