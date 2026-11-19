@@ -1,0 +1,5 @@
+-- seed 142 :: ja translations 551-575
+
+INSERT INTO translation_intake (original, locale, body) VALUES
+    ('Positive thinking will let you do everything better than negative thinking will.', 'ja',
+     '前向きな考え方は、後ろ向きな考え方よりも、あらゆることをうまくやらせてくれる。');
