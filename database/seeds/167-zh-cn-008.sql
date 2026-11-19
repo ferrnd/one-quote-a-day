@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When we are no longer able to change a situation, we are challenged to change ourselves.', 'zh-CN',
      '当我们无法再改变处境时，我们就面临着改变自己的挑战。'),
     ('Everything can be taken from a man but one thing: the last of the human freedoms, to choose one''s attitude in any given set of circumstances.', 'zh-CN',
-     '人的一切都可以被夺走，唯独一样不能：那就是人类最后的自由，在任何境遇中选择自己态度的自由。');
+     '人的一切都可以被夺走，唯独一样不能：那就是人类最后的自由，在任何境遇中选择自己态度的自由。'),
+    ('The bamboo that bends is stronger than the oak that resists.', 'zh-CN',
+     '会弯曲的竹子，比抗拒的橡树更强韧。');
