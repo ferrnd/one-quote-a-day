@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Darkness cannot drive out darkness; only light can do that.', 'zh-CN',
      '黑暗不能驱散黑暗，只有光明才能做到。'),
     ('Faith is taking the first step even when you don''t see the whole staircase.', 'zh-CN',
-     '信念就是即使看不到整段楼梯，也迈出第一步。');
+     '信念就是即使看不到整段楼梯，也迈出第一步。'),
+    ('There is no education like adversity.', 'zh-CN',
+     '没有什么教育比得上逆境。');
