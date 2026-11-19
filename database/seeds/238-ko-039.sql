@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Determination gives you the resolve to keep going in spite of the roadblocks that lay before you.', 'ko',
      '결단은 앞에 놓인 장애물에도 불구하고 계속 나아갈 의지를 준다.'),
     ('They can conquer who believe they can.', 'ko',
-     '할 수 있다고 믿는 자는 이길 수 있다.');
+     '할 수 있다고 믿는 자는 이길 수 있다.'),
+    ('There are no limits. There are plateaus, but you must not stay there, you must go beyond them.', 'ko',
+     '한계란 없다. 정체기는 있지만 그곳에 머물러서는 안 된다. 그것을 넘어서야 한다.');
