@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Focus on being productive instead of busy.', 'zh-CN',
      '专注于高效，而不是忙碌。'),
     ('Discipline is remembering what you want.', 'zh-CN',
-     '自律就是记住你想要什么。');
+     '自律就是记住你想要什么。'),
+    ('Make each day your masterpiece.', 'zh-CN',
+     '让每一天都成为你的杰作。');
