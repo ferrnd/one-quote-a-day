@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One isn''t necessarily born with courage, but one is born with potential.', 'zh-CN',
      '人不一定生来就有勇气，但生来就有潜能。'),
     ('Courage is the most important of all the virtues because without courage, you can''t practice any other virtue consistently.', 'zh-CN',
-     '勇气是所有美德中最重要的，因为没有勇气，你就无法始终如一地践行任何其他美德。');
+     '勇气是所有美德中最重要的，因为没有勇气，你就无法始终如一地践行任何其他美德。'),
+    ('Freedom lies in being bold.', 'zh-CN',
+     '自由在于勇敢。');
