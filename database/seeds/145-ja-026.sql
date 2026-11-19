@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Age is no barrier. It''s a limitation you put on your mind.', 'ja',
      '年齢は壁ではない。自分の心に課した制限にすぎない。'),
     ('The difference between ordinary and extraordinary is that little extra.', 'ja',
-     '普通と非凡の違いは、そのわずかな「プラスアルファ」にある。');
+     '普通と非凡の違いは、そのわずかな「プラスアルファ」にある。'),
+    ('Winning isn''t everything, but wanting to win is.', 'ja',
+     '勝つことがすべてではない。だが、勝ちたいと願うことはすべてだ。');
