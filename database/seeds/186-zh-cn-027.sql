@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.', 'zh-CN',
      '胜兵先胜而后求战，败兵先战而后求胜。'),
     ('All our dreams can come true, if we have the courage to pursue them.', 'zh-CN',
-     '只要我们有勇气去追求，所有的梦想都能成真。');
+     '只要我们有勇气去追求，所有的梦想都能成真。'),
+    ('First, think. Second, dream. Third, believe. And finally, dare.', 'zh-CN',
+     '第一，思考；第二，梦想；第三，相信；最后，勇于行动。');
