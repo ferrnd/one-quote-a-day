@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fear is only as deep as the mind allows.', 'ja',
      '恐れは、心が許すぶんだけ深くなる。'),
     ('Everything you''ve ever wanted is on the other side of fear.', 'ja',
-     'あなたが望んできたものはすべて、恐れの向こう側にある。');
+     'あなたが望んできたものはすべて、恐れの向こう側にある。'),
+    ('Inaction breeds doubt and fear. Action breeds confidence and courage.', 'ja',
+     '行動しなければ疑いと恐れが生まれる。行動すれば自信と勇気が生まれる。');
