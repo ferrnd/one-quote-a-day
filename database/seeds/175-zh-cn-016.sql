@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What we fear doing most is usually what we most need to do.', 'zh-CN',
      '我们最害怕做的事，往往正是我们最需要做的事。'),
     ('A comfort zone is a beautiful place, but nothing ever grows there.', 'zh-CN',
-     '舒适区是个美丽的地方，但那里什么也长不出来。');
+     '舒适区是个美丽的地方，但那里什么也长不出来。'),
+    ('I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail.', 'zh-CN',
+     '我不会沿着路径走向它通往的地方，我要去没有路的地方，并留下一条足迹。');
