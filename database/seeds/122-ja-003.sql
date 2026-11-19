@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is rightly esteemed the first of human qualities because it is the quality which guarantees all others.', 'ja',
      '勇気が人間の資質の第一とされるのは当然だ。それは他のすべての資質を支える資質なのだから。'),
     ('The brave man is not he who does not feel afraid, but he who conquers that fear.', 'ja',
-     '勇敢な人とは恐れを感じない人ではなく、その恐れを克服する人だ。');
+     '勇敢な人とは恐れを感じない人ではなく、その恐れを克服する人だ。'),
+    ('Have the courage to follow your heart and intuition.', 'ja',
+     '自分の心と直感に従う勇気を持ちなさい。');
