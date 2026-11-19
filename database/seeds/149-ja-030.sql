@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Once you make a decision, the universe conspires to make it happen.', 'ja',
      'ひとたび決断すれば、宇宙はそれを実現させるために動き出す。'),
     ('To be great is to be misunderstood.', 'ja',
-     '偉大であることは、誤解されることだ。');
+     '偉大であることは、誤解されることだ。'),
+    ('Finish each day and be done with it. You have done what you could.', 'ja',
+     '一日一日をきちんと終えて、そこで区切りをつけなさい。あなたはできることをやったのだから。');
