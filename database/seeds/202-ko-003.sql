@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is grace under pressure.', 'ko',
      '용기란 압박 속에서도 잃지 않는 품위다.'),
     ('He who is not courageous enough to take risks will accomplish nothing in life.', 'ko',
-     '위험을 감수할 용기가 없는 사람은 인생에서 아무것도 이루지 못한다.');
+     '위험을 감수할 용기가 없는 사람은 인생에서 아무것도 이루지 못한다.'),
+    ('Only those who will risk going too far can possibly find out how far one can go.', 'ko',
+     '너무 멀리 갈 위험을 무릅쓰는 사람만이 인간이 얼마나 멀리 갈 수 있는지 알 수 있다.');
