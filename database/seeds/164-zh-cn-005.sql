@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage, dear heart.', 'zh-CN',
      '鼓起勇气，亲爱的心。'),
     ('Courage is the power to let go of the familiar.', 'zh-CN',
-     '勇气是放下熟悉事物的力量。');
+     '勇气是放下熟悉事物的力量。'),
+    ('I have not failed. I''ve just found 10,000 ways that won''t work.', 'zh-CN',
+     '我没有失败，我只是发现了一万种行不通的方法。');
