@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I was taught that the way of progress was neither swift nor easy.', 'ko',
      '나는 진보의 길이 빠르지도 쉽지도 않다고 배웠다.'),
     ('Adversity causes some men to break; others to break records.', 'ko',
-     '역경은 어떤 사람은 무너뜨리고, 어떤 사람은 기록을 깨게 만든다.');
+     '역경은 어떤 사람은 무너뜨리고, 어떤 사람은 기록을 깨게 만든다.'),
+    ('Prosperity is not without many fears and distastes; and adversity is not without comforts and hopes.', 'ko',
+     '번영에도 두려움과 싫은 일이 많고, 역경에도 위안과 희망이 있다.');
