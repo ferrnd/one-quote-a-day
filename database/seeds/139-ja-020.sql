@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the difficult things while they are easy and do the great things while they are small.', 'ja',
      '難しいことは、それが易しいうちにやれ。大きなことは、それが小さいうちにやれ。'),
     ('Well begun is half done.', 'ja',
-     '始めよければ、半ば成功したも同然。');
+     '始めよければ、半ば成功したも同然。'),
+    ('If you spend too much time thinking about a thing, you''ll never get it done.', 'ja',
+     '一つのことを考えすぎていたら、決してやり遂げられない。');
