@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.', 'zh-CN',
      '当一切似乎都在与你作对时，请记住，飞机是逆风起飞的，而不是顺风。'),
     ('Out of difficulties grow miracles.', 'zh-CN',
-     '奇迹从困难中生长。');
+     '奇迹从困难中生长。'),
+    ('The gem cannot be polished without friction, nor man perfected without trials.', 'zh-CN',
+     '玉不琢，不成器；人不经磨难，不成材。');
