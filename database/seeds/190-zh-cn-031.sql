@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We will either find a way, or make one.', 'zh-CN',
      '我们要么找到一条路，要么开辟一条路。'),
     ('The secret of success is constancy to purpose.', 'zh-CN',
-     '成功的秘诀在于对目标的始终如一。');
+     '成功的秘诀在于对目标的始终如一。'),
+    ('Persist and persevere, and you will find most things that are attainable, possible.', 'zh-CN',
+     '坚持不懈，你会发现大多数能达到的事情都是可能的。');
