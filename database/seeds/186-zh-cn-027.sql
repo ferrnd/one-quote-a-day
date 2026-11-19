@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I had to make my own living and my own opportunity. But I made it!', 'zh-CN',
      '我必须自己谋生，自己创造机会。但我做到了！'),
     ('I didn''t get there by wishing for it or hoping for it, but by working for it.', 'zh-CN',
-     '我能走到那一步，不是靠期盼或希望，而是靠努力工作。');
+     '我能走到那一步，不是靠期盼或希望，而是靠努力工作。'),
+    ('Fight for the things that you care about, but do it in a way that will lead others to join you.', 'zh-CN',
+     '为你在乎的事情而奋斗，但要用一种能引领他人加入你的方式。');
