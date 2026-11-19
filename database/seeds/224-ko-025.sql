@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between the impossible and the possible lies in a man''s determination.', 'ko',
      '불가능과 가능의 차이는 사람의 결단에 있다.'),
     ('Set your goals high, and don''t stop till you get there.', 'ko',
-     '목표를 높이 세우고, 그곳에 닿을 때까지 멈추지 마라.');
+     '목표를 높이 세우고, 그곳에 닿을 때까지 멈추지 마라.'),
+    ('Desire is the key to motivation, but it''s determination and commitment to an unrelenting pursuit of your goal that will enable you to attain the success you seek.', 'ko',
+     '열망은 동기의 열쇠다. 하지만 당신이 바라는 성공을 이루게 하는 것은 목표를 끈질기게 추구하는 결단과 헌신이다.');
