@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Great spirits have always encountered violent opposition from mediocre minds.', 'ko',
      '위대한 정신은 언제나 평범한 사람들의 격렬한 반대에 부딪혀 왔다.'),
     ('The pain passes, but the beauty remains.', 'ko',
-     '고통은 지나가지만, 아름다움은 남는다.');
+     '고통은 지나가지만, 아름다움은 남는다.'),
+    ('Things turn out best for the people who make the best of the way things turn out.', 'ko',
+     '일이 가장 잘 풀리는 것은 일이 풀린 방식을 최대한 활용하는 사람들에게서다.');
