@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the support of weakness; impatience the ruin of strength.', 'ja',
      '忍耐は弱さの支えとなり、短気は強さを滅ぼす。'),
     ('Endurance is patience concentrated.', 'ja',
-     '忍耐強さとは、凝縮された忍耐である。');
+     '忍耐強さとは、凝縮された忍耐である。'),
+    ('Patience and diligence, like faith, remove mountains.', 'ja',
+     '忍耐と勤勉は、信仰と同じように山をも動かす。');
