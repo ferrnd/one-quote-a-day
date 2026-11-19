@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('They always say time changes things, but you actually have to change them yourself.', 'ja',
      '時間が物事を変えるとよく言うけれど、実際には自分で変えなければならない。'),
     ('Progress is impossible without change, and those who cannot change their minds cannot change anything.', 'ja',
-     '変化なくして進歩はない。考えを変えられない者は、何も変えることができない。');
+     '変化なくして進歩はない。考えを変えられない者は、何も変えることができない。'),
+    ('Change is the law of life. And those who look only to the past or present are certain to miss the future.', 'ja',
+     '変化は人生の法則である。過去や現在だけを見ている者は、必ず未来を見失う。');
