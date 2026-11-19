@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'ja',
      '大事なのは、どれだけ強く打つかじゃない。どれだけ強く打たれても前に進み続けられるかだ。'),
     ('A good half of the art of living is resilience.', 'ja',
-     '生きる技術の半分は、立ち直る力である。');
+     '生きる技術の半分は、立ち直る力である。'),
+    ('Nothing is impossible. The word itself says ''I''m possible''!', 'ja',
+     '不可能なことなどない。Impossible（不可能）という言葉自体が「I''m possible（私はできる）」と言っているのだから。');
