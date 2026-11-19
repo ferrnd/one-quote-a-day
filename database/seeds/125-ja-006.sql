@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only real mistake is the one from which we learn nothing.', 'ja',
      '本当の間違いとは、そこから何も学ばなかった間違いだけだ。'),
     ('Just because you fail once doesn''t mean you''re gonna fail at everything.', 'ja',
-     '一度失敗したからといって、すべてに失敗するわけじゃない。');
+     '一度失敗したからといって、すべてに失敗するわけじゃない。'),
+    ('I''d rather be a failure at something I love than a success at something I hate.', 'ja',
+     '嫌いなことで成功するより、好きなことで失敗するほうがいい。');
