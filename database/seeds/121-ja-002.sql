@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Endurance is not just the ability to bear a hard thing, but to turn it into glory.', 'ja',
      '忍耐とは、つらいことに耐える力だけではない。それを栄光に変える力でもある。'),
     ('Perseverance, secret of all triumphs.', 'ja',
-     '根気こそ、あらゆる勝利の秘訣である。');
+     '根気こそ、あらゆる勝利の秘訣である。'),
+    ('The road to success is dotted with many tempting parking spaces.', 'ja',
+     '成功への道には、誘惑的な駐車場がいくつも点在している。');
