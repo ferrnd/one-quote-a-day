@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength does not come from physical capacity. It comes from an indomitable will.', 'ja',
      '強さは肉体の力から生まれるのではない。不屈の意志から生まれるのだ。'),
     ('The world breaks everyone and afterward many are strong at the broken places.', 'ja',
-     '世界は誰をも打ち砕く。そしてその後、多くの者はその砕かれた場所で強くなる。');
+     '世界は誰をも打ち砕く。そしてその後、多くの者はその砕かれた場所で強くなる。'),
+    ('What does not kill me makes me stronger.', 'ja',
+     '私を殺さないものは、私をより強くする。');
