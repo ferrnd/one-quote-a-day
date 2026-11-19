@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Small deeds done are better than great deeds planned.', 'ja',
      '実行された小さな行いは、計画された大きな行いに勝る。'),
     ('You miss 100% of the shots you don''t take.', 'ja',
-     '打たないシュートは、100パーセント外れる。');
+     '打たないシュートは、100パーセント外れる。'),
+    ('Inspiration exists, but it has to find you working.', 'ja',
+     'ひらめきは存在する。だが、それは働いているあなたを見つけなければならない。');
