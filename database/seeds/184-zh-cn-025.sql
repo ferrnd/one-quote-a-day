@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be patient toward all that is unsolved in your heart.', 'zh-CN',
      '对你心中所有尚未解决的事情，都要有耐心。'),
     ('No great thing is created suddenly.', 'zh-CN',
-     '伟大的事物不是突然创造出来的。');
+     '伟大的事物不是突然创造出来的。'),
+    ('Perhaps someday it will be pleasant to remember even this.', 'zh-CN',
+     '也许有一天，就连回想起这些也会是愉快的。');
