@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our patience will achieve more than our force.', 'ko',
      '우리의 인내가 우리의 힘보다 더 많은 것을 이룰 것이다.'),
     ('How poor are they that have not patience! What wound did ever heal but by degrees?', 'ko',
-     '인내심이 없는 자들은 얼마나 가련한가! 조금씩 낫지 않은 상처가 어디 있었던가?');
+     '인내심이 없는 자들은 얼마나 가련한가! 조금씩 낫지 않은 상처가 어디 있었던가?'),
+    ('Patience is the art of hoping.', 'ko',
+     '인내는 희망하는 기술이다.');
