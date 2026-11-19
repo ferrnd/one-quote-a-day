@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When it is dark enough, you can see the stars.', 'ja',
      '十分に暗くなれば、星が見える。'),
     ('Fire is the test of gold; adversity, of strong men.', 'ja',
-     '火は金を試し、逆境は強い人間を試す。');
+     '火は金を試し、逆境は強い人間を試す。'),
+    ('Difficulties strengthen the mind, as labor does the body.', 'ja',
+     '労働が体を鍛えるように、困難は心を鍛える。');
