@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sooner or later the man who wins is the man who thinks he can.', 'zh-CN',
      '迟早有一天，赢的是那个认为自己能赢的人。'),
     ('We become what we think about.', 'zh-CN',
-     '我们会成为我们所想的样子。');
+     '我们会成为我们所想的样子。'),
+    ('If you''re always trying to be normal, you will never know how amazing you can be.', 'zh-CN',
+     '如果你总是努力做一个普通人，你就永远不会知道自己能有多了不起。');
