@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I really think a champion is defined not by their wins but by how they can recover when they fall.', 'ja',
      'チャンピオンを決めるのは勝利の数ではなく、倒れたときにどう立ち直れるかだと、私は本気で思う。'),
     ('You have to believe in yourself when no one else does.', 'ja',
-     '誰も信じてくれないときこそ、自分を信じなければならない。');
+     '誰も信じてくれないときこそ、自分を信じなければならない。'),
+    ('The more difficult the victory, the greater the happiness in winning.', 'ja',
+     '勝利が困難であるほど、勝ったときの喜びは大きい。');
