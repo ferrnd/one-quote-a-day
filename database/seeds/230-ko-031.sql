@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The secret of success is constancy to purpose.', 'ko',
      '성공의 비결은 목표를 향한 한결같음에 있다.'),
     ('Persist and persevere, and you will find most things that are attainable, possible.', 'ko',
-     '버티고 견뎌라. 그러면 손에 닿을 만한 대부분의 일이 가능하다는 것을 알게 될 것이다.');
+     '버티고 견뎌라. 그러면 손에 닿을 만한 대부분의 일이 가능하다는 것을 알게 될 것이다.'),
+    ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'ko',
+     '대부분의 사람들은 성공을 막 이루려는 순간에 포기한다. 골라인을 1야드 앞두고 그만두는 것이다.');
