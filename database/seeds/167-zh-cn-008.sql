@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What does not kill me makes me stronger.', 'zh-CN',
      '那些杀不死我的，会使我更强大。'),
     ('He who has a why to live can bear almost any how.', 'zh-CN',
-     '知道为何而活的人，几乎能忍受任何一种生活。');
+     '知道为何而活的人，几乎能忍受任何一种生活。'),
+    ('When we are no longer able to change a situation, we are challenged to change ourselves.', 'zh-CN',
+     '当我们无法再改变处境时，我们就面临着改变自己的挑战。');
