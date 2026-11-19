@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Action may not always bring happiness; but there is no happiness without action.', 'zh-CN',
      '行动不一定总能带来幸福，但没有行动就没有幸福。'),
     ('Thinking will not overcome fear but action will.', 'zh-CN',
-     '思考无法战胜恐惧，行动却能。');
+     '思考无法战胜恐惧，行动却能。'),
+    ('Someday is not a day of the week.', 'zh-CN',
+     '“总有一天”并不是一周中的某一天。');
