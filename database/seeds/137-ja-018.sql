@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity is the diamond dust Heaven polishes its jewels with.', 'ja',
      '逆境とは、天がその宝石を磨くためのダイヤモンドの粉である。'),
     ('Storms make trees take deeper roots.', 'ja',
-     '嵐は、木の根をより深く張らせる。');
+     '嵐は、木の根をより深く張らせる。'),
+    ('The way I see it, if you want the rainbow, you gotta put up with the rain.', 'ja',
+     '私に言わせれば、虹が欲しいなら雨を我慢しなきゃ。');
