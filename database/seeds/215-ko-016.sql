@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Becoming is better than being.', 'ko',
      '되어 가는 것이 이미 되어 있는 것보다 낫다.'),
     ('Not everything that is faced can be changed, but nothing can be changed until it is faced.', 'ko',
-     '마주한 모든 것을 바꿀 수는 없지만, 마주하지 않으면 아무것도 바꿀 수 없다.');
+     '마주한 모든 것을 바꿀 수는 없지만, 마주하지 않으면 아무것도 바꿀 수 없다.'),
+    ('Your present circumstances don''t determine where you can go; they merely determine where you start.', 'ko',
+     '지금의 처지가 당신이 갈 수 있는 곳을 정하지는 않는다. 다만 어디서 출발할지를 정할 뿐이다.');
