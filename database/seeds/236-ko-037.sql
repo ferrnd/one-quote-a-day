@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Bad times have a scientific value. These are occasions a good learner would not miss.', 'ko',
      '나쁜 시기에는 과학적 가치가 있다. 잘 배우는 사람이라면 놓치지 않을 기회다.'),
     ('Every wall is a door.', 'ko',
-     '모든 벽은 문이다.');
+     '모든 벽은 문이다.'),
+    ('Pain and suffering are always inevitable for a large intelligence and a deep heart.', 'ko',
+     '큰 지성과 깊은 마음을 가진 사람에게 고통과 괴로움은 언제나 피할 수 없다.');
