@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not fear mistakes. There are none.', 'ja',
      '間違いを恐れるな。間違いなど存在しない。'),
     ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'ja',
-     '間違いをしたときにすべきことは三つしかない。認めること、学ぶこと、繰り返さないことだ。');
+     '間違いをしたときにすべきことは三つしかない。認めること、学ぶこと、繰り返さないことだ。'),
+    ('Failure is a detour, not a dead-end street.', 'ja',
+     '失敗は回り道であって、行き止まりではない。');
