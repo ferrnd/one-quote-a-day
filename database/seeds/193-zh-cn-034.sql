@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing is permanent in this wicked world, not even our troubles.', 'zh-CN',
      '在这个邪恶的世界里，没有什么是永恒的，连我们的烦恼也不是。'),
     ('Hardships make or break people.', 'zh-CN',
-     '艰难困苦会成就人，也会摧毁人。');
+     '艰难困苦会成就人，也会摧毁人。'),
+    ('Turn your scars into stars.', 'zh-CN',
+     '把你的伤疤化作星光。');
