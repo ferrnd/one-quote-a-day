@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the best you can until you know better. Then when you know better, do better.', 'zh-CN',
      '在你懂得更多之前，尽你所能做到最好。当你懂得更多时，就做得更好。'),
     ('The beautiful thing about learning is that no one can take it away from you.', 'zh-CN',
-     '学习最美好的地方在于，没有人能把它从你身上夺走。');
+     '学习最美好的地方在于，没有人能把它从你身上夺走。'),
+    ('Education is the most powerful weapon which you can use to change the world.', 'zh-CN',
+     '教育是你可以用来改变世界的最强大的武器。');
