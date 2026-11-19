@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every day may not be good, but there''s something good in every day.', 'zh-CN',
      '也许不是每一天都美好，但每一天都有美好的东西。'),
     ('In the depth of winter, I finally learned that within me there lay an invincible summer.', 'zh-CN',
-     '在隆冬时节，我终于明白，我的心中有一个不可战胜的夏天。');
+     '在隆冬时节，我终于明白，我的心中有一个不可战胜的夏天。'),
+    ('It is during our darkest moments that we must focus to see the light.', 'zh-CN',
+     '正是在最黑暗的时刻，我们必须集中精神去看见光。');
