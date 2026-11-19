@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The master has failed more times than the beginner has even tried.', 'zh-CN',
      '大师失败的次数，比初学者尝试的次数还要多。'),
     ('It''s fine to celebrate success but it is more important to heed the lessons of failure.', 'zh-CN',
-     '庆祝成功固然好，但更重要的是汲取失败的教训。');
+     '庆祝成功固然好，但更重要的是汲取失败的教训。'),
+    ('One fails forward toward success.', 'zh-CN',
+     '人是在一次次向前跌倒中走向成功的。');
