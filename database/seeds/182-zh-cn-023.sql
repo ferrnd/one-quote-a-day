@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You must do the things you think you cannot do.', 'zh-CN',
      '你必须去做那些你认为自己做不到的事。'),
     ('Clear thinking requires courage rather than intelligence.', 'zh-CN',
-     '清晰的思考需要的是勇气，而不是智力。');
+     '清晰的思考需要的是勇气，而不是智力。'),
+    ('It''s not the load that breaks you down, it''s the way you carry it.', 'zh-CN',
+     '压垮你的不是重担，而是你背负它的方式。');
