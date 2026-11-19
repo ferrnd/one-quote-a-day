@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Self-discipline begins with the mastery of your thoughts.', 'ja',
      '自己規律は、自分の思考を支配することから始まる。'),
     ('Dost thou love life? Then do not squander time, for that is the stuff life is made of.', 'ja',
-     'あなたは人生を愛しているか。それなら時間を浪費してはならない。時間こそ人生をつくる材料なのだから。');
+     'あなたは人生を愛しているか。それなら時間を浪費してはならない。時間こそ人生をつくる材料なのだから。'),
+    ('I don''t stop when I''m tired. I stop when I''m done.', 'ja',
+     '疲れたときにやめるのではない。やり終えたときにやめるのだ。');
