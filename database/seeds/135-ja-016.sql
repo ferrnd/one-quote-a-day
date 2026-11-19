@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.', 'ja',
      '私の世代の最大の発見は、人は心の持ち方を変えることで人生を変えられるということだ。'),
     ('You are never too old to set another goal or to dream a new dream.', 'ja',
-     '新しい目標を立てたり、新しい夢を見たりするのに、年をとりすぎているということはない。');
+     '新しい目標を立てたり、新しい夢を見たりするのに、年をとりすぎているということはない。'),
+    ('Act as if what you do makes a difference. It does.', 'ja',
+     '自分の行いが違いを生むかのように行動しなさい。実際、生むのだから。');
