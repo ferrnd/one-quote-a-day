@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life isn''t about waiting for the storm to pass. It''s about learning to dance in the rain.', 'zh-CN',
      '生活不是等待暴风雨过去，而是学会在雨中起舞。'),
     ('Adversity reveals genius, prosperity conceals it.', 'zh-CN',
-     '逆境显露天才，顺境掩盖天才。');
+     '逆境显露天才，顺境掩盖天才。'),
+    ('When the going gets tough, the tough get going.', 'zh-CN',
+     '时局艰难时，强者愈强。');
