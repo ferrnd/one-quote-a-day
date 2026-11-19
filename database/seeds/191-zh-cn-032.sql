@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be brave. Take risks. Nothing can substitute experience.', 'zh-CN',
      '勇敢一点，去冒险。没有什么能替代经验。'),
     ('He who is brave is free.', 'zh-CN',
-     '勇敢的人是自由的。');
+     '勇敢的人是自由的。'),
+    ('I must not fear. Fear is the mind-killer.', 'zh-CN',
+     '我决不能害怕。恐惧是心灵的杀手。');
