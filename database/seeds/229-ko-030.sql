@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every day is a new day.', 'ko',
      '매일이 새로운 날이다.'),
     ('The only journey is the one within.', 'ko',
-     '유일한 여행은 내면으로의 여행이다.');
+     '유일한 여행은 내면으로의 여행이다.'),
+    ('I am still learning.', 'ko',
+     '나는 아직도 배우고 있다.');
