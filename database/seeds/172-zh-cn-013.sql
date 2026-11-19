@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We must all suffer one of two things: the pain of discipline or the pain of regret.', 'zh-CN',
      '我们都必须承受两种痛苦之一：自律的痛苦，或者后悔的痛苦。'),
     ('Motivation is what gets you started. Habit is what keeps you going.', 'zh-CN',
-     '动力让你开始，习惯让你坚持。');
+     '动力让你开始，习惯让你坚持。'),
+    ('Success is nothing more than a few simple disciplines, practiced every day.', 'zh-CN',
+     '成功不过是每天坚持实践的几条简单的自律。');
