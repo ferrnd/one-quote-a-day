@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Faith is taking the first step even when you don''t see the whole staircase.', 'zh-CN',
      '信念就是即使看不到整段楼梯，也迈出第一步。'),
     ('There is no education like adversity.', 'zh-CN',
-     '没有什么教育比得上逆境。');
+     '没有什么教育比得上逆境。'),
+    ('Those things that hurt, instruct.', 'zh-CN',
+     '伤人的事物，也教育人。');
