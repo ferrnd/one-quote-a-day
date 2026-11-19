@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You don''t have to be great to start, but you have to start to be great.', 'ja',
      '始めるのに偉大である必要はない。だが、偉大になるには始める必要がある。'),
     ('The way to get started is to quit talking and begin doing.', 'ja',
-     '始めるための方法は、話すのをやめて、やり始めることだ。');
+     '始めるための方法は、話すのをやめて、やり始めることだ。'),
+    ('Do not wait; the time will never be just right.', 'ja',
+     '待つな。ちょうどいい時など永遠に来ない。');
