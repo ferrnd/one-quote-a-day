@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Security is mostly a superstition. Life is either a daring adventure or nothing.', 'ja',
      '安全とはたいてい迷信にすぎない。人生とは大胆な冒険か、さもなくば無である。'),
     ('What would life be if we had no courage to attempt anything?', 'ja',
-     '何かを試みる勇気がなかったら、人生はどうなってしまうだろう。');
+     '何かを試みる勇気がなかったら、人生はどうなってしまうだろう。'),
+    ('Far better is it to dare mighty things, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy much nor suffer much.', 'ja',
+     'たとえ失敗にまみれても、大きなことに挑み、輝かしい勝利を得るほうがはるかにいい。大して喜びも苦しみも味わわない哀れな魂たちと肩を並べるよりは。');
