@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We must be willing to let go of the life we planned so as to have the life that is waiting for us.', 'zh-CN',
      '我们必须愿意放下计划中的生活，才能拥有等待着我们的生活。'),
     ('The privilege of a lifetime is to become who you truly are.', 'zh-CN',
-     '一生最大的荣幸，是成为真正的自己。');
+     '一生最大的荣幸，是成为真正的自己。'),
+    ('Knowing your own darkness is the best method for dealing with the darknesses of other people.', 'zh-CN',
+     '了解你自己的黑暗，是应对他人黑暗的最好方法。');
