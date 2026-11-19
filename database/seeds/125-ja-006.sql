@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Winners are not afraid of losing. But losers are. Failure is part of the process of success.', 'ja',
      '勝者は負けることを恐れない。恐れるのは敗者だ。失敗は成功へのプロセスの一部である。'),
     ('An inventor fails 999 times, and if he succeeds once, he''s in.', 'ja',
-     '発明家は999回失敗しても、一度成功すればそれでいい。');
+     '発明家は999回失敗しても、一度成功すればそれでいい。'),
+    ('Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.', 'ja',
+     'いちばん硬い木ほど折れやすく、竹や柳は風に身をしならせて生き延びることに気づきなさい。');
