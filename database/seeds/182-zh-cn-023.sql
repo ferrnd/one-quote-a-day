@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Worry does not empty tomorrow of its sorrow, it empties today of its strength.', 'zh-CN',
      '忧虑不会清空明天的悲伤，只会耗尽今天的力量。'),
     ('Man is not worried by real problems so much as by his imagined anxieties about real problems.', 'zh-CN',
-     '让人烦恼的往往不是真实的问题，而是人对真实问题的想象出来的焦虑。');
+     '让人烦恼的往往不是真实的问题，而是人对真实问题的想象出来的焦虑。'),
+    ('If you think you are beaten, you are.', 'zh-CN',
+     '如果你认为自己被打败了，那你就是被打败了。');
