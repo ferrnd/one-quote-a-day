@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rome wasn''t built in a day.', 'ko',
      '로마는 하루아침에 이루어지지 않았다.'),
     ('Everything comes gradually and at its appointed hour.', 'ko',
-     '모든 것은 서서히, 정해진 때에 온다.');
+     '모든 것은 서서히, 정해진 때에 온다.'),
+    ('Be patient and tough; someday this pain will be useful to you.', 'ko',
+     '인내하고 강해져라. 언젠가 이 고통이 너에게 쓸모가 있을 것이다.');
