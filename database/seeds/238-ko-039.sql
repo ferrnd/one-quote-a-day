@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no limits. There are plateaus, but you must not stay there, you must go beyond them.', 'ko',
      '한계란 없다. 정체기는 있지만 그곳에 머물러서는 안 된다. 그것을 넘어서야 한다.'),
     ('A goal is not always meant to be reached, it often serves simply as something to aim at.', 'ko',
-     '목표는 언제나 이루기 위해 있는 것이 아니다. 그저 겨냥할 대상으로서의 역할을 하는 경우가 많다.');
+     '목표는 언제나 이루기 위해 있는 것이 아니다. 그저 겨냥할 대상으로서의 역할을 하는 경우가 많다.'),
+    ('I''m going to use all my tools, my God-given ability, and make the best life I can with it.', 'ko',
+     '나는 내가 가진 모든 도구, 신이 주신 능력을 다 써서 그것으로 최고의 삶을 만들 것이다.');
