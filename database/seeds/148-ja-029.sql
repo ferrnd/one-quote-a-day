@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I saw the angel in the marble and carved until I set him free.', 'ja',
      '私は大理石の中に天使を見た。そして、彼を解き放つまで彫り続けた。'),
     ('People with goals succeed because they know where they''re going.', 'ja',
-     '目標を持つ人が成功するのは、自分がどこへ向かっているかを知っているからだ。');
+     '目標を持つ人が成功するのは、自分がどこへ向かっているかを知っているからだ。'),
+    ('What you seek is seeking you.', 'ja',
+     'あなたが探しているものも、あなたを探している。');
