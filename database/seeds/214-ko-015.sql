@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life is like riding a bicycle. To keep your balance you must keep moving.', 'ko',
      '인생은 자전거를 타는 것과 같다. 균형을 잡으려면 계속 움직여야 한다.'),
     ('They always say time changes things, but you actually have to change them yourself.', 'ko',
-     '사람들은 늘 시간이 모든 것을 바꾼다고 말하지만, 실제로는 스스로 바꿔야 한다.');
+     '사람들은 늘 시간이 모든 것을 바꾼다고 말하지만, 실제로는 스스로 바꿔야 한다.'),
+    ('Progress is impossible without change, and those who cannot change their minds cannot change anything.', 'ko',
+     '변화 없이는 진보도 불가능하다. 자기 생각을 바꾸지 못하는 사람은 아무것도 바꿀 수 없다.');
