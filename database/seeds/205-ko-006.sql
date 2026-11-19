@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greatest mistake you can make in life is to be continually fearing you will make one.', 'ko',
      '인생에서 저지를 수 있는 가장 큰 실수는 실수할까 봐 끊임없이 두려워하는 것이다.'),
     ('If you''re not prepared to be wrong, you''ll never come up with anything original.', 'ko',
-     '틀릴 각오가 없다면 독창적인 것은 결코 만들어 낼 수 없다.');
+     '틀릴 각오가 없다면 독창적인 것은 결코 만들어 낼 수 없다.'),
+    ('Experience is simply the name we give our mistakes.', 'ko',
+     '경험이란 우리가 저지른 실수에 붙이는 이름일 뿐이다.');
