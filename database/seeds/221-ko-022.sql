@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you think of yourself is much more important than what others think of you.', 'ko',
      '당신이 스스로를 어떻게 생각하느냐가 남들이 당신을 어떻게 생각하느냐보다 훨씬 더 중요하다.'),
     ('A man is but the product of his thoughts. What he thinks, he becomes.', 'ko',
-     '인간은 생각의 산물일 뿐이다. 생각하는 대로 그 사람이 된다.');
+     '인간은 생각의 산물일 뿐이다. 생각하는 대로 그 사람이 된다.'),
+    ('If you don''t like something, change it. If you can''t change it, change your attitude.', 'ko',
+     '무언가가 마음에 들지 않으면 바꿔라. 바꿀 수 없다면 태도를 바꿔라.');
