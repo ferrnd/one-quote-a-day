@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'ko',
      '대부분의 사람들은 성공을 막 이루려는 순간에 포기한다. 골라인을 1야드 앞두고 그만두는 것이다.'),
     ('If you are going to doubt something, doubt your limits.', 'ko',
-     '무언가를 의심하려거든, 당신의 한계를 의심하라.');
+     '무언가를 의심하려거든, 당신의 한계를 의심하라.'),
+    ('There is no substitute for hard work.', 'ko',
+     '노력을 대신할 수 있는 것은 없다.');
