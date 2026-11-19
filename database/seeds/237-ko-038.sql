@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Optimism is essential to achievement and it is also the foundation of courage and true progress.', 'ko',
      '낙관주의는 성취에 필수적이며, 용기와 진정한 진보의 토대이기도 하다.'),
     ('You are what you believe yourself to be.', 'ko',
-     '당신은 스스로 믿는 그대로의 사람이다.');
+     '당신은 스스로 믿는 그대로의 사람이다.'),
+    ('Believe and act as if it were impossible to fail.', 'ko',
+     '실패하는 것이 불가능한 것처럼 믿고 행동하라.');
