@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream no small dreams for they have no power to move the hearts of men.', 'ko',
      '작은 꿈은 꾸지 마라. 작은 꿈에는 사람의 마음을 움직일 힘이 없으니.'),
     ('A man is not old until regrets take the place of dreams.', 'ko',
-     '후회가 꿈을 대신하기 전까지 사람은 늙지 않는다.');
+     '후회가 꿈을 대신하기 전까지 사람은 늙지 않는다.'),
+    ('In dreams begins responsibility.', 'ko',
+     '꿈에서 책임이 시작된다.');
