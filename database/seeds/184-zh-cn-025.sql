@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Determination is the wake-up call to the human will.', 'zh-CN',
      '决心是唤醒人类意志的号角。'),
     ('The difference between the impossible and the possible lies in a man''s determination.', 'zh-CN',
-     '不可能与可能之间的区别，在于一个人的决心。');
+     '不可能与可能之间的区别，在于一个人的决心。'),
+    ('Set your goals high, and don''t stop till you get there.', 'zh-CN',
+     '把目标定得高一些，不到达绝不停止。');
