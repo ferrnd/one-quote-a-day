@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I was taught that the way of progress was neither swift nor easy.', 'ja',
      '進歩の道は速くも楽でもないと、私は教えられた。'),
     ('Adversity causes some men to break; others to break records.', 'ja',
-     '逆境は、ある者をくじけさせ、ある者に記録を破らせる。');
+     '逆境は、ある者をくじけさせ、ある者に記録を破らせる。'),
+    ('Prosperity is not without many fears and distastes; and adversity is not without comforts and hopes.', 'ja',
+     '順境にも多くの恐れや嫌なことがあり、逆境にも慰めと希望がある。');
