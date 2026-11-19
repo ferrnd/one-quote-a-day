@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity is the first path to truth.', 'ko',
      '역경은 진리로 가는 첫 번째 길이다.'),
     ('Kites rise highest against the wind, not with it.', 'ko',
-     '연은 바람을 등지고가 아니라 바람을 안고 가장 높이 오른다.');
+     '연은 바람을 등지고가 아니라 바람을 안고 가장 높이 오른다.'),
+    ('Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant.', 'ko',
+     '역경은 순탄한 환경이었다면 잠들어 있었을 재능을 끌어낸다.');
