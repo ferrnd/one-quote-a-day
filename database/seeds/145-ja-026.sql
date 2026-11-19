@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Winning isn''t everything, but wanting to win is.', 'ja',
      '勝つことがすべてではない。だが、勝ちたいと願うことはすべてだ。'),
     ('Perfection is not attainable, but if we chase perfection we can catch excellence.', 'ja',
-     '完璧は手に入らない。だが完璧を追い求めれば、卓越をつかむことはできる。');
+     '完璧は手に入らない。だが完璧を追い求めれば、卓越をつかむことはできる。'),
+    ('Once you learn to quit, it becomes a habit.', 'ja',
+     '一度やめることを覚えると、それは習慣になる。');
