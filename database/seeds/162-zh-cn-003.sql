@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Only those who will risk going too far can possibly find out how far one can go.', 'zh-CN',
      '只有敢于冒险走得太远的人，才可能知道一个人能走多远。'),
     ('Fortune favors the bold.', 'zh-CN',
-     '命运眷顾勇者。');
+     '命运眷顾勇者。'),
+    ('Courage is found in unlikely places.', 'zh-CN',
+     '勇气往往出现在意想不到的地方。');
