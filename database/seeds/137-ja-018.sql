@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity reveals genius, prosperity conceals it.', 'ja',
      '逆境は才能を明らかにし、順境はそれを隠す。'),
     ('When the going gets tough, the tough get going.', 'ja',
-     '状況が厳しくなると、強い者が動き出す。');
+     '状況が厳しくなると、強い者が動き出す。'),
+    ('A hero is no braver than an ordinary man, but he is brave five minutes longer.', 'ja',
+     '英雄は普通の人より勇敢なのではない。ただ五分長く勇敢なのだ。');
