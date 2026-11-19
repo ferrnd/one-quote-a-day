@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Determination gives you the resolve to keep going in spite of the roadblocks that lay before you.', 'zh-CN',
      '决心给你继续前进的毅力，无论前方有多少路障。'),
     ('They can conquer who believe they can.', 'zh-CN',
-     '相信自己能够胜利的人，就能胜利。');
+     '相信自己能够胜利的人，就能胜利。'),
+    ('There are no limits. There are plateaus, but you must not stay there, you must go beyond them.', 'zh-CN',
+     '没有极限。会有停滞期，但你不能停留在那里，你必须超越它们。');
