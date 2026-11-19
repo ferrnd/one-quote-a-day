@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Problems are not stop signs, they are guidelines.', 'zh-CN',
      '问题不是停止标志，而是指引方向的路标。'),
     ('Turn your face to the sun and the shadows fall behind you.', 'zh-CN',
-     '面向太阳，阴影就会落在你身后。');
+     '面向太阳，阴影就会落在你身后。'),
+    ('A man of character finds a special attractiveness in difficulty.', 'zh-CN',
+     '有骨气的人，在困难中发现一种特别的魅力。');
