@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s failure that gives you the proper perspective on success.', 'zh-CN',
      '是失败让你对成功有了正确的看法。'),
     ('Success is how high you bounce when you hit bottom.', 'zh-CN',
-     '成功就是你跌到谷底时能反弹多高。');
+     '成功就是你跌到谷底时能反弹多高。'),
+    ('Don''t let the fear of losing be greater than the excitement of winning.', 'zh-CN',
+     '不要让对失败的恐惧大于对胜利的兴奋。');
