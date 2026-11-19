@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Just because you fail once doesn''t mean you''re gonna fail at everything.', 'zh-CN',
      '失败一次，并不代表你会在所有事情上都失败。'),
     ('I''d rather be a failure at something I love than a success at something I hate.', 'zh-CN',
-     '我宁愿在我热爱的事情上失败，也不愿在我讨厌的事情上成功。');
+     '我宁愿在我热爱的事情上失败，也不愿在我讨厌的事情上成功。'),
+    ('There is no failure except in no longer trying.', 'zh-CN',
+     '除了不再尝试，就没有失败。');
