@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We realize the importance of our voices only when we are silenced.', 'ko',
      '우리는 침묵을 강요당할 때에야 비로소 우리 목소리의 소중함을 깨닫는다.'),
     ('Success is not how high you have climbed, but how you make a positive difference to the world.', 'ko',
-     '성공은 얼마나 높이 올랐느냐가 아니라, 세상에 얼마나 긍정적인 변화를 가져오느냐다.');
+     '성공은 얼마나 높이 올랐느냐가 아니라, 세상에 얼마나 긍정적인 변화를 가져오느냐다.'),
+    ('The best revenge is massive success.', 'ko',
+     '최고의 복수는 엄청난 성공이다.');
