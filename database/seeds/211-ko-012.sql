@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength is a matter of the made-up mind.', 'ko',
      '힘이란 마음을 굳게 정하는 데 달려 있다.'),
     ('I am the master of my fate, I am the captain of my soul.', 'ko',
-     '나는 내 운명의 주인이요, 내 영혼의 선장이다.');
+     '나는 내 운명의 주인이요, 내 영혼의 선장이다.'),
+    ('I thank whatever gods may be for my unconquerable soul.', 'ko',
+     '어떤 신들이 있든, 나에게 정복당하지 않는 영혼을 주신 것에 감사한다.');
