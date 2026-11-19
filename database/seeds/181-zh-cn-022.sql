@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only limit to our realization of tomorrow will be our doubts of today.', 'zh-CN',
      '实现明天的唯一限制，是我们今天的怀疑。'),
     ('Perpetual optimism is a force multiplier.', 'zh-CN',
-     '永远的乐观是力量的倍增器。');
+     '永远的乐观是力量的倍增器。'),
+    ('If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.', 'zh-CN',
+     '如果你内心有个声音说你不会画画，那就无论如何都要去画，那个声音自然会沉默。');
