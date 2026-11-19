@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.', 'zh-CN',
      '我们最深的恐惧不是自己能力不足，而是自己强大得超乎想象。'),
     ('Trust thyself: every heart vibrates to that iron string.', 'zh-CN',
-     '相信你自己：每一颗心都随着那根铁弦而颤动。');
+     '相信你自己：每一颗心都随着那根铁弦而颤动。'),
+    ('You are the one that possesses the keys to your being. You carry the passport to your own happiness.', 'zh-CN',
+     '你自己掌握着通往自我的钥匙，你自己携带着通往幸福的护照。');
