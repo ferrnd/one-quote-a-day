@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Motivation is what gets you started. Habit is what keeps you going.', 'ja',
      'やる気は始めるきっかけをくれる。習慣は続ける力をくれる。'),
     ('Success is nothing more than a few simple disciplines, practiced every day.', 'ja',
-     '成功とは、毎日実践されるいくつかの簡単な規律にすぎない。');
+     '成功とは、毎日実践されるいくつかの簡単な規律にすぎない。'),
+    ('Don''t wish it were easier, wish you were better.', 'ja',
+     'もっと楽ならいいのにと願うな。もっと自分が優れていればと願え。');
