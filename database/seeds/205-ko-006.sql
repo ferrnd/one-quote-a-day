@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.', 'ko',
      '가장 뻣뻣한 나무가 가장 쉽게 부러지고, 대나무나 버드나무는 바람에 몸을 굽혀 살아남는다는 것을 보라.'),
     ('Don''t fear failure. Not failure, but low aim, is the crime.', 'ko',
-     '실패를 두려워하지 마라. 죄는 실패가 아니라 낮은 목표다.');
+     '실패를 두려워하지 마라. 죄는 실패가 아니라 낮은 목표다.'),
+    ('Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes.', 'ko',
+     '실패는 가르침을 준다. 진정으로 생각하는 사람은 성공에서만큼이나 실패에서도 많이 배운다.');
