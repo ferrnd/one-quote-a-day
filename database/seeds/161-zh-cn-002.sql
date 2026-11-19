@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The harder the conflict, the more glorious the triumph.', 'zh-CN',
      '冲突越艰难，胜利越辉煌。'),
     ('Persistence guarantees that results are inevitable.', 'zh-CN',
-     '只要坚持，结果必然到来。');
+     '只要坚持，结果必然到来。'),
+    ('Courage doesn''t always roar. Sometimes courage is the quiet voice at the end of the day saying, I will try again tomorrow.', 'zh-CN',
+     '勇气并不总是咆哮。有时，勇气是一天结束时那个轻声说“明天我会再试一次”的声音。');
