@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No act of kindness, no matter how small, is ever wasted.', 'ko',
      '아무리 작은 친절이라도 결코 헛되지 않다.'),
     ('The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.', 'ko',
-     '세상에서 가장 좋고 아름다운 것들은 볼 수도 만질 수도 없다. 마음으로 느껴야 한다.');
+     '세상에서 가장 좋고 아름다운 것들은 볼 수도 만질 수도 없다. 마음으로 느껴야 한다.'),
+    ('What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.', 'ko',
+     '한때 누렸던 것은 결코 잃어버릴 수 없다. 우리가 깊이 사랑한 모든 것은 우리의 일부가 된다.');
