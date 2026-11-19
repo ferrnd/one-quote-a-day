@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the power to let go of the familiar.', 'ja',
      '勇気とは、慣れ親しんだものを手放す力である。'),
     ('I have not failed. I''ve just found 10,000 ways that won''t work.', 'ja',
-     '私は失敗したことがない。うまくいかない方法を一万通り見つけただけだ。');
+     '私は失敗したことがない。うまくいかない方法を一万通り見つけただけだ。'),
+    ('Failure is simply the opportunity to begin again, this time more intelligently.', 'ja',
+     '失敗とは、より賢くもう一度始めるための機会にすぎない。');
