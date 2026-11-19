@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Genius is eternal patience.', 'ja',
      '天才とは、永遠の忍耐である。'),
     ('Patience is the companion of wisdom.', 'ja',
-     '忍耐は知恵の伴侶である。');
+     '忍耐は知恵の伴侶である。'),
+    ('He that can have patience can have what he will.', 'ja',
+     '忍耐できる者は、望むものを手にできる。');
