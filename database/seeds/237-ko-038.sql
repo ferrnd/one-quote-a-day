@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'ko',
      '자신의 생각이 얼마나 강력한지 깨닫는다면, 결코 부정적인 생각을 하지 않을 것이다.'),
     ('I am the greatest. I said that even before I knew I was.', 'ko',
-     '나는 최고다. 그것이 사실이라는 걸 알기도 전부터 나는 그렇게 말했다.');
+     '나는 최고다. 그것이 사실이라는 걸 알기도 전부터 나는 그렇게 말했다.'),
+    ('Impossible is just a big word thrown around by small men.', 'ko',
+     '불가능이란 소인배들이 함부로 내뱉는 거창한 단어일 뿐이다.');
