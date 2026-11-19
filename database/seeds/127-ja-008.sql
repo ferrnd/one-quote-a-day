@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The wound is the place where the Light enters you.', 'ja',
      '傷こそ、光があなたの中に入ってくる場所である。'),
     ('When it is dark enough, you can see the stars.', 'ja',
-     '十分に暗くなれば、星が見える。');
+     '十分に暗くなれば、星が見える。'),
+    ('Fire is the test of gold; adversity, of strong men.', 'ja',
+     '火は金を試し、逆境は強い人間を試す。');
