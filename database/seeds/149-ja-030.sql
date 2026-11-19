@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('As long as you live, keep learning how to live.', 'ja',
      '生きているかぎり、生き方を学び続けよ。'),
     ('Sometimes even to live is an act of courage.', 'ja',
-     'ときには、生きることさえ勇気ある行為である。');
+     'ときには、生きることさえ勇気ある行為である。'),
+    ('If a man knows not to which port he sails, no wind is favorable.', 'ja',
+     'どの港を目指すのかわからない者には、どんな風も追い風にならない。');
