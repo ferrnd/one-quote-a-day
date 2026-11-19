@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t spend time beating on a wall, hoping to transform it into a door.', 'zh-CN',
      '不要把时间花在敲打一堵墙上，指望它变成一扇门。'),
     ('Begin anywhere.', 'zh-CN',
-     '从任何地方开始都可以。');
+     '从任何地方开始都可以。'),
+    ('Action is eloquence.', 'zh-CN',
+     '行动就是雄辩。');
