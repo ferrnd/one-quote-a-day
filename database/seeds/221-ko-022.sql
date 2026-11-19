@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The man who has confidence in himself gains the confidence of others.', 'ko',
      '자신을 믿는 사람은 다른 사람의 신뢰도 얻는다.'),
     ('Once you replace negative thoughts with positive ones, you''ll start having positive results.', 'ko',
-     '부정적인 생각을 긍정적인 생각으로 바꾸면 긍정적인 결과가 나오기 시작한다.');
+     '부정적인 생각을 긍정적인 생각으로 바꾸면 긍정적인 결과가 나오기 시작한다.'),
+    ('When you change the way you look at things, the things you look at change.', 'ko',
+     '사물을 보는 방식을 바꾸면, 당신이 보는 사물이 바뀐다.');
