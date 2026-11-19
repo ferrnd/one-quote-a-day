@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Think big thoughts but relish small pleasures.', 'ja',
      '大きなことを考えよ。だが、小さな喜びを味わえ。'),
     ('Argue for your limitations, and sure enough they''re yours.', 'ja',
-     '自分の限界を主張すれば、それは確かにあなたのものになる。');
+     '自分の限界を主張すれば、それは確かにあなたのものになる。'),
+    ('Success is liking yourself, liking what you do, and liking how you do it.', 'ja',
+     '成功とは、自分を好きになり、自分のしていることを好きになり、そのやり方を好きになることだ。');
