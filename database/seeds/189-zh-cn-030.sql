@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When one door of happiness closes, another opens.', 'zh-CN',
      '当一扇幸福之门关闭时，另一扇就会打开。'),
     ('Alone we can do so little; together we can do so much.', 'zh-CN',
-     '独自一人，我们能做的很少；携手合作，我们能做的很多。');
+     '独自一人，我们能做的很少；携手合作，我们能做的很多。'),
+    ('The only thing worse than being blind is having sight but no vision.', 'zh-CN',
+     '唯一比失明更糟糕的，是有视力却没有远见。');
