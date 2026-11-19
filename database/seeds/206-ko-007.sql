@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life doesn''t get easier or more forgiving, we get stronger and more resilient.', 'ko',
      '삶이 더 쉬워지거나 더 너그러워지는 것이 아니다. 우리가 더 강해지고 더 단단해지는 것이다.'),
     ('Do not pray for an easy life, pray for the strength to endure a difficult one.', 'ko',
-     '편안한 삶을 위해 기도하지 마라. 힘든 삶을 견딜 힘을 위해 기도하라.');
+     '편안한 삶을 위해 기도하지 마라. 힘든 삶을 견딜 힘을 위해 기도하라.'),
+    ('The human capacity for burden is like bamboo: far more flexible than you''d ever believe at first glance.', 'ko',
+     '짐을 견디는 인간의 능력은 대나무와 같다. 언뜻 보기보다 훨씬 더 유연하다.');
