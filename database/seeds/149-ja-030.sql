@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am still learning.', 'ja',
      '私はまだ学んでいる。'),
     ('It is not length of life, but depth of life.', 'ja',
-     '大切なのは人生の長さではなく、人生の深さだ。');
+     '大切なのは人生の長さではなく、人生の深さだ。'),
+    ('Once you make a decision, the universe conspires to make it happen.', 'ja',
+     'ひとたび決断すれば、宇宙はそれを実現させるために動き出す。');
