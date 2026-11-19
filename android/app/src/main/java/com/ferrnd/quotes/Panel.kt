@@ -241,7 +241,7 @@ private fun ShareTab(state: AppState) {
 private fun FavoritesTab(state: AppState, onShow: (Int) -> Unit) {
     val context = LocalContext.current
     if (state.favorites.isEmpty()) {
-        Body(state.t("No favorites yet."), size = 20.sp, italic = true)
+        Body(state.t("No favorites yet."), size = 20.sp, italic = !state.upright)
         Note(state.t("Long-press the quote to save it here. Do it again to remove it."))
         return
     }
@@ -249,7 +249,7 @@ private fun FavoritesTab(state: AppState, onShow: (Int) -> Unit) {
         val entry = state.entry(day)
         val n = state.catalog.dayNumber(day)
         Meta(if (n >= 1) "${state.dayLabel(day)} · ${formatDate(day, state.lang)}" else formatDate(day, state.lang))
-        Body("“${entry.text}”", Modifier.padding(top = 6.dp), italic = true, size = 20.sp)
+        Body("“${entry.text}”", Modifier.padding(top = 6.dp), italic = !state.upright, size = 20.sp)
         entry.author?.let { Meta(it, Modifier.padding(top = 6.dp)) }
         FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp), modifier = Modifier.padding(top = 10.dp)) {
             Pill(state.t("Show")) { onShow(day) }

@@ -38,6 +38,8 @@ class AppState(private val context: Context, val catalog: Catalog) {
 
     val lang: String get() = catalog.resolve(settings.lang)
     val night: Boolean get() = isNight(settings.theme, now)
+    /** Japanese, Chinese and Korean have no italic: their text stays upright. */
+    val upright: Boolean get() = lang.substringBefore('-') in setOf("ja", "zh", "ko")
     val first: Int get() = minOf(catalog.launch, today)
 
     fun t(key: String, vararg vars: Pair<String, Any>) = Strings.t(lang, key, *vars)

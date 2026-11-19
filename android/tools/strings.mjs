@@ -12,7 +12,7 @@
 import { writeFileSync } from "node:fs";
 import { tr } from "../../web/i18n.js";
 
-const LANGS = ["pt-BR", "es", "fr", "it", "de", "nl"];
+const LANGS = ["pt-BR", "es", "fr", "it", "de", "nl", "ja", "zh-CN", "ko"];
 
 /** Shared with the site: translations come from web/i18n.js. */
 const SHARED = [
@@ -213,6 +213,37 @@ const APP = {
     nl: "Native Android, in Kotlin en Jetpack Compose",
   },
 };
+
+/** The app-only strings in Japanese, Simplified Chinese and Korean: [ja, zh-CN, ko]. */
+const CJK = {
+  "notify:on": ["オン", "开", "켜기"],
+  "notify:off": ["オフ", "关", "끄기"],
+  "Daily notification": ["毎日の通知", "每日通知", "매일 알림"],
+  "Each day's quote, delivered to your phone.": ["毎日の言葉を、あなたのスマートフォンへ。", "每天的名言，直接送到你的手机。", "매일의 문장을 당신의 휴대폰으로 보내 드립니다."],
+  "Notify at": ["通知の時刻", "通知时间", "알림 시간"],
+  "Quote of the day": ["今日の言葉", "每日名言", "오늘의 문장"],
+  "What a tap on the quote puts on your clipboard.": ["言葉をタップしたときにクリップボードにコピーされる内容です。", "轻触名言时复制到剪贴板的内容。", "문장을 탭했을 때 클립보드에 복사되는 내용입니다."],
+  "Used when you tap the author.": ["作者をタップしたときに使われます。", "轻触作者时使用。", "작가를 탭할 때 사용됩니다."],
+  "Auto follows the language of your phone.": ["自動では、スマートフォンの言語に合わせます。", "自动模式下，跟随手机的语言。", "자동으로 두면 휴대폰의 언어를 따릅니다."],
+  "Tap the quote to copy it, together with its author. You can copy the quote alone in Settings.": ["言葉をタップすると、作者と一緒にコピーできます。設定で言葉だけをコピーすることもできます。", "轻触名言，即可连同作者一起复制。在设置中也可以只复制名言。", "문장을 탭하면 작가와 함께 복사됩니다. 설정에서 문장만 복사할 수도 있습니다."],
+  "Tap the author to look them up on the web. Pick the search engine in Settings.": ["作者をタップすると、ウェブでその人について調べられます。検索エンジンは設定で選べます。", "轻触作者，即可在网上了解此人。搜索引擎可在设置中选择。", "작가를 탭하면 웹에서 그 사람에 대해 찾아볼 수 있습니다. 검색 엔진은 설정에서 고를 수 있습니다."],
+  "Swipe left and right to walk back through every day since Day 1.": ["左右にスワイプすると、1日目からのすべての日をさかのぼれます。", "左右滑动，就能回顾从第1天以来的每一天。", "좌우로 밀면 1일째부터의 모든 날을 되돌아볼 수 있습니다."],
+  "The number in the corner counts the days since the first one. Tap it to read every quote so far, and to see how long until the next.": ["隅の数字は、最初の日から数えた日数です。タップすると、これまでのすべての言葉と、次の言葉までの時間がわかります。", "角落里的数字记录着从第一天起的天数。轻触它，可以阅读迄今为止的所有名言，并看到距离下一句还有多久。", "구석의 숫자는 첫날부터 센 날수입니다. 탭하면 지금까지의 모든 문장을 읽고, 다음 문장까지 남은 시간도 볼 수 있습니다."],
+  "Long-press the quote to save it as a favorite; do it again to remove it. The Favorites tab lists them all and takes you back to their day.": ["言葉を長押しするとお気に入りに保存され、もう一度すると削除されます。「お気に入り」タブにはすべてが並び、その日に戻ることができます。", "长按名言即可收藏，再长按一次即可取消。“收藏”标签会列出所有收藏，并带你回到对应的那一天。", "문장을 길게 누르면 즐겨찾기에 저장되고, 한 번 더 누르면 삭제됩니다. '즐겨찾기' 탭에서 모두 볼 수 있고 그날로 돌아갈 수 있습니다."],
+  "Long-press the quote to save it here. Do it again to remove it.": ["言葉を長押しすると、ここに保存されます。もう一度すると削除されます。", "长按名言即可保存到这里，再长按一次即可取消。", "문장을 길게 누르면 이곳에 저장됩니다. 한 번 더 누르면 삭제됩니다."],
+  "Notifications": ["通知", "通知", "알림"],
+  "Every day, at the time you choose in Settings, the day's quote arrives as a notification, in your language.": ["毎日、設定で選んだ時刻に、その日の言葉があなたの言語で通知として届きます。", "每天在你于设置中选择的时间，当天的名言会以你的语言作为通知送达。", "매일 설정에서 고른 시간에, 그날의 문장이 당신의 언어로 알림이 되어 찾아옵니다."],
+  "From 9 p.m. to 6 a.m. the screen turns white on black, and back again in the morning. Settings can keep it light or dark all the time.": ["午後9時から午前6時までは、画面が黒地に白になり、朝になると元に戻ります。設定で、いつも明るく、またはいつも暗くしておくこともできます。", "从晚上9点到早上6点，屏幕变为黑底白字，早上再恢复。在设置中可以让它一直保持浅色或深色。", "밤 9시부터 아침 6시까지는 화면이 검은 바탕에 흰 글씨로 바뀌고, 아침이면 다시 돌아옵니다. 설정에서 늘 밝게 또는 늘 어둡게 둘 수 있습니다."],
+  "Everything works offline: every quote, in every language, lives inside the app.": ["すべてオフラインで動きます。すべての言葉が、すべての言語で、アプリの中に入っています。", "一切都可以离线使用：每一句名言、每一种语言，都在应用之中。", "모든 것이 오프라인으로 작동합니다. 모든 문장이 모든 언어로 앱 안에 들어 있습니다."],
+  "Send the quote on screen, as a picture or as text, with a link to the site.": ["画面の言葉を、画像またはテキストで、サイトへのリンクと一緒に送りましょう。", "把屏幕上的名言以图片或文字的形式，连同网站链接一起发送出去。", "화면의 문장을 이미지나 텍스트로, 사이트 링크와 함께 보내 보세요."],
+  "Share image": ["画像で共有", "分享图片", "이미지 공유"],
+  "Share text": ["テキストで共有", "分享文字", "텍스트 공유"],
+  "Share all": ["すべて共有", "全部分享", "모두 공유"],
+  "Notifications are blocked. Allow them in the phone's settings.": ["通知がブロックされています。スマートフォンの設定で許可してください。", "通知已被屏蔽。请在手机设置中允许通知。", "알림이 차단되어 있습니다. 휴대폰 설정에서 허용해 주세요."],
+  "Open settings": ["設定を開く", "打开设置", "설정 열기"],
+  "Native Android, in Kotlin and Jetpack Compose": ["KotlinとJetpack Composeで書かれたネイティブAndroidアプリ", "原生Android，使用Kotlin和Jetpack Compose编写", "Kotlin과 Jetpack Compose로 만든 네이티브 Android 앱"],
+};
+for (const [key, [ja, zh, ko]] of Object.entries(CJK)) Object.assign(APP[key], { ja, "zh-CN": zh, ko });
 
 const table = { en: {} };
 for (const lang of LANGS) table[lang] = {};

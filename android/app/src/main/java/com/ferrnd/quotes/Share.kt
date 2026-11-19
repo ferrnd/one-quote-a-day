@@ -10,6 +10,7 @@ import android.graphics.Typeface
 import android.net.Uri
 import android.os.Build
 import android.provider.MediaStore
+import android.graphics.text.LineBreakConfig
 import android.text.Layout
 import android.text.StaticLayout
 import android.text.TextPaint
@@ -41,7 +42,9 @@ object Share {
 
         val quotePaint = TextPaint(Paint.ANTI_ALIAS_FLAG).apply {
             color = ink
-            typeface = typeface(context, "cormorant_italic.ttf", 400)
+            // CJK has no italic: keep those scripts upright
+            typeface = if (lang.substringBefore('-') in setOf("ja", "zh", "ko")) typeface(context, "cormorant.ttf", 400)
+            else typeface(context, "cormorant_italic.ttf", 400)
         }
         val max = (CARD * 0.72f).toInt()
         val text = "“${entry.text}”"
@@ -54,6 +57,12 @@ object Share {
                 .setLineSpacing(0f, 1.22f)
                 .setIncludePad(false)
                 .setBreakStrategy(Layout.BREAK_STRATEGY_BALANCED)
+                .apply {
+                    // keep Korean words and Japanese phrases whole where Android can
+                    if (Build.VERSION.SDK_INT >= 33) setLineBreakConfig(
+                        LineBreakConfig.Builder().setLineBreakWordStyle(LineBreakConfig.LINE_BREAK_WORD_STYLE_PHRASE).build(),
+                    )
+                }
                 .build()
             if (layout.height <= CARD * 0.52f || size <= 34f) break
             size -= 2f

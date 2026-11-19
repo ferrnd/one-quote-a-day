@@ -160,7 +160,7 @@ private fun QuoteBlock(state: AppState, day: Int) {
                 textAlign = TextAlign.Center,
                 style = TextStyle(
                     fontFamily = fonts.serif,
-                    fontStyle = FontStyle.Italic,
+                    fontStyle = if (state.upright) FontStyle.Normal else FontStyle.Italic,
                     fontWeight = FontWeight.Medium,
                     fontSize = (base * scale).sp,
                     lineHeight = 1.22.em,

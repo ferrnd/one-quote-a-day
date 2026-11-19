@@ -185,7 +185,7 @@ class AppTest {
     @Test
     fun rendersTheShareCard() {
         val app = ApplicationProvider.getApplicationContext<Application>()
-        for ((name, lang) in listOf("en" to "en", "de" to "de")) {
+        for ((name, lang) in listOf("en" to "en", "de" to "de", "ja" to "ja", "zh" to "zh-CN", "ko" to "ko")) {
             val entry = catalog.entry(today, lang)
             val bitmap = Share.renderCard(app, entry, Strings.t(lang, "Day {n}", "n" to catalog.dayNumber(today)), Palette.Day, lang)
             assertEquals(1080, bitmap.width)
