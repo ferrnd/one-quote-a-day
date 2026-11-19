@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We must accept finite disappointment, but never lose infinite hope.', 'zh-CN',
      '我们必须接受有限的失望，但永远不要失去无限的希望。'),
     ('Only in the darkness can you see the stars.', 'zh-CN',
-     '唯有在黑暗中，你才能看见星星。');
+     '唯有在黑暗中，你才能看见星星。'),
+    ('Even the darkest night will end and the sun will rise.', 'zh-CN',
+     '即使是最黑暗的夜晚也会结束，太阳终将升起。');
