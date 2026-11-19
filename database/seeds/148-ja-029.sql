@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.', 'ja',
      '私たちの人生に現れる竜はみな、私たちがたった一度でも美しく勇敢にふるまうのを待っている王女なのかもしれない。'),
     ('What would you attempt to do if you knew you would not fail?', 'ja',
-     '絶対に失敗しないとわかっていたら、何に挑戦するだろうか。');
+     '絶対に失敗しないとわかっていたら、何に挑戦するだろうか。'),
+    ('I saw the angel in the marble and carved until I set him free.', 'ja',
+     '私は大理石の中に天使を見た。そして、彼を解き放つまで彫り続けた。');
