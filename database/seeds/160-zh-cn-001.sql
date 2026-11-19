@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Great works are performed not by strength but by perseverance.', 'zh-CN',
      '伟大的事业不是靠力气完成的，而是靠毅力。'),
     ('Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.', 'zh-CN',
-     '耐心与毅力有一种神奇的力量，在它面前，困难消散，障碍无踪。');
+     '耐心与毅力有一种神奇的力量，在它面前，困难消散，障碍无踪。'),
+    ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'zh-CN',
+     '凭借坚持，许多人从看似注定失败的境地中赢得了成功。');
