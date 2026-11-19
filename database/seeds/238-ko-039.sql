@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dreams are illustrations from the book your soul is writing about you.', 'ko',
      '꿈은 당신의 영혼이 당신에 대해 쓰고 있는 책의 삽화다.'),
     ('Dream no small dreams for they have no power to move the hearts of men.', 'ko',
-     '작은 꿈은 꾸지 마라. 작은 꿈에는 사람의 마음을 움직일 힘이 없으니.');
+     '작은 꿈은 꾸지 마라. 작은 꿈에는 사람의 마음을 움직일 힘이 없으니.'),
+    ('A man is not old until regrets take the place of dreams.', 'ko',
+     '후회가 꿈을 대신하기 전까지 사람은 늙지 않는다.');
