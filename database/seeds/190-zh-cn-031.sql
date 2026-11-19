@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Efforts and courage are not enough without purpose and direction.', 'zh-CN',
      '没有目标和方向，光有努力和勇气是不够的。'),
     ('The world is changed by your example, not by your opinion.', 'zh-CN',
-     '改变世界的是你的榜样，而不是你的意见。');
+     '改变世界的是你的榜样，而不是你的意见。'),
+    ('We can''t help everyone, but everyone can help someone.', 'zh-CN',
+     '我们不能帮助每一个人，但每个人都能帮助某个人。');
