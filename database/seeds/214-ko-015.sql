@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Focus on being productive instead of busy.', 'ko',
      '바쁜 것이 아니라 생산적인 것에 집중하라.'),
     ('Discipline is remembering what you want.', 'ko',
-     '자기 훈련이란 자신이 무엇을 원하는지 기억하는 것이다.');
+     '자기 훈련이란 자신이 무엇을 원하는지 기억하는 것이다.'),
+    ('Make each day your masterpiece.', 'ko',
+     '하루하루를 당신의 걸작으로 만들어라.');
