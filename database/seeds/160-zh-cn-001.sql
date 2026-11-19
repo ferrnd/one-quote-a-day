@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perseverance is not a long race; it is many short races one after the other.', 'zh-CN',
      '坚持不是一场长跑，而是一场接一场的短跑。'),
     ('A river cuts through rock not because of its power, but because of its persistence.', 'zh-CN',
-     '河水能穿透岩石，不是因为它的力量，而是因为它的坚持。');
+     '河水能穿透岩石，不是因为它的力量，而是因为它的坚持。'),
+    ('Many of life''s failures are people who did not realize how close they were to success when they gave up.', 'zh-CN',
+     '生活中的许多失败者，是那些放弃时没有意识到自己离成功有多近的人。');
