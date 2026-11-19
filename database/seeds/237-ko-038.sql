@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Argue for your limitations, and sure enough they''re yours.', 'ko',
      '자신의 한계를 옹호하면, 틀림없이 그것은 당신의 한계가 된다.'),
     ('Success is liking yourself, liking what you do, and liking how you do it.', 'ko',
-     '성공이란 자신을 좋아하고, 자신이 하는 일을 좋아하고, 그 일을 하는 방식을 좋아하는 것이다.');
+     '성공이란 자신을 좋아하고, 자신이 하는 일을 좋아하고, 그 일을 하는 방식을 좋아하는 것이다.'),
+    ('The soul becomes dyed with the color of its thoughts.', 'ko',
+     '영혼은 그 생각의 색깔로 물든다.');
