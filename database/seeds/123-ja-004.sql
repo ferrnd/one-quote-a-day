@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not the critic who counts.', 'ja',
      '大切なのは批評家ではない。'),
     ('The credit belongs to the man who is actually in the arena.', 'ja',
-     '称賛に値するのは、実際に闘技場に立っている者である。');
+     '称賛に値するのは、実際に闘技場に立っている者である。'),
+    ('Fear has two meanings: forget everything and run, or face everything and rise.', 'ja',
+     '恐れには二つの意味がある。すべてを忘れて逃げるか、すべてに立ち向かって立ち上がるか。');
