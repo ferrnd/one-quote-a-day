@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream as if you''ll live forever. Live as if you''ll die today.', 'ko',
      '영원히 살 것처럼 꿈꾸고, 오늘 죽을 것처럼 살아라.'),
     ('The biggest adventure you can take is to live the life of your dreams.', 'ko',
-     '당신이 떠날 수 있는 가장 큰 모험은 꿈꾸던 삶을 사는 것이다.');
+     '당신이 떠날 수 있는 가장 큰 모험은 꿈꾸던 삶을 사는 것이다.'),
+    ('Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.', 'ko',
+     '높이 손을 뻗어라. 별은 네 안에 숨어 있으니. 깊이 꿈꾸어라. 모든 꿈은 목표보다 먼저 오니.');
