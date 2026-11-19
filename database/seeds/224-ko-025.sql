@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No great thing is created suddenly.', 'ko',
      '위대한 것은 갑자기 만들어지지 않는다.'),
     ('Perhaps someday it will be pleasant to remember even this.', 'ko',
-     '언젠가는 이것마저도 즐겁게 추억할 날이 올 것이다.');
+     '언젠가는 이것마저도 즐겁게 추억할 날이 올 것이다.'),
+    ('Endure, and preserve yourselves for better things.', 'ko',
+     '견뎌라. 그리고 더 좋은 날을 위해 자신을 지켜라.');
