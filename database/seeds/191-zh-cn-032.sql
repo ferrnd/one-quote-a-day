@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is like love; it must have hope for nourishment.', 'zh-CN',
      '勇气就像爱情，必须以希望为养料。'),
     ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'zh-CN',
-     '奇怪的是，世上身体上的勇气如此常见，而道德上的勇气却如此罕见。');
+     '奇怪的是，世上身体上的勇气如此常见，而道德上的勇气却如此罕见。'),
+    ('The opposite of courage in our society is not cowardice, it is conformity.', 'zh-CN',
+     '在我们的社会中，勇气的反面不是懦弱，而是随波逐流。');
