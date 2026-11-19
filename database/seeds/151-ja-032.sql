@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'ja',
      '勇気とは、怖いと思うことをやることだ。怖くなければ、勇気もありえない。'),
     ('Fortune and love favor the brave.', 'ja',
-     '幸運と愛は、勇者に味方する。');
+     '幸運と愛は、勇者に味方する。'),
+    ('Expose yourself to your deepest fear; after that, fear has no power.', 'ja',
+     '最も深い恐れに身をさらせ。そうすれば、恐れはもう力を持たない。');
