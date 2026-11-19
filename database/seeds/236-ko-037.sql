@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do something wonderful, people may imitate it.', 'ko',
      '멋진 일을 하라. 사람들이 그것을 따라 할지도 모른다.'),
     ('The time is always right to do what is right.', 'ko',
-     '옳은 일을 하기에 적절하지 않은 때는 없다.');
+     '옳은 일을 하기에 적절하지 않은 때는 없다.'),
+    ('A goal properly set is halfway reached.', 'ko',
+     '제대로 세운 목표는 이미 절반은 이룬 것이다.');
