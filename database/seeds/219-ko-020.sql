@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the difficult things while they are easy and do the great things while they are small.', 'ko',
      '어려운 일은 쉬울 때 하고, 큰일은 작을 때 하라.'),
     ('Well begun is half done.', 'ko',
-     '시작이 반이다.');
+     '시작이 반이다.'),
+    ('If you spend too much time thinking about a thing, you''ll never get it done.', 'ko',
+     '한 가지 일을 너무 오래 생각하면 결코 그것을 해내지 못한다.');
