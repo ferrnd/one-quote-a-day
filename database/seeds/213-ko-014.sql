@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without hard work, nothing grows but weeds.', 'ko',
      '열심히 일하지 않으면 잡초 말고는 아무것도 자라지 않는다.'),
     ('Success isn''t always about greatness. It''s about consistency.', 'ko',
-     '성공이 늘 위대함에 관한 것은 아니다. 꾸준함에 관한 것이다.');
+     '성공이 늘 위대함에 관한 것은 아니다. 꾸준함에 관한 것이다.'),
+    ('Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.', 'ko',
+     '성공은 우연이 아니다. 그것은 노력, 끈기, 배움, 공부, 희생, 그리고 무엇보다 자신이 하는 일에 대한 사랑이다.');
