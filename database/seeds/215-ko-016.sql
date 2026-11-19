@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who is not every day conquering some fear has not learned the secret of life.', 'ko',
      '날마다 어떤 두려움을 이겨 내지 않는 사람은 아직 삶의 비밀을 배우지 못한 것이다.'),
     ('Life begins at the end of your comfort zone.', 'ko',
-     '인생은 안전지대가 끝나는 곳에서 시작된다.');
+     '인생은 안전지대가 끝나는 곳에서 시작된다.'),
+    ('I can''t change the direction of the wind, but I can adjust my sails to always reach my destination.', 'ko',
+     '나는 바람의 방향을 바꿀 수 없지만, 돛을 조정하여 언제나 목적지에 닿을 수 있다.');
