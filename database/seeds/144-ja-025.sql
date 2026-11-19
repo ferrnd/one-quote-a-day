@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Set your goals high, and don''t stop till you get there.', 'ja',
      '目標は高く掲げ、たどり着くまで止まるな。'),
     ('Desire is the key to motivation, but it''s determination and commitment to an unrelenting pursuit of your goal that will enable you to attain the success you seek.', 'ja',
-     '欲求はやる気の鍵だ。だが、求める成功を手にさせてくれるのは、目標をひたむきに追い続ける決意と献身である。');
+     '欲求はやる気の鍵だ。だが、求める成功を手にさせてくれるのは、目標をひたむきに追い続ける決意と献身である。'),
+    ('Obstacles cannot crush me. Every obstacle yields to stern resolve.', 'ja',
+     '障害は私を打ち砕けない。どんな障害も、固い決意の前には屈する。');
