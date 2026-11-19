@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In all things it is better to hope than to despair.', 'ja',
      '何事においても、絶望するより希望を持つほうがいい。'),
     ('Hope is important because it can make the present moment less difficult to bear.', 'ja',
-     '希望が大切なのは、今この瞬間を少しでも耐えやすくしてくれるからだ。');
+     '希望が大切なのは、今この瞬間を少しでも耐えやすくしてくれるからだ。'),
+    ('No matter how long the winter, spring is sure to follow.', 'ja',
+     'どんなに冬が長くても、春は必ずやってくる。');
