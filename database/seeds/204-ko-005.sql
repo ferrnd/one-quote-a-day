@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.', 'ko',
      '무언가에 실패하지 않고 사는 것은 불가능하다. 차라리 살지 않은 것과 다름없을 만큼 조심스럽게 살지 않는 한은.'),
     ('Rock bottom became the solid foundation on which I rebuilt my life.', 'ko',
-     '바닥은 내가 삶을 다시 세운 단단한 토대가 되었다.');
+     '바닥은 내가 삶을 다시 세운 단단한 토대가 되었다.'),
+    ('Do not judge me by my success, judge me by how many times I fell down and got back up again.', 'ko',
+     '나를 성공으로 판단하지 말고, 몇 번 넘어졌다가 다시 일어섰는지로 판단해 달라.');
