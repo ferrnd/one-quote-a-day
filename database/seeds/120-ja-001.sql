@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rivers know this: there is no hurry. We shall get there some day.', 'ja',
      '川は知っている。急ぐことはない。いつかはたどり着くのだと。'),
     ('Perseverance is not a long race; it is many short races one after the other.', 'ja',
-     '根気とは一つの長い競走ではない。短い競走を次々と走り続けることだ。');
+     '根気とは一つの長い競走ではない。短い競走を次々と走り続けることだ。'),
+    ('A river cuts through rock not because of its power, but because of its persistence.', 'ja',
+     '川が岩を削るのは力が強いからではなく、絶え間なく流れ続けるからだ。');
