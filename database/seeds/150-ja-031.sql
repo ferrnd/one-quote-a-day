@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We will either find a way, or make one.', 'ja',
      '道を見つけるか、さもなくば道をつくる。'),
     ('The secret of success is constancy to purpose.', 'ja',
-     '成功の秘訣は、目的を貫くことにある。');
+     '成功の秘訣は、目的を貫くことにある。'),
+    ('Persist and persevere, and you will find most things that are attainable, possible.', 'ja',
+     '粘り強く、根気よく続ければ、手の届くものの多くは実現可能だとわかるだろう。');
