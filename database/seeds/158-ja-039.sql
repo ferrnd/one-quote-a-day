@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Wisely and slow; they stumble that run fast.', 'ja',
      '賢く、ゆっくりと。速く走る者はつまずく。'),
     ('They also serve who only stand and wait.', 'ja',
-     'ただ立って待つ者もまた、仕えているのだ。');
+     'ただ立って待つ者もまた、仕えているのだ。'),
+    ('Only time can heal what reason cannot.', 'ja',
+     '理性で癒せないものも、時間なら癒せる。');
