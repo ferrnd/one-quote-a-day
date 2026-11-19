@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Character is power.', 'ja',
      '人格こそ力である。'),
     ('I am not afraid; I was born to do this.', 'ja',
-     '私は恐れない。私はこれをするために生まれてきたのだから。');
+     '私は恐れない。私はこれをするために生まれてきたのだから。'),
+    ('Self-control is strength. Right thought is mastery. Calmness is power.', 'ja',
+     '自制は強さである。正しい思考は熟達である。落ち着きは力である。');
