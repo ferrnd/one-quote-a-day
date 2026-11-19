@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.', 'ja',
      'すべてが自分に逆らっているように思えるときは、思い出してほしい。飛行機は追い風ではなく、向かい風に向かって離陸するのだ。'),
     ('Out of difficulties grow miracles.', 'ja',
-     '困難の中から奇跡は育つ。');
+     '困難の中から奇跡は育つ。'),
+    ('The gem cannot be polished without friction, nor man perfected without trials.', 'ja',
+     '玉は磨かざれば光なく、人は試練なくして完成せず。');
