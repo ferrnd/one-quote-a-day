@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a waking dream.', 'ko',
      '희망은 깨어 있는 꿈이다.'),
     ('While there''s life, there''s hope.', 'ko',
-     '살아 있는 한 희망은 있다.');
+     '살아 있는 한 희망은 있다.'),
+    ('There is some good in this world, and it''s worth fighting for.', 'ko',
+     '이 세상에는 아직 좋은 것이 있고, 그것은 싸워서 지킬 가치가 있다.');
