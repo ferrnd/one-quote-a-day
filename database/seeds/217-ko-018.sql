@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Faith is taking the first step even when you don''t see the whole staircase.', 'ko',
      '믿음이란 계단 전체가 보이지 않을 때에도 첫 계단을 내딛는 것이다.'),
     ('There is no education like adversity.', 'ko',
-     '역경만 한 교육은 없다.');
+     '역경만 한 교육은 없다.'),
+    ('Those things that hurt, instruct.', 'ko',
+     '아프게 하는 것들이 가르쳐 준다.');
