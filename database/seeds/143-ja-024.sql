@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Have patience with all things, but first of all with yourself.', 'ja',
      'あらゆることに忍耐強くありなさい。だが何よりもまず、自分自身に対して。'),
     ('One moment of patience may ward off great disaster. One moment of impatience may ruin a whole life.', 'ja',
-     '一瞬の忍耐が大きな災いを防ぎ、一瞬の短気が一生を台無しにする。');
+     '一瞬の忍耐が大きな災いを防ぎ、一瞬の短気が一生を台無しにする。'),
+    ('Patience is not simply the ability to wait; it''s how we behave while we''re waiting.', 'ja',
+     '忍耐とは、ただ待つ力のことではない。待っている間にどうふるまうかのことだ。');
