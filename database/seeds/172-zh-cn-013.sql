@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is nothing more than a few simple disciplines, practiced every day.', 'zh-CN',
      '成功不过是每天坚持实践的几条简单的自律。'),
     ('Don''t wish it were easier, wish you were better.', 'zh-CN',
-     '不要希望事情更容易，要希望自己更优秀。');
+     '不要希望事情更容易，要希望自己更优秀。'),
+    ('Either you run the day or the day runs you.', 'zh-CN',
+     '要么你驾驭一天，要么一天驾驭你。');
