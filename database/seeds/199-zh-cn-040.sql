@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The unexamined life is not worth living.', 'zh-CN',
      '未经审视的人生不值得过。'),
     ('The only true wisdom is in knowing you know nothing.', 'zh-CN',
-     '唯一真正的智慧，是知道自己一无所知。');
+     '唯一真正的智慧，是知道自己一无所知。'),
+    ('Be kind, for everyone you meet is fighting a hard battle.', 'zh-CN',
+     '待人友善，因为你遇到的每个人都在打一场艰难的仗。');
