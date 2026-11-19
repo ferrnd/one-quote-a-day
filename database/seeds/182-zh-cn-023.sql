@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Why, sometimes I''ve believed as many as six impossible things before breakfast.', 'zh-CN',
      '嗯，有时候我早餐前就能相信六件不可能的事呢。'),
     ('The worst enemy to creativity is self-doubt.', 'zh-CN',
-     '创造力最大的敌人是自我怀疑。');
+     '创造力最大的敌人是自我怀疑。'),
+    ('I dwell in possibility.', 'zh-CN',
+     '我栖居于可能之中。');
