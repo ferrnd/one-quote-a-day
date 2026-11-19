@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Slow and steady wins the race.', 'ko',
      '느리지만 꾸준한 자가 경주에서 이긴다.'),
     ('With time and patience the mulberry leaf becomes a silk gown.', 'ko',
-     '시간과 인내가 있으면 뽕잎도 비단옷이 된다.');
+     '시간과 인내가 있으면 뽕잎도 비단옷이 된다.'),
+    ('Patience attracts happiness; it brings near that which is far.', 'ko',
+     '인내는 행복을 끌어당기고, 먼 것을 가까이 가져온다.');
