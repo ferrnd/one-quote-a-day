@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Begin at once to live, and count each separate day as a separate life.', 'ko',
      '당장 살기 시작하라. 그리고 하루하루를 각각 하나의 삶으로 여겨라.'),
     ('Start where you are. Use what you have. Do what you can.', 'ko',
-     '지금 있는 곳에서 시작하라. 가진 것을 활용하라. 할 수 있는 일을 하라.');
+     '지금 있는 곳에서 시작하라. 가진 것을 활용하라. 할 수 있는 일을 하라.'),
+    ('We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.', 'ko',
+     '우리는 나비의 아름다움에 기뻐하지만, 그 아름다움에 이르기까지 나비가 겪은 변화는 좀처럼 인정하지 않는다.');
