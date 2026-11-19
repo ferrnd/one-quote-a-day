@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Discipline equals freedom.', 'ja',
      '規律は自由に等しい。'),
     ('Concentrate all your thoughts upon the work at hand. The sun''s rays do not burn until brought to a focus.', 'ja',
-     '目の前の仕事にすべての思考を集中させなさい。太陽の光も、一点に集めなければ火はつかない。');
+     '目の前の仕事にすべての思考を集中させなさい。太陽の光も、一点に集めなければ火はつかない。'),
+    ('Well done is better than well said.', 'ja',
+     'うまく言うより、うまく行うほうがいい。');
