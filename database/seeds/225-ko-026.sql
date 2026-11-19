@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A dream doesn''t become reality through magic; it takes sweat, determination and hard work.', 'ko',
      '꿈은 마법으로 현실이 되지 않는다. 땀과 결단과 노력이 필요하다.'),
     ('There are no secrets to success. It is the result of preparation, hard work, and learning from failure.', 'ko',
-     '성공에 비밀은 없다. 그것은 준비와 노력, 그리고 실패에서 배운 것의 결과다.');
+     '성공에 비밀은 없다. 그것은 준비와 노력, 그리고 실패에서 배운 것의 결과다.'),
+    ('Our greatest fear should not be of failure but of succeeding at things in life that don''t really matter.', 'ko',
+     '우리가 가장 두려워해야 할 것은 실패가 아니라, 인생에서 정말로 중요하지 않은 일에 성공하는 것이다.');
