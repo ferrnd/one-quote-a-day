@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Bear up, my heart; you have endured worse than this.', 'zh-CN',
      '忍住吧，我的心；你曾忍受过比这更糟的事。'),
     ('This too shall pass.', 'zh-CN',
-     '这一切都会过去。');
+     '这一切都会过去。'),
+    ('Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.', 'zh-CN',
+     '永远不要因为实现梦想需要时间就放弃它，反正时间总会过去。');
