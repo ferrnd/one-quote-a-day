@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.', 'zh-CN',
      '我们为蝴蝶的美丽而欣喜，却很少承认它为了这份美丽经历了怎样的蜕变。'),
     ('It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.', 'zh-CN',
-     '能够生存下来的物种，不是最强大的，也不是最聪明的，而是最能适应变化的。');
+     '能够生存下来的物种，不是最强大的，也不是最聪明的，而是最能适应变化的。'),
+    ('When I let go of what I am, I become what I might be.', 'zh-CN',
+     '当我放下我所是，我便成为我所能是。');
