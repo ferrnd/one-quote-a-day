@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Expose yourself to your deepest fear; after that, fear has no power.', 'zh-CN',
      '让自己直面最深的恐惧，之后，恐惧便再无力量。'),
     ('Courage is like love; it must have hope for nourishment.', 'zh-CN',
-     '勇气就像爱情，必须以希望为养料。');
+     '勇气就像爱情，必须以希望为养料。'),
+    ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'zh-CN',
+     '奇怪的是，世上身体上的勇气如此常见，而道德上的勇气却如此罕见。');
