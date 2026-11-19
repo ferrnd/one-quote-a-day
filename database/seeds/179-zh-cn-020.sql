@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you spend too much time thinking about a thing, you''ll never get it done.', 'zh-CN',
      '如果你在一件事上想得太久，你就永远做不成它。'),
     ('What you do speaks so loudly that I cannot hear what you say.', 'zh-CN',
-     '你的所作所为声音太大，我听不见你在说什么。');
+     '你的所作所为声音太大，我听不见你在说什么。'),
+    ('Go confidently in the direction of your dreams. Live the life you have imagined.', 'zh-CN',
+     '自信地朝着梦想的方向前进，过你所想象的生活。');
