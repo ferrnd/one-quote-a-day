@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.', 'ja',
      '苦しみの中から最も強い魂が生まれた。最も偉大な人格には、傷跡が刻まれている。'),
     ('The oak fought the wind and was broken, the willow bent when it must and survived.', 'ja',
-     '樫の木は風と戦って折れ、柳はしなるべきときにしなって生き延びた。');
+     '樫の木は風と戦って折れ、柳はしなるべきときにしなって生き延びた。'),
+    ('Although the world is full of suffering, it is also full of the overcoming of it.', 'ja',
+     '世界は苦しみに満ちているが、それを乗り越えることにも満ちている。');
