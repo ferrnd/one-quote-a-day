@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The obstacle is the path.', 'ko',
      '장애물이 곧 길이다.'),
     ('The journey of a thousand miles begins with one step.', 'ko',
-     '천 리 길도 한 걸음부터 시작된다.');
+     '천 리 길도 한 걸음부터 시작된다.'),
+    ('Action is the foundational key to all success.', 'ko',
+     '행동은 모든 성공의 근본적인 열쇠다.');
