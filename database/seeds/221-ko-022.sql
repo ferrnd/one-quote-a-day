@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.', 'ko',
      '성공은 인생에서 도달한 지위보다 극복한 장애물로 측정되어야 한다.'),
     ('Excellence is to do a common thing in an uncommon way.', 'ko',
-     '탁월함이란 평범한 일을 평범하지 않은 방식으로 하는 것이다.');
+     '탁월함이란 평범한 일을 평범하지 않은 방식으로 하는 것이다.'),
+    ('What you think of yourself is much more important than what others think of you.', 'ko',
+     '당신이 스스로를 어떻게 생각하느냐가 남들이 당신을 어떻게 생각하느냐보다 훨씬 더 중요하다.');
