@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is not a lottery ticket you can sit on the sofa and clutch, feeling lucky. It is an axe you break down doors with in an emergency.', 'zh-CN',
      '希望不是一张可以坐在沙发上紧紧攥着、觉得自己很幸运的彩票。它是紧急时刻用来劈开门的斧头。'),
     ('Let us be of good cheer, remembering that the misfortunes hardest to bear are those which never come.', 'zh-CN',
-     '让我们振作起来，记住，最难承受的不幸，是那些永远不会到来的不幸。');
+     '让我们振作起来，记住，最难承受的不幸，是那些永远不会到来的不幸。'),
+    ('The best way to cheer yourself up is to try to cheer somebody else up.', 'zh-CN',
+     '让自己振作起来的最好方法，就是努力让别人振作起来。');
