@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Lost time is never found again.', 'zh-CN',
      '失去的时间再也找不回来。'),
     ('Without hard work, nothing grows but weeds.', 'zh-CN',
-     '没有辛勤的劳动，除了杂草什么也长不出来。');
+     '没有辛勤的劳动，除了杂草什么也长不出来。'),
+    ('Success isn''t always about greatness. It''s about consistency.', 'zh-CN',
+     '成功并不总是关乎伟大，而是关乎坚持。');
