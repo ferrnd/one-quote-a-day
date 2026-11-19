@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.', 'ja',
      '敵に立ち向かうには大きな勇気がいる。だが友に立ち向かうにも、同じだけの勇気がいる。'),
     ('Do the thing you fear, and the death of fear is certain.', 'ja',
-     '恐れていることをやりなさい。そうすれば恐れは必ず消える。');
+     '恐れていることをやりなさい。そうすれば恐れは必ず消える。'),
+    ('Fear is only as deep as the mind allows.', 'ja',
+     '恐れは、心が許すぶんだけ深くなる。');
