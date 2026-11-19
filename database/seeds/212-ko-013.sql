@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are the one that possesses the keys to your being. You carry the passport to your own happiness.', 'ko',
      '당신 존재의 열쇠를 가진 사람은 바로 당신이다. 당신의 행복으로 가는 여권도 당신이 지니고 있다.'),
     ('We are what we repeatedly do. Excellence, then, is not an act, but a habit.', 'ko',
-     '우리는 우리가 반복하는 행동의 결과다. 그러므로 탁월함은 행위가 아니라 습관이다.');
+     '우리는 우리가 반복하는 행동의 결과다. 그러므로 탁월함은 행위가 아니라 습관이다.'),
+    ('Discipline is the bridge between goals and accomplishment.', 'ko',
+     '자기 훈련은 목표와 성취를 잇는 다리다.');
