@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You were born with wings, why prefer to crawl through life?', 'ja',
      'あなたは翼を持って生まれてきた。なぜ這って生きることを選ぶのか。'),
     ('Respond to every call that excites your spirit.', 'ja',
-     'あなたの魂を躍らせる呼び声には、すべて応えなさい。');
+     'あなたの魂を躍らせる呼び声には、すべて応えなさい。'),
+    ('If you are irritated by every rub, how will your mirror be polished?', 'ja',
+     'こすられるたびに苛立っていたら、どうして鏡が磨かれるだろうか。');
