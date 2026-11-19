@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Vitality shows in not only the ability to persist but the ability to start over.', 'zh-CN',
      '生命力不仅体现在坚持的能力上，也体现在重新开始的能力上。'),
     ('But man is not made for defeat. A man can be destroyed but not defeated.', 'zh-CN',
-     '但人不是为失败而生的。一个人可以被毁灭，但不能被打败。');
+     '但人不是为失败而生的。一个人可以被毁灭，但不能被打败。'),
+    ('Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.', 'zh-CN',
+     '人生并不总是要握有一手好牌，有时是要把一手烂牌打好。');
