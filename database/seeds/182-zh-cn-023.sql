@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Imagination is more important than knowledge.', 'zh-CN',
      '想象力比知识更重要。'),
     ('I have learned over the years that when one''s mind is made up, this diminishes fear.', 'zh-CN',
-     '这些年来我明白了，一个人一旦下定决心，恐惧就会减少。');
+     '这些年来我明白了，一个人一旦下定决心，恐惧就会减少。'),
+    ('You must do the things you think you cannot do.', 'zh-CN',
+     '你必须去做那些你认为自己做不到的事。');
