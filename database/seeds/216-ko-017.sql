@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s not what happens to you, but how you react to it that matters.', 'ko',
      '중요한 것은 당신에게 무슨 일이 일어나느냐가 아니라 그것에 어떻게 반응하느냐다.'),
     ('Begin at once to live, and count each separate day as a separate life.', 'ko',
-     '당장 살기 시작하라. 그리고 하루하루를 각각 하나의 삶으로 여겨라.');
+     '당장 살기 시작하라. 그리고 하루하루를 각각 하나의 삶으로 여겨라.'),
+    ('Start where you are. Use what you have. Do what you can.', 'ko',
+     '지금 있는 곳에서 시작하라. 가진 것을 활용하라. 할 수 있는 일을 하라.');
