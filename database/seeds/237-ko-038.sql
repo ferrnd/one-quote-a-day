@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'ko',
      '내 머리가 그것을 생각할 수 있고 내 마음이 그것을 믿을 수 있다면, 나는 그것을 이룰 수 있다.'),
     ('Confidence is contagious. So is lack of confidence.', 'ko',
-     '자신감은 전염된다. 자신감의 부족도 마찬가지다.');
+     '자신감은 전염된다. 자신감의 부족도 마찬가지다.'),
+    ('Nurture your mind with great thoughts, for you will never go any higher than you think.', 'ko',
+     '위대한 생각으로 마음을 길러라. 사람은 자신이 생각하는 것보다 더 높이 오를 수 없다.');
