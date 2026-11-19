@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It takes courage to grow up and become who you really are.', 'zh-CN',
      '长大并成为真正的自己，需要勇气。'),
     ('Courage is rightly esteemed the first of human qualities because it is the quality which guarantees all others.', 'zh-CN',
-     '勇气被公认为人类首要的品质，这是理所当然的，因为它是保障其他一切品质的品质。');
+     '勇气被公认为人类首要的品质，这是理所当然的，因为它是保障其他一切品质的品质。'),
+    ('The brave man is not he who does not feel afraid, but he who conquers that fear.', 'zh-CN',
+     '勇敢的人不是不感到害怕的人，而是能战胜恐惧的人。');
