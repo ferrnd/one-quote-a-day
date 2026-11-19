@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Many people have gone further than they thought they could because someone else thought they could.', 'ja',
      '多くの人が、自分で思っていた以上に遠くまで行けた。誰かが、その人ならできると思ってくれたからだ。'),
     ('You can''t climb the ladder of success with your hands in your pockets.', 'ja',
-     'ポケットに手を入れたままでは、成功のはしごは登れない。');
+     'ポケットに手を入れたままでは、成功のはしごは登れない。'),
+    ('Today''s accomplishments were yesterday''s impossibilities.', 'ja',
+     '今日の成果は、昨日の不可能だった。');
