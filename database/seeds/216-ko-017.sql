@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Start where you are. Use what you have. Do what you can.', 'ko',
      '지금 있는 곳에서 시작하라. 가진 것을 활용하라. 할 수 있는 일을 하라.'),
     ('We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.', 'ko',
-     '우리는 나비의 아름다움에 기뻐하지만, 그 아름다움에 이르기까지 나비가 겪은 변화는 좀처럼 인정하지 않는다.');
+     '우리는 나비의 아름다움에 기뻐하지만, 그 아름다움에 이르기까지 나비가 겪은 변화는 좀처럼 인정하지 않는다.'),
+    ('It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.', 'ko',
+     '살아남는 종은 가장 강한 종도, 가장 똑똑한 종도 아니다. 변화에 가장 잘 반응하는 종이다.');
