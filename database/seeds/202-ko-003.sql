@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not afraid of storms, for I am learning how to sail my ship.', 'ko',
      '나는 폭풍이 두렵지 않다. 내 배를 모는 법을 배우고 있으니까.'),
     ('A ship in harbor is safe, but that is not what ships are built for.', 'ko',
-     '항구에 있는 배는 안전하다. 하지만 배는 그러려고 만들어진 것이 아니다.');
+     '항구에 있는 배는 안전하다. 하지만 배는 그러려고 만들어진 것이 아니다.'),
+    ('The cave you fear to enter holds the treasure you seek.', 'ko',
+     '들어가기 두려운 그 동굴 안에 당신이 찾는 보물이 있다.');
