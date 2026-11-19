@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is in your moments of decision that your destiny is shaped.', 'zh-CN',
      '你的命运，正是在你做决定的时刻塑造的。'),
     ('Setting goals is the first step in turning the invisible into the visible.', 'zh-CN',
-     '设定目标，是把看不见的东西变成看得见的第一步。');
+     '设定目标，是把看不见的东西变成看得见的第一步。'),
+    ('Opportunities don''t happen. You create them.', 'zh-CN',
+     '机会不会自己出现，是你创造了机会。');
