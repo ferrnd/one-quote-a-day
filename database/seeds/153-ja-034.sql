@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best way to cheer yourself up is to try to cheer somebody else up.', 'ja',
      '自分を元気づける最良の方法は、誰かを元気づけようとすることだ。'),
     ('When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.', 'ja',
-     '太陽が輝いていれば、私は何でもできる。高すぎる山も、乗り越えられない困難もない。');
+     '太陽が輝いていれば、私は何でもできる。高すぎる山も、乗り越えられない困難もない。'),
+    ('Never doubt that a small group of thoughtful, committed citizens can change the world.', 'ja',
+     '思慮深く献身的な少数の市民が世界を変えられることを、決して疑ってはならない。');
