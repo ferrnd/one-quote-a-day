@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can''t go back to yesterday because I was a different person then.', 'ko',
      '나는 어제로 돌아갈 수 없어. 그때의 나는 다른 사람이었으니까.'),
     ('Real change, enduring change, happens one step at a time.', 'ko',
-     '진정한 변화, 오래 지속되는 변화는 한 걸음씩 일어난다.');
+     '진정한 변화, 오래 지속되는 변화는 한 걸음씩 일어난다.'),
+    ('I was taught that the way of progress was neither swift nor easy.', 'ko',
+     '나는 진보의 길이 빠르지도 쉽지도 않다고 배웠다.');
