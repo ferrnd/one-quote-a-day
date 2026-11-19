@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be quick, but don''t hurry.', 'zh-CN',
      '要快，但不要慌。'),
     ('Be not afraid of growing slowly, be afraid only of standing still.', 'zh-CN',
-     '不怕慢，只怕站。');
+     '不怕慢，只怕站。'),
+    ('The only way to make sense out of change is to plunge into it, move with it, and join the dance.', 'zh-CN',
+     '理解变化的唯一方法，就是投身其中，随它而动，加入这场舞蹈。');
