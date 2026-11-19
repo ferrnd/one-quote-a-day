@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One person can make a difference, and everyone should try.', 'ko',
      '한 사람이 변화를 만들 수 있다. 그리고 모두가 시도해야 한다.'),
     ('We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.', 'ko',
-     '우리는 이 10년 안에 달에 가기로, 그리고 다른 일들을 하기로 선택했다. 그것이 쉬워서가 아니라 어렵기 때문이다.');
+     '우리는 이 10년 안에 달에 가기로, 그리고 다른 일들을 하기로 선택했다. 그것이 쉬워서가 아니라 어렵기 때문이다.'),
+    ('Opportunities multiply as they are seized.', 'ko',
+     '기회는 붙잡을수록 늘어난다.');
