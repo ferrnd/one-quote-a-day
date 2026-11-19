@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When they go low, we go high.', 'ja',
      '相手が低く出るなら、私たちは高く行こう。'),
     ('Ability may get you to the top, but it takes character to keep you there.', 'ja',
-     '能力は人を頂点へ導くかもしれないが、そこにとどまるには人格が必要だ。');
+     '能力は人を頂点へ導くかもしれないが、そこにとどまるには人格が必要だ。'),
+    ('When there is no enemy within, the enemies outside cannot hurt you.', 'ja',
+     '内に敵がいなければ、外の敵はあなたを傷つけられない。');
