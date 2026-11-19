@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not fear mistakes. There are none.', 'ko',
      '실수를 두려워하지 마라. 실수란 없다.'),
     ('When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don''t repeat it.', 'ko',
-     '실수를 했을 때 해야 할 일은 딱 세 가지다. 인정하고, 배우고, 반복하지 않는 것.');
+     '실수를 했을 때 해야 할 일은 딱 세 가지다. 인정하고, 배우고, 반복하지 않는 것.'),
+    ('Failure is a detour, not a dead-end street.', 'ko',
+     '실패는 우회로일 뿐 막다른 길이 아니다.');
