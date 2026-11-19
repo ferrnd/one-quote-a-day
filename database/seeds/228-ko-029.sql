@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I saw the angel in the marble and carved until I set him free.', 'ko',
      '나는 대리석 속에서 천사를 보았고, 그를 풀어 줄 때까지 조각했다.'),
     ('People with goals succeed because they know where they''re going.', 'ko',
-     '목표가 있는 사람이 성공하는 것은 자신이 어디로 가는지 알기 때문이다.');
+     '목표가 있는 사람이 성공하는 것은 자신이 어디로 가는지 알기 때문이다.'),
+    ('What you seek is seeking you.', 'ko',
+     '당신이 찾는 것도 당신을 찾고 있다.');
