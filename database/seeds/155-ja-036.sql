@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Quality means doing it right when no one is looking.', 'ja',
      '品質とは、誰も見ていないときに正しく行うことだ。'),
     ('The last three or four reps is what makes the muscle grow.', 'ja',
-     '最後の三、四回こそが、筋肉を成長させる。');
+     '最後の三、四回こそが、筋肉を成長させる。'),
+    ('Self-discipline begins with the mastery of your thoughts.', 'ja',
+     '自己規律は、自分の思考を支配することから始まる。');
