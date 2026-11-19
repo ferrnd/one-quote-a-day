@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Character is power.', 'zh-CN',
      '品格就是力量。'),
     ('I am not afraid; I was born to do this.', 'zh-CN',
-     '我不害怕，我生来就是为了做这件事。');
+     '我不害怕，我生来就是为了做这件事。'),
+    ('Self-control is strength. Right thought is mastery. Calmness is power.', 'zh-CN',
+     '自制是力量，正确的思想是掌控，平静是能量。');
