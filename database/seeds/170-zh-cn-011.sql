@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The strongest of all warriors are these two: time and patience.', 'zh-CN',
      '所有战士中最强大的是这两位：时间和耐心。'),
     ('Nobody can make you feel inferior without your consent.', 'zh-CN',
-     '没有你的同意，谁也无法让你感到自卑。');
+     '没有你的同意，谁也无法让你感到自卑。'),
+    ('You have power over your mind, not outside events. Realize this, and you will find strength.', 'zh-CN',
+     '你能掌控的是你的心灵，而不是外界的事件。认识到这一点，你就会找到力量。');
