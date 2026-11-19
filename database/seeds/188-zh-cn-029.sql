@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What would you attempt to do if you knew you would not fail?', 'zh-CN',
      '如果你知道自己不会失败，你会尝试做什么？'),
     ('I saw the angel in the marble and carved until I set him free.', 'zh-CN',
-     '我在大理石中看到了天使，于是不停地雕刻，直到让他获得自由。');
+     '我在大理石中看到了天使，于是不停地雕刻，直到让他获得自由。'),
+    ('People with goals succeed because they know where they''re going.', 'zh-CN',
+     '有目标的人之所以成功，是因为他们知道自己要去哪里。');
