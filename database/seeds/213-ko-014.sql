@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dedication sees dreams come true.', 'ko',
      '헌신은 꿈을 이루어 준다.'),
     ('Rest at the end, not in the middle.', 'ko',
-     '쉬는 것은 끝에서 하라. 중간에서가 아니라.');
+     '쉬는 것은 끝에서 하라. 중간에서가 아니라.'),
+    ('There are no shortcuts to any place worth going.', 'ko',
+     '가 볼 가치가 있는 곳으로 가는 지름길은 없다.');
