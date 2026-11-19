@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t sit down and wait for the opportunities to come. Get up and make them.', 'ja',
      '座ってチャンスが来るのを待つな。立ち上がって、チャンスをつくれ。'),
     ('How wonderful it is that nobody need wait a single moment before starting to improve the world.', 'ja',
-     '世界をよくし始めるのに、誰も一瞬たりとも待つ必要がないなんて、なんてすばらしいことだろう。');
+     '世界をよくし始めるのに、誰も一瞬たりとも待つ必要がないなんて、なんてすばらしいことだろう。'),
+    ('One person can make a difference, and everyone should try.', 'ja',
+     '一人の人間が違いを生むことができる。だから誰もが挑戦すべきだ。');
