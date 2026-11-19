@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You cannot change your destination overnight, but you can change your direction overnight.', 'ko',
      '하룻밤 사이에 목적지를 바꿀 수는 없지만, 방향은 하룻밤 사이에 바꿀 수 있다.'),
     ('Everyone thinks of changing the world, but no one thinks of changing himself.', 'ko',
-     '누구나 세상을 바꾸려고 생각하지만, 아무도 자기 자신을 바꾸려고는 생각하지 않는다.');
+     '누구나 세상을 바꾸려고 생각하지만, 아무도 자기 자신을 바꾸려고는 생각하지 않는다.'),
+    ('To improve is to change; to be perfect is to change often.', 'ko',
+     '나아진다는 것은 변한다는 것이고, 완벽해진다는 것은 자주 변한다는 것이다.');
