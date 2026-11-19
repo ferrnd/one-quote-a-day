@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t let what you cannot do interfere with what you can do.', 'zh-CN',
-     '不要让你做不到的事，妨碍你能做到的事。');
+     '不要让你做不到的事，妨碍你能做到的事。'),
+    ('The best way out is always through.', 'zh-CN',
+     '最好的出路，永远是穿越过去。');
