@@ -4,6 +4,18 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [2.2.1] - 2026-11-19
+
+### Fixed
+
+- Android: changing the theme no longer closes the app. The launcher icon now
+  switches when you leave the app instead of while it is on screen.
+- Site: Cormorant Garamond loads again. The service worker was answering the
+  Google Fonts request with the page itself; it now leaves fonts to the
+  browser, and Noto Serif is fetched only for Japanese, Chinese and Korean.
+- Site: the rule between quote and author never gets thinner than one pixel,
+  so it no longer vanishes under long quotes.
+
 ## [2.2.0] - 2026-11-19
 
 ### Added
