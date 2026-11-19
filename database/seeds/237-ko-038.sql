@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are what you believe yourself to be.', 'ko',
      '당신은 스스로 믿는 그대로의 사람이다.'),
     ('Believe and act as if it were impossible to fail.', 'ko',
-     '실패하는 것이 불가능한 것처럼 믿고 행동하라.');
+     '실패하는 것이 불가능한 것처럼 믿고 행동하라.'),
+    ('The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.', 'ko',
+     '마음은 그 자체로 하나의 세계여서, 그 안에서 지옥을 천국으로, 천국을 지옥으로 만들 수 있다.');
