@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Either you run the day or the day runs you.', 'zh-CN',
      '要么你驾驭一天，要么一天驾驭你。'),
     ('With self-discipline most anything is possible.', 'zh-CN',
-     '有了自律，几乎任何事都有可能。');
+     '有了自律，几乎任何事都有可能。'),
+    ('The successful warrior is the average man, with laser-like focus.', 'zh-CN',
+     '成功的战士就是一个拥有激光般专注力的普通人。');
