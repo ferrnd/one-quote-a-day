@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Two roads diverged in a wood, and I, I took the one less traveled by, and that has made all the difference.', 'ko',
      '숲속에 두 갈래 길이 나 있었고, 나는 사람들이 덜 지나간 길을 택했다. 그리고 그것이 모든 것을 바꾸어 놓았다.'),
     ('Not all those who wander are lost.', 'ko',
-     '방황하는 이가 모두 길을 잃은 것은 아니다.');
+     '방황하는 이가 모두 길을 잃은 것은 아니다.'),
+    ('I took a deep breath and listened to the old brag of my heart: I am, I am, I am.', 'ko',
+     '나는 숨을 깊이 들이쉬고, 내 심장이 늘 해 오던 자랑에 귀를 기울였다. 나는 있다, 나는 있다, 나는 있다.');
