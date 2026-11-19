@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Concentrate all your thoughts upon the work at hand. The sun''s rays do not burn until brought to a focus.', 'zh-CN',
      '把你所有的心思都集中在手头的工作上。阳光只有聚焦才能燃烧。'),
     ('Well done is better than well said.', 'zh-CN',
-     '做得好胜过说得好。');
+     '做得好胜过说得好。'),
+    ('Lost time is never found again.', 'zh-CN',
+     '失去的时间再也找不回来。');
