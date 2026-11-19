@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A man is not finished when he is defeated. He is finished when he quits.', 'ja',
      '人は負けたときに終わるのではない。やめたときに終わるのだ。'),
     ('The human spirit is stronger than anything that can happen to it.', 'ja',
-     '人間の精神は、その身に起こりうるどんなことよりも強い。');
+     '人間の精神は、その身に起こりうるどんなことよりも強い。'),
+    ('Life is not about how fast you run or how high you climb, but how well you bounce.', 'ja',
+     '人生とは、どれだけ速く走るかでも、どれだけ高く登るかでもない。どれだけうまく跳ね返るかだ。');
