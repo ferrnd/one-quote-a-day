@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not the mountain we conquer, but ourselves.', 'ja',
      '私たちが征服するのは山ではなく、自分自身である。'),
     ('Leap, and the net will appear.', 'ja',
-     '跳べ。そうすれば網は現れる。');
+     '跳べ。そうすれば網は現れる。'),
+    ('Security is mostly a superstition. Life is either a daring adventure or nothing.', 'ja',
+     '安全とはたいてい迷信にすぎない。人生とは大胆な冒険か、さもなくば無である。');
