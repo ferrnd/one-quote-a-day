@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The successful warrior is the average man, with laser-like focus.', 'ja',
      '勝利する戦士とは、レーザーのように集中した普通の人間である。'),
     ('I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.', 'ja',
-     '一万種類の蹴りを一度ずつ練習した者は怖くない。一つの蹴りを一万回練習した者が怖いのだ。');
+     '一万種類の蹴りを一度ずつ練習した者は怖くない。一つの蹴りを一万回練習した者が怖いのだ。'),
+    ('Discipline is choosing between what you want now and what you want most.', 'ja',
+     '規律とは、今欲しいものと、いちばん欲しいもののどちらかを選ぶことだ。');
