@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is power. Patience is not an absence of action; rather it is timing.', 'ko',
      '인내는 힘이다. 인내는 행동하지 않는 것이 아니라 때를 맞추는 것이다.'),
     ('Wise to resolve, and patient to perform.', 'ko',
-     '결정할 때는 현명하게, 실행할 때는 인내심 있게.');
+     '결정할 때는 현명하게, 실행할 때는 인내심 있게.'),
+    ('I am extraordinarily patient, provided I get my own way in the end.', 'ko',
+     '나는 대단히 인내심이 많다. 결국 내 뜻대로만 된다면.');
