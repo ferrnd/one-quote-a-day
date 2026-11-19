@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You see things; and you say ''Why?'' But I dream things that never were; and I say ''Why not?''', 'ja',
      'あなたは物事を見て、「なぜ？」と言う。だが私は、かつてなかったものを夢見て、「なぜいけない？」と言うのだ。'),
     ('Hitch your wagon to a star.', 'ja',
-     'あなたの馬車を、星につなぎなさい。');
+     'あなたの馬車を、星につなぎなさい。'),
+    ('If one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.', 'ja',
+     '夢に向かって自信をもって進むなら、人はふだんは思いもよらない成功に出会うだろう。');
