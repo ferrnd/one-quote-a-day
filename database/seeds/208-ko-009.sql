@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep your eyes on the stars, and your feet on the ground.', 'ko',
      '눈은 별을 향하고, 발은 땅을 딛고 있어라.'),
     ('Hope is a waking dream.', 'ko',
-     '희망은 깨어 있는 꿈이다.');
+     '희망은 깨어 있는 꿈이다.'),
+    ('While there''s life, there''s hope.', 'ko',
+     '살아 있는 한 희망은 있다.');
