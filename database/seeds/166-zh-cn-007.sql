@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Still, like air, I''ll rise.', 'zh-CN',
      '然而，像空气一样，我依然会升起。'),
     ('She stood in the storm, and when the wind did not blow her way, she adjusted her sails.', 'zh-CN',
-     '她站在风暴中，当风不朝她的方向吹时，她就调整了风帆。');
+     '她站在风暴中，当风不朝她的方向吹时，她就调整了风帆。'),
+    ('Tough times never last, but tough people do.', 'zh-CN',
+     '艰难的时光不会长久，坚强的人却会。');
