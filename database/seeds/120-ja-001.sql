@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.', 'ja',
      '忍耐と根気には魔法のような力があり、その前では困難は消え、障害は姿を消す。'),
     ('Through perseverance many people win success out of what seemed destined to be certain failure.', 'ja',
-     '多くの人は粘り強さによって、確実に失敗すると思われたところから成功をつかみ取る。');
+     '多くの人は粘り強さによって、確実に失敗すると思われたところから成功をつかみ取る。'),
+    ('Continuous effort, not strength or intelligence, is the key to unlocking our potential.', 'ja',
+     '私たちの可能性を開く鍵は、力でも知性でもなく、絶え間ない努力である。');
