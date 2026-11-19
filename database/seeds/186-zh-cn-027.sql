@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One child, one teacher, one book, one pen can change the world.', 'zh-CN',
      '一个孩子、一位老师、一本书、一支笔，就能改变世界。'),
     ('When the whole world is silent, even one voice becomes powerful.', 'zh-CN',
-     '当全世界都沉默时，哪怕只有一个声音也会变得强大。');
+     '当全世界都沉默时，哪怕只有一个声音也会变得强大。'),
+    ('Because it''s there.', 'zh-CN',
+     '因为山就在那里。');
