@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The most effective way to do it, is to do it.', 'ja',
      'それをやる最も効果的な方法は、やることだ。'),
     ('Don''t sit down and wait for the opportunities to come. Get up and make them.', 'ja',
-     '座ってチャンスが来るのを待つな。立ち上がって、チャンスをつくれ。');
+     '座ってチャンスが来るのを待つな。立ち上がって、チャンスをつくれ。'),
+    ('How wonderful it is that nobody need wait a single moment before starting to improve the world.', 'ja',
+     '世界をよくし始めるのに、誰も一瞬たりとも待つ必要がないなんて、なんてすばらしいことだろう。');
