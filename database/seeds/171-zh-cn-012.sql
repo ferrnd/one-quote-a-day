@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The oak sleeps in the acorn.', 'zh-CN',
      '橡树沉睡在橡子里。'),
     ('With the new day comes new strength and new thoughts.', 'zh-CN',
-     '新的一天带来新的力量和新的想法。');
+     '新的一天带来新的力量和新的想法。'),
+    ('Our strength grows out of our weaknesses.', 'zh-CN',
+     '我们的力量源于我们的弱点。');
