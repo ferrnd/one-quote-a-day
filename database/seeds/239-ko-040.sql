@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best revenge is not to be like your enemy.', 'ko',
      '최고의 복수는 당신의 적처럼 되지 않는 것이다.'),
     ('Loss is nothing else but change, and change is Nature''s delight.', 'ko',
-     '상실은 변화일 뿐이고, 변화는 자연의 기쁨이다.');
+     '상실은 변화일 뿐이고, 변화는 자연의 기쁨이다.'),
+    ('Dwell on the beauty of life. Watch the stars, and see yourself running with them.', 'ko',
+     '삶의 아름다움을 생각하라. 별들을 바라보고, 그들과 함께 달리는 자신을 그려 보라.');
