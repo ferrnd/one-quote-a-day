@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Discipline is choosing between what you want now and what you want most.', 'ko',
      '자기 훈련이란 지금 원하는 것과 가장 원하는 것 사이에서 선택하는 것이다.'),
     ('No man is free who is not master of himself.', 'ko',
-     '자기 자신의 주인이 아닌 사람은 자유롭지 않다.');
+     '자기 자신의 주인이 아닌 사람은 자유롭지 않다.'),
+    ('First say to yourself what you would be; and then do what you have to do.', 'ko',
+     '먼저 네가 어떤 사람이 되고 싶은지 스스로에게 말하라. 그리고 해야 할 일을 하라.');
