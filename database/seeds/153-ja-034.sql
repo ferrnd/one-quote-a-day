@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let us be of good cheer, remembering that the misfortunes hardest to bear are those which never come.', 'ja',
      '元気を出そう。最も耐えがたい不幸とは、決して訪れない不幸なのだから。'),
     ('The best way to cheer yourself up is to try to cheer somebody else up.', 'ja',
-     '自分を元気づける最良の方法は、誰かを元気づけようとすることだ。');
+     '自分を元気づける最良の方法は、誰かを元気づけようとすることだ。'),
+    ('When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.', 'ja',
+     '太陽が輝いていれば、私は何でもできる。高すぎる山も、乗り越えられない困難もない。');
