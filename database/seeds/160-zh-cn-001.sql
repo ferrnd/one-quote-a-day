@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our greatest glory is not in never falling, but in rising every time we fall.', 'zh-CN',
      '我们最大的荣耀不在于从不跌倒，而在于每次跌倒后都能重新站起来。'),
     ('Energy and persistence conquer all things.', 'zh-CN',
-     '精力与坚持，能征服一切。');
+     '精力与坚持，能征服一切。'),
+    ('Rivers know this: there is no hurry. We shall get there some day.', 'zh-CN',
+     '河流懂得这个道理：不必着急，总有一天我们会到达。');
