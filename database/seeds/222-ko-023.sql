@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The worst enemy to creativity is self-doubt.', 'ko',
      '창의성의 가장 큰 적은 자기 의심이다.'),
     ('I dwell in possibility.', 'ko',
-     '나는 가능성 속에 산다.');
+     '나는 가능성 속에 산다.'),
+    ('It is our choices that show what we truly are, far more than our abilities.', 'ko',
+     '우리가 진정 어떤 사람인지 보여 주는 것은 능력보다 훨씬 더 우리의 선택이란다.');
