@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One may walk over the highest mountain one step at a time.', 'zh-CN',
      '再高的山，一步一步也能翻越。'),
     ('Diamonds are nothing more than chunks of coal that stuck to their jobs.', 'zh-CN',
-     '钻石不过是坚守岗位的煤块而已。');
+     '钻石不过是坚守岗位的煤块而已。'),
+    ('Great things are not done by impulse, but by a series of small things brought together.', 'zh-CN',
+     '伟大的事业不是靠一时冲动完成的，而是由一连串小事汇聚而成。');
