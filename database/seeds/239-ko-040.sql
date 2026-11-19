@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who learns but does not think, is lost. He who thinks but does not learn is in great danger.', 'ko',
      '배우기만 하고 생각하지 않으면 어둡고, 생각하기만 하고 배우지 않으면 위태롭다.'),
     ('The best revenge is not to be like your enemy.', 'ko',
-     '최고의 복수는 당신의 적처럼 되지 않는 것이다.');
+     '최고의 복수는 당신의 적처럼 되지 않는 것이다.'),
+    ('Loss is nothing else but change, and change is Nature''s delight.', 'ko',
+     '상실은 변화일 뿐이고, 변화는 자연의 기쁨이다.');
