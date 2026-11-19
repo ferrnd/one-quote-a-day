@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Feel the fear and do it anyway.', 'zh-CN',
      '感受恐惧，然后照做不误。'),
     ('Be bold, and mighty forces will come to your aid.', 'zh-CN',
-     '勇敢起来，强大的力量就会来帮助你。');
+     '勇敢起来，强大的力量就会来帮助你。'),
+    ('There is no passion to be found playing small.', 'zh-CN',
+     '甘于渺小，找不到激情。');
