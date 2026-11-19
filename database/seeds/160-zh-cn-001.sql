@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Many of life''s failures are people who did not realize how close they were to success when they gave up.', 'zh-CN',
      '生活中的许多失败者，是那些放弃时没有意识到自己离成功有多近的人。'),
     ('I am a slow walker, but I never walk back.', 'zh-CN',
-     '我走得很慢，但我从不后退。');
+     '我走得很慢，但我从不后退。'),
+    ('Great works are performed not by strength but by perseverance.', 'zh-CN',
+     '伟大的事业不是靠力气完成的，而是靠毅力。');
