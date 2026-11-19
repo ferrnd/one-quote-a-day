@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t fear failure. Not failure, but low aim, is the crime.', 'ko',
      '실패를 두려워하지 마라. 죄는 실패가 아니라 낮은 목표다.'),
     ('Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes.', 'ko',
-     '실패는 가르침을 준다. 진정으로 생각하는 사람은 성공에서만큼이나 실패에서도 많이 배운다.');
+     '실패는 가르침을 준다. 진정으로 생각하는 사람은 성공에서만큼이나 실패에서도 많이 배운다.'),
+    ('Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.', 'ko',
+     '우리의 가장 큰 약점은 포기하는 데 있다. 성공하는 가장 확실한 방법은 언제나 딱 한 번만 더 시도하는 것이다.');
