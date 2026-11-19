@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nurture your mind with great thoughts, for you will never go any higher than you think.', 'ko',
      '위대한 생각으로 마음을 길러라. 사람은 자신이 생각하는 것보다 더 높이 오를 수 없다.'),
     ('Think big thoughts but relish small pleasures.', 'ko',
-     '큰 생각을 품되, 작은 즐거움을 음미하라.');
+     '큰 생각을 품되, 작은 즐거움을 음미하라.'),
+    ('Argue for your limitations, and sure enough they''re yours.', 'ko',
+     '자신의 한계를 옹호하면, 틀림없이 그것은 당신의 한계가 된다.');
