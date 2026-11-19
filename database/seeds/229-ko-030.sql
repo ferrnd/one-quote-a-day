@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sometimes even to live is an act of courage.', 'ko',
      '때로는 살아가는 것 자체가 용기 있는 행동이다.'),
     ('If a man knows not to which port he sails, no wind is favorable.', 'ko',
-     '어느 항구로 향하는지 모르는 사람에게는 어떤 바람도 순풍이 아니다.');
+     '어느 항구로 향하는지 모르는 사람에게는 어떤 바람도 순풍이 아니다.'),
+    ('Luck is what happens when preparation meets opportunity.', 'ko',
+     '행운이란 준비가 기회를 만날 때 일어나는 것이다.');
