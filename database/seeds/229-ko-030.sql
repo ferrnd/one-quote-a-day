@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Finish each day and be done with it. You have done what you could.', 'ko',
      '하루하루를 끝내고 그것으로 마무리하라. 당신은 할 수 있는 일을 했다.'),
     ('The years teach much which the days never know.', 'ko',
-     '세월은 날들이 결코 알지 못하는 많은 것을 가르쳐 준다.');
+     '세월은 날들이 결코 알지 못하는 많은 것을 가르쳐 준다.'),
+    ('Write it on your heart that every day is the best day in the year.', 'ko',
+     '매일이 한 해 중 최고의 날이라고 마음에 새겨라.');
