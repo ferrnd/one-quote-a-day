@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am still learning.', 'ko',
      '나는 아직도 배우고 있다.'),
     ('It is not length of life, but depth of life.', 'ko',
-     '중요한 것은 삶의 길이가 아니라 삶의 깊이다.');
+     '중요한 것은 삶의 길이가 아니라 삶의 깊이다.'),
+    ('Once you make a decision, the universe conspires to make it happen.', 'ko',
+     '일단 결정을 내리면, 우주는 그것이 이루어지도록 힘을 모은다.');
