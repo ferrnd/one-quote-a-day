@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Aim for the moon. If you miss, you may hit a star.', 'zh-CN',
      '瞄准月亮。即使射偏了，你也可能击中一颗星星。'),
     ('Nothing happens unless first we dream.', 'zh-CN',
-     '如果我们不先做梦，什么都不会发生。');
+     '如果我们不先做梦，什么都不会发生。'),
+    ('Those who dream by day are cognizant of many things which escape those who dream only by night.', 'zh-CN',
+     '白天做梦的人，能察觉到许多只在夜里做梦的人所错过的事物。');
