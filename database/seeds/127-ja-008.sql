@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Although no one can go back and make a brand new start, anyone can start from now and make a brand new ending.', 'ja',
      '誰も過去に戻ってまったく新しいスタートを切ることはできないが、誰でも今から始めて、まったく新しい結末をつくることはできる。'),
     ('I''ve been absolutely terrified every moment of my life and I''ve never let it keep me from doing a single thing I wanted to do.', 'ja',
-     '私は人生のあらゆる瞬間にひどく怯えてきた。それでも、そのせいでやりたいことを一つでも諦めたことはない。');
+     '私は人生のあらゆる瞬間にひどく怯えてきた。それでも、そのせいでやりたいことを一つでも諦めたことはない。'),
+    ('Sorrow is how we learn to love. Your heart isn''t breaking. It hurts because it''s getting larger.', 'ja',
+     '悲しみは、愛することを学ぶ道だ。あなたの心は壊れているのではない。大きくなっているから痛むのだ。');
