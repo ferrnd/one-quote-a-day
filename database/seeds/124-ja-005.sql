@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is not the opposite of success; it''s part of success.', 'ja',
      '失敗は成功の反対ではない。成功の一部である。'),
     ('You build on failure. You use it as a stepping stone.', 'ja',
-     '失敗の上に築くのだ。それを踏み台にするのだ。');
+     '失敗の上に築くのだ。それを踏み台にするのだ。'),
+    ('A man of genius makes no mistakes. His errors are volitional and are the portals of discovery.', 'ja',
+     '天才は間違いを犯さない。その誤りは意図されたものであり、発見への入り口なのだ。');
