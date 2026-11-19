@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Things do not change; we change.', 'zh-CN',
      '事物没有改变，是我们改变了。'),
     ('Progress always involves risks. You can''t steal second base and keep your foot on first.', 'zh-CN',
-     '进步总是伴随着风险。你不可能一只脚留在一垒，还能盗上二垒。');
+     '进步总是伴随着风险。你不可能一只脚留在一垒，还能盗上二垒。'),
+    ('The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday''s logic.', 'zh-CN',
+     '动荡时期最大的危险不是动荡本身，而是用昨天的逻辑去行动。');
