@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Wise to resolve, and patient to perform.', 'ko',
      '결정할 때는 현명하게, 실행할 때는 인내심 있게.'),
     ('I am extraordinarily patient, provided I get my own way in the end.', 'ko',
-     '나는 대단히 인내심이 많다. 결국 내 뜻대로만 된다면.');
+     '나는 대단히 인내심이 많다. 결국 내 뜻대로만 된다면.'),
+    ('If you are patient in one moment of anger, you will escape a hundred days of sorrow.', 'ko',
+     '한때의 분노를 참으면 백 일의 근심을 면한다.');
