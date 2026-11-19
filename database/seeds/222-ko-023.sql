@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Sooner or later the man who wins is the man who thinks he can.', 'ko',
      '머지않아 이기는 사람은 할 수 있다고 생각하는 사람이다.'),
     ('We become what we think about.', 'ko',
-     '우리는 우리가 생각하는 대로 된다.');
+     '우리는 우리가 생각하는 대로 된다.'),
+    ('If you''re always trying to be normal, you will never know how amazing you can be.', 'ko',
+     '늘 평범해지려고만 한다면, 자신이 얼마나 놀라운 사람이 될 수 있는지 결코 알 수 없을 것이다.');
