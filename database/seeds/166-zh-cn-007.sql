@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What is defeat? Nothing but education; nothing but the first step to something better.', 'zh-CN',
      '失败是什么？不过是一种教育，不过是走向更好事物的第一步。'),
     ('Never confuse a single defeat with a final defeat.', 'zh-CN',
-     '永远不要把一次失败当成最终的失败。');
+     '永远不要把一次失败当成最终的失败。'),
+    ('Do not be embarrassed by your failures, learn from them and start again.', 'zh-CN',
+     '不要为你的失败感到难堪，从中学习，然后重新开始。');
