@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Optimism is essential to achievement and it is also the foundation of courage and true progress.', 'ja',
      '楽観主義は達成に欠かせない。それは勇気と真の進歩の土台でもある。'),
     ('You are what you believe yourself to be.', 'ja',
-     'あなたは、自分がそうだと信じているとおりの人間である。');
+     'あなたは、自分がそうだと信じているとおりの人間である。'),
+    ('Believe and act as if it were impossible to fail.', 'ja',
+     '失敗することなどありえないかのように信じ、行動せよ。');
