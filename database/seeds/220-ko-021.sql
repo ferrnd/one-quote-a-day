@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The future starts today, not tomorrow.', 'ko',
      '미래는 내일이 아니라 오늘 시작된다.'),
     ('Whether you think you can, or you think you can''t, you''re right.', 'ko',
-     '할 수 있다고 생각하든 할 수 없다고 생각하든, 당신이 옳다.');
+     '할 수 있다고 생각하든 할 수 없다고 생각하든, 당신이 옳다.'),
+    ('Believe you can and you''re halfway there.', 'ko',
+     '할 수 있다고 믿으면 이미 반은 온 것이다.');
