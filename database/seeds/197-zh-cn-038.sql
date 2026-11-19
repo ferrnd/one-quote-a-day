@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s the repetition of affirmations that leads to belief.', 'zh-CN',
      '正是不断重复的自我肯定，带来了信念。'),
     ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'zh-CN',
-     '如果我的头脑能构想它，我的心能相信它，那么我就能实现它。');
+     '如果我的头脑能构想它，我的心能相信它，那么我就能实现它。'),
+    ('Confidence is contagious. So is lack of confidence.', 'zh-CN',
+     '自信会传染，缺乏自信也会传染。');
