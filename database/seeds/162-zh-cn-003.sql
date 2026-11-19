@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All we have to decide is what to do with the time that is given us.', 'zh-CN',
      '我们唯一要决定的，是如何利用被赋予的时间。'),
     ('It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.', 'zh-CN',
-     '面对敌人需要极大的勇气，而面对朋友也需要同样多的勇气。');
+     '面对敌人需要极大的勇气，而面对朋友也需要同样多的勇气。'),
+    ('Do the thing you fear, and the death of fear is certain.', 'zh-CN',
+     '去做你害怕的事，恐惧必将消亡。');
