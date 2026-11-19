@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Stars can''t shine without darkness.', 'ja',
      '闇がなければ、星は輝けない。'),
     ('The wound is the place where the Light enters you.', 'ja',
-     '傷こそ、光があなたの中に入ってくる場所である。');
+     '傷こそ、光があなたの中に入ってくる場所である。'),
+    ('When it is dark enough, you can see the stars.', 'ja',
+     '十分に暗くなれば、星が見える。');
