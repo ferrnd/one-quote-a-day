@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is being able to see that there is light despite all of the darkness.', 'ja',
      '希望とは、どんな暗闇の中にも光があると見えることだ。'),
     ('We must accept finite disappointment, but never lose infinite hope.', 'ja',
-     '有限の失望は受け入れなければならない。だが、無限の希望を決して失ってはならない。');
+     '有限の失望は受け入れなければならない。だが、無限の希望を決して失ってはならない。'),
+    ('Only in the darkness can you see the stars.', 'ja',
+     '暗闇の中でこそ、星は見える。');
