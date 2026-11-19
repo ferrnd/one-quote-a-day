@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is always light, if only we''re brave enough to see it. If only we''re brave enough to be it.', 'zh-CN',
      '光一直都在，只要我们有足够的勇气去看见它，只要我们有足够的勇气去成为它。'),
     ('Hope is a verb with its shirtsleeves rolled up.', 'zh-CN',
-     '希望是一个挽起袖子的动词。');
+     '希望是一个挽起袖子的动词。'),
+    ('To hope is to give yourself to the future.', 'zh-CN',
+     '怀抱希望，就是把自己交给未来。');
