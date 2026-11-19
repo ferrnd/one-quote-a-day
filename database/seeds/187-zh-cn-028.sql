@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A goal is a dream with a deadline.', 'zh-CN',
      '目标就是有截止日期的梦想。'),
     ('It''s the possibility of having a dream come true that makes life interesting.', 'zh-CN',
-     '正是梦想成真的可能性，让生活变得有趣。');
+     '正是梦想成真的可能性，让生活变得有趣。'),
+    ('And, when you want something, all the universe conspires in helping you to achieve it.', 'zh-CN',
+     '当你真心渴望某样东西时，整个宇宙都会联合起来帮助你完成。');
