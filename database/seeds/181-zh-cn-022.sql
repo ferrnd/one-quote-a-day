@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you think of yourself is much more important than what others think of you.', 'zh-CN',
      '你如何看待自己，远比别人如何看待你重要。'),
     ('A man is but the product of his thoughts. What he thinks, he becomes.', 'zh-CN',
-     '人不过是他思想的产物，他想什么，就会成为什么。');
+     '人不过是他思想的产物，他想什么，就会成为什么。'),
+    ('If you don''t like something, change it. If you can''t change it, change your attitude.', 'zh-CN',
+     '如果你不喜欢某件事，就去改变它；如果你无法改变它，就改变你的态度。');
