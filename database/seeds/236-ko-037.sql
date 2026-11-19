@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.', 'ko',
      '배울 의지가 없다면 아무도 당신을 도울 수 없다. 배우기로 결심했다면 아무도 당신을 막을 수 없다.'),
     ('In the long run, we shape our lives, and we shape ourselves.', 'ko',
-     '결국 우리는 우리의 삶을 만들고, 우리 자신을 만든다.');
+     '결국 우리는 우리의 삶을 만들고, 우리 자신을 만든다.'),
+    ('Out of adversity comes opportunity.', 'ko',
+     '역경에서 기회가 나온다.');
