@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greater the difficulty, the more glory in surmounting it.', 'zh-CN',
      '困难越大，战胜它的荣耀就越大。'),
     ('Difficulties are things that show a person what they are.', 'zh-CN',
-     '困难让一个人看清自己是什么样的人。');
+     '困难让一个人看清自己是什么样的人。'),
+    ('No tree becomes rooted and sturdy unless many a wind assails it.', 'zh-CN',
+     '没有经受过许多风吹的树，不会根深叶茂、坚实挺拔。');
