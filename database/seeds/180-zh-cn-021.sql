@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One person can make a difference, and everyone should try.', 'zh-CN',
      '一个人就能带来改变，每个人都应该尝试。'),
     ('We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.', 'zh-CN',
-     '我们选择在这个十年内登上月球并做其他的事，不是因为它们容易，而是因为它们困难。');
+     '我们选择在这个十年内登上月球并做其他的事，不是因为它们容易，而是因为它们困难。'),
+    ('Opportunities multiply as they are seized.', 'zh-CN',
+     '机会越抓越多。');
