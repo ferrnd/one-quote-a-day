@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.', 'zh-CN',
      '衡量成功，与其看一个人在生活中达到的位置，不如看他克服了多少障碍。'),
     ('Excellence is to do a common thing in an uncommon way.', 'zh-CN',
-     '卓越就是用不平凡的方式做平凡的事。');
+     '卓越就是用不平凡的方式做平凡的事。'),
+    ('What you think of yourself is much more important than what others think of you.', 'zh-CN',
+     '你如何看待自己，远比别人如何看待你重要。');
