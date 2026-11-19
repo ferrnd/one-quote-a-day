@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream lofty dreams, and as you dream, so shall you become.', 'ja',
      '気高い夢を見よ。あなたは夢見たとおりの人になるだろう。'),
     ('Some people dream of success, while other people get up every morning and make it happen.', 'ja',
-     '成功を夢見るだけの人もいれば、毎朝起きてそれを実現させる人もいる。');
+     '成功を夢見るだけの人もいれば、毎朝起きてそれを実現させる人もいる。'),
+    ('I have a dream.', 'ja',
+     '私には夢がある。');
