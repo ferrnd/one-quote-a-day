@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We will grieve not, rather find strength in what remains behind.', 'ko',
      '우리는 슬퍼하지 않으리라. 오히려 남겨진 것에서 힘을 찾으리라.'),
     ('Be like the bird who, halting in his flight on limb too slight, feels it give way beneath him, yet sings, knowing he hath wings.', 'ko',
-     '너무 가는 가지에 잠시 앉아 가지가 발밑에서 휘는 것을 느끼면서도, 자신에게 날개가 있음을 알기에 노래하는 새처럼 되어라.');
+     '너무 가는 가지에 잠시 앉아 가지가 발밑에서 휘는 것을 느끼면서도, 자신에게 날개가 있음을 알기에 노래하는 새처럼 되어라.'),
+    ('While I breathe, I hope.', 'ko',
+     '숨 쉬는 동안 나는 희망한다.');
