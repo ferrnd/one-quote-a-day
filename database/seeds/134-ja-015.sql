@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life is like riding a bicycle. To keep your balance you must keep moving.', 'ja',
      '人生は自転車に乗るようなものだ。バランスを保つには、走り続けなければならない。'),
     ('They always say time changes things, but you actually have to change them yourself.', 'ja',
-     '時間が物事を変えるとよく言うけれど、実際には自分で変えなければならない。');
+     '時間が物事を変えるとよく言うけれど、実際には自分で変えなければならない。'),
+    ('Progress is impossible without change, and those who cannot change their minds cannot change anything.', 'ja',
+     '変化なくして進歩はない。考えを変えられない者は、何も変えることができない。');
