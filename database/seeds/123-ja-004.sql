@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('To dare is to lose one''s footing momentarily. Not to dare is to lose oneself.', 'ja',
      '挑むことは、一瞬足場を失うことだ。挑まないことは、自分自身を失うことだ。'),
     ('It is not the mountain we conquer, but ourselves.', 'ja',
-     '私たちが征服するのは山ではなく、自分自身である。');
+     '私たちが征服するのは山ではなく、自分自身である。'),
+    ('Leap, and the net will appear.', 'ja',
+     '跳べ。そうすれば網は現れる。');
