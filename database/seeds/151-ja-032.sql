@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is like love; it must have hope for nourishment.', 'ja',
      '勇気は愛に似ている。希望という糧がなければならない。'),
     ('It is curious that physical courage should be so common in the world, and moral courage so rare.', 'ja',
-     '肉体的な勇気がこの世にこれほどありふれていて、道徳的な勇気がこれほどまれなのは不思議なことだ。');
+     '肉体的な勇気がこの世にこれほどありふれていて、道徳的な勇気がこれほどまれなのは不思議なことだ。'),
+    ('The opposite of courage in our society is not cowardice, it is conformity.', 'ja',
+     '私たちの社会において勇気の反対は臆病ではなく、同調である。');
