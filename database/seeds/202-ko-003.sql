@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is being scared to death, but saddling up anyway.', 'ko',
      '용기란 죽을 만큼 무서워도 결국 말에 안장을 얹는 것이다.'),
     ('I am not afraid of storms, for I am learning how to sail my ship.', 'ko',
-     '나는 폭풍이 두렵지 않다. 내 배를 모는 법을 배우고 있으니까.');
+     '나는 폭풍이 두렵지 않다. 내 배를 모는 법을 배우고 있으니까.'),
+    ('A ship in harbor is safe, but that is not what ships are built for.', 'ko',
+     '항구에 있는 배는 안전하다. 하지만 배는 그러려고 만들어진 것이 아니다.');
