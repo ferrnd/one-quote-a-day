@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you can''t outplay them, outwork them.', 'ko',
      '실력으로 이길 수 없다면 노력으로 이겨라.'),
     ('I really think a champion is defined not by their wins but by how they can recover when they fall.', 'ko',
-     '나는 챔피언을 정의하는 것은 승리가 아니라 넘어졌을 때 어떻게 다시 일어서느냐라고 진심으로 생각한다.');
+     '나는 챔피언을 정의하는 것은 승리가 아니라 넘어졌을 때 어떻게 다시 일어서느냐라고 진심으로 생각한다.'),
+    ('You have to believe in yourself when no one else does.', 'ko',
+     '아무도 당신을 믿지 않을 때에도 당신은 자신을 믿어야 한다.');
