@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success isn''t about how much money you make; it''s about the difference you make in people''s lives.', 'ja',
      '成功とは、どれだけお金を稼ぐかではない。人々の人生にどれだけ違いをもたらすかだ。'),
     ('There is no greater agony than bearing an untold story inside you.', 'ja',
-     '語られない物語を胸に抱えていることほどの苦しみはない。');
+     '語られない物語を胸に抱えていることほどの苦しみはない。'),
+    ('We realize the importance of our voices only when we are silenced.', 'ja',
+     '私たちは、沈黙させられたときに初めて、自分の声の大切さに気づく。');
