@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What is to give light must endure burning.', 'zh-CN',
      '要发光，就必须忍受燃烧。'),
     ('It''s not what happens to you, but how you react to it that matters.', 'zh-CN',
-     '重要的不是发生了什么，而是你如何应对。');
+     '重要的不是发生了什么，而是你如何应对。'),
+    ('Begin at once to live, and count each separate day as a separate life.', 'zh-CN',
+     '立刻开始生活，把每一天都当作一次独立的人生。');
