@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble.', 'zh-CN',
      '有了勇气，你就敢于冒险，有力量去慈悲，有智慧去谦卑。'),
     ('One isn''t necessarily born with courage, but one is born with potential.', 'zh-CN',
-     '人不一定生来就有勇气，但生来就有潜能。');
+     '人不一定生来就有勇气，但生来就有潜能。'),
+    ('Courage is the most important of all the virtues because without courage, you can''t practice any other virtue consistently.', 'zh-CN',
+     '勇气是所有美德中最重要的，因为没有勇气，你就无法始终如一地践行任何其他美德。');
