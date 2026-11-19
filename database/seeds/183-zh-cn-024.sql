@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the art of hoping.', 'zh-CN',
      '耐心是希望的艺术。'),
     ('A handful of patience is worth more than a bushel of brains.', 'zh-CN',
-     '一把耐心胜过一斗聪明。');
+     '一把耐心胜过一斗聪明。'),
+    ('Patience is also a form of action.', 'zh-CN',
+     '耐心也是一种行动。');
