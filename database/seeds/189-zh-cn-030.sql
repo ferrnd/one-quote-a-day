@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every day is a new day.', 'zh-CN',
      '每一天都是新的一天。'),
     ('The only journey is the one within.', 'zh-CN',
-     '唯一的旅程，是向内的旅程。');
+     '唯一的旅程，是向内的旅程。'),
+    ('I am still learning.', 'zh-CN',
+     '我仍在学习。');
