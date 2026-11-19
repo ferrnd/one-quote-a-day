@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.', 'ko',
      '높이 손을 뻗어라. 별은 네 안에 숨어 있으니. 깊이 꿈꾸어라. 모든 꿈은 목표보다 먼저 오니.'),
     ('I dream my painting and I paint my dream.', 'ko',
-     '나는 내 그림을 꿈꾸고, 내 꿈을 그린다.');
+     '나는 내 그림을 꿈꾸고, 내 꿈을 그린다.'),
+    ('Dreams don''t work unless you do.', 'ko',
+     '당신이 일하지 않으면 꿈도 일하지 않는다.');
