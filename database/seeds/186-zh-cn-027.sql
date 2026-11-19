@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When the whole world is silent, even one voice becomes powerful.', 'zh-CN',
      '当全世界都沉默时，哪怕只有一个声音也会变得强大。'),
     ('Because it''s there.', 'zh-CN',
-     '因为山就在那里。');
+     '因为山就在那里。'),
+    ('That''s one small step for a man, one giant leap for mankind.', 'zh-CN',
+     '这是一个人的一小步，却是人类的一大步。');
