@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('However long the night, the dawn will break.', 'ja',
      'どんなに長い夜も、必ず明ける。'),
     ('Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day.', 'ja',
-     '帽子をしっかり押さえて。希望をしっかり持って。そして時計のねじを巻こう。明日はまた新しい日なのだから。');
+     '帽子をしっかり押さえて。希望をしっかり持って。そして時計のねじを巻こう。明日はまた新しい日なのだから。'),
+    ('There are far, far better things ahead than any we leave behind.', 'ja',
+     'この先には、後に残してきたどんなものよりも、はるかにすばらしいものが待っている。');
