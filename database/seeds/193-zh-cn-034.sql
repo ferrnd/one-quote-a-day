@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep your face to the sunshine and you cannot see a shadow.', 'zh-CN',
      '让你的脸一直朝向阳光，你就看不到阴影。'),
     ('One day, in retrospect, the years of struggle will strike you as the most beautiful.', 'zh-CN',
-     '有一天回首往事，你会觉得那些奋斗的岁月是最美好的。');
+     '有一天回首往事，你会觉得那些奋斗的岁月是最美好的。'),
+    ('In the end, everything will be okay. If it''s not okay, it''s not yet the end.', 'zh-CN',
+     '最后一切都会好起来的。如果还没好，说明还没到最后。');
