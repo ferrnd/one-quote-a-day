@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Confidence is contagious. So is lack of confidence.', 'ja',
      '自信は伝染する。自信のなさもまた伝染する。'),
     ('Nurture your mind with great thoughts, for you will never go any higher than you think.', 'ja',
-     '偉大な思想で心を養え。人は自分が考える以上に高くは昇れないのだから。');
+     '偉大な思想で心を養え。人は自分が考える以上に高くは昇れないのだから。'),
+    ('Think big thoughts but relish small pleasures.', 'ja',
+     '大きなことを考えよ。だが、小さな喜びを味わえ。');
