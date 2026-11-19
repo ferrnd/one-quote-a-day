@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fortune favors the bold.', 'zh-CN',
      '命运眷顾勇者。'),
     ('Courage is found in unlikely places.', 'zh-CN',
-     '勇气往往出现在意想不到的地方。');
+     '勇气往往出现在意想不到的地方。'),
+    ('Even the smallest person can change the course of the future.', 'zh-CN',
+     '即使是最渺小的人，也能改变未来的方向。');
