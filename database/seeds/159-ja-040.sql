@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.', 'ja',
      '世界で最も美しく、すばらしいものは、目で見ることも手で触れることもできない。心で感じなければならないのだ。'),
     ('What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.', 'ja',
-     '一度味わった喜びを、失うことは決してない。深く愛したものはすべて、私たちの一部になる。');
+     '一度味わった喜びを、失うことは決してない。深く愛したものはすべて、私たちの一部になる。'),
+    ('Happiness is not a goal; it is a by-product.', 'ja',
+     '幸福は目標ではない。副産物である。');
