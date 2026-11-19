@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Endurance is patience concentrated.', 'ja',
      '忍耐強さとは、凝縮された忍耐である。'),
     ('Patience and diligence, like faith, remove mountains.', 'ja',
-     '忍耐と勤勉は、信仰と同じように山をも動かす。');
+     '忍耐と勤勉は、信仰と同じように山をも動かす。'),
+    ('Beware the fury of a patient man.', 'ja',
+     '忍耐強い人の怒りに用心せよ。');
