@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you want to go fast, go alone. If you want to go far, go together.', 'ko',
      '빨리 가려면 혼자 가고, 멀리 가려면 함께 가라.'),
     ('Be not afraid.', 'ko',
-     '두려워하지 마십시오.');
+     '두려워하지 마십시오.'),
+    ('I am not afraid of tomorrow, for I have seen yesterday and I love today.', 'ko',
+     '나는 내일이 두렵지 않다. 어제를 보았고, 오늘을 사랑하기 때문이다.');
