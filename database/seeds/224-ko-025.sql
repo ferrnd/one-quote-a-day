@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Bear up, my heart; you have endured worse than this.', 'ko',
      '참아라, 내 마음이여. 너는 이보다 더한 것도 견뎌 왔다.'),
     ('This too shall pass.', 'ko',
-     '이 또한 지나가리라.');
+     '이 또한 지나가리라.'),
+    ('Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.', 'ko',
+     '이루는 데 시간이 걸린다는 이유로 꿈을 포기하지 마라. 시간은 어차피 흘러간다.');
