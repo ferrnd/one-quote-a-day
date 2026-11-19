@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing is impossible. The word itself says ''I''m possible''!', 'zh-CN',
      '没有什么是不可能的。Impossible（不可能）这个词本身就在说“I''m possible（我能行）”！'),
     ('Stars can''t shine without darkness.', 'zh-CN',
-     '没有黑暗，星星就无法闪耀。');
+     '没有黑暗，星星就无法闪耀。'),
+    ('The wound is the place where the Light enters you.', 'zh-CN',
+     '伤口是光进入你内心的地方。');
