@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('And, when you want something, all the universe conspires in helping you to achieve it.', 'ko',
      '그리고 네가 무언가를 간절히 원할 때, 온 우주는 네 소망이 이루어지도록 도와준단다.'),
     ('Dream as if you''ll live forever. Live as if you''ll die today.', 'ko',
-     '영원히 살 것처럼 꿈꾸고, 오늘 죽을 것처럼 살아라.');
+     '영원히 살 것처럼 꿈꾸고, 오늘 죽을 것처럼 살아라.'),
+    ('The biggest adventure you can take is to live the life of your dreams.', 'ko',
+     '당신이 떠날 수 있는 가장 큰 모험은 꿈꾸던 삶을 사는 것이다.');
