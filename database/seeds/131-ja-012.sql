@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What lies behind us and what lies before us are tiny matters compared to what lies within us.', 'ja',
      '過去にあるものも未来にあるものも、私たちの内にあるものに比べればささいなことだ。'),
     ('The greatest test of courage on earth is to bear defeat without losing heart.', 'ja',
-     'この世で最も勇気を試されるのは、心をくじかれることなく敗北に耐えることだ。');
+     'この世で最も勇気を試されるのは、心をくじかれることなく敗北に耐えることだ。'),
+    ('Of all the virtues we can learn, no trait is more useful, more essential for survival, and more likely to improve the quality of life than the ability to transform adversity into an enjoyable challenge.', 'ja',
+     '私たちが学べるあらゆる美徳の中で、逆境を楽しめる挑戦に変える力ほど役に立ち、生き抜くのに欠かせず、人生の質を高めてくれるものはない。');
