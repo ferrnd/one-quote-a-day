@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Screw your courage to the sticking-place, and we''ll not fail.', 'ko',
      '당신의 용기를 끝까지 단단히 조여라. 그러면 우리는 실패하지 않으리라.'),
     ('Courage is fear holding on a minute longer.', 'ko',
-     '용기란 두려움이 1분 더 버티는 것이다.');
+     '용기란 두려움이 1분 더 버티는 것이다.'),
+    ('Failure is not falling down but refusing to get up.', 'ko',
+     '실패란 넘어지는 것이 아니라 일어서기를 거부하는 것이다.');
