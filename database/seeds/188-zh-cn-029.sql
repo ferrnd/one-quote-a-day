@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Tell me, what is it you plan to do with your one wild and precious life?', 'zh-CN',
      '告诉我，你打算怎样度过你这狂野而珍贵的一生？'),
     ('Two roads diverged in a wood, and I, I took the one less traveled by, and that has made all the difference.', 'zh-CN',
-     '树林里分出两条路，而我选了人迹更少的那一条，从此一切都截然不同。');
+     '树林里分出两条路，而我选了人迹更少的那一条，从此一切都截然不同。'),
+    ('Not all those who wander are lost.', 'zh-CN',
+     '并非所有流浪的人都迷失了方向。');
