@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Pain and suffering are always inevitable for a large intelligence and a deep heart.', 'ko',
      '큰 지성과 깊은 마음을 가진 사람에게 고통과 괴로움은 언제나 피할 수 없다.'),
     ('Long is the way and hard, that out of hell leads up to light.', 'ko',
-     '지옥에서 빛으로 이어지는 길은 멀고도 험하다.');
+     '지옥에서 빛으로 이어지는 길은 멀고도 험하다.'),
+    ('Accept challenges so that you may feel the exhilaration of victory.', 'ko',
+     '도전을 받아들여라. 그래야 승리의 짜릿함을 느낄 수 있다.');
