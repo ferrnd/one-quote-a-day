@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the companion of power, and mother of success.', 'ko',
      '희망은 힘의 동반자이자 성공의 어머니다.'),
     ('Hope is itself a species of happiness.', 'ko',
-     '희망은 그 자체로 일종의 행복이다.');
+     '희망은 그 자체로 일종의 행복이다.'),
+    ('The sun shines not on us but in us.', 'ko',
+     '태양은 우리 위가 아니라 우리 안에서 빛난다.');
