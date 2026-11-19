@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Set your life on fire. Seek those who fan your flames.', 'ja',
      'あなたの人生に火をつけよ。その炎をあおってくれる人を探せ。'),
     ('Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.', 'ja',
-     '昨日の私は賢かったので、世界を変えようとした。今日の私は賢明なので、自分自身を変えている。');
+     '昨日の私は賢かったので、世界を変えようとした。今日の私は賢明なので、自分自身を変えている。'),
+    ('You were born with wings, why prefer to crawl through life?', 'ja',
+     'あなたは翼を持って生まれてきた。なぜ這って生きることを選ぶのか。');
