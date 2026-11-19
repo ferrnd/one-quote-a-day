@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.', 'ja',
      '恐怖と真正面から向き合うたびに、人は強さと勇気と自信を手に入れる。'),
     ('Courage is resistance to fear, mastery of fear, not absence of fear.', 'ja',
-     '勇気とは恐れに抵抗し、恐れを制することであって、恐れがないことではない。');
+     '勇気とは恐れに抵抗し、恐れを制することであって、恐れがないことではない。'),
+    ('Life shrinks or expands in proportion to one''s courage.', 'ja',
+     '人生は、その人の勇気に比例して縮みもすれば広がりもする。');
