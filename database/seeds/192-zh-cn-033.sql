@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is a detour, not a dead-end street.', 'zh-CN',
      '失败是一段弯路，而不是一条死胡同。'),
     ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'zh-CN',
-     '失败并不总是错误，它可能只是在当时的情况下所能做到的最好。真正的错误是停止尝试。');
+     '失败并不总是错误，它可能只是在当时的情况下所能做到的最好。真正的错误是停止尝试。'),
+    ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'zh-CN',
+     '如果你不是时不时地失败一下，那就说明你没有做什么很有创新性的事。');
