@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you''re not prepared to be wrong, you''ll never come up with anything original.', 'ja',
      '間違える覚悟がなければ、独創的なものは何も生み出せない。'),
     ('Experience is simply the name we give our mistakes.', 'ja',
-     '経験とは、私たちが自分の過ちにつける名前にすぎない。');
+     '経験とは、私たちが自分の過ちにつける名前にすぎない。'),
+    ('When we give ourselves permission to fail, we, at the same time, give ourselves permission to excel.', 'ja',
+     '失敗することを自分に許したとき、同時に、秀でることも自分に許しているのだ。');
