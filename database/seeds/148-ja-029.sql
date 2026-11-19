@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you seek is seeking you.', 'ja',
      'あなたが探しているものも、あなたを探している。'),
     ('Don''t grieve. Anything you lose comes round in another form.', 'ja',
-     '嘆くな。失ったものはすべて、別の形で戻ってくる。');
+     '嘆くな。失ったものはすべて、別の形で戻ってくる。'),
+    ('Set your life on fire. Seek those who fan your flames.', 'ja',
+     'あなたの人生に火をつけよ。その炎をあおってくれる人を探せ。');
