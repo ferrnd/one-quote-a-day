@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A goal is a dream with a deadline.', 'ja',
      '目標とは、締め切りのある夢である。'),
     ('It''s the possibility of having a dream come true that makes life interesting.', 'ja',
-     '夢がかなうかもしれないという可能性こそが、人生を面白くするのだ。');
+     '夢がかなうかもしれないという可能性こそが、人生を面白くするのだ。'),
+    ('And, when you want something, all the universe conspires in helping you to achieve it.', 'ja',
+     'そして、何かを望むとき、宇宙全体がその実現を助けるために協力してくれるのだ。');
