@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.', 'ko',
      '세상의 중요한 일들 대부분은 전혀 희망이 없어 보일 때에도 계속 시도한 사람들이 이루어 냈다.'),
     ('Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: it is this that in all things distinguishes the strong soul from the weak.', 'ko',
-     '온갖 장애와 낙담과 불가능 앞에서도 변함없이 견디고 버티는 것, 그것이야말로 모든 일에서 강한 영혼과 약한 영혼을 가르는 것이다.');
+     '온갖 장애와 낙담과 불가능 앞에서도 변함없이 견디고 버티는 것, 그것이야말로 모든 일에서 강한 영혼과 약한 영혼을 가르는 것이다.'),
+    ('Never give up, for that is just the place and time that the tide will turn.', 'ko',
+     '절대 포기하지 마라. 바로 그곳, 그때가 물결이 바뀌는 곳이자 순간이니까.');
