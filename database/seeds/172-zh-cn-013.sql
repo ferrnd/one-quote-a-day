@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Trust thyself: every heart vibrates to that iron string.', 'zh-CN',
      '相信你自己：每一颗心都随着那根铁弦而颤动。'),
     ('You are the one that possesses the keys to your being. You carry the passport to your own happiness.', 'zh-CN',
-     '你自己掌握着通往自我的钥匙，你自己携带着通往幸福的护照。');
+     '你自己掌握着通往自我的钥匙，你自己携带着通往幸福的护照。'),
+    ('We are what we repeatedly do. Excellence, then, is not an act, but a habit.', 'zh-CN',
+     '我们是由自己反复做的事情塑造而成的。因此，卓越不是一种行为，而是一种习惯。');
