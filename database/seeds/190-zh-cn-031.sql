@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We can''t help everyone, but everyone can help someone.', 'zh-CN',
      '我们不能帮助每一个人，但每个人都能帮助某个人。'),
     ('Each person must live their life as a model for others.', 'zh-CN',
-     '每个人都必须把自己的人生活成他人的榜样。');
+     '每个人都必须把自己的人生活成他人的榜样。'),
+    ('If you don''t like the road you''re walking, start paving another one.', 'zh-CN',
+     '如果你不喜欢你正在走的路，就开始铺另一条路吧。');
