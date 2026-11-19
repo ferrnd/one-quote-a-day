@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Man never made any material as resilient as the human spirit.', 'zh-CN',
      '人类从未造出过比人的精神更有韧性的材料。'),
     ('Grief and resilience live together.', 'zh-CN',
-     '悲伤与坚韧同在。');
+     '悲伤与坚韧同在。'),
+    ('It''s not whether you get knocked down; it''s whether you get up.', 'zh-CN',
+     '重要的不是你是否被击倒，而是你是否站起来。');
