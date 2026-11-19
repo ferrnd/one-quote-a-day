@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nature does not hurry, yet everything is accomplished.', 'zh-CN',
      '大自然从不匆忙，却成就了一切。'),
     ('Trees that are slow to grow bear the best fruit.', 'zh-CN',
-     '生长缓慢的树，结出的果实最好。');
+     '生长缓慢的树，结出的果实最好。'),
+    ('Genius is eternal patience.', 'zh-CN',
+     '天才就是永恒的耐心。');
