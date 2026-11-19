@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Out of every crisis comes the chance to be reborn.', 'zh-CN',
      '每一次危机都带来重生的机会。'),
     ('Nothing is permanent in this wicked world, not even our troubles.', 'zh-CN',
-     '在这个邪恶的世界里，没有什么是永恒的，连我们的烦恼也不是。');
+     '在这个邪恶的世界里，没有什么是永恒的，连我们的烦恼也不是。'),
+    ('Hardships make or break people.', 'zh-CN',
+     '艰难困苦会成就人，也会摧毁人。');
