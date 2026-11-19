@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a good thing, maybe the best of things, and no good thing ever dies.', 'zh-CN',
      '希望是美好的，也许是世间最美好的东西，而美好的东西永远不会消逝。'),
     ('The darkest hour has only sixty minutes.', 'zh-CN',
-     '最黑暗的时刻也只有六十分钟。');
+     '最黑暗的时刻也只有六十分钟。'),
+    ('Never lose hope. Storms make people stronger and never last forever.', 'zh-CN',
+     '永远不要失去希望。风暴让人更坚强，而且永远不会持续到永远。');
