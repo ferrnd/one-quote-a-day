@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I don''t stop when I''m tired. I stop when I''m done.', 'ko',
      '나는 지쳤을 때 멈추지 않는다. 다 끝냈을 때 멈춘다.'),
     ('The only easy day was yesterday.', 'ko',
-     '쉬웠던 날은 어제뿐이었다.');
+     '쉬웠던 날은 어제뿐이었다.'),
+    ('In a gentle way, you can shake the world.', 'ko',
+     '부드러운 방식으로도 세상을 뒤흔들 수 있다.');
