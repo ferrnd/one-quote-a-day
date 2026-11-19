@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the price that life exacts for granting peace.', 'ko',
      '용기는 삶이 평화를 허락하는 대가로 요구하는 값이다.'),
     ('Adventure is worthwhile in itself.', 'ko',
-     '모험은 그 자체로 가치가 있다.');
+     '모험은 그 자체로 가치가 있다.'),
+    ('Courage is a love affair with the unknown.', 'ko',
+     '용기란 미지의 것과 나누는 사랑이다.');
