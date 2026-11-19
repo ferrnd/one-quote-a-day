@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He suffers more than necessary, who suffers before it is necessary.', 'ko',
      '필요하기도 전에 괴로워하는 자는 필요 이상으로 괴로워한다.'),
     ('Ignorance is the cause of fear.', 'ko',
-     '무지는 두려움의 원인이다.');
+     '무지는 두려움의 원인이다.'),
+    ('To live is the rarest thing in the world. Most people exist, that is all.', 'ko',
+     '사는 것은 세상에서 가장 드문 일이다. 대부분의 사람은 그저 존재할 뿐이다.');
