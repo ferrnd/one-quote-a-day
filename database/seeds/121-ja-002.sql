@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Effort only fully releases its reward after a person refuses to quit.', 'ja',
      '努力は、人がやめることを拒んだときに初めて、その報いをすべて与えてくれる。'),
     ('Patience, persistence and perspiration make an unbeatable combination for success.', 'ja',
-     '忍耐、粘り強さ、そして汗。これこそが成功への無敵の組み合わせだ。');
+     '忍耐、粘り強さ、そして汗。これこそが成功への無敵の組み合わせだ。'),
+    ('A champion is someone who gets up when he can''t.', 'ja',
+     'チャンピオンとは、もう立てないときに立ち上がる者のことだ。');
