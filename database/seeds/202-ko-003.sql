@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He who is not courageous enough to take risks will accomplish nothing in life.', 'ko',
      '위험을 감수할 용기가 없는 사람은 인생에서 아무것도 이루지 못한다.'),
     ('Only those who will risk going too far can possibly find out how far one can go.', 'ko',
-     '너무 멀리 갈 위험을 무릅쓰는 사람만이 인간이 얼마나 멀리 갈 수 있는지 알 수 있다.');
+     '너무 멀리 갈 위험을 무릅쓰는 사람만이 인간이 얼마나 멀리 갈 수 있는지 알 수 있다.'),
+    ('Fortune favors the bold.', 'ko',
+     '행운은 용감한 자의 편이다.');
