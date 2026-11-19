@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The gem cannot be polished without friction, nor man perfected without trials.', 'ko',
      '옥은 갈지 않으면 빛나지 않고, 사람은 시련 없이 완성되지 않는다.'),
     ('Smooth seas do not make skillful sailors.', 'ko',
-     '잔잔한 바다는 노련한 뱃사람을 만들지 못한다.');
+     '잔잔한 바다는 노련한 뱃사람을 만들지 못한다.'),
+    ('My scars remind me that I did indeed survive my deepest wounds.', 'ko',
+     '내 흉터는 내가 가장 깊은 상처를 정말로 이겨 냈다는 것을 일깨워 준다.');
