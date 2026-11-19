@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing is particularly hard if you divide it into small jobs.', 'ja',
      '小さな仕事に分ければ、特別に難しいことなど何もない。'),
     ('Perseverance and spirit have done wonders in all ages.', 'ja',
-     '忍耐と気概は、いつの時代にも奇跡を起こしてきた。');
+     '忍耐と気概は、いつの時代にも奇跡を起こしてきた。'),
+    ('Courage is the price that life exacts for granting peace.', 'ja',
+     '勇気とは、人生が安らぎを与える代わりに求める代償である。');
