@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t be afraid to fail. It''s the only way you succeed.', 'ko',
      '실패를 두려워해서는 안 된다. 그것이 성공하는 유일한 방법이다.'),
     ('A man is not finished when he is defeated. He is finished when he quits.', 'ko',
-     '사람은 패배했을 때 끝나는 것이 아니다. 포기했을 때 끝나는 것이다.');
+     '사람은 패배했을 때 끝나는 것이 아니다. 포기했을 때 끝나는 것이다.'),
+    ('The human spirit is stronger than anything that can happen to it.', 'ko',
+     '인간의 정신은 그것에 일어날 수 있는 그 어떤 일보다 강하다.');
