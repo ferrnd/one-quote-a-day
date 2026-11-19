@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A good half of the art of living is resilience.', 'zh-CN',
      '生活的艺术，有一大半在于韧性。'),
     ('Nothing is impossible. The word itself says ''I''m possible''!', 'zh-CN',
-     '没有什么是不可能的。Impossible（不可能）这个词本身就在说“I''m possible（我能行）”！');
+     '没有什么是不可能的。Impossible（不可能）这个词本身就在说“I''m possible（我能行）”！'),
+    ('Stars can''t shine without darkness.', 'zh-CN',
+     '没有黑暗，星星就无法闪耀。');
