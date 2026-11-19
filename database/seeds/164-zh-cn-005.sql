@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A man of genius makes no mistakes. His errors are volitional and are the portals of discovery.', 'zh-CN',
      '天才不会犯错。他的错误都是有意为之，是通往发现的大门。'),
     ('Giving up is the only sure way to fail.', 'zh-CN',
-     '放弃是唯一注定失败的方法。');
+     '放弃是唯一注定失败的方法。'),
+    ('Every failure is a step to success.', 'zh-CN',
+     '每一次失败都是迈向成功的一步。');
