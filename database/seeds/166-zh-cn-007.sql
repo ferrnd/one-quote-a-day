@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is unimportant. It takes courage to make a fool of yourself.', 'zh-CN',
      '失败无关紧要。让自己出丑需要勇气。'),
     ('What is defeat? Nothing but education; nothing but the first step to something better.', 'zh-CN',
-     '失败是什么？不过是一种教育，不过是走向更好事物的第一步。');
+     '失败是什么？不过是一种教育，不过是走向更好事物的第一步。'),
+    ('Never confuse a single defeat with a final defeat.', 'zh-CN',
+     '永远不要把一次失败当成最终的失败。');
