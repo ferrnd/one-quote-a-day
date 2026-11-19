@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Prosperity is not without many fears and distastes; and adversity is not without comforts and hopes.', 'ja',
      '順境にも多くの恐れや嫌なことがあり、逆境にも慰めと希望がある。'),
     ('Adversity is the first path to truth.', 'ja',
-     '逆境は、真実へ至る最初の道である。');
+     '逆境は、真実へ至る最初の道である。'),
+    ('Kites rise highest against the wind, not with it.', 'ja',
+     '凧が最も高く上がるのは、追い風ではなく向かい風のときだ。');
