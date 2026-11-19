@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'zh-CN',
      '知道还不够，我们必须应用；愿意还不够，我们必须行动。'),
     ('Action may not always bring happiness; but there is no happiness without action.', 'zh-CN',
-     '行动不一定总能带来幸福，但没有行动就没有幸福。');
+     '行动不一定总能带来幸福，但没有行动就没有幸福。'),
+    ('Thinking will not overcome fear but action will.', 'zh-CN',
+     '思考无法战胜恐惧，行动却能。');
