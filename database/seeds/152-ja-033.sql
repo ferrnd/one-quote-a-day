@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is how high you bounce when you hit bottom.', 'ja',
      '成功とは、どん底に落ちたときにどれだけ高く跳ね返るかである。'),
     ('Don''t let the fear of losing be greater than the excitement of winning.', 'ja',
-     '負ける恐怖を、勝つわくわくよりも大きくしてはいけない。');
+     '負ける恐怖を、勝つわくわくよりも大きくしてはいけない。'),
+    ('We learn from failure, not from success!', 'ja',
+     '私たちは成功からではなく、失敗から学ぶのだ！');
