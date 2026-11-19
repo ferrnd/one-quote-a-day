@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Go for it now. The future is promised to no one.', 'ja',
      '今やりなさい。未来は誰にも約束されていない。'),
     ('Doing the best at this moment puts you in the best place for the next moment.', 'ja',
-     'この瞬間に最善を尽くせば、次の瞬間に最善の場所にいられる。');
+     'この瞬間に最善を尽くせば、次の瞬間に最善の場所にいられる。'),
+    ('The future starts today, not tomorrow.', 'ja',
+     '未来は明日ではなく、今日始まる。');
