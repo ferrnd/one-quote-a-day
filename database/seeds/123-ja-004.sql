@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is knowing what not to fear.', 'ja',
      '勇気とは、何を恐れるべきでないかを知ることだ。'),
     ('Feel the fear and do it anyway.', 'ja',
-     '恐れを感じながら、それでもやりなさい。');
+     '恐れを感じながら、それでもやりなさい。'),
+    ('Be bold, and mighty forces will come to your aid.', 'ja',
+     '大胆であれ。そうすれば大きな力が助けに来てくれる。');
