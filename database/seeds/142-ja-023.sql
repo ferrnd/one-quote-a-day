@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I attribute my success to this: I never gave or took any excuse.', 'ja',
      '私が成功したのは、決して言い訳をしなかったし、受け入れもしなかったからだ。'),
     ('Imagination is more important than knowledge.', 'ja',
-     '想像力は知識よりも大切である。');
+     '想像力は知識よりも大切である。'),
+    ('I have learned over the years that when one''s mind is made up, this diminishes fear.', 'ja',
+     '長年かけて学んだことがある。心が決まれば、恐れは小さくなるのだ。');
