@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be kind, for everyone you meet is fighting a hard battle.', 'zh-CN',
      '待人友善，因为你遇到的每个人都在打一场艰难的仗。'),
     ('No act of kindness, no matter how small, is ever wasted.', 'zh-CN',
-     '任何善举，无论多么微小，都不会白费。');
+     '任何善举，无论多么微小，都不会白费。'),
+    ('The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.', 'zh-CN',
+     '世界上最好、最美的东西是看不见也摸不着的，它们必须用心去感受。');
