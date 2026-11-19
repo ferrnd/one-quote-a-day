@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hardships often prepare ordinary people for an extraordinary destiny.', 'zh-CN',
      '苦难常常让平凡的人为非凡的命运做好准备。'),
     ('Our wounds are often the openings into the best and most beautiful part of us.', 'zh-CN',
-     '我们的伤口，往往是通向我们内心最美好部分的入口。');
+     '我们的伤口，往往是通向我们内心最美好部分的入口。'),
+    ('Resilience is accepting your new reality, even if it''s less good than the one you had before.', 'zh-CN',
+     '韧性就是接受新的现实，即使它不如从前的好。');
