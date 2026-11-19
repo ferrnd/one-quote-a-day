@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Your present circumstances don''t determine where you can go; they merely determine where you start.', 'ja',
      '今の境遇は、あなたがどこまで行けるかを決めるのではない。どこから始めるかを決めるだけだ。'),
     ('One day you will wake up and there won''t be any more time to do the things you''ve always wanted. Do it now.', 'ja',
-     'いつか目が覚めたら、ずっとやりたかったことをする時間がもう残っていないかもしれない。今やりなさい。');
+     'いつか目が覚めたら、ずっとやりたかったことをする時間がもう残っていないかもしれない。今やりなさい。'),
+    ('Do the best you can until you know better. Then when you know better, do better.', 'ja',
+     'もっとよくわかるまでは、精一杯やりなさい。そしてもっとよくわかったら、もっとよくやりなさい。');
