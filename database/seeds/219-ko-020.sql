@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world.', 'ko',
      '행동 없는 비전은 꿈일 뿐이다. 비전 없는 행동은 시간만 보낼 뿐이다. 행동이 따르는 비전은 세상을 바꿀 수 있다.'),
     ('The future depends on what you do today.', 'ko',
-     '미래는 오늘 당신이 무엇을 하느냐에 달려 있다.');
+     '미래는 오늘 당신이 무엇을 하느냐에 달려 있다.'),
+    ('Never put off till tomorrow what you can do today.', 'ko',
+     '오늘 할 수 있는 일을 내일로 미루지 마라.');
