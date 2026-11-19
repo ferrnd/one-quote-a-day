@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every strike brings me closer to the next home run.', 'ja',
      '空振りするたびに、次のホームランに近づいている。'),
     ('You just can''t beat the person who never gives up.', 'ja',
-     '決してあきらめない人には、どうしても勝てない。');
+     '決してあきらめない人には、どうしても勝てない。'),
+    ('Don''t watch the clock; do what it does. Keep going.', 'ja',
+     '時計を見つめるな。時計と同じことをせよ。進み続けるのだ。');
