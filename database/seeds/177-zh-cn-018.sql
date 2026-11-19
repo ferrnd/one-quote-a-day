@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity reveals genius, prosperity conceals it.', 'zh-CN',
      '逆境显露天才，顺境掩盖天才。'),
     ('When the going gets tough, the tough get going.', 'zh-CN',
-     '时局艰难时，强者愈强。');
+     '时局艰难时，强者愈强。'),
+    ('A hero is no braver than an ordinary man, but he is brave five minutes longer.', 'zh-CN',
+     '英雄并不比普通人更勇敢，只是比别人多勇敢五分钟。');
