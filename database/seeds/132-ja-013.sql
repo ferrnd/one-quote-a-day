@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Trust thyself: every heart vibrates to that iron string.', 'ja',
      '自分を信じよ。すべての心は、その鉄の弦に共鳴して震える。'),
     ('You are the one that possesses the keys to your being. You carry the passport to your own happiness.', 'ja',
-     '自分という存在の鍵を持っているのはあなた自身。自分の幸せへのパスポートを持っているのもあなた自身だ。');
+     '自分という存在の鍵を持っているのはあなた自身。自分の幸せへのパスポートを持っているのもあなた自身だ。'),
+    ('We are what we repeatedly do. Excellence, then, is not an act, but a habit.', 'ja',
+     '私たちは繰り返し行うことの産物である。だから卓越とは行為ではなく、習慣なのだ。');
