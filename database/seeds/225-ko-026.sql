@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The more difficult the victory, the greater the happiness in winning.', 'ko',
      '승리가 어려울수록 이기는 기쁨은 더 크다.'),
     ('Gold medals aren''t really made of gold. They''re made of sweat, determination, and a hard-to-find alloy called guts.', 'ko',
-     '금메달은 사실 금으로 만들어지지 않는다. 땀과 결단, 그리고 ''배짱''이라는 구하기 힘든 합금으로 만들어진다.');
+     '금메달은 사실 금으로 만들어지지 않는다. 땀과 결단, 그리고 ''배짱''이라는 구하기 힘든 합금으로 만들어진다.'),
+    ('Age is no barrier. It''s a limitation you put on your mind.', 'ko',
+     '나이는 장벽이 아니다. 당신이 스스로의 마음에 씌운 한계일 뿐이다.');
