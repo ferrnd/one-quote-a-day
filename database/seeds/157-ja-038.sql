@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am the greatest. I said that even before I knew I was.', 'ja',
      '俺は最強だ。それが本当だとわかる前から、俺はそう言っていた。'),
     ('Impossible is just a big word thrown around by small men.', 'ja',
-     '「不可能」とは、小さな人間たちが振りかざす大げさな言葉にすぎない。');
+     '「不可能」とは、小さな人間たちが振りかざす大げさな言葉にすぎない。'),
+    ('It''s the repetition of affirmations that leads to belief.', 'ja',
+     '信念を生むのは、自分への言葉の繰り返しだ。');
