@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is the sum of small efforts, repeated day in and day out.', 'ko',
      '성공은 날마다 되풀이되는 작은 노력들의 합이다.'),
     ('It always seems impossible until it''s done.', 'ko',
-     '무슨 일이든 끝내기 전까지는 늘 불가능해 보인다.');
+     '무슨 일이든 끝내기 전까지는 늘 불가능해 보인다.'),
+    ('Nothing in this world can take the place of persistence.', 'ko',
+     '이 세상 어떤 것도 끈기를 대신할 수 없다.');
