@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No snowflake ever falls in the wrong place.', 'zh-CN',
      '没有一片雪花会落错地方。'),
     ('Let go or be dragged.', 'zh-CN',
-     '放手，否则就会被拖着走。');
+     '放手，否则就会被拖着走。'),
+    ('Determination is the wake-up call to the human will.', 'zh-CN',
+     '决心是唤醒人类意志的号角。');
