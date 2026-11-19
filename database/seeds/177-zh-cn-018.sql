@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Adversity is the diamond dust Heaven polishes its jewels with.', 'zh-CN',
      '逆境是上天用来打磨珠宝的钻石粉。'),
     ('Storms make trees take deeper roots.', 'zh-CN',
-     '风暴让树木扎下更深的根。');
+     '风暴让树木扎下更深的根。'),
+    ('The way I see it, if you want the rainbow, you gotta put up with the rain.', 'zh-CN',
+     '在我看来，如果你想要彩虹，就得忍受雨水。');
