@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without continual growth and progress, such words as improvement, achievement, and success have no meaning.', 'zh-CN',
      '没有持续的成长和进步，改进、成就和成功这些词就毫无意义。'),
     ('What is to give light must endure burning.', 'zh-CN',
-     '要发光，就必须忍受燃烧。');
+     '要发光，就必须忍受燃烧。'),
+    ('It''s not what happens to you, but how you react to it that matters.', 'zh-CN',
+     '重要的不是发生了什么，而是你如何应对。');
