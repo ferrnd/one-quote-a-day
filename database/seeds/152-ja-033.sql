@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is fear holding on a minute longer.', 'ja',
      '勇気とは、恐れがあと一分長く踏みとどまることだ。'),
     ('Failure is not falling down but refusing to get up.', 'ja',
-     '失敗とは倒れることではなく、起き上がるのを拒むことだ。');
+     '失敗とは倒れることではなく、起き上がるのを拒むことだ。'),
+    ('The successful man will profit from his mistakes and try again in a different way.', 'ja',
+     '成功する人は失敗から学び、違うやり方でもう一度挑戦する。');
