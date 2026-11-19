@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We must accept finite disappointment, but never lose infinite hope.', 'ko',
      '우리는 유한한 실망은 받아들여야 하지만, 무한한 희망은 결코 잃어서는 안 된다.'),
     ('Only in the darkness can you see the stars.', 'ko',
-     '어둠 속에서만 별을 볼 수 있다.');
+     '어둠 속에서만 별을 볼 수 있다.'),
+    ('Even the darkest night will end and the sun will rise.', 'ko',
+     '가장 어두운 밤도 끝나고 해는 떠오를 것이다.');
