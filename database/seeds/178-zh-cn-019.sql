@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Great spirits have always encountered violent opposition from mediocre minds.', 'zh-CN',
      '伟大的心灵总是遭到平庸之辈的激烈反对。'),
     ('The pain passes, but the beauty remains.', 'zh-CN',
-     '痛苦会过去，美会留下。');
+     '痛苦会过去，美会留下。'),
+    ('Things turn out best for the people who make the best of the way things turn out.', 'zh-CN',
+     '事情最好的结果，属于那些能把事情的结果做到最好的人。');
