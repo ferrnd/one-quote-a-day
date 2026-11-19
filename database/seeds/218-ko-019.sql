@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.', 'ko',
      '모든 역경, 모든 실패, 모든 마음의 아픔은 그와 같거나 더 큰 이익의 씨앗을 품고 있다.'),
     ('The greater the difficulty, the more glory in surmounting it.', 'ko',
-     '어려움이 클수록 그것을 이겨 내는 영광도 크다.');
+     '어려움이 클수록 그것을 이겨 내는 영광도 크다.'),
+    ('Difficulties are things that show a person what they are.', 'ko',
+     '어려움은 사람에게 그가 어떤 사람인지 보여 준다.');
