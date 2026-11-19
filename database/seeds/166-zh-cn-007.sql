@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Tough times never last, but tough people do.', 'zh-CN',
      '艰难的时光不会长久，坚强的人却会。'),
     ('Where there is no struggle, there is no strength.', 'zh-CN',
-     '没有挣扎，就没有力量。');
+     '没有挣扎，就没有力量。'),
+    ('Turn your wounds into wisdom.', 'zh-CN',
+     '把你的伤口化为智慧。');
