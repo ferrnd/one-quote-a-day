@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.', 'zh-CN',
      '太阳刚升起时也很微弱，随着白天推移才积聚起力量和勇气。'),
     ('Hope is the only thing stronger than fear.', 'zh-CN',
-     '希望是唯一比恐惧更强大的东西。');
+     '希望是唯一比恐惧更强大的东西。'),
+    ('Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.', 'zh-CN',
+     '即使在最黑暗的时刻，也能找到幸福，只要你记得打开灯。');
