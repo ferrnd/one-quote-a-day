@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t give up on your dreams, or your dreams will give up on you.', 'ja',
      '夢をあきらめてはいけない。さもないと、夢があなたをあきらめてしまう。'),
     ('There is nothing like a dream to create the future.', 'ja',
-     '未来を創り出すのに、夢に勝るものはない。');
+     '未来を創り出すのに、夢に勝るものはない。'),
+    ('The power of imagination makes us infinite.', 'ja',
+     '想像力が、私たちを無限にする。');
