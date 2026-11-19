@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: it is this that in all things distinguishes the strong soul from the weak.', 'ja',
      'あらゆる障害、落胆、不可能を前にしても変わらず、耐え、粘り続けること。それこそが、強い魂と弱い魂を分けるものだ。'),
     ('Never give up, for that is just the place and time that the tide will turn.', 'ja',
-     '決してあきらめてはいけない。そここそが、潮目の変わる場所であり、時なのだから。');
+     '決してあきらめてはいけない。そここそが、潮目の変わる場所であり、時なのだから。'),
+    ('Persistence can change failure into extraordinary achievement.', 'ja',
+     '粘り強さは、失敗を並外れた成果に変えることができる。');
