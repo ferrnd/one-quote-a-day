@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s what you learn after you know it all that counts.', 'ko',
      '중요한 것은 모든 것을 안다고 생각한 뒤에 무엇을 배우느냐다.'),
     ('Our business in life is not to get ahead of others, but to get ahead of ourselves.', 'ko',
-     '인생에서 우리가 할 일은 남보다 앞서는 것이 아니라 어제의 나보다 앞서는 것이다.');
+     '인생에서 우리가 할 일은 남보다 앞서는 것이 아니라 어제의 나보다 앞서는 것이다.'),
+    ('To be what we are, and to become what we are capable of becoming, is the only end of life.', 'ko',
+     '있는 그대로의 우리가 되는 것, 그리고 될 수 있는 우리가 되는 것, 그것이 삶의 유일한 목적이다.');
