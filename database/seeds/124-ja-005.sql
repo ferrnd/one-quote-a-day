@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rock bottom became the solid foundation on which I rebuilt my life.', 'ja',
      'どん底は、私が人生を建て直すための堅固な土台になった。'),
     ('Do not judge me by my success, judge me by how many times I fell down and got back up again.', 'ja',
-     '私を成功で判断しないでほしい。何度倒れ、何度立ち上がったかで判断してほしい。');
+     '私を成功で判断しないでほしい。何度倒れ、何度立ち上がったかで判断してほしい。'),
+    ('Failure should be our teacher, not our undertaker.', 'ja',
+     '失敗は私たちの教師であるべきで、葬儀屋であってはならない。');
