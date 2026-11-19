@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Every wall is a door.', 'zh-CN',
      '每一堵墙都是一扇门。'),
     ('Pain and suffering are always inevitable for a large intelligence and a deep heart.', 'zh-CN',
-     '对于一个拥有伟大智慧和深沉心灵的人来说，痛苦和苦难总是不可避免的。');
+     '对于一个拥有伟大智慧和深沉心灵的人来说，痛苦和苦难总是不可避免的。'),
+    ('Long is the way and hard, that out of hell leads up to light.', 'zh-CN',
+     '从地狱通往光明的道路，漫长而艰难。');
