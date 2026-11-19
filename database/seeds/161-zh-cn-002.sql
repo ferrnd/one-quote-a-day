@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You just can''t beat the person who never gives up.', 'zh-CN',
      '你永远打不败一个从不放弃的人。'),
     ('Don''t watch the clock; do what it does. Keep going.', 'zh-CN',
-     '别盯着时钟看；像它一样，继续前进。');
+     '别盯着时钟看；像它一样，继续前进。'),
+    ('What we hope ever to do with ease, we must learn first to do with diligence.', 'zh-CN',
+     '我们希望将来能轻松做到的事，必须先学会勤奋地去做。');
