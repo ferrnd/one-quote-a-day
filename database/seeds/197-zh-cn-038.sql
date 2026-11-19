@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The soul becomes dyed with the color of its thoughts.', 'zh-CN',
      '灵魂会被它的思想染上颜色。'),
     ('Success is not the key to happiness. Happiness is the key to success.', 'zh-CN',
-     '成功不是幸福的钥匙，幸福才是成功的钥匙。');
+     '成功不是幸福的钥匙，幸福才是成功的钥匙。'),
+    ('Patience is the calm acceptance that things can happen in a different order than the one you have in mind.', 'zh-CN',
+     '耐心就是平静地接受，事情可能会以不同于你所设想的顺序发生。');
