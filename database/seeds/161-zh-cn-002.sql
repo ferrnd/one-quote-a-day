@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the confrontation between the stream and the rock, the stream always wins, not through strength but by perseverance.', 'zh-CN',
      '在溪流与岩石的较量中，溪流总是胜利者，靠的不是力量，而是坚持。'),
     ('Endurance is not just the ability to bear a hard thing, but to turn it into glory.', 'zh-CN',
-     '忍耐不仅是承受艰难的能力，更是把艰难化为荣耀的能力。');
+     '忍耐不仅是承受艰难的能力，更是把艰难化为荣耀的能力。'),
+    ('Perseverance, secret of all triumphs.', 'zh-CN',
+     '坚持，是一切胜利的秘诀。');
