@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I must not fear. Fear is the mind-killer.', 'ja',
      '恐れてはならない。恐れは心を殺すものだ。'),
     ('Courage is the main quality of leadership.', 'ja',
-     '勇気は、リーダーシップの最も大切な資質である。');
+     '勇気は、リーダーシップの最も大切な資質である。'),
+    ('The bravest thing you can do when you are not brave is to profess courage and act accordingly.', 'ja',
+     '勇敢になれないときにできる最も勇敢なことは、勇気を口にし、それにふさわしく行動することだ。');
