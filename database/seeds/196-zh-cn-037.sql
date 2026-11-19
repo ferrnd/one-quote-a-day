@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When it is obvious that the goals cannot be reached, don''t adjust the goals, adjust the action steps.', 'zh-CN',
      '当目标显然无法达到时，不要调整目标，而要调整行动的步骤。'),
     ('Victory is sweetest when you''ve known defeat.', 'zh-CN',
-     '尝过失败的人，才知道胜利最甜美。');
+     '尝过失败的人，才知道胜利最甜美。'),
+    ('It is a mistake to look too far ahead. Only one link of the chain of destiny can be handled at a time.', 'zh-CN',
+     '看得太远是一种错误。命运之链，一次只能处理一环。');
