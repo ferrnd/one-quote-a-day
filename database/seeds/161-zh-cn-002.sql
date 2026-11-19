@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success seems to be connected with action. Successful people keep moving.', 'zh-CN',
      '成功似乎总与行动相连。成功的人一直在前进。'),
     ('Every strike brings me closer to the next home run.', 'zh-CN',
-     '每一次挥空，都让我离下一个本垒打更近。');
+     '每一次挥空，都让我离下一个本垒打更近。'),
+    ('You just can''t beat the person who never gives up.', 'zh-CN',
+     '你永远打不败一个从不放弃的人。');
