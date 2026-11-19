@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('An inventor fails 999 times, and if he succeeds once, he''s in.', 'ja',
      '発明家は999回失敗しても、一度成功すればそれでいい。'),
     ('Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.', 'ja',
-     'いちばん硬い木ほど折れやすく、竹や柳は風に身をしならせて生き延びることに気づきなさい。');
+     'いちばん硬い木ほど折れやすく、竹や柳は風に身をしならせて生き延びることに気づきなさい。'),
+    ('Don''t fear failure. Not failure, but low aim, is the crime.', 'ja',
+     '失敗を恐れるな。罪なのは失敗ではなく、低い目標だ。');
