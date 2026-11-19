@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Obstacles don''t have to stop you. If you run into a wall, don''t turn around and give up. Figure out how to climb it, go through it, or work around it.', 'ko',
      '장애물이 당신을 멈추게 할 필요는 없다. 벽에 부딪히면 돌아서서 포기하지 마라. 어떻게 오를지, 뚫고 나갈지, 돌아갈지를 생각하라.'),
     ('Problems are not stop signs, they are guidelines.', 'ko',
-     '문제는 정지 신호가 아니라 길잡이다.');
+     '문제는 정지 신호가 아니라 길잡이다.'),
+    ('Turn your face to the sun and the shadows fall behind you.', 'ko',
+     '얼굴을 해 쪽으로 돌려라. 그러면 그림자는 뒤로 진다.');
