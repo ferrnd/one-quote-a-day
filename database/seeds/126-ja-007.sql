@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Although the world is full of suffering, it is also full of the overcoming of it.', 'ja',
      '世界は苦しみに満ちているが、それを乗り越えることにも満ちている。'),
     ('Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.', 'ja',
-     '人格は安楽と静けさの中では育たない。試練と苦しみを経験してこそ、魂は鍛えられ、大志は燃え、成功は成し遂げられる。');
+     '人格は安楽と静けさの中では育たない。試練と苦しみを経験してこそ、魂は鍛えられ、大志は燃え、成功は成し遂げられる。'),
+    ('Life doesn''t get easier or more forgiving, we get stronger and more resilient.', 'ja',
+     '人生が楽になったり優しくなったりするわけではない。私たちが強く、しなやかになっていくのだ。');
