@@ -1,0 +1,5 @@
+-- seed 158 :: ja translations 951-975
+
+INSERT INTO translation_intake (original, locale, body) VALUES
+    ('If I have made any valuable discoveries, it has been owing more to patient attention than to any other talent.', 'ja',
+     '私が何か価値ある発見をしたとすれば、それはほかのどんな才能よりも、忍耐強い注意力のおかげである。');
