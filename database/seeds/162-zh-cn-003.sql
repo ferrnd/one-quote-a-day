@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.', 'zh-CN',
      '被人深爱给你力量，深爱一个人给你勇气。'),
     ('Courage is grace under pressure.', 'zh-CN',
-     '勇气就是压力之下的优雅。');
+     '勇气就是压力之下的优雅。'),
+    ('He who is not courageous enough to take risks will accomplish nothing in life.', 'zh-CN',
+     '没有勇气冒险的人，一生将一事无成。');
