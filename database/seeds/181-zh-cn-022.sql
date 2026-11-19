@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you want to lift yourself up, lift up someone else.', 'zh-CN',
      '如果你想提升自己，就去提升别人。'),
     ('Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.', 'zh-CN',
-     '衡量成功，与其看一个人在生活中达到的位置，不如看他克服了多少障碍。');
+     '衡量成功，与其看一个人在生活中达到的位置，不如看他克服了多少障碍。'),
+    ('Excellence is to do a common thing in an uncommon way.', 'zh-CN',
+     '卓越就是用不平凡的方式做平凡的事。');
