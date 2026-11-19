@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing in life is to be feared, it is only to be understood.', 'zh-CN',
      '生活中没有什么可怕的东西，只有需要理解的东西。'),
     ('Bravery is the capacity to perform properly even when scared half to death.', 'zh-CN',
-     '勇敢就是即使吓得半死，依然能把事情做好的能力。');
+     '勇敢就是即使吓得半死，依然能把事情做好的能力。'),
+    ('With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble.', 'zh-CN',
+     '有了勇气，你就敢于冒险，有力量去慈悲，有智慧去谦卑。');
