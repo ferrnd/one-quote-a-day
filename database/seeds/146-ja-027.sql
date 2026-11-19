@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.', 'ja',
      '勝つ軍は、まず勝ってから戦いを求め、負ける軍は、まず戦ってから勝ちを求める。'),
     ('All our dreams can come true, if we have the courage to pursue them.', 'ja',
-     '追い求める勇気があれば、すべての夢はかなう。');
+     '追い求める勇気があれば、すべての夢はかなう。'),
+    ('First, think. Second, dream. Third, believe. And finally, dare.', 'ja',
+     'まず考えよ。次に夢見よ。そして信じよ。最後に、挑め。');
