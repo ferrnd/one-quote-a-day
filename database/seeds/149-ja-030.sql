@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If a man knows not to which port he sails, no wind is favorable.', 'ja',
      'どの港を目指すのかわからない者には、どんな風も追い風にならない。'),
     ('Luck is what happens when preparation meets opportunity.', 'ja',
-     '幸運とは、準備が機会に出会ったときに起こるものだ。');
+     '幸運とは、準備が機会に出会ったときに起こるものだ。'),
+    ('Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.', 'ja',
+     '昨日は歴史、明日は謎、今日は神からの贈り物。だから今日は「プレゼント」と呼ばれるのだ。');
