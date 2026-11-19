@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.', 'zh-CN',
      '我们必须相信，我们对某件事是有天赋的，而且无论付出什么代价，都必须做成这件事。'),
     ('One never notices what has been done; one can only see what remains to be done.', 'zh-CN',
-     '人们从不留意已经完成的事情，只能看到还剩下什么要做。');
+     '人们从不留意已经完成的事情，只能看到还剩下什么要做。'),
+    ('I raise up my voice, not so that I can shout, but so that those without a voice can be heard.', 'zh-CN',
+     '我提高声音，不是为了呐喊，而是为了让那些没有声音的人被听见。');
