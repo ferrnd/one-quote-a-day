@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Believe and act as if it were impossible to fail.', 'zh-CN',
      '相信并且行动，就好像不可能失败一样。'),
     ('The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.', 'zh-CN',
-     '心灵自成一方天地，它能把地狱变成天堂，也能把天堂变成地狱。');
+     '心灵自成一方天地，它能把地狱变成天堂，也能把天堂变成地狱。'),
+    ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'zh-CN',
+     '如果你意识到你的思想有多么强大，你就永远不会有消极的念头。');
