@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.', 'ko',
      '한때 누렸던 것은 결코 잃어버릴 수 없다. 우리가 깊이 사랑한 모든 것은 우리의 일부가 된다.'),
     ('Happiness is not a goal; it is a by-product.', 'ko',
-     '행복은 목표가 아니다. 부산물이다.');
+     '행복은 목표가 아니다. 부산물이다.'),
+    ('The purpose of life is to live it, to taste experience to the utmost.', 'ko',
+     '삶의 목적은 그것을 살아 내는 것, 경험을 마음껏 맛보는 것이다.');
