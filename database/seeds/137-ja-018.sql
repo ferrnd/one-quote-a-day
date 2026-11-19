@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Darkness cannot drive out darkness; only light can do that.', 'ja',
      '闇は闇を追い払えない。それができるのは光だけだ。'),
     ('Faith is taking the first step even when you don''t see the whole staircase.', 'ja',
-     '信仰とは、階段の全体が見えなくても、最初の一段を踏み出すことだ。');
+     '信仰とは、階段の全体が見えなくても、最初の一段を踏み出すことだ。'),
+    ('There is no education like adversity.', 'ja',
+     '逆境ほどの教育はない。');
