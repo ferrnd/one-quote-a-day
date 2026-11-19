@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Once you replace negative thoughts with positive ones, you''ll start having positive results.', 'ja',
      '否定的な考えを肯定的な考えに置き換えれば、肯定的な結果が出始める。'),
     ('When you change the way you look at things, the things you look at change.', 'ja',
-     '物事の見方を変えれば、見ている物事そのものが変わる。');
+     '物事の見方を変えれば、見ている物事そのものが変わる。'),
+    ('Happiness is not something ready made. It comes from your own actions.', 'ja',
+     '幸せは既製品ではない。それはあなた自身の行動から生まれる。');
