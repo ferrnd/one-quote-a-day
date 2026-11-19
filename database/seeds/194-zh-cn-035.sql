@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not go gentle into that good night. Rage, rage against the dying of the light.', 'zh-CN',
      '不要温和地走进那个良夜。怒斥，怒斥光明的消逝。'),
     ('Strength doesn''t come from what you can do. It comes from overcoming the things you once thought you couldn''t.', 'zh-CN',
-     '力量不是来自你能做的事，而是来自克服那些你曾以为自己做不到的事。');
+     '力量不是来自你能做的事，而是来自克服那些你曾以为自己做不到的事。'),
+    ('Excellence is not a skill. It is an attitude.', 'zh-CN',
+     '卓越不是一种技能，而是一种态度。');
