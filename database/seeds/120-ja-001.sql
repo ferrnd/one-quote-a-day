@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The drops of rain make a hole in the stone, not by violence, but by oft falling.', 'ja',
      '雨のしずくが石に穴をあけるのは、激しさによってではなく、何度も落ちるからだ。'),
     ('Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.', 'ja',
-     '世の中の大切なことの多くは、まったく望みがないように見えても挑戦し続けた人々によって成し遂げられてきた。');
+     '世の中の大切なことの多くは、まったく望みがないように見えても挑戦し続けた人々によって成し遂げられてきた。'),
+    ('Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: it is this that in all things distinguishes the strong soul from the weak.', 'ja',
+     'あらゆる障害、落胆、不可能を前にしても変わらず、耐え、粘り続けること。それこそが、強い魂と弱い魂を分けるものだ。');
