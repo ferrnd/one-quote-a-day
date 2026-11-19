@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without leaps of imagination or dreaming, we lose the excitement of possibilities.', 'ko',
      '상상의 도약이나 꿈이 없다면 우리는 가능성이 주는 설렘을 잃는다.'),
     ('Dreaming, after all, is a form of planning.', 'ko',
-     '결국 꿈꾸는 것은 계획의 한 형태다.');
+     '결국 꿈꾸는 것은 계획의 한 형태다.'),
+    ('You''re off to great places! Today is your day! Your mountain is waiting, so get on your way!', 'ko',
+     '넌 멋진 곳으로 떠나는 거야! 오늘은 너의 날이야! 너의 산이 기다리고 있으니, 어서 길을 나서렴!');
