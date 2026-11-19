@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What makes the desert beautiful is that somewhere it hides a well.', 'zh-CN',
      '沙漠之所以美丽，是因为在某个地方藏着一口井。'),
     ('The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.', 'zh-CN',
-     '悲观者在每个机会中看到困难，乐观者在每个困难中看到机会。');
+     '悲观者在每个机会中看到困难，乐观者在每个困难中看到机会。'),
+    ('Challenges are what make life interesting and overcoming them is what makes life meaningful.', 'zh-CN',
+     '挑战让人生变得有趣，而战胜挑战让人生变得有意义。');
