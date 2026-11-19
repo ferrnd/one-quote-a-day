@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have a dream.', 'zh-CN',
      '我有一个梦想。'),
     ('What is now proved was once only imagined.', 'zh-CN',
-     '今天被证实的东西，曾经只是想象。');
+     '今天被证实的东西，曾经只是想象。'),
+    ('Aim for the moon. If you miss, you may hit a star.', 'zh-CN',
+     '瞄准月亮。即使射偏了，你也可能击中一颗星星。');
