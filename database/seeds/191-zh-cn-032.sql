@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The opposite of courage in our society is not cowardice, it is conformity.', 'zh-CN',
      '在我们的社会中，勇气的反面不是懦弱，而是随波逐流。'),
     ('Cowards die many times before their deaths; the valiant never taste of death but once.', 'zh-CN',
-     '懦夫在死之前已经死过多次，勇士一生只尝一次死亡的滋味。');
+     '懦夫在死之前已经死过多次，勇士一生只尝一次死亡的滋味。'),
+    ('Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.', 'zh-CN',
+     '不要害怕伟大：有些人生来伟大，有些人成就伟大，有些人被迫伟大。');
