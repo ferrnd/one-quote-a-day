@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Either you run the day or the day runs you.', 'ja',
      '一日を動かすか、一日に動かされるか、そのどちらかだ。'),
     ('With self-discipline most anything is possible.', 'ja',
-     '自分を律すれば、ほとんど何でも可能になる。');
+     '自分を律すれば、ほとんど何でも可能になる。'),
+    ('The successful warrior is the average man, with laser-like focus.', 'ja',
+     '勝利する戦士とは、レーザーのように集中した普通の人間である。');
