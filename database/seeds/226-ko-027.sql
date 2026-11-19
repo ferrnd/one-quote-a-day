@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Pain is temporary. Quitting lasts forever.', 'ko',
      '고통은 잠깐이지만, 포기는 영원히 남는다.'),
     ('I have stood on a mountain of no''s for one yes.', 'ko',
-     '단 한 번의 ''예''를 위해 나는 산더미 같은 ''아니요'' 위에 서 있었다.');
+     '단 한 번의 ''예''를 위해 나는 산더미 같은 ''아니요'' 위에 서 있었다.'),
+    ('I had to make my own living and my own opportunity. But I made it!', 'ko',
+     '나는 스스로 생계를 꾸리고 스스로 기회를 만들어야 했다. 하지만 나는 해냈다!');
