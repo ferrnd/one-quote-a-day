@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Discipline equals freedom.', 'zh-CN',
      '自律即自由。'),
     ('Concentrate all your thoughts upon the work at hand. The sun''s rays do not burn until brought to a focus.', 'zh-CN',
-     '把你所有的心思都集中在手头的工作上。阳光只有聚焦才能燃烧。');
+     '把你所有的心思都集中在手头的工作上。阳光只有聚焦才能燃烧。'),
+    ('Well done is better than well said.', 'zh-CN',
+     '做得好胜过说得好。');
