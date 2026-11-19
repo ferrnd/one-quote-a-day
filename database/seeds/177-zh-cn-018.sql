@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A hero is no braver than an ordinary man, but he is brave five minutes longer.', 'zh-CN',
      '英雄并不比普通人更勇敢，只是比别人多勇敢五分钟。'),
     ('The struggle itself toward the heights is enough to fill a man''s heart. One must imagine Sisyphus happy.', 'zh-CN',
-     '向着高处挣扎本身，就足以充实一个人的心。我们必须想象西西弗斯是幸福的。');
+     '向着高处挣扎本身，就足以充实一个人的心。我们必须想象西西弗斯是幸福的。'),
+    ('Sometimes adversity is what you need to face in order to become successful.', 'zh-CN',
+     '有时候，你必须面对逆境，才能取得成功。');
