@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What you do every day matters more than what you do once in a while.', 'ko',
      '매일 하는 일이 가끔 하는 일보다 더 중요하다.'),
     ('Discipline equals freedom.', 'ko',
-     '규율은 곧 자유다.');
+     '규율은 곧 자유다.'),
+    ('Concentrate all your thoughts upon the work at hand. The sun''s rays do not burn until brought to a focus.', 'ko',
+     '모든 생각을 지금 하는 일에 집중하라. 햇빛도 한곳에 모이기 전까지는 불을 일으키지 못한다.');
