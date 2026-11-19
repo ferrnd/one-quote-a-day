@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am the master of my fate, I am the captain of my soul.', 'zh-CN',
      '我是我命运的主宰，我是我灵魂的统帅。'),
     ('I thank whatever gods may be for my unconquerable soul.', 'zh-CN',
-     '无论有怎样的神明，我都感谢他们赐予我不可征服的灵魂。');
+     '无论有怎样的神明，我都感谢他们赐予我不可征服的灵魂。'),
+    ('A hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.', 'zh-CN',
+     '英雄是一个普通人，他在难以逾越的障碍面前，依然找到了坚持与忍耐的力量。');
