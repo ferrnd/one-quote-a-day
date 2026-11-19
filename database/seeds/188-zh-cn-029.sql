@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You were born with wings, why prefer to crawl through life?', 'zh-CN',
      '你生来就有翅膀，为什么宁愿在人生中爬行？'),
     ('Respond to every call that excites your spirit.', 'zh-CN',
-     '回应每一个让你的灵魂激动的召唤。');
+     '回应每一个让你的灵魂激动的召唤。'),
+    ('If you are irritated by every rub, how will your mirror be polished?', 'zh-CN',
+     '如果每一次摩擦都让你恼怒，你的镜子又怎能被擦亮？');
