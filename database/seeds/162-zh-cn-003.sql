@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is being scared to death, but saddling up anyway.', 'zh-CN',
      '勇气就是怕得要死，却依然跨上马鞍。'),
     ('I am not afraid of storms, for I am learning how to sail my ship.', 'zh-CN',
-     '我不怕暴风雨，因为我正在学习如何驾驶我的船。');
+     '我不怕暴风雨，因为我正在学习如何驾驶我的船。'),
+    ('A ship in harbor is safe, but that is not what ships are built for.', 'zh-CN',
+     '停在港口的船是安全的，但造船并不是为了停在港口。');
