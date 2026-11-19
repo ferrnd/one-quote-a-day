@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have learned over the years that when one''s mind is made up, this diminishes fear.', 'zh-CN',
      '这些年来我明白了，一个人一旦下定决心，恐惧就会减少。'),
     ('You must do the things you think you cannot do.', 'zh-CN',
-     '你必须去做那些你认为自己做不到的事。');
+     '你必须去做那些你认为自己做不到的事。'),
+    ('Clear thinking requires courage rather than intelligence.', 'zh-CN',
+     '清晰的思考需要的是勇气，而不是智力。');
