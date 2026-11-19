@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Challenges are what make life interesting and overcoming them is what makes life meaningful.', 'ko',
      '도전은 삶을 흥미롭게 하고, 그것을 극복하는 것은 삶을 의미 있게 한다.'),
     ('Adversity is the diamond dust Heaven polishes its jewels with.', 'ko',
-     '역경은 하늘이 보석을 닦는 데 쓰는 다이아몬드 가루다.');
+     '역경은 하늘이 보석을 닦는 데 쓰는 다이아몬드 가루다.'),
+    ('Storms make trees take deeper roots.', 'ko',
+     '폭풍은 나무가 더 깊이 뿌리내리게 한다.');
