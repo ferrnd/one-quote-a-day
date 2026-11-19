@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The struggle itself toward the heights is enough to fill a man''s heart. One must imagine Sisyphus happy.', 'ja',
      '頂上を目指す闘いそのものが、人の心を満たすのに十分なのだ。シーシュポスは幸福だと思わねばならない。'),
     ('Sometimes adversity is what you need to face in order to become successful.', 'ja',
-     'ときには、成功するために逆境に立ち向かう必要がある。');
+     'ときには、成功するために逆境に立ち向かう必要がある。'),
+    ('Hard times don''t create heroes. It is during the hard times when the hero within us is revealed.', 'ja',
+     '苦しい時代が英雄をつくるのではない。苦しい時代にこそ、私たちの内なる英雄が姿を現すのだ。');
