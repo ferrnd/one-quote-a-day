@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Mountains cannot be surmounted except by winding paths.', 'zh-CN',
      '翻越高山，只能走蜿蜒的小路。'),
     ('Pain is inevitable. Suffering is optional.', 'zh-CN',
-     '痛苦不可避免，而受苦是可以选择的。');
+     '痛苦不可避免，而受苦是可以选择的。'),
+    ('Problems are only opportunities in work clothes.', 'zh-CN',
+     '问题不过是穿着工作服的机会。');
