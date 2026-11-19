@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grief can be the garden of compassion.', 'ko',
      '슬픔은 연민의 정원이 될 수 있다.'),
     ('Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it.', 'ko',
-     '계속 나아가라. 그러면 아마도 가장 예상하지 못한 순간에 무언가를 우연히 발견하게 될 것이다.');
+     '계속 나아가라. 그러면 아마도 가장 예상하지 못한 순간에 무언가를 우연히 발견하게 될 것이다.'),
+    ('Hard work without talent is a shame, but talent without hard work is a tragedy.', 'ko',
+     '재능 없는 노력은 안타까운 일이지만, 노력 없는 재능은 비극이다.');
