@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is the pillar that holds up the world.', 'ja',
      '希望は、世界を支える柱である。'),
     ('Hope will never be silent.', 'ja',
-     '希望は決して黙らない。');
+     '希望は決して黙らない。'),
+    ('Weeping may endure for a night, but joy cometh in the morning.', 'ja',
+     '夜は涙のうちに過ぎても、朝には喜びが訪れる。');
