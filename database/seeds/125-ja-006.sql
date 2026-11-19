@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes.', 'ja',
      '失敗は教えてくれる。本当に考える人は、成功からと同じくらい失敗からも多くを学ぶ。'),
     ('Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.', 'ja',
-     '私たちの最大の弱点は、あきらめることにある。成功するための最も確実な方法は、常にもう一度だけ試してみることだ。');
+     '私たちの最大の弱点は、あきらめることにある。成功するための最も確実な方法は、常にもう一度だけ試してみることだ。'),
+    ('Good people are good because they''ve come to wisdom through failure.', 'ja',
+     '善い人が善いのは、失敗を通して知恵にたどり着いたからだ。');
