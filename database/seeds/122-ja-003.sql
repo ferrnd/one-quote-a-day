@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All we have to decide is what to do with the time that is given us.', 'ja',
      '私たちが決めるべきなのは、与えられた時間をどう使うかということだけだ。'),
     ('It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.', 'ja',
-     '敵に立ち向かうには大きな勇気がいる。だが友に立ち向かうにも、同じだけの勇気がいる。');
+     '敵に立ち向かうには大きな勇気がいる。だが友に立ち向かうにも、同じだけの勇気がいる。'),
+    ('Do the thing you fear, and the death of fear is certain.', 'ja',
+     '恐れていることをやりなさい。そうすれば恐れは必ず消える。');
