@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t fear failure. Not failure, but low aim, is the crime.', 'ja',
      '失敗を恐れるな。罪なのは失敗ではなく、低い目標だ。'),
     ('Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes.', 'ja',
-     '失敗は教えてくれる。本当に考える人は、成功からと同じくらい失敗からも多くを学ぶ。');
+     '失敗は教えてくれる。本当に考える人は、成功からと同じくらい失敗からも多くを学ぶ。'),
+    ('Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.', 'ja',
+     '私たちの最大の弱点は、あきらめることにある。成功するための最も確実な方法は、常にもう一度だけ試してみることだ。');
