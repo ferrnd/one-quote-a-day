@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The last three or four reps is what makes the muscle grow.', 'ja',
      '最後の三、四回こそが、筋肉を成長させる。'),
     ('Self-discipline begins with the mastery of your thoughts.', 'ja',
-     '自己規律は、自分の思考を支配することから始まる。');
+     '自己規律は、自分の思考を支配することから始まる。'),
+    ('Dost thou love life? Then do not squander time, for that is the stuff life is made of.', 'ja',
+     'あなたは人生を愛しているか。それなら時間を浪費してはならない。時間こそ人生をつくる材料なのだから。');
