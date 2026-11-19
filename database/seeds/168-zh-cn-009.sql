@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is being able to see that there is light despite all of the darkness.', 'zh-CN',
      '希望就是在一片黑暗中，依然能看见光。'),
     ('We must accept finite disappointment, but never lose infinite hope.', 'zh-CN',
-     '我们必须接受有限的失望，但永远不要失去无限的希望。');
+     '我们必须接受有限的失望，但永远不要失去无限的希望。'),
+    ('Only in the darkness can you see the stars.', 'zh-CN',
+     '唯有在黑暗中，你才能看见星星。');
