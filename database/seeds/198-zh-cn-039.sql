@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The road to success is always under construction.', 'zh-CN',
      '通往成功的路永远在施工中。'),
     ('Ambition is enthusiasm with a purpose.', 'zh-CN',
-     '雄心是有目标的热情。');
+     '雄心是有目标的热情。'),
+    ('Dreams are illustrations from the book your soul is writing about you.', 'zh-CN',
+     '梦是你的灵魂为你撰写的那本书里的插图。');
