@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let your hopes, not your hurts, shape your future.', 'zh-CN',
      '让你的希望，而不是你的伤痛，塑造你的未来。'),
     ('Hope is a renewable option: if you run out of it at the end of the day, you get to start over in the morning.', 'zh-CN',
-     '希望是一种可以再生的选择：如果一天结束时用完了，第二天早上可以重新开始。');
+     '希望是一种可以再生的选择：如果一天结束时用完了，第二天早上可以重新开始。'),
+    ('What oxygen is to the lungs, such is hope to the meaning of life.', 'zh-CN',
+     '希望之于人生的意义，正如氧气之于肺。');
