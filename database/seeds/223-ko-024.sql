@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('How poor are they that have not patience! What wound did ever heal but by degrees?', 'ko',
      '인내심이 없는 자들은 얼마나 가련한가! 조금씩 낫지 않은 상처가 어디 있었던가?'),
     ('Patience is the art of hoping.', 'ko',
-     '인내는 희망하는 기술이다.');
+     '인내는 희망하는 기술이다.'),
+    ('A handful of patience is worth more than a bushel of brains.', 'ko',
+     '한 줌의 인내가 한 말의 지혜보다 낫다.');
