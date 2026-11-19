@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The unexamined life is not worth living.', 'ja',
      '吟味されない人生は、生きるに値しない。'),
     ('The only true wisdom is in knowing you know nothing.', 'ja',
-     '唯一の真の知恵とは、自分が何も知らないと知ることである。');
+     '唯一の真の知恵とは、自分が何も知らないと知ることである。'),
+    ('Be kind, for everyone you meet is fighting a hard battle.', 'ja',
+     '親切であれ。あなたが出会う人は皆、つらい戦いを戦っているのだから。');
