@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Knowing your own darkness is the best method for dealing with the darknesses of other people.', 'ja',
      '自分自身の闇を知ることは、他人の闇と向き合うための最良の方法である。'),
     ('There is no coming to consciousness without pain.', 'ja',
-     '痛みなくして、意識に目覚めることはない。');
+     '痛みなくして、意識に目覚めることはない。'),
+    ('It''s what you learn after you know it all that counts.', 'ja',
+     '大切なのは、すべてを知ったと思った後に何を学ぶかだ。');
