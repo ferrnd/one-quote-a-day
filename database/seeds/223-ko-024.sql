@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is bitter, but its fruit is sweet.', 'ko',
      '인내는 쓰지만, 그 열매는 달다.'),
     ('Adopt the pace of nature: her secret is patience.', 'ko',
-     '자연의 속도를 따르라. 자연의 비결은 인내다.');
+     '자연의 속도를 따르라. 자연의 비결은 인내다.'),
+    ('Nature does not hurry, yet everything is accomplished.', 'ko',
+     '자연은 서두르지 않지만, 모든 것이 이루어진다.');
