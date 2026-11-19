@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('She stood in the storm, and when the wind did not blow her way, she adjusted her sails.', 'ko',
      '그녀는 폭풍 속에 서 있었고, 바람이 원하는 대로 불지 않자 돛을 조정했다.'),
     ('Tough times never last, but tough people do.', 'ko',
-     '힘든 시기는 오래가지 않지만, 강한 사람은 오래간다.');
+     '힘든 시기는 오래가지 않지만, 강한 사람은 오래간다.'),
+    ('Where there is no struggle, there is no strength.', 'ko',
+     '투쟁이 없는 곳에는 힘도 없다.');
