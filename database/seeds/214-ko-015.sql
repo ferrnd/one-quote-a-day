@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be quick, but don''t hurry.', 'ko',
      '빠르게 하되, 서두르지는 마라.'),
     ('Be not afraid of growing slowly, be afraid only of standing still.', 'ko',
-     '천천히 자라는 것을 두려워하지 말고, 멈춰 서는 것만을 두려워하라.');
+     '천천히 자라는 것을 두려워하지 말고, 멈춰 서는 것만을 두려워하라.'),
+    ('The only way to make sense out of change is to plunge into it, move with it, and join the dance.', 'ko',
+     '변화를 이해하는 유일한 방법은 그 속으로 뛰어들어 함께 움직이며 춤에 합류하는 것이다.');
