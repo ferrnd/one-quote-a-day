@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I would rather be ashes than dust!', 'ja',
      '塵になるより、灰になりたい！'),
     ('Determine never to be idle.', 'ja',
-     '決して怠けまいと決意せよ。');
+     '決して怠けまいと決意せよ。'),
+    ('A dream doesn''t become reality through magic; it takes sweat, determination and hard work.', 'ja',
+     '夢は魔法で現実になるのではない。汗と決意と努力が必要なのだ。');
