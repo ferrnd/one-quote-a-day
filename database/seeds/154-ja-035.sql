@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Excellence is not a skill. It is an attitude.', 'ja',
      '卓越は技術ではない。姿勢である。'),
     ('Do the hard jobs first. The easy jobs will take care of themselves.', 'ja',
-     '難しい仕事から先にやりなさい。易しい仕事は自然に片づく。');
+     '難しい仕事から先にやりなさい。易しい仕事は自然に片づく。'),
+    ('It is better to offer no excuse than a bad one.', 'ja',
+     '下手な言い訳をするくらいなら、何も言い訳しないほうがいい。');
