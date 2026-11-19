@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is the key to paradise.', 'zh-CN',
      '耐心是通往天堂的钥匙。'),
     ('Be patient toward all that is unsolved in your heart.', 'zh-CN',
-     '对你心中所有尚未解决的事情，都要有耐心。');
+     '对你心中所有尚未解决的事情，都要有耐心。'),
+    ('No great thing is created suddenly.', 'zh-CN',
+     '伟大的事物不是突然创造出来的。');
