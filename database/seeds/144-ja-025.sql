@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and diligence, like faith, remove mountains.', 'ja',
      '忍耐と勤勉は、信仰と同じように山をも動かす。'),
     ('Beware the fury of a patient man.', 'ja',
-     '忍耐強い人の怒りに用心せよ。');
+     '忍耐強い人の怒りに用心せよ。'),
+    ('Patience is the key to paradise.', 'ja',
+     '忍耐は天国への鍵である。');
