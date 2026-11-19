@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am the greatest. I said that even before I knew I was.', 'zh-CN',
      '我是最伟大的。在我知道自己是最伟大的之前，我就这么说了。'),
     ('Impossible is just a big word thrown around by small men.', 'zh-CN',
-     '“不可能”只是渺小的人随口说出的一个大词。');
+     '“不可能”只是渺小的人随口说出的一个大词。'),
+    ('It''s the repetition of affirmations that leads to belief.', 'zh-CN',
+     '正是不断重复的自我肯定，带来了信念。');
