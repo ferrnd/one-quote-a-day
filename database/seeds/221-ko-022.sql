@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Too many of us are not living our dreams because we are living our fears.', 'ko',
      '너무 많은 사람이 꿈을 살지 못하는 것은 두려움을 살고 있기 때문이다.'),
     ('Shoot for the moon. Even if you miss, you''ll land among the stars.', 'ko',
-     '달을 향해 쏴라. 빗나가더라도 별들 사이에 떨어질 것이다.');
+     '달을 향해 쏴라. 빗나가더라도 별들 사이에 떨어질 것이다.'),
+    ('It''s not what you look at that matters, it''s what you see.', 'ko',
+     '중요한 것은 무엇을 보느냐가 아니라 무엇이 보이느냐다.');
