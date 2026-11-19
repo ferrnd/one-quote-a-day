@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Trees that are slow to grow bear the best fruit.', 'zh-CN',
      '生长缓慢的树，结出的果实最好。'),
     ('Genius is eternal patience.', 'zh-CN',
-     '天才就是永恒的耐心。');
+     '天才就是永恒的耐心。'),
+    ('Patience is the companion of wisdom.', 'zh-CN',
+     '耐心是智慧的伴侣。');
