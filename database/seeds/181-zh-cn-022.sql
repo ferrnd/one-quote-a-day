@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Happiness is not something ready made. It comes from your own actions.', 'zh-CN',
      '幸福不是现成的东西，它来自你自己的行动。'),
     ('Self-belief and hard work will always earn you success.', 'zh-CN',
-     '自信和努力总会为你赢得成功。');
+     '自信和努力总会为你赢得成功。'),
+    ('Too many of us are not living our dreams because we are living our fears.', 'zh-CN',
+     '太多人没有活出自己的梦想，因为他们活在自己的恐惧里。');
