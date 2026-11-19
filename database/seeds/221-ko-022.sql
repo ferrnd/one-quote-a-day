@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Whatever the mind of man can conceive and believe, it can achieve.', 'ko',
      '인간의 마음이 생각하고 믿을 수 있는 것은 무엇이든 이룰 수 있다.'),
     ('The man who has confidence in himself gains the confidence of others.', 'ko',
-     '자신을 믿는 사람은 다른 사람의 신뢰도 얻는다.');
+     '자신을 믿는 사람은 다른 사람의 신뢰도 얻는다.'),
+    ('Once you replace negative thoughts with positive ones, you''ll start having positive results.', 'ko',
+     '부정적인 생각을 긍정적인 생각으로 바꾸면 긍정적인 결과가 나오기 시작한다.');
