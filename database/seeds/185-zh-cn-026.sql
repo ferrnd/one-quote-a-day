@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perfection is not attainable, but if we chase perfection we can catch excellence.', 'zh-CN',
      '完美无法企及，但如果我们追求完美，就能抓住卓越。'),
     ('Once you learn to quit, it becomes a habit.', 'zh-CN',
-     '一旦你学会了放弃，它就会成为一种习惯。');
+     '一旦你学会了放弃，它就会成为一种习惯。'),
+    ('Today I will do what others won''t, so tomorrow I can accomplish what others can''t.', 'zh-CN',
+     '今天我做别人不愿做的事，明天我就能成就别人做不到的事。');
