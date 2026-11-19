@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('That''s one small step for a man, one giant leap for mankind.', 'ko',
      '이것은 한 인간에게는 작은 발걸음이지만, 인류에게는 위대한 도약이다.'),
     ('Don''t tell me the sky''s the limit when there are footprints on the moon.', 'ko',
-     '달에 발자국이 있는데, 하늘이 한계라고 말하지 마라.');
+     '달에 발자국이 있는데, 하늘이 한계라고 말하지 마라.'),
+    ('The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.', 'ko',
+     '지구는 인류의 요람이지만, 인류가 영원히 요람에 머물 수는 없다.');
