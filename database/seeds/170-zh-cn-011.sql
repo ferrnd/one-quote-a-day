@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Strength is the product of struggle. You must do what others don''t to achieve what others won''t.', 'zh-CN',
      '力量是奋斗的产物。你必须做别人不愿做的事，才能取得别人取得不了的成就。'),
     ('The strongest of all warriors are these two: time and patience.', 'zh-CN',
-     '所有战士中最强大的是这两位：时间和耐心。');
+     '所有战士中最强大的是这两位：时间和耐心。'),
+    ('Nobody can make you feel inferior without your consent.', 'zh-CN',
+     '没有你的同意，谁也无法让你感到自卑。');
