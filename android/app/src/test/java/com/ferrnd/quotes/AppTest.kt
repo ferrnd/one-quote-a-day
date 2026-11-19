@@ -149,6 +149,40 @@ class AppTest {
     }
 
     @Test
+    fun theLauncherIconFollowsTheTheme() {
+        val app = ApplicationProvider.getApplicationContext<Application>()
+        val zone = java.time.ZoneId.systemDefault()
+        val night = java.time.LocalDate.of(2026, 11, 18).atTime(22, 30).atZone(zone)
+        val day = java.time.LocalDate.of(2026, 11, 18).atTime(10, 0).atZone(zone)
+
+        fun iconAt(theme: String, now: java.time.ZonedDateTime): Boolean {
+            Prefs(app).save(Settings(theme = theme))
+            IconSwitcher.update(app, now)
+            return IconSwitcher.showingNight(app)
+        }
+        // Auto: black icon from 21:00 to 06:00, white otherwise
+        assertTrue(iconAt("auto", night))
+        assertEquals(false, iconAt("auto", day))
+        // fixed themes ignore the clock
+        assertTrue(iconAt("dark", day))
+        assertEquals(false, iconAt("light", night))
+
+        // the next swap is the next 06:00 or 21:00
+        assertEquals(6, IconSwitcher.nextSwap(night).hour)
+        assertEquals(19, IconSwitcher.nextSwap(night).dayOfMonth)
+        assertEquals(21, IconSwitcher.nextSwap(day).hour)
+        assertEquals(18, IconSwitcher.nextSwap(day).dayOfMonth)
+
+        // exactly one launcher entry at any time
+        val pm = app.packageManager
+        val launchers = pm.queryIntentActivities(
+            android.content.Intent(android.content.Intent.ACTION_MAIN).addCategory(android.content.Intent.CATEGORY_LAUNCHER)
+                .setPackage(app.packageName), 0,
+        )
+        assertEquals(1, launchers.size)
+    }
+
+    @Test
     fun rendersTheShareCard() {
         val app = ApplicationProvider.getApplicationContext<Application>()
         for ((name, lang) in listOf("en" to "en", "de" to "de")) {
