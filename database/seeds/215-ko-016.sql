@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everyone thinks of changing the world, but no one thinks of changing himself.', 'ko',
      '누구나 세상을 바꾸려고 생각하지만, 아무도 자기 자신을 바꾸려고는 생각하지 않는다.'),
     ('To improve is to change; to be perfect is to change often.', 'ko',
-     '나아진다는 것은 변한다는 것이고, 완벽해진다는 것은 자주 변한다는 것이다.');
+     '나아진다는 것은 변한다는 것이고, 완벽해진다는 것은 자주 변한다는 것이다.'),
+    ('Growth begins when we begin to accept our own weakness.', 'ko',
+     '성장은 자신의 약함을 받아들이기 시작할 때 시작된다.');
