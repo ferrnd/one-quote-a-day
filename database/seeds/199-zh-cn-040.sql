@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He suffers more than necessary, who suffers before it is necessary.', 'zh-CN',
      '在必要之前就受苦的人，所受的苦比必要的更多。'),
     ('Ignorance is the cause of fear.', 'zh-CN',
-     '无知是恐惧的根源。');
+     '无知是恐惧的根源。'),
+    ('To live is the rarest thing in the world. Most people exist, that is all.', 'zh-CN',
+     '生活是世界上最罕见的事情，大多数人只是存在而已。');
