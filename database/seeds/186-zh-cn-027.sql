@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.', 'zh-CN',
      '地球是人类的摇篮，但人类不可能永远待在摇篮里。'),
     ('Exploration is really the essence of the human spirit.', 'zh-CN',
-     '探索才是人类精神的真正本质。');
+     '探索才是人类精神的真正本质。'),
+    ('Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.', 'zh-CN',
+     '胜兵先胜而后求战，败兵先战而后求胜。');
