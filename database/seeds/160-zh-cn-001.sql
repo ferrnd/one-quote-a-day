@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ambition is the path to success. Persistence is the vehicle you arrive in.', 'zh-CN',
      '雄心是通往成功的道路，坚持是载你抵达的车辆。'),
     ('The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.', 'zh-CN',
-     '成功者与他人的区别，不在于缺乏力量，也不在于缺乏知识，而在于缺乏意志。');
+     '成功者与他人的区别，不在于缺乏力量，也不在于缺乏知识，而在于缺乏意志。'),
+    ('Success is the sum of small efforts, repeated day in and day out.', 'zh-CN',
+     '成功是日复一日重复的小小努力的总和。');
