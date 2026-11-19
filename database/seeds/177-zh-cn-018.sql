@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When the going gets tough, the tough get going.', 'zh-CN',
      '时局艰难时，强者愈强。'),
     ('A hero is no braver than an ordinary man, but he is brave five minutes longer.', 'zh-CN',
-     '英雄并不比普通人更勇敢，只是比别人多勇敢五分钟。');
+     '英雄并不比普通人更勇敢，只是比别人多勇敢五分钟。'),
+    ('The struggle itself toward the heights is enough to fill a man''s heart. One must imagine Sisyphus happy.', 'zh-CN',
+     '向着高处挣扎本身，就足以充实一个人的心。我们必须想象西西弗斯是幸福的。');
