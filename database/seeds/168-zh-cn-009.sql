@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.', 'zh-CN',
      '乐观是通向成就的信念。没有希望和信心，什么也做不成。'),
     ('Keep your eyes on the stars, and your feet on the ground.', 'zh-CN',
-     '眼望星空，脚踏实地。');
+     '眼望星空，脚踏实地。'),
+    ('Hope is a waking dream.', 'zh-CN',
+     '希望是醒着的梦。');
