@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our life is what our thoughts make it.', 'ko',
      '우리의 삶은 우리의 생각이 만드는 것이다.'),
     ('The happiness of your life depends upon the quality of your thoughts.', 'ko',
-     '인생의 행복은 생각의 질에 달려 있다.');
+     '인생의 행복은 생각의 질에 달려 있다.'),
+    ('Very little is needed to make a happy life; it is all within yourself, in your way of thinking.', 'ko',
+     '행복한 삶을 사는 데 필요한 것은 아주 적다. 그것은 모두 당신 안에, 당신의 생각하는 방식 안에 있다.');
