@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The fight is won or lost far away from witnesses, behind the lines, in the gym, and out there on the road, long before I dance under those lights.', 'ja',
      '戦いの勝敗は、証人のいない遠い場所で決まる。前線の後ろで、ジムで、そして道の上で。私がライトの下で踊るずっと前に。'),
     ('Don''t count the days, make the days count.', 'ja',
-     '日々を数えるな。日々を意味あるものにせよ。');
+     '日々を数えるな。日々を意味あるものにせよ。'),
+    ('Dedication sees dreams come true.', 'ja',
+     '献身があれば、夢はかなう。');
