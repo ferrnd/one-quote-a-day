@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are better starters than me but I''m a strong finisher.', 'ko',
      '나보다 출발이 좋은 선수는 있지만, 나는 마무리가 강한 선수다.'),
     ('Nothing great was ever achieved without enthusiasm.', 'ko',
-     '열정 없이 이루어진 위대한 일은 없다.');
+     '열정 없이 이루어진 위대한 일은 없다.'),
+    ('I would rather be ashes than dust!', 'ko',
+     '나는 먼지가 되느니 차라리 재가 되겠다!');
