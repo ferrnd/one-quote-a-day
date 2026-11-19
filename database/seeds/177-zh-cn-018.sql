@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Those things that hurt, instruct.', 'zh-CN',
      '伤人的事物，也教育人。'),
     ('Adversity is like a strong wind. It tears away from us all but the things that cannot be torn, so that we see ourselves as we really are.', 'zh-CN',
-     '逆境就像一阵狂风，它把一切能撕走的都从我们身上撕走，只留下撕不走的，让我们看清自己真正的样子。');
+     '逆境就像一阵狂风，它把一切能撕走的都从我们身上撕走，只留下撕不走的，让我们看清自己真正的样子。'),
+    ('What makes the desert beautiful is that somewhere it hides a well.', 'zh-CN',
+     '沙漠之所以美丽，是因为在某个地方藏着一口井。');
