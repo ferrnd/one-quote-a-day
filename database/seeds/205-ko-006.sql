@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no failure except in no longer trying.', 'ko',
      '더 이상 시도하지 않는 것 말고는 실패란 없다.'),
     ('Failure will never overtake me if my determination to succeed is strong enough.', 'ko',
-     '성공하려는 결심이 충분히 강하다면 실패는 결코 나를 따라잡지 못한다.');
+     '성공하려는 결심이 충분히 강하다면 실패는 결코 나를 따라잡지 못한다.'),
+    ('You may have to fight a battle more than once to win it.', 'ko',
+     '싸움에서 이기기 위해 같은 싸움을 한 번 넘게 치러야 할 때도 있다.');
