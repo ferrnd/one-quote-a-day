@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.', 'ko',
      '영웅이란 압도적인 장애물에도 불구하고 버티고 견딜 힘을 찾아내는 평범한 사람이다.'),
     ('What lies behind us and what lies before us are tiny matters compared to what lies within us.', 'ko',
-     '우리 뒤에 있는 것과 우리 앞에 있는 것은 우리 안에 있는 것에 비하면 아주 작은 문제다.');
+     '우리 뒤에 있는 것과 우리 앞에 있는 것은 우리 안에 있는 것에 비하면 아주 작은 문제다.'),
+    ('The greatest test of courage on earth is to bear defeat without losing heart.', 'ko',
+     '이 세상에서 용기를 가장 크게 시험하는 것은 낙심하지 않고 패배를 견디는 것이다.');
