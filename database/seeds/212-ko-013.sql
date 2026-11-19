@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Self-discipline is the magic power that makes you virtually unstoppable.', 'ko',
      '자기 절제는 당신을 거의 멈출 수 없는 존재로 만드는 마법의 힘이다.'),
     ('The price of excellence is discipline. The cost of mediocrity is disappointment.', 'ko',
-     '탁월함의 대가는 훈련이고, 평범함의 대가는 실망이다.');
+     '탁월함의 대가는 훈련이고, 평범함의 대가는 실망이다.'),
+    ('Hard work beats talent when talent doesn''t work hard.', 'ko',
+     '재능이 노력하지 않을 때, 노력은 재능을 이긴다.');
