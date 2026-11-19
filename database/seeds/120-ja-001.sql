@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Victory belongs to the most persevering.', 'ja',
      '勝利は、最も粘り強い者のものだ。'),
     ('With ordinary talent and extraordinary perseverance, all things are attainable.', 'ja',
-     '平凡な才能と非凡な根気があれば、何でも成し遂げられる。');
+     '平凡な才能と非凡な根気があれば、何でも成し遂げられる。'),
+    ('The drops of rain make a hole in the stone, not by violence, but by oft falling.', 'ja',
+     '雨のしずくが石に穴をあけるのは、激しさによってではなく、何度も落ちるからだ。');
