@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a renewable option: if you run out of it at the end of the day, you get to start over in the morning.', 'zh-CN',
      '希望是一种可以再生的选择：如果一天结束时用完了，第二天早上可以重新开始。'),
     ('What oxygen is to the lungs, such is hope to the meaning of life.', 'zh-CN',
-     '希望之于人生的意义，正如氧气之于肺。');
+     '希望之于人生的意义，正如氧气之于肺。'),
+    ('The very least you can do in your life is figure out what you hope for.', 'zh-CN',
+     '你一生中至少能做的，就是弄清楚自己希望什么。');
