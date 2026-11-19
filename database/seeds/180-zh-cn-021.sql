@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The future starts today, not tomorrow.', 'zh-CN',
      '未来从今天开始，而不是明天。'),
     ('Whether you think you can, or you think you can''t, you''re right.', 'zh-CN',
-     '无论你认为自己行还是不行，你都是对的。');
+     '无论你认为自己行还是不行，你都是对的。'),
+    ('Believe you can and you''re halfway there.', 'zh-CN',
+     '相信你能做到，你就已经成功了一半。');
