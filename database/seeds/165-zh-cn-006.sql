@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Experience is simply the name we give our mistakes.', 'zh-CN',
      '经验不过是我们给自己的错误起的名字。'),
     ('When we give ourselves permission to fail, we, at the same time, give ourselves permission to excel.', 'zh-CN',
-     '当我们允许自己失败时，也同时允许了自己出类拔萃。');
+     '当我们允许自己失败时，也同时允许了自己出类拔萃。'),
+    ('The only real mistake is the one from which we learn nothing.', 'zh-CN',
+     '唯一真正的错误，是我们从中什么也没学到的错误。');
