@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Once you make a decision, the universe conspires to make it happen.', 'ko',
      '일단 결정을 내리면, 우주는 그것이 이루어지도록 힘을 모은다.'),
     ('To be great is to be misunderstood.', 'ko',
-     '위대하다는 것은 오해받는다는 것이다.');
+     '위대하다는 것은 오해받는다는 것이다.'),
+    ('Finish each day and be done with it. You have done what you could.', 'ko',
+     '하루하루를 끝내고 그것으로 마무리하라. 당신은 할 수 있는 일을 했다.');
