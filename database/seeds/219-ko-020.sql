@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Well begun is half done.', 'ko',
      '시작이 반이다.'),
     ('If you spend too much time thinking about a thing, you''ll never get it done.', 'ko',
-     '한 가지 일을 너무 오래 생각하면 결코 그것을 해내지 못한다.');
+     '한 가지 일을 너무 오래 생각하면 결코 그것을 해내지 못한다.'),
+    ('What you do speaks so loudly that I cannot hear what you say.', 'ko',
+     '당신의 행동이 너무 크게 말하고 있어서 당신이 하는 말이 들리지 않는다.');
