@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t give up. Don''t ever give up.', 'ko',
      '포기하지 마라. 절대 포기하지 마라.'),
     ('Many people have gone further than they thought they could because someone else thought they could.', 'ko',
-     '많은 사람이 스스로 생각했던 것보다 더 멀리 갔다. 다른 누군가가 그들이 해낼 수 있다고 생각해 주었기 때문이다.');
+     '많은 사람이 스스로 생각했던 것보다 더 멀리 갔다. 다른 누군가가 그들이 해낼 수 있다고 생각해 주었기 때문이다.'),
+    ('You can''t climb the ladder of success with your hands in your pockets.', 'ko',
+     '주머니에 손을 넣은 채로는 성공의 사다리를 오를 수 없다.');
