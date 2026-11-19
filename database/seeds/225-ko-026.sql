@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between ordinary and extraordinary is that little extra.', 'ko',
      '평범함과 비범함의 차이는 바로 그 작은 ''더''에 있다.'),
     ('Winning isn''t everything, but wanting to win is.', 'ko',
-     '이기는 것이 전부는 아니다. 하지만 이기고 싶어 하는 마음은 전부다.');
+     '이기는 것이 전부는 아니다. 하지만 이기고 싶어 하는 마음은 전부다.'),
+    ('Perfection is not attainable, but if we chase perfection we can catch excellence.', 'ko',
+     '완벽함은 이룰 수 없지만, 완벽함을 좇다 보면 탁월함을 붙잡을 수 있다.');
