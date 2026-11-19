@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our life is what our thoughts make it.', 'zh-CN',
      '我们的生活是由我们的思想塑造的。'),
     ('The happiness of your life depends upon the quality of your thoughts.', 'zh-CN',
-     '你一生的幸福取决于你思想的质量。');
+     '你一生的幸福取决于你思想的质量。'),
+    ('Very little is needed to make a happy life; it is all within yourself, in your way of thinking.', 'zh-CN',
+     '幸福的生活所需甚少，一切都在你自己身上，在你的思维方式之中。');
