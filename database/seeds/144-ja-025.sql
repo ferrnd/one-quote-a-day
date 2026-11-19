@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('This too shall pass.', 'ja',
      'これもまた過ぎ去る。'),
     ('Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.', 'ja',
-     '実現に時間がかかるからといって、夢を決してあきらめてはいけない。どうせ時間は過ぎていくのだから。');
+     '実現に時間がかかるからといって、夢を決してあきらめてはいけない。どうせ時間は過ぎていくのだから。'),
+    ('Let everything happen to you: beauty and terror. Just keep going. No feeling is final.', 'ja',
+     'すべてを身に受けなさい。美しさも恐ろしさも。ただ進み続けなさい。どんな感情も最後ではない。');
