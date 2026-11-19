@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Happiness is not a goal; it is a by-product.', 'zh-CN',
      '幸福不是目标，而是副产品。'),
     ('The purpose of life is to live it, to taste experience to the utmost.', 'zh-CN',
-     '生命的意义在于去生活，去尽情品尝人生的经历。');
+     '生命的意义在于去生活，去尽情品尝人生的经历。'),
+    ('The art of being wise is the art of knowing what to overlook.', 'zh-CN',
+     '做一个明智之人的艺术，就是懂得忽略什么的艺术。');
