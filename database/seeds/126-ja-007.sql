@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You always pass failure on your way to success.', 'ja',
      '成功への道の途中で、人は必ず失敗を通り過ぎる。'),
     ('Failure is unimportant. It takes courage to make a fool of yourself.', 'ja',
-     '失敗など取るに足らない。自分を笑い者にするには勇気がいるのだ。');
+     '失敗など取るに足らない。自分を笑い者にするには勇気がいるのだ。'),
+    ('What is defeat? Nothing but education; nothing but the first step to something better.', 'ja',
+     '敗北とは何か。教育にほかならない。よりよいものへの第一歩にほかならない。');
