@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''d rather be a failure at something I love than a success at something I hate.', 'zh-CN',
      '我宁愿在我热爱的事情上失败，也不愿在我讨厌的事情上成功。'),
     ('There is no failure except in no longer trying.', 'zh-CN',
-     '除了不再尝试，就没有失败。');
+     '除了不再尝试，就没有失败。'),
+    ('Failure will never overtake me if my determination to succeed is strong enough.', 'zh-CN',
+     '只要我对成功的决心足够坚定，失败就永远追不上我。');
