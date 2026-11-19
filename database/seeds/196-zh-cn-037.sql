@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t judge each day by the harvest you reap but by the seeds that you plant.', 'zh-CN',
      '不要用你收获的果实来评判每一天，而要用你播下的种子来评判。'),
     ('Do something wonderful, people may imitate it.', 'zh-CN',
-     '做一件美好的事，人们也许会效仿。');
+     '做一件美好的事，人们也许会效仿。'),
+    ('The time is always right to do what is right.', 'zh-CN',
+     '做正确的事，任何时候都是正确的时机。');
