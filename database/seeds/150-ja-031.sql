@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The world is changed by your example, not by your opinion.', 'ja',
      '世界を変えるのは、あなたの意見ではなく、あなたの手本だ。'),
     ('We can''t help everyone, but everyone can help someone.', 'ja',
-     'すべての人を助けることはできない。だが、誰もが誰かを助けることはできる。');
+     'すべての人を助けることはできない。だが、誰もが誰かを助けることはできる。'),
+    ('Each person must live their life as a model for others.', 'ja',
+     '人は皆、他人の手本となるような人生を生きなければならない。');
