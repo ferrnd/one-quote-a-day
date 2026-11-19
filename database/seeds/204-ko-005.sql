@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'ko',
      '꿈을 이룰 수 없게 만드는 것은 단 하나, 실패에 대한 두려움이다.'),
     ('Failure is not the opposite of success; it''s part of success.', 'ko',
-     '실패는 성공의 반대가 아니라 성공의 일부다.');
+     '실패는 성공의 반대가 아니라 성공의 일부다.'),
+    ('You build on failure. You use it as a stepping stone.', 'ko',
+     '실패 위에 쌓아 올려라. 그것을 디딤돌로 삼아라.');
