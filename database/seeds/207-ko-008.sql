@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A good half of the art of living is resilience.', 'ko',
      '삶의 기술 중 족히 절반은 회복력이다.'),
     ('Nothing is impossible. The word itself says ''I''m possible''!', 'ko',
-     '불가능한 것은 없다. Impossible(불가능)이라는 단어 자체가 "I''m possible(나는 할 수 있다)"이라고 말하고 있으니까!');
+     '불가능한 것은 없다. Impossible(불가능)이라는 단어 자체가 "I''m possible(나는 할 수 있다)"이라고 말하고 있으니까!'),
+    ('Stars can''t shine without darkness.', 'ko',
+     '어둠이 없으면 별은 빛날 수 없다.');
