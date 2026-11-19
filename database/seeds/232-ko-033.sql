@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s failure that gives you the proper perspective on success.', 'ko',
      '성공을 올바르게 바라보게 해 주는 것은 실패다.'),
     ('Success is how high you bounce when you hit bottom.', 'ko',
-     '성공이란 바닥을 쳤을 때 얼마나 높이 튀어 오르느냐다.');
+     '성공이란 바닥을 쳤을 때 얼마나 높이 튀어 오르느냐다.'),
+    ('Don''t let the fear of losing be greater than the excitement of winning.', 'ko',
+     '지는 것에 대한 두려움이 이기는 것에 대한 설렘보다 커지게 두지 마라.');
