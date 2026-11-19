@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Not everything that is faced can be changed, but nothing can be changed until it is faced.', 'ja',
      '向き合ったものすべてが変えられるわけではない。だが、向き合わないかぎり何一つ変えられない。'),
     ('Your present circumstances don''t determine where you can go; they merely determine where you start.', 'ja',
-     '今の境遇は、あなたがどこまで行けるかを決めるのではない。どこから始めるかを決めるだけだ。');
+     '今の境遇は、あなたがどこまで行けるかを決めるのではない。どこから始めるかを決めるだけだ。'),
+    ('One day you will wake up and there won''t be any more time to do the things you''ve always wanted. Do it now.', 'ja',
+     'いつか目が覚めたら、ずっとやりたかったことをする時間がもう残っていないかもしれない。今やりなさい。');
