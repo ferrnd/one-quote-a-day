@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is not the key to happiness. Happiness is the key to success.', 'ja',
      '成功は幸福の鍵ではない。幸福こそが成功の鍵である。'),
     ('Patience is the calm acceptance that things can happen in a different order than the one you have in mind.', 'ja',
-     '忍耐とは、物事が自分の思い描いた順序とは違う順序で起こりうることを、落ち着いて受け入れることだ。');
+     '忍耐とは、物事が自分の思い描いた順序とは違う順序で起こりうることを、落ち着いて受け入れることだ。'),
+    ('Patience and fortitude conquer all things.', 'ja',
+     '忍耐と不屈の精神は、すべてを征服する。');
