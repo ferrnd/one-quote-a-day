@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What is now proved was once only imagined.', 'ja',
      '今は証明されていることも、かつては想像されただけのものだった。'),
     ('Aim for the moon. If you miss, you may hit a star.', 'ja',
-     '月を目指せ。外れても、星に当たるかもしれない。');
+     '月を目指せ。外れても、星に当たるかもしれない。'),
+    ('Nothing happens unless first we dream.', 'ja',
+     'まず夢を見なければ、何も起こらない。');
