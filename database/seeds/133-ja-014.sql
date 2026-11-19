@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The more I practice, the luckier I get.', 'ja',
      '練習すればするほど、私は運が良くなる。'),
     ('Do not wait to strike till the iron is hot; but make it hot by striking.', 'ja',
-     '鉄が熱くなるまで打つのを待つな。打つことで熱くせよ。');
+     '鉄が熱くなるまで打つのを待つな。打つことで熱くせよ。'),
+    ('Self-respect is the fruit of discipline; the sense of dignity grows with the ability to say no to oneself.', 'ja',
+     '自尊心は規律の実りである。尊厳の感覚は、自分に「いいえ」と言える力とともに育つ。');
