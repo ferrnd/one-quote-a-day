@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The brave man is not he who does not feel afraid, but he who conquers that fear.', 'ja',
      '勇敢な人とは恐れを感じない人ではなく、その恐れを克服する人だ。'),
     ('Have the courage to follow your heart and intuition.', 'ja',
-     '自分の心と直感に従う勇気を持ちなさい。');
+     '自分の心と直感に従う勇気を持ちなさい。'),
+    ('Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.', 'ja',
+     '誰かに深く愛されることは力をくれ、誰かを深く愛することは勇気をくれる。');
