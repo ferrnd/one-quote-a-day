@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you can''t fly then run, if you can''t run then walk, if you can''t walk then crawl, but whatever you do you have to keep moving forward.', 'ko',
      '날 수 없다면 뛰어라. 뛸 수 없다면 걸어라. 걸을 수 없다면 기어라. 무엇을 하든 계속 앞으로 나아가야 한다.'),
     ('The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.', 'ko',
-     '사람의 진정한 척도는 편안하고 순조로울 때 어디에 서 있느냐가 아니라, 도전과 논란의 때에 어디에 서 있느냐다.');
+     '사람의 진정한 척도는 편안하고 순조로울 때 어디에 서 있느냐가 아니라, 도전과 논란의 때에 어디에 서 있느냐다.'),
+    ('Darkness cannot drive out darkness; only light can do that.', 'ko',
+     '어둠은 어둠을 몰아낼 수 없다. 오직 빛만이 그것을 할 수 있다.');
