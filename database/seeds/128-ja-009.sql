@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Everything that is done in the world is done by hope.', 'ja',
      'この世で成し遂げられることはすべて、希望によって成し遂げられる。'),
     ('Hope is being able to see that there is light despite all of the darkness.', 'ja',
-     '希望とは、どんな暗闇の中にも光があると見えることだ。');
+     '希望とは、どんな暗闇の中にも光があると見えることだ。'),
+    ('We must accept finite disappointment, but never lose infinite hope.', 'ja',
+     '有限の失望は受け入れなければならない。だが、無限の希望を決して失ってはならない。');
