@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When you arise in the morning, think of what a precious privilege it is to be alive.', 'ja',
      '朝起きたら、生きているということがどれほど尊い特権であるかを思いなさい。'),
     ('It is not that we have a short time to live, but that we waste a lot of it.', 'ja',
-     '私たちの生きる時間が短いのではない。私たちがその多くを浪費しているのだ。');
+     '私たちの生きる時間が短いのではない。私たちがその多くを浪費しているのだ。'),
+    ('While we wait for life, life passes.', 'ja',
+     '人生を待っている間に、人生は過ぎ去っていく。');
