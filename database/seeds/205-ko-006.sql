@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Good people are good because they''ve come to wisdom through failure.', 'ko',
      '좋은 사람이 좋은 이유는 실패를 통해 지혜에 이르렀기 때문이다.'),
     ('The greatest mistake you can make in life is to be continually fearing you will make one.', 'ko',
-     '인생에서 저지를 수 있는 가장 큰 실수는 실수할까 봐 끊임없이 두려워하는 것이다.');
+     '인생에서 저지를 수 있는 가장 큰 실수는 실수할까 봐 끊임없이 두려워하는 것이다.'),
+    ('If you''re not prepared to be wrong, you''ll never come up with anything original.', 'ko',
+     '틀릴 각오가 없다면 독창적인 것은 결코 만들어 낼 수 없다.');
