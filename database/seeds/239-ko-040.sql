@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are never given a wish without also being given the power to make it come true.', 'ko',
      '소원이 주어질 때는 반드시 그것을 이룰 힘도 함께 주어진다.'),
     ('The unexamined life is not worth living.', 'ko',
-     '성찰하지 않는 삶은 살 가치가 없다.');
+     '성찰하지 않는 삶은 살 가치가 없다.'),
+    ('The only true wisdom is in knowing you know nothing.', 'ko',
+     '유일한 참된 지혜는 자신이 아무것도 모른다는 것을 아는 것이다.');
