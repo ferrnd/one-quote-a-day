@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do the difficult things while they are easy and do the great things while they are small.', 'zh-CN',
      '图难于其易，为大于其细。'),
     ('Well begun is half done.', 'zh-CN',
-     '好的开始是成功的一半。');
+     '好的开始是成功的一半。'),
+    ('If you spend too much time thinking about a thing, you''ll never get it done.', 'zh-CN',
+     '如果你在一件事上想得太久，你就永远做不成它。');
