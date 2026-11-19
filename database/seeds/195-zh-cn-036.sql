@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Self-discipline begins with the mastery of your thoughts.', 'zh-CN',
      '自律始于掌控自己的思想。'),
     ('Dost thou love life? Then do not squander time, for that is the stuff life is made of.', 'zh-CN',
-     '你热爱生命吗？那就别浪费时间，因为时间是构成生命的材料。');
+     '你热爱生命吗？那就别浪费时间，因为时间是构成生命的材料。'),
+    ('I don''t stop when I''m tired. I stop when I''m done.', 'zh-CN',
+     '我不是累了才停下，而是做完了才停下。');
