@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Becoming is better than being.', 'ja',
      '完成していることより、成長していくことのほうがいい。'),
     ('Not everything that is faced can be changed, but nothing can be changed until it is faced.', 'ja',
-     '向き合ったものすべてが変えられるわけではない。だが、向き合わないかぎり何一つ変えられない。');
+     '向き合ったものすべてが変えられるわけではない。だが、向き合わないかぎり何一つ変えられない。'),
+    ('Your present circumstances don''t determine where you can go; they merely determine where you start.', 'ja',
+     '今の境遇は、あなたがどこまで行けるかを決めるのではない。どこから始めるかを決めるだけだ。');
