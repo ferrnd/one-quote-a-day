@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is found in unlikely places.', 'zh-CN',
      '勇气往往出现在意想不到的地方。'),
     ('Even the smallest person can change the course of the future.', 'zh-CN',
-     '即使是最渺小的人，也能改变未来的方向。');
+     '即使是最渺小的人，也能改变未来的方向。'),
+    ('All we have to decide is what to do with the time that is given us.', 'zh-CN',
+     '我们唯一要决定的，是如何利用被赋予的时间。');
