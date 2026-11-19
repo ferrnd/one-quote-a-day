@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If there is no struggle, there is no progress.', 'zh-CN',
      '没有斗争，就没有进步。'),
     ('Be the heroine of your life, not the victim.', 'zh-CN',
-     '做你人生的女主角，而不是受害者。');
+     '做你人生的女主角，而不是受害者。'),
+    ('Stand up straight and realize who you are, that you tower over your circumstances.', 'zh-CN',
+     '挺直身子，认清你是谁，你远比你的处境更高大。');
