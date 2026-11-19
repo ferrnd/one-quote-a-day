@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The oak sleeps in the acorn.', 'ja',
      '樫の木は、どんぐりの中で眠っている。'),
     ('With the new day comes new strength and new thoughts.', 'ja',
-     '新しい日とともに、新しい力と新しい考えがやってくる。');
+     '新しい日とともに、新しい力と新しい考えがやってくる。'),
+    ('Our strength grows out of our weaknesses.', 'ja',
+     '私たちの強さは、私たちの弱さから育つ。');
