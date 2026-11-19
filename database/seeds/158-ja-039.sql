@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('All that we see or seem is but a dream within a dream.', 'ja',
      '私たちが見るもの、私たちに見えるものはすべて、夢の中の夢にすぎない。'),
     ('Don''t give up on your dreams, or your dreams will give up on you.', 'ja',
-     '夢をあきらめてはいけない。さもないと、夢があなたをあきらめてしまう。');
+     '夢をあきらめてはいけない。さもないと、夢があなたをあきらめてしまう。'),
+    ('There is nothing like a dream to create the future.', 'ja',
+     '未来を創り出すのに、夢に勝るものはない。');
