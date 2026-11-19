@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Exploration is really the essence of the human spirit.', 'zh-CN',
      '探索才是人类精神的真正本质。'),
     ('Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.', 'zh-CN',
-     '胜兵先胜而后求战，败兵先战而后求胜。');
+     '胜兵先胜而后求战，败兵先战而后求胜。'),
+    ('All our dreams can come true, if we have the courage to pursue them.', 'zh-CN',
+     '只要我们有勇气去追求，所有的梦想都能成真。');
