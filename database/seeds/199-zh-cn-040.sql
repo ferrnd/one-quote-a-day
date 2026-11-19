@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only true wisdom is in knowing you know nothing.', 'zh-CN',
      '唯一真正的智慧，是知道自己一无所知。'),
     ('Be kind, for everyone you meet is fighting a hard battle.', 'zh-CN',
-     '待人友善，因为你遇到的每个人都在打一场艰难的仗。');
+     '待人友善，因为你遇到的每个人都在打一场艰难的仗。'),
+    ('No act of kindness, no matter how small, is ever wasted.', 'zh-CN',
+     '任何善举，无论多么微小，都不会白费。');
