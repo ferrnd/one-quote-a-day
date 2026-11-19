@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Once you face your fear, nothing is ever as hard as you think.', 'ja',
      'ひとたび恐れに向き合えば、どんなことも思っているほど難しくはない。'),
     ('When life knocks you down, try to land on your back. Because if you can look up, you can get up.', 'ja',
-     '人生に倒されたら、仰向けに倒れるようにしなさい。見上げることができれば、起き上がることができるのだから。');
+     '人生に倒されたら、仰向けに倒れるようにしなさい。見上げることができれば、起き上がることができるのだから。'),
+    ('Out of every crisis comes the chance to be reborn.', 'ja',
+     'あらゆる危機から、生まれ変わるチャンスが生まれる。');
