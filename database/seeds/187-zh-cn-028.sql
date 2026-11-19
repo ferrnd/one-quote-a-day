@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('And, when you want something, all the universe conspires in helping you to achieve it.', 'zh-CN',
      '当你真心渴望某样东西时，整个宇宙都会联合起来帮助你完成。'),
     ('Dream as if you''ll live forever. Live as if you''ll die today.', 'zh-CN',
-     '梦想时就像你会永远活着，生活时就像你今天就会死去。');
+     '梦想时就像你会永远活着，生活时就像你今天就会死去。'),
+    ('The biggest adventure you can take is to live the life of your dreams.', 'zh-CN',
+     '你能进行的最大冒险，就是过上你梦想的生活。');
