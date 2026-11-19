@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Excellence is to do a common thing in an uncommon way.', 'ja',
      '卓越とは、ありふれたことを、ありふれない方法で行うことだ。'),
     ('What you think of yourself is much more important than what others think of you.', 'ja',
-     '他人があなたをどう思うかよりも、あなたが自分をどう思うかのほうがはるかに大切だ。');
+     '他人があなたをどう思うかよりも、あなたが自分をどう思うかのほうがはるかに大切だ。'),
+    ('A man is but the product of his thoughts. What he thinks, he becomes.', 'ja',
+     '人は思考の産物にすぎない。人は思ったとおりの人間になる。');
