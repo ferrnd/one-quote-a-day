@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard work without talent is a shame, but talent without hard work is a tragedy.', 'ko',
      '재능 없는 노력은 안타까운 일이지만, 노력 없는 재능은 비극이다.'),
     ('It ain''t over till it''s over.', 'ko',
-     '끝날 때까지 끝난 게 아니다.');
+     '끝날 때까지 끝난 게 아니다.'),
+    ('We will either find a way, or make one.', 'ko',
+     '우리는 길을 찾거나, 아니면 길을 만들 것이다.');
