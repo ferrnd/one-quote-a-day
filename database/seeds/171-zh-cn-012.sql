@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Our strength grows out of our weaknesses.', 'zh-CN',
      '我们的力量源于我们的弱点。'),
     ('Fortitude is the guard and support of the other virtues.', 'zh-CN',
-     '坚忍是其他美德的守卫和支柱。');
+     '坚忍是其他美德的守卫和支柱。'),
+    ('I am no bird; and no net ensnares me: I am a free human being with an independent will.', 'zh-CN',
+     '我不是鸟，也没有罗网能困住我：我是一个拥有独立意志的自由人。');
