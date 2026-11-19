@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What makes the desert beautiful is that somewhere it hides a well.', 'ko',
      '사막이 아름다운 건 어딘가에 우물을 숨기고 있기 때문이야.'),
     ('The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.', 'ko',
-     '비관론자는 모든 기회에서 어려움을 보고, 낙관론자는 모든 어려움에서 기회를 본다.');
+     '비관론자는 모든 기회에서 어려움을 보고, 낙관론자는 모든 어려움에서 기회를 본다.'),
+    ('Challenges are what make life interesting and overcoming them is what makes life meaningful.', 'ko',
+     '도전은 삶을 흥미롭게 하고, 그것을 극복하는 것은 삶을 의미 있게 한다.');
