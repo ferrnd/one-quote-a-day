@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no substitute for hard work.', 'zh-CN',
      '努力是无可替代的。'),
     ('The difference between try and triumph is just a little umph!', 'zh-CN',
-     '“尝试”与“胜利”之间的区别，只在于多一点点“劲儿”！');
+     '“尝试”与“胜利”之间的区别，只在于多一点点“劲儿”！'),
+    ('Perseverance is failing nineteen times and succeeding the twentieth.', 'zh-CN',
+     '坚持就是失败十九次，第二十次成功。');
