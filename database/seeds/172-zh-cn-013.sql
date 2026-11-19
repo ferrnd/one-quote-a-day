@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('With self-discipline most anything is possible.', 'zh-CN',
      '有了自律，几乎任何事都有可能。'),
     ('The successful warrior is the average man, with laser-like focus.', 'zh-CN',
-     '成功的战士就是一个拥有激光般专注力的普通人。');
+     '成功的战士就是一个拥有激光般专注力的普通人。'),
+    ('I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.', 'zh-CN',
+     '我不怕练过一万种踢法的人，我怕的是把一种踢法练了一万次的人。');
