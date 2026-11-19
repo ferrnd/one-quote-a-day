@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If not now, when?', 'ko',
      '지금이 아니면 언제인가?'),
     ('To begin, begin.', 'ko',
-     '시작하려면, 시작하라.');
+     '시작하려면, 시작하라.'),
+    ('Pursue what catches your heart, not what catches your eyes.', 'ko',
+     '눈을 사로잡는 것이 아니라 마음을 사로잡는 것을 좇아라.');
