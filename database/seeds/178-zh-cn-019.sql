@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Difficulties are things that show a person what they are.', 'zh-CN',
      '困难让一个人看清自己是什么样的人。'),
     ('No tree becomes rooted and sturdy unless many a wind assails it.', 'zh-CN',
-     '没有经受过许多风吹的树，不会根深叶茂、坚实挺拔。');
+     '没有经受过许多风吹的树，不会根深叶茂、坚实挺拔。'),
+    ('It is a rough road that leads to the heights of greatness.', 'zh-CN',
+     '通往伟大之巅的，是一条崎岖的路。');
