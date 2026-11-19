@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no coming to consciousness without pain.', 'zh-CN',
      '没有痛苦，就不会有意识的觉醒。'),
     ('It''s what you learn after you know it all that counts.', 'zh-CN',
-     '重要的是你在自以为无所不知之后学到的东西。');
+     '重要的是你在自以为无所不知之后学到的东西。'),
+    ('Our business in life is not to get ahead of others, but to get ahead of ourselves.', 'zh-CN',
+     '我们在生活中的任务不是超越别人，而是超越自己。');
