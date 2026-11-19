@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Determine never to be idle.', 'zh-CN',
      '下定决心，永不懈怠。'),
     ('A dream doesn''t become reality through magic; it takes sweat, determination and hard work.', 'zh-CN',
-     '梦想不会靠魔法变成现实，它需要汗水、决心和辛勤的努力。');
+     '梦想不会靠魔法变成现实，它需要汗水、决心和辛勤的努力。'),
+    ('There are no secrets to success. It is the result of preparation, hard work, and learning from failure.', 'zh-CN',
+     '成功没有秘诀。它是准备、努力和从失败中学习的结果。');
