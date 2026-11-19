@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are going to doubt something, doubt your limits.', 'ja',
      '何かを疑うなら、自分の限界を疑え。'),
     ('There is no substitute for hard work.', 'ja',
-     '努力に代わるものはない。');
+     '努力に代わるものはない。'),
+    ('The difference between try and triumph is just a little umph!', 'ja',
+     '「挑戦（トライ）」と「勝利（トライアンフ）」の違いは、ほんの少しの「気合い」だけだ。');
