@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success isn''t about how much money you make; it''s about the difference you make in people''s lives.', 'ko',
      '성공은 얼마나 많은 돈을 버느냐가 아니라, 사람들의 삶에 얼마나 많은 변화를 가져오느냐에 관한 것이다.'),
     ('There is no greater agony than bearing an untold story inside you.', 'ko',
-     '말하지 못한 이야기를 가슴속에 품고 사는 것보다 더 큰 고통은 없다.');
+     '말하지 못한 이야기를 가슴속에 품고 사는 것보다 더 큰 고통은 없다.'),
+    ('We realize the importance of our voices only when we are silenced.', 'ko',
+     '우리는 침묵을 강요당할 때에야 비로소 우리 목소리의 소중함을 깨닫는다.');
