@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hardships often prepare ordinary people for an extraordinary destiny.', 'ko',
      '고난은 종종 평범한 사람을 비범한 운명에 대비시킨다.'),
     ('Our wounds are often the openings into the best and most beautiful part of us.', 'ko',
-     '우리의 상처는 종종 우리 안의 가장 선하고 아름다운 부분으로 들어가는 입구가 된다.');
+     '우리의 상처는 종종 우리 안의 가장 선하고 아름다운 부분으로 들어가는 입구가 된다.'),
+    ('Resilience is accepting your new reality, even if it''s less good than the one you had before.', 'ko',
+     '회복력이란 새로운 현실을 받아들이는 것이다. 비록 그것이 이전만큼 좋지 않더라도.');
