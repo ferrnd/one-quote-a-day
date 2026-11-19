@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You''re off to great places! Today is your day! Your mountain is waiting, so get on your way!', 'zh-CN',
      '你要去很棒的地方了！今天是你的日子！你的高山在等着你，快出发吧！'),
     ('You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.', 'zh-CN',
-     '你的脑袋里有头脑，你的鞋子里有双脚。你可以把自己引向任何你选择的方向。');
+     '你的脑袋里有头脑，你的鞋子里有双脚。你可以把自己引向任何你选择的方向。'),
+    ('Unless someone like you cares a whole awful lot, nothing is going to get better. It''s not.', 'zh-CN',
+     '除非有像你这样的人真心实意地在乎，否则什么都不会变好。不会的。');
