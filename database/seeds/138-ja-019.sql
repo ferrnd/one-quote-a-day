@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Now is no time to think of what you do not have. Think of what you can do with what there is.', 'ja',
      '今は持っていないもののことを考えるときではない。今あるもので何ができるかを考えるときだ。'),
     ('The obstacle is the path.', 'ja',
-     '障害こそが道である。');
+     '障害こそが道である。'),
+    ('The journey of a thousand miles begins with one step.', 'ja',
+     '千里の道も一歩から。');
