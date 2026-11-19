@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you fell down yesterday, stand up today.', 'ja',
      '昨日転んだのなら、今日立ち上がればいい。'),
     ('I will persist until I succeed.', 'ja',
-     '私は成功するまでやり続ける。');
+     '私は成功するまでやり続ける。'),
+    ('One may walk over the highest mountain one step at a time.', 'ja',
+     'どんなに高い山でも、一歩ずつなら越えていける。');
