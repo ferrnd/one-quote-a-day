@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Do not wait; the time will never be just right.', 'ko',
      '기다리지 마라. 딱 맞는 때는 결코 오지 않는다.'),
     ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'ko',
-     '아는 것만으로는 부족하다. 적용해야 한다. 원하는 것만으로는 부족하다. 행해야 한다.');
+     '아는 것만으로는 부족하다. 적용해야 한다. 원하는 것만으로는 부족하다. 행해야 한다.'),
+    ('Action may not always bring happiness; but there is no happiness without action.', 'ko',
+     '행동이 언제나 행복을 가져다주는 것은 아니지만, 행동 없는 행복은 없다.');
