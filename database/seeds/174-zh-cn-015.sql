@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Make each day your masterpiece.', 'zh-CN',
      '让每一天都成为你的杰作。'),
     ('Be quick, but don''t hurry.', 'zh-CN',
-     '要快，但不要慌。');
+     '要快，但不要慌。'),
+    ('Be not afraid of growing slowly, be afraid only of standing still.', 'zh-CN',
+     '不怕慢，只怕站。');
