@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Turn your face to the sun and the shadows fall behind you.', 'ko',
      '얼굴을 해 쪽으로 돌려라. 그러면 그림자는 뒤로 진다.'),
     ('A man of character finds a special attractiveness in difficulty.', 'ko',
-     '기개 있는 사람은 어려움 속에서 특별한 매력을 발견한다.');
+     '기개 있는 사람은 어려움 속에서 특별한 매력을 발견한다.'),
+    ('Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.', 'ko',
+     '어려움은 사람을 낙담시키려는 것이 아니라 일깨우려는 것이다. 인간의 정신은 갈등을 통해 강해지게 되어 있다.');
