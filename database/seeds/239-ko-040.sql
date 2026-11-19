@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dwell on the beauty of life. Watch the stars, and see yourself running with them.', 'ko',
      '삶의 아름다움을 생각하라. 별들을 바라보고, 그들과 함께 달리는 자신을 그려 보라.'),
     ('When you arise in the morning, think of what a precious privilege it is to be alive.', 'ko',
-     '아침에 일어나면 살아 있다는 것이 얼마나 귀한 특권인지 생각하라.');
+     '아침에 일어나면 살아 있다는 것이 얼마나 귀한 특권인지 생각하라.'),
+    ('It is not that we have a short time to live, but that we waste a lot of it.', 'ko',
+     '우리에게 주어진 시간이 짧은 것이 아니라, 우리가 그중 많은 부분을 낭비하는 것이다.');
