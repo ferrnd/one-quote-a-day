@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('They always say time changes things, but you actually have to change them yourself.', 'ko',
      '사람들은 늘 시간이 모든 것을 바꾼다고 말하지만, 실제로는 스스로 바꿔야 한다.'),
     ('Progress is impossible without change, and those who cannot change their minds cannot change anything.', 'ko',
-     '변화 없이는 진보도 불가능하다. 자기 생각을 바꾸지 못하는 사람은 아무것도 바꿀 수 없다.');
+     '변화 없이는 진보도 불가능하다. 자기 생각을 바꾸지 못하는 사람은 아무것도 바꿀 수 없다.'),
+    ('Change is the law of life. And those who look only to the past or present are certain to miss the future.', 'ko',
+     '변화는 삶의 법칙이다. 과거나 현재만 바라보는 사람은 반드시 미래를 놓친다.');
