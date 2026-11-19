@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Long is the way and hard, that out of hell leads up to light.', 'zh-CN',
      '从地狱通往光明的道路，漫长而艰难。'),
     ('Accept challenges so that you may feel the exhilaration of victory.', 'zh-CN',
-     '接受挑战，你才能感受到胜利的喜悦。');
+     '接受挑战，你才能感受到胜利的喜悦。'),
+    ('When it is obvious that the goals cannot be reached, don''t adjust the goals, adjust the action steps.', 'zh-CN',
+     '当目标显然无法达到时，不要调整目标，而要调整行动的步骤。');
