@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail.', 'ko',
      '나는 길이 이끄는 곳으로 가지 않겠다. 길이 없는 곳으로 가서 발자취를 남기겠다.'),
     ('Becoming is better than being.', 'ko',
-     '되어 가는 것이 이미 되어 있는 것보다 낫다.');
+     '되어 가는 것이 이미 되어 있는 것보다 낫다.'),
+    ('Not everything that is faced can be changed, but nothing can be changed until it is faced.', 'ko',
+     '마주한 모든 것을 바꿀 수는 없지만, 마주하지 않으면 아무것도 바꿀 수 없다.');
