@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Although no one can go back and make a brand new start, anyone can start from now and make a brand new ending.', 'zh-CN',
      '虽然没有人能回到过去重新开始，但任何人都可以从现在开始，创造一个全新的结局。'),
     ('I''ve been absolutely terrified every moment of my life and I''ve never let it keep me from doing a single thing I wanted to do.', 'zh-CN',
-     '我一生中的每一刻都极度恐惧，但我从未让它阻止我做任何一件想做的事。');
+     '我一生中的每一刻都极度恐惧，但我从未让它阻止我做任何一件想做的事。'),
+    ('Sorrow is how we learn to love. Your heart isn''t breaking. It hurts because it''s getting larger.', 'zh-CN',
+     '悲伤是我们学会爱的方式。你的心不是在破碎，它疼，是因为它在变大。');
