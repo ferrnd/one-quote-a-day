@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Perseverance, secret of all triumphs.', 'ko',
      '끈기, 모든 승리의 비결.'),
     ('The road to success is dotted with many tempting parking spaces.', 'ko',
-     '성공으로 가는 길에는 유혹적인 주차 공간이 곳곳에 있다.');
+     '성공으로 가는 길에는 유혹적인 주차 공간이 곳곳에 있다.'),
+    ('If you fell down yesterday, stand up today.', 'ko',
+     '어제 넘어졌다면, 오늘 일어서라.');
