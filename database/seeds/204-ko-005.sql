@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''ve failed over and over and over again in my life. And that is why I succeed.', 'ko',
      '나는 살면서 실패하고 또 실패했다. 그것이 내가 성공하는 이유다.'),
     ('Only those who dare to fail greatly can ever achieve greatly.', 'ko',
-     '크게 실패할 용기가 있는 사람만이 크게 이룰 수 있다.');
+     '크게 실패할 용기가 있는 사람만이 크게 이룰 수 있다.'),
+    ('Failure is the condiment that gives success its flavor.', 'ko',
+     '실패는 성공에 맛을 더해 주는 양념이다.');
