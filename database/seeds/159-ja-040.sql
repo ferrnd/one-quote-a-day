@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Wherever there is a human being, there is an opportunity for a kindness.', 'ja',
      '人間がいるところには、どこにでも親切の機会がある。'),
     ('He suffers more than necessary, who suffers before it is necessary.', 'ja',
-     '必要になる前に苦しむ者は、必要以上に苦しむ。');
+     '必要になる前に苦しむ者は、必要以上に苦しむ。'),
+    ('Ignorance is the cause of fear.', 'ja',
+     '無知こそが、恐れの原因である。');
