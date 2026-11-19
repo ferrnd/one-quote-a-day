@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You don''t have to be great to start, but you have to start to be great.', 'zh-CN',
      '你不必很厉害才能开始，但你必须开始才能变得很厉害。'),
     ('The way to get started is to quit talking and begin doing.', 'zh-CN',
-     '开始的方法，就是停止空谈，动手去做。');
+     '开始的方法，就是停止空谈，动手去做。'),
+    ('Do not wait; the time will never be just right.', 'zh-CN',
+     '不要等待，时机永远不会恰到好处。');
