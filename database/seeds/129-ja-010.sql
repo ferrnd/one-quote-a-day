@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let your hopes, not your hurts, shape your future.', 'ja',
      'あなたの未来を形づくるのは、傷ではなく希望であってほしい。'),
     ('Hope is a renewable option: if you run out of it at the end of the day, you get to start over in the morning.', 'ja',
-     '希望は何度でも新しくできる選択肢だ。一日の終わりに使い果たしても、朝になればまた始められる。');
+     '希望は何度でも新しくできる選択肢だ。一日の終わりに使い果たしても、朝になればまた始められる。'),
+    ('What oxygen is to the lungs, such is hope to the meaning of life.', 'ja',
+     '肺にとっての酸素と同じものが、人生の意味にとっての希望である。');
