@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Slow and steady wins the race.', 'zh-CN',
      '慢而稳者赢得比赛。'),
     ('With time and patience the mulberry leaf becomes a silk gown.', 'zh-CN',
-     '有了时间和耐心，桑叶也能变成丝绸长袍。');
+     '有了时间和耐心，桑叶也能变成丝绸长袍。'),
+    ('Patience attracts happiness; it brings near that which is far.', 'zh-CN',
+     '耐心招来幸福，它让远方的东西靠近。');
