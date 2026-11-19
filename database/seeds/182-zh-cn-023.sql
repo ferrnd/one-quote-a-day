@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Optimism is the one quality more associated with success and happiness than any other.', 'zh-CN',
      '乐观是与成功和幸福联系最紧密的品质。'),
     ('Believe in yourself! Have faith in your abilities!', 'zh-CN',
-     '相信你自己！对你的能力要有信心！');
+     '相信你自己！对你的能力要有信心！'),
+    ('You must expect great things of yourself before you can do them.', 'zh-CN',
+     '在你能做成伟大的事之前，你必须先对自己抱有伟大的期望。');
