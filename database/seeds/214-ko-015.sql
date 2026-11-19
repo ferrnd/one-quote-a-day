@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('First we make our habits, then our habits make us.', 'ko',
      '처음에는 우리가 습관을 만들고, 그다음에는 습관이 우리를 만든다.'),
     ('It is the start that stops most people.', 'ko',
-     '대부분의 사람을 멈추게 하는 것은 바로 시작이다.');
+     '대부분의 사람을 멈추게 하는 것은 바로 시작이다.'),
+    ('Practice isn''t the thing you do once you''re good. It''s the thing you do that makes you good.', 'ko',
+     '연습은 잘하게 된 다음에 하는 것이 아니라, 잘하게 만들어 주는 것이다.');
