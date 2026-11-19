@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.', 'ja',
      '太陽が輝いていれば、私は何でもできる。高すぎる山も、乗り越えられない困難もない。'),
     ('Never doubt that a small group of thoughtful, committed citizens can change the world.', 'ja',
-     '思慮深く献身的な少数の市民が世界を変えられることを、決して疑ってはならない。');
+     '思慮深く献身的な少数の市民が世界を変えられることを、決して疑ってはならない。'),
+    ('Keep your face to the sunshine and you cannot see a shadow.', 'ja',
+     '顔をいつも太陽のほうに向けていれば、影を見ることはない。');
