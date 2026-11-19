@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Motivation is what gets you started. Habit is what keeps you going.', 'ko',
      '동기는 시작하게 만들고, 습관은 계속하게 만든다.'),
     ('Success is nothing more than a few simple disciplines, practiced every day.', 'ko',
-     '성공이란 매일 실천하는 몇 가지 간단한 규율에 지나지 않는다.');
+     '성공이란 매일 실천하는 몇 가지 간단한 규율에 지나지 않는다.'),
+    ('Don''t wish it were easier, wish you were better.', 'ko',
+     '일이 더 쉬워지기를 바라지 말고, 당신이 더 나아지기를 바라라.');
