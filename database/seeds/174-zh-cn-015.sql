@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life is like riding a bicycle. To keep your balance you must keep moving.', 'zh-CN',
      '人生就像骑自行车，要保持平衡，就必须不断前进。'),
     ('They always say time changes things, but you actually have to change them yourself.', 'zh-CN',
-     '人们总说时间会改变一切，但实际上你得自己去改变。');
+     '人们总说时间会改变一切，但实际上你得自己去改变。'),
+    ('Progress is impossible without change, and those who cannot change their minds cannot change anything.', 'zh-CN',
+     '没有改变就不可能进步，那些无法改变自己想法的人，什么也改变不了。');
