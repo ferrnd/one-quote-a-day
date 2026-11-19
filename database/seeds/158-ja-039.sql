@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The power of imagination makes us infinite.', 'ja',
      '想像力が、私たちを無限にする。'),
     ('You see things; and you say ''Why?'' But I dream things that never were; and I say ''Why not?''', 'ja',
-     'あなたは物事を見て、「なぜ？」と言う。だが私は、かつてなかったものを夢見て、「なぜいけない？」と言うのだ。');
+     'あなたは物事を見て、「なぜ？」と言う。だが私は、かつてなかったものを夢見て、「なぜいけない？」と言うのだ。'),
+    ('Hitch your wagon to a star.', 'ja',
+     'あなたの馬車を、星につなぎなさい。');
