@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is not length of life, but depth of life.', 'ja',
      '大切なのは人生の長さではなく、人生の深さだ。'),
     ('Once you make a decision, the universe conspires to make it happen.', 'ja',
-     'ひとたび決断すれば、宇宙はそれを実現させるために動き出す。');
+     'ひとたび決断すれば、宇宙はそれを実現させるために動き出す。'),
+    ('To be great is to be misunderstood.', 'ja',
+     '偉大であることは、誤解されることだ。');
