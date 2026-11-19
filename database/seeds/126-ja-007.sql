@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('She stood in the storm, and when the wind did not blow her way, she adjusted her sails.', 'ja',
      '彼女は嵐の中に立ち、風が思うように吹かないときは、帆の向きを変えた。'),
     ('Tough times never last, but tough people do.', 'ja',
-     '苦しい時代は長くは続かない。だが、強い人は続いていく。');
+     '苦しい時代は長くは続かない。だが、強い人は続いていく。'),
+    ('Where there is no struggle, there is no strength.', 'ja',
+     '苦闘のないところに、強さはない。');
