@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is a love affair with the unknown.', 'ko',
      '용기란 미지의 것과 나누는 사랑이다.'),
     ('What you''re supposed to do when you don''t like a thing is change it.', 'ko',
-     '무언가가 마음에 들지 않을 때 해야 할 일은 그것을 바꾸는 것이다.');
+     '무언가가 마음에 들지 않을 때 해야 할 일은 그것을 바꾸는 것이다.'),
+    ('Be brave. Take risks. Nothing can substitute experience.', 'ko',
+     '용감해져라. 위험을 감수하라. 무엇도 경험을 대신할 수 없다.');
