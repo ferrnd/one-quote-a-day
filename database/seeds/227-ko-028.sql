@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Keep your dreams alive. Understand to achieve anything requires faith and belief in yourself, vision, hard work, determination, and dedication.', 'ko',
      '꿈을 살려 두어라. 무언가를 이루려면 자신에 대한 믿음, 비전, 노력, 결단, 헌신이 필요하다는 것을 이해하라.'),
     ('If you can imagine it, you can achieve it.', 'ko',
-     '상상할 수 있다면 이룰 수 있다.');
+     '상상할 수 있다면 이룰 수 있다.'),
+    ('The dreamers are the saviors of the world.', 'ko',
+     '꿈꾸는 사람들이 세상의 구원자다.');
