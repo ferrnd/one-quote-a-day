@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grief and resilience live together.', 'zh-CN',
      '悲伤与坚韧同在。'),
     ('It''s not whether you get knocked down; it''s whether you get up.', 'zh-CN',
-     '重要的不是你是否被击倒，而是你是否站起来。');
+     '重要的不是你是否被击倒，而是你是否站起来。'),
+    ('It ain''t about how hard you hit. It''s about how hard you can get hit and keep moving forward.', 'zh-CN',
+     '重要的不是你打得多狠，而是你能承受多狠的打击并继续前进。');
