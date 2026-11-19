@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.', 'ko',
      '낙관주의는 성취로 이끄는 믿음이다. 희망과 자신감 없이는 아무것도 이룰 수 없다.'),
     ('Keep your eyes on the stars, and your feet on the ground.', 'ko',
-     '눈은 별을 향하고, 발은 땅을 딛고 있어라.');
+     '눈은 별을 향하고, 발은 땅을 딛고 있어라.'),
+    ('Hope is a waking dream.', 'ko',
+     '희망은 깨어 있는 꿈이다.');
