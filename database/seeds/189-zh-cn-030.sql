@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.', 'zh-CN',
      '昨天是历史，明天是谜，今天是上天的礼物，所以我们称它为“现在”。'),
     ('If you want to go fast, go alone. If you want to go far, go together.', 'zh-CN',
-     '如果你想走得快，就一个人走；如果你想走得远，就一起走。');
+     '如果你想走得快，就一个人走；如果你想走得远，就一起走。'),
+    ('Be not afraid.', 'zh-CN',
+     '不要害怕。');
