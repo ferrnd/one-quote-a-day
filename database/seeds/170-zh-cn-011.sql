@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Waste no more time arguing about what a good man should be. Be one.', 'zh-CN',
      '不要再浪费时间争论好人应该是什么样子了，去做一个好人。'),
     ('Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.', 'zh-CN',
-     '要像海岬一样，任凭海浪不断拍击，它依然屹立不动，平息周围海水的狂怒。');
+     '要像海岬一样，任凭海浪不断拍击，它依然屹立不动，平息周围海水的狂怒。'),
+    ('Mighty oaks from little acorns grow.', 'zh-CN',
+     '参天的橡树，长自小小的橡子。');
