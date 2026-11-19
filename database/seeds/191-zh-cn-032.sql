@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is doing what you''re afraid to do. There can be no courage unless you''re scared.', 'zh-CN',
      '勇气就是去做你害怕做的事。不害怕，就谈不上勇气。'),
     ('Fortune and love favor the brave.', 'zh-CN',
-     '命运和爱情都眷顾勇者。');
+     '命运和爱情都眷顾勇者。'),
+    ('Expose yourself to your deepest fear; after that, fear has no power.', 'zh-CN',
+     '让自己直面最深的恐惧，之后，恐惧便再无力量。');
