@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Pain is inevitable. Suffering is optional.', 'ko',
      '고통은 피할 수 없지만, 괴로움은 선택이다.'),
     ('Problems are only opportunities in work clothes.', 'ko',
-     '문제란 작업복을 입은 기회일 뿐이다.');
+     '문제란 작업복을 입은 기회일 뿐이다.'),
+    ('Calamity is the test of integrity.', 'ko',
+     '재난은 정직함을 시험한다.');
