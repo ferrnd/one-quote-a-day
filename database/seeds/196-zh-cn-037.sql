@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It is a mistake to look too far ahead. Only one link of the chain of destiny can be handled at a time.', 'zh-CN',
      '看得太远是一种错误。命运之链，一次只能处理一环。'),
     ('Don''t spend time beating on a wall, hoping to transform it into a door.', 'zh-CN',
-     '不要把时间花在敲打一堵墙上，指望它变成一扇门。');
+     '不要把时间花在敲打一堵墙上，指望它变成一扇门。'),
+    ('Begin anywhere.', 'zh-CN',
+     '从任何地方开始都可以。');
