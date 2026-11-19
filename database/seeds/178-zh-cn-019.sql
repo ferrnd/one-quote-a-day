@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Difficult roads often lead to beautiful destinations.', 'zh-CN',
      '艰难的道路往往通向美丽的目的地。'),
     ('In the midst of chaos, there is also opportunity.', 'zh-CN',
-     '乱中亦有机。');
+     '乱中亦有机。'),
+    ('What seems to us as bitter trials are often blessings in disguise.', 'zh-CN',
+     '那些在我们看来是苦涩的考验，往往是伪装起来的祝福。');
