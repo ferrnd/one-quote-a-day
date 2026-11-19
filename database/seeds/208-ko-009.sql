@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is being able to see that there is light despite all of the darkness.', 'ko',
      '희망이란 온갖 어둠 속에서도 빛이 있음을 볼 수 있는 것이다.'),
     ('We must accept finite disappointment, but never lose infinite hope.', 'ko',
-     '우리는 유한한 실망은 받아들여야 하지만, 무한한 희망은 결코 잃어서는 안 된다.');
+     '우리는 유한한 실망은 받아들여야 하지만, 무한한 희망은 결코 잃어서는 안 된다.'),
+    ('Only in the darkness can you see the stars.', 'ko',
+     '어둠 속에서만 별을 볼 수 있다.');
