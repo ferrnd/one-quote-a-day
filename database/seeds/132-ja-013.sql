@@ -4,4 +4,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You must never be fearful about what you are doing when it is right.', 'ja',
      '正しいことをしているときは、決して恐れてはいけない。'),
     ('When they go low, we go high.', 'ja',
-     '相手が低く出るなら、私たちは高く行こう。');
+     '相手が低く出るなら、私たちは高く行こう。'),
+    ('Ability may get you to the top, but it takes character to keep you there.', 'ja',
+     '能力は人を頂点へ導くかもしれないが、そこにとどまるには人格が必要だ。');
