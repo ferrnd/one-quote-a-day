@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.', 'ko',
      '성공한 사람과 다른 사람의 차이는 힘이나 지식이 부족한 데 있지 않고 의지가 부족한 데 있다.'),
     ('Success is the sum of small efforts, repeated day in and day out.', 'ko',
-     '성공은 날마다 되풀이되는 작은 노력들의 합이다.');
+     '성공은 날마다 되풀이되는 작은 노력들의 합이다.'),
+    ('It always seems impossible until it''s done.', 'ko',
+     '무슨 일이든 끝내기 전까지는 늘 불가능해 보인다.');
