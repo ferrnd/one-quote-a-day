@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.', 'zh-CN',
      '心灵自成一方天地，它能把地狱变成天堂，也能把天堂变成地狱。'),
     ('If you realized how powerful your thoughts are, you would never think a negative thought.', 'zh-CN',
-     '如果你意识到你的思想有多么强大，你就永远不会有消极的念头。');
+     '如果你意识到你的思想有多么强大，你就永远不会有消极的念头。'),
+    ('I am the greatest. I said that even before I knew I was.', 'zh-CN',
+     '我是最伟大的。在我知道自己是最伟大的之前，我就这么说了。');
