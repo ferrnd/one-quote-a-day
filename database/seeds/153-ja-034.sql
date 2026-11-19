@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One day, in retrospect, the years of struggle will strike you as the most beautiful.', 'ja',
      'いつの日か振り返ったとき、苦闘した歳月こそが最も美しく思えるだろう。'),
     ('In the end, everything will be okay. If it''s not okay, it''s not yet the end.', 'ja',
-     '最後にはすべてうまくいく。うまくいっていないなら、それはまだ最後ではない。');
+     '最後にはすべてうまくいく。うまくいっていないなら、それはまだ最後ではない。'),
+    ('Hope is the companion of power, and mother of success.', 'ja',
+     '希望は力の伴侶であり、成功の母である。');
