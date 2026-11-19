@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something better tomorrow.', 'zh-CN',
      '没有哪种药比得上希望，没有哪种激励比得上对明天会更好的期待，也没有哪种补药比它更有力。'),
     ('Hope is the pillar that holds up the world.', 'zh-CN',
-     '希望是撑起世界的支柱。');
+     '希望是撑起世界的支柱。'),
+    ('Hope will never be silent.', 'zh-CN',
+     '希望永远不会沉默。');
