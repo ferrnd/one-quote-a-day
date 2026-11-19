@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have learned more from my mistakes than from my successes.', 'ja',
      '私は成功からよりも、失敗から多くを学んできた。'),
     ('It''s failure that gives you the proper perspective on success.', 'ja',
-     '成功を正しく見る目を与えてくれるのは、失敗だ。');
+     '成功を正しく見る目を与えてくれるのは、失敗だ。'),
+    ('Success is how high you bounce when you hit bottom.', 'ja',
+     '成功とは、どん底に落ちたときにどれだけ高く跳ね返るかである。');
