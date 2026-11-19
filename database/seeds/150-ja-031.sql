@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Grief can be the garden of compassion.', 'ja',
      '悲しみは、思いやりの庭になりうる。'),
     ('Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it.', 'ja',
-     '進み続けなさい。そうすれば、思いもよらないときに、きっと何かに出会うだろう。');
+     '進み続けなさい。そうすれば、思いもよらないときに、きっと何かに出会うだろう。'),
+    ('Hard work without talent is a shame, but talent without hard work is a tragedy.', 'ja',
+     '才能のない努力は残念なことだが、努力のない才能は悲劇である。');
