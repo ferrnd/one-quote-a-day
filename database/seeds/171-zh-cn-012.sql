@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Of all the virtues we can learn, no trait is more useful, more essential for survival, and more likely to improve the quality of life than the ability to transform adversity into an enjoyable challenge.', 'zh-CN',
      '在我们能学到的所有美德中，没有哪种品质比把逆境转化为愉快挑战的能力更有用、更关乎生存、更能提升生活的质量。'),
     ('If there is no struggle, there is no progress.', 'zh-CN',
-     '没有斗争，就没有进步。');
+     '没有斗争，就没有进步。'),
+    ('Be the heroine of your life, not the victim.', 'zh-CN',
+     '做你人生的女主角，而不是受害者。');
