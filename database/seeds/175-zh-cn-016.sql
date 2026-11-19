@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail.', 'zh-CN',
      '我不会沿着路径走向它通往的地方，我要去没有路的地方，并留下一条足迹。'),
     ('Becoming is better than being.', 'zh-CN',
-     '成为，胜过存在。');
+     '成为，胜过存在。'),
+    ('Not everything that is faced can be changed, but nothing can be changed until it is faced.', 'zh-CN',
+     '并非所有面对的事情都能改变，但不去面对，就什么也改变不了。');
