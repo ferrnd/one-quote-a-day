@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The brave man is not he who does not feel afraid, but he who conquers that fear.', 'ko',
      '용감한 사람이란 두려움을 느끼지 않는 사람이 아니라 그 두려움을 이겨내는 사람이다.'),
     ('Have the courage to follow your heart and intuition.', 'ko',
-     '당신의 마음과 직관을 따를 용기를 가져라.');
+     '당신의 마음과 직관을 따를 용기를 가져라.'),
+    ('Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.', 'ko',
+     '누군가에게 깊이 사랑받으면 힘이 생기고, 누군가를 깊이 사랑하면 용기가 생긴다.');
