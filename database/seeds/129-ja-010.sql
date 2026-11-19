@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come.', 'ja',
      '希望は暗闇の中で始まる。その場に現れて正しいことをしようとし続ければ、夜明けは来るという、頑固な希望が。'),
     ('Let your hopes, not your hurts, shape your future.', 'ja',
-     'あなたの未来を形づくるのは、傷ではなく希望であってほしい。');
+     'あなたの未来を形づくるのは、傷ではなく希望であってほしい。'),
+    ('Hope is a renewable option: if you run out of it at the end of the day, you get to start over in the morning.', 'ja',
+     '希望は何度でも新しくできる選択肢だ。一日の終わりに使い果たしても、朝になればまた始められる。');
