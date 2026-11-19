@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We will grieve not, rather find strength in what remains behind.', 'ja',
      '嘆くまい。むしろ、後に残されたものの中に力を見いだそう。'),
     ('Be like the bird who, halting in his flight on limb too slight, feels it give way beneath him, yet sings, knowing he hath wings.', 'ja',
-     '細すぎる枝に羽を休め、足もとがしなうのを感じても、自分に翼があると知って歌う鳥のようであれ。');
+     '細すぎる枝に羽を休め、足もとがしなうのを感じても、自分に翼があると知って歌う鳥のようであれ。'),
+    ('While I breathe, I hope.', 'ja',
+     '息をしているかぎり、私は希望を持つ。');
