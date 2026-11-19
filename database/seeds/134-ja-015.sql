@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We know what we are, but know not what we may be.', 'ja',
      '我々は自分が何者であるかを知っている。だが、何者になりうるかは知らない。'),
     ('Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.', 'ja',
-     '疑いは裏切り者だ。挑戦を恐れさせ、手に入れられたはずの善きものを失わせる。');
+     '疑いは裏切り者だ。挑戦を恐れさせ、手に入れられたはずの善きものを失わせる。'),
+    ('If we did all the things we are capable of, we would literally astound ourselves.', 'ja',
+     'もし自分にできることをすべてやったら、私たちは文字どおり自分自身に驚くだろう。');
