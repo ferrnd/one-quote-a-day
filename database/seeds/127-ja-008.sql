@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('What does not kill me makes me stronger.', 'ja',
      '私を殺さないものは、私をより強くする。'),
     ('He who has a why to live can bear almost any how.', 'ja',
-     '生きる理由を持つ者は、ほとんどどんな生き方にも耐えられる。');
+     '生きる理由を持つ者は、ほとんどどんな生き方にも耐えられる。'),
+    ('When we are no longer able to change a situation, we are challenged to change ourselves.', 'ja',
+     '状況を変えることができなくなったとき、私たちは自分自身を変えるよう求められている。');
