@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The struggle itself toward the heights is enough to fill a man''s heart. One must imagine Sisyphus happy.', 'ko',
      '정상을 향한 투쟁 그 자체만으로도 인간의 마음을 채우기에 충분하다. 우리는 행복한 시시포스를 상상해야 한다.'),
     ('Sometimes adversity is what you need to face in order to become successful.', 'ko',
-     '때로는 성공하기 위해 역경과 마주해야 한다.');
+     '때로는 성공하기 위해 역경과 마주해야 한다.'),
+    ('Hard times don''t create heroes. It is during the hard times when the hero within us is revealed.', 'ko',
+     '힘든 시기가 영웅을 만드는 것이 아니다. 힘든 시기에 우리 안의 영웅이 드러나는 것이다.');
