@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Fall seven times, stand up eight.', 'zh-CN',
      '跌倒七次，第八次站起来。'),
     ('Our greatest glory is not in never falling, but in rising every time we fall.', 'zh-CN',
-     '我们最大的荣耀不在于从不跌倒，而在于每次跌倒后都能重新站起来。');
+     '我们最大的荣耀不在于从不跌倒，而在于每次跌倒后都能重新站起来。'),
+    ('Energy and persistence conquer all things.', 'zh-CN',
+     '精力与坚持，能征服一切。');
