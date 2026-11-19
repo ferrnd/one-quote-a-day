@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Excellence is to do a common thing in an uncommon way.', 'zh-CN',
      '卓越就是用不平凡的方式做平凡的事。'),
     ('What you think of yourself is much more important than what others think of you.', 'zh-CN',
-     '你如何看待自己，远比别人如何看待你重要。');
+     '你如何看待自己，远比别人如何看待你重要。'),
+    ('A man is but the product of his thoughts. What he thinks, he becomes.', 'zh-CN',
+     '人不过是他思想的产物，他想什么，就会成为什么。');
