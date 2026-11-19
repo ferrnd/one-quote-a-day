@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('But man is not made for defeat. A man can be destroyed but not defeated.', 'ko',
      '하지만 인간은 패배하도록 만들어지지 않았다. 인간은 파멸할 수는 있어도 패배하지는 않는다.'),
     ('Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.', 'ko',
-     '인생은 언제나 좋은 패를 쥐는 것이 아니라, 때로는 나쁜 패를 잘 쓰는 것이다.');
+     '인생은 언제나 좋은 패를 쥐는 것이 아니라, 때로는 나쁜 패를 잘 쓰는 것이다.'),
+    ('Hope is the thing with feathers that perches in the soul.', 'ko',
+     '희망은 영혼 위에 내려앉은 깃털 달린 것.');
