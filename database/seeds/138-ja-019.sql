@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Action may not always bring happiness; but there is no happiness without action.', 'ja',
      '行動が常に幸福をもたらすとは限らない。だが、行動なくして幸福はない。'),
     ('Thinking will not overcome fear but action will.', 'ja',
-     '考えても恐怖は克服できない。行動すれば克服できる。');
+     '考えても恐怖は克服できない。行動すれば克服できる。'),
+    ('Someday is not a day of the week.', 'ja',
+     '「いつか」という曜日はない。');
