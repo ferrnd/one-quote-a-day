@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No man is free who is not master of himself.', 'zh-CN',
      '不能主宰自己的人，就不是自由的人。'),
     ('First say to yourself what you would be; and then do what you have to do.', 'zh-CN',
-     '先对自己说你想成为什么样的人，然后去做你必须做的事。');
+     '先对自己说你想成为什么样的人，然后去做你必须做的事。'),
+    ('Self-discipline is the magic power that makes you virtually unstoppable.', 'zh-CN',
+     '自律是一种神奇的力量，能让你几乎势不可挡。');
