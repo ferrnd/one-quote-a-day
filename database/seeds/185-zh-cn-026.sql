@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are better starters than me but I''m a strong finisher.', 'zh-CN',
      '起跑比我好的人有的是，但我是个后程强劲的人。'),
     ('Nothing great was ever achieved without enthusiasm.', 'zh-CN',
-     '没有热情，就不可能成就任何伟大的事业。');
+     '没有热情，就不可能成就任何伟大的事业。'),
+    ('I would rather be ashes than dust!', 'zh-CN',
+     '我宁愿化为灰烬，也不愿成为尘土！');
