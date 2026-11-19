@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The way I see it, if you want the rainbow, you gotta put up with the rain.', 'ja',
      '私に言わせれば、虹が欲しいなら雨を我慢しなきゃ。'),
     ('Life isn''t about waiting for the storm to pass. It''s about learning to dance in the rain.', 'ja',
-     '人生とは嵐が過ぎ去るのを待つことではない。雨の中で踊ることを学ぶことだ。');
+     '人生とは嵐が過ぎ去るのを待つことではない。雨の中で踊ることを学ぶことだ。'),
+    ('Adversity reveals genius, prosperity conceals it.', 'ja',
+     '逆境は才能を明らかにし、順境はそれを隠す。');
