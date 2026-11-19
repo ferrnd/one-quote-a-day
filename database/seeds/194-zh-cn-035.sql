@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The greatest weapon against stress is our ability to choose one thought over another.', 'zh-CN',
      '对抗压力最好的武器，是我们选择这个想法而不是那个想法的能力。'),
     ('Do not wish to be anything but what you are, and try to be that perfectly.', 'zh-CN',
-     '除了你本来的样子，不要希望成为任何别的样子，并努力把它做到完美。');
+     '除了你本来的样子，不要希望成为任何别的样子，并努力把它做到完美。'),
+    ('No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.', 'zh-CN',
+     '除了我们自己，没有人能拯救我们。没有人能，也没有人可以。我们必须自己走这条路。');
