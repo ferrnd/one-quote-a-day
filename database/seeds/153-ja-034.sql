@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Cancer can take away all of my physical abilities. It cannot touch my mind, it cannot touch my heart, and it cannot touch my soul.', 'ja',
      'がんは私の身体の能力をすべて奪うかもしれない。だが、私の心にも、私の魂にも、指一本触れることはできない。'),
     ('Be water, my friend.', 'ja',
-     '水になれ、友よ。');
+     '水になれ、友よ。'),
+    ('Hard days are the best because that''s when champions are made.', 'ja',
+     'つらい日こそ最高の日だ。チャンピオンがつくられるのは、そういう日なのだから。');
