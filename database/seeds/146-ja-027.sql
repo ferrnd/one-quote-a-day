@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves.', 'ja',
      '人生は誰にとっても楽ではない。でも、それが何だというのだろう。私たちには忍耐が必要であり、何よりも自分自身への自信が必要だ。'),
     ('We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.', 'ja',
-     '私たちは、自分に何かの才能が与えられていると信じなければならない。そしてそれを、どんな犠牲を払ってでも成し遂げなければならないと。');
+     '私たちは、自分に何かの才能が与えられていると信じなければならない。そしてそれを、どんな犠牲を払ってでも成し遂げなければならないと。'),
+    ('One never notices what has been done; one can only see what remains to be done.', 'ja',
+     '人は、成し遂げたことには気づかない。まだ成し遂げるべきことしか目に入らないのだ。');
