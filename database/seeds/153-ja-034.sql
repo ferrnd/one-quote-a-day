@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('In the end, everything will be okay. If it''s not okay, it''s not yet the end.', 'ja',
      '最後にはすべてうまくいく。うまくいっていないなら、それはまだ最後ではない。'),
     ('Hope is the companion of power, and mother of success.', 'ja',
-     '希望は力の伴侶であり、成功の母である。');
+     '希望は力の伴侶であり、成功の母である。'),
+    ('Hope is itself a species of happiness.', 'ja',
+     '希望とは、それ自体が一種の幸福である。');
