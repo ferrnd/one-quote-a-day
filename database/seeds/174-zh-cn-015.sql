@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Practice isn''t the thing you do once you''re good. It''s the thing you do that makes you good.', 'zh-CN',
      '练习不是你变得优秀之后才做的事，而是让你变得优秀的那件事。'),
     ('Do something today that your future self will thank you for.', 'zh-CN',
-     '今天做一件未来的你会感谢你的事。');
+     '今天做一件未来的你会感谢你的事。'),
+    ('Focus on being productive instead of busy.', 'zh-CN',
+     '专注于高效，而不是忙碌。');
