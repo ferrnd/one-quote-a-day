@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The difference between ordinary and extraordinary is that little extra.', 'zh-CN',
      '平凡与非凡的区别，就在于那多出来的一点点。'),
     ('Winning isn''t everything, but wanting to win is.', 'zh-CN',
-     '胜利不是一切，但渴望胜利是一切。');
+     '胜利不是一切，但渴望胜利是一切。'),
+    ('Perfection is not attainable, but if we chase perfection we can catch excellence.', 'zh-CN',
+     '完美无法企及，但如果我们追求完美，就能抓住卓越。');
