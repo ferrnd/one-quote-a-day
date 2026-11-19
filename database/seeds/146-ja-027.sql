@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Because it''s there.', 'ja',
      'そこに山があるからだ。'),
     ('That''s one small step for a man, one giant leap for mankind.', 'ja',
-     'これは一人の人間にとっては小さな一歩だが、人類にとっては偉大な飛躍である。');
+     'これは一人の人間にとっては小さな一歩だが、人類にとっては偉大な飛躍である。'),
+    ('Don''t tell me the sky''s the limit when there are footprints on the moon.', 'ja',
+     '月に足跡があるのに、空が限界だなんて言わないでくれ。');
