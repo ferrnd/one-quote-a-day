@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('First, think. Second, dream. Third, believe. And finally, dare.', 'zh-CN',
      '第一，思考；第二，梦想；第三，相信；最后，勇于行动。'),
     ('A dream you dream alone is only a dream. A dream you dream together is reality.', 'zh-CN',
-     '一个人做的梦只是梦，一起做的梦就是现实。');
+     '一个人做的梦只是梦，一起做的梦就是现实。'),
+    ('Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.', 'zh-CN',
+     '紧紧抓住梦想，因为梦想一旦死去，生命就成了折翼的鸟，再也无法飞翔。');
