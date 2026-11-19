@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience is not simply the ability to wait; it''s how we behave while we''re waiting.', 'zh-CN',
      '耐心不仅仅是等待的能力，更是我们在等待时如何表现。'),
     ('Rome wasn''t built in a day.', 'zh-CN',
-     '罗马不是一天建成的。');
+     '罗马不是一天建成的。'),
+    ('Everything comes gradually and at its appointed hour.', 'zh-CN',
+     '一切都是逐渐到来的，都在它注定的时刻。');
