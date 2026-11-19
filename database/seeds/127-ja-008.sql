@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Nothing is impossible. The word itself says ''I''m possible''!', 'ja',
      '不可能なことなどない。Impossible（不可能）という言葉自体が「I''m possible（私はできる）」と言っているのだから。'),
     ('Stars can''t shine without darkness.', 'ja',
-     '闇がなければ、星は輝けない。');
+     '闇がなければ、星は輝けない。'),
+    ('The wound is the place where the Light enters you.', 'ja',
+     '傷こそ、光があなたの中に入ってくる場所である。');
