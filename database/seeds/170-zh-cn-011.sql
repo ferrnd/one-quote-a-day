@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A woman is like a tea bag; you can''t tell how strong she is until you put her in hot water.', 'zh-CN',
      '女人就像茶包，不放进热水里，你永远不知道她有多浓。'),
     ('Strength is the product of struggle. You must do what others don''t to achieve what others won''t.', 'zh-CN',
-     '力量是奋斗的产物。你必须做别人不愿做的事，才能取得别人取得不了的成就。');
+     '力量是奋斗的产物。你必须做别人不愿做的事，才能取得别人取得不了的成就。'),
+    ('The strongest of all warriors are these two: time and patience.', 'zh-CN',
+     '所有战士中最强大的是这两位：时间和耐心。');
