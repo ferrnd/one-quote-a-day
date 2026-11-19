@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure is a detour, not a dead-end street.', 'ja',
      '失敗は回り道であって、行き止まりではない。'),
     ('A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.', 'ja',
-     '失敗は必ずしも間違いではない。その状況でできる最善だったのかもしれない。本当の間違いは、挑戦をやめることだ。');
+     '失敗は必ずしも間違いではない。その状況でできる最善だったのかもしれない。本当の間違いは、挑戦をやめることだ。'),
+    ('If you''re not failing every now and again, it''s a sign you''re not doing anything very innovative.', 'ja',
+     'ときどき失敗していないなら、それはあまり革新的なことをしていない証拠だ。');
