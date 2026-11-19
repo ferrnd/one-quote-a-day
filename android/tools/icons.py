@@ -58,9 +58,27 @@ def main() -> None:
         save(mark(legacy, 0.42, INK, PAPER, "circle"), f"mipmap-{dpi}", "ic_launcher_round.png")
         # adaptive foreground: 108dp canvas, keep the mark well inside the 66dp safe zone
         save(mark(round(108 * d), 0.36, INK, None), f"mipmap-{dpi}", "ic_launcher_foreground.png")
+        # the night icon: the same mark, white on black (shown from 21:00 to 06:00, or always in dark mode)
+        save(mark(legacy, 0.42, PAPER, INK, "rounded"), f"mipmap-{dpi}", "ic_launcher_night.png")
+        save(mark(legacy, 0.42, PAPER, INK, "circle"), f"mipmap-{dpi}", "ic_launcher_night_round.png")
+        save(mark(round(108 * d), 0.36, PAPER, None), f"mipmap-{dpi}", "ic_launcher_night_foreground.png")
         # status-bar icon: white on transparent, Android tints it
         save(mark(round(24 * d), 0.80, PAPER, None), f"drawable-{dpi}", "ic_stat_quote.png")
 
+    adaptive = RES / "mipmap-anydpi-v26"
+    adaptive.mkdir(exist_ok=True)
+    template = """<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@android:color/{background}" />
+    <foreground android:drawable="@mipmap/{foreground}" />
+    <monochrome android:drawable="@mipmap/ic_launcher_foreground" />
+</adaptive-icon>
+"""
+    for name, background, foreground in (("ic_launcher", "white", "ic_launcher_foreground"),
+                                         ("ic_launcher_night", "black", "ic_launcher_night_foreground")):
+        xml = template.format(background=background, foreground=foreground)
+        for suffix in ("", "_round"):
+            (adaptive / f"{name}{suffix}.xml").write_bytes(xml.encode("utf-8"))
     print("icons written to", RES)
 
 
