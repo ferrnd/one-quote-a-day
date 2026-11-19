@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the ladder on which all the other virtues mount.', 'zh-CN',
      '勇气是一架梯子，其他所有美德都沿着它向上攀登。'),
     ('Courage is not simply one of the virtues, but the form of every virtue at the testing point.', 'zh-CN',
-     '勇气不只是美德之一，而是每一种美德在接受考验时所呈现的形态。');
+     '勇气不只是美德之一，而是每一种美德在接受考验时所呈现的形态。'),
+    ('Courage, dear heart.', 'zh-CN',
+     '鼓起勇气，亲爱的心。');
