@@ -16,9 +16,9 @@
 import {
   dateKey, formatCountdown, isNight, localDateParts, msUntilNextLocalMidnight,
   msUntilNextThemeChange, parseDateKey,
-} from "./clock.js?v=14bf1bdc80e8";
-import { formatDate, translateDocument, tr } from "./i18n.js?v=14bf1bdc80e8";
-import "./blobs.js?v=14bf1bdc80e8";
+} from "./clock.js?v=4ef6c346cd90";
+import { formatDate, translateDocument, tr } from "./i18n.js?v=4ef6c346cd90";
+import "./blobs.js?v=4ef6c346cd90";
 
 const WASM_URL = new URL("quotes.wasm?v=2ac3d5e57c85", import.meta.url);
 const WATCHDOG_MS = 60_000;
