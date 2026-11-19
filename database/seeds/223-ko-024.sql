@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('A handful of patience is worth more than a bushel of brains.', 'ko',
      '한 줌의 인내가 한 말의 지혜보다 낫다.'),
     ('Patience is also a form of action.', 'ko',
-     '인내 또한 행동의 한 형태다.');
+     '인내 또한 행동의 한 형태다.'),
+    ('Slow and steady wins the race.', 'ko',
+     '느리지만 꾸준한 자가 경주에서 이긴다.');
