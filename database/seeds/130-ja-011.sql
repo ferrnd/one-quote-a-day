@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have power over your mind, not outside events. Realize this, and you will find strength.', 'ja',
      'あなたが支配できるのは自分の心であって、外の出来事ではない。それを悟れば、強さが見つかるだろう。'),
     ('The impediment to action advances action. What stands in the way becomes the way.', 'ja',
-     '行動を妨げるものが、行動を前に進める。道をふさぐものが、道となるのだ。');
+     '行動を妨げるものが、行動を前に進める。道をふさぐものが、道となるのだ。'),
+    ('If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.', 'ja',
+     '外のことに悩まされるなら、その苦しみは物事そのものではなく、あなたの見方から来ている。そしてその見方は、いつでも取り消すことができる。');
