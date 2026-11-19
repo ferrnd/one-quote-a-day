@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am always doing that which I cannot do, in order that I may learn how to do it.', 'ko',
      '나는 늘 내가 할 수 없는 일을 한다. 그것을 하는 법을 배우기 위해서.'),
     ('Unless you try to do something beyond what you have already mastered, you will never grow.', 'ko',
-     '이미 익힌 것을 넘어서는 무언가에 도전하지 않는 한 결코 성장할 수 없다.');
+     '이미 익힌 것을 넘어서는 무언가에 도전하지 않는 한 결코 성장할 수 없다.'),
+    ('We know what we are, but know not what we may be.', 'ko',
+     '우리는 우리가 무엇인지는 알지만, 무엇이 될 수 있는지는 모른다.');
