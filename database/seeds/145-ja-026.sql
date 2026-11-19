@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no secrets to success. It is the result of preparation, hard work, and learning from failure.', 'ja',
      '成功に秘訣などない。それは準備と努力、そして失敗から学ぶことの結果である。'),
     ('Our greatest fear should not be of failure but of succeeding at things in life that don''t really matter.', 'ja',
-     '私たちが最も恐れるべきなのは失敗ではなく、人生で本当は大切でないことに成功してしまうことだ。');
+     '私たちが最も恐れるべきなのは失敗ではなく、人生で本当は大切でないことに成功してしまうことだ。'),
+    ('Stay hungry, stay foolish.', 'ja',
+     'ハングリーであれ。愚か者であれ。');
