@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There are no limits. There are plateaus, but you must not stay there, you must go beyond them.', 'ja',
      '限界などない。停滞期はある。だがそこにとどまってはならない。それを越えて行かなければならない。'),
     ('A goal is not always meant to be reached, it often serves simply as something to aim at.', 'ja',
-     '目標は必ずしも達成されるためにあるのではない。それはしばしば、ただ狙いを定めるための的になる。');
+     '目標は必ずしも達成されるためにあるのではない。それはしばしば、ただ狙いを定めるための的になる。'),
+    ('I''m going to use all my tools, my God-given ability, and make the best life I can with it.', 'ja',
+     '俺は持てる道具のすべてを、神から与えられた才能を使って、それで最高の人生をつくるつもりだ。');
