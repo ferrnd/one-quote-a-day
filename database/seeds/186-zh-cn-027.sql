@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t tell me the sky''s the limit when there are footprints on the moon.', 'zh-CN',
      '月球上都有脚印了，别跟我说天空是极限。'),
     ('The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.', 'zh-CN',
-     '地球是人类的摇篮，但人类不可能永远待在摇篮里。');
+     '地球是人类的摇篮，但人类不可能永远待在摇篮里。'),
+    ('Exploration is really the essence of the human spirit.', 'zh-CN',
+     '探索才是人类精神的真正本质。');
