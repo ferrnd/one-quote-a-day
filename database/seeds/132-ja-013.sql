@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No man is free who is not master of himself.', 'ja',
      '自分自身を支配できない者は、自由ではない。'),
     ('First say to yourself what you would be; and then do what you have to do.', 'ja',
-     'まず自分がどうなりたいかを自分に言い聞かせ、それから為すべきことを為せ。');
+     'まず自分がどうなりたいかを自分に言い聞かせ、それから為すべきことを為せ。'),
+    ('Self-discipline is the magic power that makes you virtually unstoppable.', 'ja',
+     '自己規律は、あなたをほとんど止められない存在にする魔法の力だ。');
