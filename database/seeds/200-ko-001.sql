@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It always seems impossible until it''s done.', 'ko',
      '무슨 일이든 끝내기 전까지는 늘 불가능해 보인다.'),
     ('Nothing in this world can take the place of persistence.', 'ko',
-     '이 세상 어떤 것도 끈기를 대신할 수 없다.');
+     '이 세상 어떤 것도 끈기를 대신할 수 없다.'),
+    ('Victory belongs to the most persevering.', 'ko',
+     '승리는 가장 끈질긴 자의 것이다.');
