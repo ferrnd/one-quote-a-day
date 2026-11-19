@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You may have to fight a battle more than once to win it.', 'ko',
      '싸움에서 이기기 위해 같은 싸움을 한 번 넘게 치러야 할 때도 있다.'),
     ('Failure isn''t fatal, but failure to change might be.', 'ko',
-     '실패는 치명적이지 않다. 하지만 변하지 못하는 것은 치명적일 수 있다.');
+     '실패는 치명적이지 않다. 하지만 변하지 못하는 것은 치명적일 수 있다.'),
+    ('If you learn from defeat, you haven''t really lost.', 'ko',
+     '패배에서 배운다면 진정으로 진 것이 아니다.');
