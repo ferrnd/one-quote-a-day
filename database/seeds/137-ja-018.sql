@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard times don''t create heroes. It is during the hard times when the hero within us is revealed.', 'ja',
      '苦しい時代が英雄をつくるのではない。苦しい時代にこそ、私たちの内なる英雄が姿を現すのだ。'),
     ('Mountains cannot be surmounted except by winding paths.', 'ja',
-     '山は、曲がりくねった道を通らなければ越えられない。');
+     '山は、曲がりくねった道を通らなければ越えられない。'),
+    ('Pain is inevitable. Suffering is optional.', 'ja',
+     '痛みは避けられない。苦しみは自分しだいだ。');
