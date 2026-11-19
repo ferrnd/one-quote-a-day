@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Pain is inevitable. Suffering is optional.', 'zh-CN',
      '痛苦不可避免，而受苦是可以选择的。'),
     ('Problems are only opportunities in work clothes.', 'zh-CN',
-     '问题不过是穿着工作服的机会。');
+     '问题不过是穿着工作服的机会。'),
+    ('Calamity is the test of integrity.', 'zh-CN',
+     '灾难是对正直的考验。');
