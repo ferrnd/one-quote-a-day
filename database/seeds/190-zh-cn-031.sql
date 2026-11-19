@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The world is changed by your example, not by your opinion.', 'zh-CN',
      '改变世界的是你的榜样，而不是你的意见。'),
     ('We can''t help everyone, but everyone can help someone.', 'zh-CN',
-     '我们不能帮助每一个人，但每个人都能帮助某个人。');
+     '我们不能帮助每一个人，但每个人都能帮助某个人。'),
+    ('Each person must live their life as a model for others.', 'zh-CN',
+     '每个人都必须把自己的人生活成他人的榜样。');
