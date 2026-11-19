@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only place where success comes before work is in the dictionary.', 'zh-CN',
      '只有在字典里，“成功”才排在“工作”前面。'),
     ('Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.', 'zh-CN',
-     '天赋比食盐还廉价。区分有天赋的人和成功的人的，是大量的努力。');
+     '天赋比食盐还廉价。区分有天赋的人和成功的人的，是大量的努力。'),
+    ('Amateurs sit and wait for inspiration, the rest of us just get up and go to work.', 'zh-CN',
+     '业余者坐等灵感，我们其他人则起身去工作。');
