@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.', 'ko',
      '당신의 비전과 꿈을 소중히 여겨라. 그것은 당신 영혼의 자녀이자 궁극적인 성취의 설계도다.'),
     ('The starting point of all achievement is desire.', 'ko',
-     '모든 성취의 출발점은 열망이다.');
+     '모든 성취의 출발점은 열망이다.'),
+    ('A goal is a dream with a deadline.', 'ko',
+     '목표란 마감 기한이 있는 꿈이다.');
