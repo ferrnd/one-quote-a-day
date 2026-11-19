@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you don''t like the road you''re walking, start paving another one.', 'ja',
      '今歩いている道が気に入らないなら、別の道を敷き始めなさい。'),
     ('You get in life what you have the courage to ask for.', 'ja',
-     '人生で得られるのは、求める勇気を持ったものだけだ。');
+     '人生で得られるのは、求める勇気を持ったものだけだ。'),
+    ('Success isn''t about how much money you make; it''s about the difference you make in people''s lives.', 'ja',
+     '成功とは、どれだけお金を稼ぐかではない。人々の人生にどれだけ違いをもたらすかだ。');
