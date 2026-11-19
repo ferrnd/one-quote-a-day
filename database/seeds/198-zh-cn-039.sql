@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream no small dreams for they have no power to move the hearts of men.', 'zh-CN',
      '不要做渺小的梦，因为它们没有打动人心的力量。'),
     ('A man is not old until regrets take the place of dreams.', 'zh-CN',
-     '直到遗憾取代了梦想，一个人才算老了。');
+     '直到遗憾取代了梦想，一个人才算老了。'),
+    ('In dreams begins responsibility.', 'zh-CN',
+     '责任始于梦中。');
