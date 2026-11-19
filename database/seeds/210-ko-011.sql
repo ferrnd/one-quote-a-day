@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Waste no more time arguing about what a good man should be. Be one.', 'ko',
      '좋은 사람이 어떠해야 하는지 논쟁하며 더는 시간을 낭비하지 마라. 좋은 사람이 되어라.'),
     ('Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.', 'ko',
-     '파도가 끊임없이 부딪쳐 와도 굳건히 서서 주위 물의 분노를 잠재우는 곶처럼 되어라.');
+     '파도가 끊임없이 부딪쳐 와도 굳건히 서서 주위 물의 분노를 잠재우는 곶처럼 되어라.'),
+    ('Mighty oaks from little acorns grow.', 'ko',
+     '거대한 참나무도 작은 도토리에서 자란다.');
