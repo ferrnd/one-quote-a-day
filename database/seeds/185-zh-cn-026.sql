@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Stay hungry, stay foolish.', 'zh-CN',
      '求知若饥，虚心若愚。'),
     ('Your time is limited, so don''t waste it living someone else''s life.', 'zh-CN',
-     '你的时间有限，所以不要浪费在过别人的生活上。');
+     '你的时间有限，所以不要浪费在过别人的生活上。'),
+    ('If you are working on something exciting that you really care about, you don''t have to be pushed. The vision pulls you.', 'zh-CN',
+     '如果你在做一件自己真正在乎、令人兴奋的事，你不需要别人推动，愿景会拉着你走。');
