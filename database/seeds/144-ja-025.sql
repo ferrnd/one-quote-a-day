@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('No great thing is created suddenly.', 'ja',
      '偉大なものは、突然には生まれない。'),
     ('Perhaps someday it will be pleasant to remember even this.', 'ja',
-     'いつの日か、このことさえも楽しく思い出せるだろう。');
+     'いつの日か、このことさえも楽しく思い出せるだろう。'),
+    ('Endure, and preserve yourselves for better things.', 'ja',
+     '耐えよ。そして、より良き日のために自らを守れ。');
