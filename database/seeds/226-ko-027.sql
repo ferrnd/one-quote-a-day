@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One never notices what has been done; one can only see what remains to be done.', 'ko',
      '사람은 이미 해낸 일은 눈치채지 못하고, 아직 해야 할 일만 볼 수 있다.'),
     ('I raise up my voice, not so that I can shout, but so that those without a voice can be heard.', 'ko',
-     '내가 목소리를 높이는 것은 소리치기 위해서가 아니라, 목소리 없는 사람들의 목소리가 들리게 하기 위해서다.');
+     '내가 목소리를 높이는 것은 소리치기 위해서가 아니라, 목소리 없는 사람들의 목소리가 들리게 하기 위해서다.'),
+    ('One child, one teacher, one book, one pen can change the world.', 'ko',
+     '한 명의 아이, 한 명의 선생님, 한 권의 책, 한 자루의 펜이 세상을 바꿀 수 있다.');
