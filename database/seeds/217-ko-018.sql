@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The way I see it, if you want the rainbow, you gotta put up with the rain.', 'ko',
      '내 생각엔, 무지개를 원한다면 비를 견뎌야 해.'),
     ('Life isn''t about waiting for the storm to pass. It''s about learning to dance in the rain.', 'ko',
-     '인생은 폭풍이 지나가기를 기다리는 것이 아니라, 빗속에서 춤추는 법을 배우는 것이다.');
+     '인생은 폭풍이 지나가기를 기다리는 것이 아니라, 빗속에서 춤추는 법을 배우는 것이다.'),
+    ('Adversity reveals genius, prosperity conceals it.', 'ko',
+     '역경은 재능을 드러내고, 번영은 그것을 감춘다.');
