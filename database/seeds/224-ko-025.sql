@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be patient toward all that is unsolved in your heart.', 'ko',
      '당신의 마음속에서 아직 풀리지 않은 모든 것에 대해 인내심을 가져라.'),
     ('No great thing is created suddenly.', 'ko',
-     '위대한 것은 갑자기 만들어지지 않는다.');
+     '위대한 것은 갑자기 만들어지지 않는다.'),
+    ('Perhaps someday it will be pleasant to remember even this.', 'ko',
+     '언젠가는 이것마저도 즐겁게 추억할 날이 올 것이다.');
