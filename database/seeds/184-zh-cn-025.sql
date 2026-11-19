@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let go or be dragged.', 'zh-CN',
      '放手，否则就会被拖着走。'),
     ('Determination is the wake-up call to the human will.', 'zh-CN',
-     '决心是唤醒人类意志的号角。');
+     '决心是唤醒人类意志的号角。'),
+    ('The difference between the impossible and the possible lies in a man''s determination.', 'zh-CN',
+     '不可能与可能之间的区别，在于一个人的决心。');
