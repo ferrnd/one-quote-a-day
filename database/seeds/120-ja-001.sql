@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.', 'ja',
      '世の中の大切なことの多くは、まったく望みがないように見えても挑戦し続けた人々によって成し遂げられてきた。'),
     ('Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: it is this that in all things distinguishes the strong soul from the weak.', 'ja',
-     'あらゆる障害、落胆、不可能を前にしても変わらず、耐え、粘り続けること。それこそが、強い魂と弱い魂を分けるものだ。');
+     'あらゆる障害、落胆、不可能を前にしても変わらず、耐え、粘り続けること。それこそが、強い魂と弱い魂を分けるものだ。'),
+    ('Never give up, for that is just the place and time that the tide will turn.', 'ja',
+     '決してあきらめてはいけない。そここそが、潮目の変わる場所であり、時なのだから。');
