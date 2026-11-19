@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.', 'ko',
      '나는 1만 가지 발차기를 한 번씩 연습한 사람은 두렵지 않다. 하나의 발차기를 1만 번 연습한 사람이 두렵다.'),
     ('Discipline is choosing between what you want now and what you want most.', 'ko',
-     '자기 훈련이란 지금 원하는 것과 가장 원하는 것 사이에서 선택하는 것이다.');
+     '자기 훈련이란 지금 원하는 것과 가장 원하는 것 사이에서 선택하는 것이다.'),
+    ('No man is free who is not master of himself.', 'ko',
+     '자기 자신의 주인이 아닌 사람은 자유롭지 않다.');
