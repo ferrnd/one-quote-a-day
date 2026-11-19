@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Success is not built on success. It''s built on failure. It''s built on frustration.', 'zh-CN',
      '成功不是建立在成功之上的，而是建立在失败之上，建立在挫折之上。'),
     ('Winners are not afraid of losing. But losers are. Failure is part of the process of success.', 'zh-CN',
-     '赢家不怕输，输家才怕。失败是成功过程的一部分。');
+     '赢家不怕输，输家才怕。失败是成功过程的一部分。'),
+    ('An inventor fails 999 times, and if he succeeds once, he''s in.', 'zh-CN',
+     '发明家失败九百九十九次，只要成功一次，他就成功了。');
