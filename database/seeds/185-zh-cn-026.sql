@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I really think a champion is defined not by their wins but by how they can recover when they fall.', 'zh-CN',
      '我真心认为，定义一个冠军的不是他们赢了多少，而是他们跌倒后如何重新站起来。'),
     ('You have to believe in yourself when no one else does.', 'zh-CN',
-     '当没有人相信你的时候，你必须相信自己。');
+     '当没有人相信你的时候，你必须相信自己。'),
+    ('The more difficult the victory, the greater the happiness in winning.', 'zh-CN',
+     '胜利越艰难，赢得胜利的喜悦就越大。');
