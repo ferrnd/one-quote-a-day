@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''m not going to limit myself just because people won''t accept the fact that I can do something else.', 'zh-CN',
      '我不会仅仅因为别人不接受我能做别的事，就限制自己。'),
     ('Nobody has ever measured, not even poets, how much the heart can hold.', 'zh-CN',
-     '从来没有人测量过，即使是诗人也没有，心究竟能容纳多少。');
+     '从来没有人测量过，即使是诗人也没有，心究竟能容纳多少。'),
+    ('Not all of us can do great things. But we can do small things with great love.', 'zh-CN',
+     '我们不能都做伟大的事，但我们可以怀着伟大的爱去做小事。');
