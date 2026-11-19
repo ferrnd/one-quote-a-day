@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I can''t change the direction of the wind, but I can adjust my sails to always reach my destination.', 'ja',
      '風向きを変えることはできない。だが、帆を調整して必ず目的地にたどり着くことはできる。'),
     ('We cannot become what we want by remaining what we are.', 'ja',
-     '今のままでいては、なりたい自分にはなれない。');
+     '今のままでいては、なりたい自分にはなれない。'),
+    ('Little by little, a little becomes a lot.', 'ja',
+     '少しずつ、少しがたくさんになる。');
