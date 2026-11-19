@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Your present circumstances don''t determine where you can go; they merely determine where you start.', 'zh-CN',
      '你现在的处境，并不决定你能走多远，只决定你从哪里出发。'),
     ('One day you will wake up and there won''t be any more time to do the things you''ve always wanted. Do it now.', 'zh-CN',
-     '总有一天你醒来时，会发现再也没有时间去做那些你一直想做的事了。现在就去做吧。');
+     '总有一天你醒来时，会发现再也没有时间去做那些你一直想做的事了。现在就去做吧。'),
+    ('Do the best you can until you know better. Then when you know better, do better.', 'zh-CN',
+     '在你懂得更多之前，尽你所能做到最好。当你懂得更多时，就做得更好。');
