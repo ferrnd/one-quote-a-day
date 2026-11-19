@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t let the fear of losing be greater than the excitement of winning.', 'ja',
      '負ける恐怖を、勝つわくわくよりも大きくしてはいけない。'),
     ('We learn from failure, not from success!', 'ja',
-     '私たちは成功からではなく、失敗から学ぶのだ！');
+     '私たちは成功からではなく、失敗から学ぶのだ！'),
+    ('You can''t be afraid to fail. It''s the only way you succeed.', 'ja',
+     '失敗を恐れてはいけない。それが成功する唯一の方法なのだから。');
