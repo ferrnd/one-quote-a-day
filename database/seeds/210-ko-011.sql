@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.', 'ko',
      '파도가 끊임없이 부딪쳐 와도 굳건히 서서 주위 물의 분노를 잠재우는 곶처럼 되어라.'),
     ('Mighty oaks from little acorns grow.', 'ko',
-     '거대한 참나무도 작은 도토리에서 자란다.');
+     '거대한 참나무도 작은 도토리에서 자란다.'),
+    ('It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.', 'ko',
+     '일이 어려워서 감히 하지 못하는 것이 아니라, 감히 하지 않기 때문에 어려운 것이다.');
