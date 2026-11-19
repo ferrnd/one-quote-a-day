@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Amateurs sit and wait for inspiration, the rest of us just get up and go to work.', 'zh-CN',
      '业余者坐等灵感，我们其他人则起身去工作。'),
     ('The more I practice, the luckier I get.', 'zh-CN',
-     '我练得越多，运气就越好。');
+     '我练得越多，运气就越好。'),
+    ('Do not wait to strike till the iron is hot; but make it hot by striking.', 'zh-CN',
+     '不要等到铁烧热了才打，要在打的过程中让它变热。');
