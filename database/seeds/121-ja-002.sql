@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One may walk over the highest mountain one step at a time.', 'ja',
      'どんなに高い山でも、一歩ずつなら越えていける。'),
     ('Diamonds are nothing more than chunks of coal that stuck to their jobs.', 'ja',
-     'ダイヤモンドとは、自分の仕事をやり通した石炭のかたまりにすぎない。');
+     'ダイヤモンドとは、自分の仕事をやり通した石炭のかたまりにすぎない。'),
+    ('Great things are not done by impulse, but by a series of small things brought together.', 'ja',
+     '偉大なことは衝動によってではなく、小さなことの積み重ねによって成し遂げられる。');
