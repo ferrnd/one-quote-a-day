@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dreaming, after all, is a form of planning.', 'ja',
      '夢を見ることは、結局のところ、計画の一つの形なのだ。'),
     ('You''re off to great places! Today is your day! Your mountain is waiting, so get on your way!', 'ja',
-     'すばらしい場所へ出発だ！今日はきみの日！きみの山が待っている。さあ、出かけよう！');
+     'すばらしい場所へ出発だ！今日はきみの日！きみの山が待っている。さあ、出かけよう！'),
+    ('You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.', 'ja',
+     'きみには頭の中に脳みそがある。靴の中に足がある。好きな方向へ、自分を進ませることができるんだ。');
