@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope smiles from the threshold of the year to come, whispering ''it will be happier''.', 'ko',
      '희망은 다가오는 해의 문턱에서 미소 지으며 "더 행복해질 거야"라고 속삭인다.'),
     ('To live without hope is to cease to live.', 'ko',
-     '희망 없이 사는 것은 사는 것을 멈추는 것이다.');
+     '희망 없이 사는 것은 사는 것을 멈추는 것이다.'),
+    ('In all things it is better to hope than to despair.', 'ko',
+     '모든 일에서 절망하는 것보다 희망을 갖는 편이 낫다.');
