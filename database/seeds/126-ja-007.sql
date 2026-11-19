@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You may encounter many defeats, but you must not be defeated.', 'ja',
      '多くの敗北に出会うかもしれない。だが、打ち負かされてはならない。'),
     ('Still, like air, I''ll rise.', 'ja',
-     'それでも、空気のように、私は立ち上がる。');
+     'それでも、空気のように、私は立ち上がる。'),
+    ('She stood in the storm, and when the wind did not blow her way, she adjusted her sails.', 'ja',
+     '彼女は嵐の中に立ち、風が思うように吹かないときは、帆の向きを変えた。');
