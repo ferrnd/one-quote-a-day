@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.', 'ja',
      'きみには頭の中に脳みそがある。靴の中に足がある。好きな方向へ、自分を進ませることができるんだ。'),
     ('Unless someone like you cares a whole awful lot, nothing is going to get better. It''s not.', 'ja',
-     'きみのような誰かがものすごく本気で気にかけないかぎり、何もよくはならない。ならないんだ。');
+     'きみのような誰かがものすごく本気で気にかけないかぎり、何もよくはならない。ならないんだ。'),
+    ('Tell me, what is it you plan to do with your one wild and precious life?', 'ja',
+     '教えて。たった一度きりの、奔放でかけがえのないあなたの人生で、何をするつもり？');
