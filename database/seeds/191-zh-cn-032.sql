@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage is the price that life exacts for granting peace.', 'zh-CN',
      '勇气是生活赐予安宁时所索取的代价。'),
     ('Adventure is worthwhile in itself.', 'zh-CN',
-     '冒险本身就是值得的。');
+     '冒险本身就是值得的。'),
+    ('Courage is a love affair with the unknown.', 'zh-CN',
+     '勇气是与未知的一场恋爱。');
