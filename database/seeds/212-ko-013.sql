@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hard work beats talent when talent doesn''t work hard.', 'ko',
      '재능이 노력하지 않을 때, 노력은 재능을 이긴다.'),
     ('Small disciplines repeated with consistency every day lead to great achievements gained slowly over time.', 'ko',
-     '매일 꾸준히 반복하는 작은 훈련이 시간이 흐르며 천천히 위대한 성취로 이어진다.');
+     '매일 꾸준히 반복하는 작은 훈련이 시간이 흐르며 천천히 위대한 성취로 이어진다.'),
+    ('You will never change your life until you change something you do daily.', 'ko',
+     '매일 하는 무언가를 바꾸지 않는 한 결코 인생을 바꿀 수 없다.');
