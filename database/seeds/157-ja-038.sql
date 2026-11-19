@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s the repetition of affirmations that leads to belief.', 'ja',
      '信念を生むのは、自分への言葉の繰り返しだ。'),
     ('If my mind can conceive it, and my heart can believe it, then I can achieve it.', 'ja',
-     '頭で思い描くことができ、心で信じることができるなら、俺はそれを成し遂げられる。');
+     '頭で思い描くことができ、心で信じることができるなら、俺はそれを成し遂げられる。'),
+    ('Confidence is contagious. So is lack of confidence.', 'ja',
+     '自信は伝染する。自信のなさもまた伝染する。');
