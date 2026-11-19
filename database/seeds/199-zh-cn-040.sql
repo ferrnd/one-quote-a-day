@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best way to make your dreams come true is to wake up.', 'zh-CN',
      '实现梦想最好的方法，就是醒来。'),
     ('Who looks outside, dreams; who looks inside, awakes.', 'zh-CN',
-     '向外看的人在做梦，向内看的人才觉醒。');
+     '向外看的人在做梦，向内看的人才觉醒。'),
+    ('You are never given a wish without also being given the power to make it come true.', 'zh-CN',
+     '你每被赋予一个愿望，也同时被赋予了实现它的力量。');
