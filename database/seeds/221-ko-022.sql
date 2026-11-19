@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Excellence is to do a common thing in an uncommon way.', 'ko',
      '탁월함이란 평범한 일을 평범하지 않은 방식으로 하는 것이다.'),
     ('What you think of yourself is much more important than what others think of you.', 'ko',
-     '당신이 스스로를 어떻게 생각하느냐가 남들이 당신을 어떻게 생각하느냐보다 훨씬 더 중요하다.');
+     '당신이 스스로를 어떻게 생각하느냐가 남들이 당신을 어떻게 생각하느냐보다 훨씬 더 중요하다.'),
+    ('A man is but the product of his thoughts. What he thinks, he becomes.', 'ko',
+     '인간은 생각의 산물일 뿐이다. 생각하는 대로 그 사람이 된다.');
