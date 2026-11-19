@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Happiness is not a goal; it is a by-product.', 'ja',
      '幸福は目標ではない。副産物である。'),
     ('The purpose of life is to live it, to taste experience to the utmost.', 'ja',
-     '人生の目的は、それを生きること、経験を心ゆくまで味わうことだ。');
+     '人生の目的は、それを生きること、経験を心ゆくまで味わうことだ。'),
+    ('The art of being wise is the art of knowing what to overlook.', 'ja',
+     '賢くある技術とは、何を見逃すべきかを知る技術である。');
