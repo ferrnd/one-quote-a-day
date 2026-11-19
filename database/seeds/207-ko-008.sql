@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The wound is the place where the Light enters you.', 'ko',
      '상처는 빛이 당신 안으로 들어오는 자리다.'),
     ('When it is dark enough, you can see the stars.', 'ko',
-     '충분히 어두워지면 별을 볼 수 있다.');
+     '충분히 어두워지면 별을 볼 수 있다.'),
+    ('Fire is the test of gold; adversity, of strong men.', 'ko',
+     '불은 금을 시험하고, 역경은 강한 사람을 시험한다.');
