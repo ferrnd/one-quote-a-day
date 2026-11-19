@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Weeping may endure for a night, but joy cometh in the morning.', 'ko',
      '저녁에는 울음이 깃들일지라도 아침에는 기쁨이 오리로다.'),
     ('Grow old along with me! The best is yet to be.', 'ko',
-     '나와 함께 늙어 가자! 가장 좋은 날은 아직 오지 않았으니.');
+     '나와 함께 늙어 가자! 가장 좋은 날은 아직 오지 않았으니.'),
+    ('Isn''t it nice to think that tomorrow is a new day with no mistakes in it yet?', 'ko',
+     '내일은 아직 아무 실수도 하지 않은 새로운 날이라고 생각하면 멋지지 않니?');
