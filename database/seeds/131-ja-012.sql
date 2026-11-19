@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is nothing stronger in the world than gentleness.', 'ja',
      'この世に、優しさより強いものはない。'),
     ('Nothing is so strong as gentleness, nothing so gentle as real strength.', 'ja',
-     '優しさほど強いものはなく、本当の強さほど優しいものはない。');
+     '優しさほど強いものはなく、本当の強さほど優しいものはない。'),
+    ('The oak sleeps in the acorn.', 'ja',
+     '樫の木は、どんぐりの中で眠っている。');
