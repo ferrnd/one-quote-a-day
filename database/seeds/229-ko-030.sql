@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Vision is the art of seeing what is invisible to others.', 'ko',
      '비전이란 남들에게 보이지 않는 것을 보는 기술이다.'),
     ('When one door of happiness closes, another opens.', 'ko',
-     '행복의 문 하나가 닫히면 다른 문이 열린다.');
+     '행복의 문 하나가 닫히면 다른 문이 열린다.'),
+    ('Alone we can do so little; together we can do so much.', 'ko',
+     '혼자서는 아주 작은 일밖에 할 수 없지만, 함께라면 아주 많은 일을 할 수 있다.');
