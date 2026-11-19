@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I have learned more from my mistakes than from my successes.', 'zh-CN',
      '我从错误中学到的，比从成功中学到的更多。'),
     ('It''s failure that gives you the proper perspective on success.', 'zh-CN',
-     '是失败让你对成功有了正确的看法。');
+     '是失败让你对成功有了正确的看法。'),
+    ('Success is how high you bounce when you hit bottom.', 'zh-CN',
+     '成功就是你跌到谷底时能反弹多高。');
