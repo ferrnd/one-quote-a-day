@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('He suffers more than necessary, who suffers before it is necessary.', 'ja',
      '必要になる前に苦しむ者は、必要以上に苦しむ。'),
     ('Ignorance is the cause of fear.', 'ja',
-     '無知こそが、恐れの原因である。');
+     '無知こそが、恐れの原因である。'),
+    ('To live is the rarest thing in the world. Most people exist, that is all.', 'ja',
+     '生きることは、この世で最もまれなことだ。たいていの人は、ただ存在しているだけである。');
