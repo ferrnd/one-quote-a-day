@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You can''t be afraid to fail. It''s the only way you succeed.', 'zh-CN',
      '你不能害怕失败，那是你成功的唯一途径。'),
     ('A man is not finished when he is defeated. He is finished when he quits.', 'zh-CN',
-     '一个人被打败时并没有完蛋，放弃时才算完蛋。');
+     '一个人被打败时并没有完蛋，放弃时才算完蛋。'),
+    ('The human spirit is stronger than anything that can happen to it.', 'zh-CN',
+     '人的精神比任何可能发生在它身上的事都要强大。');
