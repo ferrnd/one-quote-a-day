@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am not afraid of storms, for I am learning how to sail my ship.', 'zh-CN',
      '我不怕暴风雨，因为我正在学习如何驾驶我的船。'),
     ('A ship in harbor is safe, but that is not what ships are built for.', 'zh-CN',
-     '停在港口的船是安全的，但造船并不是为了停在港口。');
+     '停在港口的船是安全的，但造船并不是为了停在港口。'),
+    ('The cave you fear to enter holds the treasure you seek.', 'zh-CN',
+     '你害怕进入的那个洞穴里，藏着你要寻找的宝藏。');
