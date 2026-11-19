@@ -2,4 +2,6 @@
 
 INSERT INTO translation_intake (original, locale, body) VALUES
     ('The weak can never forgive. Forgiveness is the attribute of the strong.', 'zh-CN',
-     '弱者永远不会宽恕。宽恕是强者的品质。');
+     '弱者永远不会宽恕。宽恕是强者的品质。'),
+    ('Strength does not come from winning. Your struggles develop your strengths.', 'zh-CN',
+     '力量并非来自胜利。是你的挣扎造就了你的力量。');
