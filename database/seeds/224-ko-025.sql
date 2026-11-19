@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Endurance is patience concentrated.', 'ko',
      '끈기란 응축된 인내다.'),
     ('Patience and diligence, like faith, remove mountains.', 'ko',
-     '인내와 근면은 믿음처럼 산도 옮긴다.');
+     '인내와 근면은 믿음처럼 산도 옮긴다.'),
+    ('Beware the fury of a patient man.', 'ko',
+     '인내심 많은 사람의 분노를 조심하라.');
