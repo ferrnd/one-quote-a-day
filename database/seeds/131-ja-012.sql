@@ -10,4 +10,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am the master of my fate, I am the captain of my soul.', 'ja',
      '私は我が運命の主であり、我が魂の指揮官である。'),
     ('I thank whatever gods may be for my unconquerable soul.', 'ja',
-     'いかなる神であれ、私に屈することのない魂を与えてくれたことに感謝する。');
+     'いかなる神であれ、私に屈することのない魂を与えてくれたことに感謝する。'),
+    ('A hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.', 'ja',
+     '英雄とは、圧倒的な障害があっても粘り強く耐え抜く強さを見いだす、普通の人のことだ。');
