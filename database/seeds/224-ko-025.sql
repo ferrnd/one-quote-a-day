@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Determination is the wake-up call to the human will.', 'ko',
      '결단은 인간의 의지를 깨우는 기상 신호다.'),
     ('The difference between the impossible and the possible lies in a man''s determination.', 'ko',
-     '불가능과 가능의 차이는 사람의 결단에 있다.');
+     '불가능과 가능의 차이는 사람의 결단에 있다.'),
+    ('Set your goals high, and don''t stop till you get there.', 'ko',
+     '목표를 높이 세우고, 그곳에 닿을 때까지 멈추지 마라.');
