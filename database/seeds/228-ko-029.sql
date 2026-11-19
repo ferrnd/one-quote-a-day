@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Don''t grieve. Anything you lose comes round in another form.', 'ko',
      '슬퍼하지 마라. 잃어버린 것은 무엇이든 다른 모습으로 돌아온다.'),
     ('Set your life on fire. Seek those who fan your flames.', 'ko',
-     '당신의 삶에 불을 붙여라. 당신의 불꽃에 부채질해 줄 사람들을 찾아라.');
+     '당신의 삶에 불을 붙여라. 당신의 불꽃에 부채질해 줄 사람들을 찾아라.'),
+    ('Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.', 'ko',
+     '어제의 나는 영리했기에 세상을 바꾸고 싶었다. 오늘의 나는 지혜롭기에 나 자신을 바꾸고 있다.');
