@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Eighty percent of success is showing up.', 'ko',
      '성공의 80퍼센트는 그 자리에 나타나는 것이다.'),
     ('You can''t build a reputation on what you are going to do.', 'ko',
-     '앞으로 하겠다는 일로는 명성을 쌓을 수 없다.');
+     '앞으로 하겠다는 일로는 명성을 쌓을 수 없다.'),
+    ('You may delay, but time will not.', 'ko',
+     '당신은 미룰 수 있지만, 시간은 미루지 않는다.');
