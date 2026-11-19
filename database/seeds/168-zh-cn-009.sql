@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is some good in this world, and it''s worth fighting for.', 'zh-CN',
      '这个世界上还有美好的东西，值得为之奋斗。'),
     ('Hope is a good thing, maybe the best of things, and no good thing ever dies.', 'zh-CN',
-     '希望是美好的，也许是世间最美好的东西，而美好的东西永远不会消逝。');
+     '希望是美好的，也许是世间最美好的东西，而美好的东西永远不会消逝。'),
+    ('The darkest hour has only sixty minutes.', 'zh-CN',
+     '最黑暗的时刻也只有六十分钟。');
