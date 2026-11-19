@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s not the load that breaks you down, it''s the way you carry it.', 'ja',
      '人を押しつぶすのは荷物の重さではなく、その運び方だ。'),
     ('Ability is what you''re capable of doing. Motivation determines what you do. Attitude determines how well you do it.', 'ja',
-     '能力とは、できることだ。やる気は、何をするかを決める。姿勢は、それをどれだけうまくやるかを決める。');
+     '能力とは、できることだ。やる気は、何をするかを決める。姿勢は、それをどれだけうまくやるかを決める。'),
+    ('Worry does not empty tomorrow of its sorrow, it empties today of its strength.', 'ja',
+     '心配は明日の悲しみを取り除いてはくれない。今日の力を奪うだけだ。');
