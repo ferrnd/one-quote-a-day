@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('If you are irritated by every rub, how will your mirror be polished?', 'ko',
      '문질러질 때마다 짜증을 낸다면, 어떻게 당신의 거울이 닦이겠는가?'),
     ('These pains you feel are messengers. Listen to them.', 'ko',
-     '당신이 느끼는 이 고통은 전령이다. 그 소리에 귀 기울여라.');
+     '당신이 느끼는 이 고통은 전령이다. 그 소리에 귀 기울여라.'),
+    ('Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.', 'ko',
+     '자유는 인생에서 유일하게 가치 있는 목표다. 그것은 우리가 통제할 수 없는 것에 마음을 쓰지 않음으로써 얻어진다.');
