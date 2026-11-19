@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('We are what we repeatedly do. Excellence, then, is not an act, but a habit.', 'zh-CN',
      '我们是由自己反复做的事情塑造而成的。因此，卓越不是一种行为，而是一种习惯。'),
     ('Discipline is the bridge between goals and accomplishment.', 'zh-CN',
-     '自律是连接目标与成就的桥梁。');
+     '自律是连接目标与成就的桥梁。'),
+    ('We must all suffer one of two things: the pain of discipline or the pain of regret.', 'zh-CN',
+     '我们都必须承受两种痛苦之一：自律的痛苦，或者后悔的痛苦。');
