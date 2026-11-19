@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('When the whole world is silent, even one voice becomes powerful.', 'ko',
      '온 세상이 침묵할 때는 단 하나의 목소리도 강력해진다.'),
     ('Because it''s there.', 'ko',
-     '산이 거기 있기 때문이다.');
+     '산이 거기 있기 때문이다.'),
+    ('That''s one small step for a man, one giant leap for mankind.', 'ko',
+     '이것은 한 인간에게는 작은 발걸음이지만, 인류에게는 위대한 도약이다.');
