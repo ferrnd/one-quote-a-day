@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.', 'zh-CN',
      '人生并不总是要握有一手好牌，有时是要把一手烂牌打好。'),
     ('Hope is the thing with feathers that perches in the soul.', 'zh-CN',
-     '希望是长着羽毛的东西，栖息在灵魂里。');
+     '希望是长着羽毛的东西，栖息在灵魂里。'),
+    ('Everything that is done in the world is done by hope.', 'zh-CN',
+     '世上所成就的一切，都是靠希望成就的。');
