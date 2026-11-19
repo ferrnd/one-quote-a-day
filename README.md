@@ -1,9 +1,9 @@
-# quotes
+# one-quote-a-day
 
 **One quote a day.** A white page with a single sentence about overcoming in
 the middle. At midnight, in your own time zone, it changes.
 
-**[quoteaday.vercel.app](https://quoteaday.vercel.app)** · native Android app in [`android/`](android)
+**[quoteaday.vercel.app](https://quoteaday.vercel.app)** · **[Download the Android app](https://github.com/ferrnd/one-quote-a-day/releases/latest/download/one-quote-a-day.apk)** · source in [`android/`](android)
 
 - 1,000 quotes, translated by hand into 10 languages
 - the same quote for everyone on the same day, planned for the next 400 years
