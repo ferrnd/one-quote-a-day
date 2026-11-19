@@ -6,4 +6,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.', 'ko',
      '사람의 진정한 척도는 편안하고 순조로울 때 어디에 서 있느냐가 아니라, 도전과 논란의 때에 어디에 서 있느냐다.'),
     ('Darkness cannot drive out darkness; only light can do that.', 'ko',
-     '어둠은 어둠을 몰아낼 수 없다. 오직 빛만이 그것을 할 수 있다.');
+     '어둠은 어둠을 몰아낼 수 없다. 오직 빛만이 그것을 할 수 있다.'),
+    ('Faith is taking the first step even when you don''t see the whole staircase.', 'ko',
+     '믿음이란 계단 전체가 보이지 않을 때에도 첫 계단을 내딛는 것이다.');
