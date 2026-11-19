@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('One day, in retrospect, the years of struggle will strike you as the most beautiful.', 'ko',
      '언젠가 돌아보면, 투쟁했던 그 세월이 가장 아름다웠다고 느껴질 것이다.'),
     ('In the end, everything will be okay. If it''s not okay, it''s not yet the end.', 'ko',
-     '결국에는 모든 것이 괜찮아질 것이다. 괜찮지 않다면, 아직 끝이 아닌 것이다.');
+     '결국에는 모든 것이 괜찮아질 것이다. 괜찮지 않다면, 아직 끝이 아닌 것이다.'),
+    ('Hope is the companion of power, and mother of success.', 'ko',
+     '희망은 힘의 동반자이자 성공의 어머니다.');
