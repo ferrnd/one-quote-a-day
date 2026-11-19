@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Let your hopes, not your hurts, shape your future.', 'ko',
      '당신의 상처가 아니라 희망이 당신의 미래를 만들게 하라.'),
     ('Hope is a renewable option: if you run out of it at the end of the day, you get to start over in the morning.', 'ko',
-     '희망은 다시 채울 수 있는 선택지다. 하루가 끝날 때 다 써 버렸다면 아침에 다시 시작하면 된다.');
+     '희망은 다시 채울 수 있는 선택지다. 하루가 끝날 때 다 써 버렸다면 아침에 다시 시작하면 된다.'),
+    ('What oxygen is to the lungs, such is hope to the meaning of life.', 'ko',
+     '폐에게 산소가 그러하듯, 삶의 의미에게는 희망이 그러하다.');
