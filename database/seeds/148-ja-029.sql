@@ -8,4 +8,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Without leaps of imagination or dreaming, we lose the excitement of possibilities.', 'ja',
      '想像の飛躍や夢がなければ、可能性へのときめきを失ってしまう。'),
     ('Dreaming, after all, is a form of planning.', 'ja',
-     '夢を見ることは、結局のところ、計画の一つの形なのだ。');
+     '夢を見ることは、結局のところ、計画の一つの形なのだ。'),
+    ('You''re off to great places! Today is your day! Your mountain is waiting, so get on your way!', 'ja',
+     'すばらしい場所へ出発だ！今日はきみの日！きみの山が待っている。さあ、出かけよう！');
