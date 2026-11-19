@@ -48,4 +48,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The gem cannot be polished without friction, nor man perfected without trials.', 'zh-CN',
      '玉不琢，不成器；人不经磨难，不成材。'),
     ('Smooth seas do not make skillful sailors.', 'zh-CN',
-     '平静的海面造就不了熟练的水手。');
+     '平静的海面造就不了熟练的水手。'),
+    ('My scars remind me that I did indeed survive my deepest wounds.', 'zh-CN',
+     '我的伤疤提醒我，我确实熬过了最深的伤痛。');
