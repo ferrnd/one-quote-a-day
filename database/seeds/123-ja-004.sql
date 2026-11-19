@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Feel the fear and do it anyway.', 'ja',
      '恐れを感じながら、それでもやりなさい。'),
     ('Be bold, and mighty forces will come to your aid.', 'ja',
-     '大胆であれ。そうすれば大きな力が助けに来てくれる。');
+     '大胆であれ。そうすれば大きな力が助けに来てくれる。'),
+    ('There is no passion to be found playing small.', 'ja',
+     '小さくまとまっていても、情熱は見つからない。');
