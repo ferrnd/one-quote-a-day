@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s the possibility of having a dream come true that makes life interesting.', 'ja',
      '夢がかなうかもしれないという可能性こそが、人生を面白くするのだ。'),
     ('And, when you want something, all the universe conspires in helping you to achieve it.', 'ja',
-     'そして、何かを望むとき、宇宙全体がその実現を助けるために協力してくれるのだ。');
+     'そして、何かを望むとき、宇宙全体がその実現を助けるために協力してくれるのだ。'),
+    ('Dream as if you''ll live forever. Live as if you''ll die today.', 'ja',
+     '永遠に生きるかのように夢を見よ。今日死ぬかのように生きよ。');
