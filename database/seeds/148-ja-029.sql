@@ -44,4 +44,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Respond to every call that excites your spirit.', 'ja',
      'あなたの魂を躍らせる呼び声には、すべて応えなさい。'),
     ('If you are irritated by every rub, how will your mirror be polished?', 'ja',
-     'こすられるたびに苛立っていたら、どうして鏡が磨かれるだろうか。');
+     'こすられるたびに苛立っていたら、どうして鏡が磨かれるだろうか。'),
+    ('These pains you feel are messengers. Listen to them.', 'ja',
+     'あなたが感じているその痛みは、使者である。その声に耳を傾けよ。');
