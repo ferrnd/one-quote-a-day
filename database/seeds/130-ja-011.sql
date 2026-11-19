@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Mighty oaks from little acorns grow.', 'ja',
      '大きな樫の木も、小さなどんぐりから育つ。'),
     ('It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.', 'ja',
-     '物事が難しいから挑まないのではない。挑まないから難しいのだ。');
+     '物事が難しいから挑まないのではない。挑まないから難しいのだ。'),
+    ('We suffer more often in imagination than in reality.', 'ja',
+     '私たちは現実よりも、想像の中で苦しむことのほうが多い。');
