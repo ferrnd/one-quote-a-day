@@ -30,4 +30,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The only real voyage of discovery consists not in seeking new landscapes, but in having new eyes.', 'ko',
      '진정한 발견의 여정은 새로운 풍경을 찾는 데 있지 않고 새로운 눈을 갖는 데 있다.'),
     ('Not until we are lost do we begin to understand ourselves.', 'ko',
-     '길을 잃고 나서야 비로소 우리는 자신을 이해하기 시작한다.');
+     '길을 잃고 나서야 비로소 우리는 자신을 이해하기 시작한다.'),
+    ('Things do not change; we change.', 'ko',
+     '사물은 변하지 않는다. 우리가 변한다.');
