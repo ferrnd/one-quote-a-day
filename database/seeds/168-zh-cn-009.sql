@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('While there''s life, there''s hope.', 'zh-CN',
      '只要有生命，就有希望。'),
     ('There is some good in this world, and it''s worth fighting for.', 'zh-CN',
-     '这个世界上还有美好的东西，值得为之奋斗。');
+     '这个世界上还有美好的东西，值得为之奋斗。'),
+    ('Hope is a good thing, maybe the best of things, and no good thing ever dies.', 'zh-CN',
+     '希望是美好的，也许是世间最美好的东西，而美好的东西永远不会消逝。');
