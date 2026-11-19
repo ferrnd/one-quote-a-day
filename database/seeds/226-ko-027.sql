@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.', 'ko',
      '지구는 인류의 요람이지만, 인류가 영원히 요람에 머물 수는 없다.'),
     ('Exploration is really the essence of the human spirit.', 'ko',
-     '탐험이야말로 인간 정신의 본질이다.');
+     '탐험이야말로 인간 정신의 본질이다.'),
+    ('Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.', 'ko',
+     '이기는 군대는 먼저 이겨 놓고 싸움을 구하고, 지는 군대는 먼저 싸우고 나서 승리를 구한다.');
