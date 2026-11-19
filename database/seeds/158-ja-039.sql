@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Dream no small dreams for they have no power to move the hearts of men.', 'ja',
      '小さな夢を見るな。小さな夢には人の心を動かす力がないのだから。'),
     ('A man is not old until regrets take the place of dreams.', 'ja',
-     '後悔が夢に取って代わるまで、人は老いない。');
+     '後悔が夢に取って代わるまで、人は老いない。'),
+    ('In dreams begins responsibility.', 'ja',
+     '夢の中から、責任は始まる。');
