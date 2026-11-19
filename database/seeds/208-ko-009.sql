@@ -38,4 +38,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Hope is a good thing, maybe the best of things, and no good thing ever dies.', 'ko',
      '희망은 좋은 것이다. 어쩌면 가장 좋은 것일지도 모른다. 그리고 좋은 것은 결코 죽지 않는다.'),
     ('The darkest hour has only sixty minutes.', 'ko',
-     '가장 어두운 시간도 60분뿐이다.');
+     '가장 어두운 시간도 60분뿐이다.'),
+    ('Never lose hope. Storms make people stronger and never last forever.', 'ko',
+     '희망을 잃지 마라. 폭풍은 사람을 더 강하게 만들고, 영원히 계속되지 않는다.');
