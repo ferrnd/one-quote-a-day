@@ -26,4 +26,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Victory is sweetest when you''ve known defeat.', 'ko',
      '패배를 알아 본 사람에게 승리는 가장 달콤하다.'),
     ('It is a mistake to look too far ahead. Only one link of the chain of destiny can be handled at a time.', 'ko',
-     '너무 멀리 내다보는 것은 실수다. 운명의 사슬은 한 번에 한 고리씩만 다룰 수 있다.');
+     '너무 멀리 내다보는 것은 실수다. 운명의 사슬은 한 번에 한 고리씩만 다룰 수 있다.'),
+    ('Don''t spend time beating on a wall, hoping to transform it into a door.', 'ko',
+     '벽이 문으로 바뀌기를 바라며 벽을 두드리는 데 시간을 쓰지 마라.');
