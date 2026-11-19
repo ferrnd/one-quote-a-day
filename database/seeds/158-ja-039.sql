@@ -28,4 +28,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Ambition is enthusiasm with a purpose.', 'ja',
      '大志とは、目的を持った情熱である。'),
     ('Dreams are illustrations from the book your soul is writing about you.', 'ja',
-     '夢とは、あなたの魂があなたについて書いている本の挿絵である。');
+     '夢とは、あなたの魂があなたについて書いている本の挿絵である。'),
+    ('Dream no small dreams for they have no power to move the hearts of men.', 'ja',
+     '小さな夢を見るな。小さな夢には人の心を動かす力がないのだから。');
