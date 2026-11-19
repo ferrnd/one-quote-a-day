@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You have power over your mind, not outside events. Realize this, and you will find strength.', 'zh-CN',
      '你能掌控的是你的心灵，而不是外界的事件。认识到这一点，你就会找到力量。'),
     ('The impediment to action advances action. What stands in the way becomes the way.', 'zh-CN',
-     '行动的阻碍推动着行动，挡在路上的东西会变成路。');
+     '行动的阻碍推动着行动，挡在路上的东西会变成路。'),
+    ('If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.', 'zh-CN',
+     '如果你因外物而苦恼，那痛苦并非来自事物本身，而是来自你对它的判断，而这种判断你随时都有能力撤销。');
