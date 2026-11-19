@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('It''s not what you look at that matters, it''s what you see.', 'ja',
      '大切なのは何を見るかではなく、何が見えるかだ。'),
     ('I am not a product of my circumstances. I am a product of my decisions.', 'ja',
-     '私は境遇の産物ではない。私は自分の決断の産物である。');
+     '私は境遇の産物ではない。私は自分の決断の産物である。'),
+    ('Confidence comes not from always being right but from not fearing to be wrong.', 'ja',
+     '自信は、いつも正しくあることからではなく、間違うことを恐れないことから生まれる。');
