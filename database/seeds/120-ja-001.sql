@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Many of life''s failures are people who did not realize how close they were to success when they gave up.', 'ja',
      '人生に失敗した人の多くは、あきらめたとき、成功にどれほど近づいていたかに気づかなかった人たちだ。'),
     ('I am a slow walker, but I never walk back.', 'ja',
-     '私は歩くのは遅いが、決して後戻りはしない。');
+     '私は歩くのは遅いが、決して後戻りはしない。'),
+    ('Great works are performed not by strength but by perseverance.', 'ja',
+     '偉大な仕事は力によってではなく、忍耐によって成し遂げられる。');
