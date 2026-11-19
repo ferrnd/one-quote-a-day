@@ -20,4 +20,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I am a slow walker, but I never walk back.', 'zh-CN',
      '我走得很慢，但我从不后退。'),
     ('Great works are performed not by strength but by perseverance.', 'zh-CN',
-     '伟大的事业不是靠力气完成的，而是靠毅力。');
+     '伟大的事业不是靠力气完成的，而是靠毅力。'),
+    ('Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.', 'zh-CN',
+     '耐心与毅力有一种神奇的力量，在它面前，困难消散，障碍无踪。');
