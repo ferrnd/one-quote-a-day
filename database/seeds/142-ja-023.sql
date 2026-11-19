@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You must do the things you think you cannot do.', 'ja',
      '自分にはできないと思うことを、やらなければならない。'),
     ('Clear thinking requires courage rather than intelligence.', 'ja',
-     '明晰に考えるには、知性よりも勇気が必要だ。');
+     '明晰に考えるには、知性よりも勇気が必要だ。'),
+    ('It''s not the load that breaks you down, it''s the way you carry it.', 'ja',
+     '人を押しつぶすのは荷物の重さではなく、その運び方だ。');
