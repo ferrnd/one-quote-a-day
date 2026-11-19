@@ -16,4 +16,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Rest at the end, not in the middle.', 'ko',
      '쉬는 것은 끝에서 하라. 중간에서가 아니라.'),
     ('There are no shortcuts to any place worth going.', 'ko',
-     '가 볼 가치가 있는 곳으로 가는 지름길은 없다.');
+     '가 볼 가치가 있는 곳으로 가는 지름길은 없다.'),
+    ('The only place where success comes before work is in the dictionary.', 'ko',
+     '성공이 노력보다 먼저 오는 곳은 사전뿐이다.');
