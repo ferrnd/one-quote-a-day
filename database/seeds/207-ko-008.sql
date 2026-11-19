@@ -24,4 +24,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Man never made any material as resilient as the human spirit.', 'ko',
      '인간은 인간의 정신만큼 회복력 있는 재료를 만들어 낸 적이 없다.'),
     ('Grief and resilience live together.', 'ko',
-     '슬픔과 회복력은 함께 산다.');
+     '슬픔과 회복력은 함께 산다.'),
+    ('It''s not whether you get knocked down; it''s whether you get up.', 'ko',
+     '중요한 것은 쓰러지느냐가 아니라 다시 일어서느냐다.');
