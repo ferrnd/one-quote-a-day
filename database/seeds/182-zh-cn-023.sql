@@ -40,4 +40,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The worst enemy to creativity is self-doubt.', 'zh-CN',
      '创造力最大的敌人是自我怀疑。'),
     ('I dwell in possibility.', 'zh-CN',
-     '我栖居于可能之中。');
+     '我栖居于可能之中。'),
+    ('It is our choices that show what we truly are, far more than our abilities.', 'zh-CN',
+     '决定我们真正是什么样的人的，是我们的选择，远远超过我们的能力。');
