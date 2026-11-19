@@ -18,4 +18,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Make each day your masterpiece.', 'ja',
      '一日一日を、自分の傑作にしなさい。'),
     ('Be quick, but don''t hurry.', 'ja',
-     '素早くあれ。だが、焦るな。');
+     '素早くあれ。だが、焦るな。'),
+    ('Be not afraid of growing slowly, be afraid only of standing still.', 'ja',
+     'ゆっくり成長することを恐れるな。立ち止まることだけを恐れよ。');
