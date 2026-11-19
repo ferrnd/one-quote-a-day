@@ -36,4 +36,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('The best way to cheer yourself up is to try to cheer somebody else up.', 'ko',
      '자신을 기운 나게 하는 가장 좋은 방법은 다른 누군가를 기운 나게 해 주려고 애쓰는 것이다.'),
     ('When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.', 'ko',
-     '해가 빛나면 나는 무엇이든 할 수 있다. 너무 높은 산도, 극복하기 너무 힘든 어려움도 없다.');
+     '해가 빛나면 나는 무엇이든 할 수 있다. 너무 높은 산도, 극복하기 너무 힘든 어려움도 없다.'),
+    ('Never doubt that a small group of thoughtful, committed citizens can change the world.', 'ko',
+     '사려 깊고 헌신적인 소수의 시민이 세상을 바꿀 수 있다는 것을 결코 의심하지 마라.');
