@@ -14,4 +14,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('You are what you believe yourself to be.', 'ja',
      'あなたは、自分がそうだと信じているとおりの人間である。'),
     ('Believe and act as if it were impossible to fail.', 'ja',
-     '失敗することなどありえないかのように信じ、行動せよ。');
+     '失敗することなどありえないかのように信じ、行動せよ。'),
+    ('The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.', 'ja',
+     '心はそれ自体が一つの世界であり、その中で地獄を天国に、天国を地獄に変えることができる。');
