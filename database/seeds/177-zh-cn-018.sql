@@ -12,4 +12,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('There is no education like adversity.', 'zh-CN',
      '没有什么教育比得上逆境。'),
     ('Those things that hurt, instruct.', 'zh-CN',
-     '伤人的事物，也教育人。');
+     '伤人的事物，也教育人。'),
+    ('Adversity is like a strong wind. It tears away from us all but the things that cannot be torn, so that we see ourselves as we really are.', 'zh-CN',
+     '逆境就像一阵狂风，它把一切能撕走的都从我们身上撕走，只留下撕不走的，让我们看清自己真正的样子。');
