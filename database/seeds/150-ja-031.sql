@@ -42,4 +42,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Persist and persevere, and you will find most things that are attainable, possible.', 'ja',
      '粘り強く、根気よく続ければ、手の届くものの多くは実現可能だとわかるだろう。'),
     ('Most people give up just when they''re about to achieve success. They quit on the one yard line.', 'ja',
-     'ほとんどの人は、まさに成功しようというところであきらめてしまう。ゴールまであと1ヤードのところでやめてしまうのだ。');
+     'ほとんどの人は、まさに成功しようというところであきらめてしまう。ゴールまであと1ヤードのところでやめてしまうのだ。'),
+    ('If you are going to doubt something, doubt your limits.', 'ja',
+     '何かを疑うなら、自分の限界を疑え。');
