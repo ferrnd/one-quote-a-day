@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Patience and fortitude conquer all things.', 'ko',
      '인내와 불굴의 의지는 모든 것을 이겨 낸다.'),
     ('Have patience. All things are difficult before they become easy.', 'ko',
-     '인내하라. 모든 일은 쉬워지기 전에는 어렵다.');
+     '인내하라. 모든 일은 쉬워지기 전에는 어렵다.'),
+    ('Patience is a conquering virtue.', 'ko',
+     '인내는 승리를 가져오는 덕목이다.');
