@@ -46,4 +46,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Knowing is not enough; we must apply. Willing is not enough; we must do.', 'ko',
      '아는 것만으로는 부족하다. 적용해야 한다. 원하는 것만으로는 부족하다. 행해야 한다.'),
     ('Action may not always bring happiness; but there is no happiness without action.', 'ko',
-     '행동이 언제나 행복을 가져다주는 것은 아니지만, 행동 없는 행복은 없다.');
+     '행동이 언제나 행복을 가져다주는 것은 아니지만, 행동 없는 행복은 없다.'),
+    ('Thinking will not overcome fear but action will.', 'ko',
+     '생각은 두려움을 이기지 못하지만, 행동은 이긴다.');
