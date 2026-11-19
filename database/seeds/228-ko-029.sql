@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('People with goals succeed because they know where they''re going.', 'ko',
      '목표가 있는 사람이 성공하는 것은 자신이 어디로 가는지 알기 때문이다.'),
     ('What you seek is seeking you.', 'ko',
-     '당신이 찾는 것도 당신을 찾고 있다.');
+     '당신이 찾는 것도 당신을 찾고 있다.'),
+    ('Don''t grieve. Anything you lose comes round in another form.', 'ko',
+     '슬퍼하지 마라. 잃어버린 것은 무엇이든 다른 모습으로 돌아온다.');
