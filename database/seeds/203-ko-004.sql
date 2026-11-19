@@ -32,4 +32,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Courage starts with showing up and letting ourselves be seen.', 'ko',
      '용기는 그 자리에 나서서 있는 그대로의 나를 보여 주는 데서 시작된다.'),
     ('Don''t be afraid to give up the good to go for the great.', 'ko',
-     '위대한 것을 향해 가기 위해 좋은 것을 포기하는 것을 두려워하지 마라.');
+     '위대한 것을 향해 가기 위해 좋은 것을 포기하는 것을 두려워하지 마라.'),
+    ('To dare is to lose one''s footing momentarily. Not to dare is to lose oneself.', 'ko',
+     '감히 도전하는 것은 잠시 발판을 잃는 것이다. 도전하지 않는 것은 자기 자신을 잃는 것이다.');
