@@ -22,4 +22,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('I''ve failed over and over and over again in my life. And that is why I succeed.', 'zh-CN',
      '我一生中失败了一次又一次，这正是我成功的原因。'),
     ('Only those who dare to fail greatly can ever achieve greatly.', 'zh-CN',
-     '只有敢于经历巨大失败的人，才能取得巨大的成就。');
+     '只有敢于经历巨大失败的人，才能取得巨大的成就。'),
+    ('Failure is the condiment that gives success its flavor.', 'zh-CN',
+     '失败是让成功更有滋味的调料。');
