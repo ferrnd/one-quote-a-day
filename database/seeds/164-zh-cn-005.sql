@@ -34,4 +34,6 @@ INSERT INTO translation_intake (original, locale, body) VALUES
     ('Failure should be our teacher, not our undertaker.', 'zh-CN',
      '失败应该是我们的老师，而不是我们的送葬人。'),
     ('There is only one thing that makes a dream impossible to achieve: the fear of failure.', 'zh-CN',
-     '只有一样东西会让梦想无法实现，那就是对失败的恐惧。');
+     '只有一样东西会让梦想无法实现，那就是对失败的恐惧。'),
+    ('Failure is not the opposite of success; it''s part of success.', 'zh-CN',
+     '失败不是成功的反面，而是成功的一部分。');
